@@ -179,12 +179,87 @@ def wallonie():
     print(f"[wallonie] {len(res)} entrées")
 
 
+def bda_probe():
+    """Jeton anonyme, pagination, filtres et structure complète d'un avis du Bulletin des Adjudications."""
+    base = "https://www.publicprocurement.be"
+    out = {}
+    with httpx.Client(timeout=60, headers={"User-Agent": "Mozilla/5.0 (compatible; RadarData/1.0)"}) as c:
+        tok = None
+        for label, kw in (("basic_vide", {"auth": ("frontend-public", "")}),
+                          ("client_id_corps", {"extra": {"client_id": "frontend-public"}})):
+            data = {"grant_type": "client_credentials", "scope": "openid", **kw.get("extra", {})}
+            r = c.post(f"{base}/auth/realms/supplier/protocol/openid-connect/token", data=data, auth=kw.get("auth"))
+            out[f"token_{label}"] = {"status": r.status_code, "keys": list(r.json()) if "json" in r.headers.get("content-type", "") else r.text[:200]}
+            if r.status_code == 200 and not tok:
+                tok = r.json().get("access_token"); out["token_ok"] = label
+                out["token_expires_in"] = r.json().get("expires_in")
+        if not tok:
+            dump("bda_probe.json", out); return
+        h = {"Authorization": f"Bearer {tok}", "Content-Type": "application/json"}
+        r = c.post(f"{base}/api/sea/search/publications", headers=h, json={"includeOrganisationChildren": True, "page": 1, "pageSize": 100})
+        j = r.json()
+        out["page1"] = {"status": r.status_code, "top_keys": [k for k in j if k != "publications"],
+                        "top": {k: v for k, v in j.items() if k != "publications"}, "n": len(j.get("publications", [])),
+                        "dates": [p.get("publicationDate") or p.get("dispatchDate") for p in j.get("publications", [])][:100],
+                        "types": sorted({f"{p.get('publicationType')}|{p.get('noticeSubType')}" for p in j.get("publications", [])})}
+        out["sample_full"] = j.get("publications", [])[:2]
+        award = [p for p in j.get("publications", []) if "AWARD" in str(p.get("publicationType", "")).upper() or "RESULT" in str(p.get("publicationType", "")).upper()]
+        out["sample_award"] = award[:1]
+        r2 = c.post(f"{base}/api/sea/search/publications", headers=h, json={"includeOrganisationChildren": True, "page": 2, "pageSize": 100})
+        out["page2"] = {"status": r2.status_code, "n": len(r2.json().get("publications", [])) if r2.status_code == 200 else r2.text[:300]}
+        for name, extra in (("cpv", {"cpvCodes": ["45000000-7"]}), ("date", {"publicationDateFrom": "2026-10-01"}),
+                            ("nuts", {"nutsCodes": ["BE33"]})):
+            rr = c.post(f"{base}/api/sea/search/publications", headers=h, json={"includeOrganisationChildren": True, "page": 1, "pageSize": 5, **extra})
+            out[f"filter_{name}"] = {"status": rr.status_code, "body": rr.text[:300] if rr.status_code != 200 else
+                                     {k: v for k, v in rr.json().items() if k != "publications"}}
+        for u in (f"{base}/robots.txt", "https://bosa.belgium.be/fr/conditions-dutilisation-pour-la-plateforme-e-procurement"):
+            try:
+                rr = c.get(u, follow_redirects=True)
+                txt = re.sub(r"<[^>]+>", " ", rr.text); txt = re.sub(r"\s+", " ", txt)
+                out[u] = {"status": rr.status_code, "text": txt[:15000]}
+            except Exception as e:
+                out[u] = {"error": str(e)}
+    dump("bda_probe.json", out)
+    print("[bda] sonde terminée")
+
+
+async def bda_detail_url():
+    from playwright.async_api import async_playwright
+    res = {}
+    async with async_playwright() as p:
+        br = await p.chromium.launch()
+        page = await br.new_page(locale="fr-BE")
+        await page.goto("https://www.publicprocurement.be/bda", wait_until="networkidle", timeout=90000)
+        await page.wait_for_timeout(5000)
+        cands = await page.eval_on_selector_all("a", "els => els.map(a => [a.innerText.trim().slice(0,100), a.href]).filter(x => /bda|publication|notice/i.test(x[1]))")
+        res["anchors"] = cands[:40]
+        try:
+            el = page.locator("mat-card, .publication, [class*=result] a, [class*=card]").first
+            await el.click(timeout=15000)
+            await page.wait_for_timeout(5000)
+            res["after_click_url"] = page.url
+            await page.screenshot(path=str(OUT / "bda_detail.png"), full_page=True)
+        except Exception as e:
+            res["click_error"] = str(e)
+        await br.close()
+    dump("bda_detail.json", res)
+
+
 async def round2():
     await capture(["https://www.publicprocurement.be/bda"], "bda", follow=r"$^")
     await capture(["https://pmp.b2g.etat.lu/entreprise"], "pmp", follow=r"consultation|avis|recherche|search|appel")
 
 
 if __name__ == "__main__":
+    try:
+        bda_probe()
+    except Exception as e:
+        print(f"::warning::bda_probe : {e}")
+    try:
+        asyncio.run(bda_detail_url())
+    except Exception as e:
+        print(f"::warning::bda_detail : {e}")
+    raise SystemExit(0)
     try:
         wallonie_recent()
     except Exception as e:
