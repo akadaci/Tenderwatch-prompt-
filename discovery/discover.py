@@ -223,6 +223,63 @@ def bda_probe():
     print("[bda] sonde terminée")
 
 
+async def browser_token():
+    """Le navigateur obtient lui-même le jeton anonyme (comme un visiteur) ; il n'est jamais enregistré."""
+    from playwright.async_api import async_playwright
+    box = {}
+    async with async_playwright() as p:
+        br = await p.chromium.launch()
+        page = await br.new_page()
+        async def on_resp(r):
+            if "openid-connect/token" in r.url and r.status == 200:
+                try:
+                    box["token"] = (await r.json()).get("access_token")
+                except Exception:
+                    pass
+        page.on("response", on_resp)
+        await page.goto("https://www.publicprocurement.be/bda", wait_until="networkidle", timeout=90000)
+        await page.wait_for_timeout(3000)
+        await br.close()
+    return box.get("token")
+
+
+def bda_probe2():
+    base = "https://www.publicprocurement.be"
+    out = {}
+    with httpx.Client(timeout=60, headers={"User-Agent": "Mozilla/5.0 (compatible; RadarData/1.0)"}, follow_redirects=True) as c:
+        for u in (f"{base}/robots.txt", "https://bosa.belgium.be/fr/conditions-dutilisation-pour-la-plateforme-e-procurement"):
+            try:
+                rr = c.get(u)
+                txt = re.sub(r"<script.*?</script>|<style.*?</style>", " ", rr.text, flags=re.S)
+                txt = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", txt))
+                out[u] = {"status": rr.status_code, "text": txt[:20000]}
+            except Exception as e:
+                out[u] = {"error": str(e)}
+        tok = asyncio.run(browser_token())
+        out["token_from_browser"] = bool(tok)
+        if tok:
+            h = {"Authorization": f"Bearer {tok}", "Content-Type": "application/json"}
+            url = f"{base}/api/sea/search/publications"
+            j = c.post(url, headers=h, json={"includeOrganisationChildren": True, "page": 1, "pageSize": 100}).json()
+            pubs = j.get("publications", [])
+            out["page1"] = {"top": {k: v for k, v in j.items() if k != "publications"}, "n": len(pubs),
+                            "dates": [x.get("publicationDate") for x in pubs],
+                            "types": sorted({f"{x.get('publicationType')}|{x.get('noticeSubType')}|{x.get('natures')}" for x in pubs})}
+            out["samples"] = pubs[:3]
+            out["sample_award"] = [x for x in pubs if "ward" in json.dumps(x.get("publicationType")) or "ttribution" in json.dumps(x)][:1]
+            out["page5"] = {"dates": [x.get("publicationDate") for x in c.post(url, headers=h, json={"includeOrganisationChildren": True, "page": 5, "pageSize": 100}).json().get("publications", [])][:3]}
+            for name, extra in (("cpv", {"cpvCodes": ["45000000-7"]}), ("cpvMain", {"cpvMainCodes": ["45000000"]}),
+                                ("dateFrom", {"publicationDateFrom": "2026-10-01"}), ("nuts", {"nutsCodes": ["BE33"]}),
+                                ("sort", {"sortBy": "publicationDate", "sortOrder": "DESC"})):
+                rr = c.post(url, headers=h, json={"includeOrganisationChildren": True, "page": 1, "pageSize": 5, **extra})
+                body = rr.json() if "json" in rr.headers.get("content-type", "") else rr.text[:300]
+                out[f"filter_{name}"] = {"status": rr.status_code,
+                                         "info": {k: v for k, v in body.items() if k != "publications"} if isinstance(body, dict) else body,
+                                         "first_dates_cpv": [(x.get("publicationDate"), (x.get("cpvMainCode") or {}).get("code"), x.get("nutsCodes")) for x in (body.get("publications", []) if isinstance(body, dict) else [])]}
+    dump("bda_probe2.json", out)
+    print("[bda] sonde 2 terminée, jeton :", out.get("token_from_browser"))
+
+
 async def bda_detail_url():
     from playwright.async_api import async_playwright
     res = {}
@@ -251,6 +308,11 @@ async def round2():
 
 
 if __name__ == "__main__":
+    try:
+        bda_probe2()
+    except Exception as e:
+        print(f"::warning::bda_probe2 : {type(e).__name__}: {e}")
+    raise SystemExit(0)
     try:
         bda_probe()
     except Exception as e:
