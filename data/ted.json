@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T23:37:28Z",
+ "updated": "2026-10-07T23:38:51Z",
  "source": "TED API v3",
  "fields": [
   "publication-number",
@@ -19,9 +19,9 @@
   "place-of-performance",
   "organisation-city-buyer"
  ],
- "days_back": 3,
- "received": 399,
- "kept": 118,
+ "days_back": 14,
+ "received": 1330,
+ "kept": 376,
  "count": 376,
  "new_ids": [],
  "records": [
