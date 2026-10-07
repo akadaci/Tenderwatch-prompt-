@@ -1,0 +1,16 @@
+{
+ "token_basic_vide": {
+  "status": 401,
+  "keys": [
+   "error",
+   "error_description"
+  ]
+ },
+ "token_client_id_corps": {
+  "status": 401,
+  "keys": [
+   "error",
+   "error_description"
+  ]
+ }
+}
