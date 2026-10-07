@@ -1,13 +1,16 @@
 # Radar Data — collecte automatique pour Radar Chantiers
 
-Collecte gratuite, sans serveur, sur GitHub Actions (toutes les 6 h) :
+Collecte gratuite sur GitHub Actions, toutes les 6 h. Chaque fiche contient le lien vers sa source officielle.
 
-| Source | Contenu | Étape Radar |
+| Source | Contenu | Fichier |
 |---|---|---|
-| TED (API officielle UE) | Avis Belgique + Grand-Duché, travaux (CPV 45), matériaux (44), études (71) | 1, 2, 4, 5 |
-| urban.brussels NOVA | Gros projets de permis d'urbanisme à Bruxelles | 1 |
+| TED (API officielle UE) | Avis européens Belgique + Grand-Duché : travaux (CPV 45), matériaux (44), études (71) | `data/ted.json` |
+| Bulletin des Adjudications (e-Procurement, SPF BOSA) | Tous les avis belges, y compris sous les seuils européens | `data/bda.json` |
+| urban.brussels NOVA | Gros projets de permis d'urbanisme à Bruxelles | `data/permis_bruxelles.json` |
 
-Résultats : `data/ted.json`, `data/permis_bruxelles.json` — chaque fiche contient sa source officielle.
-Relancer à la main : onglet **Actions** → **Collecte** → **Run workflow**.
+Étapes Radar : 1 projet repéré (préinformation, étude lancée, permis) · 2 bureau d'études connu (mission d'étude attribuée) · 4 publié · 5 attribué.
+Types d'avis BDA selon la table officielle eForms : https://docs.ted.europa.eu/eforms/1.13/schema/documents-forms-and-notices.html
 
-`discovery/` : recherche des flux e-Procurement (Belgique), RSS du portail luxembourgeois et lotissements wallons.
+État de la dernière collecte : `data/_etat.json`. Relancer à la main : onglet **Actions** → **Collecte** → **Run workflow**.
+
+Non couvert : permis wallons et luxembourgeois (pas de données ouvertes exploitables), portail luxembourgeois des marchés (connexion obligatoire), lotissements wallons (données en retard : 1 décision depuis juillet 2026).
