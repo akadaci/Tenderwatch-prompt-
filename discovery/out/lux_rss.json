@@ -1,0 +1,17 @@
+{
+ "https://marches.public.lu/fr.html": {
+  "status": 200,
+  "final_url": "https://marches.public.lu/fr.html",
+  "feeds": []
+ },
+ "https://pmp.b2g.etat.lu/": {
+  "status": 200,
+  "final_url": "https://pmp.b2g.etat.lu/entreprise",
+  "feeds": []
+ },
+ "https://marches.public.lu/fr/support/rss.html": {
+  "status": 404,
+  "final_url": "https://marches.public.lu/fr/support/rss.html",
+  "feeds": []
+ }
+}

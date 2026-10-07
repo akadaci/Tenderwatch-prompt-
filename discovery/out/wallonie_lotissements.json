@@ -1,0 +1,120 @@
+{
+ "service": {
+  "layers": [
+   {
+    "id": 0,
+    "name": "Lotissements",
+    "parentLayerId": -1,
+    "defaultVisibility": true,
+    "subLayerIds": null,
+    "minScale": 0,
+    "maxScale": 0,
+    "type": "Feature Layer",
+    "geometryType": "esriGeometryPolygon",
+    "supportsDynamicLegends": true
+   }
+  ],
+  "error": null
+ },
+ "0": {
+  "name": "Lotissements",
+  "fields": [
+   [
+    "OBJECTID",
+    "esriFieldTypeOID"
+   ],
+   [
+    "CODEUNIQUE",
+    "esriFieldTypeString"
+   ],
+   [
+    "CODE_ADMIN",
+    "esriFieldTypeString"
+   ],
+   [
+    "TYPE_DE_DECISION",
+    "esriFieldTypeString"
+   ],
+   [
+    "DATE_DE_DECISION",
+    "esriFieldTypeDate"
+   ],
+   [
+    "TYPE_DE_PEREMPTION",
+    "esriFieldTypeString"
+   ],
+   [
+    "DATE_DE_PEREMPTION",
+    "esriFieldTypeDate"
+   ],
+   [
+    "LIENDOC",
+    "esriFieldTypeString"
+   ],
+   [
+    "STATUT",
+    "esriFieldTypeString"
+   ],
+   [
+    "DATE_STATUT",
+    "esriFieldTypeDate"
+   ],
+   [
+    "TIMESTAMP",
+    "esriFieldTypeDate"
+   ],
+   [
+    "GEOM",
+    "esriFieldTypeGeometry"
+   ]
+  ],
+  "sample": [
+   {
+    "attributes": {
+     "OBJECTID": 1,
+     "CODEUNIQUE": "52025-LTS-0308-00",
+     "CODE_ADMIN": "F0411/52025/LAP3/2009.2",
+     "TYPE_DE_DECISION": "PERMIS",
+     "DATE_DE_DECISION": 1248220800000,
+     "TYPE_DE_PEREMPTION": null,
+     "DATE_DE_PEREMPTION": null,
+     "LIENDOC": "https://territoire.wallonie.be/fr/liendoc/LOT/52025-LTS-0308-00",
+     "STATUT": "PERMIS",
+     "DATE_STATUT": 1248220800000,
+     "TIMESTAMP": 1788307200000
+    }
+   },
+   {
+    "attributes": {
+     "OBJECTID": 2,
+     "CODEUNIQUE": "56005-LTS-0145-00",
+     "CODE_ADMIN": "F0411/56005/LAP3/2008.4",
+     "TYPE_DE_DECISION": "PERMIS",
+     "DATE_DE_DECISION": 1238976000000,
+     "TYPE_DE_PEREMPTION": null,
+     "DATE_DE_PEREMPTION": null,
+     "LIENDOC": "https://territoire.wallonie.be/fr/liendoc/LOT/56005-LTS-0145-00",
+     "STATUT": "PERMIS",
+     "DATE_STATUT": 1238976000000,
+     "TIMESTAMP": 1788307200000
+    }
+   },
+   {
+    "attributes": {
+     "OBJECTID": 3,
+     "CODEUNIQUE": "52074-LTS-0149-00",
+     "CODE_ADMIN": "F0411/52074/LAP3/2009.1",
+     "TYPE_DE_DECISION": "PERMIS",
+     "DATE_DE_DECISION": 1286755200000,
+     "TYPE_DE_PEREMPTION": null,
+     "DATE_DE_PEREMPTION": null,
+     "LIENDOC": "https://territoire.wallonie.be/fr/liendoc/LOT/52074-LTS-0149-00",
+     "STATUT": "PERMIS",
+     "DATE_STATUT": 1286755200000,
+     "TIMESTAMP": 1788307200000
+    }
+   }
+  ],
+  "error": null
+ }
+}
