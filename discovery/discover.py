@@ -244,8 +244,18 @@ async def browser_token():
 
 
 def bda_probe2():
-    base = "https://www.publicprocurement.be"
     out = {}
+    try:
+        _bda_probe2(out)
+    except Exception as e:
+        import traceback
+        out["exception"] = traceback.format_exc()[-3000:]
+    dump("bda_probe2.json", out)
+    print("[bda] sonde 2 :", "erreur" if "exception" in out else "ok")
+
+
+def _bda_probe2(out):
+    base = "https://www.publicprocurement.be"
     with httpx.Client(timeout=60, headers={"User-Agent": "Mozilla/5.0 (compatible; RadarData/1.0)"}, follow_redirects=True) as c:
         for u in (f"{base}/robots.txt", "https://bosa.belgium.be/fr/conditions-dutilisation-pour-la-plateforme-e-procurement"):
             try:
@@ -276,8 +286,6 @@ def bda_probe2():
                 out[f"filter_{name}"] = {"status": rr.status_code,
                                          "info": {k: v for k, v in body.items() if k != "publications"} if isinstance(body, dict) else body,
                                          "first_dates_cpv": [(x.get("publicationDate"), (x.get("cpvMainCode") or {}).get("code"), x.get("nutsCodes")) for x in (body.get("publications", []) if isinstance(body, dict) else [])]}
-    dump("bda_probe2.json", out)
-    print("[bda] sonde 2 terminée, jeton :", out.get("token_from_browser"))
 
 
 async def bda_detail_url():
