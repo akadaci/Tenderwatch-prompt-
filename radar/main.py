@@ -1,10 +1,10 @@
 """Lance toutes les collectes. Une source en panne n'empêche pas les autres ; le code de sortie le signale."""
 import sys, traceback
-from radar import ted, nova
+from radar import ted, nova, bda
 
 def main(days_back=7):
     errors = []
-    for name, mod in (("TED", ted), ("Permis Bruxelles", nova)):
+    for name, mod in (("TED", ted), ("Bulletin des Adjudications", bda), ("Permis Bruxelles", nova)):
         try:
             mod.run(days_back=days_back)
         except Exception as e:
