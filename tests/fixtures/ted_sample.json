@@ -1,0 +1,15 @@
+{"totalNoticeCount": 4, "notices": [
+ {"publication-number": "612345-2026", "notice-title": {"fra": "Belgique – Travaux de rénovation – Pont de Liège"},
+  "buyer-name": {"fra": ["SPW Mobilité"]}, "buyer-country": ["BEL"], "classification-cpv": ["45221000", "45262000"],
+  "publication-date": "2026-09-30+02:00", "deadline-receipt-tender-date-lot": ["2026-10-30+01:00"], "notice-type": "cn-standard",
+  "estimated-value-lot": ["1250000"], "estimated-value-cur-lot": ["EUR"], "organisation-city-buyer": ["Namur"]},
+ {"publication-number": "612999-2026", "notice-title": {"fra": "Rénovation école communale"}, "buyer-name": {"fra": ["Ville de Liège"]},
+  "buyer-country": ["BEL"], "classification-cpv": ["45214200"], "publication-date": "2026-10-01Z", "notice-type": "can-standard",
+  "total-value": ["845000"], "total-value-cur": ["EUR"], "organisation-name-tenderer": {"fra": ["Galère SA"]},
+  "organisation-identifier-tenderer": ["FR40303265045", "BE0202.239.951"]},
+ {"publication-number": "613100-2026", "notice-title": {"fra": "Mission d'auteur de projet – crèche"}, "buyer-name": {"fra": ["Commune d'Ans"]},
+  "buyer-country": ["BEL"], "classification-cpv": ["71200000"], "publication-date": "2026-10-02Z", "notice-type": "can-standard",
+  "organisation-name-tenderer": {"fra": ["Bureau Greisch"]}},
+ {"publication-number": "613200-2026", "notice-title": {"fra": "Fourniture de papier"}, "buyer-country": ["LUX"],
+  "classification-cpv": ["30197600"], "publication-date": "2026-10-02Z", "notice-type": "cn-standard"}
+]}

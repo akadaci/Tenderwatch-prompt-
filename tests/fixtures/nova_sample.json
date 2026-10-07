@@ -1,0 +1,24 @@
+{"type": "FeatureCollection", "numberMatched": 316239, "numberReturned": 4,
+ "features": [
+  {"type": "Feature", "id": "PlanningPermits.fid-1", "geometry": null, "properties": {
+    "caseIdentifier": 2048106, "novaReference": "05/PU/2048106", "uuid": "aaaa-1",
+    "requestReceptionDate": "2026-10-06T16:10:00.686Z", "addressMunicipalityFrenchName": "Etterbeek",
+    "zipCode": 1040, "streetFrenchName": "Rue Test", "streetNumberFrom": "12",
+    "caseSubTypeFrenchName": "Permis d'urbanisme privé", "caseFrenchObject": null, "caseDutchObject": "Verbouwing",
+    "caseStatusFrenchName": "", "managingAuthorityFrenchName": "Etterbeek"}},
+  {"type": "Feature", "id": "PlanningPermits.fid-2", "geometry": null, "properties": {
+    "caseIdentifier": 2048096, "novaReference": "04/PFD/2048096", "uuid": "aaaa-2",
+    "requestReceptionDate": "2026-10-06T15:50:00.693Z", "addressMunicipalityFrenchName": "Bruxelles",
+    "zipCode": 1000, "streetFrenchName": null,
+    "caseSubTypeFrenchName": "Permis d'urbanisme (fonctionnaire délégué)",
+    "caseFrenchObject": "Transformer 'un immeuble de bureaux en un ensemble mixte de logements",
+    "managingAuthorityFrenchName": "Région"}},
+  {"type": "Feature", "id": "PlanningPermits.fid-3", "geometry": null, "properties": {
+    "caseIdentifier": 2048090, "novaReference": "02/PFD/2048090", "uuid": "aaaa-3",
+    "requestReceptionDate": "2026-10-06T15:30:00.715Z", "addressMunicipalityFrenchName": "Auderghem",
+    "caseFrenchObject": "Mettre  en têtard de trois saules"}},
+  {"type": "Feature", "id": "PlanningPermits.fid-4", "geometry": null, "properties": {
+    "caseIdentifier": 1000001, "novaReference": "01/PU/1000001", "uuid": "aaaa-4",
+    "requestReceptionDate": "2020-01-01T00:00:00Z", "addressMunicipalityFrenchName": "Ixelles",
+    "caseFrenchObject": "Ancien dossier hors période"}}
+]}

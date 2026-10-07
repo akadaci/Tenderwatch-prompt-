@@ -1,0 +1,24 @@
+name: Découverte des sources
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["discovery/discover.py", ".github/workflows/decouverte.yml"]
+permissions:
+  contents: write
+jobs:
+  decouverte:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.11"}
+      - run: pip install httpx==0.28.1 playwright && python -m playwright install --with-deps chromium
+      - run: python discovery/discover.py
+      - name: Enregistrer les résultats
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add discovery/out
+          git diff --cached --quiet || (git commit -m "Découverte des sources $(date -u +%F)" && git pull --rebase && git push)
