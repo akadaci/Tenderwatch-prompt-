@@ -44,12 +44,15 @@ def test_save_merges(tmp_path, monkeypatch):
 
 def test_bda_mapping():
     from radar import bda
-    p = {"publicationWorkspaceId": "abc", "publicationDate": "2026-10-08", "publicationType": "CONTRACT_NOTICE",
+    p = {"publicationWorkspaceId": "abc", "publicationDate": "2026-10-08", "publicationType": "ACTIVE", "noticeSubType": "16",
          "cpvMainCode": {"code": "45262000-1"}, "nutsCodes": ["BE332"],
-         "organisationNames": [{"language": "NL", "text": "Stad Luik"}, {"language": "FR", "text": "Ville de Liège"}],
+         "organisation": {"organisationNames": [{"language": "NL", "text": "Stad Luik"}, {"language": "FR", "text": "Ville de Liège"}]},
          "dossier": {"referenceNumber": "R-1", "titles": [{"language": "FR", "text": "Rénovation  école"}]}}
     f = bda.to_fiche(p)
     assert (f["nom"], f["mo"], f["lieu"], f["etape"]) == ("Rénovation école", "Ville de Liège", "Liège", 4)
     assert f["source"] == "https://www.publicprocurement.be/publication-workspaces/abc"
     assert bda.to_fiche({**p, "cpvMainCode": {"code": "50111100-7"}}) is None
-    assert bda.to_fiche({**p, "publicationType": "CONTRACT_AWARD_NOTICE"})["etape"] == 5
+    assert bda.to_fiche({**p, "noticeSubType": "E4"})["etape"] == 5
+    assert bda.to_fiche({**p, "noticeSubType": "29", "cpvMainCode": {"code": "71200000-0"}})["etape"] == 2
+    assert bda.to_fiche({**p, "noticeSubType": "E2"})["etape"] == 1
+    assert bda.to_fiche({**p, "noticeSubType": "38"}) is None

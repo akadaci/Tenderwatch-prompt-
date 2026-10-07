@@ -10,7 +10,7 @@ from radar.common import clean, today, save, DATA
 BDA = "https://www.publicprocurement.be/bda"
 API = "/api/sea/search/publications"
 PAGE_SIZE = 100
-MAX_PAGES = 15
+MAX_PAGES = 30
 CPV_KEEP = ("45", "44", "71")
 NUTS = {"BE1": "Bruxelles", "BE21": "Anvers", "BE22": "Limbourg", "BE23": "Flandre-Orientale",
         "BE24": "Brabant flamand", "BE25": "Flandre-Occidentale", "BE31": "Brabant wallon", "BE32": "Hainaut",
@@ -53,12 +53,18 @@ def nuts_label(codes):
 
 
 def kind(p):
-    blob = f"{p.get('publicationType')} {p.get('noticeSubType')}".lower()
-    if "award" in blob or "result" in blob or "attribution" in blob or "can" == str(p.get("noticeSubType", "")).lower()[:3]:
-        return "award"
-    if "prior" in blob or "pin" in blob:
+    """Sous-type eForms → nature de l'avis. Table officielle :
+    https://docs.ted.europa.eu/eforms/1.13/schema/documents-forms-and-notices.html"""
+    st = str(p.get("noticeSubType") or "").upper()
+    if st in ("E1", "E2") or (st.isdigit() and 1 <= int(st) <= 9):
         return "prior"
-    return "contract"
+    if st == "E3" or (st.isdigit() and 10 <= int(st) <= 24):
+        return "contract"
+    if st == "E4" or (st.isdigit() and 25 <= int(st) <= 37):
+        return "award"
+    if st in ("E5", "E6") or (st.isdigit() and 38 <= int(st) <= 40):
+        return "other"                      # modification / clôture de contrat : écarté
+    return "unknown"
 
 
 def to_fiche(p):
@@ -66,21 +72,21 @@ def to_fiche(p):
     d = p.get("dossier") or {}
     cpvs = [str((p.get("cpvMainCode") or {}).get("code", ""))] + [str(c.get("code", "")) for c in p.get("cpvAdditionalCodes") or []]
     cpvs = [c[:8] for c in cpvs if c]
-    if not wid or not any(c.startswith(CPV_KEEP) for c in cpvs):
-        return None
     k = kind(p)
+    if not wid or k in ("other", "unknown") or not any(c.startswith(CPV_KEEP) for c in cpvs):
+        return None
     etude = all(c.startswith("71") for c in cpvs if c.startswith(CPV_KEEP))
     etape = 1 if k == "prior" else (2 if k == "award" and etude else 5 if k == "award" else 1 if etude else 4)
     pub_date = str(p.get("publicationDate") or p.get("dispatchDate") or "")[:10]
     ref = d.get("referenceNumber") or d.get("number") or ""
     ted = p.get("publicationReferenceNumbersTED") or []
-    org = txt(p.get("organisationNames") or p.get("organisation") or "")
+    org = txt((p.get("organisation") or {}).get("organisationNames") or p.get("organisationNames") or "")
     return {
         "id": f"bda-{wid}", "source_type": "BDA", "nom": clean(txt(d.get("titles")), 200),
         "lieu": nuts_label(p.get("nutsCodes")), "mo": clean(org, 150), "etape": etape,
         "source": f"https://www.publicprocurement.be/publication-workspaces/{wid}",
         "verif": "vérifié", "verif_date": today(),
-        "preuve": f"Bulletin des Adjudications, réf. {ref or '?'} ({p.get('publicationType') or k}), publié le {pub_date}.",
+        "preuve": f"Bulletin des Adjudications, réf. {ref or '?'} ({ {'prior': 'préinformation', 'contract': 'avis de marché', 'award': 'attribution'}[k]}, sous-type eForms {p.get('noticeSubType')}), publié le {pub_date}.",
         "date_publication": pub_date, "cpv": ",".join(dict.fromkeys(cpvs)),
         "ted_ref": ",".join(str(x) for x in ted) if ted else "",
         "notes": clean(txt(d.get("descriptions")), 300),
