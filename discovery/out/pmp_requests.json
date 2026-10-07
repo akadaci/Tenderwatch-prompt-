@@ -1,0 +1,7 @@
+{
+ "visited": [
+  "https://pmp.b2g.etat.lu/entreprise",
+  "https://login.b2g.etat.lu/login/TAMLoginServlet?TAM_OP=login&USERNAME=unauthenticated&ERROR_CODE=0x00000000&ERROR_TEXT=HPDBA0521I%20%20%20Successful%20completion&METHOD=GET&URL=%2F%3Fpage%3DEntreprise.EntrepriseAdvancedSearch%26panierEntreprise&REFERER=&HOSTNAME=pmp.b2g.etat.lu&AUTHNLEVEL=3&FAILREASON=&PROTOCOL=https"
+ ],
+ "requests": []
+}

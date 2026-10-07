@@ -1,0 +1,262 @@
+[
+ [
+  "",
+  "https://pmp.b2g.etat.lu/entreprise"
+ ],
+ [
+  "Aller au menu",
+  "https://pmp.b2g.etat.lu/entreprise#horizonatal-menu"
+ ],
+ [
+  "Aller au contenu",
+  "https://pmp.b2g.etat.lu/entreprise#middle"
+ ],
+ [
+  "Se connecter",
+  "https://pmp.b2g.etat.lu/entreprise/login"
+ ],
+ [
+  "",
+  ""
+ ],
+ [
+  "",
+  "https://pmp.b2g.etat.lu/entreprise/login"
+ ],
+ [
+  "",
+  "https://pmp.b2g.etat.lu/entreprise"
+ ],
+ [
+  "Mon panier",
+  "https://pmp.b2g.etat.lu/entreprise#"
+ ],
+ [
+  "Tous les marchés",
+  "https://pmp.b2g.etat.lu/?page=Entreprise.EntrepriseAdvancedSearch&panierEntreprise"
+ ],
+ [
+  "Avec",
+  "https://pmp.b2g.etat.lu/?page=Entreprise.EntrepriseAdvancedSearch&panierEntreprise&retraits"
+ ],
+ [
+  "sans retrait",
+  "https://pmp.b2g.etat.lu/?page=Entreprise.EntrepriseAdvancedSearch&panierEntreprise&sansRetraits"
+ ],
+ [
+  "Avec",
+  "https://pmp.b2g.etat.lu/?page=Entreprise.EntrepriseAdvancedSearch&panierEntreprise&questions"
+ ],
+ [
+  "sans question posée",
+  "https://pmp.b2g.etat.lu/?page=Entreprise.EntrepriseAdvancedSearch&panierEntreprise&sansQuestions"
+ ],
+ [
+  "Avec",
+  "https://pmp.b2g.etat.lu/?page=Entreprise.EntrepriseAdvancedSearch&panierEntreprise&depots"
+ ],
+ [
+  "sans dépôt",
+  "https://pmp.b2g.etat.lu/?page=Entreprise.EntrepriseAdvancedSearch&panierEntreprise&sansDepots"
+ ],
+ [
+  "Avec",
+  "https://pmp.b2g.etat.lu/?page=Entreprise.EntrepriseAdvancedSearch&panierEntreprise&echanges"
+ ],
+ [
+  "sans message échangé",
+  "https://pmp.b2g.etat.lu/?page=Entreprise.EntrepriseAdvancedSearch&panierEntreprise&sansEchanges"
+ ],
+ [
+  "Consultations clôturées",
+  "https://pmp.b2g.etat.lu/?page=Entreprise.EntrepriseAdvancedSearch&panierEntreprise&panierEntreprise&dateFinEnd"
+ ],
+ [
+  "Recherche avancée",
+  "https://pmp.b2g.etat.lu/?page=Entreprise.EntrepriseAdvancedSearch&searchAnnCons&panierEntreprise"
+ ],
+ [
+  "Avis",
+  "https://pmp.b2g.etat.lu/entreprise#"
+ ],
+ [
+  "Tous les marchés",
+  "https://pmp.b2g.etat.lu/?page=Entreprise.EntrepriseAdvancedSearch&AllCons"
+ ],
+ [
+  "Recherche avancée",
+  "https://pmp.b2g.etat.lu/?page=Entreprise.EntrepriseAdvancedSearch&searchAnnCons&type=multicriteres"
+ ],
+ [
+  "Recherche d'une procédure restreinte",
+  "https://pmp.b2g.etat.lu/?page=Entreprise.EntrepriseAdvancedSearch&searchAnnCons&type=restreinte"
+ ],
+ [
+  "Tous les avis d'information",
+  "https://pmp.b2g.etat.lu/?page=Entreprise.EntrepriseAdvancedSearch&AvisInformation"
+ ],
+ [
+  "Tous les avis d'attribution",
+  "https://pmp.b2g.etat.lu/?page=Entreprise.EntrepriseAdvancedSearch&AvisAttribution"
+ ],
+ [
+  "Recherche avancée",
+  "https://pmp.b2g.etat.lu/?page=Entreprise.EntrepriseAdvancedSearch&AllAnn"
+ ],
+ [
+  "Participation",
+  "https://pmp.b2g.etat.lu/?page=Entreprise.EntrepriseParticipationEnchere"
+ ],
+ [
+  "Gérer mes alertes et recherches sauvegardées",
+  "https://pmp.b2g.etat.lu/?page=Entreprise.EntrepriseGestionRecherches"
+ ],
+ [
+  "Dossiers volumineux",
+  "https://pmp.b2g.etat.lu/entreprise/dossier-volumineux/gestion/"
+ ],
+ [
+  "Entités d'Achat",
+  "https://pmp.b2g.etat.lu/?page=Entreprise.EntrepriseVisualiserEntitesAchatsRecherche"
+ ],
+ [
+  "Signature",
+  "https://pmp.b2g.etat.lu/entreprise#"
+ ],
+ [
+  "Signer un document",
+  "https://pmp.b2g.etat.lu/entreprise/signer-document"
+ ],
+ [
+  "Vérifier la signature",
+  "https://pmp.b2g.etat.lu/entreprise/verification-signature"
+ ],
+ [
+  "Aide",
+  "https://pmp.b2g.etat.lu/entreprise#"
+ ],
+ [
+  "Première visite",
+  "https://pmp.b2g.etat.lu/?page=Entreprise.EntreprisePremiereVisite"
+ ],
+ [
+  "Guides d'utilisation",
+  "https://pmp.b2g.etat.lu/?page=Entreprise.EntrepriseGuide&Aide"
+ ],
+ [
+  "Assistance",
+  "https://pmp.b2g.etat.lu/entreprise/aide/assistance-telephonique"
+ ],
+ [
+  "Documents de référence",
+  "https://pmp.b2g.etat.lu/?page=Entreprise.DocumentsDeReference&callFrom=entreprise"
+ ],
+ [
+  "Outils informatiques",
+  "https://pmp.b2g.etat.lu/entreprise/aide/outils-informatiques"
+ ],
+ [
+  "Se préparer à répondre",
+  "https://pmp.b2g.etat.lu/entreprise#"
+ ],
+ [
+  "Tester la configuration de mon poste",
+  "https://pmp.b2g.etat.lu/entreprise/footer/diagnostic-poste"
+ ],
+ [
+  "Marchés de test",
+  "https://pmp.b2g.etat.lu/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&orgTest"
+ ],
+ [
+  "",
+  "https://pmp.b2g.etat.lu/entreprise/aide/assistance-telephonique"
+ ],
+ [
+  "https://etat.emfro.lu/s3/Portail-des-Marches-publics-Enquete",
+  "https://etat.emfro.lu/s3/Portail-des-Marches-publics-Enquete"
+ ],
+ [
+  "https://marches.public.lu/fr/procedures/dematerialisation/authentification-signa",
+  "https://marches.public.lu/fr/procedures/dematerialisation/authentification-signature.html"
+ ],
+ [
+  "",
+  "https://pmp.b2g.etat.lu/entreprise#"
+ ],
+ [
+  "https://etat.emfro.lu/s3/Portail-des-Marches-publics-Enquete",
+  "https://etat.emfro.lu/s3/Portail-des-Marches-publics-Enquete"
+ ],
+ [
+  "https://marches.public.lu/fr/procedures/dematerialisation/authentification-signa",
+  "https://marches.public.lu/fr/procedures/dematerialisation/authentification-signature.html"
+ ],
+ [
+  "https://marches.public.lu/fr/procedures/dematerialisation.html",
+  "https://marches.public.lu/fr/procedures/dematerialisation.html"
+ ],
+ [
+  "https://marches.public.lu/fr/support/newsletter.html",
+  "https://marches.public.lu/fr/support/newsletter.html"
+ ],
+ [
+  "http://marches.public.lu/",
+  "http://marches.public.lu/"
+ ],
+ [
+  "https://marches.public.lu/fr/procedures/dematerialisation/authentification-signa",
+  "https://marches.public.lu/fr/procedures/dematerialisation/authentification-signature.html"
+ ],
+ [
+  "https://marches.public.lu/fr/procedures/dossier-soumission/dume.html",
+  "https://marches.public.lu/fr/procedures/dossier-soumission/dume.html"
+ ],
+ [
+  "https://gd.lu/pmp-conditions",
+  "https://gd.lu/pmp-conditions"
+ ],
+ [
+  "Voir tous les marchés",
+  "https://pmp.b2g.etat.lu/?page=Entreprise.EntrepriseAdvancedSearch&AllCons"
+ ],
+ [
+  "Voir les Marchés en cours",
+  "https://pmp.b2g.etat.lu/?page=Entreprise.EntrepriseAdvancedSearch&AllCons&EnCours"
+ ],
+ [
+  "Rechercher une consultation",
+  "https://pmp.b2g.etat.lu/?page=Entreprise.EntrepriseAdvancedSearch&searchAnnCons"
+ ],
+ [
+  "Mes services",
+  "https://pmp.b2g.etat.lu/?page=Entreprise.EntrepriseAccueilAuthentifie"
+ ],
+ [
+  "Mentions légales",
+  "https://pmp.b2g.etat.lu/entreprise/footer/info-site"
+ ],
+ [
+  "Conditions d'utilisation",
+  "https://pmp.b2g.etat.lu/entreprise/footer/conditions-utilisation"
+ ],
+ [
+  "Pré-requis techniques",
+  "https://pmp.b2g.etat.lu/entreprise/footer/prerequis-techniques"
+ ],
+ [
+  "Accessibilité",
+  "https://pmp.b2g.etat.lu/entreprise/footer/accessibilite"
+ ],
+ [
+  "",
+  "https://pmp.b2g.etat.lu/language"
+ ],
+ [
+  "",
+  "https://pmp.b2g.etat.lu/language/du"
+ ],
+ [
+  "",
+  "https://pmp.b2g.etat.lu/entreprise#"
+ ]
+]

@@ -1,0 +1,112 @@
+{
+ "DATE_DE_DECISION >= DATE '2026-07-01'": {
+  "status": 200,
+  "error": null,
+  "n": 1,
+  "sample": [
+   {
+    "attributes": {
+     "OBJECTID": 15163,
+     "CODEUNIQUE": "25107-LTS-0286-00",
+     "CODE_ADMIN": "F0610/25107/LCO2/2026.1",
+     "TYPE_DE_DECISION": "PERMIS",
+     "DATE_DE_DECISION": 1783036800000,
+     "TYPE_DE_PEREMPTION": null,
+     "DATE_DE_PEREMPTION": null,
+     "LIENDOC": "https://territoire.wallonie.be/fr/liendoc/LOT/25107-LTS-0286-00",
+     "STATUT": "PERMIS URBANISATION",
+     "DATE_STATUT": 1783036800000,
+     "TIMESTAMP": 1788307200000
+    },
+    "rings_points": 7
+   }
+  ],
+  "count": {
+   "count": 1
+  }
+ },
+ "DATE_DE_DECISION >= timestamp '2026-07-01 00:00:00'": {
+  "status": 200,
+  "error": null,
+  "n": 1,
+  "sample": [
+   {
+    "attributes": {
+     "OBJECTID": 15163,
+     "CODEUNIQUE": "25107-LTS-0286-00",
+     "CODE_ADMIN": "F0610/25107/LCO2/2026.1",
+     "TYPE_DE_DECISION": "PERMIS",
+     "DATE_DE_DECISION": 1783036800000,
+     "TYPE_DE_PEREMPTION": null,
+     "DATE_DE_PEREMPTION": null,
+     "LIENDOC": "https://territoire.wallonie.be/fr/liendoc/LOT/25107-LTS-0286-00",
+     "STATUT": "PERMIS URBANISATION",
+     "DATE_STATUT": 1783036800000,
+     "TIMESTAMP": 1788307200000
+    },
+    "rings_points": 7
+   }
+  ],
+  "count": {
+   "count": 1
+  }
+ },
+ "TIMESTAMP >= DATE '2026-07-01'": {
+  "status": 200,
+  "error": null,
+  "n": 5,
+  "sample": [
+   {
+    "attributes": {
+     "OBJECTID": 51730,
+     "CODEUNIQUE": "91005-LTS-0082-00",
+     "CODE_ADMIN": null,
+     "TYPE_DE_DECISION": null,
+     "DATE_DE_DECISION": null,
+     "TYPE_DE_PEREMPTION": null,
+     "DATE_DE_PEREMPTION": null,
+     "LIENDOC": "https://territoire.wallonie.be/fr/liendoc/LOT/91005-LTS-0082-00",
+     "STATUT": null,
+     "DATE_STATUT": null,
+     "TIMESTAMP": 1788307200000
+    },
+    "rings_points": 13
+   },
+   {
+    "attributes": {
+     "OBJECTID": 51757,
+     "CODEUNIQUE": "91064-LTS-0052-00",
+     "CODE_ADMIN": null,
+     "TYPE_DE_DECISION": null,
+     "DATE_DE_DECISION": null,
+     "TYPE_DE_PEREMPTION": null,
+     "DATE_DE_PEREMPTION": null,
+     "LIENDOC": "https://territoire.wallonie.be/fr/liendoc/LOT/91064-LTS-0052-00",
+     "STATUT": null,
+     "DATE_STATUT": null,
+     "TIMESTAMP": 1788307200000
+    },
+    "rings_points": 13
+   },
+   {
+    "attributes": {
+     "OBJECTID": 51716,
+     "CODEUNIQUE": "91064-LTS-0025-00",
+     "CODE_ADMIN": null,
+     "TYPE_DE_DECISION": null,
+     "DATE_DE_DECISION": null,
+     "TYPE_DE_PEREMPTION": null,
+     "DATE_DE_PEREMPTION": null,
+     "LIENDOC": "https://territoire.wallonie.be/fr/liendoc/LOT/91064-LTS-0025-00",
+     "STATUT": null,
+     "DATE_STATUT": null,
+     "TIMESTAMP": 1788307200000
+    },
+    "rings_points": 8
+   }
+  ],
+  "count": {
+   "count": 52137
+  }
+ }
+}
