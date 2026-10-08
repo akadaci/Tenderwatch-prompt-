@@ -8,7 +8,8 @@ import httpx
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "discovery" / "out" / "referentiels.json"
 Q = "https://infrastructures.wallonie.be/files/PDF/POUVOIR%20LOCAL/1-ROUTES/1-2-Qualite-et-construction/1-2-1-Qualiroutes/CCT-2021/Chapitre%20{}.pdf"
-CCTB = ["https://batiments.wallonie.be/files/CCTB_01.13_pdf.zip", "https://batiments.wallonie.be/files/documents/CCTB_01.13_pdf.zip"]
+CCTB = ["https://batiments.wallonie.be/files/CCT_DOCS/CCTB_01.13/CCTB_01.13_pdf.zip"]
+PAGES = {"K": range(119, 124), "N": range(41, 45), "J": None}
 MOTS = re.compile(r"(ancrage|cheville|scellement|scellé|goujon|tige[s]? filetée|résine|rail[s]? d|rails? de fixation|EAD\s*33|ETAG|ETA\b|ATE\b|"
                   r"évaluation technique européenne|1992-4|arrachement|coupe-feu|résistant au feu|EI\s?\d{2,3}|intumescent|ETICS|rosace|colliers?|"
                   r"suspente|chemin[s]? de câbles|consoles?|platine|A4-70|inoxydable|HCR|1504-6|EN 1881)", re.I)
@@ -41,6 +42,11 @@ def main():
                 if r.status_code != 200 or not r.content.startswith(b"%PDF"):
                     out["erreurs"].append(f"Qualiroutes {ch}: HTTP {r.status_code}"); continue
                 out["qualiroutes"] += extraire(f"Qualiroutes chapitre {ch}", r.content)
+                if ch in PAGES:
+                    import pymupdf
+                    with pymupdf.open(stream=r.content, filetype="pdf") as d:
+                        rng = PAGES[ch] or [i + 1 for i in range(d.page_count) if "J. 12.2" in d[i].get_text() or "GARDE-CORPS" in d[i].get_text()]
+                        out.setdefault("pages", {})[ch] = {str(i): d[i - 1].get_text() for i in rng if 0 < i <= d.page_count}
             except Exception as e:
                 out["erreurs"].append(f"Qualiroutes {ch}: {e}")
             OUT.write_text(json.dumps(out, ensure_ascii=False, indent=0))
