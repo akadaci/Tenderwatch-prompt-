@@ -55,7 +55,12 @@ def test_gamme_correspondances():
            "Isolation thermique par l'extérieur (ETICS) fixée par chevilles à rosace": "isolant",
            "obturations des traversées de parois résistant au feu": "coupe_feu",
            "Façade ventilée avec sous-structure aluminium": "bardage",
-           "mortier de réparation classe R4 selon EN 1504-3": "reparation"}
+           "mortier de réparation classe R4 selon EN 1504-3": "reparation",
+           "Système de fixation des panneaux photovoltaïques par rails et crochets de toit": "solaire",
+           "Goujons pourvus d’une rondelle EPDM assurant l’étanchéité": "solaire",
+           "Façade ventilée en panneaux céramiques sur ossature aluminium": "bardage",
+           "fixation invisible des panneaux par ancrage à contre-dépouille": "bardage",
+           "supports de câbles assurant le maintien de fonction E90": "electro"}
     for texte, attendu in cas.items():
         assert attendu in [f["id"] for f in familles(texte)], texte
     assert familles("le bureau d'études vérifiera les plans") == []

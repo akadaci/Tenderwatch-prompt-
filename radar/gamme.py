@@ -7,6 +7,8 @@ import re
 
 BE = "https://www.fischer.be/fr-be/produits/"
 FR = "https://www.fischer.fr/fr-fr/produits/"
+DE = "https://www.fischer.de/de-de/produkte/"
+INT = "https://www.fischer-international.com/en/products/"
 FIX = r"(?:fix\w*|cheville\w*|ancr\w*|bevestig\w*|plug\w*|anker\w*)"
 
 FAMILLES = [
@@ -61,11 +63,12 @@ FAMILLES = [
      "produits": ["Point fixe FSFP", "Collier point fixe FFPC", "Coulisseaux FSC", "Éléments pendulaires PDH"],
      "url": BE + "techniques-de-supportage/point-fixe",
      "termes": r"points?\s+fixes?|guides?\s+(?:coulissants?|de\s+dilatation)|coulisseaux?|vaste\s+punten?|glijbeugels?"},
-    {"id": "electro", "nom": "Électro-fixations (câbles et tubes)",
-     "produits": ["Étrier SHA", "Arceau KB", "ClipFix plus", "Pontets BSM", "Clips RC / SCN"],
-     "url": BE + "electro-fixations",
-     "termes": r"(?:fixations?|attaches?|colliers?|brides?)\s+(?:de|des|pour)\s+(?:c[âa]bles|tubes?\s+[ée]lectriques?|gaines?\s+[ée]lectriques?)|"
-               r"c[âa]bles\s+(?:fix[ée]s|attach[ée]s)|kabelbeugels?|kabelklemmen"},
+    {"id": "electro", "nom": "Fixation électrique (câbles, tubes, maintien de fonction)",
+     "produits": ["Étrier SHA / SHA M (maintien de fonction DIN 4102-12)", "Arceau KB", "ClipFix plus", "Pontets BSM", "Clips RC / SCN", "Wireclip WIC", "FNA II", "FBS 4 vis pour colliers"],
+     "url": DE + "elektro-befestigungen",
+     "termes": r"(?:fixations?|attaches?|colliers?|brides?|supports?)\s+(?:de|des|pour)\s+(?:c[âa]bles|tubes?\s+[ée]lectriques?|gaines?\s+[ée]lectriques?|conduits?\s+[ée]lectriques?|luminaires?)|"
+               r"c[âa]bles\s+(?:fix[ée]s|attach[ée]s)|maintien\s+de\s+(?:la\s+)?fonction|fonctionnalit[ée]\s+en\s+cas\s+d['’]incendie|\bE\s?(?:30|60|90)\b\s+(?:\S+\s+){0,4}c[âa]bles|"
+               r"c[âa]bles?\s+(?:\S+\s+){0,3}r[ée]sistants?\s+au\s+feu|kabelbeugels?|kabelklemmen|functiebehoud"},
     {"id": "sanitaire", "nom": "Fixations sanitaires",
      "produits": ["WST II (lavabos)", "UST (urinoirs)", "WC WCN / WB 5N", "WDP (sur panneaux)", "Fixation chauffe-eau"],
      "url": BE + "fixations-sanitaires",
@@ -102,11 +105,21 @@ FAMILLES = [
      "produits": ["PowerFast II", "PowerFull II", "Tirefond PowerFast II HWTF"],
      "url": BE + "gamme-de-vis",
      "termes": r"vis\s+(?:[àa]\s+bois|de\s+charpente|[àa]\s+filetage\s+total|autoforeuses?\s+(?:pour|dans)\s+(?:le\s+)?bois|inox\s+(?:pour|dans)\s+(?:le\s+)?bois)|tire-?fonds?|houtschroe(?:f|ven)|constructieschroe(?:f|ven)"},
-    {"id": "bardage", "nom": "Façades ventilées, bardage et terrasses",
-     "produits": ["ACT (façades ventilées)", "Vis de façade FFSII", "Terradec / vis de terrasse FTS"],
-     "url": BE + "act-systemes-de-facades-ventilees",
-     "termes": r"fa[cç]ades?\s+ventil[ée]es?|bardages?\s+(?:ventil[ée]s?|bois|m[ée]talliques?|en\s+panneaux)|sous-?structures?\s+(?:de\s+(?:la\s+)?fa[cç]ade|du\s+bardage|aluminium)|"
-               r"vis\s+de\s+(?:fa[cç]ade|bardage|terrasse)|geventileerde\s+gevel\w*|gevelbekleding"},
+    {"id": "bardage", "nom": "Façades ventilées ACT, fixation de panneaux et bardage",
+     "produits": ["Ossatures ATK100 / ATK101 / ATK102 (alu EN AW 6063)", "Consoles FLH AL, FZH ZeLa", "Thermostop (rupteur PVC)", "Ancre à contre-dépouille Zykon FZP II (ETA-11/0145)", "Vis de façade FFSII", "Terradec / vis de terrasse FTS"],
+     "url": INT + "facade-systems",
+     "termes": r"fa[cç]ades?\s+ventil[ée]es?|bardages?\s+(?:ventil[ée]s?|bois|m[ée]talliques?|en\s+panneaux|c[ée]ramiques?|pierre)|sous-?structures?\s+(?:de\s+(?:la\s+)?fa[cç]ade|du\s+bardage|aluminium|alu)|"
+               r"ossatures?\s+(?:aluminium|alu|m[ée]tallique)\s+(?:\S+\s+){0,3}(?:fa[cç]ade|bardage|panneaux)|consoles?\s+(?:de\s+fa[cç]ade|murales?\s+(?:en\s+)?alu\w*)|"
+               r"rev[êe]tements?\s+de\s+fa[cç]ade\s+(?:rigides?\s+)?fix[ée]s?\s+m[ée]caniquement|(?:ancrages?|chevilles?)\s+[àa]\s+(?:contre-?d[ée]pouille|d[ée]pouille\s+arri[èe]re)\s+(?:\S+\s+){0,3}(?:panneaux?|plaques?|pierre)|"
+               r"fixation\s+invisible\s+(?:des\s+)?(?:panneaux|plaques)|pierres?\s+naturelles?\s+(?:\S+\s+){0,3}(?:agraf[ée]es?|ancr[ée]es?|fix[ée]es?)|"
+               r"vis\s+de\s+(?:fa[cç]ade|bardage|terrasse)|geventileerde\s+gevel\w*|gevelbekleding|ondersnijdingsanker"},
+    {"id": "solaire", "nom": "Structures pour panneaux solaires",
+     "produits": ["Rails SolarFish H33 / H44 AL", "Crochets de toit RH AL", "Goujons à double filetage STSR A2 (A2-70)", "Brides PM / PMC", "PV-Clip FSMC", "Abri onduleur FSIS Duo", "Logiciel SOLARPANEL-FIX (note statique)"],
+     "url": DE + "solarsysteme",
+     "termes": r"(?:panneaux?|modules?|capteurs?|installations?|syst[èe]mes?)\s+(?:solaires?\s+)?photovolta[iï]ques?\s+(?:\S+\s+){0,4}(?:fix\w+|structures?|supports?|rails?|crochets?|ancr\w+|lest\w*)|"
+               r"(?:structures?|syst[èe]mes?|rails?)\s+(?:de\s+)?(?:fixation|support|montage)\s+(?:\S+\s+){0,3}(?:panneaux?|modules?|capteurs?)\s+(?:solaires?|photovolta\w+|PV)|"
+               r"crochets?\s+de\s+(?:toit|toiture)\s+(?:\S+\s+){0,3}(?:solaires?|PV|photovolta\w+|panneaux?)|goujons?\s+(?:\S+\s+){0,3}(?:rondelle\s+EPDM|double\s+filetage)|"
+               r"onduleurs?\s+(?:\S+\s+){0,3}(?:abri|protection|ext[ée]rieur)|zonnepanelen\s+(?:\S+\s+){0,3}(?:bevestig\w+|montage\w*)|PV-?montagesyste\w+"},
     {"id": "echafaudage", "nom": "Ancrages d'échafaudage et anneaux",
      "produits": ["Piton GS 12", "Chevilles S 14 ROE", "Anneau de levage RI"],
      "url": BE + "fixations-d-echafaudages-et-de-pitons",
