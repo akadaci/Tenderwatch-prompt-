@@ -1,0 +1,380 @@
+{
+ "essais": [
+  {
+   "award": "LU/NE/000152",
+   "filtre": "procedureId",
+   "total": 291032,
+   "n": 25,
+   "meme_procedure": 0,
+   "trouves": []
+  },
+  {
+   "award": "LU/NE/000152",
+   "filtre": "procedureIds",
+   "total": 291032,
+   "n": 25,
+   "meme_procedure": 0,
+   "trouves": []
+  },
+  {
+   "award": "LU/NE/000152",
+   "filtre": "terms",
+   "total": 10,
+   "n": 10,
+   "meme_procedure": 2,
+   "trouves": [
+    {
+     "st": "29",
+     "wid": "e7fa70c1-9c10-43c6-b70d-17efc240ea41",
+     "ref": "LU/NE/000152_pub02"
+    },
+    {
+     "st": "16",
+     "wid": "91e44292-00fd-4af5-ae62-cc82e10042b0",
+     "ref": "LU/NE/000152_pub01",
+     "documents": [
+      "36 - Crèche Saint-Hubert - Menuiseries extérieures.xlsx",
+      "24 - BABY-SERVICE - Crèche - entete - Annexe 9 - Déclaration sur l'honneur.pdf",
+      "21 - BABY-SERVICE - Crèche - entete - Annexe 8 - Fiches déchets et éva.pdf",
+      "12 - BABY-SERVICE -Creche - Octroi permis.pdf",
+      "01 - BABY-SERVICE - Crèche - entete CDC - cl. adm.pdf",
+      "40 - Crèche St-Hubert 251127 - Dossier de soumission - Plans.pdf",
+      "10 - BABY-SERVICE - Crèche - formulaire soumission.pdf",
+      "00 - Crèche Saint-Hubert - entete Dossier de soumission.pdf",
+      "02 - BABY-SERVICE - Crèche - clauses administratives.pdf",
+      "13 - BABY-SERVICE - Crèche - entete - Annexe 4 - Rapport PEB.pdf",
+      "17 - BABY-SERVICE - Crèche - entete - Annexe 6 - Rapport Sécurité Santé.pdf",
+      "33 - BABY-SERVICE - Crèche - bord.soum.pdf",
+      "34 - BABY-SERVICE - Crèche - bord.soum.xlsx",
+      "23 - BABY-SERVICE - Crèche - Annexe 8 - Fiches de déchets.pdf",
+      "04 - BABY-SERVICE- Crèche - CDC cl. tech.pdf"
+     ]
+    }
+   ]
+  },
+  {
+   "award": "LU/NE/000152",
+   "filtre": "term",
+   "total": 291032,
+   "n": 25,
+   "meme_procedure": 0,
+   "trouves": []
+  },
+  {
+   "award": "LU/NE/000152",
+   "filtre": "searchText",
+   "total": 291032,
+   "n": 25,
+   "meme_procedure": 0,
+   "trouves": []
+  },
+  {
+   "award": "LU/NE/000152",
+   "filtre": "dossierNumber",
+   "total": 291032,
+   "n": 25,
+   "meme_procedure": 0,
+   "trouves": []
+  },
+  {
+   "award": "LU/NE/000152",
+   "filtre": "referenceNumber",
+   "total": 291032,
+   "n": 25,
+   "meme_procedure": 0,
+   "trouves": []
+  },
+  {
+   "award": "LU/NE/000152",
+   "filtre": "query",
+   "total": 291032,
+   "n": 25,
+   "meme_procedure": 0,
+   "trouves": []
+  },
+  {
+   "award": "26/029 BAT",
+   "filtre": "procedureId",
+   "total": 291032,
+   "n": 25,
+   "meme_procedure": 0,
+   "trouves": []
+  },
+  {
+   "award": "26/029 BAT",
+   "filtre": "procedureIds",
+   "total": 291032,
+   "n": 25,
+   "meme_procedure": 0,
+   "trouves": []
+  },
+  {
+   "award": "26/029 BAT",
+   "filtre": "terms",
+   "total": 46893,
+   "n": 25,
+   "meme_procedure": 1,
+   "trouves": [
+    {
+     "st": "33",
+     "wid": "30519f8e-e627-4173-a8b7-95e0373427d2",
+     "ref": "26/029 BAT_pub01"
+    }
+   ]
+  },
+  {
+   "award": "26/029 BAT",
+   "filtre": "term",
+   "total": 291032,
+   "n": 25,
+   "meme_procedure": 0,
+   "trouves": []
+  },
+  {
+   "award": "26/029 BAT",
+   "filtre": "searchText",
+   "total": 291032,
+   "n": 25,
+   "meme_procedure": 0,
+   "trouves": []
+  },
+  {
+   "award": "26/029 BAT",
+   "filtre": "dossierNumber",
+   "total": 291032,
+   "n": 25,
+   "meme_procedure": 0,
+   "trouves": []
+  },
+  {
+   "award": "26/029 BAT",
+   "filtre": "referenceNumber",
+   "total": 291032,
+   "n": 25,
+   "meme_procedure": 0,
+   "trouves": []
+  },
+  {
+   "award": "26/029 BAT",
+   "filtre": "query",
+   "total": 291032,
+   "n": 25,
+   "meme_procedure": 0,
+   "trouves": []
+  },
+  {
+   "award": "20263662",
+   "filtre": "procedureId",
+   "total": 291032,
+   "n": 25,
+   "meme_procedure": 0,
+   "trouves": []
+  },
+  {
+   "award": "20263662",
+   "filtre": "procedureIds",
+   "total": 291032,
+   "n": 25,
+   "meme_procedure": 0,
+   "trouves": []
+  },
+  {
+   "award": "20263662",
+   "filtre": "terms",
+   "total": 1,
+   "n": 1,
+   "meme_procedure": 1,
+   "trouves": [
+    {
+     "st": "29",
+     "wid": "e774fedf-e818-47c3-b10c-ef58b7581681",
+     "ref": "20263662_pub01"
+    }
+   ]
+  },
+  {
+   "award": "20263662",
+   "filtre": "term",
+   "total": 291032,
+   "n": 25,
+   "meme_procedure": 0,
+   "trouves": []
+  },
+  {
+   "award": "20263662",
+   "filtre": "searchText",
+   "total": 291032,
+   "n": 25,
+   "meme_procedure": 0,
+   "trouves": []
+  },
+  {
+   "award": "20263662",
+   "filtre": "dossierNumber",
+   "total": 291032,
+   "n": 25,
+   "meme_procedure": 0,
+   "trouves": []
+  },
+  {
+   "award": "20263662",
+   "filtre": "referenceNumber",
+   "total": 291032,
+   "n": 25,
+   "meme_procedure": 0,
+   "trouves": []
+  },
+  {
+   "award": "20263662",
+   "filtre": "query",
+   "total": 291032,
+   "n": 25,
+   "meme_procedure": 0,
+   "trouves": []
+  },
+  {
+   "award": "65230_Volet j_Marché 2026/016",
+   "filtre": "procedureId",
+   "total": 291032,
+   "n": 25,
+   "meme_procedure": 0,
+   "trouves": []
+  },
+  {
+   "award": "65230_Volet j_Marché 2026/016",
+   "filtre": "procedureIds",
+   "total": 291032,
+   "n": 25,
+   "meme_procedure": 0,
+   "trouves": []
+  },
+  {
+   "award": "65230_Volet j_Marché 2026/016",
+   "filtre": "terms",
+   "total": 19820,
+   "n": 25,
+   "meme_procedure": 1,
+   "trouves": [
+    {
+     "st": "29",
+     "wid": "67c4d02b-4100-4b8f-8a6b-14372c857e2b",
+     "ref": "65230_Volet j_Marché 2026/016_pub01"
+    }
+   ]
+  },
+  {
+   "award": "65230_Volet j_Marché 2026/016",
+   "filtre": "term",
+   "total": 291032,
+   "n": 25,
+   "meme_procedure": 0,
+   "trouves": []
+  },
+  {
+   "award": "65230_Volet j_Marché 2026/016",
+   "filtre": "searchText",
+   "total": 291032,
+   "n": 25,
+   "meme_procedure": 0,
+   "trouves": []
+  },
+  {
+   "award": "65230_Volet j_Marché 2026/016",
+   "filtre": "dossierNumber",
+   "total": 291032,
+   "n": 25,
+   "meme_procedure": 0,
+   "trouves": []
+  },
+  {
+   "award": "65230_Volet j_Marché 2026/016",
+   "filtre": "referenceNumber",
+   "total": 291032,
+   "n": 25,
+   "meme_procedure": 0,
+   "trouves": []
+  },
+  {
+   "award": "65230_Volet j_Marché 2026/016",
+   "filtre": "query",
+   "total": 291032,
+   "n": 25,
+   "meme_procedure": 0,
+   "trouves": []
+  }
+ ],
+ "ui": [
+  {
+   "url": "https://www.publicprocurement.be/api/sea/search/publications",
+   "body": "{\"includeOrganisationChildren\":true,\"page\":1,\"pageSize\":25,\"term\":\"65230_Volet j_Marché 2026/016\"}"
+  },
+  {
+   "url": "https://www.publicprocurement.be/api/sea/search/publications",
+   "body": "{\"includeOrganisationChildren\":true,\"page\":1,\"pageSize\":25,\"searchText\":\"65230_Volet j_Marché 2026/016\"}"
+  },
+  {
+   "url": "https://www.publicprocurement.be/api/sea/search/publications",
+   "body": "{\"includeOrganisationChildren\":true,\"page\":1,\"pageSize\":25,\"dossierNumber\":\"65230_Volet j_Marché 2026/016\"}"
+  },
+  {
+   "url": "https://www.publicprocurement.be/api/sea/search/publications",
+   "body": "{\"includeOrganisationChildren\":true,\"page\":1,\"pageSize\":25,\"referenceNumber\":\"65230_Volet j_Marché 2026/016\"}"
+  },
+  {
+   "url": "https://www.publicprocurement.be/api/sea/search/publications",
+   "body": "{\"includeOrganisationChildren\":true,\"page\":1,\"pageSize\":25,\"query\":\"65230_Volet j_Marché 2026/016\"}"
+  },
+  {
+   "url": "https://www.publicprocurement.be/api/sea/search/publications",
+   "body": "{\"terms\":\"LU/NE/000152\",\"includeOrganisationChildren\":true,\"page\":1,\"pageSize\":25}"
+  }
+ ],
+ "cles_reponse": [
+  "publications",
+  "totalCount"
+ ],
+ "awards": [
+  {
+   "pid": "49d91d9f-0056-4767-8de2-55ea066bfce5",
+   "dossier": "LU/NE/000152",
+   "ref": "LU/NE/000152_pub02",
+   "wid": "e7fa70c1-9c10-43c6-b70d-17efc240ea41",
+   "titre": "Transformation d'un co-accueil en crèche"
+  },
+  {
+   "pid": "69d5834e-96b1-457d-9c32-0c4f7a80253f",
+   "dossier": "26/029 BAT",
+   "ref": "26/029 BAT_pub01",
+   "wid": "30519f8e-e627-4173-a8b7-95e0373427d2",
+   "titre": "Erasmushuis, de Formanoirstraat 31 Restauratie van de kunstwerken in de tuin"
+  },
+  {
+   "pid": "dffbbe15-93f6-4f26-bb0c-d6d75614385b",
+   "dossier": "20263662",
+   "ref": "20263662_pub01",
+   "wid": "e774fedf-e818-47c3-b10c-ef58b7581681",
+   "titre": "Plaatsing vissteigers langs De Mark"
+  },
+  {
+   "pid": "1dc0f08f-076c-45b6-9568-3c9812b819f7",
+   "dossier": "65230_Volet j_Marché 2026/016",
+   "ref": "65230_Volet j_Marché 2026/016_pub01",
+   "wid": "67c4d02b-4100-4b8f-8a6b-14372c857e2b",
+   "titre": "Marché de travaux ayant pour objet le remplacement de la clôture sur le site de la SONACA le long de"
+  },
+  {
+   "pid": "31b1b2b2-769f-487d-8942-8cb9a69006fe",
+   "dossier": "A26 0108 - sloop en parking Berkenlaan 3",
+   "ref": "A26 0108 - sloop en parking Berkenlaan 3_pub01",
+   "wid": "802f1875-251e-474e-b812-fa257d1a2550",
+   "titre": "Slopen bestaand gebouw en bijhorende garages + aanleggen parking"
+  },
+  {
+   "pid": "189d1af6-7800-453b-b705-960585f4c42a",
+   "dossier": "20262651",
+   "ref": "20262651_pub01",
+   "wid": "7c70eaa6-84dd-4661-b226-cb80d0182451",
+   "titre": "Raamovereenkomst voor het uitvoeren van klinkerwerken"
+  }
+ ]
+}
