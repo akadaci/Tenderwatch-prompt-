@@ -1,61 +1,65 @@
-"""Documents hébergés sur 3P (cloud.3p.eu) : accessibles sans compte ?
-Ouvre le lien de l'avis comme un visiteur : choix du français, cookies acceptés, puis relevé de la page
-(liens, boutons, formulaires) et tentative de téléchargement du premier document.
-Résultat : discovery/out/p3_probe.json + captures p3_*.png"""
-import asyncio, json, sys
+"""Lecture intégrale de Qualiroutes (chapitres C, J, K, N, H, L, M en vigueur) et du CCTB 01.13 :
+extraction des passages qui parlent de fixation (ancrage, cheville, scellement, résine, rail, coupe-feu…),
+avec chapitre, page et titre d'article. Résultat : discovery/out/referentiels.json"""
+import io, json, re, sys, zipfile
 from pathlib import Path
+import httpx
 
 ROOT = Path(__file__).resolve().parents[1]
-OUT = ROOT / "discovery" / "out" / "p3_probe.json"
-URLS = ["https://cloud.3p.eu/Downloads/1/1221/69/2026", "https://cloud.3p.eu/Downloads/1/1377/LG/2026"]
+OUT = ROOT / "discovery" / "out" / "referentiels.json"
+Q = "https://infrastructures.wallonie.be/files/PDF/POUVOIR%20LOCAL/1-ROUTES/1-2-Qualite-et-construction/1-2-1-Qualiroutes/CCT-2021/Chapitre%20{}.pdf"
+CCTB = ["https://batiments.wallonie.be/files/CCTB_01.13_pdf.zip", "https://batiments.wallonie.be/files/documents/CCTB_01.13_pdf.zip"]
+MOTS = re.compile(r"(ancrage|cheville|scellement|scellé|goujon|tige[s]? filetée|résine|rail[s]? d|rails? de fixation|EAD\s*33|ETAG|ETA\b|ATE\b|"
+                  r"évaluation technique européenne|1992-4|arrachement|coupe-feu|résistant au feu|EI\s?\d{2,3}|intumescent|ETICS|rosace|colliers?|"
+                  r"suspente|chemin[s]? de câbles|consoles?|platine|A4-70|inoxydable|HCR|1504-6|EN 1881)", re.I)
+TITRE = re.compile(r"^\s*((?:[A-Q]\.\s?)?\d{1,2}(?:\.\d{1,2}){1,5}\.?)\s+([A-ZÉÈÀÂÎÔÛÇ][^\n]{3,120})$")
 
 
-async def main():
-    from playwright.async_api import async_playwright
+def extraire(nom, data):
+    import pymupdf
     res = []
-    async with async_playwright() as p:
-        br = await p.chromium.launch()
-        for i, url in enumerate(URLS):
-            it = {"url": url, "etapes": []}
-            ctx = await br.new_context(locale="fr-BE", accept_downloads=True)
-            pg = await ctx.new_page()
-            reqs = []
-            pg.on("response", lambda r: reqs.append({"url": r.url[:200], "status": r.status, "type": r.headers.get("content-type", "")[:60]}))
+    with pymupdf.open(stream=data, filetype="pdf") as d:
+        titre = ""
+        for i in range(d.page_count):
+            lignes = d[i].get_text().splitlines()
+            for j, l in enumerate(lignes):
+                m = TITRE.match(l)
+                if m:
+                    titre = (m.group(1) + " " + m.group(2)).strip()[:140]
+                if MOTS.search(l):
+                    bloc = " ".join(x.strip() for x in lignes[max(0, j - 1):j + 3])
+                    res.append({"doc": nom, "page": i + 1, "article": titre, "texte": re.sub(r"\s+", " ", bloc)[:700]})
+    return res
+
+
+def main():
+    out = {"qualiroutes": [], "cctb": [], "erreurs": []}
+    with httpx.Client(timeout=180, follow_redirects=True) as h:
+        for ch in "CJKNHLM":
             try:
-                await pg.goto(url, wait_until="networkidle", timeout=60000)
-                await pg.screenshot(path=str(ROOT / "discovery" / "out" / f"p3_{i}_a.png"))
-                for txt in ["Submit", "BELGIQUE", "Je ne désire pas m'identifier"]:
-                    loc = pg.locator("a, button, input[type=submit]", has_text=txt).first
-                    if not await loc.count():
-                        loc = pg.get_by_text(txt, exact=False).first
-                    if await loc.count():
-                        await loc.click(); await pg.wait_for_load_state("networkidle"); await pg.wait_for_timeout(1500)
-                        it["etapes"].append(txt)
-                await pg.wait_for_timeout(2000)
-                await pg.screenshot(path=str(ROOT / "discovery" / "out" / f"p3_{i}_b.png"), full_page=True)
-                it["titre"] = await pg.title()
-                it["texte"] = (await pg.inner_text("body"))[:3000]
-                it["liens"] = await pg.eval_on_selector_all("a", "as => as.slice(0,80).map(a => [a.innerText.trim().slice(0,80), a.href.slice(0,200)])")
-                it["champs"] = await pg.eval_on_selector_all("input,select,button", "as => as.slice(0,60).map(a => [a.tagName, a.type||'', a.name||a.id||'', (a.value||a.innerText||'').slice(0,60)])")
-                # tentative : premier lien qui ressemble à un document
-                doc = pg.locator("a:has-text('.pdf'), a:has-text('.zip'), a:has-text('.docx'), a:has-text('Télécharger'), a:has-text('Download'), a:has-text('tout')").first
-                if await doc.count():
-                    try:
-                        async with pg.expect_download(timeout=30000) as dl:
-                            await doc.click()
-                        d = await dl.value
-                        it["telechargement"] = {"nom": d.suggested_filename, "ok": True}
-                    except Exception as e:
-                        it["telechargement"] = {"erreur": str(e)[:300]}
-                        await pg.screenshot(path=str(ROOT / "discovery" / "out" / f"p3_{i}_c.png"), full_page=True)
-                        it["texte_apres"] = (await pg.inner_text("body"))[:1500]
+                r = h.get(Q.format(ch))
+                if r.status_code != 200 or not r.content.startswith(b"%PDF"):
+                    out["erreurs"].append(f"Qualiroutes {ch}: HTTP {r.status_code}"); continue
+                out["qualiroutes"] += extraire(f"Qualiroutes chapitre {ch}", r.content)
             except Exception as e:
-                it["erreur"] = f"{type(e).__name__}: {e}"[:400]
-            it["reponses"] = reqs[-25:]
-            res.append(it)
-            OUT.write_text(json.dumps(res, ensure_ascii=False, indent=1))
-            await ctx.close()
-        await br.close()
+                out["erreurs"].append(f"Qualiroutes {ch}: {e}")
+            OUT.write_text(json.dumps(out, ensure_ascii=False, indent=0))
+        for u in CCTB:
+            try:
+                r = h.get(u)
+                if r.status_code != 200:
+                    out["erreurs"].append(f"CCTB {u}: HTTP {r.status_code}"); continue
+                with zipfile.ZipFile(io.BytesIO(r.content)) as z:
+                    noms = [n for n in z.namelist() if n.lower().endswith(".pdf")]
+                    out["cctb_fichiers"] = noms[:50]
+                    for n in noms:
+                        out["cctb"] += extraire(f"CCTB 01.13 {Path(n).name}", z.read(n))
+                break
+            except Exception as e:
+                out["erreurs"].append(f"CCTB {u}: {e}")
+    out["n"] = {"qualiroutes": len(out["qualiroutes"]), "cctb": len(out["cctb"])}
+    OUT.write_text(json.dumps(out, ensure_ascii=False, indent=0))
+    print(out["n"], out["erreurs"])
 
 
-asyncio.run(main())
+main()
