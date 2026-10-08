@@ -3,7 +3,8 @@
   "url": "https://cloud.3p.eu/Downloads/1/1221/69/2026",
   "etapes": [
    "Submit",
-   "BELGIQUE"
+   "BELGIQUE",
+   "Je ne désire pas m'identifier"
   ],
   "titre": "",
   "texte": "Conformément à l’article 64 de la loi du 17/06/2016, le pouvoir adjudicateur offre, par moyen électronique, un accès gratuit, sans restriction, complet et direct aux documents du marché. Il n’est donc pas obligatoire de vous identifier. Cependant, en vous identifiant, vous pourrez être tenus informés des modifications et précisions apportées aux documents du marché. Nous vous recommandons dès lors de compléter le nom de votre entreprise et votre adresse e-mail :\n\nNom de société\nEmail\n@\t\nJe ne désire pas m'identifier\nPolitique de confidentialité | Conditions d'utilisation",
@@ -106,19 +107,14 @@
     "type": "text/css"
    },
    {
-    "url": "https://www.google.com/recaptcha/api.js",
-    "status": 200,
-    "type": "text/javascript; charset=utf-8"
-   },
-   {
-    "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js",
-    "status": 200,
-    "type": "text/javascript; charset=UTF-8"
-   },
-   {
     "url": "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css",
     "status": 200,
     "type": "text/css; charset=utf-8"
+   },
+   {
+    "url": "https://www.google.com/recaptcha/api.js",
+    "status": 200,
+    "type": "text/javascript; charset=utf-8"
    },
    {
     "url": "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js",
@@ -126,9 +122,19 @@
     "type": "application/javascript; charset=utf-8"
    },
    {
+    "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js",
+    "status": 200,
+    "type": "text/javascript; charset=UTF-8"
+   },
+   {
     "url": "https://cloud.3p.eu/Web/Images/3p-transparent.png",
     "status": 200,
     "type": "image/png"
+   },
+   {
+    "url": "https://cloud.3p.eu/Web/Scripts/jQuery.js",
+    "status": 200,
+    "type": "application/javascript"
    },
    {
     "url": "https://cloud.3p.eu/WebResource.axd?d=F3gJYKlHIsIjQsAEqVabi10MW0kPzru6V2vHQzBNmsAria5ywWt4D8KWIJnZI9gTFhomQMOLEO_UUhiEKUtVbajMEi8N0p7xf8jEvHLTlac1&t=639190905332169432",
@@ -141,27 +147,22 @@
     "type": "application/x-javascript"
    },
    {
-    "url": "https://cloud.3p.eu/Web/Scripts/jQuery.js",
-    "status": 200,
-    "type": "application/javascript"
-   },
-   {
-    "url": "https://www.gstatic.com/recaptcha/releases/nY0xPItgwtktOA7U0o-VsaLz/recaptcha__fr.js",
+    "url": "https://www.gstatic.com/recaptcha/releases/nY0xPItgwtlvjEjk2TqdwOQz/recaptcha__fr.js",
     "status": 200,
     "type": "text/javascript"
    },
    {
-    "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LfBdB0TAAAAAIkG9n3DIB-AGinTKKJj5JMK7fj-&co=aHR0cHM6Ly9jbG91ZC4zcC5ldTo0NDM.&hl=fr&v=nY0xPItgwtktOA7U0o-VsaLz&size=normal&anchor-ms=20000&execute-ms",
+    "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LfBdB0TAAAAAIkG9n3DIB-AGinTKKJj5JMK7fj-&co=aHR0cHM6Ly9jbG91ZC4zcC5ldTo0NDM.&hl=fr&v=nY0xPItgwtlvjEjk2TqdwOQz&size=normal&anchor-ms=20000&execute-ms",
     "status": 200,
     "type": "text/html; charset=utf-8"
    },
    {
-    "url": "https://www.gstatic.com/recaptcha/releases/nY0xPItgwtktOA7U0o-VsaLz/styles__ltr.css",
+    "url": "https://www.gstatic.com/recaptcha/releases/nY0xPItgwtlvjEjk2TqdwOQz/styles__ltr.css",
     "status": 200,
     "type": "text/css"
    },
    {
-    "url": "https://www.gstatic.com/recaptcha/releases/nY0xPItgwtktOA7U0o-VsaLz/recaptcha__fr.js",
+    "url": "https://www.gstatic.com/recaptcha/releases/nY0xPItgwtlvjEjk2TqdwOQz/recaptcha__fr.js",
     "status": 200,
     "type": "text/javascript"
    },
@@ -171,7 +172,7 @@
     "type": "image/png"
    },
    {
-    "url": "https://www.google.com/recaptcha/api2/webworker.js?hl=fr&v=nY0xPItgwtktOA7U0o-VsaLz",
+    "url": "https://www.google.com/recaptcha/api2/webworker.js?hl=fr&v=nY0xPItgwtlvjEjk2TqdwOQz",
     "status": 200,
     "type": "text/javascript; charset=utf-8"
    },
@@ -181,22 +182,22 @@
     "type": "font/woff2"
    },
    {
-    "url": "https://www.gstatic.com/recaptcha/releases/nY0xPItgwtktOA7U0o-VsaLz/recaptcha__fr.js",
+    "url": "https://www.gstatic.com/recaptcha/releases/nY0xPItgwtlvjEjk2TqdwOQz/recaptcha__fr.js",
     "status": 200,
     "type": "text/javascript"
    },
    {
-    "url": "https://www.google.com/recaptcha/api2/bframe?hl=fr&v=nY0xPItgwtktOA7U0o-VsaLz&k=6LfBdB0TAAAAAIkG9n3DIB-AGinTKKJj5JMK7fj-&bft=0dAFcWeA6NuAxmy85Hpd1hJs5MngQNbJOCyCFrGRKFoFR6mkKWZJOWRH_pmUOyszX7UvQlys3UJ",
+    "url": "https://www.google.com/recaptcha/api2/bframe?hl=fr&v=nY0xPItgwtlvjEjk2TqdwOQz&k=6LfBdB0TAAAAAIkG9n3DIB-AGinTKKJj5JMK7fj-&bft=0dAFcWeA5ALmdLiq-i0rRfbzjfkLy2dOVo1UAGCzh7ApHkOiJPTtQDqJPQgUbhPZUb2FJrkhGZd",
     "status": 200,
     "type": "text/html; charset=utf-8"
    },
    {
-    "url": "https://www.gstatic.com/recaptcha/releases/nY0xPItgwtktOA7U0o-VsaLz/styles__ltr.css",
+    "url": "https://www.gstatic.com/recaptcha/releases/nY0xPItgwtlvjEjk2TqdwOQz/styles__ltr.css",
     "status": 200,
     "type": "text/css"
    },
    {
-    "url": "https://www.gstatic.com/recaptcha/releases/nY0xPItgwtktOA7U0o-VsaLz/recaptcha__fr.js",
+    "url": "https://www.gstatic.com/recaptcha/releases/nY0xPItgwtlvjEjk2TqdwOQz/recaptcha__fr.js",
     "status": 200,
     "type": "text/javascript"
    },
@@ -211,7 +212,8 @@
   "url": "https://cloud.3p.eu/Downloads/1/1377/LG/2026",
   "etapes": [
    "Submit",
-   "BELGIQUE"
+   "BELGIQUE",
+   "Je ne désire pas m'identifier"
   ],
   "titre": "",
   "texte": "Conformément à l’article 64 de la loi du 17/06/2016, le pouvoir adjudicateur offre, par moyen électronique, un accès gratuit, sans restriction, complet et direct aux documents du marché. Il n’est donc pas obligatoire de vous identifier. Cependant, en vous identifiant, vous pourrez être tenus informés des modifications et précisions apportées aux documents du marché. Nous vous recommandons dès lors de compléter le nom de votre entreprise et votre adresse e-mail :\n\nNom de société\nEmail\n@\t\nJe ne désire pas m'identifier\nPolitique de confidentialité | Conditions d'utilisation",
@@ -324,14 +326,14 @@
     "type": "application/javascript; charset=utf-8"
    },
    {
-    "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js",
-    "status": 200,
-    "type": "text/javascript; charset=UTF-8"
-   },
-   {
     "url": "https://www.google.com/recaptcha/api.js",
     "status": 200,
     "type": "text/javascript; charset=utf-8"
+   },
+   {
+    "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js",
+    "status": 200,
+    "type": "text/javascript; charset=UTF-8"
    },
    {
     "url": "https://cloud.3p.eu/Web/Images/3p-transparent.png",
@@ -339,7 +341,7 @@
     "type": "image/png"
    },
    {
-    "url": "https://cloud.3p.eu/WebResource.axd?d=bRNlvDeA3HpdMM5chVmWKoegtmJPb95s9tQpHPO5yh_RNGXZJzGS3BOB3iGUgR3d3TOmKGX4zFA4KO8hvhMQ8ehvLKThZ8LQGEuwhhPUgmo1&t=639190905332169432",
+    "url": "https://cloud.3p.eu/WebResource.axd?d=F3gJYKlHIsIjQsAEqVabi10MW0kPzru6V2vHQzBNmsAria5ywWt4D8KWIJnZI9gTFhomQMOLEO_UUhiEKUtVbajMEi8N0p7xf8jEvHLTlac1&t=639190905332169432",
     "status": 200,
     "type": "application/x-javascript"
    },
@@ -349,7 +351,7 @@
     "type": "application/javascript"
    },
    {
-    "url": "https://cloud.3p.eu/WebResource.axd?d=F3gJYKlHIsIjQsAEqVabi10MW0kPzru6V2vHQzBNmsAria5ywWt4D8KWIJnZI9gTFhomQMOLEO_UUhiEKUtVbajMEi8N0p7xf8jEvHLTlac1&t=639190905332169432",
+    "url": "https://cloud.3p.eu/WebResource.axd?d=bRNlvDeA3HpdMM5chVmWKoegtmJPb95s9tQpHPO5yh_RNGXZJzGS3BOB3iGUgR3d3TOmKGX4zFA4KO8hvhMQ8ehvLKThZ8LQGEuwhhPUgmo1&t=639190905332169432",
     "status": 200,
     "type": "application/x-javascript"
    },
@@ -394,7 +396,7 @@
     "type": "text/javascript"
    },
    {
-    "url": "https://www.google.com/recaptcha/api2/bframe?hl=fr&v=nY0xPItgwtlvjEjk2TqdwOQz&k=6LfBdB0TAAAAAIkG9n3DIB-AGinTKKJj5JMK7fj-&bft=0dAFcWeA7yPx7zohScXgpzxsVSml78BbEPoIawzy_l2Xe4XcAkXLWh1OIyCL2bI_yb8xSWdaiU6",
+    "url": "https://www.google.com/recaptcha/api2/bframe?hl=fr&v=nY0xPItgwtlvjEjk2TqdwOQz&k=6LfBdB0TAAAAAIkG9n3DIB-AGinTKKJj5JMK7fj-&bft=0dAFcWeA6sNUnp3bMF7En0c8hwnfgAd1B5LC90LbCSRqTyqigzyZn7kjH7fu6XvNR_32nuAvoKd",
     "status": 200,
     "type": "text/html; charset=utf-8"
    },
