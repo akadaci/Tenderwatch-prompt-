@@ -162,7 +162,7 @@ def to_fiche(raw):
     deadline = _date(raw.get("deadline-receipt-tender-date-lot"))
     url = f"https://ted.europa.eu/fr/notice/{pub}/html"
     f = {
-        "id": f"ted-{pub}", "source_type": "TED", "nom": clean(_first(raw.get("notice-title")), 200),
+        "id": f"ted-{pub}", "source_type": "TED", "nom": clean(_first(raw.get("notice-title")), 400),
         "lieu": ", ".join(x for x in (city, prov or {"BEL": "Belgique", "LUX": "Grand-Duché"}.get(country, country)) if x),
         "province": prov or ("Grand-Duché" if country == "LUX" else ""),
         "mo": clean(_first(raw.get("buyer-name")), 150), "etape": etape,
