@@ -33,3 +33,15 @@ def test_scan_pdf_and_zip():
     iso = [f for f in top if "isolant" in f["texte"]][0]
     assert iso["ou"]["section"] == "22.30 Isolation de façade" and iso["suggestion"] == "Chevilles d'isolant Termoz"
     assert top[0]["marque"]                                                          # marque citée en premier
+
+def test_find_url_and_xlsx():
+    assert csc.find_url({"a": {"b": ["x", "https://minio/x.pdf?sig=1"]}}) == "https://minio/x.pdf?sig=1"
+    assert csc.find_url("https://minio/y") == "https://minio/y" and csc.find_url({"x": 1}) == ""
+    import openpyxl
+    wb = openpyxl.Workbook(); ws = wb.active; ws.title = "Gros oeuvre"
+    ws.append(["22.21.1", "Ancrage chimique Hilti HIT-HY 200 ou équivalent", "pc", 120])
+    buf = io.BytesIO(); wb.save(buf)
+    (name, pages, toc), = csc.extract("ME_Stabilite.xlsx", buf.getvalue())
+    a, f = csc.scan(name, pages, toc)
+    assert f[0]["marque"] == "Hilti" and "120" in f[0]["texte"]
+    assert csc.EXCLUDE.search("2532_AIDE_SOU_PL_Sols.pdf") and not csc.EXCLUDE.search("58600-ARC 10-Menuiseries intérieures-.pdf")

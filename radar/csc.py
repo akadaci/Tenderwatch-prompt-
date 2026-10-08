@@ -16,8 +16,9 @@ WALLONIE = {"Liège", "Namur", "Hainaut", "Brabant wallon", "Luxembourg (prov.)"
 
 INCLUDE = re.compile(r"(csc|\bcs\b|_cs[_.]|cahier|charges|clauses|\bct\b|_ct[_.]|technique|bestek|technisch|lastenboek|"
                      r"m[ée]tr[ée]|meetstaat|stabilit|architect|gros.?oeuvre|ruwbouw|fa[cç]ade|gevel|hvac|[ée]lectri|lot)", re.I)
-EXCLUDE = re.compile(r"(espd|dume|uea|rectificatif|pss|s[ée]curit[ée]|veiligheid|plan[s_ -]|\.dwg|\.dxf|photo|foto|"
-                     r"offre|inschrijving|formulaire|attestation|annexe\s*[a-z]\b)", re.I)
+EXCLUDE = re.compile(r"(espd|dume|\buea\b|pss|s[ée]curit[ée]|veiligheid|(?:^|[\s/_.›-])plans?(?=[\s_.-]|$)|_pl_|\.dwg|\.dxf|\.jpe?g|\.png|photo|foto|"
+                     r"formulaire|inschrijvingsformulier|attestation|modele.?d.?offre|offerteformulier)", re.I)
+DOC_EXT = (".pdf", ".docx", ".xlsx", ".zip")
 AUTEUR = re.compile(r"(auteur\s+d[eu]\s+projet|auteur\s+du\s+cahier|bureau\s+d['’]?\s*[ée]tudes?|ontwerper|studiebureau|"
                     r"architecte\s*(?:-|:)|ing[ée]nieur\s+en\s+stabilit[ée]|ing[ée]nieur\s+stabilit[ée])", re.I)
 FIX = re.compile(r"\b(chevilles?|ancrages?|scellements?\s+chimiques?|scellement|goujons?|tiges?\s+filet[ée]es?|r[ée]sine\s+d['’]ancrage|"
@@ -48,6 +49,23 @@ def pdf_pages(data):
     import pymupdf
     with pymupdf.open(stream=data, filetype="pdf") as d:
         return [d[i].get_text() for i in range(d.page_count)], d.get_toc()
+
+
+def xlsx_pages(data):
+    """Métré / meetstaat : une « page » par onglet, une ligne par rangée."""
+    import openpyxl
+    wb = openpyxl.load_workbook(io.BytesIO(data), read_only=True, data_only=True)
+    pages, toc = [], []
+    for i, ws in enumerate(wb.worksheets, 1):
+        rows = []
+        for row in ws.iter_rows(values_only=True):
+            cells = [str(c).strip() for c in row if c not in (None, "")]
+            if cells:
+                rows.append(" | ".join(cells))
+            if len(rows) > 20000:
+                break
+        pages.append("\n".join(rows)); toc.append([1, f"Onglet « {ws.title} »", i])
+    return pages, toc
 
 
 def docx_pages(data):
@@ -118,7 +136,7 @@ def extract(name, data, depth=0):
                     base = n.rsplit("/", 1)[-1]
                     if n.endswith("/") or z.getinfo(n).file_size > MAX_FILE or EXCLUDE.search(base):
                         continue
-                    if base.lower().endswith((".pdf", ".docx", ".zip")):
+                    if base.lower().endswith(DOC_EXT):
                         out += extract(f"{name} › {base}", z.read(n), depth + 1)
             return out
         if low.endswith(".pdf"):
@@ -126,6 +144,9 @@ def extract(name, data, depth=0):
             return [(name, pages, toc)]
         if low.endswith(".docx"):
             pages, toc = docx_pages(data)
+            return [(name, pages, toc)]
+        if low.endswith(".xlsx"):
+            pages, toc = xlsx_pages(data)
             return [(name, pages, toc)]
     except Exception as e:
         return [(name, None, f"{type(e).__name__}: {e}")]
@@ -145,6 +166,23 @@ def dedup(items, key="texte", n=25):
     return out
 
 
+def find_url(o):
+    """Le lien signé, où qu'il soit dans la réponse (texte, objet ou liste)."""
+    if isinstance(o, str):
+        return o if o.startswith("http") else ""
+    if isinstance(o, dict):
+        for v in o.values():
+            u = find_url(v)
+            if u:
+                return u
+    if isinstance(o, list):
+        for v in o:
+            u = find_url(v)
+            if u:
+                return u
+    return ""
+
+
 async def read_tender(s, wid):
     docs = await s.call(f"/api/dos/publication-workspaces/{wid}/documents?full=false&type=WORKSPACE&type=ESPD_REQUEST&type=SDI")
     lus, ignores, auteur, fix, total = [], [], [], [], 0
@@ -152,14 +190,12 @@ async def read_tender(s, wid):
         for d in docs or []:
             v = (d.get("versions") or [{}])[-1]
             name = ((v.get("document") or {}).get("originalFileName") or "").strip()
-            if not name or EXCLUDE.search(name) or not name.lower().endswith((".pdf", ".docx", ".zip")):
-                ignores.append(name); continue
-            if not INCLUDE.search(name) and not name.lower().endswith(".zip"):
+            if not name or EXCLUDE.search(name) or not name.lower().endswith(DOC_EXT):
                 ignores.append(name); continue
             info = await s.call(f"/api/dos/publication-workspace-document-versions/{v['id']}/download-url?unpublished=false")
-            url = info if isinstance(info, str) else (info or {}).get("url") or (info or {}).get("downloadUrl")
+            url = find_url(info)
             if not url:
-                ignores.append(f"{name} (lien absent)"); continue
+                ignores.append(f"{name} (lien absent : {str(info)[:120]})"); continue
             r = await http.get(url)
             if r.status_code != 200 or len(r.content) > MAX_FILE:
                 ignores.append(f"{name} (HTTP {r.status_code}, {len(r.content)} o)"); continue
@@ -185,7 +221,9 @@ def targets(limit=MAX_TENDERS):
     for r in bda:
         wid = r["id"][4:]
         lim = (det.get(wid) or {}).get("date_limite") or ""
-        if r["etape"] != 4 or wid in done or not (r.get("cpv") or "").startswith(("45", "44")) or (lim and lim < today):
+        prev = done.get(wid)
+        retry = prev is not None and not prev.get("documents_lus") and prev.get("lu_le") != today
+        if r["etape"] != 4 or (prev is not None and not retry) or not (r.get("cpv") or "").startswith(("45", "44")) or (lim and lim < today):
             continue
         prov = r.get("province") or ""
         reg = "Wallonie" if prov in WALLONIE else prov if prov in ("Bruxelles", "Grand-Duché") else "Flandre"

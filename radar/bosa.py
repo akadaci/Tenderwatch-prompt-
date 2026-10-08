@@ -45,4 +45,9 @@ class Session:
         await self.page.wait_for_timeout(self.pause_ms)        # rythme lent volontaire
         if res["status"] != 200:
             raise RuntimeError(f"BOSA HTTP {res['status']} {path} : {res['text'][:200]}")
-        return json.loads(res["text"]) if res["text"] else None
+        if not res["text"]:
+            return None
+        try:
+            return json.loads(res["text"])
+        except ValueError:
+            return res["text"].strip().strip('"')      # certaines routes renvoient du texte brut (ex. un lien)
