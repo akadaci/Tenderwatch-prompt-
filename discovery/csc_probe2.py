@@ -34,10 +34,17 @@ async def main():
         res["mark_before_click"] = len(res["requests"])
         try:
             async with page.expect_download(timeout=90000) as dl:
-                await page.get_by_role("menuitem").filter(has_text=re.compile("Télécharger|Download", re.I)).first.click()
+                await page.get_by_text("Télécharger la dernière version", exact=True).first.click()
             d = await dl.value
             data = Path(await d.path()).read_bytes()
             res["download"] = {"url": d.url[:300], "suggested": d.suggested_filename, "bytes": len(data), "head": data[:8].hex()}
+            import pymupdf
+            with pymupdf.open(stream=data, filetype="pdf") as doc:
+                res["pages"] = doc.page_count
+                res["toc"] = doc.get_toc()[:80]
+                txt = [doc[i].get_text() for i in range(doc.page_count)]
+            AUT = re.compile(r"(auteur\s+d[eu]\s+projet|bureau\s+d['’]?\s*[ée]tudes?|architecte|ing[ée]nieur)", re.I)
+            res["auteur_lines"] = [(i + 1, " ".join(l.split())[:250]) for i, t in enumerate(txt) for l in t.splitlines() if AUT.search(l)][:40]
         except Exception as e:
             res["download_error"] = f"{type(e).__name__}: {e}"[:400]
         res["after_click"] = res["requests"][res["mark_before_click"]:]
