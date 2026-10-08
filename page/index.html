@@ -110,6 +110,10 @@ footer a{color:var(--accent)}
 .ext .fis{font-size:12.5px}
 .ext .fis b{color:var(--attr)}
 .ext .brand{font:600 11px var(--f-body);text-transform:uppercase;letter-spacing:.04em;background:var(--bad-soft);color:var(--bad);border-radius:4px;padding:1px 6px}
+.fams{display:flex;flex-wrap:wrap;gap:6px}
+.fam{font:600 12px var(--f-body);text-decoration:none;color:var(--attr);background:var(--attr-soft);border-radius:999px;padding:3px 10px;display:inline-flex;gap:6px;align-items:baseline}
+.fam .n{font:500 11px var(--f-mono)}
+.ext .fis a{color:var(--accent);font-weight:600}
 .has-cdc{font:600 11px var(--f-body);letter-spacing:.04em;text-transform:uppercase;padding:2px 7px;border-radius:4px;background:var(--attr-soft);color:var(--attr)}
 </style>
 
@@ -150,7 +154,7 @@ footer a{color:var(--accent)}
   <footer>
     <p><b>Sources officielles</b> : <a href="https://ted.europa.eu" target="_blank" rel="noopener">TED</a> (avis européens), <a href="https://www.publicprocurement.be/bda" target="_blank" rel="noopener">Bulletin des Adjudications</a> (e-Procurement, SPF BOSA), permis d'urbanisme bruxellois (urban.brussels, service NOVA). Chaque fiche renvoie à son avis d'origine.</p>
     <p><b>Méthode</b> : collecte automatique toutes les 6 h, 60 derniers jours. Amont = préinformations, missions d'étude et gros permis ; Attributions = marchés de travaux attribués. Les secteurs sont classés automatiquement d'après les codes CPV et des mots-clés : indicatif. Les avis publiés au BDA et sur TED ne sont gardés qu'une fois.</p>
-    <p><b>Cahiers des charges</b> : pour les appels de travaux en cours, les documents publiés sont lus automatiquement (plans, formulaires et plans de sécurité exceptés) ; les passages sur l’auteur de projet et les fixations sont recopiés tels quels avec document, page et section. Les pistes Fischer sont des suggestions à valider.</p>
+    <p><b>Cahiers des charges</b> : pour les appels de travaux en cours et les marchés attribués (via leur avis de marché d'origine), les documents publiés sont lus automatiquement (plans, formulaires et plans de sécurité exceptés) ; les passages sur l’auteur de projet et les fixations sont recopiés tels quels avec document, page et section. Chaque passage est relié à la gamme Fischer d'après la nomenclature de <a href="https://www.fischer.be/fr-be/produits" target="_blank" rel="noopener">fischer.be</a> (coupe-feu : <a href="https://www.fischer.fr/fr-fr/produits/firestop-coupe-feu" target="_blank" rel="noopener">fischer.fr</a>) : correspondance à valider.</p>
     <p><b>Non couvert</b> : permis wallons et luxembourgeois, petits marchés luxembourgeois (portail avec connexion obligatoire), nom du gagnant pour les attributions publiées uniquement au BDA.</p>
     <p id="upd"></p>
   </footer>
@@ -161,8 +165,8 @@ footer a{color:var(--accent)}
 const $ = id => document.getElementById(id);
 const VIEWS = {
   amont: "Projets avant le cahier des charges : préinformations, études lancées ou attribuées, gros permis. C'est ici que Fischer peut être prescrit.",
-  attributions: "Marchés de travaux attribués : l'entreprise gagnante est à appeler.",
-  appels: "Appels d'offres de travaux publiés : vérifier si les critères techniques sont dans le cahier des charges.",
+  attributions: "Marchés de travaux attribués : l'entreprise gagnante est à appeler. Quand l'avis de marché d'origine est public, son cahier des charges est lu.",
+  appels: "Appels d'offres de travaux publiés : le cahier des charges est lu pour repérer l'auteur de projet et les produits demandés.",
   carte: "Chaque point = la commune de l'acheteur (ou du permis), pas l'adresse exacte du chantier. Touche un point pour voir ses fiches.",
   suivi: "Les fiches que tu as marquées. Ton suivi est enregistré et retrouvé sur PC comme sur téléphone."
 };
@@ -217,7 +221,7 @@ function filtered() {
     && (!region || r.region === region)
     && (!sect || r.secteur === sect)
     && (showEcartes || view === "suivi" || suivi[key(r.id)]?.statut !== "ecarte")
-    && (!n || norm([r.nom, r.mo, r.lieu, r.entreprise, r.be, r.desc, r.secteur, ...((r.cahier && r.cahier.auteur) || []).map(a => a.texte), ...((r.cahier && r.cahier.fixations) || []).map(a => a.marque)].join(" ")).includes(n)));
+    && (!n || norm([r.nom, r.mo, r.lieu, r.entreprise, r.be, r.desc, r.secteur, ...((r.cahier && r.cahier.auteur) || []).map(a => a.texte), ...((r.cahier && r.cahier.fixations) || []).map(a => a.marque + " " + (a.fischer || []).map(f => f.famille).join(" "))].join(" ")).includes(n)));
 }
 
 function renderTabs() {
@@ -243,15 +247,25 @@ function loc(o) {
 function cahier(r, k) {
   const c = r.cahier; if (!c) return "";
   const open = openCdc.has(k) ? " open" : "";
+  const via = c.via ? `<p class="hint">Cahier des charges de l'avis de marché d'origine${c.via.ref ? " (réf. " + esc(c.via.ref) + ")" : ""}${c.via.date ? ", publié le " + fmt(c.via.date) : ""} · <a href="${esc(c.via.url)}" target="_blank" rel="noopener">ouvrir ↗</a></p>` : "";
+  if (c.sans_avis) return `<details class="cdc"${open} data-cdc><summary>Cahier des charges : pas d'avis de marché public</summary><p class="hint">${esc(c.sans_avis)}.</p></details>`;
   if (c.erreur) return `<details class="cdc"${open} data-cdc><summary>Cahier des charges : lecture impossible</summary><p class="hint">${esc(c.erreur)}</p></details>`;
   const docs = c.documents || [], A = c.auteur || [], F = c.fixations || [];
-  if (!docs.length) return `<details class="cdc"${open} data-cdc><summary>Cahier des charges : aucun document lisible</summary><p class="hint">${c.ignores || 0} document(s) ignoré(s) (plans, formulaires, sécurité…) ou hébergé(s) ailleurs. Ouvre l'avis.</p></details>`;
-  const ext = (it, fis) => `<div class="ext"><blockquote>${esc(it.texte)}</blockquote><span class="loc">📍 ${esc(loc(it.ou))}</span>${fis ? `<span class="fis">${it.marque ? `<span class="brand">Marque citée : ${esc(it.marque)}</span> ` : ""}${it.suggestion ? `Piste Fischer <b>(à valider)</b> : ${esc(it.suggestion)}` : ""}</span>` : ""}</div>`;
-  return `<details class="cdc"${open} data-cdc><summary>Dans le cahier des charges : ${A.length ? "auteur de projet trouvé" : "auteur non trouvé"} · ${F.length} passage${F.length > 1 ? "s" : ""} fixation</summary>
+  if (!docs.length) return `<details class="cdc"${open} data-cdc><summary>Cahier des charges : aucun document lisible</summary>${via}<p class="hint">${c.ignores || 0} document(s) ignoré(s) (plans, formulaires, sécurité…) ou hébergé(s) ailleurs. Ouvre l'avis.</p></details>`;
+  const fams = {};
+  F.forEach(it => (it.fischer || []).forEach(f => { (fams[f.id] = fams[f.id] || {...f, n: 0}).n++; }));
+  const famList = Object.values(fams).sort((a, b) => b.n - a.n);
+  const fisLine = it => (it.fischer && it.fischer.length)
+    ? it.fischer.map(f => `Gamme Fischer <b>(à valider)</b> : <a href="${esc(f.url)}" target="_blank" rel="noopener">${esc(f.famille)}</a> — ${f.produits.slice(0, 4).map(esc).join(", ")}${f.remarque ? ` <span class="hint">(${esc(f.remarque)})</span>` : ""}`).join("<br>")
+    : (it.suggestion ? `Piste Fischer <b>(à valider)</b> : ${esc(it.suggestion)}` : "");
+  const ext = (it, fis) => `<div class="ext"><blockquote>${esc(it.texte)}</blockquote><span class="loc">📍 ${esc(loc(it.ou))}</span>${fis ? `<span class="fis">${it.marque ? `<span class="brand">Marque citée : ${esc(it.marque)}</span> ` : ""}${fisLine(it)}</span>` : ""}</div>`;
+  return `<details class="cdc"${open} data-cdc><summary>Dans le cahier des charges : ${A.length ? "auteur de projet trouvé" : "auteur non trouvé"} · ${F.length} passage${F.length > 1 ? "s" : ""} fixation${famList.length ? " · " + famList.length + " gamme" + (famList.length > 1 ? "s" : "") + " Fischer" : ""}</summary>
+    ${via}
+    ${famList.length ? `<h4>Gammes Fischer concernées</h4><div class="fams">${famList.map(f => `<a class="fam" href="${esc(f.url)}" target="_blank" rel="noopener">${esc(f.famille)} <span class="n">${f.n}</span></a>`).join("")}</div>` : ""}
     <h4>Auteur de projet / bureau d'études</h4>
     ${A.length ? A.map(it => ext(it, false)).join("") : `<p class="hint">Non mentionné dans les documents lus.</p>`}
-    <h4>Fixations demandées</h4>
-    ${F.length ? F.map(it => ext(it, true)).join("") : `<p class="hint">Aucun passage sur les chevilles, ancrages ou scellements dans les documents lus.</p>`}
+    <h4>Passages fixation, supportage, coupe-feu…</h4>
+    ${F.length ? F.map(it => ext(it, true)).join("") : `<p class="hint">Aucun passage concernant la gamme Fischer dans les documents lus.</p>`}
     <p class="hint">Textes copiés tels quels. Lu le ${fmt(c.lu_le)} : ${docs.length} document${docs.length > 1 ? "s" : ""} (${docs.slice(0, 4).map(esc).join(" ; ")}${docs.length > 4 ? " ; …" : ""})${c.ignores ? ` — ${c.ignores} document(s) non lu(s) (plans, formulaires, sécurité…)` : ""}.</p>
   </details>`;
 }
@@ -343,7 +357,7 @@ async function copy(r, el) {
   const c = r.cahier;
   if (c && !c.erreur) {
     (c.auteur || []).slice(0, 2).forEach(a => lines.push("", "Auteur de projet (" + loc(a.ou) + ") :", a.texte));
-    (c.fixations || []).forEach(a => lines.push("", "Fixation (" + loc(a.ou) + ")" + (a.marque ? " — marque citée : " + a.marque : "") + " :", a.texte, a.suggestion ? "Piste Fischer (à valider) : " + a.suggestion : ""));
+    (c.fixations || []).forEach(a => lines.push("", "Fixation (" + loc(a.ou) + ")" + (a.marque ? " — marque citée : " + a.marque : "") + " :", a.texte, (a.fischer && a.fischer.length) ? "Gamme Fischer (à valider) : " + a.fischer.map(f => f.famille + " — " + f.produits.slice(0, 4).join(", ") + " — " + f.url).join(" | ") : (a.suggestion ? "Piste Fischer (à valider) : " + a.suggestion : "")));
   }
   const t = lines.filter(Boolean).join("\n");
   try { await navigator.clipboard.writeText(t); toast("Fiche copiée"); }

@@ -124,7 +124,8 @@ def build():
         c = csc.get(r["id"][4:]) if r["source_type"] == "BDA" else None
         cahier = None
         if c:
-            cahier = {"lu_le": c.get("lu_le"), "erreur": c.get("erreur"),
+            cahier = {"lu_le": c.get("lu_le"), "erreur": c.get("erreur"), "via": c.get("via"),
+                      "sans_avis": c.get("sans_avis_de_marche"),
                       "documents": [x["document"] for x in c.get("documents_lus", [])][:30],
                       "ignores": len(c.get("documents_ignores", [])),
                       "auteur": c.get("auteur", [])[:4], "fixations": c.get("fixations", [])[:15]}

@@ -91,6 +91,7 @@ def to_fiche(p):
         "date_publication": pub_date, "cpv": ",".join(dict.fromkeys(cpvs)),
         "ted_ref": ",".join(str(x) for x in ted) if ted else "",
         "notes": clean(txt(d.get("descriptions")), 300),
+        "procedure": p.get("procedureId") or "", "dossier": str(d.get("number") or ""),
     }
 
 

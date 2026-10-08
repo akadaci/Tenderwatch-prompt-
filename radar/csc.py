@@ -6,6 +6,7 @@ import asyncio, io, json, re, zipfile
 from datetime import date
 import httpx
 from radar.common import DATA
+from radar.gamme import familles, resume
 
 OUT = DATA / "csc.json"
 MAX_TENDERS = 10
@@ -144,7 +145,7 @@ def scan(name, pages, toc):
                     and not re.search(r"\b(l['’]|le|du|au|par|de\s+l['’])\s*$", l[:m.start()], re.I)
                 if nomme and len(auteur) < 12:
                     auteur.append({"texte": bloc, "ou": ou_section(), "score": 2 + bool(FORME.search(bloc)) - 0.001 * pi})
-            fort = FIX.search(l)
+            fort = FIX.search(l) or (familles(l) and True)
             faible = not fort and FIX_FAIBLE.search(l)
             if fort or faible:
                 bloc = bloc_at(lines, i, 3, 600)
@@ -153,9 +154,11 @@ def scan(name, pages, toc):
                 if faible and not SUPPORT.search(bloc):
                     continue
                 m = MARQUES.search(bloc)
-                score = (2 if fort else 1) + 3 * bool(m) + 2 * bool(re.search(r"\b(ETA|ATE|1992-4|EAD)\b", bloc))
+                fams = familles(bloc)
+                score = (2 if fort else 1) + 3 * bool(m) + 2 * bool(re.search(r"\b(ETA|ATE|1992-4|EAD)\b", bloc)) + bool(fams)
                 fix.append({"texte": bloc, "ou": ou_section(), "score": score, "marque": m.group(0) if m else "",
-                            "suggestion": suggestion(bloc)})
+                            "suggestion": " ; ".join(f["nom"] for f in fams) or suggestion(bloc),
+                            "fischer": [resume(f) for f in fams]})
         for raw in lines:
             l = " ".join(raw.split())
             if HEADING.match(l) and not re.match(r"^\d+\s*(?:rue|avenue|chauss[ée]e|place|boulevard|m[²2]|€|%)", l, re.I):
@@ -250,24 +253,61 @@ async def read_tender(s, wid):
             "auteur": dedup(auteur, n=6), "fixations": dedup(fix, n=25)}
 
 
+CONTRAT = {str(i) for i in range(10, 25)} | {"E3"}
+
+
+def dossier_of(r):
+    """N° de dossier de la procédure : champ « dossier », sinon la réf. BDA sans le suffixe _pubNN."""
+    if r.get("dossier"):
+        return r["dossier"]
+    m = re.search(r"réf\. (.+?) \((?:préinformation|avis de marché|attribution)", r.get("preuve") or "")
+    return re.sub(r"_pub\d+$", "", m.group(1)).strip() if m and m.group(1) != "?" else ""
+
+
 def targets(limit=MAX_TENDERS):
+    """Appels de travaux ouverts ET marchés de travaux attribués (BDA), Wallonie d'abord."""
     done = json.loads(OUT.read_text()) if OUT.exists() else {}
     bda = json.loads((DATA / "bda.json").read_text())["records"]
     det = json.loads((DATA / "bda_detail.json").read_text()) if (DATA / "bda_detail.json").exists() else {}
     today = date.today().isoformat()
-    c = []
+    c = {4: [], 5: []}
     for r in bda:
         wid = r["id"][4:]
+        if r["etape"] not in c or not (r.get("cpv") or "").startswith(("45", "44")):
+            continue
         lim = (det.get(wid) or {}).get("date_limite") or ""
         prev = done.get(wid)
-        retry = prev is not None and not prev.get("documents_lus") and prev.get("lu_le") != today
-        if r["etape"] != 4 or (prev is not None and not retry) or not (r.get("cpv") or "").startswith(("45", "44")) or (lim and lim < today):
+        retry = prev is not None and not prev.get("documents_lus") and not prev.get("sans_avis_de_marche") and prev.get("lu_le") != today
+        if (prev is not None and not retry) or (r["etape"] == 4 and lim and lim < today):
             continue
         prov = r.get("province") or ""
         reg = "Wallonie" if prov in WALLONIE else prov if prov in ("Bruxelles", "Grand-Duché") else "Flandre"
-        c.append((PRIORITE.get(reg, 4), r.get("date_publication", ""), wid))
-    c.sort(key=lambda x: (x[0], -int(x[1].replace("-", "") or 0)))
-    return done, [w for _, _, w in c[:limit]]
+        c[r["etape"]].append((PRIORITE.get(reg, 4), r.get("date_publication", ""), r))
+    out = []
+    for k in (4, 5):
+        c[k].sort(key=lambda x: (x[0], -int(x[1].replace("-", "") or 0)))
+        out += [r for _, _, r in c[k][:limit]]
+    return done, out
+
+
+async def avis_marche(s, r):
+    """Pour une attribution : l'avis de marché d'origine (même dossier, même procédure), via la recherche « terms »."""
+    dos = dossier_of(r)
+    if not dos:
+        return None, "n° de dossier inconnu"
+    res = await s.call("/api/sea/search/publications", "POST",
+                       {"terms": dos, "includeOrganisationChildren": True, "page": 1, "pageSize": 50})
+    pubs = (res or {}).get("publications") or [] if isinstance(res, dict) else []
+    soi = next((p for p in pubs if p.get("publicationWorkspaceId") == r["id"][4:]), None)
+    pid = (soi or {}).get("procedureId") or r.get("procedure")
+    cands = [p for p in pubs if str(p.get("noticeSubType")) in CONTRAT
+             and ((pid and p.get("procedureId") == pid) or (not pid and (p.get("dossier") or {}).get("number") == dos))]
+    if not cands:
+        return None, f"aucun avis de marché publié pour le dossier {dos} (procédure sans publication préalable, ou hors e-Procurement)"
+    cands.sort(key=lambda p: p.get("publicationDate") or "")
+    p = cands[-1]
+    return {"wid": p["publicationWorkspaceId"], "ref": p.get("referenceNumber"), "date": p.get("publicationDate"),
+            "url": f"https://www.publicprocurement.be/publication-workspaces/{p['publicationWorkspaceId']}"}, ""
 
 
 def run(limit=MAX_TENDERS):
@@ -276,15 +316,23 @@ def run(limit=MAX_TENDERS):
 
     async def go():
         async with Session(pause_ms=800) as s:
-            for wid in todo:
+            for r in todo:
+                wid = r["id"][4:]
                 try:
-                    done[wid] = await read_tender(s, wid)
+                    if r["etape"] == 5:
+                        via, why = await avis_marche(s, r)
+                        if not via:
+                            done[wid] = {"lu_le": date.today().isoformat(), "sans_avis_de_marche": why}
+                        else:
+                            done[wid] = {**await read_tender(s, via["wid"]), "via": via}
+                    else:
+                        done[wid] = await read_tender(s, wid)
                 except Exception as e:
                     done[wid] = {"lu_le": date.today().isoformat(), "erreur": f"{type(e).__name__}: {e}"[:300]}
                 OUT.write_text(json.dumps(done, ensure_ascii=False, separators=(",", ":")))
     if todo:
         asyncio.run(go())
-    print(f"[csc] {len(todo)} cahiers des charges lus ({len(done)} au total)")
+    print(f"[csc] {len(todo)} marchés traités ({len(done)} au total)")
     return len(todo)
 
 

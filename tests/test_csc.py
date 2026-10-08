@@ -29,9 +29,10 @@ def test_scan_pdf_and_zip():
     hil = [f for f in top if f["marque"].lower() == "hilti"][0]
     assert "Hilti HIT-RE 500 V4 ou équivalent" in hil["texte"]                       # recopié mot pour mot
     assert hil["ou"] == {"document": name, "page": 2, "section": "22.21.1 Ancrages chimiques"}
-    assert hil["suggestion"].startswith("Chimique FIS EM Plus")
+    assert hil["fischer"][0]["id"] == "chimique" and "FIS EM Plus" in hil["fischer"][0]["produits"]
+    assert hil["fischer"][0]["url"].startswith("https://www.fischer.be/fr-be/produits/fixations-chimiques")
     iso = [f for f in top if "isolant" in f["texte"]][0]
-    assert iso["ou"]["section"] == "22.30 Isolation de façade" and iso["suggestion"] == "Chevilles d'isolant Termoz"
+    assert iso["ou"]["section"] == "22.30 Isolation de façade" and iso["fischer"][0]["id"] == "isolant"
     assert top[0]["marque"]                                                          # marque citée en premier
 
 def test_find_url_and_xlsx():
@@ -45,3 +46,16 @@ def test_find_url_and_xlsx():
     a, f = csc.scan(name, pages, toc)
     assert f[0]["marque"] == "Hilti" and "120" in f[0]["texte"]
     assert csc.EXCLUDE.search("2532_AIDE_SOU_PL_Sols.pdf") and not csc.EXCLUDE.search("58600-ARC 10-Menuiseries intérieures-.pdf")
+
+
+def test_gamme_correspondances():
+    from radar.gamme import familles
+    cas = {"Les chemins de câbles seront fixés par consoles murales": "rails",
+           "Les tuyauteries seront supportées par colliers isophoniques à double vis": "colliers",
+           "Isolation thermique par l'extérieur (ETICS) fixée par chevilles à rosace": "isolant",
+           "obturations des traversées de parois résistant au feu": "coupe_feu",
+           "Façade ventilée avec sous-structure aluminium": "bardage",
+           "mortier de réparation classe R4 selon EN 1504-3": "reparation"}
+    for texte, attendu in cas.items():
+        assert attendu in [f["id"] for f in familles(texte)], texte
+    assert familles("le bureau d'études vérifiera les plans") == []
