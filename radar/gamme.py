@@ -13,7 +13,7 @@ FAMILLES = [
     {"id": "chimique", "nom": "Fixation chimique (scellement par injection)",
      "produits": ["FIS EM Plus", "FIS V Plus", "FIS SB", "FIS HB", "FIS V Zero", "Ampoules FHB II / RM II", "Tiges FIS A / RG M", "Douilles FIS E / RG MI"],
      "url": BE + "fixations-chimiques",
-     "termes": r"scellements?\s+chimiques?|ancrages?\s+chimiques?|fixations?\s+chimiques?|r[ée]sines?\s+(?:d['’]injection|d['’]ancrage|de\s+scellement|[ée]poxy|vinylester)|"
+     "termes": r"scellements?\s+chimiques?|ancrages?\s+chimiques?|fixations?\s+chimiques?|r[ée]sines?\s+(?:d['’]injection|d['’]ancrage|de\s+scellement)|(?:scell\w+|ancr\w+|fix\w+)\s+(?:\w+\s+){0,3}(?:[àa]\s+la|par|en)\s+(?:une\s+)?r[ée]sine|(?:tiges?|goujons?|barres?|fers?)\s+(?:\w+\s+){0,3}scell[ée]e?s?\s+(?:\w+\s+){0,2}(?:chimiquement|[àa]\s+la\s+r[ée]sine|par\s+r[ée]sine)|"
                r"mortiers?\s+d['’]injection|ampoules?\s+de\s+r[ée]sine|chevilles?\s+chimiques?|chemische?\s+ankers?|injectiemortel|chemisch\s+verankerd"},
     {"id": "armatures", "nom": "Scellement d'armatures et renforcement",
      "produits": ["FIS EM Plus (fers à béton)", "Barre de traction FRA", "Armature VBS", "Connecteur de cisaillement FCC"],
@@ -129,9 +129,16 @@ for f in FAMILLES:
 HORS_GAMME_BE = {"coupe_feu": "gamme présentée sur fischer.fr, pas sur fischer.be : vérifier la disponibilité en Belgique"}
 
 
+BRUIT = re.compile(r"\b(?:peintures?|coatings?|autonivelant|rev[êe]tements?\s+de\s+sol)\b", re.I)
+
+
 def familles(texte):
-    """Familles Fischer dont la formulation apparaît dans le passage (ordre du catalogue)."""
-    return [f for f in FAMILLES if f["rx"].search(texte)]
+    """Familles Fischer dont la formulation apparaît dans le passage (ordre du catalogue).
+    Résine ou mastic dans un passage de peinture / revêtement de sol : pas une fixation."""
+    fs = [f for f in FAMILLES if f["rx"].search(texte)]
+    if BRUIT.search(texte):
+        fs = [f for f in fs if f["id"] not in ("chimique", "chimie_bat")]
+    return fs
 
 
 def resume(f):

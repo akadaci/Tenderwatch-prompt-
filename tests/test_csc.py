@@ -59,3 +59,5 @@ def test_gamme_correspondances():
     for texte, attendu in cas.items():
         assert attendu in [f["id"] for f in familles(texte)], texte
     assert familles("le bureau d'études vérifiera les plans") == []
+    assert familles("revêtu d'un coating autonivelant à base de résine époxy") == []
+    assert [f["id"] for f in familles("tiges filetées scellées chimiquement dans le béton")] == ["chimique"]

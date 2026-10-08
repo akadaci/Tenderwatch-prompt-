@@ -2,6 +2,7 @@
 Filtre validé : amont (étapes 1-2 : préinformations, études, gros permis), attributions de travaux (étape 5),
 et appels d'offres en cours (étape 4) dans un onglet séparé. Doublons BDA/TED retirés (TED gardé : il a le gagnant)."""
 import json, re, unicodedata
+from radar import gamme
 from datetime import datetime, timedelta, timezone
 from radar.common import DATA, now_iso
 
@@ -128,7 +129,9 @@ def build():
                       "sans_avis": c.get("sans_avis_de_marche"),
                       "documents": [x["document"] for x in c.get("documents_lus", [])][:30],
                       "ignores": len(c.get("documents_ignores", [])),
-                      "auteur": c.get("auteur", [])[:4], "fixations": c.get("fixations", [])[:15]}
+                      "auteur": c.get("auteur", [])[:4],
+                      "fixations": [{**it, "fischer": [gamme.resume(f) for f in gamme.familles(it["texte"])]}
+                                    for it in c.get("fixations", [])][:15]}
         out.append({k: v for k, v in {
             "id": r["id"], "vue": vue, "etape": e, "src": r["source_type"], "nom": nom, "mo": r.get("mo"),
             "lieu": r.get("lieu"), "region": region(r), "secteur": secteur(r) or "Autres",
