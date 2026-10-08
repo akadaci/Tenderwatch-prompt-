@@ -114,6 +114,11 @@ footer a{color:var(--accent)}
 .fam{font:600 12px var(--f-body);text-decoration:none;color:var(--attr);background:var(--attr-soft);border-radius:999px;padding:3px 10px;display:inline-flex;gap:6px;align-items:baseline}
 .fam .n{font:500 11px var(--f-mono)}
 .ext .fis a{color:var(--accent);font-weight:600}
+.bur{font-size:14px} .bur .loc{font:500 11px var(--f-mono);color:var(--muted)}
+.burlist{display:grid;gap:8px}
+.burm{font-size:14px;border-top:1px solid var(--line);padding-top:6px;overflow-wrap:anywhere}
+.burm a{color:var(--accent)}
+.tab[data-v="bureaux"]{--tc:var(--amont)}
 .has-cdc{font:600 11px var(--f-body);letter-spacing:.04em;text-transform:uppercase;padding:2px 7px;border-radius:4px;background:var(--attr-soft);color:var(--attr)}
 </style>
 
@@ -128,6 +133,7 @@ footer a{color:var(--accent)}
     <button class="tab" role="tab" data-v="amont" aria-selected="true" type="button">Amont <span class="n" id="n-amont">–</span></button>
     <button class="tab" role="tab" data-v="attributions" aria-selected="false" type="button">Attributions <span class="n" id="n-attributions">–</span></button>
     <button class="tab" role="tab" data-v="appels" aria-selected="false" type="button">Appels en cours <span class="n" id="n-appels">–</span></button>
+    <button class="tab" role="tab" data-v="bureaux" aria-selected="false" type="button">Bureaux d'études <span class="n" id="n-bureaux">–</span></button>
     <button class="tab" role="tab" data-v="carte" aria-selected="false" type="button">Carte <span class="n" id="n-carte">–</span></button>
     <button class="tab" role="tab" data-v="suivi" aria-selected="false" type="button">Mon suivi <span class="n" id="n-suivi">0</span></button>
   </nav>
@@ -167,6 +173,7 @@ const VIEWS = {
   amont: "Projets avant le cahier des charges : préinformations, études lancées ou attribuées, gros permis. C'est ici que Fischer peut être prescrit.",
   attributions: "Marchés de travaux attribués : l'entreprise gagnante est à appeler. Quand l'avis de marché d'origine est public, son cahier des charges est lu.",
   appels: "Appels d'offres de travaux publiés : le cahier des charges est lu pour repérer l'auteur de projet et les produits demandés.",
+  bureaux: "Les auteurs de projet et bureaux d'études : ceux qui rédigent les cahiers des charges (lus dans les documents) et ceux désignés pour une mission d'étude. Ce sont eux qui prescrivent.",
   carte: "Chaque point = la commune de l'acheteur (ou du permis), pas l'adresse exacte du chantier. Touche un point pour voir ses fiches.",
   suivi: "Les fiches que tu as marquées. Ton suivi est enregistré et retrouvé sur PC comme sur téléphone."
 };
@@ -189,6 +196,7 @@ function daysTo(d) { if (!d) return null; const t = new Date(); t.setHours(0, 0,
 function inView(r) {
   if (view === "suivi") return !!suivi[key(r.id)];
   if (view === "carte") return !!r.geo && layers.has(r.vue);
+  if (view === "bureaux") return !!(r.bureaux && r.bureaux.length);
   return r.vue === view;
 }
 function ptKey(r) { return r.geo ? r.geo[0].toFixed(3) + "," + r.geo[1].toFixed(3) : ""; }
@@ -221,12 +229,13 @@ function filtered() {
     && (!region || r.region === region)
     && (!sect || r.secteur === sect)
     && (showEcartes || view === "suivi" || suivi[key(r.id)]?.statut !== "ecarte")
-    && (!n || norm([r.nom, r.mo, r.lieu, r.entreprise, r.be, r.desc, r.secteur, ...((r.cahier && r.cahier.auteur) || []).map(a => a.texte), ...((r.cahier && r.cahier.fixations) || []).map(a => a.marque + " " + (a.fischer || []).map(f => f.famille).join(" "))].join(" ")).includes(n)));
+    && (!n || norm([r.nom, r.mo, r.lieu, r.entreprise, r.be, r.desc, r.secteur, ...(r.bureaux || []).map(b => b.nom), ...((r.cahier && r.cahier.auteur) || []).map(a => a.texte), ...((r.cahier && r.cahier.fixations) || []).map(a => a.marque + " " + (a.fischer || []).map(f => f.famille).join(" "))].join(" ")).includes(n)));
 }
 
 function renderTabs() {
   for (const v of ["amont", "attributions", "appels"]) $("n-" + v).textContent = DATA.filter(r => r.vue === v).length;
   $("n-carte").textContent = DATA.filter(r => r.geo).length;
+  $("n-bureaux").textContent = new Set(DATA.flatMap(r => (r.bureaux || []).map(b => b.cle))).size;
   $("n-suivi").textContent = DATA.filter(r => suivi[key(r.id)]).length;
   document.querySelectorAll(".tab").forEach(b => b.setAttribute("aria-selected", b.dataset.v === view));
   $("viewnote").textContent = VIEWS[view];
@@ -277,13 +286,14 @@ function card(r) {
   const due = r.limite ? `<span class="due${dd < 0 ? " past" : dd <= 10 ? " soon" : ""}">${dd < 0 ? "clôturé" : "J-" + dd} · ${fmt(r.limite)}</span>` : "";
   let who = "";
   if (r.entreprise) who = `<div class="win"><span>Entreprise gagnante</span>${esc(r.entreprise)}${r.bce ? ` · <a href="https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=${esc(r.bce)}" target="_blank" rel="noopener">BCE ${esc(r.bce)}</a>` : ""}</div>`;
-  else if (r.be) who = `<div class="win be"><span>Bureau d'études désigné</span>${esc(r.be)}</div>`;
+  else if (r.be && !(r.bureaux && r.bureaux.length)) who = `<div class="win be"><span>Bureau d'études désigné</span>${esc(r.be)}</div>`;
   else if (r.vue === "attributions") who = `<div class="hint">Gagnant non repris dans la liste du BDA : ouvrir l'avis.</div>`;
   el.innerHTML = `
     <div class="meta"><span class="date">${fmt(r.date)}</span><span class="tag k-${r.vue}">${LABEL[r.vue]}</span><span class="tag src">${esc(r.src)}</span><span class="tag">${esc(r.secteur)}</span>${due}</div>
     <h3>${esc(r.nom || "Sans titre")}</h3>
     <div class="who">${r.mo ? `<b>${esc(r.mo)}</b>` : ""}${r.mo && r.lieu ? " · " : ""}${esc(r.lieu || "")}${eur(r.montant) ? ` · ${eur(r.montant)}` : ""}</div>
     ${who}
+    ${(r.bureaux && r.bureaux.length) ? `<div class="win be"><span>Prescripteurs</span>${r.bureaux.map(b => `<div class="bur"><b>${esc(b.nom)}</b> · ${esc(b.role)}${b.ou ? `<span class="loc"> 📍 ${esc(loc(b.ou))}</span>` : ""}</div>`).join("")}</div>` : ""}
     ${r.desc ? `<p class="desc${openDesc.has(k) ? " open" : ""}" data-desc>${esc(r.desc)}</p>` : ""}
     ${cahier(r, k)}
     ${s.note && !openNotes.has(k) ? `<div class="note"><p>${esc(s.note)}</p></div>` : ""}
@@ -311,6 +321,7 @@ function render() {
   let items = filtered();
   renderMap(items);
   if (view === "carte") items = selPt ? items.filter(r => ptKey(r) === selPt) : [];
+  if (view === "bureaux") { renderBureaux(items); return; }
   const list = $("list"); list.textContent = "";
   $("count").textContent = !DATA.length ? "" : view === "carte" ? (selPt && items.length ? `${items.length} fiche${items.length > 1 ? "s" : ""} · ${items[0].geo_lieu}` : "") : `${items.length} fiche${items.length > 1 ? "s" : ""}`;
   if (!items.length) {
@@ -324,6 +335,25 @@ function render() {
   $("more").hidden = items.length <= shown;
 }
 
+function renderBureaux(items) {
+  const m = new Map();
+  for (const r of items) for (const b of r.bureaux || []) {
+    if (!m.has(b.cle)) m.set(b.cle, {nom: b.nom, roles: new Set(), recs: new Map()});
+    const x = m.get(b.cle); x.roles.add(b.role); x.recs.set(r.id, r);
+  }
+  const list = $("list"); list.textContent = ""; $("more").hidden = true;
+  const bs = [...m.values()].sort((a, b) => b.recs.size - a.recs.size || a.nom.localeCompare(b.nom, "fr"));
+  $("count").textContent = `${bs.length} bureau${bs.length > 1 ? "x" : ""} · ${items.length} marché${items.length > 1 ? "s" : ""}`;
+  if (!bs.length) { const d = document.createElement("div"); d.className = "empty"; d.textContent = "Aucun bureau pour ces filtres."; list.appendChild(d); return; }
+  for (const b of bs.slice(0, shown)) {
+    const el = document.createElement("article"); el.className = "card";
+    el.innerHTML = `<div class="meta"><span class="tag">${[...b.roles].map(esc).join(" · ")}</span><span class="date">${b.recs.size} marché${b.recs.size > 1 ? "s" : ""}</span></div>
+      <h3>${esc(b.nom)}</h3>
+      <div class="burlist">${[...b.recs.values()].sort((x, y) => (y.date || "").localeCompare(x.date || "")).map(r => `<div class="burm"><span class="tag k-${r.vue}">${LABEL[r.vue]}</span> ${esc(r.nom || "")}<div class="hint">${[r.mo, r.lieu, r.entreprise ? "gagnant : " + r.entreprise : "", fmt(r.date)].filter(Boolean).map(esc).join(" · ")}${r.source ? ` · <a href="${esc(r.source)}" target="_blank" rel="noopener">avis ↗</a>` : ""}</div></div>`).join("")}</div>`;
+    list.appendChild(el);
+  }
+  $("more").hidden = bs.length <= shown;
+}
 async function setStatut(r, st) {
   const k = key(r.id), cur = suivi[k] || {};
   const next = cur.statut === st ? null : st;
@@ -352,7 +382,7 @@ async function write(k, body) {
 async function copy(r, el) {
   const lines = [r.nom, [r.mo, r.lieu].filter(Boolean).join(" — "),
     r.entreprise ? "Entreprise gagnante : " + r.entreprise + (r.bce ? " (BCE " + r.bce + ")" : "") : "",
-    r.be ? "Bureau d'études : " + r.be : "", eur(r.montant) ? "Montant : " + eur(r.montant) : "",
+    r.be ? "Bureau d'études : " + r.be : "", ...(r.bureaux || []).filter(b => b.nom !== r.be).map(b => b.role + " : " + b.nom), eur(r.montant) ? "Montant : " + eur(r.montant) : "",
     r.limite ? "Date limite : " + fmt(r.limite) : "", "Secteur : " + r.secteur, "Source : " + (r.source || ""), r.preuve || ""];
   const c = r.cahier;
   if (c && !c.erreur) {

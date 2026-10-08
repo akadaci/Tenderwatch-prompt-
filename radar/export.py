@@ -2,7 +2,7 @@
 Filtre validé : amont (étapes 1-2 : préinformations, études, gros permis), attributions de travaux (étape 5),
 et appels d'offres en cours (étape 4) dans un onglet séparé. Doublons BDA/TED retirés (TED gardé : il a le gagnant)."""
 import json, re, unicodedata
-from radar import gamme
+from radar import gamme, bureaux
 from datetime import datetime, timedelta, timezone
 from radar.common import DATA, now_iso
 
@@ -132,12 +132,15 @@ def build():
                       "auteur": c.get("auteur", [])[:4],
                       "fixations": [{**it, "fischer": [gamme.resume(f) for f in gamme.familles(it["texte"])]}
                                     for it in c.get("fixations", [])][:15]}
+        bur = [{"role": "Bureau d'études désigné (mission d'étude)", "nom": r["be"], "cle": bureaux.cle(r["be"]), "src": "avis"}] if r.get("be") else []
+        if c and not c.get("erreur"):
+            bur += [{**b, "cle": bureaux.cle(b["nom"]), "src": "cahier"} for b in bureaux.extraire(c.get("auteur", []))]
         out.append({k: v for k, v in {
             "id": r["id"], "vue": vue, "etape": e, "src": r["source_type"], "nom": nom, "mo": r.get("mo"),
             "lieu": r.get("lieu"), "region": region(r), "secteur": secteur(r) or "Autres",
             "entreprise": r.get("entreprise") or (", ".join(w["nom"] for w in gagnants) if vue == "attributions" else ""),
             "bce": r.get("bce") or (re.sub(r"\D", "", gagnants[0].get("bce", ""))[:10] if gagnants else ""),
-            "be": r.get("be"), "montant": r.get("montant"),
+            "be": r.get("be"), "montant": r.get("montant"), "bureaux": bur,
             "date": r.get("date_publication"), "limite": r.get("date_limite") or d.get("date_limite"), "cpv": r.get("cpv"),
             "geo": [g[0], g[1]] if g else None, "geo_lieu": f"{g[2]} ({prec})" if g else "", "cahier": cahier,
             "source": r.get("source"), "preuve": r.get("preuve"), "desc": (r.get("notes") or "")[:280],

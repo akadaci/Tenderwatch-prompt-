@@ -61,3 +61,15 @@ def test_gamme_correspondances():
     assert familles("le bureau d'études vérifiera les plans") == []
     assert familles("revêtu d'un coating autonivelant à base de résine époxy") == []
     assert [f["id"] for f in familles("tiges filetées scellées chimiquement dans le béton")] == ["chimique"]
+
+
+def test_bureaux():
+    from radar.bureaux import extraire, cle
+    def noms(t): return [(b["role"], b["nom"]) for b in extraire([{"texte": t, "ou": {}}])]
+    assert noms("Auteur de projet : IGRETEC Boulevard Mayence, n°1 à 6000 CHARLEROI") == [("Auteur de projet", "IGRETEC")]
+    assert noms("Bureau d'études : | Delta GC Bd Emile de Laveleye 40 4020 Liège") == [("Bureau d'études", "Delta GC")]
+    assert noms("AUTEUR DE PROJET CHARGÉ DE LA CONCEPTION, DU CONTRÔLE ET DE LA HAUTE SURVEILLANCE IGRETEC, Boulevard") == [("Auteur de projet", "IGRETEC")]
+    assert noms("IGRETEC - Bureau d'études Travaux d'amélioration de la rue") == [("Bureau d'études", "IGRETEC")]
+    assert noms("AUTEUR DE PROJET INDICE DATE DESIGNATION") == []          # en-tête de tableau : pas de nom inventé
+    assert noms("BUREAU D'ETUDES CODE LIBELLE DES TRAVAUX") == []
+    assert cle("Cabinet d'architectes p. HD") == cle("Cabinet d'architecture p.HD")
