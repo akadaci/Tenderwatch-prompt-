@@ -1,15 +1,11 @@
 {
- "updated": "2026-10-08T10:41:58Z",
+ "updated": "2026-10-08T10:45:39Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
  "received": 764,
  "kept": 347,
  "count": 1192,
- "new_ids": [
-  "bda-e148ee99-2417-445c-947d-a84ba433022e",
-  "bda-edbca323-bb33-4c02-ac2e-41b219db8b0e",
-  "bda-8275396d-1a13-4690-a816-5e8ea05e1238"
- ],
+ "new_ids": [],
  "records": [
   {
    "id": "bda-8ac16292-1003-4fb5-a644-1ff28036b88c",
@@ -424,7 +420,7 @@
    "verif_date": "2026-10-08",
    "preuve": "Bulletin des Adjudications, réf. BAC/2026/043 (avis de marché, sous-type eForms 17), publié le 2026-10-08.",
    "date_publication": "2026-10-08",
-   "cpv": "71355000,71354300,71351810,71250000",
+   "cpv": "71355000,71354300,71250000,71351810",
    "ted_ref": "BAC/2026/043_pub01",
    "notes": "Raamovereenkomst voor een studiebureau voor het uitvoeren van Landmeetkundige opdrachten.",
    "first_seen": "2026-10-08T05:26:50Z",
@@ -5420,7 +5416,7 @@
    "verif_date": "2026-10-08",
    "preuve": "Bulletin des Adjudications, réf. EE_2026_0_053 (avis de marché, sous-type eForms 16), publié le 2026-10-06.",
    "date_publication": "2026-10-06",
-   "cpv": "71241000,71621000,71336000,71310000,71314300,71315400,71600000",
+   "cpv": "71241000,71600000,71336000,71310000,71314300,71315400,71621000",
    "ted_ref": "EE_2026_0_053_pub01",
    "notes": "De afdeling Energie-Efficiëntie van het Vlaams Energiebedrijf (hierna “veb”) biedt ter ondersteuning van haar klanten diverse energiebesparende en renovatieoplossingen aan. Via deze Raamovereenkomst wil veb de opmaak van studiedossiers voor patrimonia in eigendom van of beheerd door de Opdrachtgever",
    "first_seen": "2026-10-07T23:29:15Z",
