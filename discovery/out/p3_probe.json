@@ -1,36 +1,41 @@
 [
  {
   "url": "https://cloud.3p.eu/Downloads/1/1221/69/2026",
-  "etapes": [],
+  "etapes": [
+   "Submit",
+   "BELGIQUE"
+  ],
   "titre": "",
-  "texte": "BELGIË\nBELGIQUE\nFRANCE\nThis site makes use of cookies to improve your user experience. Read our cookie policy Submit\n3p.eu",
+  "texte": "Conformément à l’article 64 de la loi du 17/06/2016, le pouvoir adjudicateur offre, par moyen électronique, un accès gratuit, sans restriction, complet et direct aux documents du marché. Il n’est donc pas obligatoire de vous identifier. Cependant, en vous identifiant, vous pourrez être tenus informés des modifications et précisions apportées aux documents du marché. Nous vous recommandons dès lors de compléter le nom de votre entreprise et votre adresse e-mail :\n\nNom de société\nEmail\n@\t\nJe ne désire pas m'identifier\nPolitique de confidentialité | Conditions d'utilisation",
   "liens": [
    [
-    "BELGIË",
-    "javascript:__doPostBack('ctl00$BodyContent$btnBENL','')"
+    "Politique de confidentialité",
+    "https://www.3p.eu/be-fr/politique-de-confidentialite"
    ],
    [
-    "BELGIQUE",
-    "javascript:__doPostBack('ctl00$BodyContent$btnBEFR','')"
-   ],
-   [
-    "FRANCE",
-    "javascript:__doPostBack('ctl00$BodyContent$btnFR','')"
-   ],
-   [
-    "Read our cookie policy",
-    "https://3p.eu/privacybeleid/"
-   ],
-   [
-    "Submit",
-    "javascript:__doPostBack('ctl00$BodyContent$ButtonAcceptCookies','')"
-   ],
-   [
-    "3p.eu",
-    "https://www.3p.eu/"
+    "Conditions d'utilisation",
+    "https://www.3p.eu/be-fr/conditions-dutilisation-en-ligne"
    ]
   ],
   "champs": [
+   [
+    "INPUT",
+    "hidden",
+    "__LASTFOCUS",
+    ""
+   ],
+   [
+    "INPUT",
+    "hidden",
+    "__VIEWSTATE",
+    "/wEPDwUKLTQzMDk3NTc2Ng9kFgJmD2QWBAIFD2QWBAIBDw8WAh4EVGV4dAWv"
+   ],
+   [
+    "INPUT",
+    "hidden",
+    "__VIEWSTATEGENERATOR",
+    "9242A322"
+   ],
    [
     "INPUT",
     "hidden",
@@ -46,30 +51,52 @@
    [
     "INPUT",
     "hidden",
-    "__VIEWSTATE",
-    "/wEPDwUKMTk2ODYyNTY2Nw9kFgJmD2QWAgIDD2QWAgIDDxYCHgRUZXh0BSg8"
-   ],
-   [
-    "INPUT",
-    "hidden",
-    "__VIEWSTATEGENERATOR",
-    "46D8FAE8"
-   ],
-   [
-    "INPUT",
-    "hidden",
     "__EVENTVALIDATION",
-    "/wEdAAWt9Iou1Pfp1kxJU+TGpuLsntX9e388+YkSiO1rk+wFiqAGJgJWM1nJ"
+    "/wEdAAVbTe2UJsdZeqKEhKnr0dRGpKmHFrPmgaxVUq1mozGpnEeY9z+iGEHd"
+   ],
+   [
+    "INPUT",
+    "text",
+    "ctl00$BodyContent$txtName",
+    ""
+   ],
+   [
+    "INPUT",
+    "email",
+    "ctl00$BodyContent$txtEmail",
+    ""
+   ],
+   [
+    "INPUT",
+    "checkbox",
+    "ctl00$BodyContent$checkInfo",
+    "on"
+   ],
+   [
+    "INPUT",
+    "submit",
+    "ctl00$BodyContent$btnVerify",
+    "Vérifiez l'information"
    ]
   ],
   "reponses": [
+   {
+    "url": "https://cloud.3p.eu/Web/Images/boxed.png",
+    "status": 200,
+    "type": "image/png"
+   },
+   {
+    "url": "https://cloud.3p.eu/Web/Country.aspx",
+    "status": 302,
+    "type": "text/html; charset=utf-8"
+   },
    {
     "url": "https://cloud.3p.eu/Downloads/1/1221/69/2026",
     "status": 302,
     "type": "text/html; charset=utf-8"
    },
    {
-    "url": "https://cloud.3p.eu/Web/Country.aspx",
+    "url": "https://cloud.3p.eu/Web/Information.aspx",
     "status": 200,
     "type": "text/html; charset=utf-8"
    },
@@ -79,54 +106,144 @@
     "type": "text/css"
    },
    {
-    "url": "https://cloud.3p.eu/Web/Images/Flags/belgium.png",
+    "url": "https://www.google.com/recaptcha/api.js",
+    "status": 200,
+    "type": "text/javascript; charset=utf-8"
+   },
+   {
+    "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js",
+    "status": 200,
+    "type": "text/javascript; charset=UTF-8"
+   },
+   {
+    "url": "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css",
+    "status": 200,
+    "type": "text/css; charset=utf-8"
+   },
+   {
+    "url": "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js",
+    "status": 200,
+    "type": "application/javascript; charset=utf-8"
+   },
+   {
+    "url": "https://cloud.3p.eu/Web/Images/3p-transparent.png",
     "status": 200,
     "type": "image/png"
    },
    {
-    "url": "https://cloud.3p.eu/Web/Images/Flags/france.png",
+    "url": "https://cloud.3p.eu/WebResource.axd?d=F3gJYKlHIsIjQsAEqVabi10MW0kPzru6V2vHQzBNmsAria5ywWt4D8KWIJnZI9gTFhomQMOLEO_UUhiEKUtVbajMEi8N0p7xf8jEvHLTlac1&t=639190905332169432",
+    "status": 200,
+    "type": "application/x-javascript"
+   },
+   {
+    "url": "https://cloud.3p.eu/WebResource.axd?d=bRNlvDeA3HpdMM5chVmWKoegtmJPb95s9tQpHPO5yh_RNGXZJzGS3BOB3iGUgR3d3TOmKGX4zFA4KO8hvhMQ8ehvLKThZ8LQGEuwhhPUgmo1&t=639190905332169432",
+    "status": 200,
+    "type": "application/x-javascript"
+   },
+   {
+    "url": "https://cloud.3p.eu/Web/Scripts/jQuery.js",
+    "status": 200,
+    "type": "application/javascript"
+   },
+   {
+    "url": "https://www.gstatic.com/recaptcha/releases/nY0xPItgwtktOA7U0o-VsaLz/recaptcha__fr.js",
+    "status": 200,
+    "type": "text/javascript"
+   },
+   {
+    "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LfBdB0TAAAAAIkG9n3DIB-AGinTKKJj5JMK7fj-&co=aHR0cHM6Ly9jbG91ZC4zcC5ldTo0NDM.&hl=fr&v=nY0xPItgwtktOA7U0o-VsaLz&size=normal&anchor-ms=20000&execute-ms",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+   },
+   {
+    "url": "https://www.gstatic.com/recaptcha/releases/nY0xPItgwtktOA7U0o-VsaLz/styles__ltr.css",
+    "status": 200,
+    "type": "text/css"
+   },
+   {
+    "url": "https://www.gstatic.com/recaptcha/releases/nY0xPItgwtktOA7U0o-VsaLz/recaptcha__fr.js",
+    "status": 200,
+    "type": "text/javascript"
+   },
+   {
+    "url": "https://www.gstatic.com/recaptcha/api2/logo_48.png",
     "status": 200,
     "type": "image/png"
    },
    {
-    "url": "https://cloud.3p.eu/Web/Images/boxed.png",
+    "url": "https://www.google.com/recaptcha/api2/webworker.js?hl=fr&v=nY0xPItgwtktOA7U0o-VsaLz",
     "status": 200,
-    "type": "image/png"
+    "type": "text/javascript; charset=utf-8"
+   },
+   {
+    "url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+    "status": 200,
+    "type": "font/woff2"
+   },
+   {
+    "url": "https://www.gstatic.com/recaptcha/releases/nY0xPItgwtktOA7U0o-VsaLz/recaptcha__fr.js",
+    "status": 200,
+    "type": "text/javascript"
+   },
+   {
+    "url": "https://www.google.com/recaptcha/api2/bframe?hl=fr&v=nY0xPItgwtktOA7U0o-VsaLz&k=6LfBdB0TAAAAAIkG9n3DIB-AGinTKKJj5JMK7fj-&bft=0dAFcWeA6NuAxmy85Hpd1hJs5MngQNbJOCyCFrGRKFoFR6mkKWZJOWRH_pmUOyszX7UvQlys3UJ",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+   },
+   {
+    "url": "https://www.gstatic.com/recaptcha/releases/nY0xPItgwtktOA7U0o-VsaLz/styles__ltr.css",
+    "status": 200,
+    "type": "text/css"
+   },
+   {
+    "url": "https://www.gstatic.com/recaptcha/releases/nY0xPItgwtktOA7U0o-VsaLz/recaptcha__fr.js",
+    "status": 200,
+    "type": "text/javascript"
+   },
+   {
+    "url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+    "status": 200,
+    "type": "font/woff2"
    }
   ]
  },
  {
   "url": "https://cloud.3p.eu/Downloads/1/1377/LG/2026",
-  "etapes": [],
+  "etapes": [
+   "Submit",
+   "BELGIQUE"
+  ],
   "titre": "",
-  "texte": "BELGIË\nBELGIQUE\nFRANCE\nThis site makes use of cookies to improve your user experience. Read our cookie policy Submit\n3p.eu",
+  "texte": "Conformément à l’article 64 de la loi du 17/06/2016, le pouvoir adjudicateur offre, par moyen électronique, un accès gratuit, sans restriction, complet et direct aux documents du marché. Il n’est donc pas obligatoire de vous identifier. Cependant, en vous identifiant, vous pourrez être tenus informés des modifications et précisions apportées aux documents du marché. Nous vous recommandons dès lors de compléter le nom de votre entreprise et votre adresse e-mail :\n\nNom de société\nEmail\n@\t\nJe ne désire pas m'identifier\nPolitique de confidentialité | Conditions d'utilisation",
   "liens": [
    [
-    "BELGIË",
-    "javascript:__doPostBack('ctl00$BodyContent$btnBENL','')"
+    "Politique de confidentialité",
+    "https://www.3p.eu/be-fr/politique-de-confidentialite"
    ],
    [
-    "BELGIQUE",
-    "javascript:__doPostBack('ctl00$BodyContent$btnBEFR','')"
-   ],
-   [
-    "FRANCE",
-    "javascript:__doPostBack('ctl00$BodyContent$btnFR','')"
-   ],
-   [
-    "Read our cookie policy",
-    "https://3p.eu/privacybeleid/"
-   ],
-   [
-    "Submit",
-    "javascript:__doPostBack('ctl00$BodyContent$ButtonAcceptCookies','')"
-   ],
-   [
-    "3p.eu",
-    "https://www.3p.eu/"
+    "Conditions d'utilisation",
+    "https://www.3p.eu/be-fr/conditions-dutilisation-en-ligne"
    ]
   ],
   "champs": [
+   [
+    "INPUT",
+    "hidden",
+    "__LASTFOCUS",
+    ""
+   ],
+   [
+    "INPUT",
+    "hidden",
+    "__VIEWSTATE",
+    "/wEPDwUKLTQzMDk3NTc2Ng9kFgJmD2QWBAIFD2QWBAIBDw8WAh4EVGV4dAWv"
+   ],
+   [
+    "INPUT",
+    "hidden",
+    "__VIEWSTATEGENERATOR",
+    "9242A322"
+   ],
    [
     "INPUT",
     "hidden",
@@ -142,30 +259,52 @@
    [
     "INPUT",
     "hidden",
-    "__VIEWSTATE",
-    "/wEPDwUKMTk2ODYyNTY2Nw9kFgJmD2QWAgIDD2QWAgIDDxYCHgRUZXh0BSg8"
-   ],
-   [
-    "INPUT",
-    "hidden",
-    "__VIEWSTATEGENERATOR",
-    "46D8FAE8"
-   ],
-   [
-    "INPUT",
-    "hidden",
     "__EVENTVALIDATION",
-    "/wEdAAWt9Iou1Pfp1kxJU+TGpuLsntX9e388+YkSiO1rk+wFiqAGJgJWM1nJ"
+    "/wEdAAVbTe2UJsdZeqKEhKnr0dRGpKmHFrPmgaxVUq1mozGpnEeY9z+iGEHd"
+   ],
+   [
+    "INPUT",
+    "text",
+    "ctl00$BodyContent$txtName",
+    ""
+   ],
+   [
+    "INPUT",
+    "email",
+    "ctl00$BodyContent$txtEmail",
+    ""
+   ],
+   [
+    "INPUT",
+    "checkbox",
+    "ctl00$BodyContent$checkInfo",
+    "on"
+   ],
+   [
+    "INPUT",
+    "submit",
+    "ctl00$BodyContent$btnVerify",
+    "Vérifiez l'information"
    ]
   ],
   "reponses": [
+   {
+    "url": "https://cloud.3p.eu/Web/Images/boxed.png",
+    "status": 200,
+    "type": "image/png"
+   },
+   {
+    "url": "https://cloud.3p.eu/Web/Country.aspx",
+    "status": 302,
+    "type": "text/html; charset=utf-8"
+   },
    {
     "url": "https://cloud.3p.eu/Downloads/1/1377/LG/2026",
     "status": 302,
     "type": "text/html; charset=utf-8"
    },
    {
-    "url": "https://cloud.3p.eu/Web/Country.aspx",
+    "url": "https://cloud.3p.eu/Web/Information.aspx",
     "status": 200,
     "type": "text/html; charset=utf-8"
    },
@@ -175,19 +314,104 @@
     "type": "text/css"
    },
    {
-    "url": "https://cloud.3p.eu/Web/Images/Flags/belgium.png",
+    "url": "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css",
+    "status": 200,
+    "type": "text/css; charset=utf-8"
+   },
+   {
+    "url": "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js",
+    "status": 200,
+    "type": "application/javascript; charset=utf-8"
+   },
+   {
+    "url": "https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js",
+    "status": 200,
+    "type": "text/javascript; charset=UTF-8"
+   },
+   {
+    "url": "https://www.google.com/recaptcha/api.js",
+    "status": 200,
+    "type": "text/javascript; charset=utf-8"
+   },
+   {
+    "url": "https://cloud.3p.eu/Web/Images/3p-transparent.png",
     "status": 200,
     "type": "image/png"
    },
    {
-    "url": "https://cloud.3p.eu/Web/Images/Flags/france.png",
+    "url": "https://cloud.3p.eu/WebResource.axd?d=bRNlvDeA3HpdMM5chVmWKoegtmJPb95s9tQpHPO5yh_RNGXZJzGS3BOB3iGUgR3d3TOmKGX4zFA4KO8hvhMQ8ehvLKThZ8LQGEuwhhPUgmo1&t=639190905332169432",
+    "status": 200,
+    "type": "application/x-javascript"
+   },
+   {
+    "url": "https://cloud.3p.eu/Web/Scripts/jQuery.js",
+    "status": 200,
+    "type": "application/javascript"
+   },
+   {
+    "url": "https://cloud.3p.eu/WebResource.axd?d=F3gJYKlHIsIjQsAEqVabi10MW0kPzru6V2vHQzBNmsAria5ywWt4D8KWIJnZI9gTFhomQMOLEO_UUhiEKUtVbajMEi8N0p7xf8jEvHLTlac1&t=639190905332169432",
+    "status": 200,
+    "type": "application/x-javascript"
+   },
+   {
+    "url": "https://www.gstatic.com/recaptcha/releases/nY0xPItgwtlvjEjk2TqdwOQz/recaptcha__fr.js",
+    "status": 200,
+    "type": "text/javascript"
+   },
+   {
+    "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LfBdB0TAAAAAIkG9n3DIB-AGinTKKJj5JMK7fj-&co=aHR0cHM6Ly9jbG91ZC4zcC5ldTo0NDM.&hl=fr&v=nY0xPItgwtlvjEjk2TqdwOQz&size=normal&anchor-ms=20000&execute-ms",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+   },
+   {
+    "url": "https://www.gstatic.com/recaptcha/releases/nY0xPItgwtlvjEjk2TqdwOQz/styles__ltr.css",
+    "status": 200,
+    "type": "text/css"
+   },
+   {
+    "url": "https://www.gstatic.com/recaptcha/releases/nY0xPItgwtlvjEjk2TqdwOQz/recaptcha__fr.js",
+    "status": 200,
+    "type": "text/javascript"
+   },
+   {
+    "url": "https://www.gstatic.com/recaptcha/api2/logo_48.png",
     "status": 200,
     "type": "image/png"
    },
    {
-    "url": "https://cloud.3p.eu/Web/Images/boxed.png",
+    "url": "https://www.google.com/recaptcha/api2/webworker.js?hl=fr&v=nY0xPItgwtlvjEjk2TqdwOQz",
     "status": 200,
-    "type": "image/png"
+    "type": "text/javascript; charset=utf-8"
+   },
+   {
+    "url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+    "status": 200,
+    "type": "font/woff2"
+   },
+   {
+    "url": "https://www.gstatic.com/recaptcha/releases/nY0xPItgwtlvjEjk2TqdwOQz/recaptcha__fr.js",
+    "status": 200,
+    "type": "text/javascript"
+   },
+   {
+    "url": "https://www.google.com/recaptcha/api2/bframe?hl=fr&v=nY0xPItgwtlvjEjk2TqdwOQz&k=6LfBdB0TAAAAAIkG9n3DIB-AGinTKKJj5JMK7fj-&bft=0dAFcWeA7yPx7zohScXgpzxsVSml78BbEPoIawzy_l2Xe4XcAkXLWh1OIyCL2bI_yb8xSWdaiU6",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+   },
+   {
+    "url": "https://www.gstatic.com/recaptcha/releases/nY0xPItgwtlvjEjk2TqdwOQz/styles__ltr.css",
+    "status": 200,
+    "type": "text/css"
+   },
+   {
+    "url": "https://www.gstatic.com/recaptcha/releases/nY0xPItgwtlvjEjk2TqdwOQz/recaptcha__fr.js",
+    "status": 200,
+    "type": "text/javascript"
+   },
+   {
+    "url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+    "status": 200,
+    "type": "font/woff2"
    }
   ]
  }
