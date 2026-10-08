@@ -1,0 +1,302 @@
+<title>Radar Chantiers Public</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@100..125,500..800&family=Public+Sans:wght@400;500;600&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+/* Layout : registre d'avis officiels — bandeau titre, onglets par moment du chantier, filtres, fiches empilées */
+:root{
+  --bg:#eef2f1; --surface:#ffffff; --ink:#16201d; --muted:#57635f; --line:#d3dbd8;
+  --accent:#1d4e6b; --accent-soft:#e1ebf1;
+  --amont:#a85f00; --amont-soft:#fbefdc;
+  --attr:#2b7445; --attr-soft:#e2f1e6;
+  --appel:#3f5ca6; --appel-soft:#e6ebf8;
+  --bad:#a3322a; --bad-soft:#f8e3e1;
+  --f-display:"Archivo","Arial Narrow",system-ui,sans-serif;
+  --f-body:"Public Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --f-mono:"JetBrains Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#111816; --surface:#19221f; --ink:#e4ebe8; --muted:#97a6a0; --line:#2c3833;
+  --accent:#7fb3d4; --accent-soft:#1b2c37;
+  --amont:#f0aa48; --amont-soft:#37280f; --attr:#6fc48c; --attr-soft:#163020;
+  --appel:#93a9ec; --appel-soft:#1d2540; --bad:#ef8b82; --bad-soft:#3b1d1a; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#111816; --surface:#19221f; --ink:#e4ebe8; --muted:#97a6a0; --line:#2c3833;
+  --accent:#7fb3d4; --accent-soft:#1b2c37;
+  --amont:#f0aa48; --amont-soft:#37280f; --attr:#6fc48c; --attr-soft:#163020;
+  --appel:#93a9ec; --appel-soft:#1d2540; --bad:#ef8b82; --bad-soft:#3b1d1a; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font:15px/1.5 var(--f-body)}
+.wrap{max-width:900px;margin:0 auto;padding-inline:16px;padding-block:20px 64px;display:grid;gap:14px;grid-template-columns:minmax(0,1fr)}
+header{display:grid;gap:6px}
+.eyebrow{font:600 12px var(--f-body);letter-spacing:.09em;text-transform:uppercase;color:var(--accent)}
+h1{font-family:var(--f-display);font-stretch:118%;font-weight:800;font-size:clamp(28px,6vw,40px);line-height:1;margin:0;text-transform:uppercase;letter-spacing:-.01em;text-wrap:balance}
+.lede{margin:0;color:var(--muted);font-size:14px;max-width:62ch}
+.lede b{color:var(--ink);font-weight:600}
+.tabs{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);display:flex;gap:2px;overflow-x:auto;border-bottom:2px solid var(--line);padding-top:6px;scrollbar-width:thin}
+.tab{flex:0 0 auto;font:600 14px var(--f-body);background:none;border:0;border-bottom:3px solid transparent;margin-bottom:-2px;color:var(--muted);padding:9px 12px;cursor:pointer;display:flex;gap:6px;align-items:baseline}
+.tab .n{font:500 12px var(--f-mono);font-variant-numeric:tabular-nums}
+.tab[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--tc,var(--accent))}
+.tab[data-v="amont"]{--tc:var(--amont)} .tab[data-v="attributions"]{--tc:var(--attr)} .tab[data-v="appels"]{--tc:var(--appel)}
+.viewnote{margin:0;font-size:13px;color:var(--muted)}
+.filters{display:grid;gap:8px}
+.chips{display:flex;gap:6px;flex-wrap:wrap}
+.chip{font:500 13px var(--f-body);border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:999px;padding:5px 11px;cursor:pointer;display:flex;gap:6px;align-items:baseline}
+.chip .n{font:500 11px var(--f-mono);color:var(--muted)}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.chip[aria-pressed="true"] .n{color:var(--bg)}
+.row2{display:grid;grid-template-columns:1fr auto;gap:8px}
+@media (max-width:520px){.row2{grid-template-columns:1fr}}
+input[type=search],select,textarea{font:15px var(--f-body);padding:9px 11px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--ink);width:100%}
+textarea{min-height:64px;resize:vertical}
+.btn{font:600 13px var(--f-body);border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:7px;padding:6px 11px;cursor:pointer;text-decoration:none;display:inline-flex;align-items:center;gap:5px}
+.btn.primary{background:var(--accent);border-color:var(--accent);color:var(--surface)}
+.btn:focus-visible,.chip:focus-visible,.tab:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible,.st button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.count{font-size:13px;color:var(--muted);margin:0}
+.list{display:grid;gap:10px;grid-template-columns:minmax(0,1fr)}
+.card{background:var(--surface);border:1px solid var(--line);border-left:4px solid var(--kc,var(--line));border-radius:8px;padding:12px 14px;display:grid;gap:7px;min-width:0}
+.card.amont{--kc:var(--amont)} .card.attributions{--kc:var(--attr)} .card.appels{--kc:var(--appel)}
+.card.ecarte{opacity:.62}
+.meta{display:flex;flex-wrap:wrap;gap:4px 10px;align-items:center;font-size:12px;color:var(--muted)}
+.date{font:500 12px var(--f-mono);font-variant-numeric:tabular-nums;color:var(--ink)}
+.tag{font:600 11px var(--f-body);letter-spacing:.04em;text-transform:uppercase;padding:2px 7px;border-radius:4px;background:var(--accent-soft);color:var(--accent)}
+.tag.src{background:var(--bg);color:var(--muted);border:1px solid var(--line)}
+.tag.k-amont{background:var(--amont-soft);color:var(--amont)} .tag.k-attributions{background:var(--attr-soft);color:var(--attr)} .tag.k-appels{background:var(--appel-soft);color:var(--appel)}
+.card h3{margin:0;font:700 16px/1.3 var(--f-body);text-wrap:balance;overflow-wrap:anywhere}
+.who{font-size:14px;color:var(--muted);overflow-wrap:anywhere}
+.who b{color:var(--ink);font-weight:600}
+.win{font-size:14px;background:var(--attr-soft);border-radius:6px;padding:7px 10px;overflow-wrap:anywhere}
+.win.be{background:var(--amont-soft)}
+.win a{color:var(--accent);font-weight:600}
+.win span{display:block;font:600 11px var(--f-body);letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.desc{font-size:13px;color:var(--muted);margin:0;overflow-wrap:anywhere;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.desc.open{-webkit-line-clamp:unset;display:block}
+.refs{font:500 11px var(--f-mono);color:var(--muted);overflow-wrap:anywhere}
+.due{font:500 12px var(--f-mono);padding:2px 6px;border-radius:4px;background:var(--appel-soft);color:var(--appel)}
+.due.soon{background:var(--bad-soft);color:var(--bad)}
+.due.past{background:var(--bg);color:var(--muted)}
+.actions{display:flex;flex-wrap:wrap;gap:6px;align-items:center;justify-content:space-between}
+.st{display:flex;border:1px solid var(--line);border-radius:7px;overflow:hidden;flex-wrap:wrap}
+.st button{font:600 12px var(--f-body);border:0;border-right:1px solid var(--line);background:var(--surface);color:var(--muted);padding:6px 9px;cursor:pointer}
+.st button:last-child{border-right:0}
+.st button[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
+.st button[data-s="ecarte"][aria-pressed="true"]{background:var(--bad);color:var(--surface)}
+.links{display:flex;gap:6px;flex-wrap:wrap}
+.note{display:grid;gap:6px}
+.note p{margin:0;font-size:13px;background:var(--bg);border-radius:6px;padding:7px 10px;white-space:pre-wrap;overflow-wrap:anywhere}
+.empty{background:var(--surface);border:1px dashed var(--line);border-radius:8px;padding:22px;color:var(--muted);text-align:center}
+.more{justify-self:center}
+.toast{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(20px + env(safe-area-inset-bottom,0px));background:var(--ink);color:var(--bg);padding:8px 14px;border-radius:6px;font-weight:600;font-size:14px;z-index:20}
+footer{font-size:12.5px;color:var(--muted);border-top:1px solid var(--line);padding-top:12px;display:grid;gap:6px}
+footer p{margin:0;max-width:75ch}
+footer a{color:var(--accent)}
+.hint{font-size:12px;color:var(--muted)}
+</style>
+
+<div class="wrap">
+  <header>
+    <span class="eyebrow">Marchés publics · Belgique &amp; Grand-Duché</span>
+    <h1>Radar Chantiers Public</h1>
+    <p class="lede" id="lede">Chargement des avis…</p>
+  </header>
+
+  <nav class="tabs" role="tablist" aria-label="Moment du chantier">
+    <button class="tab" role="tab" data-v="amont" aria-selected="true" type="button">Amont <span class="n" id="n-amont">–</span></button>
+    <button class="tab" role="tab" data-v="attributions" aria-selected="false" type="button">Attributions <span class="n" id="n-attributions">–</span></button>
+    <button class="tab" role="tab" data-v="appels" aria-selected="false" type="button">Appels en cours <span class="n" id="n-appels">–</span></button>
+    <button class="tab" role="tab" data-v="suivi" aria-selected="false" type="button">Mon suivi <span class="n" id="n-suivi">0</span></button>
+  </nav>
+  <p class="viewnote" id="viewnote"></p>
+
+  <div class="filters">
+    <div class="chips" id="regions" role="toolbar" aria-label="Région"></div>
+    <div class="row2">
+      <input type="search" id="q" placeholder="Rechercher : commune, acheteur, entreprise, mot-clé…" aria-label="Rechercher">
+      <select id="secteur" aria-label="Secteur Fischer"><option value="">Tous les secteurs</option></select>
+    </div>
+    <label class="hint"><input type="checkbox" id="showEcartes"> Afficher les fiches écartées</label>
+  </div>
+
+  <p class="count" id="count"></p>
+  <div class="list" id="list"></div>
+  <button class="btn more" id="more" type="button" hidden>Afficher 50 de plus</button>
+
+  <footer>
+    <p><b>Sources officielles</b> : <a href="https://ted.europa.eu" target="_blank" rel="noopener">TED</a> (avis européens), <a href="https://www.publicprocurement.be/bda" target="_blank" rel="noopener">Bulletin des Adjudications</a> (e-Procurement, SPF BOSA), permis d'urbanisme bruxellois (urban.brussels, service NOVA). Chaque fiche renvoie à son avis d'origine.</p>
+    <p><b>Méthode</b> : collecte automatique toutes les 6 h, 60 derniers jours. Amont = préinformations, missions d'étude et gros permis ; Attributions = marchés de travaux attribués. Les secteurs sont classés automatiquement d'après les codes CPV et des mots-clés : indicatif. Les avis publiés au BDA et sur TED ne sont gardés qu'une fois.</p>
+    <p><b>Non couvert</b> : permis wallons et luxembourgeois, petits marchés luxembourgeois (portail avec connexion obligatoire), nom du gagnant pour les attributions publiées uniquement au BDA.</p>
+    <p id="upd"></p>
+  </footer>
+</div>
+<div class="toast" id="toast" hidden></div>
+
+<script>
+const $ = id => document.getElementById(id);
+const VIEWS = {
+  amont: "Projets avant le cahier des charges : préinformations, études lancées ou attribuées, gros permis. C'est ici que Fischer peut être prescrit.",
+  attributions: "Marchés de travaux attribués : l'entreprise gagnante est à appeler.",
+  appels: "Appels d'offres de travaux publiés : vérifier si les critères techniques sont dans le cahier des charges.",
+  suivi: "Les fiches que tu as marquées. Ton suivi est enregistré et retrouvé sur PC comme sur téléphone."
+};
+const REGIONS = ["Wallonie", "Bruxelles", "Flandre", "Grand-Duché", "Non précisé"];
+const STATUTS = [["avoir", "À voir"], ["interet", "Intéressant"], ["contacte", "Contacté"], ["ecarte", "Écarté"]];
+const LABEL = {amont: "Amont", attributions: "Attribution", appels: "Appel"};
+let DATA = [], view = "amont", region = "", q = "", sect = "", shown = 50, showEcartes = false;
+let suivi = {}, db = null, canWrite = true, openNotes = new Set(), openDesc = new Set();
+
+function esc(s) { return String(s ?? "").replace(/[&<>"]/g, c => ({"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;"}[c])); }
+function fmt(d) { if (!d) return ""; const p = d.split("-"); return p.length === 3 ? `${p[2]}/${p[1]}/${p[0].slice(2)}` : d; }
+function eur(v) { const n = Number(v); return n ? new Intl.NumberFormat("fr-BE", {maximumFractionDigits: 0}).format(n) + " €" : ""; }
+function norm(s) { return String(s || "").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, ""); }
+function key(id) { return id.replace(/[^A-Za-z0-9_\-.~:@+]/g, "_"); }
+function toast(t) { const e = $("toast"); e.textContent = t; e.hidden = false; clearTimeout(toast.t); toast.t = setTimeout(() => e.hidden = true, 2200); }
+function daysTo(d) { if (!d) return null; const t = new Date(); t.setHours(0, 0, 0, 0); return Math.round((new Date(d + "T00:00:00") - t) / 864e5); }
+
+function inView(r) {
+  if (view === "suivi") return !!suivi[key(r.id)];
+  return r.vue === view;
+}
+function filtered() {
+  const n = norm(q).trim();
+  return DATA.filter(r => inView(r)
+    && (!region || r.region === region)
+    && (!sect || r.secteur === sect)
+    && (showEcartes || view === "suivi" || suivi[key(r.id)]?.statut !== "ecarte")
+    && (!n || norm([r.nom, r.mo, r.lieu, r.entreprise, r.be, r.desc, r.secteur].join(" ")).includes(n)));
+}
+
+function renderTabs() {
+  for (const v of ["amont", "attributions", "appels"]) $("n-" + v).textContent = DATA.filter(r => r.vue === v).length;
+  $("n-suivi").textContent = DATA.filter(r => suivi[key(r.id)]).length;
+  document.querySelectorAll(".tab").forEach(b => b.setAttribute("aria-selected", b.dataset.v === view));
+  $("viewnote").textContent = VIEWS[view];
+}
+function renderRegions() {
+  const el = $("regions"); el.textContent = "";
+  const base = DATA.filter(r => inView(r));
+  const mk = (label, val, n) => { const b = document.createElement("button"); b.type = "button"; b.className = "chip";
+    b.setAttribute("aria-pressed", region === val); b.innerHTML = `${esc(label)} <span class="n">${n}</span>`;
+    b.onclick = () => { region = val; shown = 50; render(); }; el.appendChild(b); };
+  mk("Toutes", "", base.length);
+  REGIONS.forEach(g => { const n = base.filter(r => r.region === g).length; if (n) mk(g, g, n); });
+}
+function card(r) {
+  const k = key(r.id), s = suivi[k] || {};
+  const el = document.createElement("article");
+  el.className = `card ${r.vue}${s.statut === "ecarte" ? " ecarte" : ""}`;
+  const dd = daysTo(r.limite);
+  const due = r.limite ? `<span class="due${dd < 0 ? " past" : dd <= 10 ? " soon" : ""}">${dd < 0 ? "clôturé" : "J-" + dd} · ${fmt(r.limite)}</span>` : "";
+  let who = "";
+  if (r.entreprise) who = `<div class="win"><span>Entreprise gagnante</span>${esc(r.entreprise)}${r.bce ? ` · <a href="https://kbopub.economie.fgov.be/kbopub/toonondernemingps.html?ondernemingsnummer=${esc(r.bce)}" target="_blank" rel="noopener">BCE ${esc(r.bce)}</a>` : ""}</div>`;
+  else if (r.be) who = `<div class="win be"><span>Bureau d'études désigné</span>${esc(r.be)}</div>`;
+  else if (r.vue === "attributions") who = `<div class="hint">Gagnant non repris dans la liste du BDA : ouvrir l'avis.</div>`;
+  el.innerHTML = `
+    <div class="meta"><span class="date">${fmt(r.date)}</span><span class="tag k-${r.vue}">${LABEL[r.vue]}</span><span class="tag src">${esc(r.src)}</span><span class="tag">${esc(r.secteur)}</span>${due}</div>
+    <h3>${esc(r.nom || "Sans titre")}</h3>
+    <div class="who">${r.mo ? `<b>${esc(r.mo)}</b>` : ""}${r.mo && r.lieu ? " · " : ""}${esc(r.lieu || "")}${eur(r.montant) ? ` · ${eur(r.montant)}` : ""}</div>
+    ${who}
+    ${r.desc ? `<p class="desc${openDesc.has(k) ? " open" : ""}" data-desc>${esc(r.desc)}</p>` : ""}
+    ${s.note && !openNotes.has(k) ? `<div class="note"><p>${esc(s.note)}</p></div>` : ""}
+    ${openNotes.has(k) ? `<div class="note"><textarea id="note-${esc(k)}" placeholder="Ta note : contact, prochaine action…">${esc(s.note || "")}</textarea><div class="links"><button class="btn primary" type="button" data-savenote>Enregistrer la note</button><button class="btn" type="button" data-cancelnote>Annuler</button></div></div>` : ""}
+    <div class="actions">
+      <div class="st" role="group" aria-label="Statut">${STATUTS.map(([v, l]) => `<button type="button" data-s="${v}" aria-pressed="${s.statut === v}"${canWrite ? "" : " disabled"}>${l}</button>`).join("")}</div>
+      <div class="links">
+        ${r.source ? `<a class="btn" href="${esc(r.source)}" target="_blank" rel="noopener">Voir l'avis ↗</a>` : ""}
+        ${canWrite ? `<button class="btn" type="button" data-note>${s.note ? "Modifier la note" : "Note"}</button>` : ""}
+        <button class="btn" type="button" data-copy>Copier</button>
+      </div>
+    </div>
+    <div class="refs">${esc(r.preuve || "")}${r.cpv ? " · CPV " + esc(r.cpv.split(",").slice(0, 3).join(", ")) : ""}</div>`;
+  el.querySelector("[data-desc]")?.addEventListener("click", () => { openDesc.has(k) ? openDesc.delete(k) : openDesc.add(k); render(); });
+  el.querySelectorAll("[data-s]").forEach(b => b.onclick = () => setStatut(r, b.dataset.s));
+  el.querySelector("[data-note]")?.addEventListener("click", () => { openNotes.add(k); render(); setTimeout(() => $("note-" + k)?.focus(), 30); });
+  el.querySelector("[data-cancelnote]")?.addEventListener("click", () => { openNotes.delete(k); render(); });
+  el.querySelector("[data-savenote]")?.addEventListener("click", () => saveNote(r, $("note-" + k).value));
+  el.querySelector("[data-copy]").onclick = () => copy(r, el);
+  return el;
+}
+function render() {
+  renderTabs(); renderRegions();
+  const items = filtered();
+  const list = $("list"); list.textContent = "";
+  $("count").textContent = DATA.length ? `${items.length} fiche${items.length > 1 ? "s" : ""}` : "";
+  if (!items.length) {
+    const d = document.createElement("div"); d.className = "empty";
+    d.textContent = !DATA.length ? "Les avis n'ont pas pu être chargés. Recharge la page." :
+      view === "suivi" ? "Aucune fiche suivie. Marque une fiche « Intéressant » ou « Contacté » pour la retrouver ici." :
+      "Aucune fiche pour ces filtres.";
+    list.appendChild(d);
+  } else items.slice(0, shown).forEach(r => list.appendChild(card(r)));
+  $("more").hidden = items.length <= shown;
+}
+
+async function setStatut(r, st) {
+  const k = key(r.id), cur = suivi[k] || {};
+  const next = cur.statut === st ? null : st;
+  const body = {...cur, statut: next, id: r.id, titre: r.nom, maj: new Date().toISOString()};
+  if (!next && !cur.note) { delete suivi[k]; render(); await write(k, null); return; }
+  suivi[k] = body; render(); await write(k, body);
+}
+async function saveNote(r, text) {
+  const k = key(r.id), cur = suivi[k] || {};
+  const body = {...cur, note: text.trim(), id: r.id, titre: r.nom, maj: new Date().toISOString()};
+  openNotes.delete(k);
+  if (!body.note && !body.statut) { delete suivi[k]; render(); await write(k, null); return; }
+  suivi[k] = body; render(); await write(k, body);
+}
+async function write(k, body) {
+  if (!db) { toast("Suivi indisponible ici : il n'est pas enregistré"); return; }
+  try {
+    const ref = db.collection("suivi").doc(k);
+    body ? await ref.set(body) : await ref.delete();
+    toast(body ? "Enregistré" : "Retiré du suivi");
+  } catch (e) {
+    if (e && e.code === "invalid_argument") { canWrite = false; render(); toast("Tu peux consulter mais pas modifier ce suivi"); }
+    else toast("Pas enregistré : réessaie dans un instant");
+  }
+}
+async function copy(r, el) {
+  const lines = [r.nom, [r.mo, r.lieu].filter(Boolean).join(" — "),
+    r.entreprise ? "Entreprise gagnante : " + r.entreprise + (r.bce ? " (BCE " + r.bce + ")" : "") : "",
+    r.be ? "Bureau d'études : " + r.be : "", eur(r.montant) ? "Montant : " + eur(r.montant) : "",
+    r.limite ? "Date limite : " + fmt(r.limite) : "", "Secteur : " + r.secteur, "Source : " + (r.source || ""), r.preuve || ""];
+  const t = lines.filter(Boolean).join("\n");
+  try { await navigator.clipboard.writeText(t); toast("Fiche copiée"); }
+  catch { const sel = getSelection(), rg = document.createRange(); rg.selectNodeContents(el.querySelector("h3")); sel.removeAllRanges(); sel.addRange(rg); toast("Copie bloquée : titre sélectionné"); }
+}
+
+document.querySelectorAll(".tab").forEach(b => b.onclick = () => { view = b.dataset.v; region = ""; shown = 50; try { localStorage.setItem("rcp-view", view); } catch {} render(); });
+$("q").addEventListener("input", e => { q = e.target.value; shown = 50; clearTimeout(render.t); render.t = setTimeout(render, 150); });
+$("secteur").onchange = e => { sect = e.target.value; shown = 50; render(); };
+$("showEcartes").onchange = e => { showEcartes = e.target.checked; render(); };
+$("more").onclick = () => { shown += 50; render(); };
+try { const v = localStorage.getItem("rcp-view"); if (v && VIEWS[v]) view = v; } catch {}
+
+(async function load() {
+  try {
+    const res = await fetch("data.json", {cache: "no-cache"});
+    const j = await res.json();
+    DATA = j.records || [];
+    const u = j.updated ? new Date(j.updated) : null;
+    const wal = DATA.filter(r => r.region === "Wallonie").length;
+    $("lede").innerHTML = `<b>${DATA.length} avis</b> des 60 derniers jours, dont <b>${wal} en Wallonie</b>. Mis à jour le ${u ? u.toLocaleString("fr-BE", {dateStyle: "short", timeStyle: "short"}) : "—"}.`;
+    $("upd").textContent = `Données du ${u ? u.toLocaleString("fr-BE") : "—"} · ${j.doublons_retires || 0} doublons BDA/TED retirés.`;
+    const secteurs = [...new Set(DATA.map(r => r.secteur))].sort((a, b) => a.localeCompare(b, "fr"));
+    for (const s of secteurs) { const o = document.createElement("option"); o.value = s; o.textContent = s; $("secteur").appendChild(o); }
+  } catch (e) { $("lede").textContent = "Les avis n'ont pas pu être chargés. Recharge la page."; }
+  render();
+})();
+
+(async function connect() {
+  try {
+    if (!window.claude) { canWrite = false; render(); return; }
+    db = await claude.use("db");
+    const user = await claude.use("user");
+    if (user && user.can && (await user.can("data.write")) === false) canWrite = false;
+    if (!db) { canWrite = false; render(); return; }
+    db.collection("suivi").onSnapshot(snap => {
+      const m = {}; snap.docs.forEach(d => { if (d.exists) m[d.id] = d.data(); });
+      suivi = m; render();
+    }, () => { canWrite = false; render(); });
+  } catch (e) { canWrite = false; render(); }
+})();
+</script>
