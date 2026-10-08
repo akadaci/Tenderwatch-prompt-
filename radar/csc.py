@@ -24,7 +24,7 @@ FORME = re.compile(r"\b(S\.?A\.?|S\.?R\.?L\.?|S\.?P\.?R\.?L\.?|S\.?C\.?R\.?L\.?|
                    r"[Ii]ntercommunale|architectes?\s+associ[ée]s|bureau\s+[A-Z][\w&-]+|atelier\s+d['’]architecture|IGRETEC|IDELUX|IDEA|BEP|IPALLE|INASEP|IGIL|SPI)\b")
 AUTEUR = re.compile(r"(auteur\s+d[eu]\s+projet|auteur\s+du\s+cahier|bureau\s+d['’]?\s*[ée]tudes?|ontwerper|studiebureau|"
                     r"architecte\s*(?:-|:)|ing[ée]nieur\s+en\s+stabilit[ée]|ing[ée]nieur\s+stabilit[ée])", re.I)
-FIX = re.compile(r"\b(chevilles?|goujons?|scellements?|tiges?\s+filet[ée]es?|r[ée]sines?\s+d['’](?:ancrage|injection)|"
+FIX = re.compile(r"\b(chevilles?|goujons?|scellements?\s+chimiques?|tiges?\s+filet[ée]es?|r[ée]sines?\s+d['’](?:ancrage|injection)|"
                  r"mortiers?\s+d['’](?:ancrage|injection|scellement)|ancrages?\s+(?:chimiques?|m[ée]caniques?|dans\s+le\s+b[ée]ton|par\s+(?:cheville|goujon|r[ée]sine))|"
                  r"fixations?\s+(?:chimiques?|m[ée]caniques?|par\s+chevilles?)|ETICS|rails?\s+d['’]ancrage|"
                  r"(?:mastic|manchon|collier|mousse|mortier|joint|calfeutrement|obturation|bouchon|coussin|bande|enduit|plaque)s?\s+(?:\w+\s+){0,2}coupe-feu|"
@@ -32,12 +32,13 @@ FIX = re.compile(r"\b(chevilles?|goujons?|scellements?|tiges?\s+filet[ée]es?|r[
                  r"pluggen|chemische\s+ankers?|keilbouten|draadstang(?:en)?|ankerrails?|isolatiepluggen|brandwerende\s+(?:afdichting|manchet|kit|mastiek|doorvoer)\w*|"
                  r"NBN\s+EN\s+1992-4|EAD\s+330\d{3})\b", re.I)
 # « ancrage » ou « fixation » seuls : gardés seulement s'il s'agit de fixer dans un support (béton, maçonnerie, platine…)
-FIX_FAIBLE = re.compile(r"\b(ancrages?|fixations?|verankering(?:en)?)\b", re.I)
+FIX_FAIBLE = re.compile(r"\b(ancrages?|fixations?|scellements?|verankering(?:en)?)\b", re.I)
 SUPPORT = re.compile(r"(b[ée]ton|ma[cç]onnerie|platine|console|garde-corps|\bM(?:6|8|10|12|16|20|24)\b|\bkN\b|charpente\s+m[ée]tallique|"
                      r"structure\s+(?:m[ée]tallique|portante)|support\s+en|beton|metselwerk)", re.I)
 BRUIT = re.compile(r"(clapets?|sangles|cha[iî]nes|transport|levage|portes?\s+r[ée]sistant)", re.I)
 MARQUES = re.compile(r"\b(hilti|w[üu]rth|fischer|spit|simpson|halfen|rawlplug|mungo|ejot|heco|sika|ancon|jordahl|pfeifer)\b", re.I)
-HEADING = re.compile(r"^\s*((?:art(?:icle)?\.?\s*)?\d{1,3}(?:\.\d{1,3}){0,5}\.?|[A-Z]\d{1,2}(?:\.\d+)*|chapitre\s+\w+|titre\s+\w+|hoofdstuk\s+\w+)\s+\S.{2,90}$", re.I)
+HEADING = re.compile(r"^\s*(?:(?:art(?:icle)?\.?\s*)?\d{1,3}(?:\.\d{1,3}){1,5}\.?|art(?:icle)?\.?\s*\d{1,3}(?:\s*§+\s*\d+)?|\d{1,2}\.?(?=\s+(?-i:[A-ZÀ-Ý]))|(?-i:[A-Z])\d{1,2}(?:\.\d+)*|"
+                     r"chapitre\s+\w+|titre\s+\w+|hoofdstuk\s+\w+)\s*[-–:]?\s*[A-Za-zÀ-ÿ].{2,90}$", re.I)
 FAMILLES = [
     (r"chimique|r[ée]sine|scellement|chemisch|injectie", "Chimique FIS EM Plus ou FIS V Plus (avec tiges ou armatures)"),
     (r"isolant|etics|termoz|isolatie", "Chevilles d'isolant Termoz"),
@@ -127,7 +128,7 @@ def scan(name, pages, toc):
         lines = text.splitlines()
         for i, raw in enumerate(lines):
             l = " ".join(raw.split())
-            if len(l) < 6:
+            if len(l) < 6 or re.search(r"\.{5,}|…{2,}", l):  # lignes de table des matières
                 continue
             ou = {"document": name, "page": pi if len(pages) > 1 else None, "section": ""}
 
@@ -139,7 +140,7 @@ def scan(name, pages, toc):
                 reste = l[m.end():].strip(" :–-\t")
                 titre_seul = len(l) <= 45 and not reste
                 bloc = bloc_at(lines, i, 4 if titre_seul else 3, 400)
-                nomme = (bool(re.match(r"\s*[:：–-]\s*\S", l[m.end():])) or titre_seul or bool(FORME.search(bloc))) \
+                nomme = m.start() < 40 and (bool(re.match(r"\s*[:：–-]\s*\S", l[m.end():])) or titre_seul or bool(FORME.search(bloc))) \
                     and not re.search(r"\b(l['’]|le|du|au|par|de\s+l['’])\s*$", l[:m.start()], re.I)
                 if nomme and len(auteur) < 12:
                     auteur.append({"texte": bloc, "ou": ou_section(), "score": 2 + bool(FORME.search(bloc)) - 0.001 * pi})
