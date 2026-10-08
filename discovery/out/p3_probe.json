@@ -1,0 +1,194 @@
+[
+ {
+  "url": "https://cloud.3p.eu/Downloads/1/1221/69/2026",
+  "etapes": [],
+  "titre": "",
+  "texte": "BELGIË\nBELGIQUE\nFRANCE\nThis site makes use of cookies to improve your user experience. Read our cookie policy Submit\n3p.eu",
+  "liens": [
+   [
+    "BELGIË",
+    "javascript:__doPostBack('ctl00$BodyContent$btnBENL','')"
+   ],
+   [
+    "BELGIQUE",
+    "javascript:__doPostBack('ctl00$BodyContent$btnBEFR','')"
+   ],
+   [
+    "FRANCE",
+    "javascript:__doPostBack('ctl00$BodyContent$btnFR','')"
+   ],
+   [
+    "Read our cookie policy",
+    "https://3p.eu/privacybeleid/"
+   ],
+   [
+    "Submit",
+    "javascript:__doPostBack('ctl00$BodyContent$ButtonAcceptCookies','')"
+   ],
+   [
+    "3p.eu",
+    "https://www.3p.eu/"
+   ]
+  ],
+  "champs": [
+   [
+    "INPUT",
+    "hidden",
+    "__EVENTTARGET",
+    ""
+   ],
+   [
+    "INPUT",
+    "hidden",
+    "__EVENTARGUMENT",
+    ""
+   ],
+   [
+    "INPUT",
+    "hidden",
+    "__VIEWSTATE",
+    "/wEPDwUKMTk2ODYyNTY2Nw9kFgJmD2QWAgIDD2QWAgIDDxYCHgRUZXh0BSg8"
+   ],
+   [
+    "INPUT",
+    "hidden",
+    "__VIEWSTATEGENERATOR",
+    "46D8FAE8"
+   ],
+   [
+    "INPUT",
+    "hidden",
+    "__EVENTVALIDATION",
+    "/wEdAAWt9Iou1Pfp1kxJU+TGpuLsntX9e388+YkSiO1rk+wFiqAGJgJWM1nJ"
+   ]
+  ],
+  "reponses": [
+   {
+    "url": "https://cloud.3p.eu/Downloads/1/1221/69/2026",
+    "status": 302,
+    "type": "text/html; charset=utf-8"
+   },
+   {
+    "url": "https://cloud.3p.eu/Web/Country.aspx",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+   },
+   {
+    "url": "https://cloud.3p.eu/Web/Master/Site.css",
+    "status": 200,
+    "type": "text/css"
+   },
+   {
+    "url": "https://cloud.3p.eu/Web/Images/Flags/belgium.png",
+    "status": 200,
+    "type": "image/png"
+   },
+   {
+    "url": "https://cloud.3p.eu/Web/Images/Flags/france.png",
+    "status": 200,
+    "type": "image/png"
+   },
+   {
+    "url": "https://cloud.3p.eu/Web/Images/boxed.png",
+    "status": 200,
+    "type": "image/png"
+   }
+  ]
+ },
+ {
+  "url": "https://cloud.3p.eu/Downloads/1/1377/LG/2026",
+  "etapes": [],
+  "titre": "",
+  "texte": "BELGIË\nBELGIQUE\nFRANCE\nThis site makes use of cookies to improve your user experience. Read our cookie policy Submit\n3p.eu",
+  "liens": [
+   [
+    "BELGIË",
+    "javascript:__doPostBack('ctl00$BodyContent$btnBENL','')"
+   ],
+   [
+    "BELGIQUE",
+    "javascript:__doPostBack('ctl00$BodyContent$btnBEFR','')"
+   ],
+   [
+    "FRANCE",
+    "javascript:__doPostBack('ctl00$BodyContent$btnFR','')"
+   ],
+   [
+    "Read our cookie policy",
+    "https://3p.eu/privacybeleid/"
+   ],
+   [
+    "Submit",
+    "javascript:__doPostBack('ctl00$BodyContent$ButtonAcceptCookies','')"
+   ],
+   [
+    "3p.eu",
+    "https://www.3p.eu/"
+   ]
+  ],
+  "champs": [
+   [
+    "INPUT",
+    "hidden",
+    "__EVENTTARGET",
+    ""
+   ],
+   [
+    "INPUT",
+    "hidden",
+    "__EVENTARGUMENT",
+    ""
+   ],
+   [
+    "INPUT",
+    "hidden",
+    "__VIEWSTATE",
+    "/wEPDwUKMTk2ODYyNTY2Nw9kFgJmD2QWAgIDD2QWAgIDDxYCHgRUZXh0BSg8"
+   ],
+   [
+    "INPUT",
+    "hidden",
+    "__VIEWSTATEGENERATOR",
+    "46D8FAE8"
+   ],
+   [
+    "INPUT",
+    "hidden",
+    "__EVENTVALIDATION",
+    "/wEdAAWt9Iou1Pfp1kxJU+TGpuLsntX9e388+YkSiO1rk+wFiqAGJgJWM1nJ"
+   ]
+  ],
+  "reponses": [
+   {
+    "url": "https://cloud.3p.eu/Downloads/1/1377/LG/2026",
+    "status": 302,
+    "type": "text/html; charset=utf-8"
+   },
+   {
+    "url": "https://cloud.3p.eu/Web/Country.aspx",
+    "status": 200,
+    "type": "text/html; charset=utf-8"
+   },
+   {
+    "url": "https://cloud.3p.eu/Web/Master/Site.css",
+    "status": 200,
+    "type": "text/css"
+   },
+   {
+    "url": "https://cloud.3p.eu/Web/Images/Flags/belgium.png",
+    "status": 200,
+    "type": "image/png"
+   },
+   {
+    "url": "https://cloud.3p.eu/Web/Images/Flags/france.png",
+    "status": 200,
+    "type": "image/png"
+   },
+   {
+    "url": "https://cloud.3p.eu/Web/Images/boxed.png",
+    "status": 200,
+    "type": "image/png"
+   }
+  ]
+ }
+]
