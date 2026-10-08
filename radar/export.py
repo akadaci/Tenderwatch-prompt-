@@ -66,9 +66,37 @@ def load(name):
         return []
 
 
+def _json(name, default):
+    try:
+        return json.loads((DATA / name).read_text())
+    except (OSError, ValueError):
+        return default
+
+
+def place(r, det):
+    """Coordonnées (commune de l'acheteur ou du permis) via GeoNames ; None si inconnue."""
+    from radar import geo
+    try:
+        if r["source_type"] == "Permis":
+            m = re.search(r"\b(1\d{3})\s+([^,]+)$", r.get("lieu") or "")
+            g = geo.locate(m.group(1), m.group(2)) if m else None
+            return (g, "commune du permis") if g else (None, "")
+        if r["source_type"] == "BDA":
+            a = (det.get(r["id"][4:]) or {}).get("acheteur") or {}
+            g = geo.locate(a.get("cp"), a.get("ville"), "LU" if a.get("pays") == "LUX" else "BE")
+            return (g, "commune de l'acheteur") if g else (None, "")
+        city = (r.get("lieu") or "").split(",")[0]
+        g = geo.locate(None, city, "LU" if r.get("pays") == "LUX" else "BE")
+        return (g, "commune de l'acheteur") if g else (None, "")
+    except Exception as e:
+        print(f"[export] géolocalisation impossible : {e}")
+        return None, ""
+
+
 def build():
     since = (datetime.now(timezone.utc) - timedelta(days=KEEP_DAYS)).strftime("%Y-%m-%d")
     ted, bda, permis = load("ted"), load("bda"), load("permis_bruxelles")
+    det, csc = _json("bda_detail.json", {}), _json("csc.json", {})
     ted_keys = {(norm(ted_core(r["nom"]))[:60], norm(r.get("mo"))[:25]) for r in ted}
     dup = 0
     out = []
@@ -90,11 +118,24 @@ def build():
         else:
             continue
         nom = ted_core(r["nom"]) if r["source_type"] == "TED" else r["nom"]
+        d = det.get(r["id"][4:], {}) if r["source_type"] == "BDA" else {}
+        g, prec = place(r, det)
+        gagnants = d.get("gagnants") or []
+        c = csc.get(r["id"][4:]) if r["source_type"] == "BDA" else None
+        cahier = None
+        if c:
+            cahier = {"lu_le": c.get("lu_le"), "erreur": c.get("erreur"),
+                      "documents": [x["document"] for x in c.get("documents_lus", [])][:30],
+                      "ignores": len(c.get("documents_ignores", [])),
+                      "auteur": c.get("auteur", [])[:4], "fixations": c.get("fixations", [])[:15]}
         out.append({k: v for k, v in {
             "id": r["id"], "vue": vue, "etape": e, "src": r["source_type"], "nom": nom, "mo": r.get("mo"),
             "lieu": r.get("lieu"), "region": region(r), "secteur": secteur(r) or "Autres",
-            "entreprise": r.get("entreprise"), "be": r.get("be"), "bce": r.get("bce"), "montant": r.get("montant"),
-            "date": r.get("date_publication"), "limite": r.get("date_limite"), "cpv": r.get("cpv"),
+            "entreprise": r.get("entreprise") or (", ".join(w["nom"] for w in gagnants) if vue == "attributions" else ""),
+            "bce": r.get("bce") or (re.sub(r"\D", "", gagnants[0].get("bce", ""))[:10] if gagnants else ""),
+            "be": r.get("be"), "montant": r.get("montant"),
+            "date": r.get("date_publication"), "limite": r.get("date_limite") or d.get("date_limite"), "cpv": r.get("cpv"),
+            "geo": [g[0], g[1]] if g else None, "geo_lieu": f"{g[2]} ({prec})" if g else "", "cahier": cahier,
             "source": r.get("source"), "preuve": r.get("preuve"), "desc": (r.get("notes") or "")[:280],
         }.items() if v})
     out.sort(key=lambda x: x.get("date", ""), reverse=True)

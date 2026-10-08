@@ -1,0 +1,46 @@
+name: Cahiers des charges
+on:
+  schedule:
+    - cron: "47 4,10,16,22 * * *"     # 30 min après la collecte
+  workflow_dispatch:
+    inputs:
+      limite: {description: "Nombre de marchés à lire", default: "10"}
+  push:
+    branches: [main]
+    paths: ["radar/csc.py", "radar/bda_detail.py", "radar/geo.py", ".github/workflows/cahiers.yml"]
+permissions:
+  contents: write
+concurrency: {group: collecte, cancel-in-progress: false}
+jobs:
+  cahiers:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: main}
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.11"}
+      - run: pip install -r requirements.txt && python -m playwright install --with-deps chromium
+      - name: Tests
+        run: python -m pytest -q tests
+      - name: Fiches détaillées (adresse, date limite)
+        continue-on-error: true
+        run: python -c "from radar import bda_detail; bda_detail.run()"
+      - name: Lecture des cahiers des charges
+        continue-on-error: true
+        timeout-minutes: 30
+        run: python -m radar.csc "${{ github.event.inputs.limite || '10' }}"
+      - name: Export pour la page
+        run: python -m radar.export
+      - name: Enregistrer
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet && exit 0
+          git commit -m "Cahiers des charges $(date -u +%F' '%H:%M) UTC"
+          for i in 1 2 3; do
+            git pull --rebase -X theirs origin main && git push origin HEAD:main && exit 0
+            sleep 10
+          done
+          exit 1
