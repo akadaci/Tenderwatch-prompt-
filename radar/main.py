@@ -18,6 +18,12 @@ def main(days_back=7):
             etat["sources"][name] = {"ok": False, "error": f"{type(e).__name__}: {e}"[:1000],
                                      "trace": traceback.format_exc()[-2500:]}
             print(f"::error::{name} : {type(e).__name__}: {e}")
+    try:
+        from radar import export
+        etat["radar_public"] = export.build()["count"]
+    except Exception as e:
+        errors.append("export")
+        etat["radar_public_error"] = f"{type(e).__name__}: {e}"
     DATA.mkdir(parents=True, exist_ok=True)
     (DATA / "_etat.json").write_text(json.dumps(etat, ensure_ascii=False, indent=1))
     return 1 if errors else 0

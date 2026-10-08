@@ -83,7 +83,8 @@ def to_fiche(p):
     org = txt((p.get("organisation") or {}).get("organisationNames") or p.get("organisationNames") or "")
     return {
         "id": f"bda-{wid}", "source_type": "BDA", "nom": clean(txt(d.get("titles")), 200),
-        "lieu": nuts_label(p.get("nutsCodes")), "mo": clean(org, 150), "etape": etape,
+        "lieu": nuts_label(p.get("nutsCodes")), "province": nuts_label(p.get("nutsCodes")).split(", ")[0],
+        "mo": clean(org, 150), "etape": etape, "sur_ted": bool(p.get("tedPublished")),
         "source": f"https://www.publicprocurement.be/publication-workspaces/{wid}",
         "verif": "vérifié", "verif_date": today(),
         "preuve": f"Bulletin des Adjudications, réf. {ref or '?'} ({ {'prior': 'préinformation', 'contract': 'avis de marché', 'award': 'attribution'}[k]}, sous-type eForms {p.get('noticeSubType')}), publié le {pub_date}.",

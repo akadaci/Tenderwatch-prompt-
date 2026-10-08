@@ -118,6 +118,20 @@ def fetch(days_back=7, countries=("BEL", "LUX"), max_notices=3000, client=None):
     return notices[:max_notices], fields
 
 
+NUTS = {"BE1": "Bruxelles", "BE21": "Anvers", "BE22": "Limbourg", "BE23": "Flandre-Orientale",
+        "BE24": "Brabant flamand", "BE25": "Flandre-Occidentale", "BE31": "Brabant wallon", "BE32": "Hainaut",
+        "BE33": "Liège", "BE34": "Luxembourg (prov.)", "BE35": "Namur", "LU": "Grand-Duché"}
+
+
+def province(values):
+    for c in _all(values):
+        c = str(c).upper()
+        for k in sorted(NUTS, key=len, reverse=True):
+            if c.startswith(k):
+                return NUTS[k]
+    return ""
+
+
 def to_fiche(raw):
     """Avis TED → fiche Radar Chantiers, ou None si hors périmètre Fischer."""
     pub = str(_first(raw.get("publication-number")) or "")
@@ -144,11 +158,13 @@ def to_fiche(raw):
     cur = str(_first(raw.get("total-value-cur")) or _first(raw.get("estimated-value-cur-lot")) or "")
     country = str(_first(raw.get("buyer-country")) or "")
     city = clean(_first(raw.get("organisation-city-buyer")), 80)
+    prov = province(raw.get("place-of-performance"))
     deadline = _date(raw.get("deadline-receipt-tender-date-lot"))
     url = f"https://ted.europa.eu/fr/notice/{pub}/html"
     f = {
         "id": f"ted-{pub}", "source_type": "TED", "nom": clean(_first(raw.get("notice-title")), 200),
-        "lieu": ", ".join(x for x in (city, {"BEL": "Belgique", "LUX": "Luxembourg"}.get(country, country)) if x),
+        "lieu": ", ".join(x for x in (city, prov or {"BEL": "Belgique", "LUX": "Grand-Duché"}.get(country, country)) if x),
+        "province": prov or ("Grand-Duché" if country == "LUX" else ""),
         "mo": clean(_first(raw.get("buyer-name")), 150), "etape": etape,
         "entreprise": "" if services_etude else (winner if award else ""),
         "be": winner if (award and services_etude) else "",
