@@ -139,7 +139,8 @@ for f in FAMILLES:
     f["rx"] = re.compile(r"\b(?:" + f["termes"] + r")", re.I)
 
 # familles absentes du site belge : on le dit au lieu de proposer
-HORS_GAMME_BE = {}   # FireStop : disponible en Belgique (confirmé par Kad le 08/10/2026), fiches sur fischer.fr
+HORS_GAMME_BE = {}   # Tous les produits des sites Fischer (DE, international…) sont disponibles en Belgique ;
+                     # fischer.be n'est pas complet (confirmé par Kad le 08/10/2026)
 
 
 BRUIT = re.compile(r"\b(?:peintures?|coatings?|autonivelant|rev[êe]tements?\s+de\s+sol)\b", re.I)
