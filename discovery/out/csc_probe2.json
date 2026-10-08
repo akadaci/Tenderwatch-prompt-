@@ -11,7 +11,7 @@
    "type": "xhr"
   },
   {
-   "url": "https://www.publicprocurement.be/?__cache_bust=1791440093420",
+   "url": "https://www.publicprocurement.be/?__cache_bust=1791440189747",
    "method": "GET",
    "type": "fetch"
   },
@@ -61,11 +61,6 @@
    "type": "xhr"
   },
   {
-   "url": "https://www.publicprocurement.be/api/cfg/configs/emergencyProcedure",
-   "method": "GET",
-   "type": "xhr"
-  },
-  {
    "url": "https://www.publicprocurement.be/api/dos/system-alerts?includeInactive=false",
    "method": "GET",
    "type": "xhr"
@@ -91,25 +86,28 @@
    "type": "xhr"
   },
   {
-   "url": "https://www.publicprocurement.be/api/cfg/configs/emergencyProcedure",
-   "method": "GET",
-   "type": "xhr"
-  },
-  {
-   "url": "https://www.publicprocurement.be/api/cfg/configs/emergencyProcedure",
+   "url": "https://www.publicprocurement.be/api/dos/publication-workspace-document-versions/aa51121e-5f88-4dcd-9b2f-e9c5cdd6c01d/download-url?unpublished=false",
    "method": "GET",
    "type": "xhr"
   }
  ],
- "mark_before_menu": 18,
+ "mark_before_menu": 17,
  "rows_found": 1,
  "row_buttons": 2,
  "menu_items": [],
- "mark_before_click": 19,
- "download_error": "TimeoutError: Locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for get_by_text(\"Télécharger la dernière version\", exact=True).first\n    - locator resolved to <span data-v-797dcfb6=\"\" class=\"no-truncate\">Télécharger la dernière version</span>\n  - attempting click action\n    2 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying click ac",
+ "mark_before_click": 17,
+ "download": {
+  "url": "https://minio-prd.publicprocurement.be/prd.publication-workspaces/eec831d766947bd8d68fa6d6a7ffaf9b_ccd911fc-0603-4019-aba6-8f6a0f446f10?response-content-type=application%2Fpdf&response-content-disposition=attachment%3B%20filename%3D%222532_AIDE_SOU_CS.pdf%22%3B&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz",
+  "suggested": "2532_AIDE_SOU_CS.pdf",
+  "bytes": 194730,
+  "head": "255044462d312e37"
+ },
+ "pages": 5,
+ "toc": [],
+ "auteur_lines": [],
  "after_click": [
   {
-   "url": "https://www.publicprocurement.be/api/cfg/configs/emergencyProcedure",
+   "url": "https://www.publicprocurement.be/api/dos/publication-workspace-document-versions/aa51121e-5f88-4dcd-9b2f-e9c5cdd6c01d/download-url?unpublished=false",
    "method": "GET",
    "type": "xhr"
   }
