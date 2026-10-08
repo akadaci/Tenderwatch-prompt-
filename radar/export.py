@@ -127,6 +127,7 @@ def build():
         if c:
             cahier = {"lu_le": c.get("lu_le"), "erreur": c.get("erreur"), "via": c.get("via"),
                       "sans_avis": c.get("sans_avis_de_marche"),
+                      "ailleurs": c.get("documents_ailleurs") or [],
                       "documents": [x["document"] for x in c.get("documents_lus", [])][:30],
                       "ignores": len(c.get("documents_ignores", [])),
                       "auteur": c.get("auteur", [])[:4],

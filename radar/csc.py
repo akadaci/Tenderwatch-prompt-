@@ -249,8 +249,17 @@ async def read_tender(s, wid):
                 auteur += a; fix += f
             if total > MAX_TOTAL:
                 ignores.append("… arrêt : volume maximal atteint"); break
+    ailleurs = []
+    if not docs:    # documents hébergés hors e-Procurement (ex. 3P) : l'avis donne le lien (BT-15)
+        try:
+            ws = await s.call(f"/api/dos/publication-workspaces/{wid}?includeDrafts=false")
+            xml = ((ws.get("versions") or [{}])[-1].get("notice") or {}).get("xmlContent") or ""
+            ailleurs = [u for u in dict.fromkeys(re.findall(r"<cbc:URI>([^<]+)</cbc:URI>", xml))
+                        if "publicprocurement.be" not in u and not re.search(r"\.(?:be|lu|eu)/?$", u)][:3]
+        except Exception:
+            pass
     return {"lu_le": date.today().isoformat(), "documents_lus": lus, "documents_ignores": ignores[:40],
-            "auteur": dedup(auteur, n=6), "fixations": dedup(fix, n=25)}
+            "documents_ailleurs": ailleurs, "auteur": dedup(auteur, n=6), "fixations": dedup(fix, n=25)}
 
 
 CONTRAT = {str(i) for i in range(10, 25)} | {"E3"}

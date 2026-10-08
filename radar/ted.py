@@ -3,10 +3,12 @@
 API officielle : POST https://api.ted.europa.eu/v3/notices/search (sans authentification)
 Doc : https://docs.ted.europa.eu/api/latest/search.html — syntaxe : https://ted.europa.eu/en/help/search-browse
 """
-import re
+import re, time
 from datetime import datetime, timedelta, timezone
 import httpx
 from radar.common import clean, today, save
+
+PAUSE = time.sleep      # remplacé dans les tests
 
 TED_API = "https://api.ted.europa.eu/v3/notices/search"
 PAGE_MAX = 250
@@ -94,7 +96,13 @@ def fetch(days_back=7, countries=("BEL", "LUX"), max_notices=3000, client=None):
         while len(notices) < max_notices:
             body = {"query": query, "fields": fields, "page": page, "limit": PAGE_MAX,
                     "scope": "ALL", "paginationMode": "PAGE_NUMBER"}
-            r = client.post(TED_API, json=body, headers={"Accept": "application/json"})
+            for essai in range(5):      # TED limite le débit (HTTP 429) : on attend puis on réessaie
+                r = client.post(TED_API, json=body, headers={"Accept": "application/json"})
+                if r.status_code not in (429, 500, 502, 503, 504):
+                    break
+                attente = int(r.headers.get("Retry-After") or 0) or 15 * (essai + 1)
+                print(f"[ted] HTTP {r.status_code}, nouvel essai dans {attente} s")
+                PAUSE(min(attente, 120))
             if r.status_code == 400 and fields != SAFE_FIELDS:
                 print(f"[ted] 400 avec champs étendus → champs sûrs. Réponse : {r.text[:300]}")
                 fields = SAFE_FIELDS

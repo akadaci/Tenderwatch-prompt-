@@ -1,10 +1,10 @@
 name: Cahiers des charges
 on:
   schedule:
-    - cron: "47 4,10,16,22 * * *"     # 30 min après la collecte
+    - cron: "47 */2 * * *"     # 30 min après la collecte, toutes les 2 h
   workflow_dispatch:
     inputs:
-      limite: {description: "Nombre de marchés à lire", default: "10"}
+      limite: {description: "Nombre de marchés à lire (par type)", default: "5"}
   push:
     branches: [main]
     paths: ["radar/csc.py", "radar/bda_detail.py", "radar/geo.py", ".github/workflows/cahiers.yml"]
@@ -29,7 +29,7 @@ jobs:
       - name: Lecture des cahiers des charges
         continue-on-error: true
         timeout-minutes: 30
-        run: python -m radar.csc "${{ github.event.inputs.limite || '10' }}"
+        run: python -m radar.csc "${{ github.event.inputs.limite || '5' }}"
       - name: Export pour la page
         run: python -m radar.export
       - name: Enregistrer

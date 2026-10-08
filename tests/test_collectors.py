@@ -11,7 +11,9 @@ def test_ted_mapping():
     assert (b["etape"], b["entreprise"], b["bce"], b["montant"]) == (5, "Galère SA", "0202239951", "845000")
     assert (c["etape"], c["be"], c["entreprise"]) == (2, "Bureau Greisch", "")    # bureau d'études connu
 
-def test_ted_fetch_pagination_and_fallback():
+def test_ted_fetch_pagination_and_fallback(monkeypatch):
+    attentes = []
+    monkeypatch.setattr(ted, "PAUSE", attentes.append)
     calls = []
     def h(req):
         body = json.loads(req.content); calls.append(body)
@@ -24,6 +26,16 @@ def test_ted_fetch_pagination_and_fallback():
     assert calls[-1]["query"].startswith("buyer-country IN (BEL LUX) AND publication-date >= ")
     with pytest.raises(ted.TedError):
         ted.fetch(client=httpx.Client(transport=httpx.MockTransport(lambda r: httpx.Response(503, text="down"))))
+    assert len(attentes) == 5                                    # 5 essais avant d'abandonner
+    # 429 (trop de requêtes) puis succès : la collecte continue
+    etat = {"n": 0}
+    def h429(req):
+        etat["n"] += 1
+        if etat["n"] == 1:
+            return httpx.Response(429, headers={"Retry-After": "7"}, text="Too Many Requests")
+        return httpx.Response(200, json={"notices": [{"publication-number": "1-1"}]})
+    out, _ = ted.fetch(client=httpx.Client(transport=httpx.MockTransport(h429)))
+    assert len(out) == 1 and attentes[-1] == 7
 
 def test_nova_filter_and_mapping(monkeypatch):
     feats = json.loads((FIX / "nova_sample.json").read_text())["features"]

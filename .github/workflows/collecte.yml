@@ -1,13 +1,13 @@
 name: Collecte
 on:
   schedule:
-    - cron: "17 4,10,16,22 * * *"     # toutes les 6 h (heure UTC)
+    - cron: "17 */2 * * *"     # toutes les 2 h (GitHub saute parfois un créneau : plus de créneaux = données à jour quand même)
   workflow_dispatch:
     inputs:
       days_back: {description: "Jours à remonter", default: "3"}
   push:
     branches: [main]
-    paths: ["radar/**", ".github/workflows/collecte.yml"]
+    paths: ["radar/ted.py", "radar/bda.py", "radar/nova.py", "radar/main.py", ".github/workflows/collecte.yml"]
 permissions:
   contents: write
 concurrency: {group: collecte, cancel-in-progress: false}

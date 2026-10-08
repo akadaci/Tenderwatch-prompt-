@@ -260,6 +260,7 @@ function cahier(r, k) {
   if (c.sans_avis) return `<details class="cdc"${open} data-cdc><summary>Cahier des charges : pas d'avis de marché public</summary><p class="hint">${esc(c.sans_avis)}.</p></details>`;
   if (c.erreur) return `<details class="cdc"${open} data-cdc><summary>Cahier des charges : lecture impossible</summary><p class="hint">${esc(c.erreur)}</p></details>`;
   const docs = c.documents || [], A = c.auteur || [], F = c.fixations || [];
+  if (!docs.length && c.ailleurs && c.ailleurs.length) return `<div class="cdc"><p class="hint"><b>Cahier des charges hébergé ailleurs</b>${/3p\.eu/.test(c.ailleurs[0]) ? " (plateforme 3P)" : ""} : accès libre et gratuit, mais avec une case « Je ne suis pas un robot », donc pas de lecture automatique. ${c.ailleurs.map(u => `<a href="${esc(u)}" target="_blank" rel="noopener">Ouvrir les documents ↗</a>`).join(" · ")}${via ? "" : ""}</p>${via}</div>`;
   if (!docs.length) return `<details class="cdc"${open} data-cdc><summary>Cahier des charges : aucun document lisible</summary>${via}<p class="hint">${c.ignores || 0} document(s) ignoré(s) (plans, formulaires, sécurité…) ou hébergé(s) ailleurs. Ouvre l'avis.</p></details>`;
   const fams = {};
   F.forEach(it => (it.fischer || []).forEach(f => { (fams[f.id] = fams[f.id] || {...f, n: 0}).n++; }));
