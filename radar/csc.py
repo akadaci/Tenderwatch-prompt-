@@ -19,12 +19,23 @@ INCLUDE = re.compile(r"(csc|\bcs\b|_cs[_.]|cahier|charges|clauses|\bct\b|_ct[_.]
 EXCLUDE = re.compile(r"(espd|dume|\buea\b|pss|s[ée]curit[ée]|veiligheid|(?:^|[\s/_.›-])plans?(?=[\s_.-]|$)|_pl_|\.dwg|\.dxf|\.jpe?g|\.png|photo|foto|"
                      r"formulaire|inschrijvingsformulier|attestation|modele.?d.?offre|offerteformulier)", re.I)
 DOC_EXT = (".pdf", ".docx", ".xlsx", ".zip")
+# Auteur nommé : « Auteur de projet : X », titre seul suivi du nom, ou forme juridique dans le passage
+FORME = re.compile(r"\b(S\.?A\.?|S\.?R\.?L\.?|S\.?P\.?R\.?L\.?|S\.?C\.?R\.?L\.?|SCRL|SComm|ASBL|BV|NV|BVBA|CVBA|S[àa]rl|GmbH|"
+                   r"[Ii]ntercommunale|architectes?\s+associ[ée]s|bureau\s+[A-Z][\w&-]+|atelier\s+d['’]architecture|IGRETEC|IDELUX|IDEA|BEP|IPALLE|INASEP|IGIL|SPI)\b")
 AUTEUR = re.compile(r"(auteur\s+d[eu]\s+projet|auteur\s+du\s+cahier|bureau\s+d['’]?\s*[ée]tudes?|ontwerper|studiebureau|"
                     r"architecte\s*(?:-|:)|ing[ée]nieur\s+en\s+stabilit[ée]|ing[ée]nieur\s+stabilit[ée])", re.I)
-FIX = re.compile(r"\b(chevilles?|ancrages?|scellements?\s+chimiques?|scellement|goujons?|tiges?\s+filet[ée]es?|r[ée]sine\s+d['’]ancrage|"
-                 r"fixations?\s+chimiques?|chevilles?\s+d['’]isolant|ETICS|coupe-feu|r[ée]sistant\s+au\s+feu|rails?\s+d['’]ancrage|"
-                 r"pluggen|ankers?|verankering|draadstang|keilbouten|brandwerend|isolatiepluggen|"
-                 r"ETA|ATE|[ÉE]valuation\s+Technique\s+Europ[ée]enne|NBN\s+EN\s+1992-4)\b", re.I)
+FIX = re.compile(r"\b(chevilles?|goujons?|scellements?|tiges?\s+filet[ée]es?|r[ée]sines?\s+d['’](?:ancrage|injection)|"
+                 r"mortiers?\s+d['’](?:ancrage|injection|scellement)|ancrages?\s+(?:chimiques?|m[ée]caniques?|dans\s+le\s+b[ée]ton|par\s+(?:cheville|goujon|r[ée]sine))|"
+                 r"fixations?\s+(?:chimiques?|m[ée]caniques?|par\s+chevilles?)|ETICS|rails?\s+d['’]ancrage|"
+                 r"(?:mastic|manchon|collier|mousse|mortier|joint|calfeutrement|obturation|bouchon|coussin|bande|enduit|plaque)s?\s+(?:\w+\s+){0,2}coupe-feu|"
+                 r"travers[ée]es?\s+(?:\w+\s+){0,3}(?:r[ée]sistant\w*\s+au\s+feu|coupe-feu)|"
+                 r"pluggen|chemische\s+ankers?|keilbouten|draadstang(?:en)?|ankerrails?|isolatiepluggen|brandwerende\s+(?:afdichting|manchet|kit|mastiek|doorvoer)\w*|"
+                 r"NBN\s+EN\s+1992-4|EAD\s+330\d{3})\b", re.I)
+# « ancrage » ou « fixation » seuls : gardés seulement s'il s'agit de fixer dans un support (béton, maçonnerie, platine…)
+FIX_FAIBLE = re.compile(r"\b(ancrages?|fixations?|verankering(?:en)?)\b", re.I)
+SUPPORT = re.compile(r"(b[ée]ton|ma[cç]onnerie|platine|console|garde-corps|\bM(?:6|8|10|12|16|20|24)\b|\bkN\b|charpente\s+m[ée]tallique|"
+                     r"structure\s+(?:m[ée]tallique|portante)|support\s+en|beton|metselwerk)", re.I)
+BRUIT = re.compile(r"(clapets?|sangles|cha[iî]nes|transport|levage|portes?\s+r[ée]sistant)", re.I)
 MARQUES = re.compile(r"\b(hilti|w[üu]rth|fischer|spit|simpson|halfen|rawlplug|mungo|ejot|heco|sika|ancon|jordahl|pfeifer)\b", re.I)
 HEADING = re.compile(r"^\s*((?:art(?:icle)?\.?\s*)?\d{1,3}(?:\.\d{1,3}){0,5}\.?|[A-Z]\d{1,2}(?:\.\d+)*|chapitre\s+\w+|titre\s+\w+|hoofdstuk\s+\w+)\s+\S.{2,90}$", re.I)
 FAMILLES = [
@@ -48,7 +59,7 @@ def suggestion(text):
 def pdf_pages(data):
     import pymupdf
     with pymupdf.open(stream=data, filetype="pdf") as d:
-        return [d[i].get_text() for i in range(d.page_count)], d.get_toc()
+        return [d[i].get_text().translate(LIGATURES) for i in range(d.page_count)], d.get_toc()
 
 
 def xlsx_pages(data):
@@ -79,6 +90,9 @@ def docx_pages(data):
     return ["\n".join(text)], toc
 
 
+LIGATURES = str.maketrans({"Ɵ": "ti", "Ʃ": "tt", "ﬁ": "fi", "ﬂ": "fl", "ﬀ": "ff", "ﬃ": "ffi", "ﬄ": "ffl", "\u00ad": ""})
+
+
 def section_for(toc, page_no, lines, idx):
     """Titre numéroté le plus proche AU-DESSUS du passage, sinon dernière entrée de table des matières <= page."""
     for j in range(idx, max(-1, idx - 120), -1):
@@ -92,6 +106,10 @@ def section_for(toc, page_no, lines, idx):
 def bloc_at(lines, i, n=3, maxlen=600):
     """La ligne trouvée + les suivantes du même paragraphe (arrêt au titre suivant)."""
     out = []
+    if i > 0:
+        prev, cur = " ".join(lines[i - 1].split()), " ".join(lines[i].split())
+        if prev and cur[:1].islower() and not HEADING.match(prev):
+            out.append(prev)
     for j in range(i, min(len(lines), i + n)):
         l = " ".join(lines[j].split())
         if not l:
@@ -104,6 +122,7 @@ def bloc_at(lines, i, n=3, maxlen=600):
 
 def scan(name, pages, toc):
     auteur, fix = [], []
+    courant = ""  # dernier titre numéroté vu dans les pages précédentes
     for pi, text in enumerate(pages, 1):
         lines = text.splitlines()
         for i, raw in enumerate(lines):
@@ -111,17 +130,35 @@ def scan(name, pages, toc):
             if len(l) < 6:
                 continue
             ou = {"document": name, "page": pi if len(pages) > 1 else None, "section": ""}
-            if AUTEUR.search(l) and len(auteur) < 6:
-                bloc = bloc_at(lines, i, 3, 400)
-                ou["section"] = section_for(toc, pi, lines, i)
-                auteur.append({"texte": bloc, "ou": ou})
-            if FIX.search(l):
+
+            def ou_section():
+                sec = section_for(toc, pi, lines, i) or courant
+                return {**ou, "section": sec}
+            if AUTEUR.search(l):
+                m = AUTEUR.search(l)
+                reste = l[m.end():].strip(" :–-\t")
+                titre_seul = len(l) <= 45 and not reste
+                bloc = bloc_at(lines, i, 4 if titre_seul else 3, 400)
+                nomme = (bool(re.match(r"\s*[:：–-]\s*\S", l[m.end():])) or titre_seul or bool(FORME.search(bloc))) \
+                    and not re.search(r"\b(l['’]|le|du|au|par|de\s+l['’])\s*$", l[:m.start()], re.I)
+                if nomme and len(auteur) < 12:
+                    auteur.append({"texte": bloc, "ou": ou_section(), "score": 2 + bool(FORME.search(bloc)) - 0.001 * pi})
+            fort = FIX.search(l)
+            faible = not fort and FIX_FAIBLE.search(l)
+            if fort or faible:
                 bloc = bloc_at(lines, i, 3, 600)
-                score = 1 + 3 * bool(MARQUES.search(bloc)) + 2 * bool(re.search(r"\b(ETA|ATE|1992-4)\b", bloc))
-                ou["section"] = section_for(toc, pi, lines, i)
+                if BRUIT.search(bloc) and not MARQUES.search(bloc):
+                    continue
+                if faible and not SUPPORT.search(bloc):
+                    continue
                 m = MARQUES.search(bloc)
-                fix.append({"texte": bloc, "ou": ou, "score": score, "marque": m.group(0) if m else "",
+                score = (2 if fort else 1) + 3 * bool(m) + 2 * bool(re.search(r"\b(ETA|ATE|1992-4|EAD)\b", bloc))
+                fix.append({"texte": bloc, "ou": ou_section(), "score": score, "marque": m.group(0) if m else "",
                             "suggestion": suggestion(bloc)})
+        for raw in lines:
+            l = " ".join(raw.split())
+            if HEADING.match(l) and not re.match(r"^\d+\s*(?:rue|avenue|chauss[ée]e|place|boulevard|m[²2]|€|%)", l, re.I):
+                courant = l[:110]
     return auteur, fix
 
 
