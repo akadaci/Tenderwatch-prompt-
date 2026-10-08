@@ -24,14 +24,11 @@ async def main():
             try:
                 await pg.goto(url, wait_until="networkidle", timeout=60000)
                 await pg.screenshot(path=str(ROOT / "discovery" / "out" / f"p3_{i}_a.png"))
-                for txt in ["français (Belgique)", "Français", "français"]:
-                    loc = pg.get_by_text(txt, exact=False).first
+                for txt in ["Submit", "BELGIQUE"]:
+                    loc = pg.locator("a", has_text=txt).first
                     if await loc.count():
-                        await loc.click(); await pg.wait_for_load_state("networkidle"); it["etapes"].append("langue " + txt); break
-                for txt in ["Submit", "Accepter", "OK", "J'accepte"]:
-                    loc = pg.get_by_role("button", name=txt)
-                    if await loc.count():
-                        await loc.first.click(); await pg.wait_for_timeout(1500); it["etapes"].append("cookies " + txt); break
+                        await loc.click(); await pg.wait_for_load_state("networkidle"); await pg.wait_for_timeout(1500)
+                        it["etapes"].append(txt)
                 await pg.wait_for_timeout(2000)
                 await pg.screenshot(path=str(ROOT / "discovery" / "out" / f"p3_{i}_b.png"), full_page=True)
                 it["titre"] = await pg.title()
