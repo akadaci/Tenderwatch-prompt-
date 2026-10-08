@@ -1,0 +1,117 @@
+{
+ "requests": [
+  {
+   "url": "https://www.publicprocurement.be/publication-workspaces/6ef05f03-6dd2-46da-9838-208ed14f9fff",
+   "method": "GET",
+   "type": "document"
+  },
+  {
+   "url": "https://www.publicprocurement.be/auth/realms/supplier/protocol/openid-connect/token",
+   "method": "POST",
+   "type": "xhr"
+  },
+  {
+   "url": "https://www.publicprocurement.be/?__cache_bust=1791439976599",
+   "method": "GET",
+   "type": "fetch"
+  },
+  {
+   "url": "https://www.publicprocurement.be/api/cfg/configs/emergencyProcedure",
+   "method": "GET",
+   "type": "xhr"
+  },
+  {
+   "url": "https://www.publicprocurement.be/api/loc/cities",
+   "method": "GET",
+   "type": "xhr"
+  },
+  {
+   "url": "https://www.publicprocurement.be/api/loc/cpvs",
+   "method": "GET",
+   "type": "xhr"
+  },
+  {
+   "url": "https://www.publicprocurement.be/api/loc/nuts",
+   "method": "GET",
+   "type": "xhr"
+  },
+  {
+   "url": "https://www.publicprocurement.be/api/loc/currencies",
+   "method": "GET",
+   "type": "xhr"
+  },
+  {
+   "url": "https://www.publicprocurement.be/api/dos/enterprises/categories",
+   "method": "GET",
+   "type": "xhr"
+  },
+  {
+   "url": "https://www.publicprocurement.be/api/dos/enterprises/classes",
+   "method": "GET",
+   "type": "xhr"
+  },
+  {
+   "url": "https://www.publicprocurement.be/api/loc/countries",
+   "method": "GET",
+   "type": "xhr"
+  },
+  {
+   "url": "https://www.publicprocurement.be/api/dos/organisations/tree-view/",
+   "method": "GET",
+   "type": "xhr"
+  },
+  {
+   "url": "https://www.publicprocurement.be/api/cfg/configs/emergencyProcedure",
+   "method": "GET",
+   "type": "xhr"
+  },
+  {
+   "url": "https://www.publicprocurement.be/api/dos/system-alerts?includeInactive=false",
+   "method": "GET",
+   "type": "xhr"
+  },
+  {
+   "url": "https://www.publicprocurement.be/api/dos/publication-workspaces/6ef05f03-6dd2-46da-9838-208ed14f9fff?includeDrafts=false",
+   "method": "GET",
+   "type": "xhr"
+  },
+  {
+   "url": "https://www.publicprocurement.be/api/dos/publication-workspaces/6ef05f03-6dd2-46da-9838-208ed14f9fff/opening-reports?unpublished=false",
+   "method": "GET",
+   "type": "xhr"
+  },
+  {
+   "url": "https://www.publicprocurement.be/api/dos/publication-workspaces/6ef05f03-6dd2-46da-9838-208ed14f9fff/documents?full=false&type=WORKSPACE&type=ESPD_REQUEST&type=SDI",
+   "method": "GET",
+   "type": "xhr"
+  },
+  {
+   "url": "https://www.publicprocurement.be/api/dos/publication-workspaces/6ef05f03-6dd2-46da-9838-208ed14f9fff/urls?full=false",
+   "method": "GET",
+   "type": "xhr"
+  },
+  {
+   "url": "https://www.publicprocurement.be/api/cfg/configs/emergencyProcedure",
+   "method": "GET",
+   "type": "xhr"
+  },
+  {
+   "url": "https://www.publicprocurement.be/api/cfg/configs/emergencyProcedure",
+   "method": "GET",
+   "type": "xhr"
+  }
+ ],
+ "mark_before_menu": 19,
+ "rows_found": 1,
+ "row_buttons": 2,
+ "menu_items": [],
+ "mark_before_click": 19,
+ "download_error": "TimeoutError: Locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for get_by_role(\"menuitem\").filter(has_text=re.compile(r\"Télécharger|Download\", re.IGNORECASE)).first\n",
+ "after_click": [
+  {
+   "url": "https://www.publicprocurement.be/api/cfg/configs/emergencyProcedure",
+   "method": "GET",
+   "type": "xhr"
+  }
+ ]
+}
