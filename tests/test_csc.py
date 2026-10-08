@@ -72,4 +72,7 @@ def test_bureaux():
     assert noms("IGRETEC - Bureau d'études Travaux d'amélioration de la rue") == [("Bureau d'études", "IGRETEC")]
     assert noms("AUTEUR DE PROJET INDICE DATE DESIGNATION") == []          # en-tête de tableau : pas de nom inventé
     assert noms("BUREAU D'ETUDES CODE LIBELLE DES TRAVAUX") == []
+    assert noms("Auteur de projet CS Coordinateur sécurité-santé ING") == []      # liste d'abréviations
+    assert noms("Ingénieur stabilité EG Entreprise générale ou entreprise gros-") == []
+    assert noms("AUTEUR DE PROJET FELIX ADRIAENS Avenue de la Corniche 2 Box A, 1310 La Hulpe") == [("Auteur de projet", "FELIX ADRIAENS")]
     assert cle("Cabinet d'architectes p. HD") == cle("Cabinet d'architecture p.HD")

@@ -11,6 +11,9 @@ STOP = re.compile(r"\s*(?:,|\(|;|\bBoulevard\b|\bBd\.?\s|\bRue\b|\bAvenue\b|\bAv
                   r"\bStatut\b|\bBureau\s+d|\bAuteur\s+de|\bD[ée]partement\b|\bDEPARTEMENT\b|\bDirection\s+r[ée]gionale\b|\s-\s|\s–\s|$)")
 REJET = re.compile(r"^(?:INDICE|DATE|DESIGNATION|DOSSIER|CODE|LIBELL|STADE|PLAN|Fait\s+[àa]|Signature|SERVICE|POLE|Statut|ET\b|DE\b|D['’]|"
                    r"NOM\b|Comme|INSCRIT|le\b|la\b|les\b|l['’]|du\b|des\b|un\b|une\b|pour\b|par\b|sera\b|est\b|doit\b)", re.I)
+# liste d'abréviations (« AP Auteur de projet / CS Coordinateur… ») : ce n'est pas un nom
+AUTRE_ROLE = re.compile(r"\b(?:coordinat\w+|entreprises?|entrepreneurs?|ma[îi]tres?\s+d['’]ouvrage|adjudicat\w+|soumissionnaires?|pouvoir|fonctionnaire|"
+                        r"direction\s+des\s+travaux|s[ée]curit[ée]|ing[ée]nieur|architecte\b)", re.I)
 SIGLES = r"\b(?:s\.?a\.?|s\.?r\.?l\.?|s\.?p\.?r\.?l\.?|s\.?c\.?r\.?l\.?|sc|scs|asbl|bv|nv|bvba|cvba|s[àa]rl|soci[ée]t[ée]\s+d['’]architectes?)\b\.?"
 
 
@@ -22,7 +25,7 @@ def _nom(apres):
     s = STOP.search(apres)
     nom = apres[:s.start()] if s else apres
     nom = re.sub(r"\s+", " ", nom).strip(" .:-|")[:70]
-    if len(nom) < 3 or REJET.match(nom) or nom.isdigit() or "demander" in nom.lower():
+    if len(nom) < 3 or REJET.match(nom) or nom.isdigit() or "demander" in nom.lower() or AUTRE_ROLE.search(nom):
         return ""
     return nom
 
