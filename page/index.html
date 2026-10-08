@@ -252,7 +252,7 @@ function cahier(r, k) {
     ${A.length ? A.map(it => ext(it, false)).join("") : `<p class="hint">Non mentionné dans les documents lus.</p>`}
     <h4>Fixations demandées</h4>
     ${F.length ? F.map(it => ext(it, true)).join("") : `<p class="hint">Aucun passage sur les chevilles, ancrages ou scellements dans les documents lus.</p>`}
-    <p class="hint">Textes copiés tels quels. Lu le ${fmt(c.lu_le)} : ${docs.map(esc).join(" ; ")}${c.ignores ? ` — ${c.ignores} document(s) non lu(s) (plans, formulaires, sécurité…)` : ""}.</p>
+    <p class="hint">Textes copiés tels quels. Lu le ${fmt(c.lu_le)} : ${docs.length} document${docs.length > 1 ? "s" : ""} (${docs.slice(0, 4).map(esc).join(" ; ")}${docs.length > 4 ? " ; …" : ""})${c.ignores ? ` — ${c.ignores} document(s) non lu(s) (plans, formulaires, sécurité…)` : ""}.</p>
   </details>`;
 }
 function card(r) {
