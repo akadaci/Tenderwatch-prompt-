@@ -15,7 +15,7 @@ jobs:
       - uses: actions/setup-python@v5
         with: {python-version: "3.11"}
       - run: pip install httpx==0.28.1 playwright pymupdf python-docx && python -m playwright install --with-deps chromium
-      - run: python discovery/csc_probe2.py
+      - run: python discovery/xml_probe.py
       - name: Enregistrer les résultats
         run: |
           git config user.name "radar-bot"
