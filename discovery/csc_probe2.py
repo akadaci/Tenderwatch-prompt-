@@ -34,7 +34,7 @@ async def main():
         res["mark_before_click"] = len(res["requests"])
         try:
             async with page.expect_download(timeout=90000) as dl:
-                await page.get_by_text("Télécharger la dernière version", exact=True).first.click()
+                await page.locator("span:visible", has_text="Télécharger la dernière version").first.click()
             d = await dl.value
             data = Path(await d.path()).read_bytes()
             res["download"] = {"url": d.url[:300], "suggested": d.suggested_filename, "bytes": len(data), "head": data[:8].hex()}
