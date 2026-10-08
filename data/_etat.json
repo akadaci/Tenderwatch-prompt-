@@ -1,20 +1,19 @@
 {
- "updated": "2026-10-08T06:57:30Z",
+ "updated": "2026-10-08T10:32:31Z",
  "days_back": 3,
  "sources": {
   "TED": {
-   "ok": false,
-   "error": "TedError: TED HTTP 429 : <html>\r\n<head><title>429 Too Many Requests</title></head>\r\n<body>\r\n<center><h1>429 Too Many Requests</h1></center>\r\n<hr><center>nginx/1.31.4</center>\r\n</body>\r\n</html>\r\n",
-   "trace": "Traceback (most recent call last):\n  File \"/home/runner/work/Tenderwatch-prompt-/Tenderwatch-prompt-/radar/main.py\", line 14, in main\n    new = mod.run(days_back=days_back)\n          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/Tenderwatch-prompt-/Tenderwatch-prompt-/radar/ted.py\", line 187, in run\n    raws, fields = fetch(days_back=days_back)\n                   ^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/Tenderwatch-prompt-/Tenderwatch-prompt-/radar/ted.py\", line 103, in fetch\n    raise TedError(f\"TED HTTP {r.status_code} : {r.text[:500]}\")\nradar.ted.TedError: TED HTTP 429 : <html>\r\n<head><title>429 Too Many Requests</title></head>\r\n<body>\r\n<center><h1>429 Too Many Requests</h1></center>\r\n<hr><center>nginx/1.31.4</center>\r\n</body>\r\n</html>\r\n\n"
+   "ok": true,
+   "new": 0
   },
   "Bulletin des Adjudications": {
    "ok": true,
-   "new": 2
+   "new": 27
   },
   "Permis Bruxelles": {
    "ok": true,
-   "new": 0
+   "new": 6
   }
  },
- "radar_public": 1500
+ "radar_public": 1533
 }

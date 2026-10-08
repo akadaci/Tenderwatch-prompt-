@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 290989
+  "totalCount": 291034
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -13,11 +13,11 @@
   "ACTIVE|16|['WORKS', 'SUPPLIES']",
   "ACTIVE|16|['WORKS']",
   "ACTIVE|17|['SERVICES']",
-  "ACTIVE|17|['SUPPLIES']",
   "ACTIVE|17|['WORKS']",
   "ACTIVE|18|['SUPPLIES']",
   "ACTIVE|19|['SERVICES']",
   "ACTIVE|20|['SERVICES']",
+  "ACTIVE|20|['WORKS']",
   "ACTIVE|21|['SUPPLIES']",
   "ACTIVE|25|['SUPPLIES']",
   "ACTIVE|25|['WORKS']",
@@ -52,129 +52,45 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "71356400-2",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Technical planning services"
-      },
-      {
-       "language": "FR",
-       "text": "Services de planification technique"
-      },
-      {
-       "language": "DE",
-       "text": "Technische Planungsleistungen"
-      },
-      {
-       "language": "NL",
-       "text": "Technische planningsdiensten"
-      }
-     ]
-    },
-    {
-     "code": "71310000-4",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Services de conseil en matière d'ingénierie et de construction"
-      },
-      {
-       "language": "NL",
-       "text": "Adviezen inzake techniek en bouw"
-      },
-      {
-       "language": "EN",
-       "text": "Consultative engineering and construction services"
-      },
-      {
-       "language": "DE",
-       "text": "Technische Beratung und Konstruktionsberatung"
-      }
-     ]
-    },
-    {
-     "code": "66171000-9",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Services de conseils financiers"
-      },
-      {
-       "language": "EN",
-       "text": "Financial consultancy services"
-      },
-      {
-       "language": "NL",
-       "text": "Diensten voor financieel advies"
-      },
-      {
-       "language": "DE",
-       "text": "Finanzberatung"
-      }
-     ]
-    },
-    {
-     "code": "71312000-8",
+     "code": "50111100-7",
      "descriptions": [
       {
        "language": "NL",
-       "text": "Bouwkundig advies"
-      },
-      {
-       "language": "DE",
-       "text": "Beratung im Hochbau"
+       "text": "Beheer van wagenpark"
       },
       {
        "language": "FR",
-       "text": "Services de conseil en ingénierie de la construction"
-      },
-      {
-       "language": "EN",
-       "text": "Structural engineering consultancy services"
-      }
-     ]
-    },
-    {
-     "code": "71621000-7",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Technical analysis or consultancy services"
-      },
-      {
-       "language": "NL",
-       "text": "Diensten voor technische analyse of adviezen"
-      },
-      {
-       "language": "FR",
-       "text": "Services d'analyse technique ou services de conseil"
+       "text": "Services de gestion de parc de véhicules"
       },
       {
        "language": "DE",
-       "text": "Technische Analysen oder Beratung"
+       "text": "Fuhrparkverwaltung"
+      },
+      {
+       "language": "EN",
+       "text": "Vehicle-fleet management services"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "71310000-4",
+    "code": "50111100-7",
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Services de conseil en matière d'ingénierie et de construction"
-     },
-     {
       "language": "NL",
-      "text": "Adviezen inzake techniek en bouw"
+      "text": "Beheer van wagenpark"
      },
      {
-      "language": "EN",
-      "text": "Consultative engineering and construction services"
+      "language": "FR",
+      "text": "Services de gestion de parc de véhicules"
      },
      {
       "language": "DE",
-      "text": "Technische Beratung und Konstruktionsberatung"
+      "text": "Fuhrparkverwaltung"
+     },
+     {
+      "language": "EN",
+      "text": "Vehicle-fleet management services"
      }
     ]
    },
@@ -183,20 +99,19 @@
     "accreditations": {},
     "descriptions": [
      {
-      "language": "NL",
-      "text": "IOK biedt lokale besturen in haar werkingsgebied ondersteuning bij de opmaak van een vastgoedplan. Dit omvat inventarisatie van het gemeentelijk patrimonium op 4 niveaus (bouwtechnisch, ruimtegebruik, omgeving, financieel), het in kaart brengen van de lokale behoeften (eigen werking, faciliterende werking aan inwoners), visievorming rond het behouden, tijdelijk behouden of afstoten van activa, hieraan gelinkt ontwerpend of locatie-onderzoek, en een ontwikkelingsscenario voor het gemeentelijk patrimonium met gekoppelde acties naar 2050 toe. Daarnaast beheren ook IOK en IOK Afvalbeheer eigen patrimonium zodat deze desgevallend ook ondersteuning nodig is bij het eigen patrimonium van IOK en IOK Afvalbeheer.  Afhankelijk van de complexiteit en de hoeveelheid vragen die IOK ontvangt is externe ondersteuning gewenst. Deze ondersteuning focust in hoofdzaak op doorgedreven technische en financiële analyse van gebouwen bij lokale besturen, IOK en IOK Afvalbeheer (niet-limitatieve opsomming): gedetailleerde kostprijs van essentiële renovatiewerken, kostprijs van renovatiewerken op een tijdspad naar 2050 toe, opmaken van een planning van renovatiemomenten naar 2050 toe met gekoppelde acties die ondernomen moeten worden, inschatting van onderhoudskosten, …  De opdracht beoogt het sluiten van een raamovereenkomst met één opdrachtnemer voor de duurtijd van 48 maanden.  Het betreft een niet-exclusieve raamovereenkomst zonder enige afnameverplichting. Bijgevolg zijn, niettegenstaande de sluiting van de raamovereenkomst door de aanbestedende overheid IOK op basis van onderhavig bestek, IOK en IOK Afvalbeheer vrij om elders te bestellen tijdens de duur van het contract of geen bestelling te plaatsen. De opdrachtnemer kan hiervoor geen schadevergoeding eisen. IOK sluit het contract met de opdrachtnemer. IOK kan opdrachten afroepen in kader van dienstverlening aan lokale besturen (o.b.v. in house). De lokale besturen zijn echter geenszins opdrachtgever binnen deze overheidsopdracht en zijn steeds vrij om eigen expertise in te schakelen."
+      "language": "FR",
+      "text": "Le présent marché consiste en l'installation et la mise à disposition de deux stations de voitures électriques partagées comprenant chacune : - La mise à disposition de deux véhicules électriques par station : • un véhicule citadin et un véhicule utilitaire à la Rue de la Rouge-Croix de Seneffe, sur le parking proche de l’Intermarché ; • deux véhicules citadins à la Rue des Carrières à Arquennes ; - La fourniture, la pose, le raccordement au compteur électrique, la mise en service et la maintenance d’une borne double de recharge électrique exclusivement dédiée à cet effet en leasing.  Les véhicules sont destinés à être utilisés d’une part par les citoyens Seneffois et d’autre part par les agents communaux. "
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "460003",
+    "number": "PPP0Z1-1059/6133/ENV03-2026",
     "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "460003",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "referenceNumber": "PPP0Z1-1059/6133/ENV03-2026",
     "titles": [
      {
-      "language": "NL",
-      "text": "Raamovereenkomst: Expertise vastgoedplanning en gebouwenanalyse voor publiek gebouwenpatrimonium"
+      "language": "FR",
+      "text": "Mise à disposition de deux stations de véhicules électriques partagés"
      }
     ]
    },
@@ -205,14 +120,14 @@
     {
      "descriptions": [
       {
-       "language": "NL",
-       "text": "IOK biedt lokale besturen in haar werkingsgebied ondersteuning bij de opmaak van een vastgoedplan. Dit omvat inventarisatie van het gemeentelijk patrimonium op 4 niveaus (bouwtechnisch, ruimtegebruik, omgeving, financieel), het in kaart brengen van de lokale behoeften (eigen werking, faciliterende werking aan inwoners), visievorming rond het behouden, tijdelijk behouden of afstoten van activa, hieraan gelinkt ontwerpend of locatie-onderzoek, en een ontwikkelingsscenario voor het gemeentelijk patrimonium met gekoppelde acties naar 2050 toe. Daarnaast beheren ook IOK en IOK Afvalbeheer eigen patrimonium zodat deze desgevallend ook ondersteuning nodig is bij het eigen patrimonium van IOK en IOK Afvalbeheer. Afhankelijk van de complexiteit en de hoeveelheid vragen die IOK ontvangt is externe ondersteuning gewenst. Deze ondersteuning focust in hoofdzaak op doorgedreven technische en financiële analyse van gebouwen bij lokale besturen, IOK en IOK Afvalbeheer (niet-limitatieve opsomming): gedetailleerde kostprijs van essentiële renovatiewerken, kostprijs van renovatiewerken op een tijdspad naar 2050 toe, opmaken van een planning van renovatiemomenten naar 2050 toe met gekoppelde acties die ondernomen moeten worden, inschatting van onderhoudskosten, … De opdracht beoogt het sluiten van een raamovereenkomst met één opdrachtnemer voor de duurtijd van 48 maanden. Het betreft een niet-exclusieve raamovereenkomst zonder enige afnameverplichting. Bijgevolg zijn, niettegenstaande de sluiting van de raamovereenkomst door de aanbestedende overheid IOK op basis van onderhavig bestek, IOK en IOK Afvalbeheer vrij om elders te bestellen tijdens de duur van het contract of geen bestelling te plaatsen. De opdrachtnemer kan hiervoor geen schadevergoeding eisen. IOK sluit het contract met de opdrachtnemer. IOK kan opdrachten afroepen in kader van dienstverlening aan lokale besturen (o.b.v. in house). De lokale besturen zijn echter geenszins opdrachtgever binnen deze overheidsopdracht en zijn steeds vrij om eigen expertise in te schakelen."
+       "language": "FR",
+       "text": "Le présent marché consiste en l'installation et la mise à disposition de deux stations de voitures électriques partagées comprenant chacune : - La mise à disposition de deux véhicules électriques par station : • un véhicule citadin et un véhicule utilitaire à la Rue de la Rouge-Croix de Seneffe, sur le parking proche de l’Intermarché ; • deux véhicules citadins à la Rue des Carrières à Arquennes ; - La fourniture, la pose, le raccordement au compteur électrique, la mise en service et la maintenance d’une borne double de recharge électrique exclusivement dédiée à cet effet en leasing.  Les véhicules sont destinés à être utilisés d’une part par les citoyens Seneffois et d’autre part par les agents communaux. "
       }
      ],
      "titles": [
       {
-       "language": "NL",
-       "text": "460003 - 1"
+       "language": "FR",
+       "text": "Mise à disposition de deux stations de véhicules électriques partagés"
       }
      ]
     }
@@ -221,96 +136,117 @@
     "SERVICES"
    ],
    "noticeIds": [
-    "7d7d2aa3-c8a3-4c06-9f47-4f0884bf80e8"
+    "e521cb7d-2d82-4561-a3ea-0e01841cb7a0"
    ],
-   "noticeSubType": "29",
+   "noticeSubType": "E4",
    "nutsCodes": [
-    "BE213"
+    "BE100"
    ],
    "organisation": {
-    "organisationId": 454,
+    "organisationId": 1700,
     "organisationNames": [
      {
-      "language": "NL",
-      "text": "Intercommunale Ontwikkelingsorganisatie voor de Kempen"
-     },
-     {
       "language": "FR",
-      "text": "Intercommunale Ontwikkelingsorganisatie voor de Kempen"
+      "text": "Seneffe"
      },
      {
       "language": "EN",
-      "text": "Intercommunale Ontwikkelingsorganisatie voor de Kempen"
+      "text": "Seneffe"
      },
      {
       "language": "DE",
-      "text": "Intercommunale Ontwikkelingsorganisatie voor de Kempen"
+      "text": "Seneffe"
+     },
+     {
+      "language": "NL",
+      "text": "Seneffe"
      }
     ],
-    "tree": "200004.200023.454"
+    "tree": "200004.200021.1700"
    },
-   "procedureId": "00a6216b-9aa0-46df-85ce-6c89a60f04ff",
+   "procedureId": "0e4c169d-47ce-467b-b93e-3b69fb1cd38f",
    "publicationDate": "2026-10-08",
    "publicationLanguages": [
-    "NL"
+    "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "460003_pub01"
+    "PPP0Z1-1059/6133/ENV03-2026_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "bc9f702f-e58b-4418-9174-d9f7cac16694",
+   "publicationWorkspaceId": "9cecaf15-5514-4c07-86a9-58bcf6916ebc",
    "publishedAt": [
-    "2026-10-08T08:05:45.036864"
+    "2026-10-08T00:00:45.032641"
    ],
-   "referenceNumber": "460003_pub01",
+   "referenceNumber": "PPP0Z1-1059/6133/ENV03-2026_002",
    "sentAt": [
-    "2026-10-08T08:05:45.036864"
+    "2026-10-08T00:00:45.032641"
    ],
    "tedPublished": false
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "79400000-8",
+     "code": "34131000-4",
      "descriptions": [
       {
-       "language": "DE",
-       "text": "Unternehmens- und Managementberatung und zugehörige Dienste"
-      },
-      {
        "language": "FR",
-       "text": "Conseil en affaires et en gestion et services connexes"
-      },
-      {
-       "language": "NL",
-       "text": "Adviezen inzake bedrijfsvoering en management, en aanverwante diensten"
+       "text": "Camionnettes à espace ouvert à l'arrière (pick-up)"
       },
       {
        "language": "EN",
-       "text": "Business and management consultancy and related services"
+       "text": "Pick-ups"
+      },
+      {
+       "language": "DE",
+       "text": "Pritschenkleinlastwagen"
+      },
+      {
+       "language": "NL",
+       "text": "Kleine vrachtwagentjes"
+      }
+     ]
+    },
+    {
+     "code": "34139100-1",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Fahrgestelle mit Führerhaus"
+      },
+      {
+       "language": "NL",
+       "text": "Chassis met cabines"
+      },
+      {
+       "language": "FR",
+       "text": "Châssis-cabines"
+      },
+      {
+       "language": "EN",
+       "text": "Chassis cabs"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "79400000-8",
+    "code": "34139100-1",
     "descriptions": [
      {
       "language": "DE",
-      "text": "Unternehmens- und Managementberatung und zugehörige Dienste"
-     },
-     {
-      "language": "FR",
-      "text": "Conseil en affaires et en gestion et services connexes"
+      "text": "Fahrgestelle mit Führerhaus"
      },
      {
       "language": "NL",
-      "text": "Adviezen inzake bedrijfsvoering en management, en aanverwante diensten"
+      "text": "Chassis met cabines"
+     },
+     {
+      "language": "FR",
+      "text": "Châssis-cabines"
      },
      {
       "language": "EN",
-      "text": "Business and management consultancy and related services"
+      "text": "Chassis cabs"
      }
     ]
    },
@@ -320,18 +256,18 @@
     "descriptions": [
      {
       "language": "NL",
-      "text": "Het uitwerken van een scherpe, wervende visie met strategische keuzes voor de Universiteit Gent"
+      "text": "Toelichting: Deze opdracht heeft betrekking op de aankoop van een chassis-cabine met materiaalkast, swinglift kraan en driezijdige kipper. Tevens dient een onderhoudscontract voor 3 jaar voorzien te worden. Zie technische bepalingen voor meer informatie.  Leveringsplaats: Loods van de Technische Dienst, Staatsbaan te 8610 Kortemark. "
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP01G-3499/6427/26VOM032",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "PPP01G-3499/6427/26VOM032",
+    "number": "PPP0A9-715/6168/2026175",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP0A9-715/6168/2026175",
     "titles": [
      {
       "language": "NL",
-      "text": "Het uitwerken van een scherpe, wervende visie met strategische keuzes voor de Universiteit Gent"
+      "text": "Aankoop bestelwagen chassis-cabine met materiaalkast, swinglift kraan en vaste laadbak"
      }
     ]
    },
@@ -341,7 +277,163 @@
      "descriptions": [
       {
        "language": "NL",
-       "text": "Het uitwerken van een scherpe, wervende visie met strategische keuzes voor de Universiteit Gent"
+       "text": "Toelichting: Deze opdracht heeft betrekking op de aankoop van een chassis-cabine met materiaalkast, swinglift kraan en driezijdige kipper. Tevens dient een onderhoudscontract voor 3 jaar voorzien te worden. Zie technische bepalingen voor meer informatie.  Leveringsplaats: Loods van de Technische Dienst, Staatsbaan te 8610 Kortemark. "
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Aankoop bestelwagen chassis-cabine met materiaalkast, swinglift kraan en vaste laadbak"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SUPPLIES"
+   ],
+   "noticeIds": [
+    "5a3b2163-f41e-4db2-a59d-e861d7389887"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE252"
+   ],
+   "organisation": {
+    "organisationId": 568,
+    "organisationNames": [
+     {
+      "language": "FR",
+      "text": "Kortemark"
+     },
+     {
+      "language": "EN",
+      "text": "Kortemark"
+     },
+     {
+      "language": "DE",
+      "text": "Kortemark"
+     },
+     {
+      "language": "NL",
+      "text": "Kortemark"
+     }
+    ],
+    "tree": "200004.200021.568"
+   },
+   "procedureId": "a6d86b80-0144-4e59-aebb-d00ce41f33d1",
+   "publicationDate": "2026-10-08",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP0A9-715/6168/2026175_002"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "3d8039ea-daa7-4148-8f30-4e9ada284b99",
+   "publishedAt": [
+    "2026-10-08T00:00:47.167993"
+   ],
+   "referenceNumber": "PPP0A9-715/6168/2026175_002",
+   "sentAt": [
+    "2026-10-08T00:00:47.167993"
+   ],
+   "tedPublished": false
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "72320000-4",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Database services"
+      },
+      {
+       "language": "DE",
+       "text": "Datenbankdienste"
+      },
+      {
+       "language": "FR",
+       "text": "Services de bases de données"
+      },
+      {
+       "language": "NL",
+       "text": "Databasediensten"
+      }
+     ]
+    },
+    {
+     "code": "71354100-5",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Digitalisierte Kartenerstellung"
+      },
+      {
+       "language": "FR",
+       "text": "Services de cartographie numérique"
+      },
+      {
+       "language": "NL",
+       "text": "Digitale kartering"
+      },
+      {
+       "language": "EN",
+       "text": "Digital mapping services"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "71354100-5",
+    "descriptions": [
+     {
+      "language": "DE",
+      "text": "Digitalisierte Kartenerstellung"
+     },
+     {
+      "language": "FR",
+      "text": "Services de cartographie numérique"
+     },
+     {
+      "language": "NL",
+      "text": "Digitale kartering"
+     },
+     {
+      "language": "EN",
+      "text": "Digital mapping services"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-08",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "L’objet du marché est la prestation de services relatifs à la géolocalisation de biens patrimoniaux inscrits à l'Inventaire Régional du Patrimoine (IRP) ou ayant bénéficié de subventions \"Petit Patrimoine Populaire Wallon\" (PPPW)"
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "A2.00.04-26-3386",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "A2.00.04-26-3386",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Géolocalisation de biens patrimoniaux inscrits à l'Inventaire Régional du Patrimoine (IRP) ou ayant bénéficié de subventions \"Petit Patrimoine Populaire Wallon\" (PPPW)"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-08",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "L’objet du marché est la prestation de services relatifs à la géolocalisation de biens patrimoniaux inscrits à l'Inventaire Régional du Patrimoine (IRP) ou ayant bénéficié de subventions \"Petit Patrimoine Populaire Wallon\" (PPPW)"
       }
      ],
      "reservedExecution": [
@@ -352,8 +444,8 @@
      ],
      "titles": [
       {
-       "language": "NL",
-       "text": "Het uitwerken van een scherpe, wervende visie met strategische keuzes voor de Universiteit Gent"
+       "language": "FR",
+       "text": "A2.00.04-26-3386 - 1"
       }
      ]
     }
@@ -362,338 +454,99 @@
     "SERVICES"
    ],
    "noticeIds": [
-    "9586f418-ab2a-422a-b4e2-c72944bbbe01"
+    "0846b99b-bf08-4cb6-ac3d-a3f516869739"
    ],
-   "noticeSubType": "E4",
+   "noticeSubType": "16",
    "nutsCodes": [
-    "BE100"
+    "BE352"
    ],
    "organisation": {
-    "organisationId": 160,
+    "organisationId": 6680,
     "organisationNames": [
      {
-      "language": "NL",
-      "text": "Universiteit Gent"
-     },
-     {
-      "language": "FR",
-      "text": "Universiteit Gent"
-     },
-     {
       "language": "EN",
-      "text": "Universiteit Gent"
+      "text": "Direction de la Coordination opérationnelle"
      },
      {
       "language": "DE",
-      "text": "Universiteit Gent"
-     }
-    ],
-    "tree": "200004.200026.160"
-   },
-   "procedureId": "ab98fafe-0456-4043-b827-159ce9ccbff7",
-   "publicationDate": "2026-10-08",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP01G-3499/6427/26VOM032_002"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "8b3e166d-3601-48d1-a9ed-0244ae233f14",
-   "publishedAt": [
-    "2026-10-08T07:59:45.011996"
-   ],
-   "referenceNumber": "PPP01G-3499/6427/26VOM032_002",
-   "sentAt": [
-    "2026-10-08T07:59:45.011996"
-   ],
-   "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "79711000-1",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Alarm-monitoring services"
-      },
-      {
-       "language": "NL",
-       "text": "Diensten voor alarmbewaking"
-      },
-      {
-       "language": "DE",
-       "text": "Überwachung von Alarmanlagen"
-      },
-      {
-       "language": "FR",
-       "text": "Services de surveillance d'installations d'alarme"
-      }
-     ]
-    },
-    {
-     "code": "50413200-5",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Reparatie en onderhoud van brandblusinstallaties"
-      },
-      {
-       "language": "FR",
-       "text": "Services de réparation et d'entretien d'installations d'extinction d'incendie"
-      },
-      {
-       "language": "DE",
-       "text": "Reparatur und Wartung von Feuerlöschanlagen"
-      },
-      {
-       "language": "EN",
-       "text": "Repair and maintenance services of firefighting equipment"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "50413200-5",
-    "descriptions": [
+      "text": "Direction de la Coordination opérationnelle"
+     },
+     {
+      "language": "FR",
+      "text": "SPW-A2.00.04 - Direction de la Coordination opérationnelle"
+     },
      {
       "language": "NL",
-      "text": "Reparatie en onderhoud van brandblusinstallaties"
-     },
-     {
-      "language": "FR",
-      "text": "Services de réparation et d'entretien d'installations d'extinction d'incendie"
-     },
-     {
-      "language": "DE",
-      "text": "Reparatur und Wartung von Feuerlöschanlagen"
-     },
-     {
-      "language": "EN",
-      "text": "Repair and maintenance services of firefighting equipment"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-08",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Prestations d'entretien, de maintenance, de télésurveillance et de dépannage des systèmes d'alerte et alarme incendie et de détection incendie"
+      "text": "Direction de la Coordination opérationnelle"
      }
     ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP0BP-572/6005/2026/201",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP0BP-572/6005/2026/201",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "Prestations d'entretien, de maintenance, de télésurveillance et de dépannage des systèmes d'alerte et alarme incendie et de détection incendie"
-     }
-    ]
+    "tree": "200003.200016.123.5091.6100.6680"
    },
-   "insertionDate": "2026-10-08",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Prestations d'entretien, de maintenance, de télésurveillance et de dépannage des systèmes d'alerte et alarme incendie et de détection incendie"
-      }
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Prestations d'entretien, de maintenance, de télésurveillance et de dépannage des systèmes d'alerte et alarme incendie et de détection incendie"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SERVICES"
-   ],
-   "noticeIds": [
-    "f4dea400-025f-4464-b1b7-969172876b12"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE334"
-   ],
-   "organisation": {
-    "organisationId": 177,
-    "organisationNames": [
-     {
-      "language": "NL",
-      "text": "CPAS de Hannut"
-     },
-     {
-      "language": "EN",
-      "text": "CPAS de Hannut"
-     },
-     {
-      "language": "FR",
-      "text": "Centre Public d'Action Sociale de Hannut"
-     },
-     {
-      "language": "DE",
-      "text": "CPAS de Hannut"
-     }
-    ],
-    "tree": "200004.200022.177"
-   },
-   "procedureId": "8742dd88-1056-4634-9329-e51f68c801c1",
+   "procedureId": "415f4e48-5b11-4c2f-bd13-4c541ea1e460",
    "publicationDate": "2026-10-08",
    "publicationLanguages": [
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP0BP-572/6005/2026/201_002"
+    "A2.00.04-26-3386_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "22b9d28d-91d7-4f7c-a8c8-2b65f9dd37ab",
+   "publicationWorkspaceId": "8ac16292-1003-4fb5-a644-1ff28036b88c",
    "publishedAt": [
-    "2026-10-08T00:00:46.583608"
+    "2026-10-08T00:00:46.161586"
    ],
-   "referenceNumber": "PPP0BP-572/6005/2026/201_002",
+   "referenceNumber": "A2.00.04-26-3386_pub01",
    "sentAt": [
-    "2026-10-08T00:00:46.583608"
+    "2026-10-08T00:00:46.161586"
    ],
-   "tedPublished": false
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-11-16T12:10:00"
   }
  ],
  "exemple_attribution": [
   {
    "cpvAdditionalCodes": [
     {
-     "code": "71356400-2",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Technical planning services"
-      },
-      {
-       "language": "FR",
-       "text": "Services de planification technique"
-      },
-      {
-       "language": "DE",
-       "text": "Technische Planungsleistungen"
-      },
-      {
-       "language": "NL",
-       "text": "Technische planningsdiensten"
-      }
-     ]
-    },
-    {
-     "code": "71310000-4",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Services de conseil en matière d'ingénierie et de construction"
-      },
-      {
-       "language": "NL",
-       "text": "Adviezen inzake techniek en bouw"
-      },
-      {
-       "language": "EN",
-       "text": "Consultative engineering and construction services"
-      },
-      {
-       "language": "DE",
-       "text": "Technische Beratung und Konstruktionsberatung"
-      }
-     ]
-    },
-    {
-     "code": "66171000-9",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Services de conseils financiers"
-      },
-      {
-       "language": "EN",
-       "text": "Financial consultancy services"
-      },
-      {
-       "language": "NL",
-       "text": "Diensten voor financieel advies"
-      },
-      {
-       "language": "DE",
-       "text": "Finanzberatung"
-      }
-     ]
-    },
-    {
-     "code": "71312000-8",
+     "code": "50111100-7",
      "descriptions": [
       {
        "language": "NL",
-       "text": "Bouwkundig advies"
-      },
-      {
-       "language": "DE",
-       "text": "Beratung im Hochbau"
+       "text": "Beheer van wagenpark"
       },
       {
        "language": "FR",
-       "text": "Services de conseil en ingénierie de la construction"
-      },
-      {
-       "language": "EN",
-       "text": "Structural engineering consultancy services"
-      }
-     ]
-    },
-    {
-     "code": "71621000-7",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Technical analysis or consultancy services"
-      },
-      {
-       "language": "NL",
-       "text": "Diensten voor technische analyse of adviezen"
-      },
-      {
-       "language": "FR",
-       "text": "Services d'analyse technique ou services de conseil"
+       "text": "Services de gestion de parc de véhicules"
       },
       {
        "language": "DE",
-       "text": "Technische Analysen oder Beratung"
+       "text": "Fuhrparkverwaltung"
+      },
+      {
+       "language": "EN",
+       "text": "Vehicle-fleet management services"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "71310000-4",
+    "code": "50111100-7",
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Services de conseil en matière d'ingénierie et de construction"
-     },
-     {
       "language": "NL",
-      "text": "Adviezen inzake techniek en bouw"
+      "text": "Beheer van wagenpark"
      },
      {
-      "language": "EN",
-      "text": "Consultative engineering and construction services"
+      "language": "FR",
+      "text": "Services de gestion de parc de véhicules"
      },
      {
       "language": "DE",
-      "text": "Technische Beratung und Konstruktionsberatung"
+      "text": "Fuhrparkverwaltung"
+     },
+     {
+      "language": "EN",
+      "text": "Vehicle-fleet management services"
      }
     ]
    },
@@ -702,20 +555,19 @@
     "accreditations": {},
     "descriptions": [
      {
-      "language": "NL",
-      "text": "IOK biedt lokale besturen in haar werkingsgebied ondersteuning bij de opmaak van een vastgoedplan. Dit omvat inventarisatie van het gemeentelijk patrimonium op 4 niveaus (bouwtechnisch, ruimtegebruik, omgeving, financieel), het in kaart brengen van de lokale behoeften (eigen werking, faciliterende werking aan inwoners), visievorming rond het behouden, tijdelijk behouden of afstoten van activa, hieraan gelinkt ontwerpend of locatie-onderzoek, en een ontwikkelingsscenario voor het gemeentelijk patrimonium met gekoppelde acties naar 2050 toe. Daarnaast beheren ook IOK en IOK Afvalbeheer eigen patrimonium zodat deze desgevallend ook ondersteuning nodig is bij het eigen patrimonium van IOK en IOK Afvalbeheer.  Afhankelijk van de complexiteit en de hoeveelheid vragen die IOK ontvangt is externe ondersteuning gewenst. Deze ondersteuning focust in hoofdzaak op doorgedreven technische en financiële analyse van gebouwen bij lokale besturen, IOK en IOK Afvalbeheer (niet-limitatieve opsomming): gedetailleerde kostprijs van essentiële renovatiewerken, kostprijs van renovatiewerken op een tijdspad naar 2050 toe, opmaken van een planning van renovatiemomenten naar 2050 toe met gekoppelde acties die ondernomen moeten worden, inschatting van onderhoudskosten, …  De opdracht beoogt het sluiten van een raamovereenkomst met één opdrachtnemer voor de duurtijd van 48 maanden.  Het betreft een niet-exclusieve raamovereenkomst zonder enige afnameverplichting. Bijgevolg zijn, niettegenstaande de sluiting van de raamovereenkomst door de aanbestedende overheid IOK op basis van onderhavig bestek, IOK en IOK Afvalbeheer vrij om elders te bestellen tijdens de duur van het contract of geen bestelling te plaatsen. De opdrachtnemer kan hiervoor geen schadevergoeding eisen. IOK sluit het contract met de opdrachtnemer. IOK kan opdrachten afroepen in kader van dienstverlening aan lokale besturen (o.b.v. in house). De lokale besturen zijn echter geenszins opdrachtgever binnen deze overheidsopdracht en zijn steeds vrij om eigen expertise in te schakelen."
+      "language": "FR",
+      "text": "Le présent marché consiste en l'installation et la mise à disposition de deux stations de voitures électriques partagées comprenant chacune : - La mise à disposition de deux véhicules électriques par station : • un véhicule citadin et un véhicule utilitaire à la Rue de la Rouge-Croix de Seneffe, sur le parking proche de l’Intermarché ; • deux véhicules citadins à la Rue des Carrières à Arquennes ; - La fourniture, la pose, le raccordement au compteur électrique, la mise en service et la maintenance d’une borne double de recharge électrique exclusivement dédiée à cet effet en leasing.  Les véhicules sont destinés à être utilisés d’une part par les citoyens Seneffois et d’autre part par les agents communaux. "
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "460003",
+    "number": "PPP0Z1-1059/6133/ENV03-2026",
     "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "460003",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "referenceNumber": "PPP0Z1-1059/6133/ENV03-2026",
     "titles": [
      {
-      "language": "NL",
-      "text": "Raamovereenkomst: Expertise vastgoedplanning en gebouwenanalyse voor publiek gebouwenpatrimonium"
+      "language": "FR",
+      "text": "Mise à disposition de deux stations de véhicules électriques partagés"
      }
     ]
    },
@@ -724,14 +576,14 @@
     {
      "descriptions": [
       {
-       "language": "NL",
-       "text": "IOK biedt lokale besturen in haar werkingsgebied ondersteuning bij de opmaak van een vastgoedplan. Dit omvat inventarisatie van het gemeentelijk patrimonium op 4 niveaus (bouwtechnisch, ruimtegebruik, omgeving, financieel), het in kaart brengen van de lokale behoeften (eigen werking, faciliterende werking aan inwoners), visievorming rond het behouden, tijdelijk behouden of afstoten van activa, hieraan gelinkt ontwerpend of locatie-onderzoek, en een ontwikkelingsscenario voor het gemeentelijk patrimonium met gekoppelde acties naar 2050 toe. Daarnaast beheren ook IOK en IOK Afvalbeheer eigen patrimonium zodat deze desgevallend ook ondersteuning nodig is bij het eigen patrimonium van IOK en IOK Afvalbeheer. Afhankelijk van de complexiteit en de hoeveelheid vragen die IOK ontvangt is externe ondersteuning gewenst. Deze ondersteuning focust in hoofdzaak op doorgedreven technische en financiële analyse van gebouwen bij lokale besturen, IOK en IOK Afvalbeheer (niet-limitatieve opsomming): gedetailleerde kostprijs van essentiële renovatiewerken, kostprijs van renovatiewerken op een tijdspad naar 2050 toe, opmaken van een planning van renovatiemomenten naar 2050 toe met gekoppelde acties die ondernomen moeten worden, inschatting van onderhoudskosten, … De opdracht beoogt het sluiten van een raamovereenkomst met één opdrachtnemer voor de duurtijd van 48 maanden. Het betreft een niet-exclusieve raamovereenkomst zonder enige afnameverplichting. Bijgevolg zijn, niettegenstaande de sluiting van de raamovereenkomst door de aanbestedende overheid IOK op basis van onderhavig bestek, IOK en IOK Afvalbeheer vrij om elders te bestellen tijdens de duur van het contract of geen bestelling te plaatsen. De opdrachtnemer kan hiervoor geen schadevergoeding eisen. IOK sluit het contract met de opdrachtnemer. IOK kan opdrachten afroepen in kader van dienstverlening aan lokale besturen (o.b.v. in house). De lokale besturen zijn echter geenszins opdrachtgever binnen deze overheidsopdracht en zijn steeds vrij om eigen expertise in te schakelen."
+       "language": "FR",
+       "text": "Le présent marché consiste en l'installation et la mise à disposition de deux stations de voitures électriques partagées comprenant chacune : - La mise à disposition de deux véhicules électriques par station : • un véhicule citadin et un véhicule utilitaire à la Rue de la Rouge-Croix de Seneffe, sur le parking proche de l’Intermarché ; • deux véhicules citadins à la Rue des Carrières à Arquennes ; - La fourniture, la pose, le raccordement au compteur électrique, la mise en service et la maintenance d’une borne double de recharge électrique exclusivement dédiée à cet effet en leasing.  Les véhicules sont destinés à être utilisés d’une part par les citoyens Seneffois et d’autre part par les agents communaux. "
       }
      ],
      "titles": [
       {
-       "language": "NL",
-       "text": "460003 - 1"
+       "language": "FR",
+       "text": "Mise à disposition de deux stations de véhicules électriques partagés"
       }
      ]
     }
@@ -740,51 +592,51 @@
     "SERVICES"
    ],
    "noticeIds": [
-    "7d7d2aa3-c8a3-4c06-9f47-4f0884bf80e8"
+    "e521cb7d-2d82-4561-a3ea-0e01841cb7a0"
    ],
-   "noticeSubType": "29",
+   "noticeSubType": "E4",
    "nutsCodes": [
-    "BE213"
+    "BE100"
    ],
    "organisation": {
-    "organisationId": 454,
+    "organisationId": 1700,
     "organisationNames": [
      {
-      "language": "NL",
-      "text": "Intercommunale Ontwikkelingsorganisatie voor de Kempen"
-     },
-     {
       "language": "FR",
-      "text": "Intercommunale Ontwikkelingsorganisatie voor de Kempen"
+      "text": "Seneffe"
      },
      {
       "language": "EN",
-      "text": "Intercommunale Ontwikkelingsorganisatie voor de Kempen"
+      "text": "Seneffe"
      },
      {
       "language": "DE",
-      "text": "Intercommunale Ontwikkelingsorganisatie voor de Kempen"
+      "text": "Seneffe"
+     },
+     {
+      "language": "NL",
+      "text": "Seneffe"
      }
     ],
-    "tree": "200004.200023.454"
+    "tree": "200004.200021.1700"
    },
-   "procedureId": "00a6216b-9aa0-46df-85ce-6c89a60f04ff",
+   "procedureId": "0e4c169d-47ce-467b-b93e-3b69fb1cd38f",
    "publicationDate": "2026-10-08",
    "publicationLanguages": [
-    "NL"
+    "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "460003_pub01"
+    "PPP0Z1-1059/6133/ENV03-2026_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "bc9f702f-e58b-4418-9174-d9f7cac16694",
+   "publicationWorkspaceId": "9cecaf15-5514-4c07-86a9-58bcf6916ebc",
    "publishedAt": [
-    "2026-10-08T08:05:45.036864"
+    "2026-10-08T00:00:45.032641"
    ],
-   "referenceNumber": "460003_pub01",
+   "referenceNumber": "PPP0Z1-1059/6133/ENV03-2026_002",
    "sentAt": [
-    "2026-10-08T08:05:45.036864"
+    "2026-10-08T00:00:45.032641"
    ],
    "tedPublished": false
   }
