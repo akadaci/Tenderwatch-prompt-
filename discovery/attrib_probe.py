@@ -24,8 +24,10 @@ async def main():
             try:
                 await pg.goto(url, wait_until="networkidle", timeout=60000)
                 await pg.screenshot(path=str(ROOT / "discovery" / "out" / f"p3_{i}_a.png"))
-                for txt in ["Submit", "BELGIQUE"]:
-                    loc = pg.locator("a", has_text=txt).first
+                for txt in ["Submit", "BELGIQUE", "Je ne désire pas m'identifier"]:
+                    loc = pg.locator("a, button, input[type=submit]", has_text=txt).first
+                    if not await loc.count():
+                        loc = pg.get_by_text(txt, exact=False).first
                     if await loc.count():
                         await loc.click(); await pg.wait_for_load_state("networkidle"); await pg.wait_for_timeout(1500)
                         it["etapes"].append(txt)
@@ -36,7 +38,7 @@ async def main():
                 it["liens"] = await pg.eval_on_selector_all("a", "as => as.slice(0,80).map(a => [a.innerText.trim().slice(0,80), a.href.slice(0,200)])")
                 it["champs"] = await pg.eval_on_selector_all("input,select,button", "as => as.slice(0,60).map(a => [a.tagName, a.type||'', a.name||a.id||'', (a.value||a.innerText||'').slice(0,60)])")
                 # tentative : premier lien qui ressemble à un document
-                doc = pg.locator("a:has-text('.pdf'), a:has-text('.zip'), a:has-text('Télécharger'), a:has-text('Download')").first
+                doc = pg.locator("a:has-text('.pdf'), a:has-text('.zip'), a:has-text('.docx'), a:has-text('Télécharger'), a:has-text('Download'), a:has-text('tout')").first
                 if await doc.count():
                     try:
                         async with pg.expect_download(timeout=30000) as dl:
