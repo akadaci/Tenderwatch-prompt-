@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T05:26:32Z",
+ "updated": "2026-10-08T05:28:52Z",
  "source": "TED API v3",
  "fields": [
   "publication-number",
@@ -98,7 +98,7 @@
   {
    "id": "ted-693327-2026",
    "source_type": "TED",
-   "nom": "Belgique – Services d'architecture, services de construction, services d'ingénierie et services d'inspection – Overeenkomst voor het aanstellen van een ontwerper voor de renovatie van de sporthal, gel",
+   "nom": "Belgique – Services d'architecture, services de construction, services d'ingénierie et services d'inspection – Overeenkomst voor het aanstellen van een ontwerper voor de renovatie van de sporthal, gelegen op de site De Rijdt te Brakel",
    "lieu": "Gent, Flandre-Orientale",
    "mo": "Farys",
    "etape": 1,
@@ -194,7 +194,7 @@
   {
    "id": "ted-693969-2026",
    "source_type": "TED",
-   "nom": "Luxembourg – Travaux de gros œuvre – VdL: Travaux de terrassement, gros-oeuvre, toiture plate et menuiserie extérieure dans le cadre du projet de construction d'un bâtiment scolaire sis 32, rue Marche",
+   "nom": "Luxembourg – Travaux de gros œuvre – VdL: Travaux de terrassement, gros-oeuvre, toiture plate et menuiserie extérieure dans le cadre du projet de construction d'un bâtiment scolaire sis 32, rue Marche à Luxembourg-Beggen.",
    "lieu": "Luxemburg, Grand-Duché",
    "mo": "Administration communale de la Ville de Luxembourg",
    "etape": 4,
@@ -218,7 +218,7 @@
   {
    "id": "ted-694126-2026",
    "source_type": "TED",
-   "nom": "Belgique – Travaux de construction – Marché de travaux ayant pour objet la construction d'une maison de repos (Lot 1 – Architecture (lot PILOTE) - Lot 2 – HVAC (lot piloté) - Lot 3 – Électricité (lot ",
+   "nom": "Belgique – Travaux de construction – Marché de travaux ayant pour objet la construction d'une maison de repos (Lot 1 – Architecture (lot PILOTE) - Lot 2 – HVAC (lot piloté) - Lot 3 – Électricité (lot piloté) - Lot 4 – Cuisine (lot piloté))",
    "lieu": "CHIMAY, Hainaut",
    "mo": "ASSOCIATION INTERCOMMUNALE GÉNÉRATIONS THIÉRACHE SC",
    "etape": 4,
@@ -242,7 +242,7 @@
   {
    "id": "ted-694515-2026",
    "source_type": "TED",
-   "nom": "Belgique – Services d'architecture, services de construction, services d'ingénierie et services d'inspection – Aanstellen van een ontwerper voor het vernieuwen van de sportinfrastructuur op de site Ke",
+   "nom": "Belgique – Services d'architecture, services de construction, services d'ingénierie et services d'inspection – Aanstellen van een ontwerper voor het vernieuwen van de sportinfrastructuur op de site Keperenberg, te Keperenbergstraat 37, 1701 Dilbeek-Itterbeek",
    "lieu": "Gent, Brabant flamand",
    "mo": "Farys",
    "etape": 1,
@@ -266,7 +266,7 @@
   {
    "id": "ted-694529-2026",
    "source_type": "TED",
-   "nom": "Belgique – Services d'architecture, services de construction, services d'ingénierie et services d'inspection – RAAMOVEREENKOMST VOOR HET INZETTEN VAN EEN EXTERNE PROJECTLEIDER VOOR DE STUDIEDIENST WEG",
+   "nom": "Belgique – Services d'architecture, services de construction, services d'ingénierie et services d'inspection – RAAMOVEREENKOMST VOOR HET INZETTEN VAN EEN EXTERNE PROJECTLEIDER VOOR DE STUDIEDIENST WEG- EN WATERBEHEER",
    "lieu": "Leuven, Brabant flamand",
    "mo": "Leuven",
    "etape": 1,
@@ -454,7 +454,7 @@
   {
    "id": "ted-695201-2026",
    "source_type": "TED",
-   "nom": "Belgique – Installation de câblage – 57/43/3/26/118 Projects North – Power Distribution & Substations. Buitenwerken (graaf- en grondwerken, kabelaanleg, kabelwegen/trekputten/betonsleuven, kasten en v",
+   "nom": "Belgique – Installation de câblage – 57/43/3/26/118 Projects North – Power Distribution & Substations. Buitenwerken (graaf- en grondwerken, kabelaanleg, kabelwegen/trekputten/betonsleuven, kasten en verlichtingspylonen). Raamovereenkomst. Perceel 1: Provincies Oost- en West-Vlaanderen. Perceel 2: Provincies Antwerpen, Limburg en Vlaams-Brabant.",
    "lieu": "Gent, Flandre-Orientale",
    "mo": "Infrabel nv",
    "etape": 4,
@@ -524,7 +524,7 @@
   {
    "id": "ted-695431-2026",
    "source_type": "TED",
-   "nom": "Luxembourg – Travaux de construction de bâtiments liés à la santé – MSK-10 – VE4733 – Versorgungseinheiten, DVE's, MVE's und Wandhalterungen EDV (Unités d'alimentation, Unités d'alimentation de plafon",
+   "nom": "Luxembourg – Travaux de construction de bâtiments liés à la santé – MSK-10 – VE4733 – Versorgungseinheiten, DVE's, MVE's und Wandhalterungen EDV (Unités d'alimentation, Unités d'alimentation de plafond, Unités de distribution des fluides médicaux, Supports muraux informatique)",
    "lieu": "Luxembourg, Grand-Duché",
    "mo": "Hôpitaux Robert Schuman S.A.",
    "etape": 5,
@@ -760,7 +760,7 @@
   {
    "id": "ted-696222-2026",
    "source_type": "TED",
-   "nom": "Belgique – Services d'architecture, services de construction, services d'ingénierie et services d'inspection – Bastogne - Salle Jean XXIII - Marché de services pour la désignation d'une équipe de proj",
+   "nom": "Belgique – Services d'architecture, services de construction, services d'ingénierie et services d'inspection – Bastogne - Salle Jean XXIII - Marché de services pour la désignation d'une équipe de projets",
    "lieu": "Arlon, Luxembourg (prov.)",
    "mo": "IDELUX Projets publics",
    "etape": 1,
@@ -856,7 +856,7 @@
   {
    "id": "ted-696470-2026",
    "source_type": "TED",
-   "nom": "Belgique – Matériaux et structures de construction; produits auxiliaires pour la construction (à l'exception des appareils électriques) – CONCEPTION ET FABRICATION DE DEUX BATARDEAUX METALLIQUES POUR ",
+   "nom": "Belgique – Matériaux et structures de construction; produits auxiliaires pour la construction (à l'exception des appareils électriques) – CONCEPTION ET FABRICATION DE DEUX BATARDEAUX METALLIQUES POUR LES ECLUSES DE KAIN ET D’HERINNES (HAUT-ESCAUT)",
    "lieu": "Tournai, Hainaut",
    "mo": "Service public de wallonie",
    "etape": 4,
@@ -1072,7 +1072,7 @@
   {
    "id": "ted-691418-2026",
    "source_type": "TED",
-   "nom": "Belgique – Services d'étude du sol – Thema Ruimte - dienst Vergunningen en Wonen. Aankoopcentrale stad Aalst. Raamovereenkomst voor de aanstelling van bodemsaneringsdeskundigen voor bodemonderzoeken, ",
+   "nom": "Belgique – Services d'étude du sol – Thema Ruimte - dienst Vergunningen en Wonen. Aankoopcentrale stad Aalst. Raamovereenkomst voor de aanstelling van bodemsaneringsdeskundigen voor bodemonderzoeken, bodemsaneringsprojecten en bijstand bij schadegevallen of calamiteiten voor een periode van maximum vier jaar",
    "lieu": "Aalst, Flandre-Orientale",
    "mo": "Stad Aalst",
    "etape": 1,
@@ -1096,7 +1096,7 @@
   {
    "id": "ted-691823-2026",
    "source_type": "TED",
-   "nom": "Belgique – Services d'architecture – HERON - Désignation d’un auteur de projet pour une mission d’élaboration d’une stratégie d’intervention suivie de l’étude et du suivi de l’exécution des travaux de",
+   "nom": "Belgique – Services d'architecture – HERON - Désignation d’un auteur de projet pour une mission d’élaboration d’une stratégie d’intervention suivie de l’étude et du suivi de l’exécution des travaux de rénovation et d’extension des écoles communales de Surlemez et Waret-l'Evêque",
    "lieu": "Couthuin, Liège",
    "mo": "Administration communale de Héron",
    "etape": 1,
@@ -1140,7 +1140,7 @@
   {
    "id": "ted-691986-2026",
    "source_type": "TED",
-   "nom": "Belgique – Services bancaires et d'investissement – financement et à l'accompagnement technique pour la rénovation d'un bâtiment - site « Boucqueau » situé au 15, rue Ernest Boucqueau à 7100 La Louviè",
+   "nom": "Belgique – Services bancaires et d'investissement – financement et à l'accompagnement technique pour la rénovation d'un bâtiment - site « Boucqueau » situé au 15, rue Ernest Boucqueau à 7100 La Louvière",
    "lieu": "La Louvière, Hainaut",
    "mo": "CPAS de La Louvière",
    "etape": 1,
@@ -1186,7 +1186,7 @@
   {
    "id": "ted-692698-2026",
    "source_type": "TED",
-   "nom": "Belgique – Appareils sanitaires – Accord-cadre portant sur la location, la gestion et la maintenance d’équipements sanitaires et de leurs consommables, incluant la distribution d’essuie-mains, la déso",
+   "nom": "Belgique – Appareils sanitaires – Accord-cadre portant sur la location, la gestion et la maintenance d’équipements sanitaires et de leurs consommables, incluant la distribution d’essuie-mains, la désodorisation des sanitaires et la gestion des conteneurs hygiéniques dans divers bâtiments de l’Université de Liège",
    "lieu": "Liège, Bruxelles",
    "mo": "Université de Liège",
    "etape": 4,
@@ -1258,7 +1258,7 @@
   {
    "id": "ted-685913-2026",
    "source_type": "TED",
-   "nom": "Belgique – Services d'architecture, d'ingénierie et de planification – Aanstellen ontwerper voor de nieuwbouw van minimale comfortwoningen en renovatie van een historische kapel te Bazel - NIEUW DOSSI",
+   "nom": "Belgique – Services d'architecture, d'ingénierie et de planification – Aanstellen ontwerper voor de nieuwbouw van minimale comfortwoningen en renovatie van een historische kapel te Bazel - NIEUW DOSSIER",
    "lieu": "Beveren, Bruxelles",
    "mo": "gemeente Beveren-Kruibeke-Zwijndrecht",
    "etape": 2,
@@ -1326,7 +1326,7 @@
   {
    "id": "ted-686482-2026",
    "source_type": "TED",
-   "nom": "Belgique – Services d'architecture, services de construction, services d'ingénierie et services d'inspection – AIW/2026/1 Assistentie bij het uitvoeren van inspecties van kunstwerken Perceel 1: West-V",
+   "nom": "Belgique – Services d'architecture, services de construction, services d'ingénierie et services d'inspection – AIW/2026/1 Assistentie bij het uitvoeren van inspecties van kunstwerken Perceel 1: West-Vlaanderen Perceel 2: Oost-Vlaanderen Perceel 3: Vlaams-Brabant Perceel 4: Antwerpen Perceel 5: Limburg",
    "lieu": "Brussel, Belgique",
    "mo": "Vlaamse Overheid",
    "etape": 1,
@@ -1396,7 +1396,7 @@
   {
    "id": "ted-686889-2026",
    "source_type": "TED",
-   "nom": "Belgique – Travaux de construction – MARCHÉ DE TRAVAUX EN VUE DE LA RÉALISATION D’UNE EXTENSION DE LA MAISON DES CULTURES ET DE LA COHÉSION SOCIALE, SISE RUE PIERS 93-95-97, À 1080 MOLENBEEK-SAINT-JEA",
+   "nom": "Belgique – Travaux de construction – MARCHÉ DE TRAVAUX EN VUE DE LA RÉALISATION D’UNE EXTENSION DE LA MAISON DES CULTURES ET DE LA COHÉSION SOCIALE, SISE RUE PIERS 93-95-97, À 1080 MOLENBEEK-SAINT-JEAN ET DE L’AMÉNAGEMENT ET DE LA VÉGÉTALISATION DE LA COUR EN INTÉRIEUR D’ÎLOT DANS LE CADRE DE L’OPÉRATION 1.1 DU CONTRAT DE QUARTIER DURABLE « ETANGS NOIRS ».",
    "lieu": "Sint-Jans-Molenbeek, Bruxelles",
    "mo": "Molenbeek-Saint-Jean",
    "etape": 4,
@@ -1444,7 +1444,7 @@
   {
    "id": "ted-687016-2026",
    "source_type": "TED",
-   "nom": "Belgique – Études de faisabilité, service de conseil, analyse – Marché public portant sur la prestation de services techniques relatifs aux études de faisabilité et à la sûreté opérationnelle en vue d",
+   "nom": "Belgique – Études de faisabilité, service de conseil, analyse – Marché public portant sur la prestation de services techniques relatifs aux études de faisabilité et à la sûreté opérationnelle en vue du stockage des déchets des catégories B et C.",
    "lieu": "Brussel, Bruxelles",
    "mo": "Organisme national des déchets radioactifs et de matières fissiles enrichies",
    "etape": 4,
@@ -1490,7 +1490,7 @@
   {
    "id": "ted-687221-2026",
    "source_type": "TED",
-   "nom": "Belgique – Travaux de construction – Marché de travaux ayant pour objet la construction d'une maison de repos (Lot 1 – Architecture (lot PILOTE) - Lot 2 – HVAC (lot piloté) - Lot 3 – Électricité (lot ",
+   "nom": "Belgique – Travaux de construction – Marché de travaux ayant pour objet la construction d'une maison de repos (Lot 1 – Architecture (lot PILOTE) - Lot 2 – HVAC (lot piloté) - Lot 3 – Électricité (lot piloté) - Lot 4 – Cuisine (lot piloté))",
    "lieu": "CHIMAY, Hainaut",
    "mo": "ASSOCIATION INTERCOMMUNALE GÉNÉRATIONS THIÉRACHE SC",
    "etape": 4,
@@ -1606,7 +1606,7 @@
   {
    "id": "ted-687723-2026",
    "source_type": "TED",
-   "nom": "Belgique – Services d'architecture, services de construction, services d'ingénierie et services d'inspection – Missions de Coordination Sécurité Santé en Phases Projet et Réalisation, relatives aux Ré",
+   "nom": "Belgique – Services d'architecture, services de construction, services d'ingénierie et services d'inspection – Missions de Coordination Sécurité Santé en Phases Projet et Réalisation, relatives aux Rénovations Énergétiques de Bâtiments du Service Public de Wallonie.",
    "lieu": "Namur, Namur",
    "mo": "Service public de wallonie",
    "etape": 2,
@@ -1652,7 +1652,7 @@
   {
    "id": "ted-687798-2026",
    "source_type": "TED",
-   "nom": "Belgique – Installation de câblage – 57/43/3/26/118 Projects North – Power Distribution & Substations. Buitenwerken (graaf- en grondwerken, kabelaanleg, kabelwegen/trekputten/betonsleuven, kasten en v",
+   "nom": "Belgique – Installation de câblage – 57/43/3/26/118 Projects North – Power Distribution & Substations. Buitenwerken (graaf- en grondwerken, kabelaanleg, kabelwegen/trekputten/betonsleuven, kasten en verlichtingspylonen). Raamovereenkomst. Perceel 1: Provincies Oost- en West-Vlaanderen. Perceel 2: Provincies Antwerpen, Limburg en Vlaams-Brabant.",
    "lieu": "Gent, Flandre-Orientale",
    "mo": "Infrabel nv",
    "etape": 4,
@@ -1676,7 +1676,7 @@
   {
    "id": "ted-687856-2026",
    "source_type": "TED",
-   "nom": "Belgique – Services d'architecture, services de construction, services d'ingénierie et services d'inspection – ARCHITECTUUROPDRACHT VOOR DE HERCONDITIONERING EN DE BOUW VAN EEN DEEL VAN EEN WOONZORGCE",
+   "nom": "Belgique – Services d'architecture, services de construction, services d'ingénierie et services d'inspection – ARCHITECTUUROPDRACHT VOOR DE HERCONDITIONERING EN DE BOUW VAN EEN DEEL VAN EEN WOONZORGCENTRUM",
    "lieu": "Nederbrakel, Flandre-Orientale",
    "mo": "vzw Groep Sint-Franciscus",
    "etape": 1,
@@ -1722,7 +1722,7 @@
   {
    "id": "ted-688182-2026",
    "source_type": "TED",
-   "nom": "Belgique – Services de conception technique – Zuunbeek en Vogelzangbeek – ontwerp van verschillende waterbeheersingswerken, opwaarderingswerken en werken ter bevordering van de vrije vismigratie te St",
+   "nom": "Belgique – Services de conception technique – Zuunbeek en Vogelzangbeek – ontwerp van verschillende waterbeheersingswerken, opwaarderingswerken en werken ter bevordering van de vrije vismigratie te St.-Pieters-Leeuw",
    "lieu": "Aalst, Brabant flamand",
    "mo": "Vlaamse Milieumaatschappij",
    "etape": 1,
@@ -1770,7 +1770,7 @@
   {
    "id": "ted-688661-2026",
    "source_type": "TED",
-   "nom": "Belgique – Services d'architecte pour les bâtiments – Aanstellen van een ontwerpteam voor het begeleiden en ontwerpen van een nieuw gebouw, met afscheids- en ontvangstruimtes voor het experience cente",
+   "nom": "Belgique – Services d'architecte pour les bâtiments – Aanstellen van een ontwerpteam voor het begeleiden en ontwerpen van een nieuw gebouw, met afscheids- en ontvangstruimtes voor het experience center",
    "lieu": "Wilrijk, Anvers",
    "mo": "IGS PONTES OV",
    "etape": 1,
@@ -2088,7 +2088,7 @@
   {
    "id": "ted-682582-2026",
    "source_type": "TED",
-   "nom": "Belgique – Services d'architecte pour les bâtiments – Mission d’auteur de projet relative à la rénovation de trois bâtiments en logements et équipement mixte de proximité dans le cadre du Contrat de Q",
+   "nom": "Belgique – Services d'architecte pour les bâtiments – Mission d’auteur de projet relative à la rénovation de trois bâtiments en logements et équipement mixte de proximité dans le cadre du Contrat de Quartier Durable « Conscience »",
    "lieu": "Evere, Bruxelles",
    "mo": "Commune d'Evere",
    "etape": 1,
@@ -2198,7 +2198,7 @@
   {
    "id": "ted-682682-2026",
    "source_type": "TED",
-   "nom": "Belgique – Travaux de construction de voies – Entretien des voies et des abords de voies de la région 7 Accord-cadre - Lot n°1 : Charleroi - Lot n°2 : La Louvière - Lot n°3 : Luttre - Lot n°4 : Signal",
+   "nom": "Belgique – Travaux de construction de voies – Entretien des voies et des abords de voies de la région 7 Accord-cadre - Lot n°1 : Charleroi - Lot n°2 : La Louvière - Lot n°3 : Luttre - Lot n°4 : Signalisation",
    "lieu": "Liège, Hainaut",
    "mo": "Infrabel sa",
    "etape": 4,
@@ -2410,7 +2410,7 @@
   {
    "id": "ted-683527-2026",
    "source_type": "TED",
-   "nom": "Belgique – Services d'architecture, services de construction, services d'ingénierie et services d'inspection – Marché public de services pour la désignation d’un Consultant en gestion de projet pour l",
+   "nom": "Belgique – Services d'architecture, services de construction, services d'ingénierie et services d'inspection – Marché public de services pour la désignation d’un Consultant en gestion de projet pour l’étude et la supervision des travaux de la chancellerie belge à New Delhi",
    "lieu": "Brussel, Belgique",
    "mo": "SPF Affaires Etrangères",
    "etape": 1,
@@ -2434,7 +2434,7 @@
   {
    "id": "ted-683992-2026",
    "source_type": "TED",
-   "nom": "Luxembourg – Travaux d'installation de clôtures, de garde-corps et de dispositifs de sécurité – 2499 - Rilspert IV - Construction d'une résidence 18, rue des érables L-8072 Bertrange – Travaux de serr",
+   "nom": "Luxembourg – Travaux d'installation de clôtures, de garde-corps et de dispositifs de sécurité – 2499 - Rilspert IV - Construction d'une résidence 18, rue des érables L-8072 Bertrange – Travaux de serrurerie",
    "lieu": "Luxembourg, Grand-Duché",
    "mo": "Fonds du Logement",
    "etape": 5,
@@ -2502,7 +2502,7 @@
   {
    "id": "ted-684158-2026",
    "source_type": "TED",
-   "nom": "Belgique – Services d'architecture – AGB Boortmeerbeek: renovatie sporthal - Ontwerpopdracht voor architectuur, stabiliteit, technieken, veiligheidscoördinator ontwerp en verwezenlijking en EPB- en ve",
+   "nom": "Belgique – Services d'architecture – AGB Boortmeerbeek: renovatie sporthal - Ontwerpopdracht voor architectuur, stabiliteit, technieken, veiligheidscoördinator ontwerp en verwezenlijking en EPB- en ventilatieverslaggeving",
    "lieu": "Boortmeerbeek, Brabant flamand",
    "mo": "AGB Boortmeerbeek, bijgestaan door Belfius Bank nv",
    "etape": 1,
@@ -2616,7 +2616,7 @@
   {
    "id": "ted-685087-2026",
    "source_type": "TED",
-   "nom": "Belgique – Services d'architecture, services de construction, services d'ingénierie et services d'inspection – Mission d'auteur de projet pour la \"Démolition des bâtiments vétustes et reconstruction d",
+   "nom": "Belgique – Services d'architecture, services de construction, services d'ingénierie et services d'inspection – Mission d'auteur de projet pour la \"Démolition des bâtiments vétustes et reconstruction d'un nouveau bâtiment\"",
    "lieu": "Cuesmes, Hainaut",
    "mo": "Ministère de la Communauté française",
    "etape": 2,
@@ -2732,7 +2732,7 @@
   {
    "id": "ted-685463-2026",
    "source_type": "TED",
-   "nom": "Belgique – Autres travaux d'installation électrique – 57/43/2/25/030 - Bouw, elektrische uitrusting en aansluiting van 9 containersectioneerposten in de provincies Antwerpen, Limburg en Vlaams-Brabant",
+   "nom": "Belgique – Autres travaux d'installation électrique – 57/43/2/25/030 - Bouw, elektrische uitrusting en aansluiting van 9 containersectioneerposten in de provincies Antwerpen, Limburg en Vlaams-Brabant.",
    "lieu": "Gent, Anvers",
    "mo": "Infrabel nv",
    "etape": 5,
