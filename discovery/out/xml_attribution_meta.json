@@ -1,0 +1,53 @@
+{
+ "id": "9cecaf15-5514-4c07-86a9-58bcf6916ebc",
+ "organisationId": 1700,
+ "organisationNames": [
+  {
+   "text": "Seneffe",
+   "language": "FR"
+  },
+  {
+   "text": "Seneffe",
+   "language": "DE"
+  },
+  {
+   "text": "Seneffe",
+   "language": "EN"
+  },
+  {
+   "text": "Seneffe",
+   "language": "NL"
+  }
+ ],
+ "noticeSubType": "E4",
+ "noticeType": "can-general",
+ "formType": "AWARD",
+ "version": 2,
+ "referenceNumber": "002",
+ "dossierId": 1723403,
+ "dossierReferenceNumber": "PPP0Z1-1059/6133/ENV03-2026",
+ "dossierStatus": "DRAFT",
+ "createdAt": "2026-10-07T10:01:54.205592",
+ "status": "PUBLISHED",
+ "activePolicyForms": [
+  {
+   "type": "SME_PARTICIPATION",
+   "isComplete": true
+  }
+ ],
+ "migrated": false,
+ "version_keys": [
+  "activationDate",
+  "createdAt",
+  "dispatchDate",
+  "dossierSnapshot",
+  "id",
+  "notice",
+  "publicationPolicy",
+  "sentAt",
+  "status",
+  "version"
+ ],
+ "n_versions": 1,
+ "submissionDeadline": null
+}

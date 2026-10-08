@@ -1,0 +1,73 @@
+{
+ "id": "6ef05f03-6dd2-46da-9838-208ed14f9fff",
+ "organisationId": 780,
+ "organisationNames": [
+  {
+   "text": "l'Association Intercommunale pour le Démergement et l'Epuration",
+   "language": "NL"
+  },
+  {
+   "text": "l'Association Intercommunale pour le Démergement et l'Epuration",
+   "language": "DE"
+  },
+  {
+   "text": "Association Intercommunale pour le Démergement et l'Epuration des communes de la province de Liège",
+   "language": "FR"
+  },
+  {
+   "text": "l'Association Intercommunale pour le Démergement et l'Epuration",
+   "language": "EN"
+  }
+ ],
+ "noticeSubType": "16",
+ "noticeType": "cn-general",
+ "formType": "COMPETITION",
+ "version": 1,
+ "referenceNumber": "pub01",
+ "dossierId": 1736984,
+ "dossierReferenceNumber": "2532_AIDE",
+ "dossierStatus": "DRAFT",
+ "createdAt": "2026-09-25T10:51:49.537366",
+ "status": "PUBLISHED",
+ "vault": {
+  "id": "beaeee3f-5419-4632-944a-f738fb857c3c",
+  "version": 2,
+  "type": "STANDARD",
+  "dossierStatus": "DRAFT",
+  "allowPrices": false,
+  "hashCodeOnly": false,
+  "submissionReportSignatureMandatory": true,
+  "closesAutomatically": true,
+  "delayBeforeOpening": 0,
+  "buyersRequiredForOpening": 1,
+  "createdAt": "2026-09-25T10:51:49.701875",
+  "activatedAt": "2026-09-29T04:14:04.302044",
+  "submissionDeadline": "2026-11-12T10:00:00",
+  "endsAt": "2026-11-12T10:00:00"
+ },
+ "forum": {
+  "id": "d944b0cb-c404-402f-8a91-c50cab3588cf",
+  "version": 3,
+  "opensOn": "2026-09-28",
+  "closesOn": "2026-11-05",
+  "questionVisibility": "WHEN_ANSWERED"
+ },
+ "migrated": false,
+ "version_keys": [
+  "activationDate",
+  "createdAt",
+  "dispatchDate",
+  "dossierSnapshot",
+  "id",
+  "notice",
+  "preferredPublicationDateOnTed",
+  "publicationPolicy",
+  "publishAsap",
+  "sentAt",
+  "status",
+  "submissionDeadline",
+  "version"
+ ],
+ "n_versions": 3,
+ "submissionDeadline": "2026-11-12T10:00:00"
+}
