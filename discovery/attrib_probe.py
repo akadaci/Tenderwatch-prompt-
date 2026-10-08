@@ -1,41 +1,62 @@
-"""Appels d'offres où aucun document n'a été listé (vérifié le 08/10/2026) : pourquoi ?
-1) liste des documents sans filtre de type ; 2) lien « documents du marché » dans l'avis eForms (BT-15).
-Résultat : discovery/out/docs_probe.json"""
-import asyncio, json, re, sys
+"""Documents hébergés sur 3P (cloud.3p.eu) : accessibles sans compte ?
+Ouvre le lien de l'avis comme un visiteur : choix du français, cookies acceptés, puis relevé de la page
+(liens, boutons, formulaires) et tentative de téléchargement du premier document.
+Résultat : discovery/out/p3_probe.json + captures p3_*.png"""
+import asyncio, json, sys
 from pathlib import Path
-sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
-from radar.bosa import Session
 
 ROOT = Path(__file__).resolve().parents[1]
-OUT = ROOT / "discovery" / "out" / "docs_probe.json"
-WIDS = []
-d = json.loads((ROOT / "data" / "csc.json").read_text())
-for w, v in d.items():
-    if not v.get("documents_lus") and not v.get("sans_avis_de_marche") and not v.get("documents_ignores"):
-        WIDS.append((v.get("via") or {}).get("wid") or w)
-WIDS = WIDS[:6]
+OUT = ROOT / "discovery" / "out" / "p3_probe.json"
+URLS = ["https://cloud.3p.eu/Downloads/1/1221/69/2026", "https://cloud.3p.eu/Downloads/1/1377/LG/2026"]
 
 
 async def main():
+    from playwright.async_api import async_playwright
     res = []
-    async with Session(pause_ms=700) as s:
-        for wid in WIDS:
-            it = {"wid": wid}
-            for nom, q in [("sans_filtre", ""), ("filtre_actuel", "&type=WORKSPACE&type=ESPD_REQUEST&type=SDI")]:
-                try:
-                    docs = await s.call(f"/api/dos/publication-workspaces/{wid}/documents?full=false{q}")
-                    it[nom] = [{"type": x.get("type"), "nom": ((x.get("versions") or [{}])[-1].get("document") or {}).get("originalFileName")} for x in (docs or [])][:20]
-                except Exception as e:
-                    it[nom] = f"erreur {e}"[:200]
+    async with async_playwright() as p:
+        br = await p.chromium.launch()
+        for i, url in enumerate(URLS):
+            it = {"url": url, "etapes": []}
+            ctx = await br.new_context(locale="fr-BE", accept_downloads=True)
+            pg = await ctx.new_page()
+            reqs = []
+            pg.on("response", lambda r: reqs.append({"url": r.url[:200], "status": r.status, "type": r.headers.get("content-type", "")[:60]}))
             try:
-                ws = await s.call(f"/api/dos/publication-workspaces/{wid}?includeDrafts=false")
-                xml = ((ws.get("versions") or [{}])[-1].get("notice") or {}).get("xmlContent") or ""
-                it["uris"] = sorted(set(re.findall(r"<cbc:URI>([^<]+)</cbc:URI>", xml)))[:10]
-                it["cles_workspace"] = list(ws.keys())[:30]
+                await pg.goto(url, wait_until="networkidle", timeout=60000)
+                await pg.screenshot(path=str(ROOT / "discovery" / "out" / f"p3_{i}_a.png"))
+                for txt in ["français (Belgique)", "Français", "français"]:
+                    loc = pg.get_by_text(txt, exact=False).first
+                    if await loc.count():
+                        await loc.click(); await pg.wait_for_load_state("networkidle"); it["etapes"].append("langue " + txt); break
+                for txt in ["Submit", "Accepter", "OK", "J'accepte"]:
+                    loc = pg.get_by_role("button", name=txt)
+                    if await loc.count():
+                        await loc.first.click(); await pg.wait_for_timeout(1500); it["etapes"].append("cookies " + txt); break
+                await pg.wait_for_timeout(2000)
+                await pg.screenshot(path=str(ROOT / "discovery" / "out" / f"p3_{i}_b.png"), full_page=True)
+                it["titre"] = await pg.title()
+                it["texte"] = (await pg.inner_text("body"))[:3000]
+                it["liens"] = await pg.eval_on_selector_all("a", "as => as.slice(0,80).map(a => [a.innerText.trim().slice(0,80), a.href.slice(0,200)])")
+                it["champs"] = await pg.eval_on_selector_all("input,select,button", "as => as.slice(0,60).map(a => [a.tagName, a.type||'', a.name||a.id||'', (a.value||a.innerText||'').slice(0,60)])")
+                # tentative : premier lien qui ressemble à un document
+                doc = pg.locator("a:has-text('.pdf'), a:has-text('.zip'), a:has-text('Télécharger'), a:has-text('Download')").first
+                if await doc.count():
+                    try:
+                        async with pg.expect_download(timeout=30000) as dl:
+                            await doc.click()
+                        d = await dl.value
+                        it["telechargement"] = {"nom": d.suggested_filename, "ok": True}
+                    except Exception as e:
+                        it["telechargement"] = {"erreur": str(e)[:300]}
+                        await pg.screenshot(path=str(ROOT / "discovery" / "out" / f"p3_{i}_c.png"), full_page=True)
+                        it["texte_apres"] = (await pg.inner_text("body"))[:1500]
             except Exception as e:
-                it["ws_erreur"] = str(e)[:200]
+                it["erreur"] = f"{type(e).__name__}: {e}"[:400]
+            it["reponses"] = reqs[-25:]
             res.append(it)
             OUT.write_text(json.dumps(res, ensure_ascii=False, indent=1))
+            await ctx.close()
+        await br.close()
 
 
 asyncio.run(main())
