@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 291166
+  "totalCount": 291249
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -50,45 +50,45 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "79212300-6",
+     "code": "80530000-8",
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Services de contrôle légal des comptes"
+       "language": "NL",
+       "text": "Beroepsopleidingsdiensten"
       },
       {
-       "language": "NL",
-       "text": "Uitvoeren van wettelijk verplichte controle"
+       "language": "FR",
+       "text": "Services de formation professionnelle"
       },
       {
        "language": "DE",
-       "text": "Pflichtbetriebsrevision"
+       "text": "Berufsausbildung"
       },
       {
        "language": "EN",
-       "text": "Statutory audit services"
+       "text": "Vocational training services"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "79212300-6",
+    "code": "80530000-8",
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Services de contrôle légal des comptes"
+      "language": "NL",
+      "text": "Beroepsopleidingsdiensten"
      },
      {
-      "language": "NL",
-      "text": "Uitvoeren van wettelijk verplichte controle"
+      "language": "FR",
+      "text": "Services de formation professionnelle"
      },
      {
       "language": "DE",
-      "text": "Pflichtbetriebsrevision"
+      "text": "Berufsausbildung"
      },
      {
       "language": "EN",
-      "text": "Statutory audit services"
+      "text": "Vocational training services"
      }
     ]
    },
@@ -97,142 +97,27 @@
     "accreditations": {},
     "descriptions": [
      {
+      "language": "NL",
+      "text": "Deze opdracht heeft als doel beginnende en ervaren opleiders binnen de federale overheid te versterken in het professioneel voorbereiden en geven van opleidingen, zowel klassikaal als online. De opdracht omvat een tweedaagse opleiding “Train the Trainer basisvaardigheden”, workshops rond enerzijds feedback en anderzijds didactische werkvormen en tools, en tenslotte ook coachinguren voor deelnemers. De opleidingen, workshops en coaching uren worden aangeboden in het Nederlands en het Frans door gekwalificeerde opleiders. Daarnaast is er een pedagogische coördinator te voorzien als centraal aanspreekpunt voor de projectleider van de FOD BOSA. Het bestek beschrijft de te voorziene prestaties en de geraamde volumes."
+     },
+     {
       "language": "FR",
-      "text": "L’objet du marché est la prestation de services relatifs au contrôle des justificatifs budgétaires de la subvention générale octroyée à l’Institut Scientifique de Service Public (ISSeP) pour les exercices comptables 2026 – 2027 - 2028 par la désignation d’un réviseur d’entreprises inscrit au registre public de l’Institut des Réviseurs d’Entreprises. Description des services à exécuter : Le Service public de Wallonie Agriculture, Ressources naturelles et Environnement (ci-après « SPW ARNE ») allouant une subvention générale annuelle à l’Institut Scientifique de Service Public (ISSeP) souhaite s’adjoindre les services d’un réviseur d’entreprises afin de l’épauler dans la vérification annuelle des comptes et des dépenses imputées à cette subvention. Dans le cadre de ce marché public, la mission du réviseur d’entreprise inclut la production d’un rapport financier attestant du respect des règles de l’octroi des subventions annuelles, ainsi que de la réalité des dépenses effectuées par l’Institut Scientifique de Service Public dans ce cadre. L’exercice comptable de l’ISSeP débute le 1er janvier et se termine le 31 décembre."
+      "text": "Ce marché vise à renforcer les compétences des formateurs débutants et expérimentés au sein de l’administration fédérale dans la préparation et l’animation professionnelles de formations, tant en présentiel qu’à distance. La mission comprend une formation de deux jours « Train the Trainer – compétences de base », des ateliers consacrés d’une part au feedback et d’autre part aux méthodes didactiques et aux outils d’apprentissage, ainsi que des heures de coaching destinées aux participants. Les formations, workshops et heures de coaching sont dispensés en français et en néerlandais par des formateurs qualifiés. En outre, un coordinateur pédagogique doit être prévu comme point de contact central pour le chef de projet du SPF BOSA. Le cahier des charges décrit les prestations à fournir ainsi que les volumes estimés."
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "O3.09.00 -25-7613",
+    "number": "BOSA 0072",
     "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "O3.09.00 -25-7613",
+    "referenceNumber": "BOSA 0072",
     "titles": [
      {
       "language": "FR",
-      "text": "Marché de services visant à désigner un réviseur d’entreprises en qualité de commissaire pour le contrôle des justificatifs budgétaires de la subvention générale octroyée à l’Institut Scientifique de service public pour les exercices comptables 2026 – 2027 - 2028"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-09",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Marché de services visant à désigner un réviseur d’entreprises en qualité de commissaire pour le contrôle des justificatifs budgétaires de la subvention générale octroyée à l’Institut Scientifique de service public pour les exercices comptables 2026 – 2027 – 2028"
-      }
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Marché de services visant à désigner un réviseur d’entreprises en qualité de commissaire pour le contrôle des justificatifs budgétaires de la subvention générale octroyée à l’Institut Scientifique de service public pour les exercices comptables 2026 – 2027 – 2028"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SERVICES"
-   ],
-   "noticeIds": [
-    "d3ead3cc-67f9-4eaf-b101-392433129040"
-   ],
-   "noticeSubType": "33",
-   "nutsCodes": [
-    "BE332"
-   ],
-   "organisation": {
-    "organisationId": 20661,
-    "organisationNames": [
-     {
-      "language": "FR",
-      "text": "O3.09.03 - Direction des Eaux de surface"
-     }
-    ],
-    "tree": "200003.200016.123.5082.20661"
-   },
-   "procedureId": "201c140b-5de7-4c91-98a9-a8e6163403b2",
-   "publicationDate": "2026-10-09",
-   "publicationLanguages": [
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "O3.09.00 -25-7613_pub01"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "8bbf1cfd-cf76-4869-8d3f-eb4278544677",
-   "publishedAt": [
-    "2026-10-09T00:00:45.015377"
-   ],
-   "referenceNumber": "O3.09.00 -25-7613_pub01",
-   "sentAt": [
-    "2026-10-09T00:00:45.015377"
-   ],
-   "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "38120000-2",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Meteorological instruments"
-      },
-      {
-       "language": "NL",
-       "text": "Instrumenten voor de meteorologie"
-      },
-      {
-       "language": "DE",
-       "text": "Meteorologische Instrumente"
-      },
-      {
-       "language": "FR",
-       "text": "Instruments de météorologie"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "38120000-2",
-    "descriptions": [
-     {
-      "language": "EN",
-      "text": "Meteorological instruments"
+      "text": "Services pour le développement et la réalisation de la formation et des workshops « Train the Trainer » en français et en néerlandais à l’attention des fonctionnaires fédéraux de tous niveaux qui dispensent occasionnellement ou régulièrement des formations (formateurs débutants et expérimentés)"
      },
      {
       "language": "NL",
-      "text": "Instrumenten voor de meteorologie"
-     },
-     {
-      "language": "DE",
-      "text": "Meteorologische Instrumente"
-     },
-     {
-      "language": "FR",
-      "text": "Instruments de météorologie"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-09",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Le présent marché a pour objet la fourniture de pluviomètres à pesée et de sondes hydrostatiques destinés à l'équipement, au renouvellement et à l'extension du réseau de télémesures hydrologiques WACONDAH de la Direction de la Gestion hydrologique du Service Public de Wallonie Mobilité et Infrastructures."
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "MI-O8.12.03-26-3517",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "MI-O8.12.03-26-3517",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "Marché de fournitures d'instruments de mesures hydrométéorologiques pour le réseau de télémesures hydrologiques WACONDAH."
+      "text": "Diensten voor de ontwikkeling en de realisatie van een opleiding en workshops “Train the Trainer” in het Frans en in het Nederlands voor federale ambtenaren van alle niveaus die occasioneel of regelmatig opleiding geven (beginnende en gevorderde opleiders)"
      }
     ]
    },
@@ -242,7 +127,11 @@
      "descriptions": [
       {
        "language": "FR",
-       "text": "Le présent marché a pour objet la fourniture de pluviomètres à pesée et de sondes hydrostatiques destinés à l'équipement, au renouvellement et à l'extension du réseau de télémesures hydrologiques WACONDAH de la Direction de la Gestion hydrologique du Service Public de Wallonie Mobilité et Infrastructures."
+       "text": "Services pour le développement et la réalisation de la formation et des workshops « Train the Trainer » en français et en néerlandais à l’attention des fonctionnaires fédéraux de tous niveaux qui dispensent occasionnellement ou régulièrement des formations (formateurs débutants et expérimentés)"
+      },
+      {
+       "language": "NL",
+       "text": "Diensten voor de ontwikkeling en de realisatie van een opleiding en workshops “Train the Trainer” in het Frans en in het Nederlands voor federale ambtenaren van alle niveaus die occasioneel of regelmatig opleiding geven (beginnende en gevorderde opleiders)"
       }
      ],
      "reservedExecution": [
@@ -254,7 +143,300 @@
      "titles": [
       {
        "language": "FR",
-       "text": "MI-O8.12.03-26-3517 - 1"
+       "text": "Services pour le développement et la réalisation de la formation et des workshops « Train the Trainer » en français et en néerlandais à l’attention des fonctionnaires fédéraux de tous niveaux qui dispensent occasionnellement ou régulièrement des formations (formateurs débutants et expérimentés)"
+      },
+      {
+       "language": "NL",
+       "text": "Diensten voor de ontwikkeling en de realisatie van een opleiding en workshops “Train the Trainer” in het Frans en in het Nederlands voor federale ambtenaren van alle niveaus die occasioneel of regelmatig opleiding geven (beginnende en gevorderde opleiders)"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SERVICES"
+   ],
+   "noticeIds": [
+    "5bbf61aa-9ee6-4789-b5c1-ed9e3821f8dc"
+   ],
+   "noticeSubType": "E3",
+   "nutsCodes": [
+    "BE100"
+   ],
+   "organisation": {
+    "organisationId": 5306,
+    "organisationNames": [
+     {
+      "language": "NL",
+      "text": "DIRECTORAAT-GENERAAL REKRUTERING & ONTWIKKELING"
+     },
+     {
+      "language": "EN",
+      "text": "BOSA-DG Recruitment and Development"
+     },
+     {
+      "language": "FR",
+      "text": "DIRECTION GÉNÉRALE RECRUTEMENT & DÉVELOPPEMENT "
+     },
+     {
+      "language": "DE",
+      "text": "BOSA-DG Recruitment and Development"
+     }
+    ],
+    "tree": "200002.200008.2889.5306"
+   },
+   "procedureId": "3f8a1d1b-5b0a-49cf-a7f6-251429776f51",
+   "publicationDate": "2026-10-09",
+   "publicationLanguages": [
+    "NL",
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "BOSA 0072_pub01"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "26f864ec-04e2-4731-a456-62d069e2d563",
+   "publishedAt": [
+    "2026-10-09T08:32:45.020647"
+   ],
+   "referenceNumber": "BOSA 0072_pub01",
+   "sentAt": [
+    "2026-10-09T08:32:45.020647"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-11-12T10:10:00"
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "66114000-2",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Services de leasing financier"
+      },
+      {
+       "language": "DE",
+       "text": "Finanzierungs-Leasing"
+      },
+      {
+       "language": "EN",
+       "text": "Financial leasing services"
+      },
+      {
+       "language": "NL",
+       "text": "Financiële leasing"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "66114000-2",
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Services de leasing financier"
+     },
+     {
+      "language": "DE",
+      "text": "Finanzierungs-Leasing"
+     },
+     {
+      "language": "EN",
+      "text": "Financial leasing services"
+     },
+     {
+      "language": "NL",
+      "text": "Financiële leasing"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-09",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Deze overheidsopdracht betreft een raamovereenkomst met één leasemaatschappij  voor het leasen van fietsen (stadsfiets, racefiets, elektrische fiets met ondersteuning tot 25 km / u, elektrische fiets met ondersteuning tot 45 km / u, elektrische bakfiets, gewone plooifiets, elektrische plooifiets, …) voor de medewerkers van het ziekenhuis volgens het principe van loonruil of eindejaarspremie?. Het leasen gebeurt op vrijwillige basis.  Het ziekenhuis beoogt een voor haar kostenneutrale operatie uit te voeren, met een minimale administratieve last, zowel voor haar eigen werking als voor de werknemer die gebruik wenst te maken van het systeem. Het moet bovendien mogelijk zijn om op het einde van de leaseperiode de fietsen individueel over te nemen aan een vooraf gekende restwaarde. In het aanbod moeten onder meer inbegrepen zijn: pechverhelping, jaarlijks onderhoud en een verzekering tegen diefstal, bij schade en rechtsbijstand.  De raamovereenkomst zelf wordt afgesloten voor een periode van 4 jaar.  De looptijd van de individuele lease contracten bedraagt 36 maanden.  "
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP0QX-333/6116/AZSINTMARIA/2026-008",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP0QX-333/6116/AZSINTMARIA/2026-008",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Raamovereenkomst voor fietsleasing"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-09",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Deze overheidsopdracht betreft een raamovereenkomst met één leasemaatschappij  voor het leasen van fietsen (stadsfiets, racefiets, elektrische fiets met ondersteuning tot 25 km / u, elektrische fiets met ondersteuning tot 45 km / u, elektrische bakfiets, gewone plooifiets, elektrische plooifiets, …) voor de medewerkers van het ziekenhuis volgens het principe van loonruil of eindejaarspremie?. Het leasen gebeurt op vrijwillige basis.  Het ziekenhuis beoogt een voor haar kostenneutrale operatie uit te voeren, met een minimale administratieve last, zowel voor haar eigen werking als voor de werknemer die gebruik wenst te maken van het systeem. Het moet bovendien mogelijk zijn om op het einde van de leaseperiode de fietsen individueel over te nemen aan een vooraf gekende restwaarde. In het aanbod moeten onder meer inbegrepen zijn: pechverhelping, jaarlijks onderhoud en een verzekering tegen diefstal, bij schade en rechtsbijstand.  De raamovereenkomst zelf wordt afgesloten voor een periode van 4 jaar.  De looptijd van de individuele lease contracten bedraagt 36 maanden.  "
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Raamovereenkomst voor fietsleasing"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SERVICES"
+   ],
+   "noticeIds": [
+    "1a781716-0b77-468d-9819-92cf72d1a8f8"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE241"
+   ],
+   "organisation": {
+    "organisationId": 1295,
+    "organisationNames": [
+     {
+      "language": "NL",
+      "text": "Algemeen Ziekenhuis Sint-Maria Halle"
+     },
+     {
+      "language": "FR",
+      "text": "Algemeen Ziekenhuis Sint-Maria Halle"
+     },
+     {
+      "language": "EN",
+      "text": "Algemeen Ziekenhuis Sint-Maria Halle"
+     },
+     {
+      "language": "DE",
+      "text": "Algemeen Ziekenhuis Sint-Maria Halle"
+     }
+    ],
+    "tree": "200004.200027.1295"
+   },
+   "procedureId": "6ff02eb3-7bfd-4133-bf6a-66f5321fe0ef",
+   "publicationDate": "2026-10-09",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP0QX-333/6116/AZSINTMARIA/2026-008_003"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "2230c2a6-95b3-4a7e-ad70-f1b52cf80733",
+   "publishedAt": [
+    "2026-10-09T07:58:45.016072"
+   ],
+   "referenceNumber": "PPP0QX-333/6116/AZSINTMARIA/2026-008_003",
+   "sentAt": [
+    "2026-10-09T07:58:45.016072"
+   ],
+   "tedPublished": false
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "38000000-5",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Laboratory, optical and precision equipments (excl. glasses)"
+      },
+      {
+       "language": "FR",
+       "text": "Équipements de laboratoire, d'optique et de précision (excepté les lunettes)"
+      },
+      {
+       "language": "NL",
+       "text": "Laboratoriuminstrumenten, optische en precisie-instrumenten (uitgezonderd brillen)"
+      },
+      {
+       "language": "DE",
+       "text": "Laborgeräte, optische Geräte und Präzisionsgeräte (außer Gläser)"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "38000000-5",
+    "descriptions": [
+     {
+      "language": "EN",
+      "text": "Laboratory, optical and precision equipments (excl. glasses)"
+     },
+     {
+      "language": "DE",
+      "text": "Laborgeräte, optische Geräte und Präzisionsgeräte (außer Gläser)"
+     },
+     {
+      "language": "NL",
+      "text": "Laboratoriuminstrumenten, optische en precisie-instrumenten (uitgezonderd brillen)"
+     },
+     {
+      "language": "FR",
+      "text": "Équipements de laboratoire, d'optique et de précision (excepté les lunettes)"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-09",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "AOZB26-6988 - LEVERING EN INSTALLATIE VAN EEN TESTBANK 5KN MET ACCESSOIRES"
+     },
+     {
+      "language": "EN",
+      "text": "AOZB26-6988 - DELIVERY AND INSTALLATION OF TESTING BANK 5KN WITH ACCESSORIES"
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "AOZB26-6988",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "AOZB26-6988",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "AOZB26-6988 - LEVERING EN INSTALLATIE VAN EEN TESTBANK 5KN MET ACCESSOIRES"
+     },
+     {
+      "language": "EN",
+      "text": "AOZB26-6988 - DELIVERY AND INSTALLATION OF TESTING BANK 5KN WITH ACCESSORIES"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-09",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "AOZB26-6988 - LEVERING EN INSTALLATIE VAN EEN TESTBANK 5KN MET ACCESSOIRES"
+      },
+      {
+       "language": "EN",
+       "text": "AOZB26-6988 - DELIVERY AND INSTALLATION OF TESTING BANK 5KN WITH ACCESSORIES"
+      }
+     ],
+     "titles": [
+      {
+       "language": "EN",
+       "text": "AOZB26-6988 - 1"
+      },
+      {
+       "language": "NL",
+       "text": "AOZB26-6988 - 1"
       }
      ]
     }
@@ -263,193 +445,52 @@
     "SUPPLIES"
    ],
    "noticeIds": [
-    "8eb0cddc-e526-4244-acf9-ea53afdd4c59"
-   ],
-   "noticeSubType": "16",
-   "nutsCodes": [
-    "BE352"
-   ],
-   "organisation": {
-    "organisationId": 6365,
-    "organisationNames": [
-     {
-      "language": "DE",
-      "text": "Direction de la Gestion hydrologique"
-     },
-     {
-      "language": "FR",
-      "text": "SPW-O8.12.03 - Direction de la Gestion hydrologique"
-     },
-     {
-      "language": "NL",
-      "text": "Direction de la Gestion hydrologique"
-     },
-     {
-      "language": "EN",
-      "text": "Direction de la Gestion hydrologique"
-     }
-    ],
-    "tree": "200003.200016.123.5442.6365"
-   },
-   "procedureId": "dc1ea270-6df3-46fe-b42b-430b44322f90",
-   "publicationDate": "2026-10-09",
-   "publicationLanguages": [
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "MI-O8.12.03-26-3517_pub01"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "6ba10129-f86d-4561-8366-1df223b2b3ff",
-   "publishedAt": [
-    "2026-10-09T00:00:45.960621"
-   ],
-   "referenceNumber": "MI-O8.12.03-26-3517_pub01",
-   "sentAt": [
-    "2026-10-09T00:00:45.960621"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-10T10:00:00"
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "45259000-7",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Repair and maintenance of plant"
-      },
-      {
-       "language": "NL",
-       "text": "Reparatie en onderhoud van installaties"
-      },
-      {
-       "language": "FR",
-       "text": "Réparation et entretien d'équipements"
-      },
-      {
-       "language": "DE",
-       "text": "Reparatur und Wartung von Anlagen"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "45259000-7",
-    "descriptions": [
-     {
-      "language": "EN",
-      "text": "Repair and maintenance of plant"
-     },
-     {
-      "language": "NL",
-      "text": "Reparatie en onderhoud van installaties"
-     },
-     {
-      "language": "FR",
-      "text": "Réparation et entretien d'équipements"
-     },
-     {
-      "language": "DE",
-      "text": "Reparatur und Wartung von Anlagen"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-09",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "De firma die instaat voor het onderhoud van de liften van het merk \"Kone\" op Campus Merelbeke, heeft het onderhoudscontract opgezegd. Hierdoor dient een nieuw onderhoudscontract te worden afgesloten. De dienstverlening omvat het periodiek nazicht, het preventief en curatief onderhoud van liftinstallaties."
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP01G-3567/6781/CG/2026/011",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "PPP01G-3567/6781/CG/2026/011",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Onderhoudscontract voor liften merk KONE"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-09",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "De firma die instaat voor het onderhoud van de liften van het merk \"Kone\" op Campus Merelbeke, heeft het onderhoudscontract opgezegd. Hierdoor dient een nieuw onderhoudscontract te worden afgesloten. De dienstverlening omvat het periodiek nazicht, het preventief en curatief onderhoud van liftinstallaties."
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Onderhoudscontract voor liften merk KONE"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "WORKS"
-   ],
-   "noticeIds": [
-    "2e821734-d02f-4d48-8435-478af504f269"
+    "a3bc4bc4-e5d6-4300-b799-2d15d622a96c"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE234"
+    "BE251"
    ],
    "organisation": {
-    "organisationId": 160,
+    "organisationId": 5132,
     "organisationNames": [
      {
-      "language": "NL",
-      "text": "Universiteit Gent"
-     },
-     {
-      "language": "FR",
-      "text": "Universiteit Gent"
-     },
-     {
       "language": "EN",
-      "text": "Universiteit Gent"
+      "text": "KU Leuven (universiteit)"
      },
      {
       "language": "DE",
-      "text": "Universiteit Gent"
+      "text": "KU Leuven (universiteit)"
+     },
+     {
+      "language": "NL",
+      "text": "Katholieke Universiteit Leuven"
+     },
+     {
+      "language": "FR",
+      "text": "KU Leuven (universiteit)"
      }
     ],
-    "tree": "200004.200026.160"
+    "tree": "200004.200026.542.5132"
    },
-   "procedureId": "8d5c19aa-29c8-436d-a3bb-a11bbea95e9c",
+   "procedureId": "b5e6bee2-9330-4cb2-8c1b-91116ce2ec8e",
    "publicationDate": "2026-10-09",
    "publicationLanguages": [
-    "NL"
+    "NL",
+    "EN"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP01G-3567/6781/CG/2026/011_002"
+    "AOZB26-6988_Gunning"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "f4f415c7-46ce-4c83-a3ed-4812ed0ad383",
+   "publicationWorkspaceId": "387eaf92-867e-41ee-9d81-e4c2f4e1793a",
    "publishedAt": [
-    "2026-10-09T00:00:47.641209"
+    "2026-10-09T07:59:45.016391"
    ],
-   "referenceNumber": "PPP01G-3567/6781/CG/2026/011_002",
+   "referenceNumber": "AOZB26-6988_Gunning",
    "sentAt": [
-    "2026-10-09T00:00:47.641209"
+    "2026-10-09T07:59:45.016391"
    ],
    "tedPublished": false
   }
@@ -458,45 +499,45 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "79212300-6",
+     "code": "66114000-2",
      "descriptions": [
       {
        "language": "FR",
-       "text": "Services de contrôle légal des comptes"
-      },
-      {
-       "language": "NL",
-       "text": "Uitvoeren van wettelijk verplichte controle"
+       "text": "Services de leasing financier"
       },
       {
        "language": "DE",
-       "text": "Pflichtbetriebsrevision"
+       "text": "Finanzierungs-Leasing"
       },
       {
        "language": "EN",
-       "text": "Statutory audit services"
+       "text": "Financial leasing services"
+      },
+      {
+       "language": "NL",
+       "text": "Financiële leasing"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "79212300-6",
+    "code": "66114000-2",
     "descriptions": [
      {
       "language": "FR",
-      "text": "Services de contrôle légal des comptes"
-     },
-     {
-      "language": "NL",
-      "text": "Uitvoeren van wettelijk verplichte controle"
+      "text": "Services de leasing financier"
      },
      {
       "language": "DE",
-      "text": "Pflichtbetriebsrevision"
+      "text": "Finanzierungs-Leasing"
      },
      {
       "language": "EN",
-      "text": "Statutory audit services"
+      "text": "Financial leasing services"
+     },
+     {
+      "language": "NL",
+      "text": "Financiële leasing"
      }
     ]
    },
@@ -505,19 +546,20 @@
     "accreditations": {},
     "descriptions": [
      {
-      "language": "FR",
-      "text": "L’objet du marché est la prestation de services relatifs au contrôle des justificatifs budgétaires de la subvention générale octroyée à l’Institut Scientifique de Service Public (ISSeP) pour les exercices comptables 2026 – 2027 - 2028 par la désignation d’un réviseur d’entreprises inscrit au registre public de l’Institut des Réviseurs d’Entreprises. Description des services à exécuter : Le Service public de Wallonie Agriculture, Ressources naturelles et Environnement (ci-après « SPW ARNE ») allouant une subvention générale annuelle à l’Institut Scientifique de Service Public (ISSeP) souhaite s’adjoindre les services d’un réviseur d’entreprises afin de l’épauler dans la vérification annuelle des comptes et des dépenses imputées à cette subvention. Dans le cadre de ce marché public, la mission du réviseur d’entreprise inclut la production d’un rapport financier attestant du respect des règles de l’octroi des subventions annuelles, ainsi que de la réalité des dépenses effectuées par l’Institut Scientifique de Service Public dans ce cadre. L’exercice comptable de l’ISSeP débute le 1er janvier et se termine le 31 décembre."
+      "language": "NL",
+      "text": "Deze overheidsopdracht betreft een raamovereenkomst met één leasemaatschappij  voor het leasen van fietsen (stadsfiets, racefiets, elektrische fiets met ondersteuning tot 25 km / u, elektrische fiets met ondersteuning tot 45 km / u, elektrische bakfiets, gewone plooifiets, elektrische plooifiets, …) voor de medewerkers van het ziekenhuis volgens het principe van loonruil of eindejaarspremie?. Het leasen gebeurt op vrijwillige basis.  Het ziekenhuis beoogt een voor haar kostenneutrale operatie uit te voeren, met een minimale administratieve last, zowel voor haar eigen werking als voor de werknemer die gebruik wenst te maken van het systeem. Het moet bovendien mogelijk zijn om op het einde van de leaseperiode de fietsen individueel over te nemen aan een vooraf gekende restwaarde. In het aanbod moeten onder meer inbegrepen zijn: pechverhelping, jaarlijks onderhoud en een verzekering tegen diefstal, bij schade en rechtsbijstand.  De raamovereenkomst zelf wordt afgesloten voor een periode van 4 jaar.  De looptijd van de individuele lease contracten bedraagt 36 maanden.  "
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "O3.09.00 -25-7613",
+    "number": "PPP0QX-333/6116/AZSINTMARIA/2026-008",
     "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "O3.09.00 -25-7613",
+    "referenceNumber": "PPP0QX-333/6116/AZSINTMARIA/2026-008",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
-      "language": "FR",
-      "text": "Marché de services visant à désigner un réviseur d’entreprises en qualité de commissaire pour le contrôle des justificatifs budgétaires de la subvention générale octroyée à l’Institut Scientifique de service public pour les exercices comptables 2026 – 2027 - 2028"
+      "language": "NL",
+      "text": "Raamovereenkomst voor fietsleasing"
      }
     ]
    },
@@ -526,14 +568,14 @@
     {
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Marché de services visant à désigner un réviseur d’entreprises en qualité de commissaire pour le contrôle des justificatifs budgétaires de la subvention générale octroyée à l’Institut Scientifique de service public pour les exercices comptables 2026 – 2027 – 2028"
+       "language": "NL",
+       "text": "Deze overheidsopdracht betreft een raamovereenkomst met één leasemaatschappij  voor het leasen van fietsen (stadsfiets, racefiets, elektrische fiets met ondersteuning tot 25 km / u, elektrische fiets met ondersteuning tot 45 km / u, elektrische bakfiets, gewone plooifiets, elektrische plooifiets, …) voor de medewerkers van het ziekenhuis volgens het principe van loonruil of eindejaarspremie?. Het leasen gebeurt op vrijwillige basis.  Het ziekenhuis beoogt een voor haar kostenneutrale operatie uit te voeren, met een minimale administratieve last, zowel voor haar eigen werking als voor de werknemer die gebruik wenst te maken van het systeem. Het moet bovendien mogelijk zijn om op het einde van de leaseperiode de fietsen individueel over te nemen aan een vooraf gekende restwaarde. In het aanbod moeten onder meer inbegrepen zijn: pechverhelping, jaarlijks onderhoud en een verzekering tegen diefstal, bij schade en rechtsbijstand.  De raamovereenkomst zelf wordt afgesloten voor een periode van 4 jaar.  De looptijd van de individuele lease contracten bedraagt 36 maanden.  "
       }
      ],
      "titles": [
       {
-       "language": "FR",
-       "text": "Marché de services visant à désigner un réviseur d’entreprises en qualité de commissaire pour le contrôle des justificatifs budgétaires de la subvention générale octroyée à l’Institut Scientifique de service public pour les exercices comptables 2026 – 2027 – 2028"
+       "language": "NL",
+       "text": "Raamovereenkomst voor fietsleasing"
       }
      ]
     }
@@ -542,39 +584,51 @@
     "SERVICES"
    ],
    "noticeIds": [
-    "d3ead3cc-67f9-4eaf-b101-392433129040"
+    "1a781716-0b77-468d-9819-92cf72d1a8f8"
    ],
-   "noticeSubType": "33",
+   "noticeSubType": "E4",
    "nutsCodes": [
-    "BE332"
+    "BE241"
    ],
    "organisation": {
-    "organisationId": 20661,
+    "organisationId": 1295,
     "organisationNames": [
      {
+      "language": "NL",
+      "text": "Algemeen Ziekenhuis Sint-Maria Halle"
+     },
+     {
       "language": "FR",
-      "text": "O3.09.03 - Direction des Eaux de surface"
+      "text": "Algemeen Ziekenhuis Sint-Maria Halle"
+     },
+     {
+      "language": "EN",
+      "text": "Algemeen Ziekenhuis Sint-Maria Halle"
+     },
+     {
+      "language": "DE",
+      "text": "Algemeen Ziekenhuis Sint-Maria Halle"
      }
     ],
-    "tree": "200003.200016.123.5082.20661"
+    "tree": "200004.200027.1295"
    },
-   "procedureId": "201c140b-5de7-4c91-98a9-a8e6163403b2",
+   "procedureId": "6ff02eb3-7bfd-4133-bf6a-66f5321fe0ef",
    "publicationDate": "2026-10-09",
    "publicationLanguages": [
-    "FR"
+    "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "O3.09.00 -25-7613_pub01"
+    "PPP0QX-333/6116/AZSINTMARIA/2026-008_003"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "8bbf1cfd-cf76-4869-8d3f-eb4278544677",
+   "publicationWorkspaceId": "2230c2a6-95b3-4a7e-ad70-f1b52cf80733",
    "publishedAt": [
-    "2026-10-09T00:00:45.015377"
+    "2026-10-09T07:58:45.016072"
    ],
-   "referenceNumber": "O3.09.00 -25-7613_pub01",
+   "referenceNumber": "PPP0QX-333/6116/AZSINTMARIA/2026-008_003",
    "sentAt": [
-    "2026-10-09T00:00:45.015377"
+    "2026-10-09T07:58:45.016072"
    ],
    "tedPublished": false
   }
