@@ -1,7 +1,7 @@
 name: Collecte
 on:
   schedule:
-    - cron: "17 */2 * * *"     # toutes les 2 h (GitHub saute parfois un créneau : plus de créneaux = données à jour quand même)
+    - cron: "43 * * * *"     # chaque heure : GitHub saute beaucoup de créneaux planifiés, plus de créneaux = données fraîches
   workflow_dispatch:
     inputs:
       days_back: {description: "Jours à remonter", default: "3"}
