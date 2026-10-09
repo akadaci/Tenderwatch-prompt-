@@ -1,11 +1,15 @@
 {
- "updated": "2026-10-09T00:26:36Z",
+ "updated": "2026-10-09T06:31:46Z",
  "source": "urban.brussels NOVA (WFS)",
  "days_back": 3,
- "received": 61,
- "kept": 13,
- "count": 61,
- "new_ids": [],
+ "received": 75,
+ "kept": 16,
+ "count": 64,
+ "new_ids": [
+  "nova-19/PU/2048365",
+  "nova-07/PU/2048298",
+  "nova-04/PFD/2048268"
+ ],
  "records": [
   {
    "id": "nova-04/PU/2048327",
@@ -40,9 +44,41 @@
    "first_seen": "2026-10-08T10:32:55Z"
   },
   {
+   "id": "nova-19/PU/2048365",
+   "source_type": "Permis",
+   "nom": "Rénovation et isolation de la toiture d'un immeuble existant",
+   "lieu": "Avenue de Tervueren 327, 1150 Woluwe-Saint-Pierre",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='19/PU/2048365'",
+   "verif": "vérifié",
+   "verif_date": "2026-10-09",
+   "preuve": "Demande de permis 19/PU/2048365 reçue le 2026-10-08 (urban.brussels, service NOVA).",
+   "date_publication": "2026-10-08",
+   "notes": "Autorité : Woluwe-Saint-Pierre",
+   "first_seen": "2026-10-09T06:31:46Z"
+  },
+  {
+   "id": "nova-07/PU/2048298",
+   "source_type": "Permis",
+   "nom": "Heraanleg bestaande parking Vorst Nationaal.",
+   "lieu": "Avenue Victor Rousseau 208, 1190 Forest",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='07/PU/2048298'",
+   "verif": "vérifié",
+   "verif_date": "2026-10-09",
+   "preuve": "Demande de permis 07/PU/2048298 reçue le 2026-10-08 (urban.brussels, service NOVA).",
+   "date_publication": "2026-10-08",
+   "notes": "Autorité : Forest",
+   "first_seen": "2026-10-09T06:31:46Z"
+  },
+  {
    "id": "nova-18/PFD/2048166",
    "source_type": "Permis",
-   "nom": "- Construire des voies carrossables et piétonnes pour la desserte de bâtiments futurs. - Plantation d’arbres d’alignements et de sujets isolés. - Requalifier et réaménager des poches végétales. basé s",
+   "nom": "- Construire des voies carrossables et piétonnes pour la desserte de bâtiments futurs. - Plantation d’arbres d’alignements et de sujets isolés. - Requalifier et réaménager des poches végétales. Basé s",
    "lieu": "Allée Paul M. G. Levy 8, 1200 Woluwe-Saint-Lambert",
    "type": "Permis d'urbanisme délivré par le FD",
    "mo": "",
@@ -134,6 +170,22 @@
    "date_publication": "2026-10-07",
    "notes": "Autorité : Berchem-Sainte-Agathe",
    "first_seen": "2026-10-08T10:32:55Z"
+  },
+  {
+   "id": "nova-04/PFD/2048268",
+   "source_type": "Permis",
+   "nom": "Rénover des façades sud et sud-ouest du site Héliport-Anvers. Ces six immeubles à logement, caractérisés par une volumétrie préservée de plus de 25 mètres de hauteur (70'), nécessitent une interventio",
+   "lieu": "Avenue de l'Héliport 31, 1000 Bruxelles",
+   "type": "Permis d'urbanisme délivré par le FD",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='04/PFD/2048268'",
+   "verif": "vérifié",
+   "verif_date": "2026-10-09",
+   "preuve": "Demande de permis 04/PFD/2048268 reçue le 2026-10-07 (urban.brussels, service NOVA).",
+   "date_publication": "2026-10-07",
+   "notes": "Autorité : BUP",
+   "first_seen": "2026-10-09T06:31:46Z"
   },
   {
    "id": "nova-04/PFD/2048096",
