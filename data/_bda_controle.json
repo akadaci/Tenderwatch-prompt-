@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 291261
+  "totalCount": 291262
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -40,6 +40,168 @@
   "ACTIVE|E4|['WORKS']"
  ],
  "exemples": [
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45000000-7",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Bouwwerkzaamheden"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de construction"
+      },
+      {
+       "language": "DE",
+       "text": "Bauarbeiten"
+      },
+      {
+       "language": "EN",
+       "text": "Construction work"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45000000-7",
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Bouwwerkzaamheden"
+     },
+     {
+      "language": "FR",
+      "text": "Travaux de construction"
+     },
+     {
+      "language": "DE",
+      "text": "Bauarbeiten"
+     },
+     {
+      "language": "EN",
+      "text": "Construction work"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-10",
+   "dossier": {
+    "accreditations": {
+     "C": 3,
+     "D": 3
+    },
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Heraanleg bestaande speelplaats"
+     }
+    ],
+    "enterpriseCategories": [
+     {
+      "categoryCode": "D",
+      "levels": [
+       3,
+       2,
+       1
+      ]
+     },
+     {
+      "categoryCode": "C",
+      "levels": [
+       3,
+       2,
+       1
+      ]
+     }
+    ],
+    "legalBasis": "D24",
+    "number": "DVM - BP - SPEELPLAATS",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "DVM - BP - SPEELPLAATS",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Heraanleg bestaande speelplaats"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-10",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Heraanleg bestaande speelplaats"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "DVM - BP - SPEELPLAATS - 1"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "05c279dd-4ff7-4bbd-8558-73af84e277f6"
+   ],
+   "noticeSubType": "16",
+   "nutsCodes": [
+    "BE231"
+   ],
+   "organisation": {
+    "organisationId": 2129,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "vzw Basisschool en Humaniora DvM"
+     },
+     {
+      "language": "NL",
+      "text": "vzw Basisschool en Humaniora DvM"
+     },
+     {
+      "language": "FR",
+      "text": "vzw Basisschool en Humaniora DvM"
+     },
+     {
+      "language": "EN",
+      "text": "vzw Basisschool en Humaniora DvM"
+     }
+    ],
+    "tree": "200004.200026.2129"
+   },
+   "procedureId": "341d69e3-df29-4081-b96a-1bb4c33495f9",
+   "publicationDate": "2026-10-10",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "DVM - BP - SPEELPLAATS_01"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "ff095759-d9f7-45f5-8f26-1e28ade6b41c",
+   "publishedAt": [
+    "2026-10-10T09:31:45.039993"
+   ],
+   "referenceNumber": "DVM - BP - SPEELPLAATS_01",
+   "sentAt": [
+    "2026-10-10T09:31:45.039993"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-11-27T10:00:00"
+  },
   {
    "cpvAdditionalCodes": [
     {
@@ -332,158 +494,6 @@
    "referenceNumber": "PPP0QX-333/6116/AZSINTMARIA/2026-008_003",
    "sentAt": [
     "2026-10-09T07:58:45.016072"
-   ],
-   "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "38000000-5",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Laboratory, optical and precision equipments (excl. glasses)"
-      },
-      {
-       "language": "DE",
-       "text": "Laborgeräte, optische Geräte und Präzisionsgeräte (außer Gläser)"
-      },
-      {
-       "language": "NL",
-       "text": "Laboratoriuminstrumenten, optische en precisie-instrumenten (uitgezonderd brillen)"
-      },
-      {
-       "language": "FR",
-       "text": "Équipements de laboratoire, d'optique et de précision (excepté les lunettes)"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "38000000-5",
-    "descriptions": [
-     {
-      "language": "EN",
-      "text": "Laboratory, optical and precision equipments (excl. glasses)"
-     },
-     {
-      "language": "DE",
-      "text": "Laborgeräte, optische Geräte und Präzisionsgeräte (außer Gläser)"
-     },
-     {
-      "language": "NL",
-      "text": "Laboratoriuminstrumenten, optische en precisie-instrumenten (uitgezonderd brillen)"
-     },
-     {
-      "language": "FR",
-      "text": "Équipements de laboratoire, d'optique et de précision (excepté les lunettes)"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-09",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "AOZB26-6988 - LEVERING EN INSTALLATIE VAN EEN TESTBANK 5KN MET ACCESSOIRES"
-     },
-     {
-      "language": "EN",
-      "text": "AOZB26-6988 - DELIVERY AND INSTALLATION OF TESTING BANK 5KN WITH ACCESSORIES"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "AOZB26-6988",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "AOZB26-6988",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "AOZB26-6988 - LEVERING EN INSTALLATIE VAN EEN TESTBANK 5KN MET ACCESSOIRES"
-     },
-     {
-      "language": "EN",
-      "text": "AOZB26-6988 - DELIVERY AND INSTALLATION OF TESTING BANK 5KN WITH ACCESSORIES"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-09",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "AOZB26-6988 - LEVERING EN INSTALLATIE VAN EEN TESTBANK 5KN MET ACCESSOIRES"
-      },
-      {
-       "language": "EN",
-       "text": "AOZB26-6988 - DELIVERY AND INSTALLATION OF TESTING BANK 5KN WITH ACCESSORIES"
-      }
-     ],
-     "titles": [
-      {
-       "language": "EN",
-       "text": "AOZB26-6988 - 1"
-      },
-      {
-       "language": "NL",
-       "text": "AOZB26-6988 - 1"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SUPPLIES"
-   ],
-   "noticeIds": [
-    "a3bc4bc4-e5d6-4300-b799-2d15d622a96c"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE251"
-   ],
-   "organisation": {
-    "organisationId": 5132,
-    "organisationNames": [
-     {
-      "language": "EN",
-      "text": "KU Leuven (universiteit)"
-     },
-     {
-      "language": "DE",
-      "text": "KU Leuven (universiteit)"
-     },
-     {
-      "language": "NL",
-      "text": "Katholieke Universiteit Leuven"
-     },
-     {
-      "language": "FR",
-      "text": "KU Leuven (universiteit)"
-     }
-    ],
-    "tree": "200004.200026.542.5132"
-   },
-   "procedureId": "b5e6bee2-9330-4cb2-8c1b-91116ce2ec8e",
-   "publicationDate": "2026-10-09",
-   "publicationLanguages": [
-    "NL",
-    "EN"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "AOZB26-6988_Gunning"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "387eaf92-867e-41ee-9d81-e4c2f4e1793a",
-   "publishedAt": [
-    "2026-10-09T07:59:45.016391"
-   ],
-   "referenceNumber": "AOZB26-6988_Gunning",
-   "sentAt": [
-    "2026-10-09T07:59:45.016391"
    ],
    "tedPublished": false
   }
