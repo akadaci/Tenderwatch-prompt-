@@ -9,12 +9,10 @@
   "ACTIVE|16|['SERVICES']",
   "ACTIVE|16|['SUPPLIES', 'SERVICES']",
   "ACTIVE|16|['SUPPLIES']",
-  "ACTIVE|16|['WORKS', 'SERVICES']",
   "ACTIVE|16|['WORKS', 'SUPPLIES']",
   "ACTIVE|16|['WORKS']",
   "ACTIVE|17|['SERVICES']",
   "ACTIVE|17|['WORKS']",
-  "ACTIVE|18|['SUPPLIES']",
   "ACTIVE|19|['SERVICES']",
   "ACTIVE|20|['SERVICES']",
   "ACTIVE|20|['WORKS']",
@@ -28,17 +26,12 @@
   "ACTIVE|29|['WORKS']",
   "ACTIVE|30|['SERVICES']",
   "ACTIVE|30|['SUPPLIES']",
-  "ACTIVE|30|['WORKS']",
   "ACTIVE|33|['SERVICES']",
   "ACTIVE|33|['SUPPLIES']",
   "ACTIVE|33|['WORKS']",
   "ACTIVE|34|['SUPPLIES']",
-  "ACTIVE|34|['WORKS']",
-  "ACTIVE|38|['SUPPLIES', 'SERVICES']",
   "ACTIVE|E1|['SERVICES']",
-  "ACTIVE|E1|['WORKS']",
   "ACTIVE|E3|['SERVICES']",
-  "ACTIVE|E3|['SUPPLIES', 'SERVICES']",
   "ACTIVE|E3|['SUPPLIES']",
   "ACTIVE|E3|['WORKS']",
   "ACTIVE|E4|['SERVICES']",
@@ -352,16 +345,16 @@
        "text": "Laboratory, optical and precision equipments (excl. glasses)"
       },
       {
-       "language": "DE",
-       "text": "Laborgeräte, optische Geräte und Präzisionsgeräte (außer Gläser)"
+       "language": "FR",
+       "text": "Équipements de laboratoire, d'optique et de précision (excepté les lunettes)"
       },
       {
        "language": "NL",
        "text": "Laboratoriuminstrumenten, optische en precisie-instrumenten (uitgezonderd brillen)"
       },
       {
-       "language": "FR",
-       "text": "Équipements de laboratoire, d'optique et de précision (excepté les lunettes)"
+       "language": "DE",
+       "text": "Laborgeräte, optische Geräte und Präzisionsgeräte (außer Gläser)"
       }
      ]
     }
