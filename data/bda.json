@@ -1,13 +1,11 @@
 {
- "updated": "2026-10-10T13:03:53Z",
+ "updated": "2026-10-10T18:01:12Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 584,
+ "received": 585,
  "kept": 274,
  "count": 1304,
- "new_ids": [
-  "bda-ff095759-d9f7-45f5-8f26-1e28ade6b41c"
- ],
+ "new_ids": [],
  "records": [
   {
    "id": "bda-ff095759-d9f7-45f5-8f26-1e28ade6b41c",
@@ -29,6 +27,27 @@
    "procedure": "341d69e3-df29-4081-b96a-1bb4c33495f9",
    "dossier": "DVM - BP - SPEELPLAATS",
    "first_seen": "2026-10-10T13:03:53Z"
+  },
+  {
+   "id": "bda-5b5b149f-ecab-4f16-84cc-8b65549a5224",
+   "source_type": "BDA",
+   "nom": "Plaatsen HT warmtepompen voor sanitair warm water",
+   "lieu": "Brabant flamand",
+   "province": "Brabant flamand",
+   "mo": "Z.org KU Leuven",
+   "etape": 4,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/5b5b149f-ecab-4f16-84cc-8b65549a5224",
+   "verif": "vérifié",
+   "verif_date": "2026-10-10",
+   "preuve": "Bulletin des Adjudications, réf. PPP1AV-20/6028/TD965 (avis de marché, sous-type eForms 16), publié le 2026-10-10.",
+   "date_publication": "2026-10-10",
+   "cpv": "45331000",
+   "ted_ref": "",
+   "notes": "Momenteel gebeurt de sanitair warm water productie op de campus van Kortenberg met boilers of warmtewisselaars in de onderstations aangesloten op het intern warmtenet. In 12 onderstations zullen deze boilers of warmtewisselaars vervangen worden door nieuwe boilers die verwarmt worden met hoge temper",
+   "procedure": "9a08e729-7373-4a91-9b1f-f1a359254927",
+   "dossier": "PPP1AV-20/6028/TD965",
+   "first_seen": "2026-10-09T19:46:25Z"
   },
   {
    "id": "bda-f4f415c7-46ce-4c83-a3ed-4812ed0ad383",
@@ -1535,7 +1554,7 @@
    "verif_date": "2026-10-10",
    "preuve": "Bulletin des Adjudications, réf. 2026/MAR/MP/968 (avis de marché, sous-type eForms E3), publié le 2026-10-09.",
    "date_publication": "2026-10-09",
-   "cpv": "45000000,45211350,45112700,45330000,45300000,45112500,45317000,45315000,45210000",
+   "cpv": "45000000,45211350,45112700,45330000,45112500,45300000,45317000,45315000,45210000",
    "ted_ref": "",
    "notes": "ECOLE DES FILLES: Rénovation lourde",
    "procedure": "f917644f-2c3f-4da0-b9b3-7c297bbd14a2",
@@ -1897,27 +1916,6 @@
    "notes": "Het voorwerp van de opdracht betreft het uitvoeren van een voorstudie die de opzet en inhoud vastlegt van de basiscomponentenbibliotheek voor TOTEM Infra. Deze voorstudie bepaalt voor welke materialen en processen een gestandaardiseerde milieu-impactscore nodig is om reeds in de (voor)ontwerpfase ee",
    "procedure": "bd9eff6b-8089-4bf6-8628-5b18fb46dec7",
    "dossier": "DMOW/STAF/03009",
-   "first_seen": "2026-10-09T19:46:25Z"
-  },
-  {
-   "id": "bda-5b5b149f-ecab-4f16-84cc-8b65549a5224",
-   "source_type": "BDA",
-   "nom": "Plaatsen HT warmtepompen voor sanitair warm water",
-   "lieu": "Brabant flamand",
-   "province": "Brabant flamand",
-   "mo": "Z.org KU Leuven",
-   "etape": 4,
-   "sur_ted": false,
-   "source": "https://www.publicprocurement.be/publication-workspaces/5b5b149f-ecab-4f16-84cc-8b65549a5224",
-   "verif": "vérifié",
-   "verif_date": "2026-10-10",
-   "preuve": "Bulletin des Adjudications, réf. PPP1AV-20/6028/TD965 (avis de marché, sous-type eForms 16), publié le 2026-10-09.",
-   "date_publication": "2026-10-09",
-   "cpv": "45331000",
-   "ted_ref": "",
-   "notes": "Momenteel gebeurt de sanitair warm water productie op de campus van Kortenberg met boilers of warmtewisselaars in de onderstations aangesloten op het intern warmtenet. In 12 onderstations zullen deze boilers of warmtewisselaars vervangen worden door nieuwe boilers die verwarmt worden met hoge temper",
-   "procedure": "9a08e729-7373-4a91-9b1f-f1a359254927",
-   "dossier": "PPP1AV-20/6028/TD965",
    "first_seen": "2026-10-09T19:46:25Z"
   },
   {

@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 291262
+  "totalCount": 291263
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -40,6 +40,151 @@
   "ACTIVE|E4|['WORKS']"
  ],
  "exemples": [
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45331000-6",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Travaux d'installation de matériel de chauffage, de ventilation et de climatisation"
+      },
+      {
+       "language": "EN",
+       "text": "Heating, ventilation and air-conditioning installation work"
+      },
+      {
+       "language": "DE",
+       "text": "Installation von Heizungs-, Lüftungs- und Klimaanlagen"
+      },
+      {
+       "language": "NL",
+       "text": "Installeren van verwarming, ventilatie en airconditioning"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45331000-6",
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Travaux d'installation de matériel de chauffage, de ventilation et de climatisation"
+     },
+     {
+      "language": "EN",
+      "text": "Heating, ventilation and air-conditioning installation work"
+     },
+     {
+      "language": "DE",
+      "text": "Installation von Heizungs-, Lüftungs- und Klimaanlagen"
+     },
+     {
+      "language": "NL",
+      "text": "Installeren van verwarming, ventilatie en airconditioning"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-10",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Momenteel gebeurt de sanitair warm water productie op de campus van Kortenberg met boilers of warmtewisselaars in de onderstations aangesloten op het intern warmtenet.  In 12 onderstations zullen deze boilers of warmtewisselaars vervangen worden door nieuwe boilers die verwarmt worden met hoge temperatuurwarmtepompen.  De werken omvatten ondermeer : • De afbraak van de bestaande installatie • Het leveren en plaatsen van buitenunits inclusief de omgevingswerken • Het leveren en plaatsen van de binneninstallatie (buffervaten, boilers, leidingwerk, automatisatie, e.a.)   • Het uitvoeren van bouwkundige werken ten behoeve voorgaande.  • De hydraulische inregeling van de installatie • Het overschakelen van de bestaande naar de nieuwe sanitair warmwaterproductie met een minimale onderbreking (Maximaal een viertal uur) • Het onderhoud tijdens de waarborgperiode De opdracht wordt verder omschreven onder het hoofdstuk ‘Technische bepalingen’ "
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP1AV-20/6028/TD965",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "PPP1AV-20/6028/TD965",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Plaatsen HT warmtepompen voor sanitair warm water"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-09",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Momenteel gebeurt de sanitair warm water productie op de campus van Kortenberg met boilers of warmtewisselaars in de onderstations aangesloten op het intern warmtenet.  In 12 onderstations zullen deze boilers of warmtewisselaars vervangen worden door nieuwe boilers die verwarmt worden met hoge temperatuurwarmtepompen.  De werken omvatten ondermeer : • De afbraak van de bestaande installatie • Het leveren en plaatsen van buitenunits inclusief de omgevingswerken • Het leveren en plaatsen van de binneninstallatie (buffervaten, boilers, leidingwerk, automatisatie, e.a.)   • Het uitvoeren van bouwkundige werken ten behoeve voorgaande.  • De hydraulische inregeling van de installatie • Het overschakelen van de bestaande naar de nieuwe sanitair warmwaterproductie met een minimale onderbreking (Maximaal een viertal uur) • Het onderhoud tijdens de waarborgperiode De opdracht wordt verder omschreven onder het hoofdstuk ‘Technische bepalingen’ "
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Plaatsen HT warmtepompen voor sanitair warm water"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "48289067-0955-4bb0-b5e6-a9f0c5105277",
+    "cd84fd59-713d-408f-98fd-f3b20c8adbfc"
+   ],
+   "noticeSubType": "16",
+   "nutsCodes": [
+    "BE242"
+   ],
+   "organisation": {
+    "organisationId": 2963,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "Z.org KU Leuven"
+     },
+     {
+      "language": "NL",
+      "text": "Z.org KU Leuven"
+     },
+     {
+      "language": "FR",
+      "text": "Z.org KU Leuven"
+     },
+     {
+      "language": "EN",
+      "text": "Z.org KU Leuven"
+     }
+    ],
+    "tree": "200004.200032.2963"
+   },
+   "procedureId": "9a08e729-7373-4a91-9b1f-f1a359254927",
+   "publicationDate": "2026-10-10",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP1AV-20/6028/TD965_001"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "5b5b149f-ecab-4f16-84cc-8b65549a5224",
+   "publishedAt": [
+    "2026-10-10T15:35:45.017111",
+    "2026-10-09T16:12:45.015621"
+   ],
+   "referenceNumber": "PPP1AV-20/6028/TD965_001",
+   "sentAt": [
+    "2026-10-10T15:35:45.017111",
+    "2026-10-09T16:12:45.015621"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-11-20T10:00:00"
+  },
   {
    "cpvAdditionalCodes": [
     {
@@ -205,88 +350,88 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "80530000-8",
+     "code": "72000000-5",
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Beroepsopleidingsdiensten"
-      },
-      {
        "language": "FR",
-       "text": "Services de formation professionnelle"
+       "text": "Services de technologies de l'information, conseil, développement de logiciels, internet et appui"
       },
       {
-       "language": "DE",
-       "text": "Berufsausbildung"
+       "language": "NL",
+       "text": "IT-diensten: adviezen, softwareontwikkeling, internet en ondersteuning"
       },
       {
        "language": "EN",
-       "text": "Vocational training services"
+       "text": "IT services: consulting, software development, Internet and support"
+      },
+      {
+       "language": "DE",
+       "text": "IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "80530000-8",
+    "code": "72000000-5",
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Beroepsopleidingsdiensten"
-     },
-     {
       "language": "FR",
-      "text": "Services de formation professionnelle"
+      "text": "Services de technologies de l'information, conseil, développement de logiciels, internet et appui"
      },
      {
-      "language": "DE",
-      "text": "Berufsausbildung"
+      "language": "NL",
+      "text": "IT-diensten: adviezen, softwareontwikkeling, internet en ondersteuning"
      },
      {
       "language": "EN",
-      "text": "Vocational training services"
+      "text": "IT services: consulting, software development, Internet and support"
+     },
+     {
+      "language": "DE",
+      "text": "IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung"
      }
     ]
    },
-   "dispatchDate": "2026-10-09",
+   "dispatchDate": "2026-10-10",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
       "language": "NL",
-      "text": "Deze opdracht heeft als doel beginnende en ervaren opleiders binnen de federale overheid te versterken in het professioneel voorbereiden en geven van opleidingen, zowel klassikaal als online. De opdracht omvat een tweedaagse opleiding “Train the Trainer basisvaardigheden”, workshops rond enerzijds feedback en anderzijds didactische werkvormen en tools, en tenslotte ook coachinguren voor deelnemers. De opleidingen, workshops en coaching uren worden aangeboden in het Nederlands en het Frans door gekwalificeerde opleiders. Daarnaast is er een pedagogische coördinator te voorzien als centraal aanspreekpunt voor de projectleider van de FOD BOSA. Het bestek beschrijft de te voorziene prestaties en de geraamde volumes."
+      "text": "Deze opdracht heeft betrekking op de vernieuwing en modernisering van de EnergyWatchers-website, evenals op de actualisering en uitbreiding van de inhoud en de redactionele ondersteuning ervan. De opdracht heeft tot doel de website verder te ontwikkelen tot een toegankelijke, gebruiksvriendelijke, actuele en betrouwbare referentietool voor energie-informatie, gericht op burgers en kleine ondernemingen in België. "
      },
      {
       "language": "FR",
-      "text": "Ce marché vise à renforcer les compétences des formateurs débutants et expérimentés au sein de l’administration fédérale dans la préparation et l’animation professionnelles de formations, tant en présentiel qu’à distance. La mission comprend une formation de deux jours « Train the Trainer – compétences de base », des ateliers consacrés d’une part au feedback et d’autre part aux méthodes didactiques et aux outils d’apprentissage, ainsi que des heures de coaching destinées aux participants. Les formations, workshops et heures de coaching sont dispensés en français et en néerlandais par des formateurs qualifiés. En outre, un coordinateur pédagogique doit être prévu comme point de contact central pour le chef de projet du SPF BOSA. Le cahier des charges décrit les prestations à fournir ainsi que les volumes estimés."
+      "text": "Le présent marché porte sur la refonte et la modernisation du site web EnergyWatchers, ainsi que sur la mise à jour, l’enrichissement et l’assistance éditoriale de son contenu. Il vise à développer davantage le site afin d’en faire un outil de référence accessible, convivial, actuel et fiable en matière d’information énergétique, destiné aux citoyens et aux petites entreprises en Belgique. "
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "BOSA 0072",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "BOSA 0072",
+    "number": "DGEM/CC/LD/26031",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "DGEM/CC/LD/26031",
     "titles": [
      {
       "language": "FR",
-      "text": "Services pour le développement et la réalisation de la formation et des workshops « Train the Trainer » en français et en néerlandais à l’attention des fonctionnaires fédéraux de tous niveaux qui dispensent occasionnellement ou régulièrement des formations (formateurs débutants et expérimentés)"
+      "text": "La refonte, la modernisation et l’assistance éditoriale du site web EnergyWatchers"
      },
      {
       "language": "NL",
-      "text": "Diensten voor de ontwikkeling en de realisatie van een opleiding en workshops “Train the Trainer” in het Frans en in het Nederlands voor federale ambtenaren van alle niveaus die occasioneel of regelmatig opleiding geven (beginnende en gevorderde opleiders)"
+      "text": "Het herontwerp, de modernisering en de redactionele ondersteuning van de EnergyWatchers-website"
      }
     ]
    },
-   "insertionDate": "2026-10-09",
+   "insertionDate": "2026-10-10",
    "lots": [
     {
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Services pour le développement et la réalisation de la formation et des workshops « Train the Trainer » en français et en néerlandais à l’attention des fonctionnaires fédéraux de tous niveaux qui dispensent occasionnellement ou régulièrement des formations (formateurs débutants et expérimentés)"
+       "language": "NL",
+       "text": "Deze opdracht heeft betrekking op de vernieuwing en modernisering van de EnergyWatchers-website, evenals op de actualisering en uitbreiding van de inhoud en de redactionele ondersteuning ervan. De opdracht heeft tot doel de website verder te ontwikkelen tot een toegankelijke, gebruiksvriendelijke, actuele en betrouwbare referentietool voor energie-informatie, gericht op burgers en kleine ondernemingen in België. "
       },
       {
-       "language": "NL",
-       "text": "Diensten voor de ontwikkeling en de realisatie van een opleiding en workshops “Train the Trainer” in het Frans en in het Nederlands voor federale ambtenaren van alle niveaus die occasioneel of regelmatig opleiding geven (beginnende en gevorderde opleiders)"
+       "language": "FR",
+       "text": "Le présent marché porte sur la refonte et la modernisation du site web EnergyWatchers, ainsi que sur la mise à jour, l’enrichissement et l’assistance éditoriale de son contenu. Il vise à développer davantage le site afin d’en faire un outil de référence accessible, convivial, actuel et fiable en matière d’information énergétique, destiné aux citoyens et aux petites entreprises en Belgique. "
       }
      ],
      "reservedExecution": [
@@ -298,11 +443,39 @@
      "titles": [
       {
        "language": "FR",
-       "text": "Services pour le développement et la réalisation de la formation et des workshops « Train the Trainer » en français et en néerlandais à l’attention des fonctionnaires fédéraux de tous niveaux qui dispensent occasionnellement ou régulièrement des formations (formateurs débutants et expérimentés)"
+       "text": "DGEM/CC/LD/26031 - 1 - Refonte et modernisation technique du site web EnergyWatchers"
       },
       {
        "language": "NL",
-       "text": "Diensten voor de ontwikkeling en de realisatie van een opleiding en workshops “Train the Trainer” in het Frans en in het Nederlands voor federale ambtenaren van alle niveaus die occasioneel of regelmatig opleiding geven (beginnende en gevorderde opleiders)"
+       "text": "DGEM/CC/LD/26031 - 1 - Vernieuwing en technische modernisering van de EnergyWatchers-website"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Deze opdracht heeft betrekking op de vernieuwing en modernisering van de EnergyWatchers-website, evenals op de actualisering en uitbreiding van de inhoud en de redactionele ondersteuning ervan. De opdracht heeft tot doel de website verder te ontwikkelen tot een toegankelijke, gebruiksvriendelijke, actuele en betrouwbare referentietool voor energie-informatie, gericht op burgers en kleine ondernemingen in België. "
+      },
+      {
+       "language": "FR",
+       "text": "Le présent marché porte sur la refonte et la modernisation du site web EnergyWatchers, ainsi que sur la mise à jour, l’enrichissement et l’assistance éditoriale de son contenu. Il vise à développer davantage le site afin d’en faire un outil de référence accessible, convivial, actuel et fiable en matière d’information énergétique, destiné aux citoyens et aux petites entreprises en Belgique. "
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "DGEM/CC/LD/26031 - 2 - Mise à jour du contenu et assistance éditoriale"
+      },
+      {
+       "language": "NL",
+       "text": "DGEM/CC/LD/26031 - 2 - Actualisering van de inhoud en redactionele ondersteuning"
       }
      ]
     }
@@ -311,191 +484,55 @@
     "SERVICES"
    ],
    "noticeIds": [
-    "5bbf61aa-9ee6-4789-b5c1-ed9e3821f8dc"
+    "19ae6793-33b0-47d0-8109-8cc093b091e1"
    ],
-   "noticeSubType": "E3",
+   "noticeSubType": "16",
    "nutsCodes": [
     "BE100"
    ],
    "organisation": {
-    "organisationId": 5306,
+    "organisationId": 18,
     "organisationNames": [
      {
-      "language": "NL",
-      "text": "DIRECTORAAT-GENERAAL REKRUTERING & ONTWIKKELING"
-     },
-     {
-      "language": "EN",
-      "text": "BOSA-DG Recruitment and Development"
+      "language": "DE",
+      "text": "SPF Santé Publique Sécurité de la Chaîne Alimentaire et Environnement"
      },
      {
       "language": "FR",
-      "text": "DIRECTION GÉNÉRALE RECRUTEMENT & DÉVELOPPEMENT "
+      "text": "SPF Santé Publique Sécurité de la Chaîne Alimentaire et Environnement"
      },
      {
-      "language": "DE",
-      "text": "BOSA-DG Recruitment and Development"
+      "language": "EN",
+      "text": "SPF Santé Publique Sécurité de la Chaîne Alimentaire et Environnement"
+     },
+     {
+      "language": "NL",
+      "text": "FOD Volksgezondheid Veiligheid van de Voedselketen en Leefmilieu"
      }
     ],
-    "tree": "200002.200008.2889.5306"
+    "tree": "200002.200008.18"
    },
-   "procedureId": "3f8a1d1b-5b0a-49cf-a7f6-251429776f51",
-   "publicationDate": "2026-10-09",
+   "procedureId": "40128ab4-e708-4c15-80d0-f817dd5840e5",
+   "publicationDate": "2026-10-10",
    "publicationLanguages": [
     "NL",
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "BOSA 0072_pub01"
+    "DGEM/CC/LD/26031_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "26f864ec-04e2-4731-a456-62d069e2d563",
+   "publicationWorkspaceId": "3fe9965f-2054-4de7-94ff-ab3bf0a1b16e",
    "publishedAt": [
-    "2026-10-09T08:32:45.020647"
+    "2026-10-10T16:16:45.03631"
    ],
-   "referenceNumber": "BOSA 0072_pub01",
+   "referenceNumber": "DGEM/CC/LD/26031_pub01",
    "sentAt": [
-    "2026-10-09T08:32:45.020647"
+    "2026-10-10T16:16:45.03631"
    ],
    "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-12T10:10:00"
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "66114000-2",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Services de leasing financier"
-      },
-      {
-       "language": "DE",
-       "text": "Finanzierungs-Leasing"
-      },
-      {
-       "language": "EN",
-       "text": "Financial leasing services"
-      },
-      {
-       "language": "NL",
-       "text": "Financiële leasing"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "66114000-2",
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Services de leasing financier"
-     },
-     {
-      "language": "DE",
-      "text": "Finanzierungs-Leasing"
-     },
-     {
-      "language": "EN",
-      "text": "Financial leasing services"
-     },
-     {
-      "language": "NL",
-      "text": "Financiële leasing"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-09",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Deze overheidsopdracht betreft een raamovereenkomst met één leasemaatschappij  voor het leasen van fietsen (stadsfiets, racefiets, elektrische fiets met ondersteuning tot 25 km / u, elektrische fiets met ondersteuning tot 45 km / u, elektrische bakfiets, gewone plooifiets, elektrische plooifiets, …) voor de medewerkers van het ziekenhuis volgens het principe van loonruil of eindejaarspremie?. Het leasen gebeurt op vrijwillige basis.  Het ziekenhuis beoogt een voor haar kostenneutrale operatie uit te voeren, met een minimale administratieve last, zowel voor haar eigen werking als voor de werknemer die gebruik wenst te maken van het systeem. Het moet bovendien mogelijk zijn om op het einde van de leaseperiode de fietsen individueel over te nemen aan een vooraf gekende restwaarde. In het aanbod moeten onder meer inbegrepen zijn: pechverhelping, jaarlijks onderhoud en een verzekering tegen diefstal, bij schade en rechtsbijstand.  De raamovereenkomst zelf wordt afgesloten voor een periode van 4 jaar.  De looptijd van de individuele lease contracten bedraagt 36 maanden.  "
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP0QX-333/6116/AZSINTMARIA/2026-008",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP0QX-333/6116/AZSINTMARIA/2026-008",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Raamovereenkomst voor fietsleasing"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-09",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Deze overheidsopdracht betreft een raamovereenkomst met één leasemaatschappij  voor het leasen van fietsen (stadsfiets, racefiets, elektrische fiets met ondersteuning tot 25 km / u, elektrische fiets met ondersteuning tot 45 km / u, elektrische bakfiets, gewone plooifiets, elektrische plooifiets, …) voor de medewerkers van het ziekenhuis volgens het principe van loonruil of eindejaarspremie?. Het leasen gebeurt op vrijwillige basis.  Het ziekenhuis beoogt een voor haar kostenneutrale operatie uit te voeren, met een minimale administratieve last, zowel voor haar eigen werking als voor de werknemer die gebruik wenst te maken van het systeem. Het moet bovendien mogelijk zijn om op het einde van de leaseperiode de fietsen individueel over te nemen aan een vooraf gekende restwaarde. In het aanbod moeten onder meer inbegrepen zijn: pechverhelping, jaarlijks onderhoud en een verzekering tegen diefstal, bij schade en rechtsbijstand.  De raamovereenkomst zelf wordt afgesloten voor een periode van 4 jaar.  De looptijd van de individuele lease contracten bedraagt 36 maanden.  "
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Raamovereenkomst voor fietsleasing"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SERVICES"
-   ],
-   "noticeIds": [
-    "1a781716-0b77-468d-9819-92cf72d1a8f8"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE241"
-   ],
-   "organisation": {
-    "organisationId": 1295,
-    "organisationNames": [
-     {
-      "language": "NL",
-      "text": "Algemeen Ziekenhuis Sint-Maria Halle"
-     },
-     {
-      "language": "FR",
-      "text": "Algemeen Ziekenhuis Sint-Maria Halle"
-     },
-     {
-      "language": "EN",
-      "text": "Algemeen Ziekenhuis Sint-Maria Halle"
-     },
-     {
-      "language": "DE",
-      "text": "Algemeen Ziekenhuis Sint-Maria Halle"
-     }
-    ],
-    "tree": "200004.200027.1295"
-   },
-   "procedureId": "6ff02eb3-7bfd-4133-bf6a-66f5321fe0ef",
-   "publicationDate": "2026-10-09",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP0QX-333/6116/AZSINTMARIA/2026-008_003"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "2230c2a6-95b3-4a7e-ad70-f1b52cf80733",
-   "publishedAt": [
-    "2026-10-09T07:58:45.016072"
-   ],
-   "referenceNumber": "PPP0QX-333/6116/AZSINTMARIA/2026-008_003",
-   "sentAt": [
-    "2026-10-09T07:58:45.016072"
-   ],
-   "tedPublished": false
+   "vaultSubmissionDeadline": "2026-11-09T11:00:00"
   }
  ],
  "exemple_attribution": [
