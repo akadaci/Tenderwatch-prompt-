@@ -1,19 +1,19 @@
 {
- "updated": "2026-10-11T22:01:22Z",
+ "updated": "2026-10-11T23:12:23Z",
  "days_back": 3,
  "sources": {
   "TED": {
    "ok": true,
-   "new": 0
+   "new": 38
   },
   "Bulletin des Adjudications": {
    "ok": true,
-   "new": 4
+   "new": 0
   },
   "Permis Bruxelles": {
    "ok": true,
    "new": 0
   }
  },
- "radar_public": 1686
+ "radar_public": 1724
 }

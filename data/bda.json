@@ -1,16 +1,11 @@
 {
- "updated": "2026-10-11T22:01:36Z",
+ "updated": "2026-10-11T23:12:38Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
  "received": 334,
  "kept": 170,
  "count": 1309,
- "new_ids": [
-  "bda-d10949c3-f9db-4f6e-a3aa-d274091c793b",
-  "bda-f50d7e27-6015-4ba7-9d68-5c02400fa85c",
-  "bda-052e159b-8aaf-47cc-b587-789b51a729ba",
-  "bda-fbe823d4-1ddb-41fe-beee-b64ecde75ff4"
- ],
+ "new_ids": [],
  "records": [
   {
    "id": "bda-d10949c3-f9db-4f6e-a3aa-d274091c793b",
@@ -1685,7 +1680,7 @@
    "verif_date": "2026-10-11",
    "preuve": "Bulletin des Adjudications, réf. 2026/MAR/MP/968 (avis de marché, sous-type eForms E3), publié le 2026-10-09.",
    "date_publication": "2026-10-09",
-   "cpv": "45000000,45211350,45112700,45330000,45300000,45112500,45317000,45315000,45210000",
+   "cpv": "45000000,45211350,45112700,45330000,45112500,45300000,45317000,45315000,45210000",
    "ted_ref": "",
    "notes": "ECOLE DES FILLES: Rénovation lourde",
    "procedure": "f917644f-2c3f-4da0-b9b3-7c297bbd14a2",
