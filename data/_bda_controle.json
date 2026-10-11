@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 291263
+  "totalCount": 291265
  },
  "types": [
   "ACTIVE|16|['SERVICES']",
@@ -72,7 +72,7 @@
      }
     ]
    },
-   "dispatchDate": "2026-10-10",
+   "dispatchDate": "2026-10-11",
    "dossier": {
     "accreditations": {},
     "descriptions": [
@@ -120,6 +120,7 @@
     "WORKS"
    ],
    "noticeIds": [
+    "2134700d-9134-4e4c-96c7-57e6cb4ac377",
     "48289067-0955-4bb0-b5e6-a9f0c5105277",
     "cd84fd59-713d-408f-98fd-f3b20c8adbfc"
    ],
@@ -150,7 +151,7 @@
     "tree": "200004.200032.2963"
    },
    "procedureId": "9a08e729-7373-4a91-9b1f-f1a359254927",
-   "publicationDate": "2026-10-10",
+   "publicationDate": "2026-10-11",
    "publicationLanguages": [
     "NL"
    ],
@@ -162,11 +163,13 @@
    "publicationWorkspaceId": "5b5b149f-ecab-4f16-84cc-8b65549a5224",
    "publishedAt": [
     "2026-10-10T15:35:45.017111",
+    "2026-10-11T12:03:45.020363",
     "2026-10-09T16:12:45.015621"
    ],
    "referenceNumber": "PPP1AV-20/6028/TD965_001",
    "sentAt": [
     "2026-10-10T15:35:45.017111",
+    "2026-10-11T12:03:45.020363",
     "2026-10-09T16:12:45.015621"
    ],
    "tedPublished": false,
@@ -217,54 +220,44 @@
      }
     ]
    },
-   "dispatchDate": "2026-10-10",
+   "dispatchDate": "2026-10-11",
    "dossier": {
     "accreditations": {
-     "C": 3,
-     "D": 3
+     "G": 2
     },
     "descriptions": [
      {
       "language": "NL",
-      "text": "Heraanleg bestaande speelplaats"
+      "text": "Ontharding, vergroening en inrichting speelplaats lagere school Prinsenhof Grimbergen"
      }
     ],
     "enterpriseCategories": [
      {
-      "categoryCode": "D",
+      "categoryCode": "G",
       "levels": [
-       3,
-       2,
-       1
-      ]
-     },
-     {
-      "categoryCode": "C",
-      "levels": [
-       3,
-       2,
-       1
+       1,
+       2
       ]
      }
     ],
     "legalBasis": "D24",
-    "number": "DVM - BP - SPEELPLAATS",
+    "number": "ISB-PRI-2026-10-03",
     "procurementProcedureType": "OPEN",
-    "referenceNumber": "DVM - BP - SPEELPLAATS",
+    "referenceNumber": "ISB-PRI-2026-10-03",
     "titles": [
      {
       "language": "NL",
-      "text": "Heraanleg bestaande speelplaats"
+      "text": "heraanleg en vergroening speelplaats Lagere school Prinsenhof"
      }
     ]
    },
-   "insertionDate": "2026-10-10",
+   "insertionDate": "2026-10-11",
    "lots": [
     {
      "descriptions": [
       {
        "language": "NL",
-       "text": "Heraanleg bestaande speelplaats"
+       "text": "Ontharding, vergroening en inrichting speelplaats lagere school Prinsenhof Grimbergen"
       }
      ],
      "reservedExecution": [
@@ -276,7 +269,7 @@
      "titles": [
       {
        "language": "NL",
-       "text": "DVM - BP - SPEELPLAATS - 1"
+       "text": "ISB-PRI-2026-10-03 - 1"
       }
      ]
     }
@@ -285,140 +278,150 @@
     "WORKS"
    ],
    "noticeIds": [
-    "05c279dd-4ff7-4bbd-8558-73af84e277f6"
+    "0c79f6b4-a2c5-4b2c-b224-31fa957651b9"
    ],
    "noticeSubType": "16",
    "nutsCodes": [
-    "BE231"
+    "BE241"
    ],
    "organisation": {
-    "organisationId": 2129,
+    "organisationId": 2884,
     "organisationNames": [
      {
-      "language": "DE",
-      "text": "vzw Basisschool en Humaniora DvM"
-     },
-     {
       "language": "NL",
-      "text": "vzw Basisschool en Humaniora DvM"
+      "text": "VZW IGNATIUS SCHOLEN IN BEWEGING"
      },
      {
       "language": "FR",
-      "text": "vzw Basisschool en Humaniora DvM"
+      "text": "VZW IGNATIUS SCHOLEN IN BEWEGING"
      },
      {
       "language": "EN",
-      "text": "vzw Basisschool en Humaniora DvM"
+      "text": "VZW IGNATIUS SCHOLEN IN BEWEGING"
+     },
+     {
+      "language": "DE",
+      "text": "VZW IGNATIUS SCHOLEN IN BEWEGING"
      }
     ],
-    "tree": "200004.200026.2129"
+    "tree": "200004.200026.2884"
    },
-   "procedureId": "341d69e3-df29-4081-b96a-1bb4c33495f9",
-   "publicationDate": "2026-10-10",
+   "procedureId": "d5ffba1c-7ac4-439a-b379-9b706c67ba0b",
+   "publicationDate": "2026-10-11",
    "publicationLanguages": [
     "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "DVM - BP - SPEELPLAATS_01"
+    "ISB-PRI-2026-10-03_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "ff095759-d9f7-45f5-8f26-1e28ade6b41c",
+   "publicationWorkspaceId": "4e9f45ec-4c4b-42c3-87cb-0bb165a3200d",
    "publishedAt": [
-    "2026-10-10T09:31:45.039993"
+    "2026-10-11T16:38:45.031194"
    ],
-   "referenceNumber": "DVM - BP - SPEELPLAATS_01",
+   "referenceNumber": "ISB-PRI-2026-10-03_pub01",
    "sentAt": [
-    "2026-10-10T09:31:45.039993"
+    "2026-10-11T16:38:45.031194"
    ],
    "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-27T10:00:00"
+   "vaultSubmissionDeadline": "2026-11-16T14:00:00"
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "72000000-5",
+     "code": "32321200-1",
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Services de technologies de l'information, conseil, développement de logiciels, internet et appui"
+       "language": "EN",
+       "text": "Audio-visual equipment"
       },
       {
        "language": "NL",
-       "text": "IT-diensten: adviezen, softwareontwikkeling, internet en ondersteuning"
+       "text": "Audiovisuele uitrusting"
       },
       {
-       "language": "EN",
-       "text": "IT services: consulting, software development, Internet and support"
+       "language": "FR",
+       "text": "Équipement audiovisuel"
       },
       {
        "language": "DE",
-       "text": "IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung"
+       "text": "Audiovisuelle Geräte"
+      }
+     ]
+    },
+    {
+     "code": "32321300-2",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Audio-visual materials"
+      },
+      {
+       "language": "FR",
+       "text": "Matériel audiovisuel"
+      },
+      {
+       "language": "DE",
+       "text": "Audiovisueller Bedarf"
+      },
+      {
+       "language": "NL",
+       "text": "Audiovisuele materialen"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "72000000-5",
+    "code": "32321300-2",
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Services de technologies de l'information, conseil, développement de logiciels, internet et appui"
-     },
-     {
-      "language": "NL",
-      "text": "IT-diensten: adviezen, softwareontwikkeling, internet en ondersteuning"
-     },
-     {
       "language": "EN",
-      "text": "IT services: consulting, software development, Internet and support"
+      "text": "Audio-visual materials"
+     },
+     {
+      "language": "FR",
+      "text": "Matériel audiovisuel"
      },
      {
       "language": "DE",
-      "text": "IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung"
+      "text": "Audiovisueller Bedarf"
+     },
+     {
+      "language": "NL",
+      "text": "Audiovisuele materialen"
      }
     ]
    },
-   "dispatchDate": "2026-10-10",
+   "dispatchDate": "2026-10-11",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
       "language": "NL",
-      "text": "Deze opdracht heeft betrekking op de vernieuwing en modernisering van de EnergyWatchers-website, evenals op de actualisering en uitbreiding van de inhoud en de redactionele ondersteuning ervan. De opdracht heeft tot doel de website verder te ontwikkelen tot een toegankelijke, gebruiksvriendelijke, actuele en betrouwbare referentietool voor energie-informatie, gericht op burgers en kleine ondernemingen in België. "
-     },
-     {
-      "language": "FR",
-      "text": "Le présent marché porte sur la refonte et la modernisation du site web EnergyWatchers, ainsi que sur la mise à jour, l’enrichissement et l’assistance éditoriale de son contenu. Il vise à développer davantage le site afin d’en faire un outil de référence accessible, convivial, actuel et fiable en matière d’information énergétique, destiné aux citoyens et aux petites entreprises en Belgique. "
+      "text": "Raamovereenkomst voor de aankoop van verbruiksgoederen theatertechnisch materiaal"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "DGEM/CC/LD/26031",
+    "number": "GAC_2026_03941",
     "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "DGEM/CC/LD/26031",
+    "referenceNumber": "GAC_2026_03941",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
-      "language": "FR",
-      "text": "La refonte, la modernisation et l’assistance éditoriale du site web EnergyWatchers"
-     },
-     {
       "language": "NL",
-      "text": "Het herontwerp, de modernisering en de redactionele ondersteuning van de EnergyWatchers-website"
+      "text": "Raamovereenkomst voor de aankoop van verbruiksgoederen theatertechnisch materiaal"
      }
     ]
    },
-   "insertionDate": "2026-10-10",
+   "insertionDate": "2026-10-11",
    "lots": [
     {
      "descriptions": [
       {
        "language": "NL",
-       "text": "Deze opdracht heeft betrekking op de vernieuwing en modernisering van de EnergyWatchers-website, evenals op de actualisering en uitbreiding van de inhoud en de redactionele ondersteuning ervan. De opdracht heeft tot doel de website verder te ontwikkelen tot een toegankelijke, gebruiksvriendelijke, actuele en betrouwbare referentietool voor energie-informatie, gericht op burgers en kleine ondernemingen in België. "
-      },
-      {
-       "language": "FR",
-       "text": "Le présent marché porte sur la refonte et la modernisation du site web EnergyWatchers, ainsi que sur la mise à jour, l’enrichissement et l’assistance éditoriale de son contenu. Il vise à développer davantage le site afin d’en faire un outil de référence accessible, convivial, actuel et fiable en matière d’information énergétique, destiné aux citoyens et aux petites entreprises en Belgique. "
+       "text": "Raamovereenkomst voor de aankoop van verbruiksgoederen theatertechnisch materiaal"
       }
      ],
      "reservedExecution": [
@@ -430,96 +433,63 @@
      "titles": [
       {
        "language": "NL",
-       "text": "DGEM/CC/LD/26031 - 2 - Actualisering van de inhoud en redactionele ondersteuning"
-      },
-      {
-       "language": "FR",
-       "text": "DGEM/CC/LD/26031 - 2 - Mise à jour du contenu et assistance éditoriale"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Deze opdracht heeft betrekking op de vernieuwing en modernisering van de EnergyWatchers-website, evenals op de actualisering en uitbreiding van de inhoud en de redactionele ondersteuning ervan. De opdracht heeft tot doel de website verder te ontwikkelen tot een toegankelijke, gebruiksvriendelijke, actuele en betrouwbare referentietool voor energie-informatie, gericht op burgers en kleine ondernemingen in België. "
-      },
-      {
-       "language": "FR",
-       "text": "Le présent marché porte sur la refonte et la modernisation du site web EnergyWatchers, ainsi que sur la mise à jour, l’enrichissement et l’assistance éditoriale de son contenu. Il vise à développer davantage le site afin d’en faire un outil de référence accessible, convivial, actuel et fiable en matière d’information énergétique, destiné aux citoyens et aux petites entreprises en Belgique. "
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "DGEM/CC/LD/26031 - 1 - Refonte et modernisation technique du site web EnergyWatchers"
-      },
-      {
-       "language": "NL",
-       "text": "DGEM/CC/LD/26031 - 1 - Vernieuwing en technische modernisering van de EnergyWatchers-website"
+       "text": "GAC_2026_03941 - 1"
       }
      ]
     }
    ],
    "natures": [
-    "SERVICES"
+    "SUPPLIES"
    ],
    "noticeIds": [
-    "19ae6793-33b0-47d0-8109-8cc093b091e1"
+    "8e11f36c-35ec-4d1f-8d67-cb2813e8b5e2"
    ],
    "noticeSubType": "16",
    "nutsCodes": [
-    "BE100"
+    "BE211"
    ],
    "organisation": {
-    "organisationId": 18,
+    "organisationId": 711,
     "organisationNames": [
      {
-      "language": "DE",
-      "text": "SPF Santé Publique Sécurité de la Chaîne Alimentaire et Environnement"
-     },
-     {
       "language": "FR",
-      "text": "SPF Santé Publique Sécurité de la Chaîne Alimentaire et Environnement"
+      "text": "Antwerpen "
      },
      {
       "language": "EN",
-      "text": "SPF Santé Publique Sécurité de la Chaîne Alimentaire et Environnement"
+      "text": "Antwerpen "
+     },
+     {
+      "language": "DE",
+      "text": "Antwerpen "
      },
      {
       "language": "NL",
-      "text": "FOD Volksgezondheid Veiligheid van de Voedselketen en Leefmilieu"
+      "text": "Antwerpen "
      }
     ],
-    "tree": "200002.200008.18"
+    "tree": "200004.200021.711"
    },
-   "procedureId": "40128ab4-e708-4c15-80d0-f817dd5840e5",
-   "publicationDate": "2026-10-10",
+   "procedureId": "452b96b9-c0e9-46d5-b92e-35ab6b003bd9",
+   "publicationDate": "2026-10-11",
    "publicationLanguages": [
-    "NL",
-    "FR"
+    "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "DGEM/CC/LD/26031_pub01"
+    "GAC_2026_03941_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "3fe9965f-2054-4de7-94ff-ab3bf0a1b16e",
+   "publicationWorkspaceId": "e09d8b1b-0e13-4975-9714-93c6fb7b94f8",
    "publishedAt": [
-    "2026-10-10T16:16:45.03631"
+    "2026-10-11T17:00:45.045626"
    ],
-   "referenceNumber": "DGEM/CC/LD/26031_pub01",
+   "referenceNumber": "GAC_2026_03941_pub01",
    "sentAt": [
-    "2026-10-10T16:16:45.03631"
+    "2026-10-11T17:00:45.045626"
    ],
    "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-09T11:00:00"
+   "vaultSubmissionDeadline": "2026-11-03T10:00:00"
   }
  ],
  "exemple_attribution": [
