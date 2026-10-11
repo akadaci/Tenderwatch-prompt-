@@ -3,40 +3,27 @@
   "totalCount": 291263
  },
  "types": [
-  "ACTIVE|10|['SERVICES']",
-  "ACTIVE|10|['SUPPLIES']",
-  "ACTIVE|11|['WORKS']",
   "ACTIVE|16|['SERVICES']",
-  "ACTIVE|16|['SUPPLIES', 'SERVICES']",
   "ACTIVE|16|['SUPPLIES']",
-  "ACTIVE|16|['WORKS', 'SUPPLIES']",
   "ACTIVE|16|['WORKS']",
-  "ACTIVE|17|['SERVICES']",
   "ACTIVE|17|['WORKS']",
   "ACTIVE|19|['SERVICES']",
   "ACTIVE|20|['SERVICES']",
   "ACTIVE|20|['WORKS']",
   "ACTIVE|21|['WORKS']",
   "ACTIVE|23|['WORKS']",
-  "ACTIVE|25|['SUPPLIES']",
-  "ACTIVE|25|['WORKS']",
   "ACTIVE|29|['SERVICES']",
-  "ACTIVE|29|['SUPPLIES', 'SERVICES']",
   "ACTIVE|29|['SUPPLIES']",
   "ACTIVE|29|['WORKS']",
   "ACTIVE|30|['SERVICES']",
-  "ACTIVE|30|['SUPPLIES']",
   "ACTIVE|33|['SERVICES']",
   "ACTIVE|33|['SUPPLIES']",
-  "ACTIVE|33|['WORKS']",
   "ACTIVE|34|['SUPPLIES']",
-  "ACTIVE|E1|['SERVICES']",
   "ACTIVE|E3|['SERVICES']",
   "ACTIVE|E3|['SUPPLIES']",
   "ACTIVE|E3|['WORKS']",
   "ACTIVE|E4|['SERVICES']",
   "ACTIVE|E4|['SUPPLIES']",
-  "ACTIVE|E4|['WORKS', 'SUPPLIES']",
   "ACTIVE|E4|['WORKS']"
  ],
  "exemples": [
@@ -443,11 +430,11 @@
      "titles": [
       {
        "language": "FR",
-       "text": "DGEM/CC/LD/26031 - 1 - Refonte et modernisation technique du site web EnergyWatchers"
+       "text": "DGEM/CC/LD/26031 - 2 - Mise à jour du contenu et assistance éditoriale"
       },
       {
        "language": "NL",
-       "text": "DGEM/CC/LD/26031 - 1 - Vernieuwing en technische modernisering van de EnergyWatchers-website"
+       "text": "DGEM/CC/LD/26031 - 2 - Actualisering van de inhoud en redactionele ondersteuning"
       }
      ]
     },
@@ -470,12 +457,12 @@
      ],
      "titles": [
       {
-       "language": "NL",
-       "text": "DGEM/CC/LD/26031 - 2 - Actualisering van de inhoud en redactionele ondersteuning"
+       "language": "FR",
+       "text": "DGEM/CC/LD/26031 - 1 - Refonte et modernisation technique du site web EnergyWatchers"
       },
       {
-       "language": "FR",
-       "text": "DGEM/CC/LD/26031 - 2 - Mise à jour du contenu et assistance éditoriale"
+       "language": "NL",
+       "text": "DGEM/CC/LD/26031 - 1 - Vernieuwing en technische modernisering van de EnergyWatchers-website"
       }
      ]
     }
