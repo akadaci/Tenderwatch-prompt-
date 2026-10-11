@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 291267
+  "totalCount": 291273
  },
  "types": [
   "ACTIVE|16|['SERVICES']",
@@ -32,154 +32,6 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45331000-6",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Travaux d'installation de matériel de chauffage, de ventilation et de climatisation"
-      },
-      {
-       "language": "EN",
-       "text": "Heating, ventilation and air-conditioning installation work"
-      },
-      {
-       "language": "DE",
-       "text": "Installation von Heizungs-, Lüftungs- und Klimaanlagen"
-      },
-      {
-       "language": "NL",
-       "text": "Installeren van verwarming, ventilatie en airconditioning"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "45331000-6",
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Travaux d'installation de matériel de chauffage, de ventilation et de climatisation"
-     },
-     {
-      "language": "EN",
-      "text": "Heating, ventilation and air-conditioning installation work"
-     },
-     {
-      "language": "DE",
-      "text": "Installation von Heizungs-, Lüftungs- und Klimaanlagen"
-     },
-     {
-      "language": "NL",
-      "text": "Installeren van verwarming, ventilatie en airconditioning"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-11",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Momenteel gebeurt de sanitair warm water productie op de campus van Kortenberg met boilers of warmtewisselaars in de onderstations aangesloten op het intern warmtenet.  In 12 onderstations zullen deze boilers of warmtewisselaars vervangen worden door nieuwe boilers die verwarmt worden met hoge temperatuurwarmtepompen.  De werken omvatten ondermeer : • De afbraak van de bestaande installatie • Het leveren en plaatsen van buitenunits inclusief de omgevingswerken • Het leveren en plaatsen van de binneninstallatie (buffervaten, boilers, leidingwerk, automatisatie, e.a.)   • Het uitvoeren van bouwkundige werken ten behoeve voorgaande.  • De hydraulische inregeling van de installatie • Het overschakelen van de bestaande naar de nieuwe sanitair warmwaterproductie met een minimale onderbreking (Maximaal een viertal uur) • Het onderhoud tijdens de waarborgperiode De opdracht wordt verder omschreven onder het hoofdstuk ‘Technische bepalingen’ "
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP1AV-20/6028/TD965",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "PPP1AV-20/6028/TD965",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Plaatsen HT warmtepompen voor sanitair warm water"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-09",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Momenteel gebeurt de sanitair warm water productie op de campus van Kortenberg met boilers of warmtewisselaars in de onderstations aangesloten op het intern warmtenet.  In 12 onderstations zullen deze boilers of warmtewisselaars vervangen worden door nieuwe boilers die verwarmt worden met hoge temperatuurwarmtepompen.  De werken omvatten ondermeer : • De afbraak van de bestaande installatie • Het leveren en plaatsen van buitenunits inclusief de omgevingswerken • Het leveren en plaatsen van de binneninstallatie (buffervaten, boilers, leidingwerk, automatisatie, e.a.)   • Het uitvoeren van bouwkundige werken ten behoeve voorgaande.  • De hydraulische inregeling van de installatie • Het overschakelen van de bestaande naar de nieuwe sanitair warmwaterproductie met een minimale onderbreking (Maximaal een viertal uur) • Het onderhoud tijdens de waarborgperiode De opdracht wordt verder omschreven onder het hoofdstuk ‘Technische bepalingen’ "
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Plaatsen HT warmtepompen voor sanitair warm water"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "WORKS"
-   ],
-   "noticeIds": [
-    "2134700d-9134-4e4c-96c7-57e6cb4ac377",
-    "48289067-0955-4bb0-b5e6-a9f0c5105277",
-    "cd84fd59-713d-408f-98fd-f3b20c8adbfc"
-   ],
-   "noticeSubType": "16",
-   "nutsCodes": [
-    "BE242"
-   ],
-   "organisation": {
-    "organisationId": 2963,
-    "organisationNames": [
-     {
-      "language": "DE",
-      "text": "Z.org KU Leuven"
-     },
-     {
-      "language": "NL",
-      "text": "Z.org KU Leuven"
-     },
-     {
-      "language": "FR",
-      "text": "Z.org KU Leuven"
-     },
-     {
-      "language": "EN",
-      "text": "Z.org KU Leuven"
-     }
-    ],
-    "tree": "200004.200032.2963"
-   },
-   "procedureId": "9a08e729-7373-4a91-9b1f-f1a359254927",
-   "publicationDate": "2026-10-11",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP1AV-20/6028/TD965_001"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "5b5b149f-ecab-4f16-84cc-8b65549a5224",
-   "publishedAt": [
-    "2026-10-10T15:35:45.017111",
-    "2026-10-11T12:03:45.020363",
-    "2026-10-09T16:12:45.015621"
-   ],
-   "referenceNumber": "PPP1AV-20/6028/TD965_001",
-   "sentAt": [
-    "2026-10-10T15:35:45.017111",
-    "2026-10-11T12:03:45.020363",
-    "2026-10-09T16:12:45.015621"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-20T10:00:00"
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
      "code": "45000000-7",
      "descriptions": [
       {
@@ -197,6 +49,27 @@
       {
        "language": "EN",
        "text": "Construction work"
+      }
+     ]
+    },
+    {
+     "code": "45112700-2",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Werkzaamheden voor landschapsarchitectuur"
+      },
+      {
+       "language": "DE",
+       "text": "Landschaftsgärtnerische Arbeiten"
+      },
+      {
+       "language": "EN",
+       "text": "Landscaping work"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux d'aménagement paysager"
       }
      ]
     }
@@ -222,44 +95,34 @@
      }
     ]
    },
-   "dispatchDate": "2026-10-11",
+   "dispatchDate": "2026-10-12",
    "dossier": {
-    "accreditations": {
-     "G": 2
-    },
+    "accreditations": {},
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Ontharding, vergroening en inrichting speelplaats lagere school Prinsenhof Grimbergen"
+      "language": "FR",
+      "text": "Le présent marché est un marché de travaux qui comprend l’exécution des travaux suivants (description générale des travaux à réaliser) :  Marché de travaux en deux lots ayant pour objet la construction d’une salle des sports, Place de la Gare à 6567 LABUISSIERE (MERBES-LE-CHÂTEAU) : - Lot 1 : Hall de sport (lot PILOTE) - Lot 2 : Abords (lot piloté) Les travaux décrits ci-dessus ne sont pas exhaustifs. Le détail des travaux est repris dans les clauses techniques et le métré récapitulatif annexé au cahier spécial des charges. Il est expressément stipulé que l’entrepreneur doit exécuter les travaux suivant les règles de l’art. Les lieux d’exécution sont définis comme suit (voir également plans et métrés) :  Place de la gare à 6567 LABUISSIERE (MERBES-LE-CHÂTEAU) Code CPV :  45000000-7 – Travaux de construction 45112700-2 – Travaux d'aménagement paysager Numéro de marché : C2014/003 Tous les matériaux à mettre en œuvre dans le présent marché sont neufs et sont à fournir par l’entrepreneur, à moins que le cahier spécial des charges ne le précise autrement. "
      }
     ],
-    "enterpriseCategories": [
-     {
-      "categoryCode": "G",
-      "levels": [
-       1,
-       2
-      ]
-     }
-    ],
+    "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "ISB-PRI-2026-10-03",
+    "number": "BE-56900-C2014/003",
     "procurementProcedureType": "OPEN",
-    "referenceNumber": "ISB-PRI-2026-10-03",
+    "referenceNumber": "BE-56900-C2014/003",
     "titles": [
      {
-      "language": "NL",
-      "text": "heraanleg en vergroening speelplaats Lagere school Prinsenhof"
+      "language": "FR",
+      "text": "Marché de travaux en 2 lots ayant pour objet la construction d’une salle des sports, Place de la Gare à 6567 LABUISSIERE (MERBES-LE-CHÂTEAU)"
      }
     ]
    },
-   "insertionDate": "2026-10-11",
+   "insertionDate": "2026-10-12",
    "lots": [
     {
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Ontharding, vergroening en inrichting speelplaats lagere school Prinsenhof Grimbergen"
+       "language": "FR",
+       "text": "Lot 2 : Abords (lot piloté)"
       }
      ],
      "reservedExecution": [
@@ -270,8 +133,28 @@
      ],
      "titles": [
       {
-       "language": "NL",
-       "text": "ISB-PRI-2026-10-03 - 1"
+       "language": "FR",
+       "text": "BE-56900-C2014/003 - Lot 2"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Lot 1 : Hall de sport (lot PILOTE)"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "BE-56900-C2014/003 - Lot 1"
       }
      ]
     }
@@ -280,150 +163,139 @@
     "WORKS"
    ],
    "noticeIds": [
-    "0c79f6b4-a2c5-4b2c-b224-31fa957651b9"
+    "bdd66670-257c-499e-a657-2a4acb0af000"
    ],
-   "noticeSubType": "16",
+   "noticeSubType": "E4",
    "nutsCodes": [
-    "BE241"
+    "BE32D"
    ],
    "organisation": {
-    "organisationId": 2884,
+    "organisationId": 547,
     "organisationNames": [
      {
+      "language": "DE",
+      "text": "Igretec"
+     },
+     {
       "language": "NL",
-      "text": "VZW IGNATIUS SCHOLEN IN BEWEGING"
+      "text": "Igretec"
      },
      {
       "language": "FR",
-      "text": "VZW IGNATIUS SCHOLEN IN BEWEGING"
+      "text": "Igretec"
      },
      {
       "language": "EN",
-      "text": "VZW IGNATIUS SCHOLEN IN BEWEGING"
-     },
-     {
-      "language": "DE",
-      "text": "VZW IGNATIUS SCHOLEN IN BEWEGING"
+      "text": "Igretec"
      }
     ],
-    "tree": "200004.200026.2884"
+    "tree": "200004.200023.547"
    },
-   "procedureId": "d5ffba1c-7ac4-439a-b379-9b706c67ba0b",
-   "publicationDate": "2026-10-11",
+   "procedureId": "5ec7eed9-5ce6-408c-bd8a-458b4facc2d6",
+   "publicationDate": "2026-10-12",
    "publicationLanguages": [
-    "NL"
+    "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "ISB-PRI-2026-10-03_pub01"
+    "BE-56900-C2014/003_pub02"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "4e9f45ec-4c4b-42c3-87cb-0bb165a3200d",
+   "publicationWorkspaceId": "d10949c3-f9db-4f6e-a3aa-d274091c793b",
    "publishedAt": [
-    "2026-10-11T16:38:45.031194"
+    "2026-10-12T00:00:45.01932"
    ],
-   "referenceNumber": "ISB-PRI-2026-10-03_pub01",
+   "referenceNumber": "BE-56900-C2014/003_pub02",
    "sentAt": [
-    "2026-10-11T16:38:45.031194"
+    "2026-10-12T00:00:45.01932"
    ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-16T14:00:00"
+   "tedPublished": false
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "32321200-1",
+     "code": "33192000-2",
      "descriptions": [
       {
        "language": "EN",
-       "text": "Audio-visual equipment"
-      },
-      {
-       "language": "NL",
-       "text": "Audiovisuele uitrusting"
+       "text": "Medical furniture"
       },
       {
        "language": "FR",
-       "text": "Équipement audiovisuel"
+       "text": "Mobilier médical"
       },
       {
        "language": "DE",
-       "text": "Audiovisuelle Geräte"
-      }
-     ]
-    },
-    {
-     "code": "32321300-2",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Audio-visual materials"
-      },
-      {
-       "language": "FR",
-       "text": "Matériel audiovisuel"
-      },
-      {
-       "language": "DE",
-       "text": "Audiovisueller Bedarf"
+       "text": "Möbel für ärztliche Zwecke"
       },
       {
        "language": "NL",
-       "text": "Audiovisuele materialen"
+       "text": "Meubilair voor medische doeleinden"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "32321300-2",
+    "code": "33192000-2",
     "descriptions": [
      {
       "language": "EN",
-      "text": "Audio-visual materials"
+      "text": "Medical furniture"
      },
      {
       "language": "FR",
-      "text": "Matériel audiovisuel"
+      "text": "Mobilier médical"
      },
      {
       "language": "DE",
-      "text": "Audiovisueller Bedarf"
+      "text": "Möbel für ärztliche Zwecke"
      },
      {
       "language": "NL",
-      "text": "Audiovisuele materialen"
+      "text": "Meubilair voor medische doeleinden"
      }
     ]
    },
-   "dispatchDate": "2026-10-11",
+   "dispatchDate": "2026-10-12",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
+      "language": "FR",
+      "text": "Livraison et installation de fauteuils de dialyse"
+     },
+     {
       "language": "NL",
-      "text": "Raamovereenkomst voor de aankoop van verbruiksgoederen theatertechnisch materiaal"
+      "text": "Levering en installatie van dialysefauteuils"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "GAC_2026_03941",
+    "number": "PPP0KC-2734/6854/HECAPP/2026/PNDAPP/fauteuils de dialyse",
     "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "GAC_2026_03941",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "referenceNumber": "PPP0KC-2734/6854/HECAPP/2026/PNDAPP/fauteuils de dialyse",
     "titles": [
      {
+      "language": "FR",
+      "text": "Livraison et installation de fauteuils de dialyse"
+     },
+     {
       "language": "NL",
-      "text": "Raamovereenkomst voor de aankoop van verbruiksgoederen theatertechnisch materiaal"
+      "text": "Levering en installatie van dialysefauteuils"
      }
     ]
    },
-   "insertionDate": "2026-10-11",
+   "insertionDate": "2026-10-12",
    "lots": [
     {
      "descriptions": [
       {
+       "language": "FR",
+       "text": "Livraison et installation de fauteuils de dialyse"
+      },
+      {
        "language": "NL",
-       "text": "Raamovereenkomst voor de aankoop van verbruiksgoederen theatertechnisch materiaal"
+       "text": "Levering en installatie van dialysefauteuils"
       }
      ],
      "reservedExecution": [
@@ -434,8 +306,12 @@
      ],
      "titles": [
       {
+       "language": "FR",
+       "text": "Livraison et installation de fauteuils de dialyse"
+      },
+      {
        "language": "NL",
-       "text": "GAC_2026_03941 - 1"
+       "text": "Levering en installatie van dialysefauteuils"
       }
      ]
     }
@@ -444,163 +320,133 @@
     "SUPPLIES"
    ],
    "noticeIds": [
-    "8e11f36c-35ec-4d1f-8d67-cb2813e8b5e2"
+    "aa5b0155-23ef-4994-8c5d-922c4ee5f95e"
    ],
    "noticeSubType": "16",
    "nutsCodes": [
-    "BE211"
+    "BE100"
    ],
    "organisation": {
-    "organisationId": 711,
+    "organisationId": 28021,
     "organisationNames": [
      {
       "language": "FR",
-      "text": "Antwerpen "
-     },
-     {
-      "language": "EN",
-      "text": "Antwerpen "
-     },
-     {
-      "language": "DE",
-      "text": "Antwerpen "
+      "text": "Healthcare Public Procurement"
      },
      {
       "language": "NL",
-      "text": "Antwerpen "
+      "text": "Healthcare Public Procurement"
      }
     ],
-    "tree": "200004.200021.711"
+    "tree": "200004.200027.846.28021"
    },
-   "procedureId": "452b96b9-c0e9-46d5-b92e-35ab6b003bd9",
-   "publicationDate": "2026-10-11",
+   "procedureId": "2a6fd347-f8fb-44a9-8624-9f03b57208c8",
+   "publicationDate": "2026-10-12",
    "publicationLanguages": [
-    "NL"
+    "NL",
+    "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "GAC_2026_03941_pub01"
+    "PPP0KC-2734/6854/HECAPP/2026/PNDAPP/fauteuils de dialyse_001"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "e09d8b1b-0e13-4975-9714-93c6fb7b94f8",
+   "publicationWorkspaceId": "ba3c619d-6692-4e91-8289-26f8573ab6f4",
    "publishedAt": [
-    "2026-10-11T17:00:45.045626"
+    "2026-10-12T00:00:46.411909"
    ],
-   "referenceNumber": "GAC_2026_03941_pub01",
+   "referenceNumber": "PPP0KC-2734/6854/HECAPP/2026/PNDAPP/fauteuils de dialyse_001",
    "sentAt": [
-    "2026-10-11T17:00:45.045626"
+    "2026-10-12T00:00:46.411909"
    ],
    "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-03T10:00:00"
-  }
- ],
- "exemple_attribution": [
+   "vaultSubmissionDeadline": "2026-11-09T11:00:00"
+  },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "50700000-2",
+     "code": "45442110-1",
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Reparatie en onderhoud van uitrusting in gebouwen"
-      },
-      {
        "language": "EN",
-       "text": "Repair and maintenance services of building installations"
+       "text": "Painting work of buildings"
       },
       {
        "language": "DE",
-       "text": "Reparatur und Wartung von Einrichtungen in Gebäuden"
+       "text": "Anstricharbeiten in Gebäuden"
       },
-      {
-       "language": "FR",
-       "text": "Services de réparation et d'entretien d'installations de bâtiments"
-      }
-     ]
-    },
-    {
-     "code": "31000000-6",
-     "descriptions": [
       {
        "language": "NL",
-       "text": "Elektrische machines, apparaten, uitrusting en verbruiksartikelen, verlichting"
+       "text": "Schilderen van gebouwen"
       },
       {
        "language": "FR",
-       "text": "Machines, appareils, équipements et consommables électriques, éclairage"
-      },
-      {
-       "language": "DE",
-       "text": "Elektrische Maschinen, Geräte, Ausstattung und Verbrauchsartikel, Beleuchtung"
-      },
-      {
-       "language": "EN",
-       "text": "Electrical machinery, apparatus, equipment and consumables, lighting"
+       "text": "Travaux de peinture de bâtiments"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "50700000-2",
+    "code": "45442110-1",
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Reparatie en onderhoud van uitrusting in gebouwen"
-     },
-     {
       "language": "EN",
-      "text": "Repair and maintenance services of building installations"
+      "text": "Painting work of buildings"
      },
      {
       "language": "DE",
-      "text": "Reparatur und Wartung von Einrichtungen in Gebäuden"
+      "text": "Anstricharbeiten in Gebäuden"
+     },
+     {
+      "language": "NL",
+      "text": "Schilderen van gebouwen"
      },
      {
       "language": "FR",
-      "text": "Services de réparation et d'entretien d'installations de bâtiments"
+      "text": "Travaux de peinture de bâtiments"
      }
     ]
    },
-   "dispatchDate": "2026-10-11",
+   "dispatchDate": "2026-10-12",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Entretien des UPS statiques et leurs batteries"
+      "language": "NL",
+      "text": "Schilderwerk berging keuken"
      },
      {
-      "language": "NL",
-      "text": "Onderhoud van de Statieke UPS en hun batterijen"
+      "language": "FR",
+      "text": "Travaux de peinture débarras et cuisine"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "BZAE/P&O6.2/GV/2026-04",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "BZAE/P&O6.2/GV/2026-04",
+    "number": "RDGB-BRU-2026-220069-schilderwerk berging-007-BC",
+    "procurementProcedureType": "LOW_VALUE_T",
+    "referenceNumber": "RDGB-BRU-2026-220069-schilderwerk berging-007-BC",
     "titles": [
      {
-      "language": "FR",
-      "text": "Entretien des groupes statiques no-break et leurs batteries"
+      "language": "NL",
+      "text": "Brussel – Koninklijk Kasteel - Schilderwerk berging keuken"
      },
      {
-      "language": "NL",
-      "text": "Onderhoud van statische no-break systemen en hun batterijen"
+      "language": "FR",
+      "text": "Bruxelles – Chateau royal - Travaux de peinture débarras et cuisine"
      }
     ]
    },
-   "insertionDate": "2026-10-11",
+   "insertionDate": "2026-10-12",
    "lots": [
     {
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Entretien UPS avec batteries "
+       "language": "NL",
+       "text": "Schilderwerk berging keuken  "
       },
       {
-       "language": "NL",
-       "text": "Onderhoud UPS met batterijen"
+       "language": "FR",
+       "text": "Travaux de peinture débarras et cuisine "
       }
      ],
      "reservedExecution": [
@@ -612,66 +458,249 @@
      "titles": [
       {
        "language": "NL",
-       "text": "BZAE/P&O6.2/GV/2026-04 - 1"
+       "text": "RDGB-BRU-2026-220069-schilderwerk berging-007-BC - 1"
       },
       {
        "language": "FR",
-       "text": "BZAE/P&O6.2/GV/2026-04 - 1"
+       "text": "RDGB-BRU-2026-220069-schilderwerk berging-007-BC - 1"
       }
      ]
     }
    ],
    "natures": [
-    "SUPPLIES",
-    "SERVICES"
+    "WORKS"
    ],
    "noticeIds": [
-    "363b478b-45cf-469c-b36f-54bb1f4bc56b"
+    "001e7830-9386-474c-9c7c-cfbdabedb5e8"
    ],
-   "noticeSubType": "29",
+   "noticeSubType": "E3",
    "nutsCodes": [
     "BE100"
    ],
    "organisation": {
-    "organisationId": 19,
+    "organisationId": 4895,
     "organisationNames": [
      {
+      "language": "FR",
+      "text": "Régie des Bâtiments - Région Bruxelles"
+     },
+     {
       "language": "NL",
-      "text": "FOD Buitenlandse Zaken"
+      "text": "Regie der Gebouwen - Regio Brussel"
      },
      {
       "language": "DE",
-      "text": "SPF Affaires Etrangères"
-     },
-     {
-      "language": "FR",
-      "text": "SPF Affaires Etrangères"
+      "text": "Régie des Bâtiments - Région Bruxelles"
      },
      {
       "language": "EN",
-      "text": "SPF Affaires Etrangères"
+      "text": "Buildingsagency - Région Bruxelles"
      }
     ],
-    "tree": "200002.200008.19"
+    "tree": "200002.200010.5.4895"
    },
-   "procedureId": "9549799f-001e-43de-94e3-2efc21b11ee1",
-   "publicationDate": "2026-10-11",
+   "procedureId": "c61eb249-fca0-4c98-b48d-764a22687597",
+   "publicationDate": "2026-10-12",
    "publicationLanguages": [
     "NL",
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "BZAE/P&O6.2/GV/2026-04_pub02"
+    "RDGB-BRU-2026-220069-schilderwerk berging-007-BC_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "35b498c3-02be-40d8-b1c0-387c9e9001d4",
+   "publicationWorkspaceId": "f50d7e27-6015-4ba7-9d68-5c02400fa85c",
    "publishedAt": [
-    "2026-10-11T22:05:45.02398"
+    "2026-10-12T00:00:45.803056"
    ],
-   "referenceNumber": "BZAE/P&O6.2/GV/2026-04_pub02",
+   "referenceNumber": "RDGB-BRU-2026-220069-schilderwerk berging-007-BC_pub01",
    "sentAt": [
-    "2026-10-11T22:05:45.02398"
+    "2026-10-12T00:00:45.803056"
+   ],
+   "tedPublished": false
+  }
+ ],
+ "exemple_attribution": [
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45000000-7",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Bouwwerkzaamheden"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de construction"
+      },
+      {
+       "language": "DE",
+       "text": "Bauarbeiten"
+      },
+      {
+       "language": "EN",
+       "text": "Construction work"
+      }
+     ]
+    },
+    {
+     "code": "45112700-2",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Werkzaamheden voor landschapsarchitectuur"
+      },
+      {
+       "language": "DE",
+       "text": "Landschaftsgärtnerische Arbeiten"
+      },
+      {
+       "language": "EN",
+       "text": "Landscaping work"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux d'aménagement paysager"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45000000-7",
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Bouwwerkzaamheden"
+     },
+     {
+      "language": "FR",
+      "text": "Travaux de construction"
+     },
+     {
+      "language": "DE",
+      "text": "Bauarbeiten"
+     },
+     {
+      "language": "EN",
+      "text": "Construction work"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-12",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Le présent marché est un marché de travaux qui comprend l’exécution des travaux suivants (description générale des travaux à réaliser) :  Marché de travaux en deux lots ayant pour objet la construction d’une salle des sports, Place de la Gare à 6567 LABUISSIERE (MERBES-LE-CHÂTEAU) : - Lot 1 : Hall de sport (lot PILOTE) - Lot 2 : Abords (lot piloté) Les travaux décrits ci-dessus ne sont pas exhaustifs. Le détail des travaux est repris dans les clauses techniques et le métré récapitulatif annexé au cahier spécial des charges. Il est expressément stipulé que l’entrepreneur doit exécuter les travaux suivant les règles de l’art. Les lieux d’exécution sont définis comme suit (voir également plans et métrés) :  Place de la gare à 6567 LABUISSIERE (MERBES-LE-CHÂTEAU) Code CPV :  45000000-7 – Travaux de construction 45112700-2 – Travaux d'aménagement paysager Numéro de marché : C2014/003 Tous les matériaux à mettre en œuvre dans le présent marché sont neufs et sont à fournir par l’entrepreneur, à moins que le cahier spécial des charges ne le précise autrement. "
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "BE-56900-C2014/003",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "BE-56900-C2014/003",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Marché de travaux en 2 lots ayant pour objet la construction d’une salle des sports, Place de la Gare à 6567 LABUISSIERE (MERBES-LE-CHÂTEAU)"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-12",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Lot 2 : Abords (lot piloté)"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "BE-56900-C2014/003 - Lot 2"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Lot 1 : Hall de sport (lot PILOTE)"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "BE-56900-C2014/003 - Lot 1"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "bdd66670-257c-499e-a657-2a4acb0af000"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE32D"
+   ],
+   "organisation": {
+    "organisationId": 547,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "Igretec"
+     },
+     {
+      "language": "NL",
+      "text": "Igretec"
+     },
+     {
+      "language": "FR",
+      "text": "Igretec"
+     },
+     {
+      "language": "EN",
+      "text": "Igretec"
+     }
+    ],
+    "tree": "200004.200023.547"
+   },
+   "procedureId": "5ec7eed9-5ce6-408c-bd8a-458b4facc2d6",
+   "publicationDate": "2026-10-12",
+   "publicationLanguages": [
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "BE-56900-C2014/003_pub02"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "d10949c3-f9db-4f6e-a3aa-d274091c793b",
+   "publishedAt": [
+    "2026-10-12T00:00:45.01932"
+   ],
+   "referenceNumber": "BE-56900-C2014/003_pub02",
+   "sentAt": [
+    "2026-10-12T00:00:45.01932"
    ],
    "tedPublished": false
   }
