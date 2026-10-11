@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 291266
+  "totalCount": 291267
  },
  "types": [
   "ACTIVE|16|['SERVICES']",
@@ -13,6 +13,7 @@
   "ACTIVE|21|['WORKS']",
   "ACTIVE|23|['WORKS']",
   "ACTIVE|29|['SERVICES']",
+  "ACTIVE|29|['SUPPLIES', 'SERVICES']",
   "ACTIVE|29|['SUPPLIES']",
   "ACTIVE|29|['WORKS']",
   "ACTIVE|30|['SERVICES']",
@@ -497,136 +498,180 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "66114000-2",
+     "code": "50700000-2",
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Services de leasing financier"
-      },
-      {
-       "language": "DE",
-       "text": "Finanzierungs-Leasing"
+       "language": "NL",
+       "text": "Reparatie en onderhoud van uitrusting in gebouwen"
       },
       {
        "language": "EN",
-       "text": "Financial leasing services"
+       "text": "Repair and maintenance services of building installations"
       },
       {
+       "language": "DE",
+       "text": "Reparatur und Wartung von Einrichtungen in Gebäuden"
+      },
+      {
+       "language": "FR",
+       "text": "Services de réparation et d'entretien d'installations de bâtiments"
+      }
+     ]
+    },
+    {
+     "code": "31000000-6",
+     "descriptions": [
+      {
        "language": "NL",
-       "text": "Financiële leasing"
+       "text": "Elektrische machines, apparaten, uitrusting en verbruiksartikelen, verlichting"
+      },
+      {
+       "language": "FR",
+       "text": "Machines, appareils, équipements et consommables électriques, éclairage"
+      },
+      {
+       "language": "DE",
+       "text": "Elektrische Maschinen, Geräte, Ausstattung und Verbrauchsartikel, Beleuchtung"
+      },
+      {
+       "language": "EN",
+       "text": "Electrical machinery, apparatus, equipment and consumables, lighting"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "66114000-2",
+    "code": "50700000-2",
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Services de leasing financier"
-     },
-     {
-      "language": "DE",
-      "text": "Finanzierungs-Leasing"
+      "language": "NL",
+      "text": "Reparatie en onderhoud van uitrusting in gebouwen"
      },
      {
       "language": "EN",
-      "text": "Financial leasing services"
+      "text": "Repair and maintenance services of building installations"
      },
      {
-      "language": "NL",
-      "text": "Financiële leasing"
+      "language": "DE",
+      "text": "Reparatur und Wartung von Einrichtungen in Gebäuden"
+     },
+     {
+      "language": "FR",
+      "text": "Services de réparation et d'entretien d'installations de bâtiments"
      }
     ]
    },
-   "dispatchDate": "2026-10-09",
+   "dispatchDate": "2026-10-11",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
+      "language": "FR",
+      "text": "Entretien des UPS statiques et leurs batteries"
+     },
+     {
       "language": "NL",
-      "text": "Deze overheidsopdracht betreft een raamovereenkomst met één leasemaatschappij  voor het leasen van fietsen (stadsfiets, racefiets, elektrische fiets met ondersteuning tot 25 km / u, elektrische fiets met ondersteuning tot 45 km / u, elektrische bakfiets, gewone plooifiets, elektrische plooifiets, …) voor de medewerkers van het ziekenhuis volgens het principe van loonruil of eindejaarspremie?. Het leasen gebeurt op vrijwillige basis.  Het ziekenhuis beoogt een voor haar kostenneutrale operatie uit te voeren, met een minimale administratieve last, zowel voor haar eigen werking als voor de werknemer die gebruik wenst te maken van het systeem. Het moet bovendien mogelijk zijn om op het einde van de leaseperiode de fietsen individueel over te nemen aan een vooraf gekende restwaarde. In het aanbod moeten onder meer inbegrepen zijn: pechverhelping, jaarlijks onderhoud en een verzekering tegen diefstal, bij schade en rechtsbijstand.  De raamovereenkomst zelf wordt afgesloten voor een periode van 4 jaar.  De looptijd van de individuele lease contracten bedraagt 36 maanden.  "
+      "text": "Onderhoud van de Statieke UPS en hun batterijen"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP0QX-333/6116/AZSINTMARIA/2026-008",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP0QX-333/6116/AZSINTMARIA/2026-008",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "number": "BZAE/P&O6.2/GV/2026-04",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "BZAE/P&O6.2/GV/2026-04",
     "titles": [
      {
+      "language": "FR",
+      "text": "Entretien des groupes statiques no-break et leurs batteries"
+     },
+     {
       "language": "NL",
-      "text": "Raamovereenkomst voor fietsleasing"
+      "text": "Onderhoud van statische no-break systemen en hun batterijen"
      }
     ]
    },
-   "insertionDate": "2026-10-09",
+   "insertionDate": "2026-10-11",
    "lots": [
     {
      "descriptions": [
       {
+       "language": "FR",
+       "text": "Entretien UPS avec batteries "
+      },
+      {
        "language": "NL",
-       "text": "Deze overheidsopdracht betreft een raamovereenkomst met één leasemaatschappij  voor het leasen van fietsen (stadsfiets, racefiets, elektrische fiets met ondersteuning tot 25 km / u, elektrische fiets met ondersteuning tot 45 km / u, elektrische bakfiets, gewone plooifiets, elektrische plooifiets, …) voor de medewerkers van het ziekenhuis volgens het principe van loonruil of eindejaarspremie?. Het leasen gebeurt op vrijwillige basis.  Het ziekenhuis beoogt een voor haar kostenneutrale operatie uit te voeren, met een minimale administratieve last, zowel voor haar eigen werking als voor de werknemer die gebruik wenst te maken van het systeem. Het moet bovendien mogelijk zijn om op het einde van de leaseperiode de fietsen individueel over te nemen aan een vooraf gekende restwaarde. In het aanbod moeten onder meer inbegrepen zijn: pechverhelping, jaarlijks onderhoud en een verzekering tegen diefstal, bij schade en rechtsbijstand.  De raamovereenkomst zelf wordt afgesloten voor een periode van 4 jaar.  De looptijd van de individuele lease contracten bedraagt 36 maanden.  "
+       "text": "Onderhoud UPS met batterijen"
       }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
      ],
      "titles": [
       {
        "language": "NL",
-       "text": "Raamovereenkomst voor fietsleasing"
+       "text": "BZAE/P&O6.2/GV/2026-04 - 1"
+      },
+      {
+       "language": "FR",
+       "text": "BZAE/P&O6.2/GV/2026-04 - 1"
       }
      ]
     }
    ],
    "natures": [
+    "SUPPLIES",
     "SERVICES"
    ],
    "noticeIds": [
-    "1a781716-0b77-468d-9819-92cf72d1a8f8"
+    "363b478b-45cf-469c-b36f-54bb1f4bc56b"
    ],
-   "noticeSubType": "E4",
+   "noticeSubType": "29",
    "nutsCodes": [
-    "BE241"
+    "BE100"
    ],
    "organisation": {
-    "organisationId": 1295,
+    "organisationId": 19,
     "organisationNames": [
      {
       "language": "NL",
-      "text": "Algemeen Ziekenhuis Sint-Maria Halle"
-     },
-     {
-      "language": "FR",
-      "text": "Algemeen Ziekenhuis Sint-Maria Halle"
-     },
-     {
-      "language": "EN",
-      "text": "Algemeen Ziekenhuis Sint-Maria Halle"
+      "text": "FOD Buitenlandse Zaken"
      },
      {
       "language": "DE",
-      "text": "Algemeen Ziekenhuis Sint-Maria Halle"
+      "text": "SPF Affaires Etrangères"
+     },
+     {
+      "language": "FR",
+      "text": "SPF Affaires Etrangères"
+     },
+     {
+      "language": "EN",
+      "text": "SPF Affaires Etrangères"
      }
     ],
-    "tree": "200004.200027.1295"
+    "tree": "200002.200008.19"
    },
-   "procedureId": "6ff02eb3-7bfd-4133-bf6a-66f5321fe0ef",
-   "publicationDate": "2026-10-09",
+   "procedureId": "9549799f-001e-43de-94e3-2efc21b11ee1",
+   "publicationDate": "2026-10-11",
    "publicationLanguages": [
-    "NL"
+    "NL",
+    "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP0QX-333/6116/AZSINTMARIA/2026-008_003"
+    "BZAE/P&O6.2/GV/2026-04_pub02"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "2230c2a6-95b3-4a7e-ad70-f1b52cf80733",
+   "publicationWorkspaceId": "35b498c3-02be-40d8-b1c0-387c9e9001d4",
    "publishedAt": [
-    "2026-10-09T07:58:45.016072"
+    "2026-10-11T22:05:45.02398"
    ],
-   "referenceNumber": "PPP0QX-333/6116/AZSINTMARIA/2026-008_003",
+   "referenceNumber": "BZAE/P&O6.2/GV/2026-04_pub02",
    "sentAt": [
-    "2026-10-09T07:58:45.016072"
+    "2026-10-11T22:05:45.02398"
    ],
    "tedPublished": false
   }
