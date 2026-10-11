@@ -1,13 +1,11 @@
 {
- "updated": "2026-10-11T15:05:05Z",
+ "updated": "2026-10-11T19:43:37Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 325,
- "kept": 165,
+ "received": 327,
+ "kept": 166,
  "count": 1305,
- "new_ids": [
-  "bda-4e9f45ec-4c4b-42c3-87cb-0bb165a3200d"
- ],
+ "new_ids": [],
  "records": [
   {
    "id": "bda-5b5b149f-ecab-4f16-84cc-8b65549a5224",
@@ -50,6 +48,27 @@
    "procedure": "d5ffba1c-7ac4-439a-b379-9b706c67ba0b",
    "dossier": "ISB-PRI-2026-10-03",
    "first_seen": "2026-10-11T15:05:05Z"
+  },
+  {
+   "id": "bda-754187cc-fe8d-4088-ba7d-8554ccbf6bf7",
+   "source_type": "BDA",
+   "nom": "Marché ponctuel à LEOPOLDSBURG – Camp de Beverlo : Construction d’un auvent pour le stockage des conteneurs de carburant (DFDC)",
+   "lieu": "Limbourg",
+   "mo": "MRMP-I/P - Défense - Direction Générale Material Resources - Division Marchés Publics - Section Infrastructure - Sous-section Programmes",
+   "etape": 4,
+   "source": "https://www.publicprocurement.be/publication-workspaces/754187cc-fe8d-4088-ba7d-8554ccbf6bf7",
+   "verif": "vérifié",
+   "verif_date": "2026-10-11",
+   "preuve": "Bulletin des Adjudications, réf. 26IP036 (avis de marché, sous-type eForms 16), publié le 2026-10-11.",
+   "date_publication": "2026-10-11",
+   "cpv": "45000000",
+   "ted_ref": "",
+   "notes": "Le présent marché public porte sur la modernisation et l’extension des infrastructures destinées au stockage sûr et conforme des conteneurs de la Deployable Fuel Distribution Capacity (DFDC). Les hangars existants B73/8, B73/9 et B73/10 seront démolis et un nouvel auvent d’environ 1.000 m² équipé d’",
+   "first_seen": "2026-10-07T23:29:15Z",
+   "province": "Limbourg",
+   "sur_ted": false,
+   "procedure": "57aed914-344a-44c2-8ea3-1dfae396f8d6",
+   "dossier": "26IP036"
   },
   {
    "id": "bda-ff095759-d9f7-45f5-8f26-1e28ade6b41c",
@@ -1577,7 +1596,7 @@
    "verif_date": "2026-10-11",
    "preuve": "Bulletin des Adjudications, réf. 2026/MAR/MP/968 (avis de marché, sous-type eForms E3), publié le 2026-10-09.",
    "date_publication": "2026-10-09",
-   "cpv": "45000000,45211350,45112700,45330000,45112500,45300000,45317000,45315000,45210000",
+   "cpv": "45000000,45211350,45112700,45330000,45300000,45112500,45317000,45315000,45210000",
    "ted_ref": "",
    "notes": "ECOLE DES FILLES: Rénovation lourde",
    "procedure": "f917644f-2c3f-4da0-b9b3-7c297bbd14a2",
@@ -4523,27 +4542,6 @@
    "sur_ted": false,
    "procedure": "f878c6d5-2d8d-4509-843c-4f7ce0646981",
    "dossier": "PPP069-1221/6161/TRAV2026/08"
-  },
-  {
-   "id": "bda-754187cc-fe8d-4088-ba7d-8554ccbf6bf7",
-   "source_type": "BDA",
-   "nom": "Marché ponctuel à LEOPOLDSBURG – Camp de Beverlo : Construction d’un auvent pour le stockage des conteneurs de carburant (DFDC)",
-   "lieu": "Limbourg",
-   "mo": "MRMP-I/P - Défense - Direction Générale Material Resources - Division Marchés Publics - Section Infrastructure - Sous-section Programmes",
-   "etape": 4,
-   "source": "https://www.publicprocurement.be/publication-workspaces/754187cc-fe8d-4088-ba7d-8554ccbf6bf7",
-   "verif": "vérifié",
-   "verif_date": "2026-10-10",
-   "preuve": "Bulletin des Adjudications, réf. 26IP036 (avis de marché, sous-type eForms 16), publié le 2026-10-07.",
-   "date_publication": "2026-10-07",
-   "cpv": "45000000",
-   "ted_ref": "",
-   "notes": "Le présent marché public porte sur la modernisation et l’extension des infrastructures destinées au stockage sûr et conforme des conteneurs de la Deployable Fuel Distribution Capacity (DFDC). Les hangars existants B73/8, B73/9 et B73/10 seront démolis et un nouvel auvent d’environ 1.000 m² équipé d’",
-   "first_seen": "2026-10-07T23:29:15Z",
-   "province": "Limbourg",
-   "sur_ted": false,
-   "procedure": "57aed914-344a-44c2-8ea3-1dfae396f8d6",
-   "dossier": "26IP036"
   },
   {
    "id": "bda-600ad5cf-4504-4fb8-ab0e-3365151f3074",
