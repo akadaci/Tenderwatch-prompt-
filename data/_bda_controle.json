@@ -1,11 +1,15 @@
 {
  "meta": {
-  "totalCount": 291273
+  "totalCount": 291324
  },
  "types": [
   "ACTIVE|16|['SERVICES']",
+  "ACTIVE|16|['SUPPLIES', 'SERVICES']",
   "ACTIVE|16|['SUPPLIES']",
+  "ACTIVE|16|['WORKS', 'SUPPLIES']",
   "ACTIVE|16|['WORKS']",
+  "ACTIVE|17|['SERVICES']",
+  "ACTIVE|17|['SUPPLIES']",
   "ACTIVE|17|['WORKS']",
   "ACTIVE|19|['SERVICES']",
   "ACTIVE|20|['SERVICES']",
@@ -14,6 +18,7 @@
   "ACTIVE|29|['SUPPLIES', 'SERVICES']",
   "ACTIVE|29|['SUPPLIES']",
   "ACTIVE|29|['WORKS']",
+  "ACTIVE|30|['SERVICES']",
   "ACTIVE|33|['SERVICES']",
   "ACTIVE|33|['SUPPLIES']",
   "ACTIVE|34|['SUPPLIES']",
@@ -29,6 +34,183 @@
   {
    "cpvAdditionalCodes": [
     {
+     "code": "45211310-5",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Travaux de construction de salles de bains"
+      },
+      {
+       "language": "NL",
+       "text": "Bouwen van badkamers"
+      },
+      {
+       "language": "EN",
+       "text": "Bathrooms construction work"
+      },
+      {
+       "language": "DE",
+       "text": "Bau von Badezimmern"
+      }
+     ]
+    },
+    {
+     "code": "45430000-0",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Floor and wall covering work"
+      },
+      {
+       "language": "FR",
+       "text": "Revêtement de sols et de murs"
+      },
+      {
+       "language": "DE",
+       "text": "Bodenbelags- und Wandverkleidungsarbeiten"
+      },
+      {
+       "language": "NL",
+       "text": "Aanbrengen van vloer- en wandbekleding"
+      }
+     ]
+    },
+    {
+     "code": "45400000-1",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Travaux de parachèvement de bâtiment"
+      },
+      {
+       "language": "EN",
+       "text": "Building completion work"
+      },
+      {
+       "language": "DE",
+       "text": "Baufertigstellung"
+      },
+      {
+       "language": "NL",
+       "text": "Afwerking van gebouwen"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45400000-1",
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Travaux de parachèvement de bâtiment"
+     },
+     {
+      "language": "EN",
+      "text": "Building completion work"
+     },
+     {
+      "language": "DE",
+      "text": "Baufertigstellung"
+     },
+     {
+      "language": "NL",
+      "text": "Afwerking van gebouwen"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-12",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Het lokaal bestuur Wijnegem nodigt u uit om een offerte in te dienen voor de herstelling van de badkamervloeren in zeven appartementen.   De inschrijver dient een vaste totaalprijs in te dienen voor de volledige opdracht, zoals omschreven in de opdrachtdocumenten.  Offertes waarvan de totaalprijs uitsluitend wordt opgebouwd op basis van regieprestaties, dagprijzen of open posten, worden niet in aanmerking genomen.   De offerte wordt zo gedetailleerd mogelijk opgesteld. Voor elke afzonderlijke post vermeldt de inschrijver een specifieke deelprijs, zodat een transparante en controleerbare prijsopbouw wordt bekomen.   Wij kijken uit naar uw offerte en danken u bij voorbaat voor uw interesse in deze opdracht. "
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP074-1672/6078/WGM/2026/027",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP074-1672/6078/WGM/2026/027",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Vernieuwing van de badkamervloeren in 7 appartementen van het Bloesempad"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-12",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Het lokaal bestuur Wijnegem nodigt u uit om een offerte in te dienen voor de herstelling van de badkamervloeren in zeven appartementen.   De inschrijver dient een vaste totaalprijs in te dienen voor de volledige opdracht, zoals omschreven in de opdrachtdocumenten.  Offertes waarvan de totaalprijs uitsluitend wordt opgebouwd op basis van regieprestaties, dagprijzen of open posten, worden niet in aanmerking genomen.   De offerte wordt zo gedetailleerd mogelijk opgesteld. Voor elke afzonderlijke post vermeldt de inschrijver een specifieke deelprijs, zodat een transparante en controleerbare prijsopbouw wordt bekomen.   Wij kijken uit naar uw offerte en danken u bij voorbaat voor uw interesse in deze opdracht. "
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Vernieuwing van de badkamervloeren in 7 appartementen van het Bloesempad"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "f8ee996d-6acc-4b97-84e0-69ebb6051867"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE211"
+   ],
+   "organisation": {
+    "organisationId": 756,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "Wijnegem"
+     },
+     {
+      "language": "NL",
+      "text": "Wijnegem"
+     },
+     {
+      "language": "FR",
+      "text": "Wijnegem"
+     },
+     {
+      "language": "EN",
+      "text": "Wijnegem"
+     }
+    ],
+    "tree": "200004.200021.756"
+   },
+   "procedureId": "3474a7f6-9b5e-4e8f-8c8a-223900b2b281",
+   "publicationDate": "2026-10-12",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP074-1672/6078/WGM/2026/027_002"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "052e159b-8aaf-47cc-b587-789b51a729ba",
+   "publishedAt": [
+    "2026-10-12T00:00:46.172663"
+   ],
+   "referenceNumber": "PPP074-1672/6078/WGM/2026/027_002",
+   "sentAt": [
+    "2026-10-12T00:00:46.172663"
+   ],
+   "tedPublished": false
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
      "code": "45000000-7",
      "descriptions": [
       {
@@ -211,45 +393,45 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "33192000-2",
+     "code": "45454100-5",
      "descriptions": [
       {
        "language": "EN",
-       "text": "Medical furniture"
+       "text": "Restoration work"
       },
       {
        "language": "FR",
-       "text": "Mobilier médical"
+       "text": "Travaux de réfection"
       },
       {
        "language": "DE",
-       "text": "Möbel für ärztliche Zwecke"
+       "text": "Mit Instandsetzungsarbeiten verbundene Arbeiten"
       },
       {
        "language": "NL",
-       "text": "Meubilair voor medische doeleinden"
+       "text": "Restauratiewerkzaamheden"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "33192000-2",
+    "code": "45454100-5",
     "descriptions": [
      {
       "language": "EN",
-      "text": "Medical furniture"
+      "text": "Restoration work"
      },
      {
       "language": "FR",
-      "text": "Mobilier médical"
+      "text": "Travaux de réfection"
      },
      {
       "language": "DE",
-      "text": "Möbel für ärztliche Zwecke"
+      "text": "Mit Instandsetzungsarbeiten verbundene Arbeiten"
      },
      {
       "language": "NL",
-      "text": "Meubilair voor medische doeleinden"
+      "text": "Restauratiewerkzaamheden"
      }
     ]
    },
@@ -258,178 +440,19 @@
     "accreditations": {},
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Livraison et installation de fauteuils de dialyse"
-     },
-     {
       "language": "NL",
-      "text": "Levering en installatie van dialysefauteuils"
+      "text": "Zoutleeuw Lakenhalle -  Restauratie glas-in-lood en buitenschrijnwerk"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP0KC-2734/6854/HECAPP/2026/PNDAPP/fauteuils de dialyse",
+    "number": "PPP104-464/6099/318.104",
     "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "PPP0KC-2734/6854/HECAPP/2026/PNDAPP/fauteuils de dialyse",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "Livraison et installation de fauteuils de dialyse"
-     },
-     {
-      "language": "NL",
-      "text": "Levering en installatie van dialysefauteuils"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-12",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Livraison et installation de fauteuils de dialyse"
-      },
-      {
-       "language": "NL",
-       "text": "Levering en installatie van dialysefauteuils"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Livraison et installation de fauteuils de dialyse"
-      },
-      {
-       "language": "NL",
-       "text": "Levering en installatie van dialysefauteuils"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SUPPLIES"
-   ],
-   "noticeIds": [
-    "aa5b0155-23ef-4994-8c5d-922c4ee5f95e"
-   ],
-   "noticeSubType": "16",
-   "nutsCodes": [
-    "BE100"
-   ],
-   "organisation": {
-    "organisationId": 28021,
-    "organisationNames": [
-     {
-      "language": "FR",
-      "text": "Healthcare Public Procurement"
-     },
-     {
-      "language": "NL",
-      "text": "Healthcare Public Procurement"
-     }
-    ],
-    "tree": "200004.200027.846.28021"
-   },
-   "procedureId": "2a6fd347-f8fb-44a9-8624-9f03b57208c8",
-   "publicationDate": "2026-10-12",
-   "publicationLanguages": [
-    "NL",
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP0KC-2734/6854/HECAPP/2026/PNDAPP/fauteuils de dialyse_001"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "ba3c619d-6692-4e91-8289-26f8573ab6f4",
-   "publishedAt": [
-    "2026-10-12T00:00:46.411909"
-   ],
-   "referenceNumber": "PPP0KC-2734/6854/HECAPP/2026/PNDAPP/fauteuils de dialyse_001",
-   "sentAt": [
-    "2026-10-12T00:00:46.411909"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-09T11:00:00"
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "45442110-1",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Painting work of buildings"
-      },
-      {
-       "language": "DE",
-       "text": "Anstricharbeiten in Gebäuden"
-      },
-      {
-       "language": "NL",
-       "text": "Schilderen van gebouwen"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de peinture de bâtiments"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "45442110-1",
-    "descriptions": [
-     {
-      "language": "EN",
-      "text": "Painting work of buildings"
-     },
-     {
-      "language": "DE",
-      "text": "Anstricharbeiten in Gebäuden"
-     },
-     {
-      "language": "NL",
-      "text": "Schilderen van gebouwen"
-     },
-     {
-      "language": "FR",
-      "text": "Travaux de peinture de bâtiments"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-12",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Schilderwerk berging keuken"
-     },
-     {
-      "language": "FR",
-      "text": "Travaux de peinture débarras et cuisine"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "RDGB-BRU-2026-220069-schilderwerk berging-007-BC",
-    "procurementProcedureType": "LOW_VALUE_T",
-    "referenceNumber": "RDGB-BRU-2026-220069-schilderwerk berging-007-BC",
+    "referenceNumber": "PPP104-464/6099/318.104",
     "titles": [
      {
       "language": "NL",
-      "text": "Brussel – Koninklijk Kasteel - Schilderwerk berging keuken"
-     },
-     {
-      "language": "FR",
-      "text": "Bruxelles – Chateau royal - Travaux de peinture débarras et cuisine"
+      "text": "Zoutleeuw Lakenhalle -  Restauratie glas-in-lood en buitenschrijnwerk"
      }
     ]
    },
@@ -439,11 +462,7 @@
      "descriptions": [
       {
        "language": "NL",
-       "text": "Schilderwerk berging keuken  "
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de peinture débarras et cuisine "
+       "text": "Zoutleeuw Lakenhalle -  Restauratie glas-in-lood en buitenschrijnwerk"
       }
      ],
      "reservedExecution": [
@@ -455,11 +474,7 @@
      "titles": [
       {
        "language": "NL",
-       "text": "RDGB-BRU-2026-220069-schilderwerk berging-007-BC - 1"
-      },
-      {
-       "language": "FR",
-       "text": "RDGB-BRU-2026-220069-schilderwerk berging-007-BC - 1"
+       "text": "Zoutleeuw Lakenhalle -  Restauratie glas-in-lood en buitenschrijnwerk"
       }
      ]
     }
@@ -468,120 +483,141 @@
     "WORKS"
    ],
    "noticeIds": [
-    "001e7830-9386-474c-9c7c-cfbdabedb5e8"
+    "f870fca4-4bae-4f6b-8c49-a3f19623f1b1"
    ],
-   "noticeSubType": "E3",
+   "noticeSubType": "16",
    "nutsCodes": [
-    "BE100"
+    "BE242"
    ],
    "organisation": {
-    "organisationId": 4895,
+    "organisationId": 1785,
     "organisationNames": [
      {
-      "language": "FR",
-      "text": "Régie des Bâtiments - Région Bruxelles"
-     },
-     {
       "language": "NL",
-      "text": "Regie der Gebouwen - Regio Brussel"
+      "text": "Dienstverlenende vereniging voor de Ruimtelijke Ordening en de Economische-Sociale Expansie van het Arrondissement Leuven"
      },
      {
-      "language": "DE",
-      "text": "Régie des Bâtiments - Région Bruxelles"
+      "language": "FR",
+      "text": "Dienstverlenende vereniging voor de Ruimtelijke Ordening en de Economische-Sociale Expansie van het Arrondissement Leuven"
      },
      {
       "language": "EN",
-      "text": "Buildingsagency - Région Bruxelles"
+      "text": "Dienstverlenende vereniging voor de Ruimtelijke Ordening en de Economische-Sociale Expansie van het Arrondissement Leuven"
+     },
+     {
+      "language": "DE",
+      "text": "Dienstverlenende vereniging voor de Ruimtelijke Ordening en de Economische-Sociale Expansie van het Arrondissement Leuven"
      }
     ],
-    "tree": "200002.200010.5.4895"
+    "tree": "200004.200023.1785"
    },
-   "procedureId": "c61eb249-fca0-4c98-b48d-764a22687597",
+   "procedureId": "91876e03-ab79-4d27-b61c-90f2576b2189",
    "publicationDate": "2026-10-12",
    "publicationLanguages": [
-    "NL",
-    "FR"
+    "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "RDGB-BRU-2026-220069-schilderwerk berging-007-BC_pub01"
+    "PPP104-464/6099/318.104_001"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "f50d7e27-6015-4ba7-9d68-5c02400fa85c",
+   "publicationWorkspaceId": "fbe823d4-1ddb-41fe-beee-b64ecde75ff4",
    "publishedAt": [
-    "2026-10-12T00:00:45.803056"
+    "2026-10-12T00:00:45.446611"
    ],
-   "referenceNumber": "RDGB-BRU-2026-220069-schilderwerk berging-007-BC_pub01",
+   "referenceNumber": "PPP104-464/6099/318.104_001",
    "sentAt": [
-    "2026-10-12T00:00:45.803056"
+    "2026-10-12T00:00:45.446611"
    ],
-   "tedPublished": false
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2027-11-08T10:00:00"
   }
  ],
  "exemple_attribution": [
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45000000-7",
+     "code": "45211310-5",
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Bouwwerkzaamheden"
-      },
-      {
        "language": "FR",
-       "text": "Travaux de construction"
+       "text": "Travaux de construction de salles de bains"
       },
       {
-       "language": "DE",
-       "text": "Bauarbeiten"
+       "language": "NL",
+       "text": "Bouwen van badkamers"
       },
       {
        "language": "EN",
-       "text": "Construction work"
+       "text": "Bathrooms construction work"
+      },
+      {
+       "language": "DE",
+       "text": "Bau von Badezimmern"
       }
      ]
     },
     {
-     "code": "45112700-2",
+     "code": "45430000-0",
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Werkzaamheden voor landschapsarchitectuur"
-      },
-      {
-       "language": "DE",
-       "text": "Landschaftsgärtnerische Arbeiten"
-      },
-      {
        "language": "EN",
-       "text": "Landscaping work"
+       "text": "Floor and wall covering work"
       },
       {
        "language": "FR",
-       "text": "Travaux d'aménagement paysager"
+       "text": "Revêtement de sols et de murs"
+      },
+      {
+       "language": "DE",
+       "text": "Bodenbelags- und Wandverkleidungsarbeiten"
+      },
+      {
+       "language": "NL",
+       "text": "Aanbrengen van vloer- en wandbekleding"
+      }
+     ]
+    },
+    {
+     "code": "45400000-1",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Travaux de parachèvement de bâtiment"
+      },
+      {
+       "language": "EN",
+       "text": "Building completion work"
+      },
+      {
+       "language": "DE",
+       "text": "Baufertigstellung"
+      },
+      {
+       "language": "NL",
+       "text": "Afwerking van gebouwen"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45000000-7",
+    "code": "45400000-1",
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Bouwwerkzaamheden"
-     },
-     {
       "language": "FR",
-      "text": "Travaux de construction"
-     },
-     {
-      "language": "DE",
-      "text": "Bauarbeiten"
+      "text": "Travaux de parachèvement de bâtiment"
      },
      {
       "language": "EN",
-      "text": "Construction work"
+      "text": "Building completion work"
+     },
+     {
+      "language": "DE",
+      "text": "Baufertigstellung"
+     },
+     {
+      "language": "NL",
+      "text": "Afwerking van gebouwen"
      }
     ]
    },
@@ -590,19 +626,19 @@
     "accreditations": {},
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Le présent marché est un marché de travaux qui comprend l’exécution des travaux suivants (description générale des travaux à réaliser) :  Marché de travaux en deux lots ayant pour objet la construction d’une salle des sports, Place de la Gare à 6567 LABUISSIERE (MERBES-LE-CHÂTEAU) : - Lot 1 : Hall de sport (lot PILOTE) - Lot 2 : Abords (lot piloté) Les travaux décrits ci-dessus ne sont pas exhaustifs. Le détail des travaux est repris dans les clauses techniques et le métré récapitulatif annexé au cahier spécial des charges. Il est expressément stipulé que l’entrepreneur doit exécuter les travaux suivant les règles de l’art. Les lieux d’exécution sont définis comme suit (voir également plans et métrés) :  Place de la gare à 6567 LABUISSIERE (MERBES-LE-CHÂTEAU) Code CPV :  45000000-7 – Travaux de construction 45112700-2 – Travaux d'aménagement paysager Numéro de marché : C2014/003 Tous les matériaux à mettre en œuvre dans le présent marché sont neufs et sont à fournir par l’entrepreneur, à moins que le cahier spécial des charges ne le précise autrement. "
+      "language": "NL",
+      "text": "Het lokaal bestuur Wijnegem nodigt u uit om een offerte in te dienen voor de herstelling van de badkamervloeren in zeven appartementen.   De inschrijver dient een vaste totaalprijs in te dienen voor de volledige opdracht, zoals omschreven in de opdrachtdocumenten.  Offertes waarvan de totaalprijs uitsluitend wordt opgebouwd op basis van regieprestaties, dagprijzen of open posten, worden niet in aanmerking genomen.   De offerte wordt zo gedetailleerd mogelijk opgesteld. Voor elke afzonderlijke post vermeldt de inschrijver een specifieke deelprijs, zodat een transparante en controleerbare prijsopbouw wordt bekomen.   Wij kijken uit naar uw offerte en danken u bij voorbaat voor uw interesse in deze opdracht. "
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "BE-56900-C2014/003",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "BE-56900-C2014/003",
+    "number": "PPP074-1672/6078/WGM/2026/027",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP074-1672/6078/WGM/2026/027",
     "titles": [
      {
-      "language": "FR",
-      "text": "Marché de travaux en 2 lots ayant pour objet la construction d’une salle des sports, Place de la Gare à 6567 LABUISSIERE (MERBES-LE-CHÂTEAU)"
+      "language": "NL",
+      "text": "Vernieuwing van de badkamervloeren in 7 appartementen van het Bloesempad"
      }
     ]
    },
@@ -611,40 +647,14 @@
     {
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Lot 2 : Abords (lot piloté)"
+       "language": "NL",
+       "text": "Het lokaal bestuur Wijnegem nodigt u uit om een offerte in te dienen voor de herstelling van de badkamervloeren in zeven appartementen.   De inschrijver dient een vaste totaalprijs in te dienen voor de volledige opdracht, zoals omschreven in de opdrachtdocumenten.  Offertes waarvan de totaalprijs uitsluitend wordt opgebouwd op basis van regieprestaties, dagprijzen of open posten, worden niet in aanmerking genomen.   De offerte wordt zo gedetailleerd mogelijk opgesteld. Voor elke afzonderlijke post vermeldt de inschrijver een specifieke deelprijs, zodat een transparante en controleerbare prijsopbouw wordt bekomen.   Wij kijken uit naar uw offerte en danken u bij voorbaat voor uw interesse in deze opdracht. "
       }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
      ],
      "titles": [
       {
-       "language": "FR",
-       "text": "BE-56900-C2014/003 - Lot 2"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Lot 1 : Hall de sport (lot PILOTE)"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "BE-56900-C2014/003 - Lot 1"
+       "language": "NL",
+       "text": "Vernieuwing van de badkamervloeren in 7 appartementen van het Bloesempad"
       }
      ]
     }
@@ -653,51 +663,51 @@
     "WORKS"
    ],
    "noticeIds": [
-    "bdd66670-257c-499e-a657-2a4acb0af000"
+    "f8ee996d-6acc-4b97-84e0-69ebb6051867"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE32D"
+    "BE211"
    ],
    "organisation": {
-    "organisationId": 547,
+    "organisationId": 756,
     "organisationNames": [
      {
       "language": "DE",
-      "text": "Igretec"
+      "text": "Wijnegem"
      },
      {
       "language": "NL",
-      "text": "Igretec"
+      "text": "Wijnegem"
      },
      {
       "language": "FR",
-      "text": "Igretec"
+      "text": "Wijnegem"
      },
      {
       "language": "EN",
-      "text": "Igretec"
+      "text": "Wijnegem"
      }
     ],
-    "tree": "200004.200023.547"
+    "tree": "200004.200021.756"
    },
-   "procedureId": "5ec7eed9-5ce6-408c-bd8a-458b4facc2d6",
+   "procedureId": "3474a7f6-9b5e-4e8f-8c8a-223900b2b281",
    "publicationDate": "2026-10-12",
    "publicationLanguages": [
-    "FR"
+    "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "BE-56900-C2014/003_pub02"
+    "PPP074-1672/6078/WGM/2026/027_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "d10949c3-f9db-4f6e-a3aa-d274091c793b",
+   "publicationWorkspaceId": "052e159b-8aaf-47cc-b587-789b51a729ba",
    "publishedAt": [
-    "2026-10-12T00:00:45.01932"
+    "2026-10-12T00:00:46.172663"
    ],
-   "referenceNumber": "BE-56900-C2014/003_pub02",
+   "referenceNumber": "PPP074-1672/6078/WGM/2026/027_002",
    "sentAt": [
-    "2026-10-12T00:00:45.01932"
+    "2026-10-12T00:00:46.172663"
    ],
    "tedPublished": false
   }
