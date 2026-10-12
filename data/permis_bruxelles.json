@@ -1,12 +1,48 @@
 {
- "updated": "2026-10-12T09:46:04Z",
+ "updated": "2026-10-12T12:05:54Z",
  "source": "urban.brussels NOVA (WFS)",
  "days_back": 3,
- "received": 29,
- "kept": 0,
- "count": 69,
- "new_ids": [],
+ "received": 30,
+ "kept": 3,
+ "count": 72,
+ "new_ids": [
+  "nova-11/PFU/2048694",
+  "nova-04/PU/2048662",
+  "nova-09/PU/2048554"
+ ],
  "records": [
+  {
+   "id": "nova-11/PFU/2048694",
+   "source_type": "Permis",
+   "nom": "Permis d'urbanisme unique délivré par le FD",
+   "lieu": "Rue Herkoliers 35, 1081 Koekelberg",
+   "type": "Permis d'urbanisme unique délivré par le FD",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='11/PFU/2048694'",
+   "verif": "vérifié",
+   "verif_date": "2026-10-12",
+   "preuve": "Demande de permis 11/PFU/2048694 reçue le 2026-10-12 (urban.brussels, service NOVA), surface projetée 3451 m².",
+   "date_publication": "2026-10-12",
+   "notes": "Autorité : BUP",
+   "first_seen": "2026-10-12T12:05:54Z"
+  },
+  {
+   "id": "nova-04/PU/2048662",
+   "source_type": "Permis",
+   "nom": "Demande de permis d’urbanisme pour la transformation, rénovation et la mise en conformité des logements dans un immeuble de logements. Les nouveaux volumes envisagés seront ventilés et conforme aux rè",
+   "lieu": "Rue Jacobs-Fontaine 54, 1020 Bruxelles",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='04/PU/2048662'",
+   "verif": "vérifié",
+   "verif_date": "2026-10-12",
+   "preuve": "Demande de permis 04/PU/2048662 reçue le 2026-10-11 (urban.brussels, service NOVA), surface projetée 318 m².",
+   "date_publication": "2026-10-11",
+   "notes": "Autorité : Bruxelles",
+   "first_seen": "2026-10-12T12:05:54Z"
+  },
   {
    "id": "nova-19/PU/2048477",
    "source_type": "Permis",
@@ -22,6 +58,22 @@
    "date_publication": "2026-10-09",
    "notes": "Autorité : Woluwe-Saint-Pierre",
    "first_seen": "2026-10-10T06:23:32Z"
+  },
+  {
+   "id": "nova-09/PU/2048554",
+   "source_type": "Permis",
+   "nom": "Mise en conformité d’un bien : Réunification de deux unités de logement situées aux niveaux -1/0 d'un immeuble, en un logement unique de type duplex. Création d'une place de parking extérieure.",
+   "lieu": "Rue Simonis 26, 1050 Ixelles",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='09/PU/2048554'",
+   "verif": "vérifié",
+   "verif_date": "2026-10-12",
+   "preuve": "Demande de permis 09/PU/2048554 reçue le 2026-10-09 (urban.brussels, service NOVA), surface projetée 843 m².",
+   "date_publication": "2026-10-09",
+   "notes": "Autorité : Ixelles",
+   "first_seen": "2026-10-12T12:05:54Z"
   },
   {
    "id": "nova-04/PU/2048327",
