@@ -1,11 +1,14 @@
 {
- "updated": "2026-10-12T04:01:25Z",
+ "updated": "2026-10-12T06:01:30Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
  "received": 187,
- "kept": 80,
- "count": 1316,
- "new_ids": [],
+ "kept": 81,
+ "count": 1318,
+ "new_ids": [
+  "bda-e74d1edb-7c7d-407a-8cd5-538c8fbce307",
+  "bda-59500e60-09a0-40ac-8ad0-f4d2289d196d"
+ ],
  "records": [
   {
    "id": "bda-d10949c3-f9db-4f6e-a3aa-d274091c793b",
@@ -279,6 +282,48 @@
    "procedure": "1a682d41-d4a0-4ce8-90f3-22f89d84d317",
    "dossier": "P26-1737 bis",
    "first_seen": "2026-10-12T02:39:50Z"
+  },
+  {
+   "id": "bda-e74d1edb-7c7d-407a-8cd5-538c8fbce307",
+   "source_type": "BDA",
+   "nom": "Kinrooi, Vlasbrei ea",
+   "lieu": "Limbourg",
+   "province": "Limbourg",
+   "mo": "Fluvius System Operator cvba (Secteurs Classiques)",
+   "etape": 5,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/e74d1edb-7c7d-407a-8cd5-538c8fbce307",
+   "verif": "vérifié",
+   "verif_date": "2026-10-12",
+   "preuve": "Bulletin des Adjudications, réf. R/005481 (attribution, sous-type eForms E4), publié le 2026-10-12.",
+   "date_publication": "2026-10-12",
+   "cpv": "45233120,45232440,45232411",
+   "ted_ref": "",
+   "notes": "De opdracht behelst vooral: - Opbraak van bestaande wegenis - De aanleg van een riolering - Wegherstellingswerken - Aanleg van nieuwe wegenis - Bouwen van pompstation",
+   "procedure": "790705a3-43ee-460f-9904-02c446c48eb8",
+   "dossier": "R/005481",
+   "first_seen": "2026-10-12T06:01:30Z"
+  },
+  {
+   "id": "bda-59500e60-09a0-40ac-8ad0-f4d2289d196d",
+   "source_type": "BDA",
+   "nom": "Veiligheidscoördinator ontwerp-verwezenlijking - heraanleg Heldenplein - Paulusstraat",
+   "lieu": "Flandre-Occidentale",
+   "province": "Flandre-Occidentale",
+   "mo": "Gemeentebedrijf voor Stadsontwikkeling Knokke-Heist",
+   "etape": 2,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/59500e60-09a0-40ac-8ad0-f4d2289d196d",
+   "verif": "vérifié",
+   "verif_date": "2026-10-12",
+   "preuve": "Bulletin des Adjudications, réf. PPP159-384/6072/AGSO/2026/SO-278 (attribution, sous-type eForms E4), publié le 2026-10-12.",
+   "date_publication": "2026-10-12",
+   "cpv": "71000000",
+   "ted_ref": "",
+   "notes": "Veiligheidscoördinator ontwerp-verwezenlijking - heraanleg Heldenplein - Paulusstraat",
+   "procedure": "4b36dc3f-5732-412b-8066-0cd814d2a384",
+   "dossier": "PPP159-384/6072/AGSO/2026/SO-278",
+   "first_seen": "2026-10-12T06:01:30Z"
   },
   {
    "id": "bda-5b5b149f-ecab-4f16-84cc-8b65549a5224",
