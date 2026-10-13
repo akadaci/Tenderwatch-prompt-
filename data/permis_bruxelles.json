@@ -1,13 +1,11 @@
 {
- "updated": "2026-10-13T12:01:45Z",
+ "updated": "2026-10-13T14:01:58Z",
  "source": "urban.brussels NOVA (WFS)",
  "days_back": 3,
- "received": 43,
+ "received": 41,
  "kept": 6,
  "count": 76,
- "new_ids": [
-  "nova-09/PU/2048820"
- ],
+ "new_ids": [],
  "records": [
   {
    "id": "nova-11/PFU/2048694",
