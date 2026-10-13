@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-13T18:01:37Z",
+ "updated": "2026-10-13T20:01:44Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 394,
- "kept": 211,
+ "received": 395,
+ "kept": 212,
  "count": 1461,
  "new_ids": [],
  "records": [
@@ -2589,6 +2589,27 @@
    "procedure": "8a30d6e4-c7d4-49c7-baae-3a80d91d39da",
    "dossier": "BDI25003-10005",
    "first_seen": "2026-10-13T17:48:39Z"
+  },
+  {
+   "id": "bda-68ef97d0-f95b-4059-87fd-78fc0322e562",
+   "source_type": "BDA",
+   "nom": "Restauratie Interieur Kerk Sint-Aldegonde te Mespalre",
+   "lieu": "Flandre-Orientale",
+   "mo": "Kerkfabriek St. Aldegonde Mespelare",
+   "etape": 4,
+   "source": "https://www.publicprocurement.be/publication-workspaces/68ef97d0-f95b-4059-87fd-78fc0322e562",
+   "verif": "vérifié",
+   "verif_date": "2026-10-13",
+   "preuve": "Bulletin des Adjudications, réf. Mesp.Int.01 (avis de marché, sous-type eForms 16), publié le 2026-10-13.",
+   "date_publication": "2026-10-13",
+   "cpv": "45400000",
+   "ted_ref": "",
+   "notes": "Restauratie beschilderingen en houten meubilair",
+   "first_seen": "2026-10-07T23:39:38Z",
+   "province": "Flandre-Orientale",
+   "sur_ted": false,
+   "procedure": "8ccff059-ac6f-4fbd-9891-6ff26568fac0",
+   "dossier": "Mesp.Int.01"
   },
   {
    "id": "bda-d10949c3-f9db-4f6e-a3aa-d274091c793b",
@@ -23253,23 +23274,6 @@
    "cpv": "45232460",
    "ted_ref": "",
    "notes": "De site Releghem Zemst omvat 3 bouwdelen, die met elkaar verbonden zijn via deuren: • het woonzorgcentrum WZC Releghem (volledige sloop voorzien in 2028): geen onderdeel van deze studie. • 25 serviceflats Meerpaal I (bouwjaar 2002) • 26 serviceflats Meerpaal II (bouwjaar 2011) Elk bouwdeel heeft zij",
-   "first_seen": "2026-10-07T23:39:38Z"
-  },
-  {
-   "id": "bda-68ef97d0-f95b-4059-87fd-78fc0322e562",
-   "source_type": "BDA",
-   "nom": "Restauratie Interieur Kerk Sint-Aldegonde te Mespalre",
-   "lieu": "Flandre-Orientale",
-   "mo": "Kerkfabriek St. Aldegonde Mespelare",
-   "etape": 4,
-   "source": "https://www.publicprocurement.be/publication-workspaces/68ef97d0-f95b-4059-87fd-78fc0322e562",
-   "verif": "vérifié",
-   "verif_date": "2026-10-07",
-   "preuve": "Bulletin des Adjudications, réf. Mesp.Int.01 (avis de marché, sous-type eForms 16), publié le 2026-09-26.",
-   "date_publication": "2026-09-26",
-   "cpv": "45400000",
-   "ted_ref": "",
-   "notes": "Restauratie beschilderingen en houten meubilair",
    "first_seen": "2026-10-07T23:39:38Z"
   },
   {
