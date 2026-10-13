@@ -1,13 +1,15 @@
 {
  "meta": {
-  "totalCount": 291470
+  "totalCount": 291500
  },
  "types": [
   "ACTIVE|16|['SERVICES']",
   "ACTIVE|16|['SUPPLIES', 'SERVICES']",
   "ACTIVE|16|['SUPPLIES']",
+  "ACTIVE|16|['WORKS', 'SUPPLIES']",
   "ACTIVE|16|['WORKS']",
   "ACTIVE|17|['SERVICES']",
+  "ACTIVE|17|['SUPPLIES']",
   "ACTIVE|17|['WORKS']",
   "ACTIVE|19|['SERVICES']",
   "ACTIVE|19|['WORKS']",
@@ -16,9 +18,11 @@
   "ACTIVE|29|['SUPPLIES', 'SERVICES']",
   "ACTIVE|29|['SUPPLIES']",
   "ACTIVE|29|['WORKS']",
+  "ACTIVE|30|['SERVICES']",
   "ACTIVE|30|['SUPPLIES']",
   "ACTIVE|33|['SERVICES']",
   "ACTIVE|33|['SUPPLIES']",
+  "ACTIVE|34|['WORKS']",
   "ACTIVE|E1|['SERVICES']",
   "ACTIVE|E1|['SUPPLIES']",
   "ACTIVE|E3|['SERVICES']",
@@ -34,45 +38,45 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45261210-9",
+     "code": "45233142-6",
      "descriptions": [
       {
-       "language": "DE",
-       "text": "Dachdeckarbeiten"
-      },
-      {
-       "language": "NL",
-       "text": "Dakdekkerswerkzaamheden"
-      },
-      {
        "language": "FR",
-       "text": "Travaux de couverture"
+       "text": "Travaux de réparation de routes"
       },
       {
        "language": "EN",
-       "text": "Roof-covering work"
+       "text": "Road-repair works"
+      },
+      {
+       "language": "DE",
+       "text": "Straßenausbesserungsarbeiten"
+      },
+      {
+       "language": "NL",
+       "text": "Herstellen van wegen"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45261210-9",
+    "code": "45233142-6",
     "descriptions": [
      {
-      "language": "DE",
-      "text": "Dachdeckarbeiten"
-     },
-     {
-      "language": "NL",
-      "text": "Dakdekkerswerkzaamheden"
-     },
-     {
       "language": "FR",
-      "text": "Travaux de couverture"
+      "text": "Travaux de réparation de routes"
      },
      {
       "language": "EN",
-      "text": "Roof-covering work"
+      "text": "Road-repair works"
+     },
+     {
+      "language": "DE",
+      "text": "Straßenausbesserungsarbeiten"
+     },
+     {
+      "language": "NL",
+      "text": "Herstellen van wegen"
      }
     ]
    },
@@ -82,28 +86,28 @@
     "descriptions": [
      {
       "language": "FR",
-      "text": "La date de début des travaux sera déterminée en concertation avec le service technique."
+      "text": "Le présent projet a pour objet le réaménagement de 2 voiries à Ogné ( Commune de Sprimont), en ce compris les travaux d’égouttage. Les voiries concernées font partie du réseau IIIa et sont les suivantes : Rue Lileutige à Sprimont, Rue Nicolas Evrard à Sprimont.  Le détail des travaux est repris aux documents du marché."
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP1IT-387/6053/20240013-1",
+    "number": "PPP06C-2066/6116/2026-070",
     "procurementProcedureType": "OPEN",
-    "referenceNumber": "PPP1IT-387/6053/20240013-1",
+    "referenceNumber": "PPP06C-2066/6116/2026-070",
     "titles": [
      {
       "language": "FR",
-      "text": "Travaux d'amélioration énergétique à l'école de Montroeul - Remplacement de la couverture de toiture"
+      "text": "FERI - Réfection de la voirie et l'égouttage de la rue Lileutige et de la rue N. Evrard"
      }
     ]
    },
-   "insertionDate": "2026-10-13",
+   "insertionDate": "2026-09-29",
    "lots": [
     {
      "descriptions": [
       {
        "language": "FR",
-       "text": "La date de début des travaux sera déterminée en concertation avec le service technique."
+       "text": "Le présent projet a pour objet le réaménagement de 2 voiries à Ogné ( Commune de Sprimont), en ce compris les travaux d’égouttage. Les voiries concernées font partie du réseau IIIa et sont les suivantes : Rue Lileutige à Sprimont, Rue Nicolas Evrard à Sprimont.  Le détail des travaux est repris aux documents du marché."
       }
      ],
      "reservedExecution": [
@@ -115,7 +119,7 @@
      "titles": [
       {
        "language": "FR",
-       "text": "Travaux d'amélioration énergétique à l'école de Montroeul - Remplacement de la couverture de toiture"
+       "text": "FERI - Réfection de la voirie et l'égouttage de la rue Lileutige et de la rue N. Evrard"
       }
      ]
     }
@@ -124,97 +128,100 @@
     "WORKS"
    ],
    "noticeIds": [
-    "c1cac7a0-d6ae-4e55-86c8-3048cc5e6af6"
+    "23b021a2-ed84-4189-b621-98cc546a4a74",
+    "f885238f-94cf-4868-91f1-e4d6b1f231d7"
    ],
    "noticeSubType": "16",
    "nutsCodes": [
-    "BE323"
+    "BE332"
    ],
    "organisation": {
-    "organisationId": 2225,
+    "organisationId": 174,
     "organisationNames": [
      {
-      "language": "FR",
-      "text": "Hensies"
-     },
-     {
       "language": "EN",
-      "text": "Hensies"
+      "text": "Sprimont"
      },
      {
       "language": "DE",
-      "text": "Hensies"
+      "text": "Commune de Sprimont"
      },
      {
       "language": "NL",
-      "text": "Hensies"
+      "text": "Sprimont"
+     },
+     {
+      "language": "FR",
+      "text": "Commune de Sprimont"
      }
     ],
-    "tree": "200004.200021.2225"
+    "tree": "200004.200021.174"
    },
-   "procedureId": "a1f6148a-3c6c-4822-996f-fc88d0941ebf",
+   "procedureId": "a99026bf-c374-4035-a4eb-ce89ed291df2",
    "publicationDate": "2026-10-13",
    "publicationLanguages": [
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP1IT-387/6053/20240013-1_001"
+    "PPP06C-2066/6116/2026-070_001"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "a4d01442-3721-4801-ae7b-6cfe1f226899",
+   "publicationWorkspaceId": "ee4fadf4-7d77-488b-8d12-0bfaf0c8b5c8",
    "publishedAt": [
-    "2026-10-13T00:00:46.753034"
+    "2026-10-13T08:13:45.044423",
+    "2026-09-29T08:14:46.023584"
    ],
-   "referenceNumber": "PPP1IT-387/6053/20240013-1_001",
+   "referenceNumber": "PPP06C-2066/6116/2026-070_001",
    "sentAt": [
-    "2026-10-13T00:00:46.753034"
+    "2026-10-13T08:13:45.044423",
+    "2026-09-29T08:14:46.023584"
    ],
    "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-16T10:00:00"
+   "vaultSubmissionDeadline": "2026-11-03T11:00:00"
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "18100000-0",
+     "code": "45212290-5",
      "descriptions": [
       {
-       "language": "EN",
-       "text": "Occupational clothing, special workwear and accessories"
-      },
-      {
-       "language": "FR",
-       "text": "Vêtements professionnels, vêtements de travail spéciaux et accessoires"
+       "language": "NL",
+       "text": "Reparatie en onderhoud van sportfaciliteiten"
       },
       {
        "language": "DE",
-       "text": "Arbeitskleidung, besondere Arbeitsbekleidungen und Zubehör"
+       "text": "Reparatur und Wartung von Sportanlagen"
       },
       {
-       "language": "NL",
-       "text": "Beroepskleding, speciale werkkleding en toebehoren"
+       "language": "EN",
+       "text": "Repair and maintenance work in connection with sports facilities"
+      },
+      {
+       "language": "FR",
+       "text": "Réparation et entretien d'infrastructures sportives"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "18100000-0",
+    "code": "45212290-5",
     "descriptions": [
      {
-      "language": "EN",
-      "text": "Occupational clothing, special workwear and accessories"
-     },
-     {
-      "language": "FR",
-      "text": "Vêtements professionnels, vêtements de travail spéciaux et accessoires"
+      "language": "NL",
+      "text": "Reparatie en onderhoud van sportfaciliteiten"
      },
      {
       "language": "DE",
-      "text": "Arbeitskleidung, besondere Arbeitsbekleidungen und Zubehör"
+      "text": "Reparatur und Wartung von Sportanlagen"
      },
      {
-      "language": "NL",
-      "text": "Beroepskleding, speciale werkkleding en toebehoren"
+      "language": "EN",
+      "text": "Repair and maintenance work in connection with sports facilities"
+     },
+     {
+      "language": "FR",
+      "text": "Réparation et entretien d'infrastructures sportives"
      }
     ]
    },
@@ -223,20 +230,19 @@
     "accreditations": {},
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Accord-cadre mono-attributaire 2026 - 2029 : Acquisition de vêtements et de chaussures de travail pour les auxiliaires professionnel(le)s"
+      "language": "NL",
+      "text": "Betreft een totaalrenovatie van de sportvloer in de grote zaal (28m x 42m) in het sportcentrum TER POLDER te Bredene.  - herstel verzakkingen in de vloer - voorzien van nieuwe vloer voor polyvalent sportgebruik   - voorzien van de nodige belijning voor 2 basketbalterreinen, 3 volleybalterreinen, 1 zaalvoetbalterrein, 6 badmintonterreinen, 1 tennisterrein, 1 handbalterrein - voorzien van de nodige vloerpotten"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP05V-2673/6197/ID 2672 - LMKE/PDEL",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP05V-2673/6197/ID 2672 - LMKE/PDEL",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "number": "PPP0F6-1001/6019/2026/037",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "PPP0F6-1001/6019/2026/037",
     "titles": [
      {
-      "language": "FR",
-      "text": "Accord-cadre mono-attributaire 2026 - 2029 : Acquisition de vêtements et de chaussures de travail pour les auxiliaires professionnel(le)s"
+      "language": "NL",
+      "text": "Sportcentrum TER POLDER - renovatie sportvloer grote zaal"
      }
     ]
    },
@@ -245,112 +251,118 @@
     {
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Accord-cadre mono-attributaire 2026 - 2029 : Acquisition de vêtements et de chaussures de travail pour les auxiliaires professionnel(le)s"
+       "language": "NL",
+       "text": "Betreft een totaalrenovatie van de sportvloer in de grote zaal (28m x 42m) in het sportcentrum TER POLDER te Bredene.  - herstel verzakkingen in de vloer - voorzien van nieuwe vloer voor polyvalent sportgebruik   - voorzien van de nodige belijning voor 2 basketbalterreinen, 3 volleybalterreinen, 1 zaalvoetbalterrein, 6 badmintonterreinen, 1 tennisterrein, 1 handbalterrein - voorzien van de nodige vloerpotten"
       }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
      ],
      "titles": [
       {
-       "language": "FR",
-       "text": "Accord-cadre mono-attributaire 2026 - 2029 : Acquisition de vêtements et de chaussures de travail pour les auxiliaires professionnel(le)s"
+       "language": "NL",
+       "text": "Sportcentrum TER POLDER - renovatie sportvloer grote zaal"
       }
      ]
     }
    ],
    "natures": [
-    "SUPPLIES"
+    "WORKS"
    ],
    "noticeIds": [
-    "68e157e9-16c5-4cc5-903d-cdfb151a6c86"
+    "d16d1a0f-09c1-4459-8ca2-1569b4f55461"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE352"
+    "BE255"
    ],
    "organisation": {
-    "organisationId": 266,
+    "organisationId": 5185,
     "organisationNames": [
      {
-      "language": "DE",
-      "text": "Gembloux"
-     },
-     {
-      "language": "NL",
-      "text": "Gembloux"
-     },
-     {
       "language": "FR",
-      "text": "Gembloux"
+      "text": "Bredene"
      },
      {
       "language": "EN",
-      "text": "Gembloux"
+      "text": "Bredene"
+     },
+     {
+      "language": "DE",
+      "text": "Bredene"
+     },
+     {
+      "language": "NL",
+      "text": "Bredene"
      }
     ],
-    "tree": "200004.200021.266"
+    "tree": "200004.200021.652.5185"
    },
-   "procedureId": "9867aeab-6e7e-4929-857c-224096d8d5a2",
+   "procedureId": "9122d6e8-23a9-46a5-9a0c-2b4b7453f12a",
    "publicationDate": "2026-10-13",
    "publicationLanguages": [
-    "FR"
+    "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP05V-2673/6197/ID 2672 - LMKE/PDEL_002"
+    "PPP0F6-1001/6019/2026/037_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "f6b115ec-7c12-4f2f-a922-7d4e63ad3647",
+   "publicationWorkspaceId": "25b379ad-2de6-4fdb-a27c-0890c9c73895",
    "publishedAt": [
-    "2026-10-13T00:00:46.221268"
+    "2026-10-13T08:42:45.013798"
    ],
-   "referenceNumber": "PPP05V-2673/6197/ID 2672 - LMKE/PDEL_002",
+   "referenceNumber": "PPP0F6-1001/6019/2026/037_002",
    "sentAt": [
-    "2026-10-13T00:00:46.221268"
+    "2026-10-13T08:42:45.013798"
    ],
    "tedPublished": false
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45112710-5",
+     "code": "38000000-5",
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Landschappelijk ontwerp voor groenzones"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux d'aménagement paysager d'espaces verts"
+       "language": "EN",
+       "text": "Laboratory, optical and precision equipments (excl. glasses)"
       },
       {
        "language": "DE",
-       "text": "Landschaftsgärtnerische Bauleistungen für Grünanlagen"
+       "text": "Laborgeräte, optische Geräte und Präzisionsgeräte (außer Gläser)"
       },
       {
-       "language": "EN",
-       "text": "Landscaping work for green areas"
+       "language": "NL",
+       "text": "Laboratoriuminstrumenten, optische en precisie-instrumenten (uitgezonderd brillen)"
+      },
+      {
+       "language": "FR",
+       "text": "Équipements de laboratoire, d'optique et de précision (excepté les lunettes)"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45112710-5",
+    "code": "38000000-5",
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Landschappelijk ontwerp voor groenzones"
+      "language": "EN",
+      "text": "Laboratory, optical and precision equipments (excl. glasses)"
      },
      {
       "language": "FR",
-      "text": "Travaux d'aménagement paysager d'espaces verts"
+      "text": "Équipements de laboratoire, d'optique et de précision (excepté les lunettes)"
+     },
+     {
+      "language": "NL",
+      "text": "Laboratoriuminstrumenten, optische en precisie-instrumenten (uitgezonderd brillen)"
      },
      {
       "language": "DE",
-      "text": "Landschaftsgärtnerische Bauleistungen für Grünanlagen"
-     },
-     {
-      "language": "EN",
-      "text": "Landscaping work for green areas"
+      "text": "Laborgeräte, optische Geräte und Präzisionsgeräte (außer Gläser)"
      }
     ]
    },
@@ -359,19 +371,20 @@
     "accreditations": {},
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Plantations de ligneux indigènes (1) sous forme d’un boisement d’environ 2,5hectares.   Les plantations comportent 3 calibres différents :  - partie 1 sur environ 1/3 de la surface totale : boisement à l’aide d’arbres HT – calibre 8/10 avec une densité de plantation de 400 arbres/hectare (5x5m), soit 360 arbres au total; - partie 2 sur environ 1/3 de la surface totale : boisement à l’aide de baliveaux – calibre 150/175 avec une densité de plantation de 1156 arbres/hectare (3x3m), soit 1.156 arbres au total; - partie 3 sur environ 1/3 de la surface totale : boisement à l’aide de plants forestiers – calibre 100/125 avec une densité de plantation de 2.500 plants/hectare (2x2m), soit 2000 plants au total.  Les plants sont fournis dans le cadre d'un autre marché.  "
+      "language": "NL",
+      "text": "Universiteit Antwerpen wenst een nieuw LC-MS toestel voor de karakterisatie van syntheseproducten, in het bijzonder van synthetische peptide, aan te kopen."
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "013/ED/MW/07-2026",
+    "number": "25113",
     "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "013/ED/MW/07-2026",
+    "referenceNumber": "25113",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
-      "language": "FR",
-      "text": "Travaux de plantation de ligneux indigènes sous forme d'un boisement d'environ 2,5 hectares à Comines."
+      "language": "NL",
+      "text": "Levering en installatie van een LC-MS toestel"
      }
     ]
    },
@@ -380,8 +393,8 @@
     {
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Plantations de ligneux indigènes (1) sous forme d’un boisement d’environ 2,5hectares.   Les plantations comportent 3 calibres différents :  - partie 1 sur environ 1/3 de la surface totale : boisement à l’aide d’arbres HT – calibre 8/10 avec une densité de plantation de 400 arbres/hectare (5x5m), soit 360 arbres au total; - partie 2 sur environ 1/3 de la surface totale : boisement à l’aide de baliveaux – calibre 150/175 avec une densité de plantation de 1156 arbres/hectare (3x3m), soit 1.156 arbres au total; - partie 3 sur environ 1/3 de la surface totale : boisement à l’aide de plants forestiers – calibre 100/125 avec une densité de plantation de 2.500 plants/hectare (2x2m), soit 2000 plants au total.  Les plants sont fournis dans le cadre d'un autre marché.  "
+       "language": "NL",
+       "text": "Universiteit Antwerpen wenst een nieuw LC-MS toestel voor de karakterisatie van syntheseproducten, in het bijzonder van synthetische peptide, aan te kopen."
       }
      ],
      "reservedExecution": [
@@ -392,147 +405,8 @@
      ],
      "titles": [
       {
-       "language": "FR",
-       "text": "013/ED/MW/07-2026 - 1"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "WORKS"
-   ],
-   "noticeIds": [
-    "59a03c8e-bd3a-421f-bb34-ac66654404da"
-   ],
-   "noticeSubType": "16",
-   "nutsCodes": [
-    "BE328"
-   ],
-   "organisation": {
-    "organisationId": 2582,
-    "organisationNames": [
-     {
-      "language": "FR",
-      "text": "Comines-Warneton"
-     },
-     {
-      "language": "EN",
-      "text": "Ville de Comines-Warneton"
-     },
-     {
-      "language": "DE",
-      "text": "Comines-Warneton"
-     },
-     {
-      "language": "NL",
-      "text": "Comines-Warneton"
-     }
-    ],
-    "tree": "200004.200021.2582"
-   },
-   "procedureId": "77567662-11b7-4dc0-92d6-7b71ceb4852c",
-   "publicationDate": "2026-10-13",
-   "publicationLanguages": [
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "013/ED/MW/07-2026_pub01"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "ed7d6fe6-32ca-4e18-8a21-0e5d0bf4f963",
-   "publishedAt": [
-    "2026-10-13T00:00:45.023177"
-   ],
-   "referenceNumber": "013/ED/MW/07-2026_pub01",
-   "sentAt": [
-    "2026-10-13T00:00:45.023177"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-05T11:00:00"
-  }
- ],
- "exemple_attribution": [
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "18100000-0",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Occupational clothing, special workwear and accessories"
-      },
-      {
-       "language": "FR",
-       "text": "Vêtements professionnels, vêtements de travail spéciaux et accessoires"
-      },
-      {
-       "language": "DE",
-       "text": "Arbeitskleidung, besondere Arbeitsbekleidungen und Zubehör"
-      },
-      {
        "language": "NL",
-       "text": "Beroepskleding, speciale werkkleding en toebehoren"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "18100000-0",
-    "descriptions": [
-     {
-      "language": "EN",
-      "text": "Occupational clothing, special workwear and accessories"
-     },
-     {
-      "language": "FR",
-      "text": "Vêtements professionnels, vêtements de travail spéciaux et accessoires"
-     },
-     {
-      "language": "DE",
-      "text": "Arbeitskleidung, besondere Arbeitsbekleidungen und Zubehör"
-     },
-     {
-      "language": "NL",
-      "text": "Beroepskleding, speciale werkkleding en toebehoren"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-13",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Accord-cadre mono-attributaire 2026 - 2029 : Acquisition de vêtements et de chaussures de travail pour les auxiliaires professionnel(le)s"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP05V-2673/6197/ID 2672 - LMKE/PDEL",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP05V-2673/6197/ID 2672 - LMKE/PDEL",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "Accord-cadre mono-attributaire 2026 - 2029 : Acquisition de vêtements et de chaussures de travail pour les auxiliaires professionnel(le)s"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-13",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Accord-cadre mono-attributaire 2026 - 2029 : Acquisition de vêtements et de chaussures de travail pour les auxiliaires professionnel(le)s"
-      }
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Accord-cadre mono-attributaire 2026 - 2029 : Acquisition de vêtements et de chaussures de travail pour les auxiliaires professionnel(le)s"
+       "text": "25113 - 1"
       }
      ]
     }
@@ -541,51 +415,194 @@
     "SUPPLIES"
    ],
    "noticeIds": [
-    "68e157e9-16c5-4cc5-903d-cdfb151a6c86"
+    "68ab061d-4a3d-44e2-8083-0bd5d58474b2"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE352"
+    "BE211"
    ],
    "organisation": {
-    "organisationId": 266,
+    "organisationId": 790,
     "organisationNames": [
      {
       "language": "DE",
-      "text": "Gembloux"
+      "text": "Universiteit Antwerpen"
      },
      {
       "language": "NL",
-      "text": "Gembloux"
+      "text": "Universiteit Antwerpen"
      },
      {
       "language": "FR",
-      "text": "Gembloux"
+      "text": "Universiteit Antwerpen"
      },
      {
       "language": "EN",
-      "text": "Gembloux"
+      "text": "Universiteit Antwerpen"
      }
     ],
-    "tree": "200004.200021.266"
+    "tree": "200004.200026.790"
    },
-   "procedureId": "9867aeab-6e7e-4929-857c-224096d8d5a2",
+   "procedureId": "f9d69ee7-b0ed-44ba-9efd-f6c4d5368d53",
    "publicationDate": "2026-10-13",
    "publicationLanguages": [
-    "FR"
+    "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP05V-2673/6197/ID 2672 - LMKE/PDEL_002"
+    "25113_pub02"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "f6b115ec-7c12-4f2f-a922-7d4e63ad3647",
+   "publicationWorkspaceId": "b2c6effc-a613-4d5a-b66b-dd39006e8848",
    "publishedAt": [
-    "2026-10-13T00:00:46.221268"
+    "2026-10-13T08:47:45.022427"
    ],
-   "referenceNumber": "PPP05V-2673/6197/ID 2672 - LMKE/PDEL_002",
+   "referenceNumber": "25113_pub02",
    "sentAt": [
-    "2026-10-13T00:00:46.221268"
+    "2026-10-13T08:47:45.022427"
+   ],
+   "tedPublished": false
+  }
+ ],
+ "exemple_attribution": [
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45212290-5",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Reparatie en onderhoud van sportfaciliteiten"
+      },
+      {
+       "language": "DE",
+       "text": "Reparatur und Wartung von Sportanlagen"
+      },
+      {
+       "language": "EN",
+       "text": "Repair and maintenance work in connection with sports facilities"
+      },
+      {
+       "language": "FR",
+       "text": "Réparation et entretien d'infrastructures sportives"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45212290-5",
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Reparatie en onderhoud van sportfaciliteiten"
+     },
+     {
+      "language": "DE",
+      "text": "Reparatur und Wartung von Sportanlagen"
+     },
+     {
+      "language": "EN",
+      "text": "Repair and maintenance work in connection with sports facilities"
+     },
+     {
+      "language": "FR",
+      "text": "Réparation et entretien d'infrastructures sportives"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-13",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Betreft een totaalrenovatie van de sportvloer in de grote zaal (28m x 42m) in het sportcentrum TER POLDER te Bredene.  - herstel verzakkingen in de vloer - voorzien van nieuwe vloer voor polyvalent sportgebruik   - voorzien van de nodige belijning voor 2 basketbalterreinen, 3 volleybalterreinen, 1 zaalvoetbalterrein, 6 badmintonterreinen, 1 tennisterrein, 1 handbalterrein - voorzien van de nodige vloerpotten"
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP0F6-1001/6019/2026/037",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "PPP0F6-1001/6019/2026/037",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Sportcentrum TER POLDER - renovatie sportvloer grote zaal"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-13",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Betreft een totaalrenovatie van de sportvloer in de grote zaal (28m x 42m) in het sportcentrum TER POLDER te Bredene.  - herstel verzakkingen in de vloer - voorzien van nieuwe vloer voor polyvalent sportgebruik   - voorzien van de nodige belijning voor 2 basketbalterreinen, 3 volleybalterreinen, 1 zaalvoetbalterrein, 6 badmintonterreinen, 1 tennisterrein, 1 handbalterrein - voorzien van de nodige vloerpotten"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Sportcentrum TER POLDER - renovatie sportvloer grote zaal"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "d16d1a0f-09c1-4459-8ca2-1569b4f55461"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE255"
+   ],
+   "organisation": {
+    "organisationId": 5185,
+    "organisationNames": [
+     {
+      "language": "FR",
+      "text": "Bredene"
+     },
+     {
+      "language": "EN",
+      "text": "Bredene"
+     },
+     {
+      "language": "DE",
+      "text": "Bredene"
+     },
+     {
+      "language": "NL",
+      "text": "Bredene"
+     }
+    ],
+    "tree": "200004.200021.652.5185"
+   },
+   "procedureId": "9122d6e8-23a9-46a5-9a0c-2b4b7453f12a",
+   "publicationDate": "2026-10-13",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP0F6-1001/6019/2026/037_002"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "25b379ad-2de6-4fdb-a27c-0890c9c73895",
+   "publishedAt": [
+    "2026-10-13T08:42:45.013798"
+   ],
+   "referenceNumber": "PPP0F6-1001/6019/2026/037_002",
+   "sentAt": [
+    "2026-10-13T08:42:45.013798"
    ],
    "tedPublished": false
   }
