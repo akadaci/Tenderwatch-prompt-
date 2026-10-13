@@ -1,22 +1,22 @@
 {
  "meta": {
-  "totalCount": 291417
+  "totalCount": 291470
  },
  "types": [
   "ACTIVE|16|['SERVICES']",
   "ACTIVE|16|['SUPPLIES', 'SERVICES']",
   "ACTIVE|16|['SUPPLIES']",
-  "ACTIVE|16|['WORKS', 'SUPPLIES']",
   "ACTIVE|16|['WORKS']",
   "ACTIVE|17|['SERVICES']",
-  "ACTIVE|17|['SUPPLIES']",
   "ACTIVE|17|['WORKS']",
+  "ACTIVE|19|['SERVICES']",
+  "ACTIVE|19|['WORKS']",
   "ACTIVE|20|['SERVICES']",
   "ACTIVE|29|['SERVICES']",
   "ACTIVE|29|['SUPPLIES', 'SERVICES']",
   "ACTIVE|29|['SUPPLIES']",
   "ACTIVE|29|['WORKS']",
-  "ACTIVE|30|['SERVICES']",
+  "ACTIVE|30|['SUPPLIES']",
   "ACTIVE|33|['SERVICES']",
   "ACTIVE|33|['SUPPLIES']",
   "ACTIVE|E1|['SERVICES']",
@@ -176,45 +176,45 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "30192000-1",
+     "code": "18100000-0",
      "descriptions": [
       {
-       "language": "DE",
-       "text": "Bürobedarf"
+       "language": "EN",
+       "text": "Occupational clothing, special workwear and accessories"
       },
       {
        "language": "FR",
-       "text": "Fournitures de bureau"
+       "text": "Vêtements professionnels, vêtements de travail spéciaux et accessoires"
+      },
+      {
+       "language": "DE",
+       "text": "Arbeitskleidung, besondere Arbeitsbekleidungen und Zubehör"
       },
       {
        "language": "NL",
-       "text": "Kantoorbenodigdheden"
-      },
-      {
-       "language": "EN",
-       "text": "Office supplies"
+       "text": "Beroepskleding, speciale werkkleding en toebehoren"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "30191000-4",
+    "code": "18100000-0",
     "descriptions": [
      {
-      "language": "DE",
-      "text": "Büroausstattung außer Möbeln"
-     },
-     {
-      "language": "NL",
-      "text": "Kantooruitrusting, uitgez. meubilair"
+      "language": "EN",
+      "text": "Occupational clothing, special workwear and accessories"
      },
      {
       "language": "FR",
-      "text": "Équipement de bureau, excepté les meubles"
+      "text": "Vêtements professionnels, vêtements de travail spéciaux et accessoires"
      },
      {
-      "language": "EN",
-      "text": "Office equipment except furniture"
+      "language": "DE",
+      "text": "Arbeitskleidung, besondere Arbeitsbekleidungen und Zubehör"
+     },
+     {
+      "language": "NL",
+      "text": "Beroepskleding, speciale werkkleding en toebehoren"
      }
     ]
    },
@@ -224,19 +224,19 @@
     "descriptions": [
      {
       "language": "FR",
-      "text": "Le présent marché a pour objet la conclusion d'un accord-cadre de fournitures portant sur la fourniture et la livraison de fournitures de bureau, de papeterie et de petit matériel administratif nécessaires au fonctionnement courant de l'ASBL Ukraine Voices Refugee Committee (ci-après « le pouvoir adjudicateur »)."
+      "text": "Accord-cadre mono-attributaire 2026 - 2029 : Acquisition de vêtements et de chaussures de travail pour les auxiliaires professionnel(le)s"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "UVSH01012026",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "UVSH01012026",
+    "number": "PPP05V-2673/6197/ID 2672 - LMKE/PDEL",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP05V-2673/6197/ID 2672 - LMKE/PDEL",
     "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
       "language": "FR",
-      "text": "Fournitures de bureau"
+      "text": "Accord-cadre mono-attributaire 2026 - 2029 : Acquisition de vêtements et de chaussures de travail pour les auxiliaires professionnel(le)s"
      }
     ]
    },
@@ -246,19 +246,13 @@
      "descriptions": [
       {
        "language": "FR",
-       "text": "Le présent marché a pour objet la conclusion d'un accord-cadre de fournitures portant sur la fourniture et la livraison de fournitures de bureau, de papeterie et de petit matériel administratif nécessaires au fonctionnement courant de l'ASBL Ukraine Voices Refugee Committee (ci-après « le pouvoir adjudicateur »)."
+       "text": "Accord-cadre mono-attributaire 2026 - 2029 : Acquisition de vêtements et de chaussures de travail pour les auxiliaires professionnel(le)s"
       }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
      ],
      "titles": [
       {
        "language": "FR",
-       "text": "UVSH01012026 - 1"
+       "text": "Accord-cadre mono-attributaire 2026 - 2029 : Acquisition de vêtements et de chaussures de travail pour les auxiliaires professionnel(le)s"
       }
      ]
     }
@@ -267,42 +261,53 @@
     "SUPPLIES"
    ],
    "noticeIds": [
-    "02829cca-a4b5-4f7a-9722-c1effe3a4820"
+    "68e157e9-16c5-4cc5-903d-cdfb151a6c86"
    ],
-   "noticeSubType": "16",
+   "noticeSubType": "E4",
    "nutsCodes": [
-    "BE100"
+    "BE352"
    ],
    "organisation": {
-    "organisationId": 55906,
+    "organisationId": 266,
     "organisationNames": [
      {
+      "language": "DE",
+      "text": "Gembloux"
+     },
+     {
+      "language": "NL",
+      "text": "Gembloux"
+     },
+     {
       "language": "FR",
-      "text": "Ukraine Voices Refugee Committee "
+      "text": "Gembloux"
+     },
+     {
+      "language": "EN",
+      "text": "Gembloux"
      }
     ],
-    "tree": "200004.200032.55906"
+    "tree": "200004.200021.266"
    },
-   "procedureId": "f7dc7379-2f6c-4ec1-8e4b-9a51c616b1aa",
+   "procedureId": "9867aeab-6e7e-4929-857c-224096d8d5a2",
    "publicationDate": "2026-10-13",
    "publicationLanguages": [
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "UVSH01012026_pub01"
+    "PPP05V-2673/6197/ID 2672 - LMKE/PDEL_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "d362e254-80b9-4046-9547-66a555bd8318",
+   "publicationWorkspaceId": "f6b115ec-7c12-4f2f-a922-7d4e63ad3647",
    "publishedAt": [
-    "2026-10-13T00:00:46.406556"
+    "2026-10-13T00:00:46.221268"
    ],
-   "referenceNumber": "UVSH01012026_pub01",
+   "referenceNumber": "PPP05V-2673/6197/ID 2672 - LMKE/PDEL_002",
    "sentAt": [
-    "2026-10-13T00:00:46.406556"
+    "2026-10-13T00:00:46.221268"
    ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-13T23:55:00"
+   "tedPublished": false
   },
   {
    "cpvAdditionalCodes": [
@@ -451,45 +456,45 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45331110-0",
+     "code": "18100000-0",
      "descriptions": [
       {
        "language": "EN",
-       "text": "Boiler installation work"
-      },
-      {
-       "language": "DE",
-       "text": "Installation von Kesseln"
-      },
-      {
-       "language": "NL",
-       "text": "Installeren van boilers"
+       "text": "Occupational clothing, special workwear and accessories"
       },
       {
        "language": "FR",
-       "text": "Travaux d'installation de chaudières"
+       "text": "Vêtements professionnels, vêtements de travail spéciaux et accessoires"
+      },
+      {
+       "language": "DE",
+       "text": "Arbeitskleidung, besondere Arbeitsbekleidungen und Zubehör"
+      },
+      {
+       "language": "NL",
+       "text": "Beroepskleding, speciale werkkleding en toebehoren"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45331110-0",
+    "code": "18100000-0",
     "descriptions": [
      {
       "language": "EN",
-      "text": "Boiler installation work"
-     },
-     {
-      "language": "DE",
-      "text": "Installation von Kesseln"
-     },
-     {
-      "language": "NL",
-      "text": "Installeren van boilers"
+      "text": "Occupational clothing, special workwear and accessories"
      },
      {
       "language": "FR",
-      "text": "Travaux d'installation de chaudières"
+      "text": "Vêtements professionnels, vêtements de travail spéciaux et accessoires"
+     },
+     {
+      "language": "DE",
+      "text": "Arbeitskleidung, besondere Arbeitsbekleidungen und Zubehör"
+     },
+     {
+      "language": "NL",
+      "text": "Beroepskleding, speciale werkkleding en toebehoren"
      }
     ]
    },
@@ -499,18 +504,19 @@
     "descriptions": [
      {
       "language": "FR",
-      "text": "Remplacement des chaudières de la maison communale"
+      "text": "Accord-cadre mono-attributaire 2026 - 2029 : Acquisition de vêtements et de chaussures de travail pour les auxiliaires professionnel(le)s"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP05G-1197/6170/2025-075 BIS",
+    "number": "PPP05V-2673/6197/ID 2672 - LMKE/PDEL",
     "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP05G-1197/6170/2025-075 BIS",
+    "referenceNumber": "PPP05V-2673/6197/ID 2672 - LMKE/PDEL",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
       "language": "FR",
-      "text": "Remplacement des chaudières de la maison communale"
+      "text": "Accord-cadre mono-attributaire 2026 - 2029 : Acquisition de vêtements et de chaussures de travail pour les auxiliaires professionnel(le)s"
      }
     ]
    },
@@ -520,66 +526,66 @@
      "descriptions": [
       {
        "language": "FR",
-       "text": "Remplacement des chaudières de la maison communale"
+       "text": "Accord-cadre mono-attributaire 2026 - 2029 : Acquisition de vêtements et de chaussures de travail pour les auxiliaires professionnel(le)s"
       }
      ],
      "titles": [
       {
        "language": "FR",
-       "text": "Remplacement des chaudières de la maison communale"
+       "text": "Accord-cadre mono-attributaire 2026 - 2029 : Acquisition de vêtements et de chaussures de travail pour les auxiliaires professionnel(le)s"
       }
      ]
     }
    ],
    "natures": [
-    "WORKS"
+    "SUPPLIES"
    ],
    "noticeIds": [
-    "367236ef-1324-49af-a643-dbea17968679"
+    "68e157e9-16c5-4cc5-903d-cdfb151a6c86"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE310"
+    "BE352"
    ],
    "organisation": {
-    "organisationId": 411,
+    "organisationId": 266,
     "organisationNames": [
      {
-      "language": "FR",
-      "text": "Court-Saint-Etienne"
-     },
-     {
-      "language": "EN",
-      "text": "Court-Saint-Etienne"
-     },
-     {
       "language": "DE",
-      "text": "Court-Saint-Etienne"
+      "text": "Gembloux"
      },
      {
       "language": "NL",
-      "text": "Court-Saint-Etienne"
+      "text": "Gembloux"
+     },
+     {
+      "language": "FR",
+      "text": "Gembloux"
+     },
+     {
+      "language": "EN",
+      "text": "Gembloux"
      }
     ],
-    "tree": "200004.200021.411"
+    "tree": "200004.200021.266"
    },
-   "procedureId": "171145fa-90be-4d0f-8615-06ea38cf255b",
+   "procedureId": "9867aeab-6e7e-4929-857c-224096d8d5a2",
    "publicationDate": "2026-10-13",
    "publicationLanguages": [
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP05G-1197/6170/2025-075 BIS_002"
+    "PPP05V-2673/6197/ID 2672 - LMKE/PDEL_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "c5d8ab7e-622b-4eed-97bb-e81a477e0d39",
+   "publicationWorkspaceId": "f6b115ec-7c12-4f2f-a922-7d4e63ad3647",
    "publishedAt": [
-    "2026-10-13T00:00:47.03327"
+    "2026-10-13T00:00:46.221268"
    ],
-   "referenceNumber": "PPP05G-1197/6170/2025-075 BIS_002",
+   "referenceNumber": "PPP05V-2673/6197/ID 2672 - LMKE/PDEL_002",
    "sentAt": [
-    "2026-10-13T00:00:47.03327"
+    "2026-10-13T00:00:46.221268"
    ],
    "tedPublished": false
   }
