@@ -1,11 +1,13 @@
 {
- "updated": "2026-10-13T10:01:41Z",
+ "updated": "2026-10-13T12:01:45Z",
  "source": "urban.brussels NOVA (WFS)",
  "days_back": 3,
- "received": 33,
- "kept": 5,
- "count": 75,
- "new_ids": [],
+ "received": 43,
+ "kept": 6,
+ "count": 76,
+ "new_ids": [
+  "nova-09/PU/2048820"
+ ],
  "records": [
   {
    "id": "nova-11/PFU/2048694",
@@ -26,8 +28,8 @@
   {
    "id": "nova-03/PFD/2048790",
    "source_type": "Permis",
-   "nom": "Permis d'urbanisme délivré par le FD",
-   "lieu": "Avenue Charles-Quint 557, 1082 Berchem-Sainte-Agathe",
+   "nom": "Het wijzigen van de vergunning met referentie 03/PFD660294, meer bepaald het supprimeren van niveau -3. Het minimaal wijzigen van oppervlaktes door invloed van technische en structurele eisen.",
+   "lieu": "Avenue Charles-Quint 541, 1082 Berchem-Sainte-Agathe",
    "type": "Permis d'urbanisme délivré par le FD",
    "mo": "",
    "etape": 1,
@@ -70,6 +72,22 @@
    "date_publication": "2026-10-12",
    "notes": "Autorité : Jette",
    "first_seen": "2026-10-13T02:15:33Z"
+  },
+  {
+   "id": "nova-09/PU/2048820",
+   "source_type": "Permis",
+   "nom": "rénovation avec isolation des toitures de l'immeuble. Augmentation du volume de l'immeuble. Modification du revêtement extérieur des lucarnes",
+   "lieu": "Avenue Général Médecin Derache 30, 1050 Ixelles",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='09/PU/2048820'",
+   "verif": "vérifié",
+   "verif_date": "2026-10-13",
+   "preuve": "Demande de permis 09/PU/2048820 reçue le 2026-10-12 (urban.brussels, service NOVA).",
+   "date_publication": "2026-10-12",
+   "notes": "Autorité : Ixelles",
+   "first_seen": "2026-10-13T12:01:45Z"
   },
   {
    "id": "nova-04/PU/2048662",
