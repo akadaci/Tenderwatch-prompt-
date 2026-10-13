@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 291600
+  "totalCount": 291608
  },
  "types": [
   "ACTIVE|16|['SERVICES']",
@@ -41,76 +41,286 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45233142-6",
+     "code": "45310000-3",
      "descriptions": [
       {
        "language": "FR",
-       "text": "Travaux de réparation de routes"
+       "text": "Travaux d'équipement électrique"
       },
       {
        "language": "EN",
-       "text": "Road-repair works"
-      },
-      {
-       "language": "DE",
-       "text": "Straßenausbesserungsarbeiten"
+       "text": "Electrical installation work"
       },
       {
        "language": "NL",
-       "text": "Herstellen van wegen"
+       "text": "Aanleg van elektriciteit"
+      },
+      {
+       "language": "DE",
+       "text": "Installation von elektrischen Leitungen"
+      }
+     ]
+    },
+    {
+     "code": "45261215-4",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Solarzellendachdeckarbeiten"
+      },
+      {
+       "language": "NL",
+       "text": "Aanbrengen van dakbedekking met zonnepanelen"
+      },
+      {
+       "language": "EN",
+       "text": "Solar panel roof-covering work"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de couverture de panneaux solaires"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45233142-6",
+    "code": "45310000-3",
     "descriptions": [
      {
       "language": "FR",
-      "text": "Travaux de réparation de routes"
+      "text": "Travaux d'équipement électrique"
      },
      {
       "language": "EN",
-      "text": "Road-repair works"
-     },
-     {
-      "language": "DE",
-      "text": "Straßenausbesserungsarbeiten"
+      "text": "Electrical installation work"
      },
      {
       "language": "NL",
-      "text": "Herstellen van wegen"
+      "text": "Aanleg van elektriciteit"
+     },
+     {
+      "language": "DE",
+      "text": "Installation von elektrischen Leitungen"
      }
     ]
    },
-   "dispatchDate": "2026-10-13",
+   "dispatchDate": "2026-10-14",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
+      "language": "NL",
+      "text": "Levering, plaatsing en ingebruikname van een noodstopysteem voor de fotovoltaïsche productie (DC-strings) te Moensberg (Ukkel). "
+     },
+     {
       "language": "FR",
-      "text": "Le présent projet a pour objet le réaménagement de 2 voiries à Ogné ( Commune de Sprimont), en ce compris les travaux d’égouttage. Les voiries concernées font partie du réseau IIIa et sont les suivantes : Rue Lileutige à Sprimont, Rue Nicolas Evrard à Sprimont.  Le détail des travaux est repris aux documents du marché."
+      "text": "Fourniture, pose et mise en service d’un système de coupure d’urgence de la production photovoltaïque (Strings DC) à Moensberg (Uccle)"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP06C-2066/6116/2026-070",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "PPP06C-2066/6116/2026-070",
+    "number": "PPP18O-142/6055/BH TENDER DDP-ARRET URGENT SOLAIRE (MOENSBERG)",
+    "procurementProcedureType": "LOW_VALUE_T",
+    "referenceNumber": "PPP18O-142/6055/BH TENDER DDP-ARRET URGENT SOLAIRE (MOENSBERG)",
     "titles": [
      {
+      "language": "NL",
+      "text": "Levering, plaatsing en ingebruikname van een noodstopysteem voor de fotovoltaïsche productie"
+     },
+     {
       "language": "FR",
-      "text": "FERI - Réfection de la voirie et l'égouttage de la rue Lileutige et de la rue N. Evrard"
+      "text": "Fourniture, pose et mise en service d’un système de coupure d’urgence de la production photovoltaïque"
      }
     ]
    },
-   "insertionDate": "2026-09-29",
+   "insertionDate": "2026-10-14",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Levering, plaatsing en ingebruikname van een noodstopysteem voor de fotovoltaïsche productie (DC-strings) te Moensberg (Ukkel). "
+      },
+      {
+       "language": "FR",
+       "text": "Fourniture, pose et mise en service d’un système de coupure d’urgence de la production photovoltaïque (Strings DC) à Moensberg (Uccle)"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Levering, plaatsing en ingebruikname van een noodstopysteem voor de fotovoltaïsche productie"
+      },
+      {
+       "language": "FR",
+       "text": "Fourniture, pose et mise en service d’un système de coupure d’urgence de la production photovoltaïque"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "7a1f7301-ef1f-40bb-b702-c24dd73bf7d6"
+   ],
+   "noticeSubType": "E3",
+   "nutsCodes": [
+    "BE100"
+   ],
+   "organisation": {
+    "organisationId": 2721,
+    "organisationNames": [
+     {
+      "language": "EN",
+      "text": "BinHôme"
+     },
+     {
+      "language": "DE",
+      "text": "BinHôme"
+     },
+     {
+      "language": "NL",
+      "text": "BinHôme"
+     },
+     {
+      "language": "FR",
+      "text": "BinHôme"
+     }
+    ],
+    "tree": "200004.200028.2721"
+   },
+   "procedureId": "b55e42e9-e7f4-4247-a731-0790cb6acee2",
+   "publicationDate": "2026-10-14",
+   "publicationLanguages": [
+    "NL",
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP18O-142/6055/BH TENDER DDP-ARRET URGENT SOLAIRE (MOENSBERG)_001"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "c9818eb6-b665-4d9c-b9f7-d370e3863a96",
+   "publishedAt": [
+    "2026-10-14T00:00:46.740918"
+   ],
+   "referenceNumber": "PPP18O-142/6055/BH TENDER DDP-ARRET URGENT SOLAIRE (MOENSBERG)_001",
+   "sentAt": [
+    "2026-10-14T00:00:46.740918"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-11-30T10:00:00"
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45261410-1",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Dachabdichtungs- und -dämmarbeiten"
+      },
+      {
+       "language": "EN",
+       "text": "Roof insulation work"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux d'isolation de toiture"
+      },
+      {
+       "language": "NL",
+       "text": "Dakisolatiewerkzaamheden"
+      }
+     ]
+    },
+    {
+     "code": "45260000-7",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Dakdekkers- en andere gespecialiseerde bouwwerkzaamheden"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de couverture et travaux d'autres corps de métier spécialisés"
+      },
+      {
+       "language": "DE",
+       "text": "Dachdeckarbeiten und Spezialbauarbeiten"
+      },
+      {
+       "language": "EN",
+       "text": "Roof works and other special trade construction works"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45261410-1",
+    "descriptions": [
+     {
+      "language": "DE",
+      "text": "Dachabdichtungs- und -dämmarbeiten"
+     },
+     {
+      "language": "EN",
+      "text": "Roof insulation work"
+     },
+     {
+      "language": "FR",
+      "text": "Travaux d'isolation de toiture"
+     },
+     {
+      "language": "NL",
+      "text": "Dakisolatiewerkzaamheden"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-14",
+   "dossier": {
+    "accreditations": {
+     "D4": 1
+    },
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Le Marché a pour objet les travaux, les fournitures, les services, le transport, la main-d'œuvre et tous les moyens nécessaires pour l’exécution de l’isolation des combles du bâtiment Fédasil sis à 6820 Florenville."
+     }
+    ],
+    "enterpriseCategories": [
+     {
+      "categoryCode": "D4",
+      "levels": [
+       1
+      ]
+     }
+    ],
+    "legalBasis": "D24",
+    "number": "RDGB-WRS-2026-810050-6",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "RDGB-WRS-2026-810050-6",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "FLORENVILLE – FÉDASIL – Isolation des combles"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-14",
    "lots": [
     {
      "descriptions": [
       {
        "language": "FR",
-       "text": "Le présent projet a pour objet le réaménagement de 2 voiries à Ogné ( Commune de Sprimont), en ce compris les travaux d’égouttage. Les voiries concernées font partie du réseau IIIa et sont les suivantes : Rue Lileutige à Sprimont, Rue Nicolas Evrard à Sprimont.  Le détail des travaux est repris aux documents du marché."
+       "text": "Le Marché a pour objet les travaux, les fournitures, les services, le transport, la main-d'œuvre et tous les moyens nécessaires pour l’exécution de l’isolation des combles du bâtiment Fédasil sis à 6820 Florenville."
       }
      ],
      "reservedExecution": [
@@ -122,7 +332,7 @@
      "titles": [
       {
        "language": "FR",
-       "text": "FERI - Réfection de la voirie et l'égouttage de la rue Lileutige et de la rue N. Evrard"
+       "text": "RDGB-WRS-2026-810050-6"
       }
      ]
     }
@@ -131,131 +341,129 @@
     "WORKS"
    ],
    "noticeIds": [
-    "23b021a2-ed84-4189-b621-98cc546a4a74",
-    "f885238f-94cf-4868-91f1-e4d6b1f231d7"
+    "7e439dac-e6de-475b-be22-f5406c645dd3"
    ],
    "noticeSubType": "16",
    "nutsCodes": [
-    "BE332"
+    "BE345"
    ],
    "organisation": {
-    "organisationId": 174,
+    "organisationId": 4889,
     "organisationNames": [
      {
-      "language": "EN",
-      "text": "Sprimont"
+      "language": "FR",
+      "text": "Regie des Bâtiments - Wallonie Région Sud"
      },
      {
       "language": "DE",
-      "text": "Commune de Sprimont"
+      "text": "Regie des Bâtiments - Wallonie Région Sud"
+     },
+     {
+      "language": "EN",
+      "text": "Buildingsagency.be - Wallonie Région Sud"
      },
      {
       "language": "NL",
-      "text": "Sprimont"
-     },
-     {
-      "language": "FR",
-      "text": "Commune de Sprimont"
+      "text": "Regie des Bâtiments - Wallonie Région Sud"
      }
     ],
-    "tree": "200004.200021.174"
+    "tree": "200002.200010.5.4889"
    },
-   "procedureId": "a99026bf-c374-4035-a4eb-ce89ed291df2",
-   "publicationDate": "2026-10-13",
+   "procedureId": "76f7668c-f533-40cb-ba40-81657b4103d1",
+   "publicationDate": "2026-10-14",
    "publicationLanguages": [
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP06C-2066/6116/2026-070_001"
+    "RDGB-WRS-2026-810050-6_Avis de publication"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "ee4fadf4-7d77-488b-8d12-0bfaf0c8b5c8",
+   "publicationWorkspaceId": "9aa06e4a-3f71-4ad9-adc7-8ba5af2ab812",
    "publishedAt": [
-    "2026-10-13T08:13:45.044423",
-    "2026-09-29T08:14:46.023584"
+    "2026-10-14T00:00:45.187506"
    ],
-   "referenceNumber": "PPP06C-2066/6116/2026-070_001",
+   "referenceNumber": "RDGB-WRS-2026-810050-6_Avis de publication",
    "sentAt": [
-    "2026-10-13T08:13:45.044423",
-    "2026-09-29T08:14:46.023584"
+    "2026-10-14T00:00:45.187506"
    ],
    "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-03T11:00:00"
+   "vaultSubmissionDeadline": "2026-11-19T10:00:00"
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45212290-5",
+     "code": "45215400-1",
      "descriptions": [
       {
        "language": "NL",
-       "text": "Reparatie en onderhoud van sportfaciliteiten"
-      },
-      {
-       "language": "DE",
-       "text": "Reparatur und Wartung von Sportanlagen"
+       "text": "Werkzaamheden voor begraafplaats"
       },
       {
        "language": "EN",
-       "text": "Repair and maintenance work in connection with sports facilities"
+       "text": "Cemetery works"
+      },
+      {
+       "language": "DE",
+       "text": "Friedhof"
       },
       {
        "language": "FR",
-       "text": "Réparation et entretien d'infrastructures sportives"
+       "text": "Cimetière"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45212290-5",
+    "code": "45215400-1",
     "descriptions": [
      {
       "language": "NL",
-      "text": "Reparatie en onderhoud van sportfaciliteiten"
-     },
-     {
-      "language": "DE",
-      "text": "Reparatur und Wartung von Sportanlagen"
+      "text": "Werkzaamheden voor begraafplaats"
      },
      {
       "language": "EN",
-      "text": "Repair and maintenance work in connection with sports facilities"
+      "text": "Cemetery works"
+     },
+     {
+      "language": "DE",
+      "text": "Friedhof"
      },
      {
       "language": "FR",
-      "text": "Réparation et entretien d'infrastructures sportives"
+      "text": "Cimetière"
      }
     ]
    },
-   "dispatchDate": "2026-10-13",
+   "dispatchDate": "2026-10-14",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Betreft een totaalrenovatie van de sportvloer in de grote zaal (28m x 42m) in het sportcentrum TER POLDER te Bredene.  - herstel verzakkingen in de vloer - voorzien van nieuwe vloer voor polyvalent sportgebruik   - voorzien van de nodige belijning voor 2 basketbalterreinen, 3 volleybalterreinen, 1 zaalvoetbalterrein, 6 badmintonterreinen, 1 tennisterrein, 1 handbalterrein - voorzien van de nodige vloerpotten"
+      "language": "FR",
+      "text": "Le présent marché public a pour objet la fourniture et le placement de caveaux préfabriqués en béton armé, l’entrée des caveaux se trouvant au-dessus, et de columbariums.    Elle comprend tous les travaux et toutes les fournitures indiquées au cahier spécial des charges et au métré servant de base au marché et tous autres ouvrages et fournitures accessoires pour un travail absolument parfait et complet.   Les quantités présumées mentionnées dans le métré sont données à titre d’information.   Il n’y a pas de seuil minimal, ni de seuil maximal de commande qui sont garantis.   Les commandes sont effectuées tout au long de l’année, en fonction des besoins à satisfaire.  "
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP0F6-1001/6019/2026/037",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "PPP0F6-1001/6019/2026/037",
+    "number": "PPP1IT-373/6058/20260009",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "PPP1IT-373/6058/20260009",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
-      "language": "NL",
-      "text": "Sportcentrum TER POLDER - renovatie sportvloer grote zaal"
+      "language": "FR",
+      "text": "Fourniture et placement de caveaux, cavurnes et columbariums dans les cimetières de la Commune de Hensies pendant 1 an avec 3 tacites reconductions"
      }
     ]
    },
-   "insertionDate": "2026-10-13",
+   "insertionDate": "2026-10-14",
    "lots": [
     {
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Betreft een totaalrenovatie van de sportvloer in de grote zaal (28m x 42m) in het sportcentrum TER POLDER te Bredene.  - herstel verzakkingen in de vloer - voorzien van nieuwe vloer voor polyvalent sportgebruik   - voorzien van de nodige belijning voor 2 basketbalterreinen, 3 volleybalterreinen, 1 zaalvoetbalterrein, 6 badmintonterreinen, 1 tennisterrein, 1 handbalterrein - voorzien van de nodige vloerpotten"
+       "language": "FR",
+       "text": "Fourniture et placement de columbariums dans les cimetières de l'entité"
       }
      ],
      "reservedExecution": [
@@ -266,8 +474,28 @@
      ],
      "titles": [
       {
-       "language": "NL",
-       "text": "Sportcentrum TER POLDER - renovatie sportvloer grote zaal"
+       "language": "FR",
+       "text": "Fourniture et placement de columbariums dans les cimetières de l'entité"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Fourniture et placement de caveaux et cavurnes dans les cimetières de la Commune de Hensies"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Fourniture et placement de caveaux et cavurnes dans les cimetières de la Commune de Hensies"
       }
      ]
     }
@@ -276,271 +504,151 @@
     "WORKS"
    ],
    "noticeIds": [
-    "d16d1a0f-09c1-4459-8ca2-1569b4f55461"
+    "59dad777-89c5-453b-900f-e8512213c42e"
    ],
-   "noticeSubType": "E4",
+   "noticeSubType": "16",
    "nutsCodes": [
-    "BE255"
+    "BE323"
    ],
    "organisation": {
-    "organisationId": 5185,
+    "organisationId": 2225,
     "organisationNames": [
      {
       "language": "FR",
-      "text": "Bredene"
+      "text": "Hensies"
      },
      {
       "language": "EN",
-      "text": "Bredene"
+      "text": "Hensies"
      },
      {
       "language": "DE",
-      "text": "Bredene"
+      "text": "Hensies"
      },
      {
       "language": "NL",
-      "text": "Bredene"
+      "text": "Hensies"
      }
     ],
-    "tree": "200004.200021.652.5185"
+    "tree": "200004.200021.2225"
    },
-   "procedureId": "9122d6e8-23a9-46a5-9a0c-2b4b7453f12a",
-   "publicationDate": "2026-10-13",
+   "procedureId": "7e97da3c-09cb-468f-8e10-4af20fafa4b4",
+   "publicationDate": "2026-10-14",
    "publicationLanguages": [
-    "NL"
+    "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP0F6-1001/6019/2026/037_002"
+    "PPP1IT-373/6058/20260009_001"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "25b379ad-2de6-4fdb-a27c-0890c9c73895",
+   "publicationWorkspaceId": "d5af9103-9f18-4e28-ac96-b8837dcccaf0",
    "publishedAt": [
-    "2026-10-13T08:42:45.013798"
+    "2026-10-14T00:00:46.382148"
    ],
-   "referenceNumber": "PPP0F6-1001/6019/2026/037_002",
+   "referenceNumber": "PPP1IT-373/6058/20260009_001",
    "sentAt": [
-    "2026-10-13T08:42:45.013798"
+    "2026-10-14T00:00:46.382148"
    ],
-   "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "38000000-5",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Laboratory, optical and precision equipments (excl. glasses)"
-      },
-      {
-       "language": "DE",
-       "text": "Laborgeräte, optische Geräte und Präzisionsgeräte (außer Gläser)"
-      },
-      {
-       "language": "NL",
-       "text": "Laboratoriuminstrumenten, optische en precisie-instrumenten (uitgezonderd brillen)"
-      },
-      {
-       "language": "FR",
-       "text": "Équipements de laboratoire, d'optique et de précision (excepté les lunettes)"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "38000000-5",
-    "descriptions": [
-     {
-      "language": "EN",
-      "text": "Laboratory, optical and precision equipments (excl. glasses)"
-     },
-     {
-      "language": "FR",
-      "text": "Équipements de laboratoire, d'optique et de précision (excepté les lunettes)"
-     },
-     {
-      "language": "NL",
-      "text": "Laboratoriuminstrumenten, optische en precisie-instrumenten (uitgezonderd brillen)"
-     },
-     {
-      "language": "DE",
-      "text": "Laborgeräte, optische Geräte und Präzisionsgeräte (außer Gläser)"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-13",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Universiteit Antwerpen wenst een nieuw LC-MS toestel voor de karakterisatie van syntheseproducten, in het bijzonder van synthetische peptide, aan te kopen."
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "25113",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "25113",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Levering en installatie van een LC-MS toestel"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-13",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Universiteit Antwerpen wenst een nieuw LC-MS toestel voor de karakterisatie van syntheseproducten, in het bijzonder van synthetische peptide, aan te kopen."
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "25113 - 1"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SUPPLIES"
-   ],
-   "noticeIds": [
-    "68ab061d-4a3d-44e2-8083-0bd5d58474b2"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE211"
-   ],
-   "organisation": {
-    "organisationId": 790,
-    "organisationNames": [
-     {
-      "language": "DE",
-      "text": "Universiteit Antwerpen"
-     },
-     {
-      "language": "NL",
-      "text": "Universiteit Antwerpen"
-     },
-     {
-      "language": "FR",
-      "text": "Universiteit Antwerpen"
-     },
-     {
-      "language": "EN",
-      "text": "Universiteit Antwerpen"
-     }
-    ],
-    "tree": "200004.200026.790"
-   },
-   "procedureId": "f9d69ee7-b0ed-44ba-9efd-f6c4d5368d53",
-   "publicationDate": "2026-10-13",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "25113_pub02"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "b2c6effc-a613-4d5a-b66b-dd39006e8848",
-   "publishedAt": [
-    "2026-10-13T08:47:45.022427"
-   ],
-   "referenceNumber": "25113_pub02",
-   "sentAt": [
-    "2026-10-13T08:47:45.022427"
-   ],
-   "tedPublished": false
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-11-16T09:00:00"
   }
  ],
  "exemple_attribution": [
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45212290-5",
+     "code": "45400000-1",
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Reparatie en onderhoud van sportfaciliteiten"
-      },
-      {
-       "language": "DE",
-       "text": "Reparatur und Wartung von Sportanlagen"
+       "language": "FR",
+       "text": "Travaux de parachèvement de bâtiment"
       },
       {
        "language": "EN",
-       "text": "Repair and maintenance work in connection with sports facilities"
+       "text": "Building completion work"
+      },
+      {
+       "language": "DE",
+       "text": "Baufertigstellung"
+      },
+      {
+       "language": "NL",
+       "text": "Afwerking van gebouwen"
+      }
+     ]
+    },
+    {
+     "code": "45214100-1",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Construction work for kindergarten buildings"
+      },
+      {
+       "language": "NL",
+       "text": "Kleuterschoolgebouwen"
       },
       {
        "language": "FR",
-       "text": "Réparation et entretien d'infrastructures sportives"
+       "text": "Travaux de construction de jardins d'enfants"
+      },
+      {
+       "language": "DE",
+       "text": "Bauarbeiten für Kindergärten"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45212290-5",
+    "code": "45400000-1",
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Reparatie en onderhoud van sportfaciliteiten"
-     },
-     {
-      "language": "DE",
-      "text": "Reparatur und Wartung von Sportanlagen"
+      "language": "FR",
+      "text": "Travaux de parachèvement de bâtiment"
      },
      {
       "language": "EN",
-      "text": "Repair and maintenance work in connection with sports facilities"
+      "text": "Building completion work"
      },
      {
-      "language": "FR",
-      "text": "Réparation et entretien d'infrastructures sportives"
+      "language": "DE",
+      "text": "Baufertigstellung"
+     },
+     {
+      "language": "NL",
+      "text": "Afwerking van gebouwen"
      }
     ]
    },
-   "dispatchDate": "2026-10-13",
+   "dispatchDate": "2026-10-14",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Betreft een totaalrenovatie van de sportvloer in de grote zaal (28m x 42m) in het sportcentrum TER POLDER te Bredene.  - herstel verzakkingen in de vloer - voorzien van nieuwe vloer voor polyvalent sportgebruik   - voorzien van de nodige belijning voor 2 basketbalterreinen, 3 volleybalterreinen, 1 zaalvoetbalterrein, 6 badmintonterreinen, 1 tennisterrein, 1 handbalterrein - voorzien van de nodige vloerpotten"
+      "language": "FR",
+      "text": "Projet Val d’Eugène – Aménagement intérieur d’une crèche de 14 lits. Parachèvements, techniques et finitions, afin de répondre aux Normes ONE, AFSCA et INCENDIE."
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP0F6-1001/6019/2026/037",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "PPP0F6-1001/6019/2026/037",
+    "number": "PPP05G-1099/6062/2025-027",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "PPP05G-1099/6062/2025-027",
     "titles": [
      {
-      "language": "NL",
-      "text": "Sportcentrum TER POLDER - renovatie sportvloer grote zaal"
+      "language": "FR",
+      "text": "Projet Val d'Eugène - Aménagement intérieur d'une crèche de 14 lits"
      }
     ]
    },
-   "insertionDate": "2026-10-13",
+   "insertionDate": "2026-10-14",
    "lots": [
     {
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Betreft een totaalrenovatie van de sportvloer in de grote zaal (28m x 42m) in het sportcentrum TER POLDER te Bredene.  - herstel verzakkingen in de vloer - voorzien van nieuwe vloer voor polyvalent sportgebruik   - voorzien van de nodige belijning voor 2 basketbalterreinen, 3 volleybalterreinen, 1 zaalvoetbalterrein, 6 badmintonterreinen, 1 tennisterrein, 1 handbalterrein - voorzien van de nodige vloerpotten"
+       "language": "FR",
+       "text": "Projet Val d’Eugène – Aménagement intérieur d’une crèche de 14 lits. Parachèvements, techniques et finitions, afin de répondre aux Normes ONE, AFSCA et INCENDIE."
       }
      ],
      "reservedExecution": [
@@ -551,8 +659,8 @@
      ],
      "titles": [
       {
-       "language": "NL",
-       "text": "Sportcentrum TER POLDER - renovatie sportvloer grote zaal"
+       "language": "FR",
+       "text": "Projet Val d'Eugène - Aménagement intérieur d'une crèche de 14 lits"
       }
      ]
     }
@@ -561,51 +669,51 @@
     "WORKS"
    ],
    "noticeIds": [
-    "d16d1a0f-09c1-4459-8ca2-1569b4f55461"
+    "9001c02a-6a42-47a5-86a2-43a5cae1d32f"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE255"
+    "BE310"
    ],
    "organisation": {
-    "organisationId": 5185,
+    "organisationId": 411,
     "organisationNames": [
      {
       "language": "FR",
-      "text": "Bredene"
+      "text": "Court-Saint-Etienne"
      },
      {
       "language": "EN",
-      "text": "Bredene"
+      "text": "Court-Saint-Etienne"
      },
      {
       "language": "DE",
-      "text": "Bredene"
+      "text": "Court-Saint-Etienne"
      },
      {
       "language": "NL",
-      "text": "Bredene"
+      "text": "Court-Saint-Etienne"
      }
     ],
-    "tree": "200004.200021.652.5185"
+    "tree": "200004.200021.411"
    },
-   "procedureId": "9122d6e8-23a9-46a5-9a0c-2b4b7453f12a",
-   "publicationDate": "2026-10-13",
+   "procedureId": "9c92ac13-8586-48b3-a85c-e4bdeb30d78d",
+   "publicationDate": "2026-10-14",
    "publicationLanguages": [
-    "NL"
+    "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP0F6-1001/6019/2026/037_002"
+    "PPP05G-1099/6062/2025-027_005"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "25b379ad-2de6-4fdb-a27c-0890c9c73895",
+   "publicationWorkspaceId": "f9f7fecc-f8c3-44ee-8e97-c1afbea38b3a",
    "publishedAt": [
-    "2026-10-13T08:42:45.013798"
+    "2026-10-14T00:00:47.382786"
    ],
-   "referenceNumber": "PPP0F6-1001/6019/2026/037_002",
+   "referenceNumber": "PPP05G-1099/6062/2025-027_005",
    "sentAt": [
-    "2026-10-13T08:42:45.013798"
+    "2026-10-14T00:00:47.382786"
    ],
    "tedPublished": false
   }
