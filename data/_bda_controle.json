@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 291523
+  "totalCount": 291531
  },
  "types": [
   "ACTIVE|16|['SERVICES']",
@@ -331,16 +331,16 @@
        "text": "Laboratory, optical and precision equipments (excl. glasses)"
       },
       {
-       "language": "DE",
-       "text": "Laborgeräte, optische Geräte und Präzisionsgeräte (außer Gläser)"
+       "language": "FR",
+       "text": "Équipements de laboratoire, d'optique et de précision (excepté les lunettes)"
       },
       {
        "language": "NL",
        "text": "Laboratoriuminstrumenten, optische en precisie-instrumenten (uitgezonderd brillen)"
       },
       {
-       "language": "FR",
-       "text": "Équipements de laboratoire, d'optique et de précision (excepté les lunettes)"
+       "language": "DE",
+       "text": "Laborgeräte, optische Geräte und Präzisionsgeräte (außer Gläser)"
       }
      ]
     }
