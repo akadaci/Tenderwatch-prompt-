@@ -1,25 +1,11 @@
 {
- "updated": "2026-10-14T04:01:31Z",
+ "updated": "2026-10-14T06:01:38Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 483,
+ "received": 486,
  "kept": 235,
  "count": 1480,
- "new_ids": [
-  "bda-203ad509-b5ef-4e51-938b-0cd37f8ffe54",
-  "bda-d73f17cd-141f-41ad-8933-ebb0e01c61cb",
-  "bda-8f67f82b-72ff-4e7e-a1ce-c7f61cf7b0f0",
-  "bda-0bfff5ac-4821-4d61-bbe9-b328773d0f63",
-  "bda-3be1a021-9f80-44c6-8f54-5974f7f2f82c",
-  "bda-f11c3188-a2c2-4dee-aa78-cd16bdc2bb15",
-  "bda-ea382b64-8a0e-4765-b7fb-6dc0a0c1dc1c",
-  "bda-b4d1a015-24df-4afd-a9f4-69272b85df41",
-  "bda-01fee355-720a-4ea7-a8df-80d4230e555d",
-  "bda-13474ea3-e578-4c1c-95e3-6dc0ed4f85ac",
-  "bda-6036d3d4-146a-4156-9301-7812335af19e",
-  "bda-57be63dc-88c6-4e75-9b10-8213e558abe4",
-  "bda-c7f24b80-aec9-4b1b-8d38-1d47c9a6864c"
- ],
+ "new_ids": [],
  "records": [
   {
    "id": "bda-f9884d0c-e762-42ad-bcd9-65764167e9f6",
@@ -2681,7 +2667,7 @@
    "verif_date": "2026-10-14",
    "preuve": "Bulletin des Adjudications, réf. ARW-26-020 (attribution, sous-type eForms 29), publié le 2026-10-13.",
    "date_publication": "2026-10-13",
-   "cpv": "45111100,45110000,45443000,45112500,45112400,45100000,45112420,45111213,45111200,45111000,45111220",
+   "cpv": "45111100,45110000,45443000,45112500,45112400,45100000,45112420,45111213,45111000,45111200,45111220",
    "ted_ref": "",
    "notes": "Het aanbestedingsdossier behelst de sloop van alle constructies vermeld met hun bijhorende capakeys onder hoofdstuk 14, alsook het vrij maken van hun tuinen en het inrichten van de vrijgekomen percelen. Deze werken zijn inclusief de afwerking van de vrijgekomen gevels aan naburige panden. De panden ",
    "procedure": "d311050d-bb42-469a-983d-0ea6b126315d",
