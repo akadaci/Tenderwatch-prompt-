@@ -1,8 +1,11 @@
 {
  "meta": {
-  "totalCount": 291608
+  "totalCount": 291667
  },
  "types": [
+  "ACTIVE|10|['SERVICES']",
+  "ACTIVE|10|['SUPPLIES', 'SERVICES']",
+  "ACTIVE|15|['SUPPLIES']",
   "ACTIVE|16|['SERVICES']",
   "ACTIVE|16|['SUPPLIES', 'SERVICES']",
   "ACTIVE|16|['SUPPLIES']",
@@ -15,6 +18,7 @@
   "ACTIVE|19|['WORKS']",
   "ACTIVE|20|['SERVICES']",
   "ACTIVE|21|['WORKS']",
+  "ACTIVE|25|['SERVICES']",
   "ACTIVE|29|['SERVICES']",
   "ACTIVE|29|['SUPPLIES', 'SERVICES']",
   "ACTIVE|29|['SUPPLIES']",
@@ -22,9 +26,11 @@
   "ACTIVE|30|['SERVICES']",
   "ACTIVE|30|['SUPPLIES']",
   "ACTIVE|30|['WORKS']",
+  "ACTIVE|32|['SERVICES']",
   "ACTIVE|33|['SERVICES']",
   "ACTIVE|33|['SUPPLIES']",
   "ACTIVE|34|['WORKS']",
+  "ACTIVE|38|['SUPPLIES']",
   "ACTIVE|E1|['SERVICES']",
   "ACTIVE|E1|['SUPPLIES']",
   "ACTIVE|E3|['SERVICES']",
@@ -41,276 +47,83 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45310000-3",
+     "code": "45313100-5",
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Travaux d'équipement électrique"
+       "language": "EN",
+       "text": "Lift installation work"
       },
       {
        "language": "NL",
-       "text": "Aanleg van elektriciteit"
-      },
-      {
-       "language": "EN",
-       "text": "Electrical installation work"
+       "text": "Installeren van liften"
       },
       {
        "language": "DE",
-       "text": "Installation von elektrischen Leitungen"
-      }
-     ]
-    },
-    {
-     "code": "45261215-4",
-     "descriptions": [
-      {
-       "language": "DE",
-       "text": "Solarzellendachdeckarbeiten"
-      },
-      {
-       "language": "NL",
-       "text": "Aanbrengen van dakbedekking met zonnepanelen"
-      },
-      {
-       "language": "EN",
-       "text": "Solar panel roof-covering work"
+       "text": "Installation von Aufzügen"
       },
       {
        "language": "FR",
-       "text": "Travaux de couverture de panneaux solaires"
+       "text": "Travaux d'installation d'ascenseurs"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45310000-3",
+    "code": "45313100-5",
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Travaux d'équipement électrique"
+      "language": "EN",
+      "text": "Lift installation work"
      },
      {
       "language": "NL",
-      "text": "Aanleg van elektriciteit"
-     },
-     {
-      "language": "EN",
-      "text": "Electrical installation work"
+      "text": "Installeren van liften"
      },
      {
       "language": "DE",
-      "text": "Installation von elektrischen Leitungen"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-14",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Levering, plaatsing en ingebruikname van een noodstopysteem voor de fotovoltaïsche productie (DC-strings) te Moensberg (Ukkel). "
+      "text": "Installation von Aufzügen"
      },
      {
       "language": "FR",
-      "text": "Fourniture, pose et mise en service d’un système de coupure d’urgence de la production photovoltaïque (Strings DC) à Moensberg (Uccle)"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP18O-142/6055/BH TENDER DDP-ARRET URGENT SOLAIRE (MOENSBERG)",
-    "procurementProcedureType": "LOW_VALUE_T",
-    "referenceNumber": "PPP18O-142/6055/BH TENDER DDP-ARRET URGENT SOLAIRE (MOENSBERG)",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Levering, plaatsing en ingebruikname van een noodstopysteem voor de fotovoltaïsche productie"
-     },
-     {
-      "language": "FR",
-      "text": "Fourniture, pose et mise en service d’un système de coupure d’urgence de la production photovoltaïque"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-14",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Levering, plaatsing en ingebruikname van een noodstopysteem voor de fotovoltaïsche productie (DC-strings) te Moensberg (Ukkel). "
-      },
-      {
-       "language": "FR",
-       "text": "Fourniture, pose et mise en service d’un système de coupure d’urgence de la production photovoltaïque (Strings DC) à Moensberg (Uccle)"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Levering, plaatsing en ingebruikname van een noodstopysteem voor de fotovoltaïsche productie"
-      },
-      {
-       "language": "FR",
-       "text": "Fourniture, pose et mise en service d’un système de coupure d’urgence de la production photovoltaïque"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "WORKS"
-   ],
-   "noticeIds": [
-    "7a1f7301-ef1f-40bb-b702-c24dd73bf7d6"
-   ],
-   "noticeSubType": "E3",
-   "nutsCodes": [
-    "BE100"
-   ],
-   "organisation": {
-    "organisationId": 2721,
-    "organisationNames": [
-     {
-      "language": "EN",
-      "text": "BinHôme"
-     },
-     {
-      "language": "DE",
-      "text": "BinHôme"
-     },
-     {
-      "language": "NL",
-      "text": "BinHôme"
-     },
-     {
-      "language": "FR",
-      "text": "BinHôme"
-     }
-    ],
-    "tree": "200004.200028.2721"
-   },
-   "procedureId": "b55e42e9-e7f4-4247-a731-0790cb6acee2",
-   "publicationDate": "2026-10-14",
-   "publicationLanguages": [
-    "NL",
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP18O-142/6055/BH TENDER DDP-ARRET URGENT SOLAIRE (MOENSBERG)_001"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "c9818eb6-b665-4d9c-b9f7-d370e3863a96",
-   "publishedAt": [
-    "2026-10-14T00:00:46.740918"
-   ],
-   "referenceNumber": "PPP18O-142/6055/BH TENDER DDP-ARRET URGENT SOLAIRE (MOENSBERG)_001",
-   "sentAt": [
-    "2026-10-14T00:00:46.740918"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-30T10:00:00"
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "45261410-1",
-     "descriptions": [
-      {
-       "language": "DE",
-       "text": "Dachabdichtungs- und -dämmarbeiten"
-      },
-      {
-       "language": "EN",
-       "text": "Roof insulation work"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux d'isolation de toiture"
-      },
-      {
-       "language": "NL",
-       "text": "Dakisolatiewerkzaamheden"
-      }
-     ]
-    },
-    {
-     "code": "45260000-7",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Dakdekkers- en andere gespecialiseerde bouwwerkzaamheden"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de couverture et travaux d'autres corps de métier spécialisés"
-      },
-      {
-       "language": "DE",
-       "text": "Dachdeckarbeiten und Spezialbauarbeiten"
-      },
-      {
-       "language": "EN",
-       "text": "Roof works and other special trade construction works"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "45261410-1",
-    "descriptions": [
-     {
-      "language": "DE",
-      "text": "Dachabdichtungs- und -dämmarbeiten"
-     },
-     {
-      "language": "EN",
-      "text": "Roof insulation work"
-     },
-     {
-      "language": "FR",
-      "text": "Travaux d'isolation de toiture"
-     },
-     {
-      "language": "NL",
-      "text": "Dakisolatiewerkzaamheden"
+      "text": "Travaux d'installation d'ascenseurs"
      }
     ]
    },
    "dispatchDate": "2026-10-14",
    "dossier": {
     "accreditations": {
-     "D4": 1
+     "N1": 1
     },
     "descriptions": [
      {
       "language": "FR",
-      "text": "Le Marché a pour objet les travaux, les fournitures, les services, le transport, la main-d'œuvre et tous les moyens nécessaires pour l’exécution de l’isolation des combles du bâtiment Fédasil sis à 6820 Florenville."
+      "text": " Le marché a pour objet les travaux, les fournitures, les services, le transport, la main-d’œuvre et tous les moyens nécessaires à l’installation, en parfait état de fonctionnement, d’un ascenseur électrique sans salle des machines dans le PALAIS D’EGMONT  à 1000 BRUXELLES"
+     },
+     {
+      "language": "NL",
+      "text": "Deze Opdracht heeft als voorwerp de werken, leveringen, de diensten, het vervoer, de arbeidskrachten en alle middelen, nodig voor 1 installatie in perfecte staat van werking van een elektrische lift zonder machinekamer in het  EGMONTPALEIS te 1000  BRUSSEL "
      }
     ],
     "enterpriseCategories": [
      {
-      "categoryCode": "D4",
+      "categoryCode": "N1",
       "levels": [
        1
       ]
      }
     ],
     "legalBasis": "D24",
-    "number": "RDGB-WRS-2026-810050-6",
+    "number": "RDGB-BRU-2026-220022-245",
     "procurementProcedureType": "OPEN",
-    "referenceNumber": "RDGB-WRS-2026-810050-6",
+    "referenceNumber": "RDGB-BRU-2026-220022-245",
     "titles": [
      {
       "language": "FR",
-      "text": "FLORENVILLE – FÉDASIL – Isolation des combles"
+      "text": "1000 BRUXELLES : PALAIS D’EGMONT   - Travaux de remplacement d’un ascenseur (n° 002) "
+     },
+     {
+      "language": "NL",
+      "text": "1000 BRUSSEL : EGMONTPALEIS  - Vervangen van één liftinstallatie (nr. 002) "
      }
     ]
    },
@@ -320,7 +133,11 @@
      "descriptions": [
       {
        "language": "FR",
-       "text": "Le Marché a pour objet les travaux, les fournitures, les services, le transport, la main-d'œuvre et tous les moyens nécessaires pour l’exécution de l’isolation des combles du bâtiment Fédasil sis à 6820 Florenville."
+       "text": " 1000 BRUXELLES : PALAIS D’EGMONT  - Travaux de remplacement d’un ascenseur (n° 002)  "
+      },
+      {
+       "language": "NL",
+       "text": " 1000 BRUSSEL : EGMONTPALEIS  - Vervangen van één liftinstallatie (nr. 002)  "
       }
      ],
      "reservedExecution": [
@@ -331,8 +148,12 @@
      ],
      "titles": [
       {
+       "language": "NL",
+       "text": "RDGB-BRU-2026-220022-245 - 1"
+      },
+      {
        "language": "FR",
-       "text": "RDGB-WRS-2026-810050-6"
+       "text": "RDGB-BRU-2026-220022-245 - 1"
       }
      ]
     }
@@ -341,97 +162,139 @@
     "WORKS"
    ],
    "noticeIds": [
-    "7e439dac-e6de-475b-be22-f5406c645dd3"
+    "79da2819-333c-49cd-91dd-ff1d7ac6f1d3"
    ],
-   "noticeSubType": "16",
+   "noticeSubType": "E4",
    "nutsCodes": [
-    "BE345"
+    "BE100"
    ],
    "organisation": {
-    "organisationId": 4889,
+    "organisationId": 5078,
     "organisationNames": [
      {
+      "language": "EN",
+      "text": "Buildingsagency - Direction Electromechanical"
+     },
+     {
       "language": "FR",
-      "text": "Regie des Bâtiments - Wallonie Région Sud"
+      "text": "Régie des Bâtiments - Centre d’expertise technique et d’innovation"
      },
      {
       "language": "DE",
-      "text": "Regie des Bâtiments - Wallonie Région Sud"
-     },
-     {
-      "language": "EN",
-      "text": "Buildingsagency.be - Wallonie Région Sud"
+      "text": "Regie der Gebouwen - Directie Elektromechanical"
      },
      {
       "language": "NL",
-      "text": "Regie des Bâtiments - Wallonie Région Sud"
+      "text": "Regie der Gebouwen - Centrum voor technische expertise & innovatie"
      }
     ],
-    "tree": "200002.200010.5.4889"
+    "tree": "200002.200010.5.5078"
    },
-   "procedureId": "76f7668c-f533-40cb-ba40-81657b4103d1",
+   "procedureId": "d903936d-494b-4d7b-8136-ebff6c2dc22f",
    "publicationDate": "2026-10-14",
    "publicationLanguages": [
+    "NL",
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "RDGB-WRS-2026-810050-6_Avis de publication"
+    "RDGB-BRU-2026-220022-245_pub02"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "9aa06e4a-3f71-4ad9-adc7-8ba5af2ab812",
+   "publicationWorkspaceId": "8e9624f3-5803-4caf-8188-18cac945b670",
    "publishedAt": [
-    "2026-10-14T00:00:45.187506"
+    "2026-10-14T00:00:47.141134"
    ],
-   "referenceNumber": "RDGB-WRS-2026-810050-6_Avis de publication",
+   "referenceNumber": "RDGB-BRU-2026-220022-245_pub02",
    "sentAt": [
-    "2026-10-14T00:00:45.187506"
+    "2026-10-14T00:00:47.141134"
    ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-19T10:00:00"
+   "tedPublished": false
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45215400-1",
+     "code": "45300000-0",
      "descriptions": [
       {
        "language": "NL",
-       "text": "Werkzaamheden voor begraafplaats"
+       "text": "Installatiewerkzaamheden in de bouw"
       },
       {
        "language": "EN",
-       "text": "Cemetery works"
+       "text": "Building installation work"
       },
       {
        "language": "DE",
-       "text": "Friedhof"
+       "text": "Bauinstallationsarbeiten"
       },
       {
        "language": "FR",
-       "text": "Cimetière"
+       "text": "Travaux d'équipement du bâtiment"
+      }
+     ]
+    },
+    {
+     "code": "45214620-2",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Bouwen van onderzoek- en testruimten"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de construction d'équipements de recherche et d'essai"
+      },
+      {
+       "language": "DE",
+       "text": "Bau von Forschungs- und Prüfeinrichtungen"
+      },
+      {
+       "language": "EN",
+       "text": "Research and testing facilities construction work"
+      }
+     ]
+    },
+    {
+     "code": "45214630-5",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Scientific installations"
+      },
+      {
+       "language": "FR",
+       "text": "Installations scientifiques"
+      },
+      {
+       "language": "DE",
+       "text": "Wissenschaftliche Einrichtungen"
+      },
+      {
+       "language": "NL",
+       "text": "Wetenschappelijke installaties"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45215400-1",
+    "code": "45300000-0",
     "descriptions": [
      {
       "language": "NL",
-      "text": "Werkzaamheden voor begraafplaats"
+      "text": "Installatiewerkzaamheden in de bouw"
      },
      {
       "language": "EN",
-      "text": "Cemetery works"
+      "text": "Building installation work"
      },
      {
       "language": "DE",
-      "text": "Friedhof"
+      "text": "Bauinstallationsarbeiten"
      },
      {
       "language": "FR",
-      "text": "Cimetière"
+      "text": "Travaux d'équipement du bâtiment"
      }
     ]
    },
@@ -441,19 +304,205 @@
     "descriptions": [
      {
       "language": "FR",
-      "text": "Le présent marché public a pour objet la fourniture et le placement de caveaux préfabriqués en béton armé, l’entrée des caveaux se trouvant au-dessus, et de columbariums.    Elle comprend tous les travaux et toutes les fournitures indiquées au cahier spécial des charges et au métré servant de base au marché et tous autres ouvrages et fournitures accessoires pour un travail absolument parfait et complet.   Les quantités présumées mentionnées dans le métré sont données à titre d’information.   Il n’y a pas de seuil minimal, ni de seuil maximal de commande qui sont garantis.   Les commandes sont effectuées tout au long de l’année, en fonction des besoins à satisfaire.  "
+      "text": "Conception, fourniture, installation et mise en service d'une installation hypoxique normobare"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP1IT-373/6058/20260009",
+    "number": "PPP19O-30/6024/2026/031",
     "procurementProcedureType": "OPEN",
-    "referenceNumber": "PPP1IT-373/6058/20260009",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "referenceNumber": "PPP19O-30/6024/2026/031",
     "titles": [
      {
       "language": "FR",
-      "text": "Fourniture et placement de caveaux, cavurnes et columbariums dans les cimetières de la Commune de Hensies pendant 1 an avec 3 tacites reconductions"
+      "text": "Conception, fourniture, installation et mise en service d'une installation hypoxique normobare"
+     }
+    ]
+   },
+   "insertionDate": "2026-09-24",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Conception, fourniture, installation et mise en service d'une installation hypoxique normobare"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Conception, fourniture, installation et mise en service d'une installation hypoxique normobare"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "a40f870e-4f1c-478f-aad7-98adb76d79bd",
+    "b70b1809-e2f5-4f0d-a094-7b5cc1645632"
+   ],
+   "noticeSubType": "16",
+   "nutsCodes": [
+    "BE310"
+   ],
+   "organisation": {
+    "organisationId": 2736,
+    "organisationNames": [
+     {
+      "language": "EN",
+      "text": "Complexe Sportif de Blocry ASBL"
+     },
+     {
+      "language": "DE",
+      "text": "Complexe Sportif de Blocry ASBL"
+     },
+     {
+      "language": "NL",
+      "text": "Complexe Sportif de Blocry ASBL"
+     },
+     {
+      "language": "FR",
+      "text": "Complexe Sportif de Blocry ASBL"
+     }
+    ],
+    "tree": "200004.200032.2736"
+   },
+   "procedureId": "5e7eabe1-2048-41e4-9a4b-025dd18c7b01",
+   "publicationDate": "2026-10-14",
+   "publicationLanguages": [
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP19O-30/6024/2026/031_001"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "f9884d0c-e762-42ad-bcd9-65764167e9f6",
+   "publishedAt": [
+    "2026-10-14T00:00:45.014837",
+    "2026-09-24T14:25:45.025034"
+   ],
+   "referenceNumber": "PPP19O-30/6024/2026/031_001",
+   "sentAt": [
+    "2026-10-14T00:00:45.014837",
+    "2026-09-24T14:25:45.025034"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-11-09T11:00:00"
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "34144900-7",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Electric vehicles"
+      },
+      {
+       "language": "FR",
+       "text": "Véhicules électriques"
+      },
+      {
+       "language": "NL",
+       "text": "Elektrische voertuigen"
+      },
+      {
+       "language": "DE",
+       "text": "Elektrofahrzeuge"
+      }
+     ]
+    },
+    {
+     "code": "34136100-0",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Leichtlastwagen"
+      },
+      {
+       "language": "FR",
+       "text": "Fourgonnettes"
+      },
+      {
+       "language": "NL",
+       "text": "Lichte bestelwagens"
+      },
+      {
+       "language": "EN",
+       "text": "Light vans"
+      }
+     ]
+    },
+    {
+     "code": "34110000-1",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Voitures particulières"
+      },
+      {
+       "language": "EN",
+       "text": "Passenger cars"
+      },
+      {
+       "language": "DE",
+       "text": "Personenkraftwagen"
+      },
+      {
+       "language": "NL",
+       "text": "Personenwagens"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "34136100-0",
+    "descriptions": [
+     {
+      "language": "DE",
+      "text": "Leichtlastwagen"
+     },
+     {
+      "language": "FR",
+      "text": "Fourgonnettes"
+     },
+     {
+      "language": "NL",
+      "text": "Lichte bestelwagens"
+     },
+     {
+      "language": "EN",
+      "text": "Light vans"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-14",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Ce marché a pour but l'acquisition d'une camionnette châssis simple cabine (avec benne basculante) pour remplacer la camionnette du service plantation de la Commune de Dison."
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP04Z-2219/6102/2025-2219",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP04Z-2219/6102/2025-2219",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Marché de fournitures - Acquisition d'une camionnette pour le service plantation"
      }
     ]
    },
@@ -463,182 +512,151 @@
      "descriptions": [
       {
        "language": "FR",
-       "text": "Fourniture et placement de columbariums dans les cimetières de l'entité"
+       "text": "Ce marché a pour but l'acquisition d'une camionnette châssis simple cabine (avec benne basculante) pour remplacer la camionnette du service plantation de la Commune de Dison."
       }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
      ],
      "titles": [
       {
        "language": "FR",
-       "text": "Fourniture et placement de columbariums dans les cimetières de l'entité"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Fourniture et placement de caveaux et cavurnes dans les cimetières de la Commune de Hensies"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Fourniture et placement de caveaux et cavurnes dans les cimetières de la Commune de Hensies"
+       "text": "Marché de fournitures - Acquisition d'une camionnette pour le service plantation"
       }
      ]
     }
    ],
    "natures": [
-    "WORKS"
+    "SUPPLIES"
    ],
    "noticeIds": [
-    "59dad777-89c5-453b-900f-e8512213c42e"
+    "dabe2dc3-ca54-4e61-9fe6-5f38f7a9d6fc"
    ],
-   "noticeSubType": "16",
+   "noticeSubType": "E4",
    "nutsCodes": [
-    "BE323"
+    "BE335"
    ],
    "organisation": {
-    "organisationId": 2225,
+    "organisationId": 206,
     "organisationNames": [
      {
       "language": "FR",
-      "text": "Hensies"
+      "text": "Dison"
      },
      {
       "language": "EN",
-      "text": "Hensies"
+      "text": "Dison"
      },
      {
       "language": "DE",
-      "text": "Hensies"
+      "text": "Dison"
      },
      {
       "language": "NL",
-      "text": "Hensies"
+      "text": "Dison"
      }
     ],
-    "tree": "200004.200021.2225"
+    "tree": "200004.200021.206"
    },
-   "procedureId": "7e97da3c-09cb-468f-8e10-4af20fafa4b4",
+   "procedureId": "e3755176-c0bc-4625-a133-4b63f0229f7b",
    "publicationDate": "2026-10-14",
    "publicationLanguages": [
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP1IT-373/6058/20260009_001"
+    "PPP04Z-2219/6102/2025-2219_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "d5af9103-9f18-4e28-ac96-b8837dcccaf0",
+   "publicationWorkspaceId": "2e12995b-261c-4cf3-b59b-a841bcf3f685",
    "publishedAt": [
-    "2026-10-14T00:00:46.382148"
+    "2026-10-14T00:00:46.092178"
    ],
-   "referenceNumber": "PPP1IT-373/6058/20260009_001",
+   "referenceNumber": "PPP04Z-2219/6102/2025-2219_002",
    "sentAt": [
-    "2026-10-14T00:00:46.382148"
+    "2026-10-14T00:00:46.092178"
    ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-16T09:00:00"
+   "tedPublished": false
   }
  ],
  "exemple_attribution": [
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45400000-1",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Travaux de parachèvement de bâtiment"
-      },
-      {
-       "language": "EN",
-       "text": "Building completion work"
-      },
-      {
-       "language": "DE",
-       "text": "Baufertigstellung"
-      },
-      {
-       "language": "NL",
-       "text": "Afwerking van gebouwen"
-      }
-     ]
-    },
-    {
-     "code": "45214100-1",
+     "code": "45313100-5",
      "descriptions": [
       {
        "language": "EN",
-       "text": "Construction work for kindergarten buildings"
+       "text": "Lift installation work"
       },
       {
        "language": "NL",
-       "text": "Kleuterschoolgebouwen"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de construction de jardins d'enfants"
+       "text": "Installeren van liften"
       },
       {
        "language": "DE",
-       "text": "Bauarbeiten für Kindergärten"
+       "text": "Installation von Aufzügen"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux d'installation d'ascenseurs"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45400000-1",
+    "code": "45313100-5",
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Travaux de parachèvement de bâtiment"
-     },
-     {
       "language": "EN",
-      "text": "Building completion work"
-     },
-     {
-      "language": "DE",
-      "text": "Baufertigstellung"
+      "text": "Lift installation work"
      },
      {
       "language": "NL",
-      "text": "Afwerking van gebouwen"
+      "text": "Installeren van liften"
+     },
+     {
+      "language": "DE",
+      "text": "Installation von Aufzügen"
+     },
+     {
+      "language": "FR",
+      "text": "Travaux d'installation d'ascenseurs"
      }
     ]
    },
    "dispatchDate": "2026-10-14",
    "dossier": {
-    "accreditations": {},
+    "accreditations": {
+     "N1": 1
+    },
     "descriptions": [
      {
       "language": "FR",
-      "text": "Projet Val d’Eugène – Aménagement intérieur d’une crèche de 14 lits. Parachèvements, techniques et finitions, afin de répondre aux Normes ONE, AFSCA et INCENDIE."
+      "text": " Le marché a pour objet les travaux, les fournitures, les services, le transport, la main-d’œuvre et tous les moyens nécessaires à l’installation, en parfait état de fonctionnement, d’un ascenseur électrique sans salle des machines dans le PALAIS D’EGMONT  à 1000 BRUXELLES"
+     },
+     {
+      "language": "NL",
+      "text": "Deze Opdracht heeft als voorwerp de werken, leveringen, de diensten, het vervoer, de arbeidskrachten en alle middelen, nodig voor 1 installatie in perfecte staat van werking van een elektrische lift zonder machinekamer in het  EGMONTPALEIS te 1000  BRUSSEL "
      }
     ],
-    "enterpriseCategories": [],
+    "enterpriseCategories": [
+     {
+      "categoryCode": "N1",
+      "levels": [
+       1
+      ]
+     }
+    ],
     "legalBasis": "D24",
-    "number": "PPP05G-1099/6062/2025-027",
+    "number": "RDGB-BRU-2026-220022-245",
     "procurementProcedureType": "OPEN",
-    "referenceNumber": "PPP05G-1099/6062/2025-027",
+    "referenceNumber": "RDGB-BRU-2026-220022-245",
     "titles": [
      {
       "language": "FR",
-      "text": "Projet Val d'Eugène - Aménagement intérieur d'une crèche de 14 lits"
+      "text": "1000 BRUXELLES : PALAIS D’EGMONT   - Travaux de remplacement d’un ascenseur (n° 002) "
+     },
+     {
+      "language": "NL",
+      "text": "1000 BRUSSEL : EGMONTPALEIS  - Vervangen van één liftinstallatie (nr. 002) "
      }
     ]
    },
@@ -648,7 +666,11 @@
      "descriptions": [
       {
        "language": "FR",
-       "text": "Projet Val d’Eugène – Aménagement intérieur d’une crèche de 14 lits. Parachèvements, techniques et finitions, afin de répondre aux Normes ONE, AFSCA et INCENDIE."
+       "text": " 1000 BRUXELLES : PALAIS D’EGMONT  - Travaux de remplacement d’un ascenseur (n° 002)  "
+      },
+      {
+       "language": "NL",
+       "text": " 1000 BRUSSEL : EGMONTPALEIS  - Vervangen van één liftinstallatie (nr. 002)  "
       }
      ],
      "reservedExecution": [
@@ -659,8 +681,12 @@
      ],
      "titles": [
       {
+       "language": "NL",
+       "text": "RDGB-BRU-2026-220022-245 - 1"
+      },
+      {
        "language": "FR",
-       "text": "Projet Val d'Eugène - Aménagement intérieur d'une crèche de 14 lits"
+       "text": "RDGB-BRU-2026-220022-245 - 1"
       }
      ]
     }
@@ -669,51 +695,52 @@
     "WORKS"
    ],
    "noticeIds": [
-    "9001c02a-6a42-47a5-86a2-43a5cae1d32f"
+    "79da2819-333c-49cd-91dd-ff1d7ac6f1d3"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE310"
+    "BE100"
    ],
    "organisation": {
-    "organisationId": 411,
+    "organisationId": 5078,
     "organisationNames": [
      {
-      "language": "FR",
-      "text": "Court-Saint-Etienne"
+      "language": "EN",
+      "text": "Buildingsagency - Direction Electromechanical"
      },
      {
-      "language": "EN",
-      "text": "Court-Saint-Etienne"
+      "language": "FR",
+      "text": "Régie des Bâtiments - Centre d’expertise technique et d’innovation"
      },
      {
       "language": "DE",
-      "text": "Court-Saint-Etienne"
+      "text": "Regie der Gebouwen - Directie Elektromechanical"
      },
      {
       "language": "NL",
-      "text": "Court-Saint-Etienne"
+      "text": "Regie der Gebouwen - Centrum voor technische expertise & innovatie"
      }
     ],
-    "tree": "200004.200021.411"
+    "tree": "200002.200010.5.5078"
    },
-   "procedureId": "9c92ac13-8586-48b3-a85c-e4bdeb30d78d",
+   "procedureId": "d903936d-494b-4d7b-8136-ebff6c2dc22f",
    "publicationDate": "2026-10-14",
    "publicationLanguages": [
+    "NL",
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP05G-1099/6062/2025-027_005"
+    "RDGB-BRU-2026-220022-245_pub02"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "f9f7fecc-f8c3-44ee-8e97-c1afbea38b3a",
+   "publicationWorkspaceId": "8e9624f3-5803-4caf-8188-18cac945b670",
    "publishedAt": [
-    "2026-10-14T00:00:47.382786"
+    "2026-10-14T00:00:47.141134"
    ],
-   "referenceNumber": "PPP05G-1099/6062/2025-027_005",
+   "referenceNumber": "RDGB-BRU-2026-220022-245_pub02",
    "sentAt": [
-    "2026-10-14T00:00:47.382786"
+    "2026-10-14T00:00:47.141134"
    ],
    "tedPublished": false
   }
