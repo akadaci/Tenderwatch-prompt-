@@ -1,15 +1,12 @@
 {
- "updated": "2026-10-14T16:01:53Z",
+ "updated": "2026-10-14T18:01:50Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
  "received": 597,
- "kept": 305,
- "count": 1544,
+ "kept": 306,
+ "count": 1545,
  "new_ids": [
-  "bda-d73ce8a1-bcb4-496b-bbe7-ec281431b10f",
-  "bda-b2ade8d1-8ccc-4b1f-ab9e-1e420291f897",
-  "bda-fe32d709-4368-4999-bbbd-b8eda3c9bc88",
-  "bda-7b94c03c-43c8-40a3-994c-545d254f626f"
+  "bda-6ba7559a-2582-4453-8188-25e0708557c9"
  ],
  "records": [
   {
@@ -320,7 +317,7 @@
    "verif_date": "2026-10-14",
    "preuve": "Bulletin des Adjudications, réf. WA/OND/D100/2026/2 (attribution, sous-type eForms 29), publié le 2026-10-14.",
    "date_publication": "2026-10-14",
-   "cpv": "45233141,34996000,34992200,34942000,45233294,45233290,45233280,45316200,45233142",
+   "cpv": "45233141,34996000,34992200,34942000,45233294,45233280,45233290,45316200,45233142",
    "ted_ref": "WA/OND/D100/2026/2_pub02",
    "notes": "Deze aanneming heeft tot doel om, op de gewestwegen (N) en de autosnelwegen (A) en hun aanhorigheden in de vervoersregio Antwerpen van de afdeling Antwerpen, de berijdbaarheid en de veiligheid van de weggebruikers van de gewestwegen en de autosnelwegen te verzekeren. Dit door de uitvoering van onder",
    "procedure": "bdbf786a-812c-49f0-b993-61642bb964f2",
@@ -2174,6 +2171,27 @@
    "procedure": "16043a2a-fb9f-4d40-80bf-4d24f543ea6d",
    "dossier": "PPP0A9-709/6164/2026170",
    "first_seen": "2026-10-14T16:01:53Z"
+  },
+  {
+   "id": "bda-6ba7559a-2582-4453-8188-25e0708557c9",
+   "source_type": "BDA",
+   "nom": "Aannemingsopdracht voor de levering en plaatsing van de comfortsignalisatie en wayfinding in het multifunctioneel project ‘Pleinlaan’, Pleinlaan 1-3-3A te 1050 Elsene.",
+   "lieu": "Bruxelles",
+   "province": "Bruxelles",
+   "mo": "VLAAMSE GEMEENSCHAPSCOMMISSIE",
+   "etape": 4,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/6ba7559a-2582-4453-8188-25e0708557c9",
+   "verif": "vérifié",
+   "verif_date": "2026-10-14",
+   "preuve": "Bulletin des Adjudications, réf. VGC2026/GP/OIPLE2301.03 (avis de marché, sous-type eForms E3), publié le 2026-10-14.",
+   "date_publication": "2026-10-14",
+   "cpv": "45450000",
+   "ted_ref": "",
+   "notes": "Levering en plaatsing van de comfortsignalisatie en wayfinding in het multifunctioneel project ‘Pleinlaan’, Pleinlaan 1-3-3A te 1050 Elsene.",
+   "procedure": "b62b99d1-b5b6-4c11-a7dc-939b1f19458b",
+   "dossier": "VGC2026/GP/OIPLE2301.03",
+   "first_seen": "2026-10-14T18:01:50Z"
   },
   {
    "id": "bda-a4d01442-3721-4801-ae7b-6cfe1f226899",
