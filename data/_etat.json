@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T20:01:22Z",
+ "updated": "2026-10-14T20:11:06Z",
  "days_back": 3,
  "sources": {
   "TED": {
@@ -14,9 +14,9 @@
   },
   "Permis Bruxelles": {
    "ok": false,
-   "echecs_suite": 4,
+   "echecs_suite": 5,
    "error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&count=2000&sortBy=requestReceptionDate+D&cql_filter=requestReceptionDate%3C='2026-10-15''\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/503",
-   "trace": "Traceback (most recent call last):\n  File \"/home/runner/work/Tenderwatch-prompt-/Tenderwatch-prompt-/radar/main.py\", line 27, in main\n    new = mod.run(days_back=days_back)\n          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/Tenderwatch-prompt-/Tenderwatch-prompt-/radar/nova.py\", line 91, in run\n    items = fetch(days_back=days_back)\n            ^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/Tenderwatch-prompt-/Tenderwatch-prompt-/radar/nova.py\", line 41, in fetch\n    r.raise_for_status()\n  File \"/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/httpx/_models.py\", line 829, in raise_for_status\n    raise HTTPStatusError(message, request=request, response=self)\nhttpx.HTTPStatusError: Server error '503 Service Unavailable' for url 'https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&count=2000&sortBy=requestReceptionDate+D&cql_filter=requestReceptionDate%3C='2026-10-15''\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/503\n"
+   "trace": "Traceback (most recent call last):\n  File \"/home/runner/work/Tenderwatch-prompt-/Tenderwatch-prompt-/radar/main.py\", line 28, in main\n    new = mod.run(days_back=days_back)\n          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/Tenderwatch-prompt-/Tenderwatch-prompt-/radar/nova.py\", line 91, in run\n    items = fetch(days_back=days_back)\n            ^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/Tenderwatch-prompt-/Tenderwatch-prompt-/radar/nova.py\", line 41, in fetch\n    r.raise_for_status()\n  File \"/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/httpx/_models.py\", line 829, in raise_for_status\n    raise HTTPStatusError(message, request=request, response=self)\nhttpx.HTTPStatusError: Server error '503 Service Unavailable' for url 'https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&count=2000&sortBy=requestReceptionDate+D&cql_filter=requestReceptionDate%3C='2026-10-15''\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/503\n"
   }
  },
  "radar_public": 1997
