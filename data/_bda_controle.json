@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 291768
+  "totalCount": 291774
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -11,7 +11,6 @@
   "ACTIVE|16|['SUPPLIES']",
   "ACTIVE|16|['WORKS', 'SERVICES']",
   "ACTIVE|16|['WORKS', 'SUPPLIES', 'SERVICES']",
-  "ACTIVE|16|['WORKS', 'SUPPLIES']",
   "ACTIVE|16|['WORKS']",
   "ACTIVE|17|['SERVICES']",
   "ACTIVE|17|['SUPPLIES']",
@@ -50,97 +49,120 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45313100-5",
+     "code": "39293400-6",
      "descriptions": [
       {
        "language": "EN",
-       "text": "Lift installation work"
-      },
-      {
-       "language": "NL",
-       "text": "Installeren van liften"
-      },
-      {
-       "language": "DE",
-       "text": "Installation von Aufzügen"
+       "text": "Artificial lawn"
       },
       {
        "language": "FR",
-       "text": "Travaux d'installation d'ascenseurs"
+       "text": "Pelouse artificielle"
+      },
+      {
+       "language": "NL",
+       "text": "Kunstgazon"
+      },
+      {
+       "language": "DE",
+       "text": "Kunstrasen"
+      }
+     ]
+    },
+    {
+     "code": "45212221-1",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Construction work in connection with structures for sports ground"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de construction d'ouvrages pour terrain de sports"
+      },
+      {
+       "language": "DE",
+       "text": "Bauarbeiten für Sportplätze"
+      },
+      {
+       "language": "NL",
+       "text": "Bouwwerkzaamheden voor installaties voor sportterrein"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45313100-5",
+    "code": "45236119-7",
     "descriptions": [
      {
-      "language": "EN",
-      "text": "Lift installation work"
-     },
-     {
-      "language": "NL",
-      "text": "Installeren van liften"
+      "language": "FR",
+      "text": "Travaux de réparation de terrains de sports"
      },
      {
       "language": "DE",
-      "text": "Installation von Aufzügen"
+      "text": "Ausbesserungsarbeiten an Sportplätzen"
      },
      {
-      "language": "FR",
-      "text": "Travaux d'installation d'ascenseurs"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-14",
-   "dossier": {
-    "accreditations": {
-     "N1": 1
-    },
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": " Le marché a pour objet les travaux, les fournitures, les services, le transport, la main-d’œuvre et tous les moyens nécessaires à l’installation, en parfait état de fonctionnement, d’un ascenseur électrique sans salle des machines dans le PALAIS D’EGMONT  à 1000 BRUXELLES"
+      "language": "EN",
+      "text": "Repair work on sports fields"
      },
      {
       "language": "NL",
-      "text": "Deze Opdracht heeft als voorwerp de werken, leveringen, de diensten, het vervoer, de arbeidskrachten en alle middelen, nodig voor 1 installatie in perfecte staat van werking van een elektrische lift zonder machinekamer in het  EGMONTPALEIS te 1000  BRUSSEL "
+      "text": "Herstelwerkzaamheden op sportvelden"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-15",
+   "dossier": {
+    "accreditations": {
+     "G4": 3
+    },
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Voorwerp van de werken: De opdracht heeft betrekking op werken voor de VERNIEUWING VAN DE KUNSTGRASMAT VAN HET TWEEDE TERREIN IN HET WAHIS-STADION, T-2 - AANVULLING MET ZAND EN KURKKORRELS.  De technische vereisten worden beschreven in deel III. Beschrijving van de technische eisen.  CPV-code:  45236119 – Herstelwerkzaamheden aan sportvelden 39293400 – Kunstgras 77320000-9 – Onderhoudsdiensten voor sportvelden  Plaats van de prestaties: Wahis-stadion te Bloemtuinenlaan 50 bis in 1030 Schaarbeek. "
+     },
+     {
+      "language": "FR",
+      "text": "Objet des Travaux :  Le marché a pour objet des travaux relatifs au RENOUVELLEMENT DU GAZON SYNTHETIQUE DU SECOND TERRAIN DU STADE WAHIS, T-2 – REMPLISSAGE DE SABLE ET DE GRANULATS DE LIÈGE.   Les exigences techniques sont précisées dans la partie III. Description des exigences techniques.   CPV :  45236119-Travaux de réparation de terrains de sports 39293400 – Pelouse artificielle 77320000-9 – Services d’entretien de terrains de sports  Lieu des prestations : stade Wahis sis avenue des Jardins 50 bis à 1030 Schaerbeek.  "
      }
     ],
     "enterpriseCategories": [
      {
-      "categoryCode": "N1",
+      "categoryCode": "G4",
       "levels": [
+       3,
+       2,
        1
       ]
      }
     ],
     "legalBasis": "D24",
-    "number": "RDGB-BRU-2026-220022-245",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "RDGB-BRU-2026-220022-245",
+    "number": "Scha/Infra/2026/035",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "Scha/Infra/2026/035",
     "titles": [
      {
       "language": "FR",
-      "text": "1000 BRUXELLES : PALAIS D’EGMONT   - Travaux de remplacement d’un ascenseur (n° 002) "
+      "text": "RENOUVELLEMENT DU GAZON SYNTHETIQUE DU SECOND TERRAIN DU STADE WAHIS, T-2 – REMPLISSAGE DE SABLE ET DE GRANULATS DE LIÈGE "
      },
      {
       "language": "NL",
-      "text": "1000 BRUSSEL : EGMONTPALEIS  - Vervangen van één liftinstallatie (nr. 002) "
+      "text": "VERNIEUWING VAN DE KUNSTGRASMAT VAN HET TWEEDE TERREIN IN HET WAHIS-STADION, T-2 - AANVULLING MET ZAND EN KURKKORRELS"
      }
     ]
    },
-   "insertionDate": "2026-10-14",
+   "insertionDate": "2026-10-15",
    "lots": [
     {
      "descriptions": [
       {
-       "language": "FR",
-       "text": " 1000 BRUXELLES : PALAIS D’EGMONT  - Travaux de remplacement d’un ascenseur (n° 002)  "
+       "language": "NL",
+       "text": "Voorwerp van de werken: De opdracht heeft betrekking op werken voor de VERNIEUWING VAN DE KUNSTGRASMAT VAN HET TWEEDE TERREIN IN HET WAHIS-STADION, T-2 - AANVULLING MET ZAND EN KURKKORRELS.  De technische vereisten worden beschreven in deel III. Beschrijving van de technische eisen.  CPV-code:  45236119 – Herstelwerkzaamheden aan sportvelden 39293400 – Kunstgras 77320000-9 – Onderhoudsdiensten voor sportvelden  Plaats van de prestaties: Wahis-stadion te Bloemtuinenlaan 50 bis in 1030 Schaarbeek. "
       },
       {
-       "language": "NL",
-       "text": " 1000 BRUSSEL : EGMONTPALEIS  - Vervangen van één liftinstallatie (nr. 002)  "
+       "language": "FR",
+       "text": "Objet des Travaux :  Le marché a pour objet des travaux relatifs au RENOUVELLEMENT DU GAZON SYNTHETIQUE DU SECOND TERRAIN DU STADE WAHIS, T-2 – REMPLISSAGE DE SABLE ET DE GRANULATS DE LIÈGE.   Les exigences techniques sont précisées dans la partie III. Description des exigences techniques.   CPV :  45236119-Travaux de réparation de terrains de sports 39293400 – Pelouse artificielle 77320000-9 – Services d’entretien de terrains de sports  Lieu des prestations : stade Wahis sis avenue des Jardins 50 bis à 1030 Schaerbeek.  "
       }
      ],
      "reservedExecution": [
@@ -152,11 +174,11 @@
      "titles": [
       {
        "language": "NL",
-       "text": "RDGB-BRU-2026-220022-245 - 1"
+       "text": "Scha/Infra/2026/035 - 1"
       },
       {
        "language": "FR",
-       "text": "RDGB-BRU-2026-220022-245 - 1"
+       "text": "Scha/Infra/2026/035 - 1"
       }
      ]
     }
@@ -165,416 +187,339 @@
     "WORKS"
    ],
    "noticeIds": [
-    "79da2819-333c-49cd-91dd-ff1d7ac6f1d3"
+    "4c8a4802-5d39-4972-83b8-6904a7f03fd9"
    ],
-   "noticeSubType": "E4",
+   "noticeSubType": "16",
    "nutsCodes": [
     "BE100"
    ],
    "organisation": {
-    "organisationId": 5078,
+    "organisationId": 4774,
     "organisationNames": [
      {
-      "language": "EN",
-      "text": "Buildingsagency - Direction Electromechanical"
-     },
-     {
       "language": "FR",
-      "text": "Régie des Bâtiments - Centre d’expertise technique et d’innovation"
-     },
-     {
-      "language": "DE",
-      "text": "Regie der Gebouwen - Directie Elektromechanical"
+      "text": "Service Bâtiments"
      },
      {
       "language": "NL",
-      "text": "Regie der Gebouwen - Centrum voor technische expertise & innovatie"
+      "text": "Dienst Gebouwen"
+     },
+     {
+      "language": "EN",
+      "text": "Service Bâtiments"
+     },
+     {
+      "language": "DE",
+      "text": "Service Bâtiments"
      }
     ],
-    "tree": "200002.200010.5.5078"
+    "tree": "200004.200021.636.4774"
    },
-   "procedureId": "d903936d-494b-4d7b-8136-ebff6c2dc22f",
-   "publicationDate": "2026-10-14",
+   "procedureId": "2444da3f-943c-4f9d-90b5-457603c7c7e4",
+   "publicationDate": "2026-10-15",
    "publicationLanguages": [
     "NL",
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "RDGB-BRU-2026-220022-245_pub02"
+    "Scha/Infra/2026/035_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "8e9624f3-5803-4caf-8188-18cac945b670",
+   "publicationWorkspaceId": "3066dda6-4616-4538-94a1-c1741bdacd0e",
    "publishedAt": [
-    "2026-10-14T00:00:47.141134"
+    "2026-10-15T00:00:45.019398"
    ],
-   "referenceNumber": "RDGB-BRU-2026-220022-245_pub02",
+   "referenceNumber": "Scha/Infra/2026/035_pub01",
    "sentAt": [
-    "2026-10-14T00:00:47.141134"
+    "2026-10-15T00:00:45.019398"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-11-16T10:30:00"
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "85141000-9",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Services provided by medical personnel"
+      },
+      {
+       "language": "NL",
+       "text": "Diensten verleend door medisch personeel"
+      },
+      {
+       "language": "FR",
+       "text": "Services prestés par le personnel médical"
+      },
+      {
+       "language": "DE",
+       "text": "Dienstleistungen von medizinischem Personal"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "85141000-9",
+    "descriptions": [
+     {
+      "language": "EN",
+      "text": "Services provided by medical personnel"
+     },
+     {
+      "language": "NL",
+      "text": "Diensten verleend door medisch personeel"
+     },
+     {
+      "language": "FR",
+      "text": "Services prestés par le personnel médical"
+     },
+     {
+      "language": "DE",
+      "text": "Dienstleistungen von medizinischem Personal"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-15",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Raamovereenkomst voor medische, sanitaire en psychosociale hulpverlening tijdens de carnavalsactiviteiten gedurende maximum vier carnavalsperiodes en dit voor onderstaande activiteiten.  Perceel 1: “Medische, sanitaire en psychosociale hulpverlening gedurende 'Carnaval' Perceel 2: “Medische, sanitaire en psychosociale hulpverlening gedurende de ‘Verkiezing Prins Carnaval' Perceel 3: “Medische, sanitaire en psychosociale hulpverlening gedurende de 'Dag van het kind'"
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP091-5268/6273/26/MJE-49/27-30V",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP091-5268/6273/26/MJE-49/27-30V",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Thema Mens - dienst Cultuur. Raamovereenkomst voor medische, sanitaire en psychosociale hulpverlening tijdens de carnavalsactiviteiten gedurende maximum vier carnavalsperiodes."
+     }
+    ]
+   },
+   "insertionDate": "2026-10-15",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Medische, sanitaire en psychosociale hulpverlening gedurende de ‘Verkiezing Prins Carnaval'"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Medische, sanitaire en psychosociale hulpverlening gedurende de ‘Verkiezing Prins Carnaval'"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Medische, sanitaire en psychosociale hulpverlening gedurende de 'Dag van het kind'"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Medische, sanitaire en psychosociale hulpverlening gedurende de 'Dag van het kind'"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Medische, sanitaire en psychosociale hulpverlening gedurende 'Carnaval'"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Medische, sanitaire en psychosociale hulpverlening gedurende 'Carnaval'"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SERVICES"
+   ],
+   "noticeIds": [
+    "b3c9c9e9-f241-4ae0-9472-c763c9cc325c"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE231"
+   ],
+   "organisation": {
+    "organisationId": 184,
+    "organisationNames": [
+     {
+      "language": "EN",
+      "text": "Aalst "
+     },
+     {
+      "language": "DE",
+      "text": "Aalst "
+     },
+     {
+      "language": "NL",
+      "text": "Aalst "
+     },
+     {
+      "language": "FR",
+      "text": "Aalst "
+     }
+    ],
+    "tree": "200004.200021.184"
+   },
+   "procedureId": "6ba624b6-e091-4594-81b0-90da1bbc4eb7",
+   "publicationDate": "2026-10-15",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP091-5268/6273/26/MJE-49/27-30V_002"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "79a88c02-b2bf-4932-b372-d44a54ff0c7e",
+   "publishedAt": [
+    "2026-10-15T00:00:48.481632"
+   ],
+   "referenceNumber": "PPP091-5268/6273/26/MJE-49/27-30V_002",
+   "sentAt": [
+    "2026-10-15T00:00:48.481632"
    ],
    "tedPublished": false
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45300000-0",
+     "code": "79200000-6",
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Installatiewerkzaamheden in de bouw"
+       "language": "FR",
+       "text": "Services de comptabilité, services d'audit et services fiscaux"
       },
       {
        "language": "EN",
-       "text": "Building installation work"
-      },
-      {
-       "language": "DE",
-       "text": "Bauinstallationsarbeiten"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux d'équipement du bâtiment"
-      }
-     ]
-    },
-    {
-     "code": "45214620-2",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Bouwen van onderzoek- en testruimten"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de construction d'équipements de recherche et d'essai"
-      },
-      {
-       "language": "DE",
-       "text": "Bau von Forschungs- und Prüfeinrichtungen"
-      },
-      {
-       "language": "EN",
-       "text": "Research and testing facilities construction work"
-      }
-     ]
-    },
-    {
-     "code": "45214630-5",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Scientific installations"
-      },
-      {
-       "language": "FR",
-       "text": "Installations scientifiques"
-      },
-      {
-       "language": "DE",
-       "text": "Wissenschaftliche Einrichtungen"
+       "text": "Accounting, auditing and fiscal services"
       },
       {
        "language": "NL",
-       "text": "Wetenschappelijke installaties"
+       "text": "Boekhoudkundige, audit- en fiscale diensten"
+      },
+      {
+       "language": "DE",
+       "text": "Dienstleistungen im Bereich Rechnungslegung und -prüfung sowie Steuerwesen"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45300000-0",
+    "code": "79200000-6",
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Installatiewerkzaamheden in de bouw"
+      "language": "FR",
+      "text": "Services de comptabilité, services d'audit et services fiscaux"
      },
      {
       "language": "EN",
-      "text": "Building installation work"
+      "text": "Accounting, auditing and fiscal services"
+     },
+     {
+      "language": "NL",
+      "text": "Boekhoudkundige, audit- en fiscale diensten"
      },
      {
       "language": "DE",
-      "text": "Bauinstallationsarbeiten"
-     },
-     {
-      "language": "FR",
-      "text": "Travaux d'équipement du bâtiment"
+      "text": "Dienstleistungen im Bereich Rechnungslegung und -prüfung sowie Steuerwesen"
      }
     ]
    },
-   "dispatchDate": "2026-10-14",
+   "dispatchDate": "2026-10-15",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Conception, fourniture, installation et mise en service d'une installation hypoxique normobare"
+      "language": "NL",
+      "text": "KOV vzw is een entiteit die een commissaris moet benoemen onder de bedrijfsrevisoren ingeschreven in het openbaar register van het instituut van de Bedrijfsrevisoren. "
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP19O-30/6024/2026/031",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "PPP19O-30/6024/2026/031",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "Conception, fourniture, installation et mise en service d'une installation hypoxique normobare"
-     }
-    ]
-   },
-   "insertionDate": "2026-09-24",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Conception, fourniture, installation et mise en service d'une installation hypoxique normobare"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Conception, fourniture, installation et mise en service d'une installation hypoxique normobare"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "WORKS"
-   ],
-   "noticeIds": [
-    "a40f870e-4f1c-478f-aad7-98adb76d79bd",
-    "b70b1809-e2f5-4f0d-a094-7b5cc1645632"
-   ],
-   "noticeSubType": "16",
-   "nutsCodes": [
-    "BE310"
-   ],
-   "organisation": {
-    "organisationId": 2736,
-    "organisationNames": [
-     {
-      "language": "EN",
-      "text": "Complexe Sportif de Blocry ASBL"
-     },
-     {
-      "language": "DE",
-      "text": "Complexe Sportif de Blocry ASBL"
-     },
-     {
-      "language": "NL",
-      "text": "Complexe Sportif de Blocry ASBL"
-     },
-     {
-      "language": "FR",
-      "text": "Complexe Sportif de Blocry ASBL"
-     }
-    ],
-    "tree": "200004.200032.2736"
-   },
-   "procedureId": "5e7eabe1-2048-41e4-9a4b-025dd18c7b01",
-   "publicationDate": "2026-10-14",
-   "publicationLanguages": [
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP19O-30/6024/2026/031_001"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "f9884d0c-e762-42ad-bcd9-65764167e9f6",
-   "publishedAt": [
-    "2026-10-14T00:00:45.014837",
-    "2026-09-24T14:25:45.025034"
-   ],
-   "referenceNumber": "PPP19O-30/6024/2026/031_001",
-   "sentAt": [
-    "2026-10-14T00:00:45.014837",
-    "2026-09-24T14:25:45.025034"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-09T11:00:00"
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "34144900-7",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Electric vehicles"
-      },
-      {
-       "language": "FR",
-       "text": "Véhicules électriques"
-      },
-      {
-       "language": "NL",
-       "text": "Elektrische voertuigen"
-      },
-      {
-       "language": "DE",
-       "text": "Elektrofahrzeuge"
-      }
-     ]
-    },
-    {
-     "code": "34136100-0",
-     "descriptions": [
-      {
-       "language": "DE",
-       "text": "Leichtlastwagen"
-      },
-      {
-       "language": "FR",
-       "text": "Fourgonnettes"
-      },
-      {
-       "language": "NL",
-       "text": "Lichte bestelwagens"
-      },
-      {
-       "language": "EN",
-       "text": "Light vans"
-      }
-     ]
-    },
-    {
-     "code": "34110000-1",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Voitures particulières"
-      },
-      {
-       "language": "EN",
-       "text": "Passenger cars"
-      },
-      {
-       "language": "DE",
-       "text": "Personenkraftwagen"
-      },
-      {
-       "language": "NL",
-       "text": "Personenwagens"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "34136100-0",
-    "descriptions": [
-     {
-      "language": "DE",
-      "text": "Leichtlastwagen"
-     },
-     {
-      "language": "FR",
-      "text": "Fourgonnettes"
-     },
-     {
-      "language": "NL",
-      "text": "Lichte bestelwagens"
-     },
-     {
-      "language": "EN",
-      "text": "Light vans"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-14",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Ce marché a pour but l'acquisition d'une camionnette châssis simple cabine (avec benne basculante) pour remplacer la camionnette du service plantation de la Commune de Dison."
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP04Z-2219/6102/2025-2219",
+    "number": "KOV/OPZVB/2026-001",
     "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP04Z-2219/6102/2025-2219",
+    "referenceNumber": "KOV/OPZVB/2026-001",
     "titles": [
      {
-      "language": "FR",
-      "text": "Marché de fournitures - Acquisition d'une camionnette pour le service plantation"
+      "language": "NL",
+      "text": "AANSTELLING COMMISSARIS-REVISOR VOOR 3 JAAR (2026-2027-2028)"
      }
     ]
    },
-   "insertionDate": "2026-10-14",
+   "insertionDate": "2026-10-15",
    "lots": [
     {
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Ce marché a pour but l'acquisition d'une camionnette châssis simple cabine (avec benne basculante) pour remplacer la camionnette du service plantation de la Commune de Dison."
+       "language": "NL",
+       "text": "Aanstelling commissaris-revisor voor 3 jaar ( 2026-2027-2028)"
       }
      ],
      "titles": [
       {
-       "language": "FR",
-       "text": "Marché de fournitures - Acquisition d'une camionnette pour le service plantation"
+       "language": "NL",
+       "text": "KOV/OPZVB/2026-001 - 1"
       }
      ]
     }
    ],
    "natures": [
-    "SUPPLIES"
+    "SERVICES"
    ],
    "noticeIds": [
-    "dabe2dc3-ca54-4e61-9fe6-5f38f7a9d6fc"
+    "8ba687ae-dca3-478a-b0d2-554690f045df"
    ],
-   "noticeSubType": "E4",
+   "noticeSubType": "29",
    "nutsCodes": [
-    "BE335"
+    "BE"
    ],
    "organisation": {
-    "organisationId": 206,
+    "organisationId": 12761,
     "organisationNames": [
      {
-      "language": "FR",
-      "text": "Dison"
-     },
-     {
-      "language": "EN",
-      "text": "Dison"
-     },
-     {
-      "language": "DE",
-      "text": "Dison"
-     },
-     {
       "language": "NL",
-      "text": "Dison"
+      "text": "Katholiek Onderwijs voor Volwasssenen"
      }
     ],
-    "tree": "200004.200021.206"
+    "tree": "200004.200026.12761"
    },
-   "procedureId": "e3755176-c0bc-4625-a133-4b63f0229f7b",
-   "publicationDate": "2026-10-14",
+   "procedureId": "fef43760-1e45-4d1c-908c-6f9a08b3c09b",
+   "publicationDate": "2026-10-15",
    "publicationLanguages": [
-    "FR"
+    "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP04Z-2219/6102/2025-2219_002"
+    "KOV/OPZVB/2026-001_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "2e12995b-261c-4cf3-b59b-a841bcf3f685",
+   "publicationWorkspaceId": "3ac2b4e3-6e3d-486f-8ee7-85d0b2a49b05",
    "publishedAt": [
-    "2026-10-14T00:00:46.092178"
+    "2026-10-15T00:00:50.530445"
    ],
-   "referenceNumber": "PPP04Z-2219/6102/2025-2219_002",
+   "referenceNumber": "KOV/OPZVB/2026-001_pub01",
    "sentAt": [
-    "2026-10-14T00:00:46.092178"
+    "2026-10-15T00:00:50.530445"
    ],
    "tedPublished": false
   }
@@ -583,167 +528,163 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45313100-5",
+     "code": "85141000-9",
      "descriptions": [
       {
        "language": "EN",
-       "text": "Lift installation work"
+       "text": "Services provided by medical personnel"
       },
       {
        "language": "NL",
-       "text": "Installeren van liften"
-      },
-      {
-       "language": "DE",
-       "text": "Installation von Aufzügen"
+       "text": "Diensten verleend door medisch personeel"
       },
       {
        "language": "FR",
-       "text": "Travaux d'installation d'ascenseurs"
+       "text": "Services prestés par le personnel médical"
+      },
+      {
+       "language": "DE",
+       "text": "Dienstleistungen von medizinischem Personal"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45313100-5",
+    "code": "85141000-9",
     "descriptions": [
      {
       "language": "EN",
-      "text": "Lift installation work"
+      "text": "Services provided by medical personnel"
      },
      {
       "language": "NL",
-      "text": "Installeren van liften"
+      "text": "Diensten verleend door medisch personeel"
+     },
+     {
+      "language": "FR",
+      "text": "Services prestés par le personnel médical"
      },
      {
       "language": "DE",
-      "text": "Installation von Aufzügen"
-     },
-     {
-      "language": "FR",
-      "text": "Travaux d'installation d'ascenseurs"
+      "text": "Dienstleistungen von medizinischem Personal"
      }
     ]
    },
-   "dispatchDate": "2026-10-14",
+   "dispatchDate": "2026-10-15",
    "dossier": {
-    "accreditations": {
-     "N1": 1
-    },
+    "accreditations": {},
     "descriptions": [
      {
-      "language": "FR",
-      "text": " Le marché a pour objet les travaux, les fournitures, les services, le transport, la main-d’œuvre et tous les moyens nécessaires à l’installation, en parfait état de fonctionnement, d’un ascenseur électrique sans salle des machines dans le PALAIS D’EGMONT  à 1000 BRUXELLES"
-     },
-     {
       "language": "NL",
-      "text": "Deze Opdracht heeft als voorwerp de werken, leveringen, de diensten, het vervoer, de arbeidskrachten en alle middelen, nodig voor 1 installatie in perfecte staat van werking van een elektrische lift zonder machinekamer in het  EGMONTPALEIS te 1000  BRUSSEL "
+      "text": "Raamovereenkomst voor medische, sanitaire en psychosociale hulpverlening tijdens de carnavalsactiviteiten gedurende maximum vier carnavalsperiodes en dit voor onderstaande activiteiten.  Perceel 1: “Medische, sanitaire en psychosociale hulpverlening gedurende 'Carnaval' Perceel 2: “Medische, sanitaire en psychosociale hulpverlening gedurende de ‘Verkiezing Prins Carnaval' Perceel 3: “Medische, sanitaire en psychosociale hulpverlening gedurende de 'Dag van het kind'"
      }
     ],
-    "enterpriseCategories": [
-     {
-      "categoryCode": "N1",
-      "levels": [
-       1
-      ]
-     }
-    ],
+    "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "RDGB-BRU-2026-220022-245",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "RDGB-BRU-2026-220022-245",
+    "number": "PPP091-5268/6273/26/MJE-49/27-30V",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP091-5268/6273/26/MJE-49/27-30V",
     "titles": [
      {
-      "language": "FR",
-      "text": "1000 BRUXELLES : PALAIS D’EGMONT   - Travaux de remplacement d’un ascenseur (n° 002) "
-     },
-     {
       "language": "NL",
-      "text": "1000 BRUSSEL : EGMONTPALEIS  - Vervangen van één liftinstallatie (nr. 002) "
+      "text": "Thema Mens - dienst Cultuur. Raamovereenkomst voor medische, sanitaire en psychosociale hulpverlening tijdens de carnavalsactiviteiten gedurende maximum vier carnavalsperiodes."
      }
     ]
    },
-   "insertionDate": "2026-10-14",
+   "insertionDate": "2026-10-15",
    "lots": [
     {
      "descriptions": [
       {
-       "language": "FR",
-       "text": " 1000 BRUXELLES : PALAIS D’EGMONT  - Travaux de remplacement d’un ascenseur (n° 002)  "
-      },
-      {
        "language": "NL",
-       "text": " 1000 BRUSSEL : EGMONTPALEIS  - Vervangen van één liftinstallatie (nr. 002)  "
+       "text": "Medische, sanitaire en psychosociale hulpverlening gedurende de ‘Verkiezing Prins Carnaval'"
       }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
      ],
      "titles": [
       {
        "language": "NL",
-       "text": "RDGB-BRU-2026-220022-245 - 1"
-      },
+       "text": "Medische, sanitaire en psychosociale hulpverlening gedurende de ‘Verkiezing Prins Carnaval'"
+      }
+     ]
+    },
+    {
+     "descriptions": [
       {
-       "language": "FR",
-       "text": "RDGB-BRU-2026-220022-245 - 1"
+       "language": "NL",
+       "text": "Medische, sanitaire en psychosociale hulpverlening gedurende de 'Dag van het kind'"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Medische, sanitaire en psychosociale hulpverlening gedurende de 'Dag van het kind'"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Medische, sanitaire en psychosociale hulpverlening gedurende 'Carnaval'"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Medische, sanitaire en psychosociale hulpverlening gedurende 'Carnaval'"
       }
      ]
     }
    ],
    "natures": [
-    "WORKS"
+    "SERVICES"
    ],
    "noticeIds": [
-    "79da2819-333c-49cd-91dd-ff1d7ac6f1d3"
+    "b3c9c9e9-f241-4ae0-9472-c763c9cc325c"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE100"
+    "BE231"
    ],
    "organisation": {
-    "organisationId": 5078,
+    "organisationId": 184,
     "organisationNames": [
      {
       "language": "EN",
-      "text": "Buildingsagency - Direction Electromechanical"
-     },
-     {
-      "language": "FR",
-      "text": "Régie des Bâtiments - Centre d’expertise technique et d’innovation"
+      "text": "Aalst "
      },
      {
       "language": "DE",
-      "text": "Regie der Gebouwen - Directie Elektromechanical"
+      "text": "Aalst "
      },
      {
       "language": "NL",
-      "text": "Regie der Gebouwen - Centrum voor technische expertise & innovatie"
+      "text": "Aalst "
+     },
+     {
+      "language": "FR",
+      "text": "Aalst "
      }
     ],
-    "tree": "200002.200010.5.5078"
+    "tree": "200004.200021.184"
    },
-   "procedureId": "d903936d-494b-4d7b-8136-ebff6c2dc22f",
-   "publicationDate": "2026-10-14",
+   "procedureId": "6ba624b6-e091-4594-81b0-90da1bbc4eb7",
+   "publicationDate": "2026-10-15",
    "publicationLanguages": [
-    "NL",
-    "FR"
+    "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "RDGB-BRU-2026-220022-245_pub02"
+    "PPP091-5268/6273/26/MJE-49/27-30V_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "8e9624f3-5803-4caf-8188-18cac945b670",
+   "publicationWorkspaceId": "79a88c02-b2bf-4932-b372-d44a54ff0c7e",
    "publishedAt": [
-    "2026-10-14T00:00:47.141134"
+    "2026-10-15T00:00:48.481632"
    ],
-   "referenceNumber": "RDGB-BRU-2026-220022-245_pub02",
+   "referenceNumber": "PPP091-5268/6273/26/MJE-49/27-30V_002",
    "sentAt": [
-    "2026-10-14T00:00:47.141134"
+    "2026-10-15T00:00:48.481632"
    ],
    "tedPublished": false
   }
