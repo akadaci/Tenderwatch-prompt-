@@ -1,11 +1,14 @@
 {
- "updated": "2026-10-14T10:01:47Z",
+ "updated": "2026-10-14T12:01:58Z",
  "source": "urban.brussels NOVA (WFS)",
  "days_back": 3,
- "received": 60,
- "kept": 12,
- "count": 82,
- "new_ids": [],
+ "received": 67,
+ "kept": 14,
+ "count": 84,
+ "new_ids": [
+  "nova-04/PU/2049040",
+  "nova-15/PFU/2048661"
+ ],
  "records": [
   {
    "id": "nova-01/PFD/2049050",
@@ -26,7 +29,7 @@
   {
    "id": "nova-09/PU/2049045",
    "source_type": "Permis",
-   "nom": "Permis d'urbanisme privé",
+   "nom": "La régularisation des transformations existantes du rdc ainsi qu’en façade avant. Rénovation visant l’amélioration énergétique du bâtiment, comprenant l’isolation de l’ensemble des façades a l’excepti",
    "lieu": "Avenue des Scarabées 26, 1050 Ixelles",
    "type": "Permis d'urbanisme privé",
    "mo": "",
@@ -86,6 +89,22 @@
    "date_publication": "2026-10-13",
    "notes": "Autorité : Molenbeek-Saint-Jean",
    "first_seen": "2026-10-14T04:01:36Z"
+  },
+  {
+   "id": "nova-04/PU/2049040",
+   "source_type": "Permis",
+   "nom": "La présente demande de permis d'urbanisme porte sur l'isolation thermique par l'extérieur du pignon latéral droit de l’immeuble.",
+   "lieu": "Rue Emile Claus 12, 1000 Bruxelles",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='04/PU/2049040'",
+   "verif": "vérifié",
+   "verif_date": "2026-10-14",
+   "preuve": "Demande de permis 04/PU/2049040 reçue le 2026-10-13 (urban.brussels, service NOVA).",
+   "date_publication": "2026-10-13",
+   "notes": "Autorité : Bruxelles",
+   "first_seen": "2026-10-14T12:01:58Z"
   },
   {
    "id": "nova-11/PFU/2048694",
@@ -198,6 +217,22 @@
    "date_publication": "2026-10-11",
    "notes": "Autorité : Bruxelles",
    "first_seen": "2026-10-12T12:05:54Z"
+  },
+  {
+   "id": "nova-15/PFU/2048661",
+   "source_type": "Permis",
+   "nom": "Procéder au renouvellement du branchement gaz de l'immeuble En raison de la vétusté du branchement gaz existant,",
+   "lieu": "Avenue Louis Bertrand 42, 1030 Schaerbeek",
+   "type": "Permis d'urbanisme unique délivré par le FD",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='15/PFU/2048661'",
+   "verif": "vérifié",
+   "verif_date": "2026-10-14",
+   "preuve": "Demande de permis 15/PFU/2048661 reçue le 2026-10-11 (urban.brussels, service NOVA).",
+   "date_publication": "2026-10-11",
+   "notes": "Autorité : BUP",
+   "first_seen": "2026-10-14T12:01:58Z"
   },
   {
    "id": "nova-19/PU/2048477",
