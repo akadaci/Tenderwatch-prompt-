@@ -21,6 +21,7 @@ def test_alerte_seulement_apres_3_echecs(tmp_path, monkeypatch):
     assert M.main(1) == 0 and M.main(1) == 0      # échecs 1 et 2 : pas d'alerte
     assert M.main(1) == 1                          # 3e d'affilée : alerte
     assert json.loads((tmp_path / "_etat.json").read_text())["sources"]["B"]["echecs_suite"] == 3
+    assert [M.main(1) for _ in range(9)] == [0] * 8 + [1]   # 4e à 11e : silence, 12e : rappel quotidien
     monkeypatch.setattr(M, "SOURCES", (("B", Ok),))
     assert M.main(1) == 0
     assert json.loads((tmp_path / "_etat.json").read_text())["sources"]["B"]["echecs_suite"] == 0
