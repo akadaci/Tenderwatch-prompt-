@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T17:21:32Z",
+ "updated": "2026-10-15T18:01:27Z",
  "days_back": 3,
  "sources": {
   "TED": {
@@ -9,13 +9,14 @@
   },
   "Bulletin des Adjudications": {
    "ok": true,
-   "new": 1,
+   "new": 0,
    "echecs_suite": 0
   },
   "Permis Bruxelles": {
-   "ok": true,
-   "new": 0,
-   "echecs_suite": 0
+   "ok": false,
+   "echecs_suite": 1,
+   "error": "ConnectTimeout: timed out",
+   "trace": "core.ConnectTimeout: timed out\n\nThe above exception was the direct cause of the following exception:\n\nTraceback (most recent call last):\n  File \"/home/runner/work/Tenderwatch-prompt-/Tenderwatch-prompt-/radar/main.py\", line 28, in main\n    new = mod.run(days_back=days_back)\n          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/Tenderwatch-prompt-/Tenderwatch-prompt-/radar/nova.py\", line 91, in run\n    items = fetch(days_back=days_back)\n            ^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/Tenderwatch-prompt-/Tenderwatch-prompt-/radar/nova.py\", line 40, in fetch\n    r = client.get(_url(params))\n        ^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/httpx/_client.py\", line 1053, in get\n    return self.request(\n           ^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/httpx/_client.py\", line 825, in request\n    return self.send(request, auth=auth, follow_redirects=follow_redirects)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/httpx/_client.py\", line 914, in send\n    response = self._send_handling_auth(\n               ^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/httpx/_client.py\", line 942, in _send_handling_auth\n    response = self._send_handling_redirects(\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/httpx/_client.py\", line 979, in _send_handling_redirects\n    response = self._send_single_request(request)\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/httpx/_client.py\", line 1014, in _send_single_request\n    response = transport.handle_request(request)\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/httpx/_transports/default.py\", line 249, in handle_request\n    with map_httpcore_exceptions():\n  File \"/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/contextlib.py\", line 158, in __exit__\n    self.gen.throw(typ, value, traceback)\n  File \"/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/httpx/_transports/default.py\", line 118, in map_httpcore_exceptions\n    raise mapped_exc(message) from exc\nhttpx.ConnectTimeout: timed out\n"
   }
  },
  "radar_public": 2119
