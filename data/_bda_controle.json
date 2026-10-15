@@ -1,16 +1,18 @@
 {
  "meta": {
-  "totalCount": 291775
+  "totalCount": 291836
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
   "ACTIVE|10|['SUPPLIES', 'SERVICES']",
+  "ACTIVE|10|['WORKS']",
   "ACTIVE|15|['SUPPLIES']",
   "ACTIVE|16|['SERVICES']",
   "ACTIVE|16|['SUPPLIES', 'SERVICES']",
   "ACTIVE|16|['SUPPLIES']",
   "ACTIVE|16|['WORKS', 'SERVICES']",
   "ACTIVE|16|['WORKS', 'SUPPLIES', 'SERVICES']",
+  "ACTIVE|16|['WORKS', 'SUPPLIES']",
   "ACTIVE|16|['WORKS']",
   "ACTIVE|17|['SERVICES']",
   "ACTIVE|17|['SUPPLIES']",
@@ -45,6 +47,165 @@
   "ACTIVE|E4|['WORKS']"
  ],
  "exemples": [
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45215500-2",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Public conveniences"
+      },
+      {
+       "language": "NL",
+       "text": "Openbare toiletten"
+      },
+      {
+       "language": "FR",
+       "text": "Toilettes publiques"
+      },
+      {
+       "language": "DE",
+       "text": "Öffentliche Toiletten"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45215500-2",
+    "descriptions": [
+     {
+      "language": "EN",
+      "text": "Public conveniences"
+     },
+     {
+      "language": "NL",
+      "text": "Openbare toiletten"
+     },
+     {
+      "language": "FR",
+      "text": "Toilettes publiques"
+     },
+     {
+      "language": "DE",
+      "text": "Öffentliche Toiletten"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-15",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Réalisation de latrines institutionnelles avec systèmes de lavages des mains dans les communes de Tchériba, Safané Dédougou et Boromo, Région du Bankui, au Burkina Faso."
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "BFA23001-10090",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "BFA23001-10090",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Réalisation de latrines institutionnelles avec systèmes de lavages des mains dans les communes de Tchériba, Safané Dédougou et Boromo, Région du Bankui, au Burkina Faso."
+     }
+    ]
+   },
+   "insertionDate": "2026-10-15",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Réalisation d’ouvrages d’assainissement autonome dans les communes de Safané et de Boromo."
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "BFA23001-10090 - 2"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Réalisation d’ouvrages d’assainissement autonome dans les communes de Tchériba et de Dédougou."
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "BFA23001-10090"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "5db4b3e6-834d-4a79-998b-7877fca18b04"
+   ],
+   "noticeSubType": "16",
+   "nutsCodes": [],
+   "organisation": {
+    "organisationId": 139,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "Enabel"
+     },
+     {
+      "language": "NL",
+      "text": "Enabel"
+     },
+     {
+      "language": "FR",
+      "text": "Enabel"
+     },
+     {
+      "language": "EN",
+      "text": "Enabel"
+     }
+    ],
+    "tree": "200002.200014.139"
+   },
+   "procedureId": "c6e229a0-1439-4b82-a89e-69a084b5b3bd",
+   "publicationDate": "2026-10-15",
+   "publicationLanguages": [
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "BFA23001-10090_pub01"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "1655ca68-9c16-4254-b2b0-bf775f51bb4e",
+   "publishedAt": [
+    "2026-10-15T01:09:45.01768"
+   ],
+   "referenceNumber": "BFA23001-10090_pub01",
+   "sentAt": [
+    "2026-10-15T01:09:45.01768"
+   ],
+   "tedPublished": false
+  },
   {
    "cpvAdditionalCodes": [
     {
@@ -396,129 +557,6 @@
    "referenceNumber": "PPP091-5268/6273/26/MJE-49/27-30V_002",
    "sentAt": [
     "2026-10-15T00:00:48.481632"
-   ],
-   "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "79200000-6",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Services de comptabilité, services d'audit et services fiscaux"
-      },
-      {
-       "language": "EN",
-       "text": "Accounting, auditing and fiscal services"
-      },
-      {
-       "language": "NL",
-       "text": "Boekhoudkundige, audit- en fiscale diensten"
-      },
-      {
-       "language": "DE",
-       "text": "Dienstleistungen im Bereich Rechnungslegung und -prüfung sowie Steuerwesen"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "79200000-6",
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Services de comptabilité, services d'audit et services fiscaux"
-     },
-     {
-      "language": "EN",
-      "text": "Accounting, auditing and fiscal services"
-     },
-     {
-      "language": "NL",
-      "text": "Boekhoudkundige, audit- en fiscale diensten"
-     },
-     {
-      "language": "DE",
-      "text": "Dienstleistungen im Bereich Rechnungslegung und -prüfung sowie Steuerwesen"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-15",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "KOV vzw is een entiteit die een commissaris moet benoemen onder de bedrijfsrevisoren ingeschreven in het openbaar register van het instituut van de Bedrijfsrevisoren. "
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "KOV/OPZVB/2026-001",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "KOV/OPZVB/2026-001",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "AANSTELLING COMMISSARIS-REVISOR VOOR 3 JAAR (2026-2027-2028)"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-15",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Aanstelling commissaris-revisor voor 3 jaar ( 2026-2027-2028)"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "KOV/OPZVB/2026-001 - 1"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SERVICES"
-   ],
-   "noticeIds": [
-    "8ba687ae-dca3-478a-b0d2-554690f045df"
-   ],
-   "noticeSubType": "29",
-   "nutsCodes": [
-    "BE"
-   ],
-   "organisation": {
-    "organisationId": 12761,
-    "organisationNames": [
-     {
-      "language": "NL",
-      "text": "Katholiek Onderwijs voor Volwasssenen"
-     }
-    ],
-    "tree": "200004.200026.12761"
-   },
-   "procedureId": "fef43760-1e45-4d1c-908c-6f9a08b3c09b",
-   "publicationDate": "2026-10-15",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "KOV/OPZVB/2026-001_pub01"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "3ac2b4e3-6e3d-486f-8ee7-85d0b2a49b05",
-   "publishedAt": [
-    "2026-10-15T00:00:50.530445"
-   ],
-   "referenceNumber": "KOV/OPZVB/2026-001_pub01",
-   "sentAt": [
-    "2026-10-15T00:00:50.530445"
    ],
    "tedPublished": false
   }

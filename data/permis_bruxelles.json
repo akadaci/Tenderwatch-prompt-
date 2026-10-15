@@ -1,16 +1,35 @@
 {
- "updated": "2026-10-15T02:01:55Z",
+ "updated": "2026-10-15T04:01:57Z",
  "source": "urban.brussels NOVA (WFS)",
  "days_back": 3,
- "received": 60,
- "kept": 12,
- "count": 84,
- "new_ids": [],
+ "received": 69,
+ "kept": 14,
+ "count": 86,
+ "new_ids": [
+  "nova-02/PU/2049201",
+  "nova-16/PU/2048831"
+ ],
  "records": [
+  {
+   "id": "nova-02/PU/2049201",
+   "source_type": "Permis",
+   "nom": "Permis d'urbanisme privé",
+   "lieu": "Avenue Isidore Gérard 29, 1160 Auderghem",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='02/PU/2049201'",
+   "verif": "vérifié",
+   "verif_date": "2026-10-15",
+   "preuve": "Demande de permis 02/PU/2049201 reçue le 2026-10-14 (urban.brussels, service NOVA), surface projetée 3139 m².",
+   "date_publication": "2026-10-14",
+   "notes": "Autorité : Auderghem",
+   "first_seen": "2026-10-15T04:01:57Z"
+  },
   {
    "id": "nova-01/PFD/2049050",
    "source_type": "Permis",
-   "nom": "Permis d'urbanisme délivré par le FD",
+   "nom": "Créer un nouveau Pôle Formation Emploi pour Technicity.brussels",
    "lieu": "Route de Lennik 501, 1070 Anderlecht",
    "type": "Permis d'urbanisme délivré par le FD",
    "mo": "",
@@ -102,6 +121,22 @@
    "date_publication": "2026-10-13",
    "notes": "Autorité : Bruxelles",
    "first_seen": "2026-10-14T12:01:58Z"
+  },
+  {
+   "id": "nova-16/PU/2048831",
+   "source_type": "Permis",
+   "nom": "régulariser trois appartements d’une chambre situés aux 1er, 2e et 3e étages, ainsi que réaménager le rez-de-chaussée en studio, comprenant le percement de murs porteurs",
+   "lieu": "Rue de Nieuwenhove 75, 1180 Uccle",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='16/PU/2048831'",
+   "verif": "vérifié",
+   "verif_date": "2026-10-15",
+   "preuve": "Demande de permis 16/PU/2048831 reçue le 2026-10-13 (urban.brussels, service NOVA).",
+   "date_publication": "2026-10-13",
+   "notes": "Autorité : Uccle",
+   "first_seen": "2026-10-15T04:01:57Z"
   },
   {
    "id": "nova-11/PFU/2048694",
