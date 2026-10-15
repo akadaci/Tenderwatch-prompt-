@@ -1,14 +1,11 @@
 {
- "updated": "2026-10-15T22:02:04Z",
+ "updated": "2026-10-15T23:18:34Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
  "received": 879,
  "kept": 431,
  "count": 1641,
- "new_ids": [
-  "bda-61f36225-5843-40b7-8537-8138fb2d0db4",
-  "bda-f2559ee1-f1e9-4477-8a2a-94335a2f244b"
- ],
+ "new_ids": [],
  "records": [
   {
    "id": "bda-61f36225-5843-40b7-8537-8138fb2d0db4",
@@ -612,7 +609,7 @@
    "verif_date": "2026-10-15",
    "preuve": "Bulletin des Adjudications, réf. PPP17X-283/6068/2026/077 (avis de marché, sous-type eForms 16), publié le 2026-10-15.",
    "date_publication": "2026-10-15",
-   "cpv": "71000000,71240000,71222000,79930000,71200000,79932000,71242000",
+   "cpv": "71000000,71240000,71222000,71200000,79930000,71242000,79932000",
    "ted_ref": "PPP17X-283/6068/2026/077_001",
    "notes": "Design & build: onthaalpoort Vlaamse Ardennen - scenografie, architectuur, ontwerp en uitvoering – wandelen door de kerk",
    "procedure": "1475443e-e77d-4c7a-be32-da1d2be52886",
@@ -675,7 +672,7 @@
    "verif_date": "2026-10-15",
    "preuve": "Bulletin des Adjudications, réf. SOF-MI-O8.08.02-26-3327 (avis de marché, sous-type eForms 16), publié le 2026-10-15.",
    "date_publication": "2026-10-15",
-   "cpv": "45233000,45233140,45233141,45233220,45233142,45233139",
+   "cpv": "45233000,45233220,45233141,45233140,45233142,45233139",
    "ted_ref": "SOF-MI-O8.08.02-26-3327_pub01",
    "notes": "Chacun des marchés conclus sur la base de l’accord-cadre est un marché de travaux qui a pour objet l’entretien général des routes et de leurs dépendances sur le district routier de Bastogne, à savoir : • réparation et réalisation d’îlots • traitement de surface • démontage-remontage de maçonnerie (m",
    "procedure": "71f3c38b-b135-40ec-b373-866b0280dd22",
@@ -6954,7 +6951,7 @@
    "verif_date": "2026-10-15",
    "preuve": "Bulletin des Adjudications, réf. ARW-26-020 (attribution, sous-type eForms 29), publié le 2026-10-13.",
    "date_publication": "2026-10-13",
-   "cpv": "45111100,45110000,45443000,45112500,45112400,45100000,45112420,45111213,45111000,45111200,45111220",
+   "cpv": "45111100,45110000,45443000,45112500,45112400,45100000,45112420,45111213,45111200,45111000,45111220",
    "ted_ref": "",
    "notes": "Het aanbestedingsdossier behelst de sloop van alle constructies vermeld met hun bijhorende capakeys onder hoofdstuk 14, alsook het vrij maken van hun tuinen en het inrichten van de vrijgekomen percelen. Deze werken zijn inclusief de afwerking van de vrijgekomen gevels aan naburige panden. De panden ",
    "procedure": "d311050d-bb42-469a-983d-0ea6b126315d",
