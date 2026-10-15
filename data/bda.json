@@ -1,18 +1,12 @@
 {
- "updated": "2026-10-15T16:01:55Z",
+ "updated": "2026-10-15T17:21:55Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 873,
- "kept": 428,
- "count": 1638,
+ "received": 874,
+ "kept": 429,
+ "count": 1639,
  "new_ids": [
-  "bda-ec030457-eb4a-4988-b9b4-31dfc2c92d5b",
-  "bda-8931e424-d539-4a34-9b4e-52c08bbd0a2e",
-  "bda-ad7e692b-e3a6-49fa-8262-8a3e0e21a7dd",
-  "bda-27973621-bfde-4096-bded-01f85c27841b",
-  "bda-787ca089-2569-4e8b-9d85-9e61004fd41e",
-  "bda-53d1897b-3cfa-408f-9d13-5d8481f96684",
-  "bda-e052331d-dd58-4109-a086-6c309aed1b52"
+  "bda-a71c650d-b218-45e5-ad99-d548d048b1bc"
  ],
  "records": [
   {
@@ -575,7 +569,7 @@
    "verif_date": "2026-10-15",
    "preuve": "Bulletin des Adjudications, réf. PPP17X-283/6068/2026/077 (avis de marché, sous-type eForms 16), publié le 2026-10-15.",
    "date_publication": "2026-10-15",
-   "cpv": "71000000,71240000,71222000,71200000,79930000,71242000,79932000",
+   "cpv": "71000000,71240000,71222000,71200000,79930000,79932000,71242000",
    "ted_ref": "PPP17X-283/6068/2026/077_001",
    "notes": "Design & build: onthaalpoort Vlaamse Ardennen - scenografie, architectuur, ontwerp en uitvoering – wandelen door de kerk",
    "procedure": "1475443e-e77d-4c7a-be32-da1d2be52886",
@@ -2681,6 +2675,27 @@
    "procedure": "da7241e7-a89c-466d-84ce-84a6b5b51fbf",
    "dossier": "PPP0BI-7258/6279/RQ-2026-T-001",
    "first_seen": "2026-10-15T16:01:55Z"
+  },
+  {
+   "id": "bda-a71c650d-b218-45e5-ad99-d548d048b1bc",
+   "source_type": "BDA",
+   "nom": "QUARTIER NORD - Travaux divers de voirie, interventions et aménagements ponctuels",
+   "lieu": "Bruxelles",
+   "province": "Bruxelles",
+   "mo": "Service Voirie",
+   "etape": 4,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/a71c650d-b218-45e5-ad99-d548d048b1bc",
+   "verif": "vérifié",
+   "verif_date": "2026-10-15",
+   "preuve": "Bulletin des Adjudications, réf. Scha/Infra/2026/038 (avis de marché, sous-type eForms 16), publié le 2026-10-15.",
+   "date_publication": "2026-10-15",
+   "cpv": "45233252",
+   "ted_ref": "",
+   "notes": "La présente entreprise a pour objet l’exécution de petites interventions en voirie en divers rues situés dans le Quartier Nord (voiries situées dans le périmètre délimité par la rue des Palais, la rue d’Aerschot et la limite communale avec la Commune de Saint-Josse-Ten-Noode).",
+   "procedure": "decb61e0-f6cb-4095-901a-65a606655396",
+   "dossier": "Scha/Infra/2026/038",
+   "first_seen": "2026-10-15T17:21:55Z"
   },
   {
    "id": "bda-f9884d0c-e762-42ad-bcd9-65764167e9f6",
@@ -6896,7 +6911,7 @@
    "verif_date": "2026-10-15",
    "preuve": "Bulletin des Adjudications, réf. ARW-26-020 (attribution, sous-type eForms 29), publié le 2026-10-13.",
    "date_publication": "2026-10-13",
-   "cpv": "45111100,45110000,45443000,45112500,45112400,45100000,45112420,45111213,45111000,45111200,45111220",
+   "cpv": "45111100,45110000,45443000,45112500,45112400,45100000,45112420,45111213,45111200,45111000,45111220",
    "ted_ref": "",
    "notes": "Het aanbestedingsdossier behelst de sloop van alle constructies vermeld met hun bijhorende capakeys onder hoofdstuk 14, alsook het vrij maken van hun tuinen en het inrichten van de vrijgekomen percelen. Deze werken zijn inclusief de afwerking van de vrijgekomen gevels aan naburige panden. De panden ",
    "procedure": "d311050d-bb42-469a-983d-0ea6b126315d",
