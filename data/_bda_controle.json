@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 291976
+  "totalCount": 291981
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -53,83 +53,358 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "79952000-2",
+     "code": "34114400-3",
      "descriptions": [
       {
-       "language": "EN",
-       "text": "Event services"
-      },
-      {
-       "language": "FR",
-       "text": "Services d'organisation d'événements"
+       "language": "DE",
+       "text": "Kleinbusse"
       },
       {
        "language": "NL",
-       "text": "Diensten voor het organiseren van evenementen"
+       "text": "Minibusjes"
       },
       {
-       "language": "DE",
-       "text": "Event-Organisation"
+       "language": "FR",
+       "text": "Minibus"
+      },
+      {
+       "language": "EN",
+       "text": "Minibuses"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "79952000-2",
+    "code": "34144910-0",
     "descriptions": [
      {
       "language": "EN",
-      "text": "Event services"
+      "text": "Electric buses"
      },
      {
       "language": "FR",
-      "text": "Services d'organisation d'événements"
+      "text": "Autobus électriques"
      },
      {
       "language": "NL",
-      "text": "Diensten voor het organiseren van evenementen"
+      "text": "Elektrische bussen"
      },
      {
       "language": "DE",
-      "text": "Event-Organisation"
+      "text": "Elektrobusse"
      }
     ]
    },
-   "dispatchDate": "2026-10-15",
+   "dispatchDate": "2026-10-16",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
       "language": "NL",
-      "text": "Port of Antwerp-Bruges organiseert jaarlijks meerdere evenementen waarbij zij omwonenden, stakeholders en nationale en internationale havengemeenschap informeert, inspireert informeren, en de rol van Port of Antwerp-Bruges als innovatieve en belangrijke community builder in de kijker zet.   Om efficiënt deze evenementen te kunnen organiseren is Port of Antwerp-Bruges op zoek naar een partner die een all-in venuelocatie in Antwerpen kan bieden. Met ‘all-in’ bedoelen we dat de partner niet alleen de locatie kan aanbieden, maar ook catering, techniek, meubilair, personeel, decoratie, etc. Kortom alles om een doorsnee event zelfstandig in house te kunnen begeleiden in opdracht van Port of Antwerp-Bruges.   Omdat de events van Port of Antwerp-Bruges gericht zijn op hoge kwaliteit en authenticiteit zoeken we een partner wiens locatie ook deze kenmerken bevat. Een partner met een authentieke locatie die unieke historische karakteristieken en/of verbanden met de haven heeft, draagt een duidelijke voorkeur. Tevens moet de service die zij bieden hoogstaand zijn en verschillende formules bevatten. "
+      "text": "Het betreft de aankoop van een nieuwe elektrische minibus. Aangezien het voertuig zal worden ingezet voor het vervoer van personen met een beperking, hecht de aanbestedende dienst groot gewicht aan toegankelijkheid, voldoende ruimte en algemeen comfort bij de beoordeling van de inschrijving. Daarom zal er, naast de verplichte technische specificaties, ook veel belang gehecht worden aan de testrit in het nemen van een finale beslissing."
      }
     ],
     "enterpriseCategories": [],
-    "legalBasis": "D25",
-    "number": "PPP0B3-19800/6087/K3842",
-    "procurementProcedureType": "NEG_WO_CALL_25",
-    "referenceNumber": "PPP0B3-19800/6087/K3842",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "legalBasis": "D24",
+    "number": "2026-1-A1-FAMBER/NMBS",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "2026-1-A1-FAMBER/NMBS",
     "titles": [
      {
       "language": "NL",
-      "text": "Raamovereenkomst voor events in KMDA"
+      "text": "Aankoop van een nieuwe elektrische minibus voor vervoer van personen met een berperking"
      }
     ]
    },
-   "insertionDate": "2026-10-15",
+   "insertionDate": "2026-10-16",
    "lots": [
     {
      "descriptions": [
       {
        "language": "NL",
-       "text": "Port of Antwerp-Bruges organiseert jaarlijks meerdere evenementen waarbij zij omwonenden, stakeholders en nationale en internationale havengemeenschap informeert, inspireert informeren, en de rol van Port of Antwerp-Bruges als innovatieve en belangrijke community builder in de kijker zet.   Om efficiënt deze evenementen te kunnen organiseren is Port of Antwerp-Bruges op zoek naar een partner die een all-in venuelocatie in Antwerpen kan bieden. Met ‘all-in’ bedoelen we dat de partner niet alleen de locatie kan aanbieden, maar ook catering, techniek, meubilair, personeel, decoratie, etc. Kortom alles om een doorsnee event zelfstandig in house te kunnen begeleiden in opdracht van Port of Antwerp-Bruges.   Omdat de events van Port of Antwerp-Bruges gericht zijn op hoge kwaliteit en authenticiteit zoeken we een partner wiens locatie ook deze kenmerken bevat. Een partner met een authentieke locatie die unieke historische karakteristieken en/of verbanden met de haven heeft, draagt een duidelijke voorkeur. Tevens moet de service die zij bieden hoogstaand zijn en verschillende formules bevatten. "
+       "text": "Aankoop voor een nieuwe elektrische minibus voor vervoer van mensen met een beperking"
       }
      ],
      "titles": [
       {
        "language": "NL",
-       "text": "Raamovereenkomst voor events in KMDA"
+       "text": "2026-1-A1-FAMBER/NMBS - 1"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SUPPLIES"
+   ],
+   "noticeIds": [
+    "2fedda51-3d80-4daa-8a4a-14c601fc0f93"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE213"
+   ],
+   "organisation": {
+    "organisationId": 3914,
+    "organisationNames": [
+     {
+      "language": "NL",
+      "text": "Ter Loke vzw"
+     },
+     {
+      "language": "FR",
+      "text": "Ter Loke vzw"
+     },
+     {
+      "language": "EN",
+      "text": "Ter Loke vzw"
+     },
+     {
+      "language": "DE",
+      "text": "Ter Loke vzw"
+     }
+    ],
+    "tree": "200004.200032.3914"
+   },
+   "procedureId": "966cefd1-b041-4a2d-8c47-2c02398f85df",
+   "publicationDate": "2026-10-16",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "2026-1-A1-FAMBER/NMBS_pub01"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "f1e5aa32-d6f7-4f8c-882d-84ce40ae4c33",
+   "publishedAt": [
+    "2026-10-16T00:00:46.020764"
+   ],
+   "referenceNumber": "2026-1-A1-FAMBER/NMBS_pub01",
+   "sentAt": [
+    "2026-10-16T00:00:46.020764"
+   ],
+   "tedPublished": false
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45233140-2",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Straßenarbeiten"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux routiers"
+      },
+      {
+       "language": "EN",
+       "text": "Roadworks"
+      },
+      {
+       "language": "NL",
+       "text": "Wegwerkzaamheden"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45233140-2",
+    "descriptions": [
+     {
+      "language": "DE",
+      "text": "Straßenarbeiten"
+     },
+     {
+      "language": "FR",
+      "text": "Travaux routiers"
+     },
+     {
+      "language": "EN",
+      "text": "Roadworks"
+     },
+     {
+      "language": "NL",
+      "text": "Wegwerkzaamheden"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-16",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Les travaux seront à réaliser sur une voirie du réseau IIIa et ils comprennent notamment les travaux de : Les ouvrages faisant partie de la présente entreprise comprennent en ordre principal l'exécution des travaux suivants :  1/ débroussaillage 2/ démolition de voirie et d’éléments linéaires 3/ déblais de coffre de voirie et de terres de retroussement et de remblais 4/ raccordement d’avaloirs et pose de drains 5/ pose de (ss)fondations de voirie et d’éléments linéaires 6/ pose de revêtement hydrocarboné 7/ travaux de gazonnements et de plantations … Les travaux décrits ci-dessus ne sont pas exhaustifs, le détail des travaux est repris dans les clauses techniques et le métré récapitulatif annexés au présent cahier des charges."
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP05G-1182/6145/2M25-154_3 (2025-050)",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP05G-1182/6145/2M25-154_3 (2025-050)",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "COURT-SANT-ETIENNE - Stabilisation du talus Rue Vivier le Duc"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-16",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Les travaux seront à réaliser sur une voirie du réseau IIIa et ils comprennent notamment les travaux de : Les ouvrages faisant partie de la présente entreprise comprennent en ordre principal l'exécution des travaux suivants :  1/ débroussaillage 2/ démolition de voirie et d’éléments linéaires 3/ déblais de coffre de voirie et de terres de retroussement et de remblais 4/ raccordement d’avaloirs et pose de drains 5/ pose de (ss)fondations de voirie et d’éléments linéaires 6/ pose de revêtement hydrocarboné 7/ travaux de gazonnements et de plantations … Les travaux décrits ci-dessus ne sont pas exhaustifs, le détail des travaux est repris dans les clauses techniques et le métré récapitulatif annexés au présent cahier des charges."
+      }
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "COURT-SANT-ETIENNE - Stabilisation du talus Rue Vivier le Duc"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "a7199f11-facd-4107-800f-1f7df6d3fd7c"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE310"
+   ],
+   "organisation": {
+    "organisationId": 411,
+    "organisationNames": [
+     {
+      "language": "FR",
+      "text": "Court-Saint-Etienne"
+     },
+     {
+      "language": "EN",
+      "text": "Court-Saint-Etienne"
+     },
+     {
+      "language": "DE",
+      "text": "Court-Saint-Etienne"
+     },
+     {
+      "language": "NL",
+      "text": "Court-Saint-Etienne"
+     }
+    ],
+    "tree": "200004.200021.411"
+   },
+   "procedureId": "9287d61d-1550-4362-ae00-1934aa787852",
+   "publicationDate": "2026-10-16",
+   "publicationLanguages": [
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP05G-1182/6145/2M25-154_3 (2025-050)_002"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "61f36225-5843-40b7-8537-8138fb2d0db4",
+   "publishedAt": [
+    "2026-10-16T00:00:46.959425"
+   ],
+   "referenceNumber": "PPP05G-1182/6145/2M25-154_3 (2025-050)_002",
+   "sentAt": [
+    "2026-10-16T00:00:46.959425"
+   ],
+   "tedPublished": false
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "79000000-4",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Zakelijke dienstverlening: juridisch, marketing, consulting, drukkerij en beveiliging"
+      },
+      {
+       "language": "EN",
+       "text": "Business services: law, marketing, consulting, recruitment, printing and security"
+      },
+      {
+       "language": "FR",
+       "text": "Services aux entreprises: droit, marketing, conseil, recrutement, impression et sécurité"
+      },
+      {
+       "language": "DE",
+       "text": "Dienstleistungen für Unternehmen: Recht, Marketing, Consulting, Einstellungen, Druck und Sicherheit"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "79000000-4",
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Zakelijke dienstverlening: juridisch, marketing, consulting, drukkerij en beveiliging"
+     },
+     {
+      "language": "EN",
+      "text": "Business services: law, marketing, consulting, recruitment, printing and security"
+     },
+     {
+      "language": "FR",
+      "text": "Services aux entreprises: droit, marketing, conseil, recrutement, impression et sécurité"
+     },
+     {
+      "language": "DE",
+      "text": "Dienstleistungen für Unternehmen: Recht, Marketing, Consulting, Einstellungen, Druck und Sicherheit"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-16",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Aanstellen consultant afvalmanager"
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D25",
+    "number": "PPP159-392/6121/AGSO/2026/284",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "PPP159-392/6121/AGSO/2026/284",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Aanstellen consultant afvalmanager"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-16",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Aanstellen consultant afvalmanager"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Aanstellen consultant afvalmanager"
       }
      ]
     }
@@ -138,436 +413,189 @@
     "SERVICES"
    ],
    "noticeIds": [
-    "4bea8c16-6f06-4c4a-8598-36e6e2ff796a"
+    "6251aed8-e9e0-4313-b88f-3bd09edd192f"
    ],
-   "noticeSubType": "E4",
+   "noticeSubType": "17",
    "nutsCodes": [
-    "BE211"
+    "BE100"
    ],
    "organisation": {
-    "organisationId": 4277,
+    "organisationId": 5028,
     "organisationNames": [
      {
-      "language": "DE",
-      "text": "Haven van Antwerpen-Brugge NV van publiek recht "
-     },
-     {
-      "language": "NL",
-      "text": "Haven van Antwerpen-Brugge NV van publiek recht "
-     },
-     {
       "language": "FR",
-      "text": "Haven van Antwerpen-Brugge NV van publiek recht "
+      "text": "Gemeentebedrijf voor Stadsontwikkeling Knokke-Heist"
      },
      {
       "language": "EN",
-      "text": "Haven van Antwerpen-Brugge NV van publiek recht "
+      "text": "Gemeentebedrijf voor Stadsontwikkeling Knokke-Heist"
+     },
+     {
+      "language": "DE",
+      "text": "Gemeentebedrijf voor Stadsontwikkeling Knokke-Heist"
+     },
+     {
+      "language": "NL",
+      "text": "Autonoom Gemeentebedrijf voor Stadsontwikkeling Knokke-Heist"
      }
     ],
-    "tree": "200004.200030.176.4277"
+    "tree": "200004.200021.1275.5028"
    },
-   "procedureId": "b441e3c5-2535-4bee-b5b3-3a11e4269694",
-   "publicationDate": "2026-10-15",
+   "procedureId": "e778d43c-e270-4c21-a54b-12e223147c02",
+   "publicationDate": "2026-10-16",
    "publicationLanguages": [
     "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP0B3-19800/6087/K3842_002"
+    "PPP159-392/6121/AGSO/2026/284_001"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "c582185c-50c9-43d5-8d02-177a8f1453ec",
+   "publicationWorkspaceId": "3fd8d211-6170-4fe7-a235-a895f559cf27",
    "publishedAt": [
-    "2026-10-15T08:49:45.256241"
+    "2026-10-16T00:00:47.173067"
    ],
-   "referenceNumber": "PPP0B3-19800/6087/K3842_002",
+   "referenceNumber": "PPP159-392/6121/AGSO/2026/284_001",
    "sentAt": [
-    "2026-10-15T08:49:45.256241"
+    "2026-10-16T00:00:47.173067"
    ],
-   "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "33100000-1",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Medical equipments"
-      },
-      {
-       "language": "FR",
-       "text": "Équipements médicaux"
-      },
-      {
-       "language": "DE",
-       "text": "Medizinische Geräte"
-      },
-      {
-       "language": "NL",
-       "text": "Medische apparatuur"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "33100000-1",
-    "descriptions": [
-     {
-      "language": "EN",
-      "text": "Medical equipments"
-     },
-     {
-      "language": "FR",
-      "text": "Équipements médicaux"
-     },
-     {
-      "language": "DE",
-      "text": "Medizinische Geräte"
-     },
-     {
-      "language": "NL",
-      "text": "Medische apparatuur"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-15",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Deze opdracht omvat de aankoop, levering en installatie van een geautomatiseerd, point-to-point buizenpostsysteem dat specifiek is ontworpen voor het snelle en veilige transport van individuele klinische samplebuizen (zoals bloedbuizen) rechtstreeks van de afnameafdeling naar het laboratorium. Deze opdracht bevat ook een preventief onderhoudscontract."
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP0VJ-1009/6598/2026/WL/LABO/093",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP0VJ-1009/6598/2026/WL/LABO/093",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Aankoop, levering en installatie van en geautomatiseerd buizenpostsysteem voor het transport van klinische bloedstalen en monsters + onderhoudscontract."
-     }
-    ]
-   },
-   "insertionDate": "2026-10-15",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Deze opdracht omvat de aankoop, levering en installatie van een geautomatiseerd, point-to-point buizenpostsysteem dat specifiek is ontworpen voor het snelle en veilige transport van individuele klinische samplebuizen (zoals bloedbuizen) rechtstreeks van de afnameafdeling naar het laboratorium. Deze opdracht bevat ook een preventief onderhoudscontract."
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Aankoop, levering en installatie van en geautomatiseerd buizenpostsysteem voor het transport van klinische bloedstalen en monsters + onderhoudscontract."
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SUPPLIES"
-   ],
-   "noticeIds": [
-    "935dc0dd-afea-4db6-b547-e91d4ff4b8c2"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE231"
-   ],
-   "organisation": {
-    "organisationId": 32921,
-    "organisationNames": [
-     {
-      "language": "NL",
-      "text": "AZORG vzw"
-     }
-    ],
-    "tree": "200004.200027.32921"
-   },
-   "procedureId": "b699de4f-4f94-4aaf-b774-883a543bfb61",
-   "publicationDate": "2026-10-15",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP0VJ-1009/6598/2026/WL/LABO/093_002"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "62cc08db-8ba1-4ed0-a721-a5a33b20d2e6",
-   "publishedAt": [
-    "2026-10-15T08:52:45.018513"
-   ],
-   "referenceNumber": "PPP0VJ-1009/6598/2026/WL/LABO/093_002",
-   "sentAt": [
-    "2026-10-15T08:52:45.018513"
-   ],
-   "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "33100000-1",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Medical equipments"
-      },
-      {
-       "language": "FR",
-       "text": "Équipements médicaux"
-      },
-      {
-       "language": "DE",
-       "text": "Medizinische Geräte"
-      },
-      {
-       "language": "NL",
-       "text": "Medische apparatuur"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "33100000-1",
-    "descriptions": [
-     {
-      "language": "EN",
-      "text": "Medical equipments"
-     },
-     {
-      "language": "FR",
-      "text": "Équipements médicaux"
-     },
-     {
-      "language": "DE",
-      "text": "Medizinische Geräte"
-     },
-     {
-      "language": "NL",
-      "text": "Medische apparatuur"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-15",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Deze opdracht bevat de aankoop van één carbonfiber bovenblad, één accessoires-adapter, twee 2-delige MAGNUS Joysticks en twee operatietafel-transportsystemen. "
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP0VJ-1006/6587/2026/WL/MD/090",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP0VJ-1006/6587/2026/WL/MD/090",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Aankoop, levering en installatie van een carbon tafelblad met bijbehorende besturings- en transportsystemen"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-15",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Deze opdracht bevat de aankoop van één carbonfiber bovenblad, één accessoires-adapter, twee 2-delige MAGNUS Joysticks en twee operatietafel-transportsystemen. "
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Aankoop, levering en installatie van een carbon tafelblad met bijbehorende besturings- en transportsystemen"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SUPPLIES"
-   ],
-   "noticeIds": [
-    "ea18a481-c566-4043-a071-d5301f74e158"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE231"
-   ],
-   "organisation": {
-    "organisationId": 32921,
-    "organisationNames": [
-     {
-      "language": "NL",
-      "text": "AZORG vzw"
-     }
-    ],
-    "tree": "200004.200027.32921"
-   },
-   "procedureId": "8680009c-ae27-4288-b083-294e85d3c100",
-   "publicationDate": "2026-10-15",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP0VJ-1006/6587/2026/WL/MD/090_002"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "0ad31dcb-a721-48c4-97c1-dbc897fbbb69",
-   "publishedAt": [
-    "2026-10-15T08:50:45.044087"
-   ],
-   "referenceNumber": "PPP0VJ-1006/6587/2026/WL/MD/090_002",
-   "sentAt": [
-    "2026-10-15T08:50:45.044087"
-   ],
-   "tedPublished": false
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-11-23T10:00:00"
   }
  ],
  "exemple_attribution": [
   {
    "cpvAdditionalCodes": [
     {
-     "code": "79952000-2",
+     "code": "34114400-3",
      "descriptions": [
       {
-       "language": "EN",
-       "text": "Event services"
-      },
-      {
-       "language": "FR",
-       "text": "Services d'organisation d'événements"
+       "language": "DE",
+       "text": "Kleinbusse"
       },
       {
        "language": "NL",
-       "text": "Diensten voor het organiseren van evenementen"
+       "text": "Minibusjes"
       },
       {
-       "language": "DE",
-       "text": "Event-Organisation"
+       "language": "FR",
+       "text": "Minibus"
+      },
+      {
+       "language": "EN",
+       "text": "Minibuses"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "79952000-2",
+    "code": "34144910-0",
     "descriptions": [
      {
       "language": "EN",
-      "text": "Event services"
+      "text": "Electric buses"
      },
      {
       "language": "FR",
-      "text": "Services d'organisation d'événements"
+      "text": "Autobus électriques"
      },
      {
       "language": "NL",
-      "text": "Diensten voor het organiseren van evenementen"
+      "text": "Elektrische bussen"
      },
      {
       "language": "DE",
-      "text": "Event-Organisation"
+      "text": "Elektrobusse"
      }
     ]
    },
-   "dispatchDate": "2026-10-15",
+   "dispatchDate": "2026-10-16",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
       "language": "NL",
-      "text": "Port of Antwerp-Bruges organiseert jaarlijks meerdere evenementen waarbij zij omwonenden, stakeholders en nationale en internationale havengemeenschap informeert, inspireert informeren, en de rol van Port of Antwerp-Bruges als innovatieve en belangrijke community builder in de kijker zet.   Om efficiënt deze evenementen te kunnen organiseren is Port of Antwerp-Bruges op zoek naar een partner die een all-in venuelocatie in Antwerpen kan bieden. Met ‘all-in’ bedoelen we dat de partner niet alleen de locatie kan aanbieden, maar ook catering, techniek, meubilair, personeel, decoratie, etc. Kortom alles om een doorsnee event zelfstandig in house te kunnen begeleiden in opdracht van Port of Antwerp-Bruges.   Omdat de events van Port of Antwerp-Bruges gericht zijn op hoge kwaliteit en authenticiteit zoeken we een partner wiens locatie ook deze kenmerken bevat. Een partner met een authentieke locatie die unieke historische karakteristieken en/of verbanden met de haven heeft, draagt een duidelijke voorkeur. Tevens moet de service die zij bieden hoogstaand zijn en verschillende formules bevatten. "
+      "text": "Het betreft de aankoop van een nieuwe elektrische minibus. Aangezien het voertuig zal worden ingezet voor het vervoer van personen met een beperking, hecht de aanbestedende dienst groot gewicht aan toegankelijkheid, voldoende ruimte en algemeen comfort bij de beoordeling van de inschrijving. Daarom zal er, naast de verplichte technische specificaties, ook veel belang gehecht worden aan de testrit in het nemen van een finale beslissing."
      }
     ],
     "enterpriseCategories": [],
-    "legalBasis": "D25",
-    "number": "PPP0B3-19800/6087/K3842",
-    "procurementProcedureType": "NEG_WO_CALL_25",
-    "referenceNumber": "PPP0B3-19800/6087/K3842",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "legalBasis": "D24",
+    "number": "2026-1-A1-FAMBER/NMBS",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "2026-1-A1-FAMBER/NMBS",
     "titles": [
      {
       "language": "NL",
-      "text": "Raamovereenkomst voor events in KMDA"
+      "text": "Aankoop van een nieuwe elektrische minibus voor vervoer van personen met een berperking"
      }
     ]
    },
-   "insertionDate": "2026-10-15",
+   "insertionDate": "2026-10-16",
    "lots": [
     {
      "descriptions": [
       {
        "language": "NL",
-       "text": "Port of Antwerp-Bruges organiseert jaarlijks meerdere evenementen waarbij zij omwonenden, stakeholders en nationale en internationale havengemeenschap informeert, inspireert informeren, en de rol van Port of Antwerp-Bruges als innovatieve en belangrijke community builder in de kijker zet.   Om efficiënt deze evenementen te kunnen organiseren is Port of Antwerp-Bruges op zoek naar een partner die een all-in venuelocatie in Antwerpen kan bieden. Met ‘all-in’ bedoelen we dat de partner niet alleen de locatie kan aanbieden, maar ook catering, techniek, meubilair, personeel, decoratie, etc. Kortom alles om een doorsnee event zelfstandig in house te kunnen begeleiden in opdracht van Port of Antwerp-Bruges.   Omdat de events van Port of Antwerp-Bruges gericht zijn op hoge kwaliteit en authenticiteit zoeken we een partner wiens locatie ook deze kenmerken bevat. Een partner met een authentieke locatie die unieke historische karakteristieken en/of verbanden met de haven heeft, draagt een duidelijke voorkeur. Tevens moet de service die zij bieden hoogstaand zijn en verschillende formules bevatten. "
+       "text": "Aankoop voor een nieuwe elektrische minibus voor vervoer van mensen met een beperking"
       }
      ],
      "titles": [
       {
        "language": "NL",
-       "text": "Raamovereenkomst voor events in KMDA"
+       "text": "2026-1-A1-FAMBER/NMBS - 1"
       }
      ]
     }
    ],
    "natures": [
-    "SERVICES"
+    "SUPPLIES"
    ],
    "noticeIds": [
-    "4bea8c16-6f06-4c4a-8598-36e6e2ff796a"
+    "2fedda51-3d80-4daa-8a4a-14c601fc0f93"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE211"
+    "BE213"
    ],
    "organisation": {
-    "organisationId": 4277,
+    "organisationId": 3914,
     "organisationNames": [
      {
-      "language": "DE",
-      "text": "Haven van Antwerpen-Brugge NV van publiek recht "
-     },
-     {
       "language": "NL",
-      "text": "Haven van Antwerpen-Brugge NV van publiek recht "
+      "text": "Ter Loke vzw"
      },
      {
       "language": "FR",
-      "text": "Haven van Antwerpen-Brugge NV van publiek recht "
+      "text": "Ter Loke vzw"
      },
      {
       "language": "EN",
-      "text": "Haven van Antwerpen-Brugge NV van publiek recht "
+      "text": "Ter Loke vzw"
+     },
+     {
+      "language": "DE",
+      "text": "Ter Loke vzw"
      }
     ],
-    "tree": "200004.200030.176.4277"
+    "tree": "200004.200032.3914"
    },
-   "procedureId": "b441e3c5-2535-4bee-b5b3-3a11e4269694",
-   "publicationDate": "2026-10-15",
+   "procedureId": "966cefd1-b041-4a2d-8c47-2c02398f85df",
+   "publicationDate": "2026-10-16",
    "publicationLanguages": [
     "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP0B3-19800/6087/K3842_002"
+    "2026-1-A1-FAMBER/NMBS_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "c582185c-50c9-43d5-8d02-177a8f1453ec",
+   "publicationWorkspaceId": "f1e5aa32-d6f7-4f8c-882d-84ce40ae4c33",
    "publishedAt": [
-    "2026-10-15T08:49:45.256241"
+    "2026-10-16T00:00:46.020764"
    ],
-   "referenceNumber": "PPP0B3-19800/6087/K3842_002",
+   "referenceNumber": "2026-1-A1-FAMBER/NMBS_pub01",
    "sentAt": [
-    "2026-10-15T08:49:45.256241"
+    "2026-10-16T00:00:46.020764"
    ],
    "tedPublished": false
   }
