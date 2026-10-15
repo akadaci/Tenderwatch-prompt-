@@ -1,16 +1,20 @@
 {
- "updated": "2026-10-15T10:02:04Z",
+ "updated": "2026-10-15T12:01:58Z",
  "source": "urban.brussels NOVA (WFS)",
  "days_back": 3,
- "received": 68,
- "kept": 14,
- "count": 86,
- "new_ids": [],
+ "received": 70,
+ "kept": 15,
+ "count": 89,
+ "new_ids": [
+  "nova-07/PU/2049206",
+  "nova-02/PU/2048808",
+  "nova-01/PU/2048735"
+ ],
  "records": [
   {
    "id": "nova-02/PU/2049201",
    "source_type": "Permis",
-   "nom": "Permis d'urbanisme privé",
+   "nom": "mettre en conformité les aménagements extérieurs en zone de cours et jardins arrière",
    "lieu": "Avenue Isidore Gérard 29, 1160 Auderghem",
    "type": "Permis d'urbanisme privé",
    "mo": "",
@@ -22,6 +26,22 @@
    "date_publication": "2026-10-14",
    "notes": "Autorité : Auderghem",
    "first_seen": "2026-10-15T04:01:57Z"
+  },
+  {
+   "id": "nova-07/PU/2049206",
+   "source_type": "Permis",
+   "nom": "Demande de régularisation d’un ensemble de deux immeubles situés au 124 et 126 rue des Alliés à 1190 Forest",
+   "lieu": "Rue des Alliés 124, 1190 Forest",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='07/PU/2049206'",
+   "verif": "vérifié",
+   "verif_date": "2026-10-15",
+   "preuve": "Demande de permis 07/PU/2049206 reçue le 2026-10-14 (urban.brussels, service NOVA), surface projetée 814 m².",
+   "date_publication": "2026-10-14",
+   "notes": "Autorité : Forest",
+   "first_seen": "2026-10-15T12:01:58Z"
   },
   {
    "id": "nova-01/PFD/2049050",
@@ -230,6 +250,38 @@
    "date_publication": "2026-10-12",
    "notes": "Autorité : BUP",
    "first_seen": "2026-10-14T04:01:36Z"
+  },
+  {
+   "id": "nova-02/PU/2048808",
+   "source_type": "Permis",
+   "nom": "mettre en conformité une salle de bain ainsi que diviser et transformer le rez de chaussée en entrepôt",
+   "lieu": "Rue du Verger 27, 1160 Auderghem",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='02/PU/2048808'",
+   "verif": "vérifié",
+   "verif_date": "2026-10-15",
+   "preuve": "Demande de permis 02/PU/2048808 reçue le 2026-10-12 (urban.brussels, service NOVA), surface projetée 878 m².",
+   "date_publication": "2026-10-12",
+   "notes": "Autorité : Auderghem",
+   "first_seen": "2026-10-15T12:01:58Z"
+  },
+  {
+   "id": "nova-01/PU/2048735",
+   "source_type": "Permis",
+   "nom": "mettre en conformité le changement d'affectation d'un rez-de-chaussée commercial en logement dans un immeuble de rapport",
+   "lieu": "Rue de Birmingham 298, 1070 Anderlecht",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='01/PU/2048735'",
+   "verif": "vérifié",
+   "verif_date": "2026-10-15",
+   "preuve": "Demande de permis 01/PU/2048735 reçue le 2026-10-12 (urban.brussels, service NOVA), surface projetée 85 m².",
+   "date_publication": "2026-10-12",
+   "notes": "Autorité : Anderlecht",
+   "first_seen": "2026-10-15T12:01:58Z"
   },
   {
    "id": "nova-04/PU/2048662",
