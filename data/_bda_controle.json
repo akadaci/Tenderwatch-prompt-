@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 291934
+  "totalCount": 291964
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -39,6 +39,7 @@
   "ACTIVE|E1|['SERVICES']",
   "ACTIVE|E1|['SUPPLIES']",
   "ACTIVE|E3|['SERVICES']",
+  "ACTIVE|E3|['SUPPLIES', 'SERVICES']",
   "ACTIVE|E3|['SUPPLIES']",
   "ACTIVE|E3|['WORKS', 'SERVICES']",
   "ACTIVE|E3|['WORKS', 'SUPPLIES']",
@@ -52,236 +53,45 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "39293400-6",
+     "code": "79952000-2",
      "descriptions": [
       {
        "language": "EN",
-       "text": "Artificial lawn"
+       "text": "Event services"
       },
       {
        "language": "FR",
-       "text": "Pelouse artificielle"
+       "text": "Services d'organisation d'événements"
       },
       {
        "language": "NL",
-       "text": "Kunstgazon"
+       "text": "Diensten voor het organiseren van evenementen"
       },
       {
        "language": "DE",
-       "text": "Kunstrasen"
-      }
-     ]
-    },
-    {
-     "code": "45212221-1",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Construction work in connection with structures for sports ground"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de construction d'ouvrages pour terrain de sports"
-      },
-      {
-       "language": "DE",
-       "text": "Bauarbeiten für Sportplätze"
-      },
-      {
-       "language": "NL",
-       "text": "Bouwwerkzaamheden voor installaties voor sportterrein"
+       "text": "Event-Organisation"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45236119-7",
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Travaux de réparation de terrains de sports"
-     },
-     {
-      "language": "DE",
-      "text": "Ausbesserungsarbeiten an Sportplätzen"
-     },
-     {
-      "language": "EN",
-      "text": "Repair work on sports fields"
-     },
-     {
-      "language": "NL",
-      "text": "Herstelwerkzaamheden op sportvelden"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-15",
-   "dossier": {
-    "accreditations": {
-     "G4": 3
-    },
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Voorwerp van de werken: De opdracht heeft betrekking op werken voor de VERNIEUWING VAN DE KUNSTGRASMAT VAN HET TWEEDE TERREIN IN HET WAHIS-STADION, T-2 - AANVULLING MET ZAND EN KURKKORRELS.  De technische vereisten worden beschreven in deel III. Beschrijving van de technische eisen.  CPV-code:  45236119 – Herstelwerkzaamheden aan sportvelden 39293400 – Kunstgras 77320000-9 – Onderhoudsdiensten voor sportvelden  Plaats van de prestaties: Wahis-stadion te Bloemtuinenlaan 50 bis in 1030 Schaarbeek. "
-     },
-     {
-      "language": "FR",
-      "text": "Objet des Travaux :  Le marché a pour objet des travaux relatifs au RENOUVELLEMENT DU GAZON SYNTHETIQUE DU SECOND TERRAIN DU STADE WAHIS, T-2 – REMPLISSAGE DE SABLE ET DE GRANULATS DE LIÈGE.   Les exigences techniques sont précisées dans la partie III. Description des exigences techniques.   CPV :  45236119-Travaux de réparation de terrains de sports 39293400 – Pelouse artificielle 77320000-9 – Services d’entretien de terrains de sports  Lieu des prestations : stade Wahis sis avenue des Jardins 50 bis à 1030 Schaerbeek.  "
-     }
-    ],
-    "enterpriseCategories": [
-     {
-      "categoryCode": "G4",
-      "levels": [
-       3,
-       2,
-       1
-      ]
-     }
-    ],
-    "legalBasis": "D24",
-    "number": "Scha/Infra/2026/035",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "Scha/Infra/2026/035",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "RENOUVELLEMENT DU GAZON SYNTHETIQUE DU SECOND TERRAIN DU STADE WAHIS, T-2 – REMPLISSAGE DE SABLE ET DE GRANULATS DE LIÈGE "
-     },
-     {
-      "language": "NL",
-      "text": "VERNIEUWING VAN DE KUNSTGRASMAT VAN HET TWEEDE TERREIN IN HET WAHIS-STADION, T-2 - AANVULLING MET ZAND EN KURKKORRELS"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-15",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Voorwerp van de werken: De opdracht heeft betrekking op werken voor de VERNIEUWING VAN DE KUNSTGRASMAT VAN HET TWEEDE TERREIN IN HET WAHIS-STADION, T-2 - AANVULLING MET ZAND EN KURKKORRELS.  De technische vereisten worden beschreven in deel III. Beschrijving van de technische eisen.  CPV-code:  45236119 – Herstelwerkzaamheden aan sportvelden 39293400 – Kunstgras 77320000-9 – Onderhoudsdiensten voor sportvelden  Plaats van de prestaties: Wahis-stadion te Bloemtuinenlaan 50 bis in 1030 Schaarbeek. "
-      },
-      {
-       "language": "FR",
-       "text": "Objet des Travaux :  Le marché a pour objet des travaux relatifs au RENOUVELLEMENT DU GAZON SYNTHETIQUE DU SECOND TERRAIN DU STADE WAHIS, T-2 – REMPLISSAGE DE SABLE ET DE GRANULATS DE LIÈGE.   Les exigences techniques sont précisées dans la partie III. Description des exigences techniques.   CPV :  45236119-Travaux de réparation de terrains de sports 39293400 – Pelouse artificielle 77320000-9 – Services d’entretien de terrains de sports  Lieu des prestations : stade Wahis sis avenue des Jardins 50 bis à 1030 Schaerbeek.  "
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Scha/Infra/2026/035 - 1"
-      },
-      {
-       "language": "FR",
-       "text": "Scha/Infra/2026/035 - 1"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "WORKS"
-   ],
-   "noticeIds": [
-    "4c8a4802-5d39-4972-83b8-6904a7f03fd9"
-   ],
-   "noticeSubType": "16",
-   "nutsCodes": [
-    "BE100"
-   ],
-   "organisation": {
-    "organisationId": 4774,
-    "organisationNames": [
-     {
-      "language": "FR",
-      "text": "Service Bâtiments"
-     },
-     {
-      "language": "NL",
-      "text": "Dienst Gebouwen"
-     },
-     {
-      "language": "EN",
-      "text": "Service Bâtiments"
-     },
-     {
-      "language": "DE",
-      "text": "Service Bâtiments"
-     }
-    ],
-    "tree": "200004.200021.636.4774"
-   },
-   "procedureId": "2444da3f-943c-4f9d-90b5-457603c7c7e4",
-   "publicationDate": "2026-10-15",
-   "publicationLanguages": [
-    "NL",
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "Scha/Infra/2026/035_pub01"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "3066dda6-4616-4538-94a1-c1741bdacd0e",
-   "publishedAt": [
-    "2026-10-15T00:00:45.019398"
-   ],
-   "referenceNumber": "Scha/Infra/2026/035_pub01",
-   "sentAt": [
-    "2026-10-15T00:00:45.019398"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-16T10:30:00"
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "85141000-9",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Services provided by medical personnel"
-      },
-      {
-       "language": "NL",
-       "text": "Diensten verleend door medisch personeel"
-      },
-      {
-       "language": "FR",
-       "text": "Services prestés par le personnel médical"
-      },
-      {
-       "language": "DE",
-       "text": "Dienstleistungen von medizinischem Personal"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "85141000-9",
+    "code": "79952000-2",
     "descriptions": [
      {
       "language": "EN",
-      "text": "Services provided by medical personnel"
-     },
-     {
-      "language": "NL",
-      "text": "Diensten verleend door medisch personeel"
+      "text": "Event services"
      },
      {
       "language": "FR",
-      "text": "Services prestés par le personnel médical"
+      "text": "Services d'organisation d'événements"
+     },
+     {
+      "language": "NL",
+      "text": "Diensten voor het organiseren van evenementen"
      },
      {
       "language": "DE",
-      "text": "Dienstleistungen von medizinischem Personal"
+      "text": "Event-Organisation"
      }
     ]
    },
@@ -291,18 +101,19 @@
     "descriptions": [
      {
       "language": "NL",
-      "text": "Raamovereenkomst voor medische, sanitaire en psychosociale hulpverlening tijdens de carnavalsactiviteiten gedurende maximum vier carnavalsperiodes en dit voor onderstaande activiteiten.  Perceel 1: “Medische, sanitaire en psychosociale hulpverlening gedurende 'Carnaval' Perceel 2: “Medische, sanitaire en psychosociale hulpverlening gedurende de ‘Verkiezing Prins Carnaval' Perceel 3: “Medische, sanitaire en psychosociale hulpverlening gedurende de 'Dag van het kind'"
+      "text": "Port of Antwerp-Bruges organiseert jaarlijks meerdere evenementen waarbij zij omwonenden, stakeholders en nationale en internationale havengemeenschap informeert, inspireert informeren, en de rol van Port of Antwerp-Bruges als innovatieve en belangrijke community builder in de kijker zet.   Om efficiënt deze evenementen te kunnen organiseren is Port of Antwerp-Bruges op zoek naar een partner die een all-in venuelocatie in Antwerpen kan bieden. Met ‘all-in’ bedoelen we dat de partner niet alleen de locatie kan aanbieden, maar ook catering, techniek, meubilair, personeel, decoratie, etc. Kortom alles om een doorsnee event zelfstandig in house te kunnen begeleiden in opdracht van Port of Antwerp-Bruges.   Omdat de events van Port of Antwerp-Bruges gericht zijn op hoge kwaliteit en authenticiteit zoeken we een partner wiens locatie ook deze kenmerken bevat. Een partner met een authentieke locatie die unieke historische karakteristieken en/of verbanden met de haven heeft, draagt een duidelijke voorkeur. Tevens moet de service die zij bieden hoogstaand zijn en verschillende formules bevatten. "
      }
     ],
     "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP091-5268/6273/26/MJE-49/27-30V",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP091-5268/6273/26/MJE-49/27-30V",
+    "legalBasis": "D25",
+    "number": "PPP0B3-19800/6087/K3842",
+    "procurementProcedureType": "NEG_WO_CALL_25",
+    "referenceNumber": "PPP0B3-19800/6087/K3842",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
       "language": "NL",
-      "text": "Thema Mens - dienst Cultuur. Raamovereenkomst voor medische, sanitaire en psychosociale hulpverlening tijdens de carnavalsactiviteiten gedurende maximum vier carnavalsperiodes."
+      "text": "Raamovereenkomst voor events in KMDA"
      }
     ]
    },
@@ -312,41 +123,13 @@
      "descriptions": [
       {
        "language": "NL",
-       "text": "Medische, sanitaire en psychosociale hulpverlening gedurende de ‘Verkiezing Prins Carnaval'"
+       "text": "Port of Antwerp-Bruges organiseert jaarlijks meerdere evenementen waarbij zij omwonenden, stakeholders en nationale en internationale havengemeenschap informeert, inspireert informeren, en de rol van Port of Antwerp-Bruges als innovatieve en belangrijke community builder in de kijker zet.   Om efficiënt deze evenementen te kunnen organiseren is Port of Antwerp-Bruges op zoek naar een partner die een all-in venuelocatie in Antwerpen kan bieden. Met ‘all-in’ bedoelen we dat de partner niet alleen de locatie kan aanbieden, maar ook catering, techniek, meubilair, personeel, decoratie, etc. Kortom alles om een doorsnee event zelfstandig in house te kunnen begeleiden in opdracht van Port of Antwerp-Bruges.   Omdat de events van Port of Antwerp-Bruges gericht zijn op hoge kwaliteit en authenticiteit zoeken we een partner wiens locatie ook deze kenmerken bevat. Een partner met een authentieke locatie die unieke historische karakteristieken en/of verbanden met de haven heeft, draagt een duidelijke voorkeur. Tevens moet de service die zij bieden hoogstaand zijn en verschillende formules bevatten. "
       }
      ],
      "titles": [
       {
        "language": "NL",
-       "text": "Medische, sanitaire en psychosociale hulpverlening gedurende de ‘Verkiezing Prins Carnaval'"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Medische, sanitaire en psychosociale hulpverlening gedurende de 'Dag van het kind'"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Medische, sanitaire en psychosociale hulpverlening gedurende de 'Dag van het kind'"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Medische, sanitaire en psychosociale hulpverlening gedurende 'Carnaval'"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Medische, sanitaire en psychosociale hulpverlening gedurende 'Carnaval'"
+       "text": "Raamovereenkomst voor events in KMDA"
       }
      ]
     }
@@ -355,96 +138,96 @@
     "SERVICES"
    ],
    "noticeIds": [
-    "b3c9c9e9-f241-4ae0-9472-c763c9cc325c"
+    "4bea8c16-6f06-4c4a-8598-36e6e2ff796a"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE231"
+    "BE211"
    ],
    "organisation": {
-    "organisationId": 184,
+    "organisationId": 4277,
     "organisationNames": [
      {
-      "language": "EN",
-      "text": "Aalst "
-     },
-     {
       "language": "DE",
-      "text": "Aalst "
+      "text": "Haven van Antwerpen-Brugge NV van publiek recht "
      },
      {
       "language": "NL",
-      "text": "Aalst "
+      "text": "Haven van Antwerpen-Brugge NV van publiek recht "
      },
      {
       "language": "FR",
-      "text": "Aalst "
+      "text": "Haven van Antwerpen-Brugge NV van publiek recht "
+     },
+     {
+      "language": "EN",
+      "text": "Haven van Antwerpen-Brugge NV van publiek recht "
      }
     ],
-    "tree": "200004.200021.184"
+    "tree": "200004.200030.176.4277"
    },
-   "procedureId": "6ba624b6-e091-4594-81b0-90da1bbc4eb7",
+   "procedureId": "b441e3c5-2535-4bee-b5b3-3a11e4269694",
    "publicationDate": "2026-10-15",
    "publicationLanguages": [
     "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP091-5268/6273/26/MJE-49/27-30V_002"
+    "PPP0B3-19800/6087/K3842_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "79a88c02-b2bf-4932-b372-d44a54ff0c7e",
+   "publicationWorkspaceId": "c582185c-50c9-43d5-8d02-177a8f1453ec",
    "publishedAt": [
-    "2026-10-15T00:00:48.481632"
+    "2026-10-15T08:49:45.256241"
    ],
-   "referenceNumber": "PPP091-5268/6273/26/MJE-49/27-30V_002",
+   "referenceNumber": "PPP0B3-19800/6087/K3842_002",
    "sentAt": [
-    "2026-10-15T00:00:48.481632"
+    "2026-10-15T08:49:45.256241"
    ],
    "tedPublished": false
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "79200000-6",
+     "code": "33100000-1",
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Services de comptabilité, services d'audit et services fiscaux"
-      },
-      {
        "language": "EN",
-       "text": "Accounting, auditing and fiscal services"
+       "text": "Medical equipments"
       },
       {
-       "language": "NL",
-       "text": "Boekhoudkundige, audit- en fiscale diensten"
+       "language": "FR",
+       "text": "Équipements médicaux"
       },
       {
        "language": "DE",
-       "text": "Dienstleistungen im Bereich Rechnungslegung und -prüfung sowie Steuerwesen"
+       "text": "Medizinische Geräte"
+      },
+      {
+       "language": "NL",
+       "text": "Medische apparatuur"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "79200000-6",
+    "code": "33100000-1",
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Services de comptabilité, services d'audit et services fiscaux"
-     },
-     {
       "language": "EN",
-      "text": "Accounting, auditing and fiscal services"
+      "text": "Medical equipments"
      },
      {
-      "language": "NL",
-      "text": "Boekhoudkundige, audit- en fiscale diensten"
+      "language": "FR",
+      "text": "Équipements médicaux"
      },
      {
       "language": "DE",
-      "text": "Dienstleistungen im Bereich Rechnungslegung und -prüfung sowie Steuerwesen"
+      "text": "Medizinische Geräte"
+     },
+     {
+      "language": "NL",
+      "text": "Medische apparatuur"
      }
     ]
    },
@@ -454,18 +237,19 @@
     "descriptions": [
      {
       "language": "NL",
-      "text": "KOV vzw is een entiteit die een commissaris moet benoemen onder de bedrijfsrevisoren ingeschreven in het openbaar register van het instituut van de Bedrijfsrevisoren. "
+      "text": "Deze opdracht omvat de aankoop, levering en installatie van een geautomatiseerd, point-to-point buizenpostsysteem dat specifiek is ontworpen voor het snelle en veilige transport van individuele klinische samplebuizen (zoals bloedbuizen) rechtstreeks van de afnameafdeling naar het laboratorium. Deze opdracht bevat ook een preventief onderhoudscontract."
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "KOV/OPZVB/2026-001",
+    "number": "PPP0VJ-1009/6598/2026/WL/LABO/093",
     "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "KOV/OPZVB/2026-001",
+    "referenceNumber": "PPP0VJ-1009/6598/2026/WL/LABO/093",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
       "language": "NL",
-      "text": "AANSTELLING COMMISSARIS-REVISOR VOOR 3 JAAR (2026-2027-2028)"
+      "text": "Aankoop, levering en installatie van en geautomatiseerd buizenpostsysteem voor het transport van klinische bloedstalen en monsters + onderhoudscontract."
      }
     ]
    },
@@ -475,54 +259,177 @@
      "descriptions": [
       {
        "language": "NL",
-       "text": "Aanstelling commissaris-revisor voor 3 jaar ( 2026-2027-2028)"
+       "text": "Deze opdracht omvat de aankoop, levering en installatie van een geautomatiseerd, point-to-point buizenpostsysteem dat specifiek is ontworpen voor het snelle en veilige transport van individuele klinische samplebuizen (zoals bloedbuizen) rechtstreeks van de afnameafdeling naar het laboratorium. Deze opdracht bevat ook een preventief onderhoudscontract."
       }
      ],
      "titles": [
       {
        "language": "NL",
-       "text": "KOV/OPZVB/2026-001 - 1"
+       "text": "Aankoop, levering en installatie van en geautomatiseerd buizenpostsysteem voor het transport van klinische bloedstalen en monsters + onderhoudscontract."
       }
      ]
     }
    ],
    "natures": [
-    "SERVICES"
+    "SUPPLIES"
    ],
    "noticeIds": [
-    "8ba687ae-dca3-478a-b0d2-554690f045df"
+    "935dc0dd-afea-4db6-b547-e91d4ff4b8c2"
    ],
-   "noticeSubType": "29",
+   "noticeSubType": "E4",
    "nutsCodes": [
-    "BE"
+    "BE231"
    ],
    "organisation": {
-    "organisationId": 12761,
+    "organisationId": 32921,
     "organisationNames": [
      {
       "language": "NL",
-      "text": "Katholiek Onderwijs voor Volwasssenen"
+      "text": "AZORG vzw"
      }
     ],
-    "tree": "200004.200026.12761"
+    "tree": "200004.200027.32921"
    },
-   "procedureId": "fef43760-1e45-4d1c-908c-6f9a08b3c09b",
+   "procedureId": "b699de4f-4f94-4aaf-b774-883a543bfb61",
    "publicationDate": "2026-10-15",
    "publicationLanguages": [
     "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "KOV/OPZVB/2026-001_pub01"
+    "PPP0VJ-1009/6598/2026/WL/LABO/093_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "3ac2b4e3-6e3d-486f-8ee7-85d0b2a49b05",
+   "publicationWorkspaceId": "62cc08db-8ba1-4ed0-a721-a5a33b20d2e6",
    "publishedAt": [
-    "2026-10-15T00:00:50.530445"
+    "2026-10-15T08:52:45.018513"
    ],
-   "referenceNumber": "KOV/OPZVB/2026-001_pub01",
+   "referenceNumber": "PPP0VJ-1009/6598/2026/WL/LABO/093_002",
    "sentAt": [
-    "2026-10-15T00:00:50.530445"
+    "2026-10-15T08:52:45.018513"
+   ],
+   "tedPublished": false
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "33100000-1",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Medical equipments"
+      },
+      {
+       "language": "FR",
+       "text": "Équipements médicaux"
+      },
+      {
+       "language": "DE",
+       "text": "Medizinische Geräte"
+      },
+      {
+       "language": "NL",
+       "text": "Medische apparatuur"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "33100000-1",
+    "descriptions": [
+     {
+      "language": "EN",
+      "text": "Medical equipments"
+     },
+     {
+      "language": "FR",
+      "text": "Équipements médicaux"
+     },
+     {
+      "language": "DE",
+      "text": "Medizinische Geräte"
+     },
+     {
+      "language": "NL",
+      "text": "Medische apparatuur"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-15",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Deze opdracht bevat de aankoop van één carbonfiber bovenblad, één accessoires-adapter, twee 2-delige MAGNUS Joysticks en twee operatietafel-transportsystemen. "
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP0VJ-1006/6587/2026/WL/MD/090",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP0VJ-1006/6587/2026/WL/MD/090",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Aankoop, levering en installatie van een carbon tafelblad met bijbehorende besturings- en transportsystemen"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-15",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Deze opdracht bevat de aankoop van één carbonfiber bovenblad, één accessoires-adapter, twee 2-delige MAGNUS Joysticks en twee operatietafel-transportsystemen. "
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Aankoop, levering en installatie van een carbon tafelblad met bijbehorende besturings- en transportsystemen"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SUPPLIES"
+   ],
+   "noticeIds": [
+    "ea18a481-c566-4043-a071-d5301f74e158"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE231"
+   ],
+   "organisation": {
+    "organisationId": 32921,
+    "organisationNames": [
+     {
+      "language": "NL",
+      "text": "AZORG vzw"
+     }
+    ],
+    "tree": "200004.200027.32921"
+   },
+   "procedureId": "8680009c-ae27-4288-b083-294e85d3c100",
+   "publicationDate": "2026-10-15",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP0VJ-1006/6587/2026/WL/MD/090_002"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "0ad31dcb-a721-48c4-97c1-dbc897fbbb69",
+   "publishedAt": [
+    "2026-10-15T08:50:45.044087"
+   ],
+   "referenceNumber": "PPP0VJ-1006/6587/2026/WL/MD/090_002",
+   "sentAt": [
+    "2026-10-15T08:50:45.044087"
    ],
    "tedPublished": false
   }
@@ -531,45 +438,45 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "85141000-9",
+     "code": "79952000-2",
      "descriptions": [
       {
        "language": "EN",
-       "text": "Services provided by medical personnel"
-      },
-      {
-       "language": "NL",
-       "text": "Diensten verleend door medisch personeel"
+       "text": "Event services"
       },
       {
        "language": "FR",
-       "text": "Services prestés par le personnel médical"
+       "text": "Services d'organisation d'événements"
+      },
+      {
+       "language": "NL",
+       "text": "Diensten voor het organiseren van evenementen"
       },
       {
        "language": "DE",
-       "text": "Dienstleistungen von medizinischem Personal"
+       "text": "Event-Organisation"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "85141000-9",
+    "code": "79952000-2",
     "descriptions": [
      {
       "language": "EN",
-      "text": "Services provided by medical personnel"
-     },
-     {
-      "language": "NL",
-      "text": "Diensten verleend door medisch personeel"
+      "text": "Event services"
      },
      {
       "language": "FR",
-      "text": "Services prestés par le personnel médical"
+      "text": "Services d'organisation d'événements"
+     },
+     {
+      "language": "NL",
+      "text": "Diensten voor het organiseren van evenementen"
      },
      {
       "language": "DE",
-      "text": "Dienstleistungen von medizinischem Personal"
+      "text": "Event-Organisation"
      }
     ]
    },
@@ -579,18 +486,19 @@
     "descriptions": [
      {
       "language": "NL",
-      "text": "Raamovereenkomst voor medische, sanitaire en psychosociale hulpverlening tijdens de carnavalsactiviteiten gedurende maximum vier carnavalsperiodes en dit voor onderstaande activiteiten.  Perceel 1: “Medische, sanitaire en psychosociale hulpverlening gedurende 'Carnaval' Perceel 2: “Medische, sanitaire en psychosociale hulpverlening gedurende de ‘Verkiezing Prins Carnaval' Perceel 3: “Medische, sanitaire en psychosociale hulpverlening gedurende de 'Dag van het kind'"
+      "text": "Port of Antwerp-Bruges organiseert jaarlijks meerdere evenementen waarbij zij omwonenden, stakeholders en nationale en internationale havengemeenschap informeert, inspireert informeren, en de rol van Port of Antwerp-Bruges als innovatieve en belangrijke community builder in de kijker zet.   Om efficiënt deze evenementen te kunnen organiseren is Port of Antwerp-Bruges op zoek naar een partner die een all-in venuelocatie in Antwerpen kan bieden. Met ‘all-in’ bedoelen we dat de partner niet alleen de locatie kan aanbieden, maar ook catering, techniek, meubilair, personeel, decoratie, etc. Kortom alles om een doorsnee event zelfstandig in house te kunnen begeleiden in opdracht van Port of Antwerp-Bruges.   Omdat de events van Port of Antwerp-Bruges gericht zijn op hoge kwaliteit en authenticiteit zoeken we een partner wiens locatie ook deze kenmerken bevat. Een partner met een authentieke locatie die unieke historische karakteristieken en/of verbanden met de haven heeft, draagt een duidelijke voorkeur. Tevens moet de service die zij bieden hoogstaand zijn en verschillende formules bevatten. "
      }
     ],
     "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP091-5268/6273/26/MJE-49/27-30V",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP091-5268/6273/26/MJE-49/27-30V",
+    "legalBasis": "D25",
+    "number": "PPP0B3-19800/6087/K3842",
+    "procurementProcedureType": "NEG_WO_CALL_25",
+    "referenceNumber": "PPP0B3-19800/6087/K3842",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
       "language": "NL",
-      "text": "Thema Mens - dienst Cultuur. Raamovereenkomst voor medische, sanitaire en psychosociale hulpverlening tijdens de carnavalsactiviteiten gedurende maximum vier carnavalsperiodes."
+      "text": "Raamovereenkomst voor events in KMDA"
      }
     ]
    },
@@ -600,41 +508,13 @@
      "descriptions": [
       {
        "language": "NL",
-       "text": "Medische, sanitaire en psychosociale hulpverlening gedurende de ‘Verkiezing Prins Carnaval'"
+       "text": "Port of Antwerp-Bruges organiseert jaarlijks meerdere evenementen waarbij zij omwonenden, stakeholders en nationale en internationale havengemeenschap informeert, inspireert informeren, en de rol van Port of Antwerp-Bruges als innovatieve en belangrijke community builder in de kijker zet.   Om efficiënt deze evenementen te kunnen organiseren is Port of Antwerp-Bruges op zoek naar een partner die een all-in venuelocatie in Antwerpen kan bieden. Met ‘all-in’ bedoelen we dat de partner niet alleen de locatie kan aanbieden, maar ook catering, techniek, meubilair, personeel, decoratie, etc. Kortom alles om een doorsnee event zelfstandig in house te kunnen begeleiden in opdracht van Port of Antwerp-Bruges.   Omdat de events van Port of Antwerp-Bruges gericht zijn op hoge kwaliteit en authenticiteit zoeken we een partner wiens locatie ook deze kenmerken bevat. Een partner met een authentieke locatie die unieke historische karakteristieken en/of verbanden met de haven heeft, draagt een duidelijke voorkeur. Tevens moet de service die zij bieden hoogstaand zijn en verschillende formules bevatten. "
       }
      ],
      "titles": [
       {
        "language": "NL",
-       "text": "Medische, sanitaire en psychosociale hulpverlening gedurende de ‘Verkiezing Prins Carnaval'"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Medische, sanitaire en psychosociale hulpverlening gedurende de 'Dag van het kind'"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Medische, sanitaire en psychosociale hulpverlening gedurende de 'Dag van het kind'"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Medische, sanitaire en psychosociale hulpverlening gedurende 'Carnaval'"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Medische, sanitaire en psychosociale hulpverlening gedurende 'Carnaval'"
+       "text": "Raamovereenkomst voor events in KMDA"
       }
      ]
     }
@@ -643,51 +523,51 @@
     "SERVICES"
    ],
    "noticeIds": [
-    "b3c9c9e9-f241-4ae0-9472-c763c9cc325c"
+    "4bea8c16-6f06-4c4a-8598-36e6e2ff796a"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE231"
+    "BE211"
    ],
    "organisation": {
-    "organisationId": 184,
+    "organisationId": 4277,
     "organisationNames": [
      {
-      "language": "EN",
-      "text": "Aalst "
-     },
-     {
       "language": "DE",
-      "text": "Aalst "
+      "text": "Haven van Antwerpen-Brugge NV van publiek recht "
      },
      {
       "language": "NL",
-      "text": "Aalst "
+      "text": "Haven van Antwerpen-Brugge NV van publiek recht "
      },
      {
       "language": "FR",
-      "text": "Aalst "
+      "text": "Haven van Antwerpen-Brugge NV van publiek recht "
+     },
+     {
+      "language": "EN",
+      "text": "Haven van Antwerpen-Brugge NV van publiek recht "
      }
     ],
-    "tree": "200004.200021.184"
+    "tree": "200004.200030.176.4277"
    },
-   "procedureId": "6ba624b6-e091-4594-81b0-90da1bbc4eb7",
+   "procedureId": "b441e3c5-2535-4bee-b5b3-3a11e4269694",
    "publicationDate": "2026-10-15",
    "publicationLanguages": [
     "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP091-5268/6273/26/MJE-49/27-30V_002"
+    "PPP0B3-19800/6087/K3842_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "79a88c02-b2bf-4932-b372-d44a54ff0c7e",
+   "publicationWorkspaceId": "c582185c-50c9-43d5-8d02-177a8f1453ec",
    "publishedAt": [
-    "2026-10-15T00:00:48.481632"
+    "2026-10-15T08:49:45.256241"
    ],
-   "referenceNumber": "PPP091-5268/6273/26/MJE-49/27-30V_002",
+   "referenceNumber": "PPP0B3-19800/6087/K3842_002",
    "sentAt": [
-    "2026-10-15T00:00:48.481632"
+    "2026-10-15T08:49:45.256241"
    ],
    "tedPublished": false
   }
