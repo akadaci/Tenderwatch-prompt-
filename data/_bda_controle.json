@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 291981
+  "totalCount": 292039
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -16,11 +16,14 @@
   "ACTIVE|17|['SERVICES']",
   "ACTIVE|17|['SUPPLIES']",
   "ACTIVE|17|['WORKS']",
+  "ACTIVE|18|['SERVICES']",
   "ACTIVE|19|['SERVICES']",
+  "ACTIVE|19|['WORKS', 'SERVICES']",
   "ACTIVE|20|['SERVICES']",
   "ACTIVE|21|['SUPPLIES']",
   "ACTIVE|21|['WORKS']",
   "ACTIVE|25|['SERVICES']",
+  "ACTIVE|25|['SUPPLIES']",
   "ACTIVE|29|['SERVICES']",
   "ACTIVE|29|['SUPPLIES', 'SERVICES']",
   "ACTIVE|29|['SUPPLIES']",
@@ -47,141 +50,6 @@
   "ACTIVE|E4|['WORKS']"
  ],
  "exemples": [
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "34114400-3",
-     "descriptions": [
-      {
-       "language": "DE",
-       "text": "Kleinbusse"
-      },
-      {
-       "language": "NL",
-       "text": "Minibusjes"
-      },
-      {
-       "language": "FR",
-       "text": "Minibus"
-      },
-      {
-       "language": "EN",
-       "text": "Minibuses"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "34144910-0",
-    "descriptions": [
-     {
-      "language": "EN",
-      "text": "Electric buses"
-     },
-     {
-      "language": "FR",
-      "text": "Autobus électriques"
-     },
-     {
-      "language": "NL",
-      "text": "Elektrische bussen"
-     },
-     {
-      "language": "DE",
-      "text": "Elektrobusse"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-16",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Het betreft de aankoop van een nieuwe elektrische minibus. Aangezien het voertuig zal worden ingezet voor het vervoer van personen met een beperking, hecht de aanbestedende dienst groot gewicht aan toegankelijkheid, voldoende ruimte en algemeen comfort bij de beoordeling van de inschrijving. Daarom zal er, naast de verplichte technische specificaties, ook veel belang gehecht worden aan de testrit in het nemen van een finale beslissing."
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "2026-1-A1-FAMBER/NMBS",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "2026-1-A1-FAMBER/NMBS",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Aankoop van een nieuwe elektrische minibus voor vervoer van personen met een berperking"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-16",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Aankoop voor een nieuwe elektrische minibus voor vervoer van mensen met een beperking"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "2026-1-A1-FAMBER/NMBS - 1"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SUPPLIES"
-   ],
-   "noticeIds": [
-    "2fedda51-3d80-4daa-8a4a-14c601fc0f93"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE213"
-   ],
-   "organisation": {
-    "organisationId": 3914,
-    "organisationNames": [
-     {
-      "language": "NL",
-      "text": "Ter Loke vzw"
-     },
-     {
-      "language": "FR",
-      "text": "Ter Loke vzw"
-     },
-     {
-      "language": "EN",
-      "text": "Ter Loke vzw"
-     },
-     {
-      "language": "DE",
-      "text": "Ter Loke vzw"
-     }
-    ],
-    "tree": "200004.200032.3914"
-   },
-   "procedureId": "966cefd1-b041-4a2d-8c47-2c02398f85df",
-   "publicationDate": "2026-10-16",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "2026-1-A1-FAMBER/NMBS_pub01"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "f1e5aa32-d6f7-4f8c-882d-84ce40ae4c33",
-   "publishedAt": [
-    "2026-10-16T00:00:46.020764"
-   ],
-   "referenceNumber": "2026-1-A1-FAMBER/NMBS_pub01",
-   "sentAt": [
-    "2026-10-16T00:00:46.020764"
-   ],
-   "tedPublished": false
-  },
   {
    "cpvAdditionalCodes": [
     {
@@ -314,6 +182,389 @@
    "referenceNumber": "PPP05G-1182/6145/2M25-154_3 (2025-050)_002",
    "sentAt": [
     "2026-10-16T00:00:46.959425"
+   ],
+   "tedPublished": false
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "35112100-3",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Trainingspoppen voor hulpverlening"
+      },
+      {
+       "language": "DE",
+       "text": "Notfalltrainingspuppe"
+      },
+      {
+       "language": "EN",
+       "text": "Emergency training dolls"
+      },
+      {
+       "language": "FR",
+       "text": "Mannequins d'entraînement pour les urgences"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "35112100-3",
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Trainingspoppen voor hulpverlening"
+     },
+     {
+      "language": "DE",
+      "text": "Notfalltrainingspuppe"
+     },
+     {
+      "language": "EN",
+      "text": "Emergency training dolls"
+     },
+     {
+      "language": "FR",
+      "text": "Mannequins d'entraînement pour les urgences"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-16",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Mannequins de soins et de secourisme"
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP0BE-2131/6399/2026/103",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "PPP0BE-2131/6399/2026/103",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Mannequins de soins et de secourisme"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-16",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Mannequin torse adulte RCP avec affichage lumineux"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Mannequin torse adulte RCP avec affichage lumineux"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Appareil suivi de type SIMPAD"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Appareil suivi de type SIMPAD"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Mannequin Heimlich"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Mannequin Heimlich"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Pack de 4 mannequins bébé +/-3mois pour réanimation"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Pack de 4 mannequins bébé +/-3mois pour réanimation"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Mannequin RCP bébé"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Mannequin RCP bébé"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Mannequin de soins infirmiers pour la section aide-soignant"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Mannequin de soins infirmiers pour la section aide-soignant"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Nourrisson didactique"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Nourrisson didactique"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Mannequin de formation aux gestes de secours et à la gestion des voies aériennes"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Mannequin de formation aux gestes de secours et à la gestion des voies aériennes"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Mannequin junior pour la formation RPC corps entier"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Mannequin junior pour la formation RPC corps entier"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Mannequin de secourisme bébé"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Mannequin de secourisme bébé"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Mannequin syndrome du bébé secoué"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Mannequin syndrome du bébé secoué"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Pack mannequins famille RCP bustes"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Pack mannequins famille RCP bustes"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Mannequin adulte de réanimation"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Mannequin adulte de réanimation"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SUPPLIES"
+   ],
+   "noticeIds": [
+    "01256e72-df92-41b3-b0aa-e1f230e05c3e"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE323",
+    "BE328",
+    "BE32B"
+   ],
+   "organisation": {
+    "organisationId": 5142,
+    "organisationNames": [
+     {
+      "language": "NL",
+      "text": "Office Central des Achats"
+     },
+     {
+      "language": "FR",
+      "text": "Office Central des Achats"
+     },
+     {
+      "language": "EN",
+      "text": "Office Central des Achats"
+     },
+     {
+      "language": "DE",
+      "text": "Office Central des Achats"
+     }
+    ],
+    "tree": "200004.200020.572.5142"
+   },
+   "procedureId": "d1af55ef-11a6-4602-a6f0-eea046828b0e",
+   "publicationDate": "2026-10-16",
+   "publicationLanguages": [
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP0BE-2131/6399/2026/103_003"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "2dc04743-3609-4f77-b740-c665db7e4f2c",
+   "publishedAt": [
+    "2026-10-16T00:00:47.476087"
+   ],
+   "referenceNumber": "PPP0BE-2131/6399/2026/103_003",
+   "sentAt": [
+    "2026-10-16T00:00:47.476087"
    ],
    "tedPublished": false
   },
@@ -464,45 +715,45 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "34114400-3",
+     "code": "45233140-2",
      "descriptions": [
       {
        "language": "DE",
-       "text": "Kleinbusse"
-      },
-      {
-       "language": "NL",
-       "text": "Minibusjes"
+       "text": "Straßenarbeiten"
       },
       {
        "language": "FR",
-       "text": "Minibus"
+       "text": "Travaux routiers"
       },
       {
        "language": "EN",
-       "text": "Minibuses"
+       "text": "Roadworks"
+      },
+      {
+       "language": "NL",
+       "text": "Wegwerkzaamheden"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "34144910-0",
+    "code": "45233140-2",
     "descriptions": [
      {
-      "language": "EN",
-      "text": "Electric buses"
+      "language": "DE",
+      "text": "Straßenarbeiten"
      },
      {
       "language": "FR",
-      "text": "Autobus électriques"
+      "text": "Travaux routiers"
+     },
+     {
+      "language": "EN",
+      "text": "Roadworks"
      },
      {
       "language": "NL",
-      "text": "Elektrische bussen"
-     },
-     {
-      "language": "DE",
-      "text": "Elektrobusse"
+      "text": "Wegwerkzaamheden"
      }
     ]
    },
@@ -511,19 +762,19 @@
     "accreditations": {},
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Het betreft de aankoop van een nieuwe elektrische minibus. Aangezien het voertuig zal worden ingezet voor het vervoer van personen met een beperking, hecht de aanbestedende dienst groot gewicht aan toegankelijkheid, voldoende ruimte en algemeen comfort bij de beoordeling van de inschrijving. Daarom zal er, naast de verplichte technische specificaties, ook veel belang gehecht worden aan de testrit in het nemen van een finale beslissing."
+      "language": "FR",
+      "text": "Les travaux seront à réaliser sur une voirie du réseau IIIa et ils comprennent notamment les travaux de : Les ouvrages faisant partie de la présente entreprise comprennent en ordre principal l'exécution des travaux suivants :  1/ débroussaillage 2/ démolition de voirie et d’éléments linéaires 3/ déblais de coffre de voirie et de terres de retroussement et de remblais 4/ raccordement d’avaloirs et pose de drains 5/ pose de (ss)fondations de voirie et d’éléments linéaires 6/ pose de revêtement hydrocarboné 7/ travaux de gazonnements et de plantations … Les travaux décrits ci-dessus ne sont pas exhaustifs, le détail des travaux est repris dans les clauses techniques et le métré récapitulatif annexés au présent cahier des charges."
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "2026-1-A1-FAMBER/NMBS",
+    "number": "PPP05G-1182/6145/2M25-154_3 (2025-050)",
     "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "2026-1-A1-FAMBER/NMBS",
+    "referenceNumber": "PPP05G-1182/6145/2M25-154_3 (2025-050)",
     "titles": [
      {
-      "language": "NL",
-      "text": "Aankoop van een nieuwe elektrische minibus voor vervoer van personen met een berperking"
+      "language": "FR",
+      "text": "COURT-SANT-ETIENNE - Stabilisation du talus Rue Vivier le Duc"
      }
     ]
    },
@@ -532,67 +783,67 @@
     {
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Aankoop voor een nieuwe elektrische minibus voor vervoer van mensen met een beperking"
+       "language": "FR",
+       "text": "Les travaux seront à réaliser sur une voirie du réseau IIIa et ils comprennent notamment les travaux de : Les ouvrages faisant partie de la présente entreprise comprennent en ordre principal l'exécution des travaux suivants :  1/ débroussaillage 2/ démolition de voirie et d’éléments linéaires 3/ déblais de coffre de voirie et de terres de retroussement et de remblais 4/ raccordement d’avaloirs et pose de drains 5/ pose de (ss)fondations de voirie et d’éléments linéaires 6/ pose de revêtement hydrocarboné 7/ travaux de gazonnements et de plantations … Les travaux décrits ci-dessus ne sont pas exhaustifs, le détail des travaux est repris dans les clauses techniques et le métré récapitulatif annexés au présent cahier des charges."
       }
      ],
      "titles": [
       {
-       "language": "NL",
-       "text": "2026-1-A1-FAMBER/NMBS - 1"
+       "language": "FR",
+       "text": "COURT-SANT-ETIENNE - Stabilisation du talus Rue Vivier le Duc"
       }
      ]
     }
    ],
    "natures": [
-    "SUPPLIES"
+    "WORKS"
    ],
    "noticeIds": [
-    "2fedda51-3d80-4daa-8a4a-14c601fc0f93"
+    "a7199f11-facd-4107-800f-1f7df6d3fd7c"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE213"
+    "BE310"
    ],
    "organisation": {
-    "organisationId": 3914,
+    "organisationId": 411,
     "organisationNames": [
      {
-      "language": "NL",
-      "text": "Ter Loke vzw"
-     },
-     {
       "language": "FR",
-      "text": "Ter Loke vzw"
+      "text": "Court-Saint-Etienne"
      },
      {
       "language": "EN",
-      "text": "Ter Loke vzw"
+      "text": "Court-Saint-Etienne"
      },
      {
       "language": "DE",
-      "text": "Ter Loke vzw"
+      "text": "Court-Saint-Etienne"
+     },
+     {
+      "language": "NL",
+      "text": "Court-Saint-Etienne"
      }
     ],
-    "tree": "200004.200032.3914"
+    "tree": "200004.200021.411"
    },
-   "procedureId": "966cefd1-b041-4a2d-8c47-2c02398f85df",
+   "procedureId": "9287d61d-1550-4362-ae00-1934aa787852",
    "publicationDate": "2026-10-16",
    "publicationLanguages": [
-    "NL"
+    "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "2026-1-A1-FAMBER/NMBS_pub01"
+    "PPP05G-1182/6145/2M25-154_3 (2025-050)_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "f1e5aa32-d6f7-4f8c-882d-84ce40ae4c33",
+   "publicationWorkspaceId": "61f36225-5843-40b7-8537-8138fb2d0db4",
    "publishedAt": [
-    "2026-10-16T00:00:46.020764"
+    "2026-10-16T00:00:46.959425"
    ],
-   "referenceNumber": "2026-1-A1-FAMBER/NMBS_pub01",
+   "referenceNumber": "PPP05G-1182/6145/2M25-154_3 (2025-050)_002",
    "sentAt": [
-    "2026-10-16T00:00:46.020764"
+    "2026-10-16T00:00:46.959425"
    ],
    "tedPublished": false
   }
