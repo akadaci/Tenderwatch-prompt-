@@ -1,13 +1,11 @@
 {
- "updated": "2026-10-16T20:01:52Z",
+ "updated": "2026-10-16T20:05:20Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
  "received": 881,
  "kept": 441,
  "count": 1726,
- "new_ids": [
-  "bda-e62db01d-8aae-49a6-b9f3-7617f69d848f"
- ],
+ "new_ids": [],
  "records": [
   {
    "id": "bda-61f36225-5843-40b7-8537-8138fb2d0db4",
@@ -1745,7 +1743,7 @@
    "verif_date": "2026-10-16",
    "preuve": "Bulletin des Adjudications, réf. DZ/2026/PGB/025/kwaliteitskader koelteplekken (avis de marché, sous-type eForms E3), publié le 2026-10-16.",
    "date_publication": "2026-10-16",
-   "cpv": "85000000,90713000,71317210,73000000,73110000,71351611",
+   "cpv": "85000000,90713000,71317210,73000000,71351611,73110000",
    "ted_ref": "",
    "notes": "Afgelopen zomer toonde ons dat we nog steeds onvoldoende zijn voorbereid op de extreme hitte, waarvan we verwachten dat die nog zal toenemen ten gevolge van het veranderende klimaat. Eén van de maatregelen die we kunnen treffen en waar tot nu toe maar enkele mee aan de slag zijn gegaan zijn koeltepl",
    "procedure": "b59a03bc-3bb6-4cac-bcaf-a60a886759a9",
@@ -3005,7 +3003,7 @@
    "verif_date": "2026-10-16",
    "preuve": "Bulletin des Adjudications, réf. PPP17X-283/6068/2026/077 (avis de marché, sous-type eForms 16), publié le 2026-10-15.",
    "date_publication": "2026-10-15",
-   "cpv": "71000000,71240000,71222000,71200000,79930000,71242000,79932000",
+   "cpv": "71000000,71240000,71222000,71200000,79930000,79932000,71242000",
    "ted_ref": "PPP17X-283/6068/2026/077_001",
    "notes": "Design & build: onthaalpoort Vlaamse Ardennen - scenografie, architectuur, ontwerp en uitvoering – wandelen door de kerk",
    "procedure": "1475443e-e77d-4c7a-be32-da1d2be52886",
@@ -5441,7 +5439,7 @@
    "verif_date": "2026-10-16",
    "preuve": "Bulletin des Adjudications, réf. WA/OND/D100/2026/2 (attribution, sous-type eForms 29), publié le 2026-10-14.",
    "date_publication": "2026-10-14",
-   "cpv": "45233141,34996000,34992200,34942000,45233294,45233290,45233280,45316200,45233142",
+   "cpv": "45233141,34996000,34992200,34942000,45233294,45233280,45233290,45316200,45233142",
    "ted_ref": "WA/OND/D100/2026/2_pub02",
    "notes": "Deze aanneming heeft tot doel om, op de gewestwegen (N) en de autosnelwegen (A) en hun aanhorigheden in de vervoersregio Antwerpen van de afdeling Antwerpen, de berijdbaarheid en de veiligheid van de weggebruikers van de gewestwegen en de autosnelwegen te verzekeren. Dit door de uitvoering van onder",
    "procedure": "bdbf786a-812c-49f0-b993-61642bb964f2",
@@ -9221,7 +9219,7 @@
    "verif_date": "2026-10-16",
    "preuve": "Bulletin des Adjudications, réf. ARW-26-020 (attribution, sous-type eForms 29), publié le 2026-10-13.",
    "date_publication": "2026-10-13",
-   "cpv": "45111100,45110000,45443000,45112500,45112400,45100000,45112420,45111213,45111200,45111000,45111220",
+   "cpv": "45111100,45110000,45443000,45112500,45112400,45100000,45112420,45111213,45111000,45111200,45111220",
    "ted_ref": "",
    "notes": "Het aanbestedingsdossier behelst de sloop van alle constructies vermeld met hun bijhorende capakeys onder hoofdstuk 14, alsook het vrij maken van hun tuinen en het inrichten van de vrijgekomen percelen. Deze werken zijn inclusief de afwerking van de vrijgekomen gevels aan naburige panden. De panden ",
    "procedure": "d311050d-bb42-469a-983d-0ea6b126315d",
