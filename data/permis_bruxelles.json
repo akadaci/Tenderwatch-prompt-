@@ -1,11 +1,14 @@
 {
- "updated": "2026-10-16T10:01:51Z",
+ "updated": "2026-10-16T11:54:58Z",
  "source": "urban.brussels NOVA (WFS)",
  "days_back": 3,
- "received": 65,
- "kept": 10,
- "count": 91,
- "new_ids": [],
+ "received": 71,
+ "kept": 12,
+ "count": 93,
+ "new_ids": [
+  "nova-04/PFD/2049393",
+  "nova-18/PU/2049216"
+ ],
  "records": [
   {
    "id": "nova-18/PU/2049404",
@@ -40,6 +43,22 @@
    "first_seen": "2026-10-16T04:02:09Z"
   },
   {
+   "id": "nova-04/PFD/2049393",
+   "source_type": "Permis",
+   "nom": "construire 'un local technique pour l'installation d'équipements de charges resistives nécessaires à l'exploitation des équipes d'electronique embarqué du site de Haren. Ce local technique sera situé ",
+   "lieu": "Houtweg 99, 1130 Bruxelles",
+   "type": "Permis d'urbanisme délivré par le FD",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='04/PFD/2049393'",
+   "verif": "vérifié",
+   "verif_date": "2026-10-16",
+   "preuve": "Demande de permis 04/PFD/2049393 reçue le 2026-10-15 (urban.brussels, service NOVA), surface projetée 109 m².",
+   "date_publication": "2026-10-15",
+   "notes": "Autorité : BUP",
+   "first_seen": "2026-10-16T11:54:58Z"
+  },
+  {
    "id": "nova-02/PU/2049201",
    "source_type": "Permis",
    "nom": "mettre en conformité les aménagements extérieurs en zone de cours et jardins arrière",
@@ -70,6 +89,22 @@
    "date_publication": "2026-10-14",
    "notes": "Autorité : Forest",
    "first_seen": "2026-10-15T12:01:58Z"
+  },
+  {
+   "id": "nova-18/PU/2049216",
+   "source_type": "Permis",
+   "nom": "Régularisation de la division d’une maison de rentier en cinq logements.",
+   "lieu": "Boulevard Brand Whitlock 120, 1200 Woluwe-Saint-Lambert",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='18/PU/2049216'",
+   "verif": "vérifié",
+   "verif_date": "2026-10-16",
+   "preuve": "Demande de permis 18/PU/2049216 reçue le 2026-10-14 (urban.brussels, service NOVA), surface projetée 604 m².",
+   "date_publication": "2026-10-14",
+   "notes": "Autorité : Woluwe-Saint-Lambert",
+   "first_seen": "2026-10-16T11:54:58Z"
   },
   {
    "id": "nova-01/PFD/2049050",
