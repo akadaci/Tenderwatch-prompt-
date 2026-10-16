@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 292163
+  "totalCount": 292164
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -668,11 +668,11 @@
     "organisationId": 10741,
     "organisationNames": [
      {
-      "language": "FR",
+      "language": "NL",
       "text": "DGEM"
      },
      {
-      "language": "NL",
+      "language": "FR",
       "text": "DGEM"
      }
     ],

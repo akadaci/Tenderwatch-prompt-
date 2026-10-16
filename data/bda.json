@@ -1,11 +1,13 @@
 {
- "updated": "2026-10-16T18:01:53Z",
+ "updated": "2026-10-16T20:01:52Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 880,
- "kept": 440,
- "count": 1725,
- "new_ids": [],
+ "received": 881,
+ "kept": 441,
+ "count": 1726,
+ "new_ids": [
+  "bda-e62db01d-8aae-49a6-b9f3-7617f69d848f"
+ ],
  "records": [
   {
    "id": "bda-61f36225-5843-40b7-8537-8138fb2d0db4",
@@ -2423,6 +2425,27 @@
    "dossier": "AF26100626"
   },
   {
+   "id": "bda-e62db01d-8aae-49a6-b9f3-7617f69d848f",
+   "source_type": "BDA",
+   "nom": "Travaux d'amélioration ouvrages d'art L50A/L50C",
+   "lieu": "",
+   "province": "",
+   "mo": "Infrabel (TR)",
+   "etape": 5,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/e62db01d-8aae-49a6-b9f3-7617f69d848f",
+   "verif": "vérifié",
+   "verif_date": "2026-10-16",
+   "preuve": "Bulletin des Adjudications, réf. TR 106315 (attribution, sous-type eForms E4), publié le 2026-10-16.",
+   "date_publication": "2026-10-16",
+   "cpv": "45221100",
+   "ted_ref": "",
+   "notes": "L'objet du présent cahier des charges concerne la réalisation de réparations et de travaux résiduels sur des éléments essentiels d'ouvrages d'art présentant des dommages dus à des tassements, à un comportement anormal ou à des défauts d'exécution. Ce marché porte donc sur divers travaux à réaliser s",
+   "procedure": "ec986653-84c1-4044-8280-b6566ab59de8",
+   "dossier": "TR 106315",
+   "first_seen": "2026-10-16T20:01:52Z"
+  },
+  {
    "id": "bda-3066dda6-4616-4538-94a1-c1741bdacd0e",
    "source_type": "BDA",
    "nom": "RENOUVELLEMENT DU GAZON SYNTHETIQUE DU SECOND TERRAIN DU STADE WAHIS, T-2 – REMPLISSAGE DE SABLE ET DE GRANULATS DE LIÈGE",
@@ -2982,7 +3005,7 @@
    "verif_date": "2026-10-16",
    "preuve": "Bulletin des Adjudications, réf. PPP17X-283/6068/2026/077 (avis de marché, sous-type eForms 16), publié le 2026-10-15.",
    "date_publication": "2026-10-15",
-   "cpv": "71000000,71240000,71222000,71200000,79930000,79932000,71242000",
+   "cpv": "71000000,71240000,71222000,71200000,79930000,71242000,79932000",
    "ted_ref": "PPP17X-283/6068/2026/077_001",
    "notes": "Design & build: onthaalpoort Vlaamse Ardennen - scenografie, architectuur, ontwerp en uitvoering – wandelen door de kerk",
    "procedure": "1475443e-e77d-4c7a-be32-da1d2be52886",
