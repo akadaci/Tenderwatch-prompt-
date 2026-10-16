@@ -1,13 +1,11 @@
 {
- "updated": "2026-10-16T16:58:21Z",
+ "updated": "2026-10-16T18:01:53Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 879,
- "kept": 439,
+ "received": 880,
+ "kept": 440,
  "count": 1725,
- "new_ids": [
-  "bda-67e1982b-5dfb-4314-80f2-b7d7c48f1554"
- ],
+ "new_ids": [],
  "records": [
   {
    "id": "bda-61f36225-5843-40b7-8537-8138fb2d0db4",
@@ -2404,6 +2402,27 @@
    "first_seen": "2026-10-16T16:58:21Z"
   },
   {
+   "id": "bda-6792966c-b7fe-40ff-a357-b861edb65579",
+   "source_type": "BDA",
+   "nom": "Rénovation de toitures en zinc, toits plats, et verrières métalliques",
+   "lieu": "Bruxelles",
+   "mo": "Direction régionale de Bruxelles",
+   "etape": 4,
+   "source": "https://www.publicprocurement.be/publication-workspaces/6792966c-b7fe-40ff-a357-b861edb65579",
+   "verif": "vérifié",
+   "verif_date": "2026-10-16",
+   "preuve": "Bulletin des Adjudications, réf. AF26100626 (avis de marché, sous-type eForms 16), publié le 2026-10-16.",
+   "date_publication": "2026-10-16",
+   "cpv": "45260000,45441000",
+   "ted_ref": "",
+   "notes": "Le présent MARCHÉ DE TRAVAUX a pour objet les travaux, fournitures, transports, main d’oeuvre et tous moyens nécessaires à l’exécution des travaux décrits ci-après : Plus en détail, les travaux comprennent : Lot 1 : Couvertures plates et en zinc • Il s’agit du lot principal. • Il inclut la coordinat",
+   "first_seen": "2026-10-07T23:39:38Z",
+   "province": "Bruxelles",
+   "sur_ted": false,
+   "procedure": "f342a204-3b76-4a41-8845-1a6cd4ffb465",
+   "dossier": "AF26100626"
+  },
+  {
    "id": "bda-3066dda6-4616-4538-94a1-c1741bdacd0e",
    "source_type": "BDA",
    "nom": "RENOUVELLEMENT DU GAZON SYNTHETIQUE DU SECOND TERRAIN DU STADE WAHIS, T-2 – REMPLISSAGE DE SABLE ET DE GRANULATS DE LIÈGE",
@@ -2963,7 +2982,7 @@
    "verif_date": "2026-10-16",
    "preuve": "Bulletin des Adjudications, réf. PPP17X-283/6068/2026/077 (avis de marché, sous-type eForms 16), publié le 2026-10-15.",
    "date_publication": "2026-10-15",
-   "cpv": "71000000,71240000,71222000,71200000,79930000,71242000,79932000",
+   "cpv": "71000000,71240000,71222000,71200000,79930000,79932000,71242000",
    "ted_ref": "PPP17X-283/6068/2026/077_001",
    "notes": "Design & build: onthaalpoort Vlaamse Ardennen - scenografie, architectuur, ontwerp en uitvoering – wandelen door de kerk",
    "procedure": "1475443e-e77d-4c7a-be32-da1d2be52886",
@@ -5399,7 +5418,7 @@
    "verif_date": "2026-10-16",
    "preuve": "Bulletin des Adjudications, réf. WA/OND/D100/2026/2 (attribution, sous-type eForms 29), publié le 2026-10-14.",
    "date_publication": "2026-10-14",
-   "cpv": "45233141,34996000,34992200,34942000,45233294,45233280,45233290,45316200,45233142",
+   "cpv": "45233141,34996000,34992200,34942000,45233294,45233290,45233280,45316200,45233142",
    "ted_ref": "WA/OND/D100/2026/2_pub02",
    "notes": "Deze aanneming heeft tot doel om, op de gewestwegen (N) en de autosnelwegen (A) en hun aanhorigheden in de vervoersregio Antwerpen van de afdeling Antwerpen, de berijdbaarheid en de veiligheid van de weggebruikers van de gewestwegen en de autosnelwegen te verzekeren. Dit door de uitvoering van onder",
    "procedure": "bdbf786a-812c-49f0-b993-61642bb964f2",
@@ -9179,7 +9198,7 @@
    "verif_date": "2026-10-16",
    "preuve": "Bulletin des Adjudications, réf. ARW-26-020 (attribution, sous-type eForms 29), publié le 2026-10-13.",
    "date_publication": "2026-10-13",
-   "cpv": "45111100,45110000,45443000,45112500,45112400,45100000,45112420,45111213,45111000,45111200,45111220",
+   "cpv": "45111100,45110000,45443000,45112500,45112400,45100000,45112420,45111213,45111200,45111000,45111220",
    "ted_ref": "",
    "notes": "Het aanbestedingsdossier behelst de sloop van alle constructies vermeld met hun bijhorende capakeys onder hoofdstuk 14, alsook het vrij maken van hun tuinen en het inrichten van de vrijgekomen percelen. Deze werken zijn inclusief de afwerking van de vrijgekomen gevels aan naburige panden. De panden ",
    "procedure": "d311050d-bb42-469a-983d-0ea6b126315d",
@@ -24623,23 +24642,6 @@
    "cpv": "45000000",
    "ted_ref": "",
    "notes": "Ce marché porte sur l’aménagement de pistes cyclopédestres entre Trazegnies et Bascoup, dans le cadre de l’aménagement de la première phase de la ligne RAVeL L254. Cette ligne est à aménager au droit l’ancienne ligne de chemin de fer L254, désaffectée, et au droit d’un chemin agricole, sis sur le te",
-   "first_seen": "2026-10-07T23:39:38Z"
-  },
-  {
-   "id": "bda-6792966c-b7fe-40ff-a357-b861edb65579",
-   "source_type": "BDA",
-   "nom": "Rénovation de toitures en zinc, toits plats, et verrières métalliques",
-   "lieu": "Bruxelles",
-   "mo": "Direction régionale de Bruxelles",
-   "etape": 4,
-   "source": "https://www.publicprocurement.be/publication-workspaces/6792966c-b7fe-40ff-a357-b861edb65579",
-   "verif": "vérifié",
-   "verif_date": "2026-10-07",
-   "preuve": "Bulletin des Adjudications, réf. AF26100626 (avis de marché, sous-type eForms 16), publié le 2026-09-30.",
-   "date_publication": "2026-09-30",
-   "cpv": "45260000,45441000",
-   "ted_ref": "",
-   "notes": "Le présent MARCHÉ DE TRAVAUX a pour objet les travaux, fournitures, transports, main d’oeuvre et tous moyens nécessaires à l’exécution des travaux décrits ci-après : Plus en détail, les travaux comprennent : Lot 1 : Couvertures plates et en zinc • Il s’agit du lot principal. • Il inclut la coordinat",
    "first_seen": "2026-10-07T23:39:38Z"
   },
   {
