@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 292164
+  "totalCount": 292165
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -52,6 +52,141 @@
   "ACTIVE|E4|['WORKS']"
  ],
  "exemples": [
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "51212000-1",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Services d'installation de matériel d'enregistrement des présences"
+      },
+      {
+       "language": "EN",
+       "text": "Installation services of time register equipment"
+      },
+      {
+       "language": "NL",
+       "text": "Installatiediensten voor tijdregistratieapparatuur"
+      },
+      {
+       "language": "DE",
+       "text": "Installation von Zeitregistrierungsgeräten"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "65000000-3",
+    "descriptions": [
+     {
+      "language": "EN",
+      "text": "Public utilities"
+     },
+     {
+      "language": "FR",
+      "text": "Services publics"
+     },
+     {
+      "language": "DE",
+      "text": "Versorgungsunternehmen"
+     },
+     {
+      "language": "NL",
+      "text": "Openbare voorzieningen"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-17",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Acquisition de deux pointeuses et mise en place d'un système de gestion du temps de travail et de présence."
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "2026298",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "2026298",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Acquisition de deux pointeuses et mise en place d'un système de gestion du temps de travail et de présence"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-17",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "ACQUISITION DE POINTEUSES ET MISE EN PLACE D'UN SYSTÈME DE GESTION DU TEMPS DE TRAVAIL ET DE PRÉSENCE"
+      }
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "2026298 - 1"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SERVICES"
+   ],
+   "noticeIds": [
+    "7b1e161f-bd12-4c95-beb5-9f68b6c348ba"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE310"
+   ],
+   "organisation": {
+    "organisationId": 587,
+    "organisationNames": [
+     {
+      "language": "NL",
+      "text": "Mont-Saint-Guibert"
+     },
+     {
+      "language": "FR",
+      "text": "Mont-Saint-Guibert"
+     },
+     {
+      "language": "EN",
+      "text": "Mont-Saint-Guibert"
+     },
+     {
+      "language": "DE",
+      "text": "Mont-Saint-Guibert"
+     }
+    ],
+    "tree": "200004.200021.587"
+   },
+   "procedureId": "a882ad94-5901-429b-9ca2-6f8d1557e0bb",
+   "publicationDate": "2026-10-17",
+   "publicationLanguages": [
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "2026298_pub01"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "d062fc40-2860-4534-a12e-c53129868591",
+   "publishedAt": [
+    "2026-10-17T00:00:45.011433"
+   ],
+   "referenceNumber": "2026298_pub01",
+   "sentAt": [
+    "2026-10-17T00:00:45.011433"
+   ],
+   "tedPublished": false
+  },
   {
    "cpvAdditionalCodes": [
     {
@@ -547,108 +682,88 @@
     "2026-10-16T06:55:45.050629"
    ],
    "tedPublished": false
-  },
+  }
+ ],
+ "exemple_attribution": [
   {
    "cpvAdditionalCodes": [
     {
-     "code": "72267100-0",
+     "code": "51212000-1",
      "descriptions": [
       {
-       "language": "DE",
-       "text": "Wartung von Informationstechnologiesoftware"
+       "language": "FR",
+       "text": "Services d'installation de matériel d'enregistrement des présences"
       },
       {
        "language": "EN",
-       "text": "Maintenance of information technology software"
+       "text": "Installation services of time register equipment"
       },
       {
        "language": "NL",
-       "text": "Onderhoud van software voor informatietechnologie"
+       "text": "Installatiediensten voor tijdregistratieapparatuur"
       },
       {
-       "language": "FR",
-       "text": "Maintenance de logiciels de technologies de l'information"
+       "language": "DE",
+       "text": "Installation von Zeitregistrierungsgeräten"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "72267100-0",
+    "code": "65000000-3",
     "descriptions": [
      {
-      "language": "DE",
-      "text": "Wartung von Informationstechnologiesoftware"
-     },
-     {
       "language": "EN",
-      "text": "Maintenance of information technology software"
-     },
-     {
-      "language": "NL",
-      "text": "Onderhoud van software voor informatietechnologie"
+      "text": "Public utilities"
      },
      {
       "language": "FR",
-      "text": "Maintenance de logiciels de technologies de l'information"
+      "text": "Services publics"
+     },
+     {
+      "language": "DE",
+      "text": "Versorgungsunternehmen"
+     },
+     {
+      "language": "NL",
+      "text": "Openbare voorzieningen"
      }
     ]
    },
-   "dispatchDate": "2026-10-16",
+   "dispatchDate": "2026-10-17",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
       "language": "FR",
-      "text": "Le Comité de coordination de la politique environnementale internationale (CCPIE) et la Commission nationale du climat (CNC) utilisent, pour la coordination des groupes de travail, un outil informatique personnalisé pour le SPF, la plateforme EnvCoord, (disponible via : https://envcoord.health.fgov.be). Cette demande de prix vise à assurer l’hébergement, la gestion de l’infrastructure, la maintenance et le support de la plateforme EnvCoord pour une période de 3 ans."
-     },
-     {
-      "language": "NL",
-      "text": "Het Coördinatiecomité voor het Internationaal Milieubeleid (CCIM) en de Nationale Klimaatcommissie (NKC) gebruiken voor de coördinatie van de werkgroepen een voor de FOD op maat gemaakte IT-tool, het platform EnvCoord (beschikbaar via: https://envcoord.health.fgov.be). Deze prijsaanvraag heeft tot doel de hosting, het beheer van de infrastructuur, het onderhoud en de ondersteuning van het EnvCoord-platform voor een periode van 3 jaar te verzekeren."
+      "text": "Acquisition de deux pointeuses et mise en place d'un système de gestion du temps de travail et de présence."
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "DGEM/BioGov/DL/26049",
-    "procurementProcedureType": "LOW_VALUE_T",
-    "referenceNumber": "DGEM/BioGov/DL/26049",
+    "number": "2026298",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "2026298",
     "titles": [
      {
       "language": "FR",
-      "text": "Hosting et maintenance de la plateforme \"ENVCOORD\""
-     },
-     {
-      "language": "NL",
-      "text": "Hosting en onderhoud van het platform ‘ENVCOORD’"
+      "text": "Acquisition de deux pointeuses et mise en place d'un système de gestion du temps de travail et de présence"
      }
     ]
    },
-   "insertionDate": "2026-10-02",
+   "insertionDate": "2026-10-17",
    "lots": [
     {
      "descriptions": [
       {
        "language": "FR",
-       "text": "Le Comité de coordination de la politique environnementale internationale (CCPIE) et la Commission nationale du climat (CNC) utilisent, pour la coordination des groupes de travail, un outil informatique personnalisé pour le SPF, la plateforme EnvCoord, (disponible via : https://envcoord.health.fgov.be). Cette demande de prix vise à assurer l’hébergement, la gestion de l’infrastructure, la maintenance et le support de la plateforme EnvCoord pour une période de 3 ans."
-      },
-      {
-       "language": "NL",
-       "text": "Het Coördinatiecomité voor het Internationaal Milieubeleid (CCIM) en de Nationale Klimaatcommissie (NKC) gebruiken voor de coördinatie van de werkgroepen een voor de FOD op maat gemaakte IT-tool, het platform EnvCoord (beschikbaar via: https://envcoord.health.fgov.be). Deze prijsaanvraag heeft tot doel de hosting, het beheer van de infrastructuur, het onderhoud en de ondersteuning van het EnvCoord-platform voor een periode van 3 jaar te verzekeren."
+       "text": "ACQUISITION DE POINTEUSES ET MISE EN PLACE D'UN SYSTÈME DE GESTION DU TEMPS DE TRAVAIL ET DE PRÉSENCE"
       }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
      ],
      "titles": [
       {
        "language": "FR",
-       "text": "DGEM/BioGov/DL/26049 - 1"
-      },
-      {
-       "language": "NL",
-       "text": "DGEM/BioGov/DL/26049 - 1"
+       "text": "2026298 - 1"
       }
      ]
     }
@@ -657,354 +772,51 @@
     "SERVICES"
    ],
    "noticeIds": [
-    "7645a925-cb37-4418-bf87-40715f8f0145",
-    "c89fa825-bbbb-487a-b07a-57c38144ad0f"
+    "7b1e161f-bd12-4c95-beb5-9f68b6c348ba"
    ],
-   "noticeSubType": "E3",
+   "noticeSubType": "E4",
    "nutsCodes": [
-    "BE100"
+    "BE310"
    ],
    "organisation": {
-    "organisationId": 10741,
+    "organisationId": 587,
     "organisationNames": [
      {
-      "language": "FR",
-      "text": "DGEM"
-     },
-     {
       "language": "NL",
-      "text": "DGEM"
-     }
-    ],
-    "tree": "200002.200008.18.10741"
-   },
-   "procedureId": "935ae1f1-1b8b-473b-b3b4-05dc28df2c6d",
-   "publicationDate": "2026-10-16",
-   "publicationLanguages": [
-    "NL",
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "DGEM/BioGov/DL/26049_pub01"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "00829f7e-d375-4fa2-96f5-5e91f9d49487",
-   "publishedAt": [
-    "2026-10-02T12:15:45.024254",
-    "2026-10-16T08:37:45.02141"
-   ],
-   "referenceNumber": "DGEM/BioGov/DL/26049_pub01",
-   "sentAt": [
-    "2026-10-02T12:15:45.024254",
-    "2026-10-16T08:37:45.02141"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-10-28T10:00:00"
-  }
- ],
- "exemple_attribution": [
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "45443000-4",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Gevelwerkzaamheden"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de façade"
-      },
-      {
-       "language": "EN",
-       "text": "Facade work"
-      },
-      {
-       "language": "DE",
-       "text": "Fassadenarbeiten"
-      }
-     ]
-    },
-    {
-     "code": "45421000-4",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Bouwtimmerwerk"
-      },
-      {
-       "language": "DE",
-       "text": "Bautischlerarbeiten"
-      },
-      {
-       "language": "EN",
-       "text": "Joinery work"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de menuiserie"
-      }
-     ]
-    },
-    {
-     "code": "45261000-4",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Installatie- en aanverwante werkzaamheden voor dakconstructies en -bedekking"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de charpente et de couverture et travaux connexes"
-      },
-      {
-       "language": "EN",
-       "text": "Erection and related works of roof frames and coverings"
-      },
-      {
-       "language": "DE",
-       "text": "Errichtung von Dachstühlen sowie Dachdeckarbeiten und zugehörige Arbeiten"
-      }
-     ]
-    },
-    {
-     "code": "45000000-7",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Bouwwerkzaamheden"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de construction"
-      },
-      {
-       "language": "DE",
-       "text": "Bauarbeiten"
-      },
-      {
-       "language": "EN",
-       "text": "Construction work"
-      }
-     ]
-    },
-    {
-     "code": "45421131-1",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Installation of doors"
-      },
-      {
-       "language": "NL",
-       "text": "Plaatsen van deuren"
-      },
-      {
-       "language": "FR",
-       "text": "Pose de portes"
-      },
-      {
-       "language": "DE",
-       "text": "Einbau von Türen"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "45000000-7",
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Bouwwerkzaamheden"
+      "text": "Mont-Saint-Guibert"
      },
      {
       "language": "FR",
-      "text": "Travaux de construction"
-     },
-     {
-      "language": "DE",
-      "text": "Bauarbeiten"
+      "text": "Mont-Saint-Guibert"
      },
      {
       "language": "EN",
-      "text": "Construction work"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-16",
-   "dossier": {
-    "accreditations": {
-     "D": 2,
-     "D5": 1,
-     "D8": 1,
-     "D21": 1
-    },
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Gesloten Ruwbouw"
-     }
-    ],
-    "enterpriseCategories": [
-     {
-      "categoryCode": "D",
-      "levels": [
-       1,
-       2
-      ]
+      "text": "Mont-Saint-Guibert"
      },
      {
-      "categoryCode": "D21",
-      "levels": [
-       1
-      ]
-     },
-     {
-      "categoryCode": "D8",
-      "levels": [
-       1
-      ]
-     },
-     {
-      "categoryCode": "D5",
-      "levels": [
-       1
-      ]
+      "language": "DE",
+      "text": "Mont-Saint-Guibert"
      }
     ],
-    "legalBasis": "D24",
-    "number": "FRK",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "FRK",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Renovatie kinderdagverblijf Het Darteltje"
-     }
-    ]
+    "tree": "200004.200021.587"
    },
-   "insertionDate": "2026-10-16",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Plaatsen buitenschrijnwerk "
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Het Darteltje - Buitenschrijnwerk"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Dakwerken"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Het Darteltje - Dakwerken"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Open ruwbouw "
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Het Darteltje - Open Ruwbouw"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Gevelrenovatie"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Het Darteltje - Gevelrenovatie"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "WORKS"
-   ],
-   "noticeIds": [
-    "69ffe61b-a3d5-45a6-93bf-69f2a8d271b2"
-   ],
-   "noticeSubType": "29",
-   "nutsCodes": [
-    "BE254"
-   ],
-   "organisation": {
-    "organisationId": 49081,
-    "organisationNames": [
-     {
-      "language": "NL",
-      "text": "Kinderdagverblijf Het Darteltje BV"
-     }
-    ],
-    "tree": "200004.200036.49081"
-   },
-   "procedureId": "6580ef6e-78e1-44be-aaca-5b826634d5bf",
-   "publicationDate": "2026-10-16",
+   "procedureId": "a882ad94-5901-429b-9ca2-6f8d1557e0bb",
+   "publicationDate": "2026-10-17",
    "publicationLanguages": [
-    "NL"
+    "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "FRK_pub02"
+    "2026298_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "2732b41f-af6b-4ab6-952a-abac5fbd75ed",
+   "publicationWorkspaceId": "d062fc40-2860-4534-a12e-c53129868591",
    "publishedAt": [
-    "2026-10-16T08:09:45.039619"
+    "2026-10-17T00:00:45.011433"
    ],
-   "referenceNumber": "FRK_pub02",
+   "referenceNumber": "2026298_pub01",
    "sentAt": [
-    "2026-10-16T08:09:45.039619"
+    "2026-10-17T00:00:45.011433"
    ],
    "tedPublished": false
   }
