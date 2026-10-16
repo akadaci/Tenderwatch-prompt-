@@ -1,11 +1,12 @@
 {
  "meta": {
-  "totalCount": 292061
+  "totalCount": 292102
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
   "ACTIVE|10|['SUPPLIES', 'SERVICES']",
   "ACTIVE|10|['WORKS']",
+  "ACTIVE|15|['SUPPLIES']",
   "ACTIVE|16|['SERVICES']",
   "ACTIVE|16|['SUPPLIES', 'SERVICES']",
   "ACTIVE|16|['SUPPLIES']",
@@ -35,7 +36,9 @@
   "ACTIVE|33|['SERVICES']",
   "ACTIVE|33|['SUPPLIES', 'SERVICES']",
   "ACTIVE|33|['SUPPLIES']",
+  "ACTIVE|33|['WORKS']",
   "ACTIVE|34|['WORKS']",
+  "ACTIVE|38|['SUPPLIES']",
   "ACTIVE|E1|['SERVICES']",
   "ACTIVE|E1|['SUPPLIES']",
   "ACTIVE|E3|['SERVICES']",
@@ -665,11 +668,11 @@
     "organisationId": 10741,
     "organisationNames": [
      {
-      "language": "FR",
+      "language": "NL",
       "text": "DGEM"
      },
      {
-      "language": "NL",
+      "language": "FR",
       "text": "DGEM"
      }
     ],
