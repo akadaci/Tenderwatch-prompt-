@@ -1,15 +1,12 @@
 {
- "updated": "2026-10-16T16:01:55Z",
+ "updated": "2026-10-16T16:58:21Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 876,
- "kept": 438,
- "count": 1724,
+ "received": 879,
+ "kept": 439,
+ "count": 1725,
  "new_ids": [
-  "bda-805160cc-b5a6-4d93-8555-0f7f8beda671",
-  "bda-394c2ef7-96b1-4f8d-b550-d955e10a9ef0",
-  "bda-57a024cd-1ea5-45e7-a17e-6bfd07bd90f8",
-  "bda-cf313869-0eeb-4947-8ff2-aa765ceb6d5a"
+  "bda-67e1982b-5dfb-4314-80f2-b7d7c48f1554"
  ],
  "records": [
   {
@@ -2386,6 +2383,27 @@
    "first_seen": "2026-10-16T16:01:55Z"
   },
   {
+   "id": "bda-67e1982b-5dfb-4314-80f2-b7d7c48f1554",
+   "source_type": "BDA",
+   "nom": "Vernieuwen asfaltverharding in Dorpsstraat-Kaaiplein, Tulpenstraat-Begoniastraat en Driewallenstraat",
+   "lieu": "Bruxelles",
+   "province": "Bruxelles",
+   "mo": "Gemeente Beveren-Kruibeke-Zwijndrecht",
+   "etape": 4,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/67e1982b-5dfb-4314-80f2-b7d7c48f1554",
+   "verif": "vérifié",
+   "verif_date": "2026-10-16",
+   "preuve": "Bulletin des Adjudications, réf. PPP00N-17457/6364/BKZ/2026/17465 (avis de marché, sous-type eForms 16), publié le 2026-10-16.",
+   "date_publication": "2026-10-16",
+   "cpv": "45233222,45233251",
+   "ted_ref": "",
+   "notes": "Vernieuwen asfaltverharding in Dorpsstraat-Kaaiplein, Tulpenstraat-Begoniastraat en Driewallenstraat",
+   "procedure": "7568ee29-f184-442b-91d8-11b2755566c5",
+   "dossier": "PPP00N-17457/6364/BKZ/2026/17465",
+   "first_seen": "2026-10-16T16:58:21Z"
+  },
+  {
    "id": "bda-3066dda6-4616-4538-94a1-c1741bdacd0e",
    "source_type": "BDA",
    "nom": "RENOUVELLEMENT DU GAZON SYNTHETIQUE DU SECOND TERRAIN DU STADE WAHIS, T-2 – REMPLISSAGE DE SABLE ET DE GRANULATS DE LIÈGE",
@@ -2945,7 +2963,7 @@
    "verif_date": "2026-10-16",
    "preuve": "Bulletin des Adjudications, réf. PPP17X-283/6068/2026/077 (avis de marché, sous-type eForms 16), publié le 2026-10-15.",
    "date_publication": "2026-10-15",
-   "cpv": "71000000,71240000,71222000,79930000,71200000,71242000,79932000",
+   "cpv": "71000000,71240000,71222000,71200000,79930000,71242000,79932000",
    "ted_ref": "PPP17X-283/6068/2026/077_001",
    "notes": "Design & build: onthaalpoort Vlaamse Ardennen - scenografie, architectuur, ontwerp en uitvoering – wandelen door de kerk",
    "procedure": "1475443e-e77d-4c7a-be32-da1d2be52886",
@@ -3008,7 +3026,7 @@
    "verif_date": "2026-10-16",
    "preuve": "Bulletin des Adjudications, réf. SOF-MI-O8.08.02-26-3327 (avis de marché, sous-type eForms 16), publié le 2026-10-15.",
    "date_publication": "2026-10-15",
-   "cpv": "45233000,45233140,45233141,45233220,45233142,45233139",
+   "cpv": "45233000,45233220,45233141,45233140,45233142,45233139",
    "ted_ref": "SOF-MI-O8.08.02-26-3327_pub01",
    "notes": "Chacun des marchés conclus sur la base de l’accord-cadre est un marché de travaux qui a pour objet l’entretien général des routes et de leurs dépendances sur le district routier de Bastogne, à savoir : • réparation et réalisation d’îlots • traitement de surface • démontage-remontage de maçonnerie (m",
    "procedure": "71f3c38b-b135-40ec-b373-866b0280dd22",
@@ -5381,7 +5399,7 @@
    "verif_date": "2026-10-16",
    "preuve": "Bulletin des Adjudications, réf. WA/OND/D100/2026/2 (attribution, sous-type eForms 29), publié le 2026-10-14.",
    "date_publication": "2026-10-14",
-   "cpv": "45233141,34996000,34992200,34942000,45233294,45233290,45233280,45316200,45233142",
+   "cpv": "45233141,34996000,34992200,34942000,45233294,45233280,45233290,45316200,45233142",
    "ted_ref": "WA/OND/D100/2026/2_pub02",
    "notes": "Deze aanneming heeft tot doel om, op de gewestwegen (N) en de autosnelwegen (A) en hun aanhorigheden in de vervoersregio Antwerpen van de afdeling Antwerpen, de berijdbaarheid en de veiligheid van de weggebruikers van de gewestwegen en de autosnelwegen te verzekeren. Dit door de uitvoering van onder",
    "procedure": "bdbf786a-812c-49f0-b993-61642bb964f2",
