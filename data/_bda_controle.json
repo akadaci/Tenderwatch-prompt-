@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 292045
+  "totalCount": 292061
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -36,7 +36,6 @@
   "ACTIVE|33|['SUPPLIES', 'SERVICES']",
   "ACTIVE|33|['SUPPLIES']",
   "ACTIVE|34|['WORKS']",
-  "ACTIVE|38|['SUPPLIES']",
   "ACTIVE|E1|['SERVICES']",
   "ACTIVE|E1|['SUPPLIES']",
   "ACTIVE|E3|['SERVICES']",
@@ -53,66 +52,181 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45233140-2",
+     "code": "45443000-4",
      "descriptions": [
       {
-       "language": "DE",
-       "text": "Straßenarbeiten"
+       "language": "NL",
+       "text": "Gevelwerkzaamheden"
       },
       {
        "language": "FR",
-       "text": "Travaux routiers"
+       "text": "Travaux de façade"
       },
       {
        "language": "EN",
-       "text": "Roadworks"
+       "text": "Facade work"
+      },
+      {
+       "language": "DE",
+       "text": "Fassadenarbeiten"
+      }
+     ]
+    },
+    {
+     "code": "45421000-4",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Bouwtimmerwerk"
+      },
+      {
+       "language": "DE",
+       "text": "Bautischlerarbeiten"
+      },
+      {
+       "language": "EN",
+       "text": "Joinery work"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de menuiserie"
+      }
+     ]
+    },
+    {
+     "code": "45261000-4",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Installatie- en aanverwante werkzaamheden voor dakconstructies en -bedekking"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de charpente et de couverture et travaux connexes"
+      },
+      {
+       "language": "EN",
+       "text": "Erection and related works of roof frames and coverings"
+      },
+      {
+       "language": "DE",
+       "text": "Errichtung von Dachstühlen sowie Dachdeckarbeiten und zugehörige Arbeiten"
+      }
+     ]
+    },
+    {
+     "code": "45000000-7",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Bouwwerkzaamheden"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de construction"
+      },
+      {
+       "language": "DE",
+       "text": "Bauarbeiten"
+      },
+      {
+       "language": "EN",
+       "text": "Construction work"
+      }
+     ]
+    },
+    {
+     "code": "45421131-1",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Installation of doors"
       },
       {
        "language": "NL",
-       "text": "Wegwerkzaamheden"
+       "text": "Plaatsen van deuren"
+      },
+      {
+       "language": "FR",
+       "text": "Pose de portes"
+      },
+      {
+       "language": "DE",
+       "text": "Einbau von Türen"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45233140-2",
+    "code": "45000000-7",
     "descriptions": [
      {
-      "language": "DE",
-      "text": "Straßenarbeiten"
+      "language": "NL",
+      "text": "Bouwwerkzaamheden"
      },
      {
       "language": "FR",
-      "text": "Travaux routiers"
+      "text": "Travaux de construction"
+     },
+     {
+      "language": "DE",
+      "text": "Bauarbeiten"
      },
      {
       "language": "EN",
-      "text": "Roadworks"
-     },
-     {
-      "language": "NL",
-      "text": "Wegwerkzaamheden"
+      "text": "Construction work"
      }
     ]
    },
    "dispatchDate": "2026-10-16",
    "dossier": {
-    "accreditations": {},
+    "accreditations": {
+     "D": 2,
+     "D5": 1,
+     "D8": 1,
+     "D21": 1
+    },
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Les travaux seront à réaliser sur une voirie du réseau IIIa et ils comprennent notamment les travaux de : Les ouvrages faisant partie de la présente entreprise comprennent en ordre principal l'exécution des travaux suivants :  1/ débroussaillage 2/ démolition de voirie et d’éléments linéaires 3/ déblais de coffre de voirie et de terres de retroussement et de remblais 4/ raccordement d’avaloirs et pose de drains 5/ pose de (ss)fondations de voirie et d’éléments linéaires 6/ pose de revêtement hydrocarboné 7/ travaux de gazonnements et de plantations … Les travaux décrits ci-dessus ne sont pas exhaustifs, le détail des travaux est repris dans les clauses techniques et le métré récapitulatif annexés au présent cahier des charges."
+      "language": "NL",
+      "text": "Gesloten Ruwbouw"
      }
     ],
-    "enterpriseCategories": [],
+    "enterpriseCategories": [
+     {
+      "categoryCode": "D",
+      "levels": [
+       1,
+       2
+      ]
+     },
+     {
+      "categoryCode": "D21",
+      "levels": [
+       1
+      ]
+     },
+     {
+      "categoryCode": "D8",
+      "levels": [
+       1
+      ]
+     },
+     {
+      "categoryCode": "D5",
+      "levels": [
+       1
+      ]
+     }
+    ],
     "legalBasis": "D24",
-    "number": "PPP05G-1182/6145/2M25-154_3 (2025-050)",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP05G-1182/6145/2M25-154_3 (2025-050)",
+    "number": "FRK",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "FRK",
     "titles": [
      {
-      "language": "FR",
-      "text": "COURT-SANT-ETIENNE - Stabilisation du talus Rue Vivier le Duc"
+      "language": "NL",
+      "text": "Renovatie kinderdagverblijf Het Darteltje"
      }
     ]
    },
@@ -121,14 +235,80 @@
     {
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Les travaux seront à réaliser sur une voirie du réseau IIIa et ils comprennent notamment les travaux de : Les ouvrages faisant partie de la présente entreprise comprennent en ordre principal l'exécution des travaux suivants :  1/ débroussaillage 2/ démolition de voirie et d’éléments linéaires 3/ déblais de coffre de voirie et de terres de retroussement et de remblais 4/ raccordement d’avaloirs et pose de drains 5/ pose de (ss)fondations de voirie et d’éléments linéaires 6/ pose de revêtement hydrocarboné 7/ travaux de gazonnements et de plantations … Les travaux décrits ci-dessus ne sont pas exhaustifs, le détail des travaux est repris dans les clauses techniques et le métré récapitulatif annexés au présent cahier des charges."
+       "language": "NL",
+       "text": "Plaatsen buitenschrijnwerk "
       }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
      ],
      "titles": [
       {
-       "language": "FR",
-       "text": "COURT-SANT-ETIENNE - Stabilisation du talus Rue Vivier le Duc"
+       "language": "NL",
+       "text": "Het Darteltje - Buitenschrijnwerk"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Dakwerken"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Het Darteltje - Dakwerken"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Open ruwbouw "
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Het Darteltje - Open Ruwbouw"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Gevelrenovatie"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Het Darteltje - Gevelrenovatie"
       }
      ]
     }
@@ -137,96 +317,84 @@
     "WORKS"
    ],
    "noticeIds": [
-    "a7199f11-facd-4107-800f-1f7df6d3fd7c"
+    "69ffe61b-a3d5-45a6-93bf-69f2a8d271b2"
    ],
-   "noticeSubType": "E4",
+   "noticeSubType": "29",
    "nutsCodes": [
-    "BE310"
+    "BE254"
    ],
    "organisation": {
-    "organisationId": 411,
+    "organisationId": 49081,
     "organisationNames": [
      {
-      "language": "FR",
-      "text": "Court-Saint-Etienne"
-     },
-     {
-      "language": "EN",
-      "text": "Court-Saint-Etienne"
-     },
-     {
-      "language": "DE",
-      "text": "Court-Saint-Etienne"
-     },
-     {
       "language": "NL",
-      "text": "Court-Saint-Etienne"
+      "text": "Kinderdagverblijf Het Darteltje BV"
      }
     ],
-    "tree": "200004.200021.411"
+    "tree": "200004.200036.49081"
    },
-   "procedureId": "9287d61d-1550-4362-ae00-1934aa787852",
+   "procedureId": "6580ef6e-78e1-44be-aaca-5b826634d5bf",
    "publicationDate": "2026-10-16",
    "publicationLanguages": [
-    "FR"
+    "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP05G-1182/6145/2M25-154_3 (2025-050)_002"
+    "FRK_pub02"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "61f36225-5843-40b7-8537-8138fb2d0db4",
+   "publicationWorkspaceId": "2732b41f-af6b-4ab6-952a-abac5fbd75ed",
    "publishedAt": [
-    "2026-10-16T00:00:46.959425"
+    "2026-10-16T08:09:45.039619"
    ],
-   "referenceNumber": "PPP05G-1182/6145/2M25-154_3 (2025-050)_002",
+   "referenceNumber": "FRK_pub02",
    "sentAt": [
-    "2026-10-16T00:00:46.959425"
+    "2026-10-16T08:09:45.039619"
    ],
    "tedPublished": false
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "35112100-3",
+     "code": "50111000-6",
      "descriptions": [
       {
+       "language": "FR",
+       "text": "Services de gestion, de réparation et d'entretien de parc de véhicules"
+      },
+      {
        "language": "NL",
-       "text": "Trainingspoppen voor hulpverlening"
+       "text": "Beheer, reparatie en onderhoud van wagenpark"
       },
       {
        "language": "DE",
-       "text": "Notfalltrainingspuppe"
+       "text": "Verwaltung, Reparatur und Wartung von Fahrzeugparks"
       },
       {
        "language": "EN",
-       "text": "Emergency training dolls"
-      },
-      {
-       "language": "FR",
-       "text": "Mannequins d'entraînement pour les urgences"
+       "text": "Fleet management, repair and maintenance services"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "35112100-3",
+    "code": "50111000-6",
     "descriptions": [
      {
+      "language": "FR",
+      "text": "Services de gestion, de réparation et d'entretien de parc de véhicules"
+     },
+     {
       "language": "NL",
-      "text": "Trainingspoppen voor hulpverlening"
+      "text": "Beheer, reparatie en onderhoud van wagenpark"
      },
      {
       "language": "DE",
-      "text": "Notfalltrainingspuppe"
+      "text": "Verwaltung, Reparatur und Wartung von Fahrzeugparks"
      },
      {
       "language": "EN",
-      "text": "Emergency training dolls"
-     },
-     {
-      "language": "FR",
-      "text": "Mannequins d'entraînement pour les urgences"
+      "text": "Fleet management, repair and maintenance services"
      }
     ]
    },
@@ -235,402 +403,20 @@
     "accreditations": {},
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Mannequins de soins et de secourisme"
+      "language": "NL",
+      "text": "Onderhoud en herstellingen wagenpark Gemeente Lebbeke"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP0BE-2131/6399/2026/103",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "PPP0BE-2131/6399/2026/103",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "Mannequins de soins et de secourisme"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-16",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Mannequin torse adulte RCP avec affichage lumineux"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Mannequin torse adulte RCP avec affichage lumineux"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Appareil suivi de type SIMPAD"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Appareil suivi de type SIMPAD"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Mannequin Heimlich"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Mannequin Heimlich"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Pack de 4 mannequins bébé +/-3mois pour réanimation"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Pack de 4 mannequins bébé +/-3mois pour réanimation"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Mannequin RCP bébé"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Mannequin RCP bébé"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Mannequin de soins infirmiers pour la section aide-soignant"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Mannequin de soins infirmiers pour la section aide-soignant"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Nourrisson didactique"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Nourrisson didactique"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Mannequin de formation aux gestes de secours et à la gestion des voies aériennes"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Mannequin de formation aux gestes de secours et à la gestion des voies aériennes"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Mannequin junior pour la formation RPC corps entier"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Mannequin junior pour la formation RPC corps entier"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Mannequin de secourisme bébé"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Mannequin de secourisme bébé"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Mannequin syndrome du bébé secoué"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Mannequin syndrome du bébé secoué"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Pack mannequins famille RCP bustes"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Pack mannequins famille RCP bustes"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Mannequin adulte de réanimation"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Mannequin adulte de réanimation"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SUPPLIES"
-   ],
-   "noticeIds": [
-    "01256e72-df92-41b3-b0aa-e1f230e05c3e"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE323",
-    "BE328",
-    "BE32B"
-   ],
-   "organisation": {
-    "organisationId": 5142,
-    "organisationNames": [
-     {
-      "language": "NL",
-      "text": "Office Central des Achats"
-     },
-     {
-      "language": "FR",
-      "text": "Office Central des Achats"
-     },
-     {
-      "language": "EN",
-      "text": "Office Central des Achats"
-     },
-     {
-      "language": "DE",
-      "text": "Office Central des Achats"
-     }
-    ],
-    "tree": "200004.200020.572.5142"
-   },
-   "procedureId": "d1af55ef-11a6-4602-a6f0-eea046828b0e",
-   "publicationDate": "2026-10-16",
-   "publicationLanguages": [
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP0BE-2131/6399/2026/103_003"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "2dc04743-3609-4f77-b740-c665db7e4f2c",
-   "publishedAt": [
-    "2026-10-16T00:00:47.476087"
-   ],
-   "referenceNumber": "PPP0BE-2131/6399/2026/103_003",
-   "sentAt": [
-    "2026-10-16T00:00:47.476087"
-   ],
-   "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "79000000-4",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Zakelijke dienstverlening: juridisch, marketing, consulting, drukkerij en beveiliging"
-      },
-      {
-       "language": "EN",
-       "text": "Business services: law, marketing, consulting, recruitment, printing and security"
-      },
-      {
-       "language": "FR",
-       "text": "Services aux entreprises: droit, marketing, conseil, recrutement, impression et sécurité"
-      },
-      {
-       "language": "DE",
-       "text": "Dienstleistungen für Unternehmen: Recht, Marketing, Consulting, Einstellungen, Druck und Sicherheit"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "79000000-4",
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Zakelijke dienstverlening: juridisch, marketing, consulting, drukkerij en beveiliging"
-     },
-     {
-      "language": "EN",
-      "text": "Business services: law, marketing, consulting, recruitment, printing and security"
-     },
-     {
-      "language": "FR",
-      "text": "Services aux entreprises: droit, marketing, conseil, recrutement, impression et sécurité"
-     },
-     {
-      "language": "DE",
-      "text": "Dienstleistungen für Unternehmen: Recht, Marketing, Consulting, Einstellungen, Druck und Sicherheit"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-16",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Aanstellen consultant afvalmanager"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D25",
-    "number": "PPP159-392/6121/AGSO/2026/284",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "PPP159-392/6121/AGSO/2026/284",
+    "number": "PPP099-437/6091/2025184",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP099-437/6091/2025184",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
       "language": "NL",
-      "text": "Aanstellen consultant afvalmanager"
+      "text": "Onderhoud en herstellingen wagenpark Gemeente Lebbeke"
      }
     ]
    },
@@ -640,19 +426,69 @@
      "descriptions": [
       {
        "language": "NL",
-       "text": "Aanstellen consultant afvalmanager"
+       "text": "Onderhoud en herstellingen bestelwagens Renault en SUV Dacia"
       }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
      ],
      "titles": [
       {
        "language": "NL",
-       "text": "Aanstellen consultant afvalmanager"
+       "text": "Onderhoud en herstellingen bestelwagens Renault en SUV Dacia"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Onderhoud en herstellingen vrachtwagens (alle merken)"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Onderhoud en herstellingen vrachtwagens (alle merken)"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Onderhoud en herstellingen bus"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Onderhoud en herstellingen bus"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Onderhoud en herstellingen bestelwagens en lichte vracht Ford"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Onderhoud en herstellingen bestelwagens en lichte vracht Ford"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Onderhoud en herstellingen personenwagens (alle merken)"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Onderhoud en herstellingen personenwagens (alle merken)"
       }
      ]
     }
@@ -661,99 +497,96 @@
     "SERVICES"
    ],
    "noticeIds": [
-    "6251aed8-e9e0-4313-b88f-3bd09edd192f"
+    "37faeec2-f78c-4cdf-affd-02837f14db10"
    ],
-   "noticeSubType": "17",
+   "noticeSubType": "E4",
    "nutsCodes": [
     "BE100"
    ],
    "organisation": {
-    "organisationId": 5028,
+    "organisationId": 502,
     "organisationNames": [
      {
+      "language": "NL",
+      "text": "Lebbeke"
+     },
+     {
       "language": "FR",
-      "text": "Gemeentebedrijf voor Stadsontwikkeling Knokke-Heist"
+      "text": "Lebbeke"
      },
      {
       "language": "EN",
-      "text": "Gemeentebedrijf voor Stadsontwikkeling Knokke-Heist"
+      "text": "Lebbeke"
      },
      {
       "language": "DE",
-      "text": "Gemeentebedrijf voor Stadsontwikkeling Knokke-Heist"
-     },
-     {
-      "language": "NL",
-      "text": "Autonoom Gemeentebedrijf voor Stadsontwikkeling Knokke-Heist"
+      "text": "Lebbeke"
      }
     ],
-    "tree": "200004.200021.1275.5028"
+    "tree": "200004.200021.502"
    },
-   "procedureId": "e778d43c-e270-4c21-a54b-12e223147c02",
+   "procedureId": "f968b190-4233-4143-9ab8-23b6b91c973a",
    "publicationDate": "2026-10-16",
    "publicationLanguages": [
     "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP159-392/6121/AGSO/2026/284_001"
+    "PPP099-437/6091/2025184_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "3fd8d211-6170-4fe7-a235-a895f559cf27",
+   "publicationWorkspaceId": "020fd34e-e072-45e0-a93e-0dac115d4cb4",
    "publishedAt": [
-    "2026-10-16T00:00:47.173067"
+    "2026-10-16T06:55:45.050629"
    ],
-   "referenceNumber": "PPP159-392/6121/AGSO/2026/284_001",
+   "referenceNumber": "PPP099-437/6091/2025184_002",
    "sentAt": [
-    "2026-10-16T00:00:47.173067"
+    "2026-10-16T06:55:45.050629"
    ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-23T10:00:00"
-  }
- ],
- "exemple_attribution": [
+   "tedPublished": false
+  },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45233140-2",
+     "code": "72267100-0",
      "descriptions": [
       {
        "language": "DE",
-       "text": "Straßenarbeiten"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux routiers"
+       "text": "Wartung von Informationstechnologiesoftware"
       },
       {
        "language": "EN",
-       "text": "Roadworks"
+       "text": "Maintenance of information technology software"
       },
       {
        "language": "NL",
-       "text": "Wegwerkzaamheden"
+       "text": "Onderhoud van software voor informatietechnologie"
+      },
+      {
+       "language": "FR",
+       "text": "Maintenance de logiciels de technologies de l'information"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45233140-2",
+    "code": "72267100-0",
     "descriptions": [
      {
       "language": "DE",
-      "text": "Straßenarbeiten"
-     },
-     {
-      "language": "FR",
-      "text": "Travaux routiers"
+      "text": "Wartung von Informationstechnologiesoftware"
      },
      {
       "language": "EN",
-      "text": "Roadworks"
+      "text": "Maintenance of information technology software"
      },
      {
       "language": "NL",
-      "text": "Wegwerkzaamheden"
+      "text": "Onderhoud van software voor informatietechnologie"
+     },
+     {
+      "language": "FR",
+      "text": "Maintenance de logiciels de technologies de l'information"
      }
     ]
    },
@@ -763,18 +596,289 @@
     "descriptions": [
      {
       "language": "FR",
-      "text": "Les travaux seront à réaliser sur une voirie du réseau IIIa et ils comprennent notamment les travaux de : Les ouvrages faisant partie de la présente entreprise comprennent en ordre principal l'exécution des travaux suivants :  1/ débroussaillage 2/ démolition de voirie et d’éléments linéaires 3/ déblais de coffre de voirie et de terres de retroussement et de remblais 4/ raccordement d’avaloirs et pose de drains 5/ pose de (ss)fondations de voirie et d’éléments linéaires 6/ pose de revêtement hydrocarboné 7/ travaux de gazonnements et de plantations … Les travaux décrits ci-dessus ne sont pas exhaustifs, le détail des travaux est repris dans les clauses techniques et le métré récapitulatif annexés au présent cahier des charges."
+      "text": "Le Comité de coordination de la politique environnementale internationale (CCPIE) et la Commission nationale du climat (CNC) utilisent, pour la coordination des groupes de travail, un outil informatique personnalisé pour le SPF, la plateforme EnvCoord, (disponible via : https://envcoord.health.fgov.be). Cette demande de prix vise à assurer l’hébergement, la gestion de l’infrastructure, la maintenance et le support de la plateforme EnvCoord pour une période de 3 ans."
+     },
+     {
+      "language": "NL",
+      "text": "Het Coördinatiecomité voor het Internationaal Milieubeleid (CCIM) en de Nationale Klimaatcommissie (NKC) gebruiken voor de coördinatie van de werkgroepen een voor de FOD op maat gemaakte IT-tool, het platform EnvCoord (beschikbaar via: https://envcoord.health.fgov.be). Deze prijsaanvraag heeft tot doel de hosting, het beheer van de infrastructuur, het onderhoud en de ondersteuning van het EnvCoord-platform voor een periode van 3 jaar te verzekeren."
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP05G-1182/6145/2M25-154_3 (2025-050)",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP05G-1182/6145/2M25-154_3 (2025-050)",
+    "number": "DGEM/BioGov/DL/26049",
+    "procurementProcedureType": "LOW_VALUE_T",
+    "referenceNumber": "DGEM/BioGov/DL/26049",
     "titles": [
      {
       "language": "FR",
-      "text": "COURT-SANT-ETIENNE - Stabilisation du talus Rue Vivier le Duc"
+      "text": "Hosting et maintenance de la plateforme \"ENVCOORD\""
+     },
+     {
+      "language": "NL",
+      "text": "Hosting en onderhoud van het platform ‘ENVCOORD’"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-02",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Le Comité de coordination de la politique environnementale internationale (CCPIE) et la Commission nationale du climat (CNC) utilisent, pour la coordination des groupes de travail, un outil informatique personnalisé pour le SPF, la plateforme EnvCoord, (disponible via : https://envcoord.health.fgov.be). Cette demande de prix vise à assurer l’hébergement, la gestion de l’infrastructure, la maintenance et le support de la plateforme EnvCoord pour une période de 3 ans."
+      },
+      {
+       "language": "NL",
+       "text": "Het Coördinatiecomité voor het Internationaal Milieubeleid (CCIM) en de Nationale Klimaatcommissie (NKC) gebruiken voor de coördinatie van de werkgroepen een voor de FOD op maat gemaakte IT-tool, het platform EnvCoord (beschikbaar via: https://envcoord.health.fgov.be). Deze prijsaanvraag heeft tot doel de hosting, het beheer van de infrastructuur, het onderhoud en de ondersteuning van het EnvCoord-platform voor een periode van 3 jaar te verzekeren."
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "DGEM/BioGov/DL/26049 - 1"
+      },
+      {
+       "language": "NL",
+       "text": "DGEM/BioGov/DL/26049 - 1"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SERVICES"
+   ],
+   "noticeIds": [
+    "7645a925-cb37-4418-bf87-40715f8f0145",
+    "c89fa825-bbbb-487a-b07a-57c38144ad0f"
+   ],
+   "noticeSubType": "E3",
+   "nutsCodes": [
+    "BE100"
+   ],
+   "organisation": {
+    "organisationId": 10741,
+    "organisationNames": [
+     {
+      "language": "FR",
+      "text": "DGEM"
+     },
+     {
+      "language": "NL",
+      "text": "DGEM"
+     }
+    ],
+    "tree": "200002.200008.18.10741"
+   },
+   "procedureId": "935ae1f1-1b8b-473b-b3b4-05dc28df2c6d",
+   "publicationDate": "2026-10-16",
+   "publicationLanguages": [
+    "NL",
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "DGEM/BioGov/DL/26049_pub01"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "00829f7e-d375-4fa2-96f5-5e91f9d49487",
+   "publishedAt": [
+    "2026-10-02T12:15:45.024254",
+    "2026-10-16T08:37:45.02141"
+   ],
+   "referenceNumber": "DGEM/BioGov/DL/26049_pub01",
+   "sentAt": [
+    "2026-10-02T12:15:45.024254",
+    "2026-10-16T08:37:45.02141"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-10-28T10:00:00"
+  }
+ ],
+ "exemple_attribution": [
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45443000-4",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Gevelwerkzaamheden"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de façade"
+      },
+      {
+       "language": "EN",
+       "text": "Facade work"
+      },
+      {
+       "language": "DE",
+       "text": "Fassadenarbeiten"
+      }
+     ]
+    },
+    {
+     "code": "45421000-4",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Bouwtimmerwerk"
+      },
+      {
+       "language": "DE",
+       "text": "Bautischlerarbeiten"
+      },
+      {
+       "language": "EN",
+       "text": "Joinery work"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de menuiserie"
+      }
+     ]
+    },
+    {
+     "code": "45261000-4",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Installatie- en aanverwante werkzaamheden voor dakconstructies en -bedekking"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de charpente et de couverture et travaux connexes"
+      },
+      {
+       "language": "EN",
+       "text": "Erection and related works of roof frames and coverings"
+      },
+      {
+       "language": "DE",
+       "text": "Errichtung von Dachstühlen sowie Dachdeckarbeiten und zugehörige Arbeiten"
+      }
+     ]
+    },
+    {
+     "code": "45000000-7",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Bouwwerkzaamheden"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de construction"
+      },
+      {
+       "language": "DE",
+       "text": "Bauarbeiten"
+      },
+      {
+       "language": "EN",
+       "text": "Construction work"
+      }
+     ]
+    },
+    {
+     "code": "45421131-1",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Installation of doors"
+      },
+      {
+       "language": "NL",
+       "text": "Plaatsen van deuren"
+      },
+      {
+       "language": "FR",
+       "text": "Pose de portes"
+      },
+      {
+       "language": "DE",
+       "text": "Einbau von Türen"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45000000-7",
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Bouwwerkzaamheden"
+     },
+     {
+      "language": "FR",
+      "text": "Travaux de construction"
+     },
+     {
+      "language": "DE",
+      "text": "Bauarbeiten"
+     },
+     {
+      "language": "EN",
+      "text": "Construction work"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-16",
+   "dossier": {
+    "accreditations": {
+     "D": 2,
+     "D5": 1,
+     "D8": 1,
+     "D21": 1
+    },
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Gesloten Ruwbouw"
+     }
+    ],
+    "enterpriseCategories": [
+     {
+      "categoryCode": "D",
+      "levels": [
+       1,
+       2
+      ]
+     },
+     {
+      "categoryCode": "D21",
+      "levels": [
+       1
+      ]
+     },
+     {
+      "categoryCode": "D8",
+      "levels": [
+       1
+      ]
+     },
+     {
+      "categoryCode": "D5",
+      "levels": [
+       1
+      ]
+     }
+    ],
+    "legalBasis": "D24",
+    "number": "FRK",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "FRK",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Renovatie kinderdagverblijf Het Darteltje"
      }
     ]
    },
@@ -783,14 +887,80 @@
     {
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Les travaux seront à réaliser sur une voirie du réseau IIIa et ils comprennent notamment les travaux de : Les ouvrages faisant partie de la présente entreprise comprennent en ordre principal l'exécution des travaux suivants :  1/ débroussaillage 2/ démolition de voirie et d’éléments linéaires 3/ déblais de coffre de voirie et de terres de retroussement et de remblais 4/ raccordement d’avaloirs et pose de drains 5/ pose de (ss)fondations de voirie et d’éléments linéaires 6/ pose de revêtement hydrocarboné 7/ travaux de gazonnements et de plantations … Les travaux décrits ci-dessus ne sont pas exhaustifs, le détail des travaux est repris dans les clauses techniques et le métré récapitulatif annexés au présent cahier des charges."
+       "language": "NL",
+       "text": "Plaatsen buitenschrijnwerk "
       }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
      ],
      "titles": [
       {
-       "language": "FR",
-       "text": "COURT-SANT-ETIENNE - Stabilisation du talus Rue Vivier le Duc"
+       "language": "NL",
+       "text": "Het Darteltje - Buitenschrijnwerk"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Dakwerken"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Het Darteltje - Dakwerken"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Open ruwbouw "
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Het Darteltje - Open Ruwbouw"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Gevelrenovatie"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Het Darteltje - Gevelrenovatie"
       }
      ]
     }
@@ -799,51 +969,39 @@
     "WORKS"
    ],
    "noticeIds": [
-    "a7199f11-facd-4107-800f-1f7df6d3fd7c"
+    "69ffe61b-a3d5-45a6-93bf-69f2a8d271b2"
    ],
-   "noticeSubType": "E4",
+   "noticeSubType": "29",
    "nutsCodes": [
-    "BE310"
+    "BE254"
    ],
    "organisation": {
-    "organisationId": 411,
+    "organisationId": 49081,
     "organisationNames": [
      {
-      "language": "FR",
-      "text": "Court-Saint-Etienne"
-     },
-     {
-      "language": "EN",
-      "text": "Court-Saint-Etienne"
-     },
-     {
-      "language": "DE",
-      "text": "Court-Saint-Etienne"
-     },
-     {
       "language": "NL",
-      "text": "Court-Saint-Etienne"
+      "text": "Kinderdagverblijf Het Darteltje BV"
      }
     ],
-    "tree": "200004.200021.411"
+    "tree": "200004.200036.49081"
    },
-   "procedureId": "9287d61d-1550-4362-ae00-1934aa787852",
+   "procedureId": "6580ef6e-78e1-44be-aaca-5b826634d5bf",
    "publicationDate": "2026-10-16",
    "publicationLanguages": [
-    "FR"
+    "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP05G-1182/6145/2M25-154_3 (2025-050)_002"
+    "FRK_pub02"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "61f36225-5843-40b7-8537-8138fb2d0db4",
+   "publicationWorkspaceId": "2732b41f-af6b-4ab6-952a-abac5fbd75ed",
    "publishedAt": [
-    "2026-10-16T00:00:46.959425"
+    "2026-10-16T08:09:45.039619"
    ],
-   "referenceNumber": "PPP05G-1182/6145/2M25-154_3 (2025-050)_002",
+   "referenceNumber": "FRK_pub02",
    "sentAt": [
-    "2026-10-16T00:00:46.959425"
+    "2026-10-16T08:09:45.039619"
    ],
    "tedPublished": false
   }
