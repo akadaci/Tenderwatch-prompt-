@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 292165
+  "totalCount": 292166
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -182,27 +182,6 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45443000-4",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Gevelwerkzaamheden"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de façade"
-      },
-      {
-       "language": "EN",
-       "text": "Facade work"
-      },
-      {
-       "language": "DE",
-       "text": "Fassadenarbeiten"
-      }
-     ]
-    },
-    {
      "code": "45421000-4",
      "descriptions": [
       {
@@ -222,28 +201,146 @@
        "text": "Travaux de menuiserie"
       }
      ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45421000-4",
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Bouwtimmerwerk"
+     },
+     {
+      "language": "DE",
+      "text": "Bautischlerarbeiten"
+     },
+     {
+      "language": "EN",
+      "text": "Joinery work"
+     },
+     {
+      "language": "FR",
+      "text": "Travaux de menuiserie"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-17",
+   "dossier": {
+    "accreditations": {
+     "D5": 2,
+     "D20": 2
     },
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Remplacement des menuiseries extérieures du bâtiment B4 de l'implantation du Communauté Scolaire Saint-Benoît de Habay située Avenue de la Gare 68 à 6720 HABAY-LA-NEUVE"
+     }
+    ],
+    "enterpriseCategories": [
+     {
+      "categoryCode": "D5",
+      "levels": [
+       1,
+       2
+      ]
+     },
+     {
+      "categoryCode": "D20",
+      "levels": [
+       1,
+       2
+      ]
+     }
+    ],
+    "legalBasis": "D24",
+    "number": "PPT_EU_2026-0481",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "PPT_EU_2026-0481",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Remplacement des menuiseries extérieures du bâtiment B4 de la Communauté Scolaire St Benoît de Habay-la-Neuve (Implantation Avenue de la Gare)"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-17",
+   "lots": [
     {
-     "code": "45261000-4",
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Installatie- en aanverwante werkzaamheden voor dakconstructies en -bedekking"
-      },
+       "language": "FR",
+       "text": "Remplacement de menuiseries extérieures à la Communauté Scolaire Saint-Benoît de Habay-la-Neuve (bâtiment B4 de l'implantation située Avenue de la Gare 68 à 6720 Habay-la-Neuve)"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
       {
        "language": "FR",
-       "text": "Travaux de charpente et de couverture et travaux connexes"
-      },
-      {
-       "language": "EN",
-       "text": "Erection and related works of roof frames and coverings"
-      },
-      {
-       "language": "DE",
-       "text": "Errichtung von Dachstühlen sowie Dachdeckarbeiten und zugehörige Arbeiten"
+       "text": "PPT_EU_2026-0481 - 1"
       }
      ]
-    },
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "0898d16f-ef5c-432a-9ae5-868bb835d816"
+   ],
+   "noticeSubType": "16",
+   "nutsCodes": [
+    "BE341"
+   ],
+   "organisation": {
+    "organisationId": 4344,
+    "organisationNames": [
+     {
+      "language": "FR",
+      "text": "ASBL Pouvoir organisateur du centre d’enseignement secondaire Catholique d’Habay"
+     },
+     {
+      "language": "EN",
+      "text": "ASBL Pouvoir organisateur du centre d’enseignement secondaire Catholique d’Habay"
+     },
+     {
+      "language": "DE",
+      "text": "ASBL Pouvoir organisateur du centre d’enseignement secondaire Catholique d’Habay"
+     },
+     {
+      "language": "NL",
+      "text": "ASBL Pouvoir organisateur du centre d’enseignement secondaire Catholique d’Habay"
+     }
+    ],
+    "tree": "200004.200026.4344"
+   },
+   "procedureId": "e576da3f-3d41-4169-8f39-f579a2cff4ea",
+   "publicationDate": "2026-10-17",
+   "publicationLanguages": [
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPT_EU_2026-0481_pub01"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "9342325d-fdd4-4cf9-baa7-49669482007b",
+   "publishedAt": [
+    "2026-10-17T09:44:45.013932"
+   ],
+   "referenceNumber": "PPT_EU_2026-0481_pub01",
+   "sentAt": [
+    "2026-10-17T09:44:45.013932"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-11-23T16:00:00"
+  },
+  {
+   "cpvAdditionalCodes": [
     {
      "code": "45000000-7",
      "descriptions": [
@@ -262,27 +359,6 @@
       {
        "language": "EN",
        "text": "Construction work"
-      }
-     ]
-    },
-    {
-     "code": "45421131-1",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Installation of doors"
-      },
-      {
-       "language": "NL",
-       "text": "Plaatsen van deuren"
-      },
-      {
-       "language": "FR",
-       "text": "Pose de portes"
-      },
-      {
-       "language": "DE",
-       "text": "Einbau von Türen"
       }
      ]
     }
@@ -308,65 +384,34 @@
      }
     ]
    },
-   "dispatchDate": "2026-10-16",
+   "dispatchDate": "2026-10-17",
    "dossier": {
-    "accreditations": {
-     "D": 2,
-     "D5": 1,
-     "D8": 1,
-     "D21": 1
-    },
+    "accreditations": {},
     "descriptions": [
      {
       "language": "NL",
-      "text": "Gesloten Ruwbouw"
+      "text": "Stad Lommel wenst de Hoppinpunten De Soeverein en Huis van de stad aan te leggen.  De opdracht behelst vooral: - Algemene administratieve voorschriften en bepalingen  - Opbreken van diverse verhardingsmaterialen en lijnvormige elementen - Opbreken van funderingen en onderfunderingen - Rooien van beplanting - Rooien van bomen - Grondverzet - Aanleg van funderingen - Aanleg van lijnvormige elementen - Aanleg van betonverharding - Aanleg van betontegels en betonstraatstenen - Aanleg van asfaltverharding - Aanleg van halfverharding - Aanleg van keerelementen, fietsenstalling, draadafsluiting, anti-parkeerpalen,… - Beplantingswerken – zaaiwerken. "
      }
     ],
-    "enterpriseCategories": [
-     {
-      "categoryCode": "D",
-      "levels": [
-       1,
-       2
-      ]
-     },
-     {
-      "categoryCode": "D21",
-      "levels": [
-       1
-      ]
-     },
-     {
-      "categoryCode": "D8",
-      "levels": [
-       1
-      ]
-     },
-     {
-      "categoryCode": "D5",
-      "levels": [
-       1
-      ]
-     }
-    ],
+    "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "FRK",
+    "number": "PPP04A-3171/6284/2026042",
     "procurementProcedureType": "OPEN",
-    "referenceNumber": "FRK",
+    "referenceNumber": "PPP04A-3171/6284/2026042",
     "titles": [
      {
       "language": "NL",
-      "text": "Renovatie kinderdagverblijf Het Darteltje"
+      "text": "Hoppinpunten De Soeverein - Huis van de Stad  (wegen-, omgevings- en beplantingswerken)"
      }
     ]
    },
-   "insertionDate": "2026-10-16",
+   "insertionDate": "2026-09-23",
    "lots": [
     {
      "descriptions": [
       {
        "language": "NL",
-       "text": "Plaatsen buitenschrijnwerk "
+       "text": "Stad Lommel wenst de Hoppinpunten De Soeverein en Huis van de stad aan te leggen.  De opdracht behelst vooral: - Algemene administratieve voorschriften en bepalingen  - Opbreken van diverse verhardingsmaterialen en lijnvormige elementen - Opbreken van funderingen en onderfunderingen - Rooien van beplanting - Rooien van bomen - Grondverzet - Aanleg van funderingen - Aanleg van lijnvormige elementen - Aanleg van betonverharding - Aanleg van betontegels en betonstraatstenen - Aanleg van asfaltverharding - Aanleg van halfverharding - Aanleg van keerelementen, fietsenstalling, draadafsluiting, anti-parkeerpalen,… - Beplantingswerken – zaaiwerken. "
       }
      ],
      "reservedExecution": [
@@ -378,67 +423,7 @@
      "titles": [
       {
        "language": "NL",
-       "text": "Het Darteltje - Buitenschrijnwerk"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Dakwerken"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Het Darteltje - Dakwerken"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Open ruwbouw "
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Het Darteltje - Open Ruwbouw"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Gevelrenovatie"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Het Darteltje - Gevelrenovatie"
+       "text": "Hoppinpunten De Soeverein - Huis van de Stad  (wegen-, omgevings- en beplantingswerken)"
       }
      ]
     }
@@ -447,233 +432,57 @@
     "WORKS"
    ],
    "noticeIds": [
-    "69ffe61b-a3d5-45a6-93bf-69f2a8d271b2"
+    "79c1a8ca-d2ee-409c-ac02-5627aef9d53f",
+    "c3551fd2-cdc5-49b7-84da-a8ccb1cea70e"
    ],
-   "noticeSubType": "29",
+   "noticeSubType": "16",
    "nutsCodes": [
-    "BE254"
+    "BE225"
    ],
    "organisation": {
-    "organisationId": 49081,
+    "organisationId": 316,
     "organisationNames": [
      {
+      "language": "EN",
+      "text": "Lommel"
+     },
+     {
+      "language": "DE",
+      "text": "Lommel"
+     },
+     {
       "language": "NL",
-      "text": "Kinderdagverblijf Het Darteltje BV"
+      "text": "Lommel"
+     },
+     {
+      "language": "FR",
+      "text": "Lommel"
      }
     ],
-    "tree": "200004.200036.49081"
+    "tree": "200004.200021.316"
    },
-   "procedureId": "6580ef6e-78e1-44be-aaca-5b826634d5bf",
-   "publicationDate": "2026-10-16",
+   "procedureId": "95ea5efc-5e53-486f-b55d-60cc75e7d126",
+   "publicationDate": "2026-10-17",
    "publicationLanguages": [
     "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "FRK_pub02"
+    "PPP04A-3171/6284/2026042_001"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "2732b41f-af6b-4ab6-952a-abac5fbd75ed",
+   "publicationWorkspaceId": "fa571fca-bb9f-428e-abf3-09ceed92a97b",
    "publishedAt": [
-    "2026-10-16T08:09:45.039619"
+    "2026-09-23T08:35:46.011058",
+    "2026-10-17T09:56:45.010204"
    ],
-   "referenceNumber": "FRK_pub02",
+   "referenceNumber": "PPP04A-3171/6284/2026042_001",
    "sentAt": [
-    "2026-10-16T08:09:45.039619"
+    "2026-09-23T08:35:46.011058",
+    "2026-10-17T09:56:45.010204"
    ],
-   "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "50111000-6",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Services de gestion, de réparation et d'entretien de parc de véhicules"
-      },
-      {
-       "language": "NL",
-       "text": "Beheer, reparatie en onderhoud van wagenpark"
-      },
-      {
-       "language": "DE",
-       "text": "Verwaltung, Reparatur und Wartung von Fahrzeugparks"
-      },
-      {
-       "language": "EN",
-       "text": "Fleet management, repair and maintenance services"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "50111000-6",
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Services de gestion, de réparation et d'entretien de parc de véhicules"
-     },
-     {
-      "language": "NL",
-      "text": "Beheer, reparatie en onderhoud van wagenpark"
-     },
-     {
-      "language": "DE",
-      "text": "Verwaltung, Reparatur und Wartung von Fahrzeugparks"
-     },
-     {
-      "language": "EN",
-      "text": "Fleet management, repair and maintenance services"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-16",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Onderhoud en herstellingen wagenpark Gemeente Lebbeke"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP099-437/6091/2025184",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP099-437/6091/2025184",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Onderhoud en herstellingen wagenpark Gemeente Lebbeke"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-16",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Onderhoud en herstellingen bestelwagens Renault en SUV Dacia"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Onderhoud en herstellingen bestelwagens Renault en SUV Dacia"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Onderhoud en herstellingen vrachtwagens (alle merken)"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Onderhoud en herstellingen vrachtwagens (alle merken)"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Onderhoud en herstellingen bus"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Onderhoud en herstellingen bus"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Onderhoud en herstellingen bestelwagens en lichte vracht Ford"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Onderhoud en herstellingen bestelwagens en lichte vracht Ford"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Onderhoud en herstellingen personenwagens (alle merken)"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Onderhoud en herstellingen personenwagens (alle merken)"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SERVICES"
-   ],
-   "noticeIds": [
-    "37faeec2-f78c-4cdf-affd-02837f14db10"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE100"
-   ],
-   "organisation": {
-    "organisationId": 502,
-    "organisationNames": [
-     {
-      "language": "NL",
-      "text": "Lebbeke"
-     },
-     {
-      "language": "FR",
-      "text": "Lebbeke"
-     },
-     {
-      "language": "EN",
-      "text": "Lebbeke"
-     },
-     {
-      "language": "DE",
-      "text": "Lebbeke"
-     }
-    ],
-    "tree": "200004.200021.502"
-   },
-   "procedureId": "f968b190-4233-4143-9ab8-23b6b91c973a",
-   "publicationDate": "2026-10-16",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP099-437/6091/2025184_002"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "020fd34e-e072-45e0-a93e-0dac115d4cb4",
-   "publishedAt": [
-    "2026-10-16T06:55:45.050629"
-   ],
-   "referenceNumber": "PPP099-437/6091/2025184_002",
-   "sentAt": [
-    "2026-10-16T06:55:45.050629"
-   ],
-   "tedPublished": false
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-10-29T09:00:00"
   }
  ],
  "exemple_attribution": [
