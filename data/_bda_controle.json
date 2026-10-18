@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 292167
+  "totalCount": 292177
  },
  "types": [
   "ACTIVE|16|['SERVICES']",
@@ -37,359 +37,77 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "90919000-2",
+     "code": "45421151-7",
      "descriptions": [
       {
        "language": "EN",
-       "text": "Office, school and office equipment cleaning services"
-      },
-      {
-       "language": "NL",
-       "text": "Reinigingsdiensten van kantoren, scholen en kantoorapparatuur"
-      },
-      {
-       "language": "FR",
-       "text": "Services de nettoyage de matériel de bureau, de bureaux, des écoles"
+       "text": "Installation of fitted kitchens"
       },
       {
        "language": "DE",
-       "text": "Büro-, Schul- und Büroausstattungsreinigung"
+       "text": "Installation von Einbauküchen"
+      },
+      {
+       "language": "NL",
+       "text": "Plaatsen van inbouwkeukens"
+      },
+      {
+       "language": "FR",
+       "text": "Installation de cuisines équipées"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "90919000-2",
+    "code": "45421151-7",
     "descriptions": [
      {
       "language": "EN",
-      "text": "Office, school and office equipment cleaning services"
-     },
-     {
-      "language": "NL",
-      "text": "Reinigingsdiensten van kantoren, scholen en kantoorapparatuur"
-     },
-     {
-      "language": "FR",
-      "text": "Services de nettoyage de matériel de bureau, de bureaux, des écoles"
+      "text": "Installation of fitted kitchens"
      },
      {
       "language": "DE",
-      "text": "Büro-, Schul- und Büroausstattungsreinigung"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-18",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
+      "text": "Installation von Einbauküchen"
+     },
      {
       "language": "NL",
-      "text": "Poetsen van schoolgebouwen op 2 vestigingen van het schoolbestuur Katholiek Buitengewoon Onderwijs regio Leuven te - Tervuursesteenweg 295, 3001 Heverlee - Klein Park 4, 3360 Lovenjoel  "
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "KBOL/02",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "KBOL/02",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Poetsen van schoolgebouwen"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-18",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Poetsen van schoolgebouwen"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "2026/01 - 1"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SERVICES"
-   ],
-   "noticeIds": [
-    "995fe699-17e2-4507-a0a6-09b8d2c91e91"
-   ],
-   "noticeSubType": "16",
-   "nutsCodes": [
-    "BE242"
-   ],
-   "organisation": {
-    "organisationId": 16241,
-    "organisationNames": [
-     {
-      "language": "NL",
-      "text": "Katholiek Buitengewoon onderwijs regio Leuven"
-     }
-    ],
-    "tree": "200004.200026.16241"
-   },
-   "procedureId": "1f3ce627-0d52-486e-9f1b-4fc52b10399c",
-   "publicationDate": "2026-10-18",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "KBOL/02_pub01"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "0afb3450-0fe0-4d49-8b2a-a488224c6bab",
-   "publishedAt": [
-    "2026-10-18T15:31:45.040475"
-   ],
-   "referenceNumber": "KBOL/02_pub01",
-   "sentAt": [
-    "2026-10-18T15:31:45.040475"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-15T23:59:00"
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "51212000-1",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Services d'installation de matériel d'enregistrement des présences"
-      },
-      {
-       "language": "EN",
-       "text": "Installation services of time register equipment"
-      },
-      {
-       "language": "NL",
-       "text": "Installatiediensten voor tijdregistratieapparatuur"
-      },
-      {
-       "language": "DE",
-       "text": "Installation von Zeitregistrierungsgeräten"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "65000000-3",
-    "descriptions": [
-     {
-      "language": "EN",
-      "text": "Public utilities"
+      "text": "Plaatsen van inbouwkeukens"
      },
      {
       "language": "FR",
-      "text": "Services publics"
-     },
-     {
-      "language": "DE",
-      "text": "Versorgungsunternehmen"
-     },
-     {
-      "language": "NL",
-      "text": "Openbare voorzieningen"
+      "text": "Installation de cuisines équipées"
      }
     ]
    },
-   "dispatchDate": "2026-10-17",
+   "dispatchDate": "2026-10-19",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
       "language": "FR",
-      "text": "Acquisition de deux pointeuses et mise en place d'un système de gestion du temps de travail et de présence."
+      "text": "Nous attirons l’attention des soumissionnaires sur le fait que ce marché porte sur des interventions ponctuelles de réparations et/ou de placement de meubles de cuisine. Il ne s’agit nullement de travaux portant sur un ensemble de logements.  Ce marché consiste au démontage de la cuisine présente s'il y a lieu. La fourniture de nouveaux meubles et l'installation de ceux-ci avec tous les raccords adéquats.   L’attention du soumissionnaire est attirée sur le fait que les travaux seront majoritairement exécutés en site occupé. Dans ce cas, il appartient à l’adjudicataire de prendre contact avec les locataires et d’assumer tous les frais relatifs à l’impossibilité d’avoir accès au logement le jour des travaux. Cependant, si l'adjudicataire peut apporter la preuve écrite qu’un RDV avait bien été fixé et accepté par le locataire, il aura l’opportunité de se voir octroyer des frais de déplacement inutile à concurrence de 25€ HTVA.  Il s’agit d’un accord par lequel l’adjudicateur envoie un bon de commande, par adresse, via un mail en fonction de ses besoins. En aucun cas, les travaux envisagés se feront à l’échelle d’un site et/ou cité complète  Ce marché ne garantit donc en rien un flux continu de travaux. A ce titre, le nombre de commandes réalisées sur les 3 ans est de 89 interventions.  Ces chiffres sont indicatifs et ne constituent en rien un acquit pour l’adjudicataire.  Le délai d’exécution, par bon de commande, est de 30 jours calendrier à partir de la date d’envoi de celui-ci à l’adjudicataire.  Lieu d’exécution : La Louvière, Manage, Le Roeulx. "
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "2026298",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "2026298",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "Acquisition de deux pointeuses et mise en place d'un système de gestion du temps de travail et de présence"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-17",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "ACQUISITION DE POINTEUSES ET MISE EN PLACE D'UN SYSTÈME DE GESTION DU TEMPS DE TRAVAIL ET DE PRÉSENCE"
-      }
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "2026298 - 1"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SERVICES"
-   ],
-   "noticeIds": [
-    "7b1e161f-bd12-4c95-beb5-9f68b6c348ba"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE310"
-   ],
-   "organisation": {
-    "organisationId": 587,
-    "organisationNames": [
-     {
-      "language": "NL",
-      "text": "Mont-Saint-Guibert"
-     },
-     {
-      "language": "FR",
-      "text": "Mont-Saint-Guibert"
-     },
-     {
-      "language": "EN",
-      "text": "Mont-Saint-Guibert"
-     },
-     {
-      "language": "DE",
-      "text": "Mont-Saint-Guibert"
-     }
-    ],
-    "tree": "200004.200021.587"
-   },
-   "procedureId": "a882ad94-5901-429b-9ca2-6f8d1557e0bb",
-   "publicationDate": "2026-10-17",
-   "publicationLanguages": [
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "2026298_pub01"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "d062fc40-2860-4534-a12e-c53129868591",
-   "publishedAt": [
-    "2026-10-17T00:00:45.011433"
-   ],
-   "referenceNumber": "2026298_pub01",
-   "sentAt": [
-    "2026-10-17T00:00:45.011433"
-   ],
-   "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "45421000-4",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Bouwtimmerwerk"
-      },
-      {
-       "language": "DE",
-       "text": "Bautischlerarbeiten"
-      },
-      {
-       "language": "EN",
-       "text": "Joinery work"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de menuiserie"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "45421000-4",
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Bouwtimmerwerk"
-     },
-     {
-      "language": "DE",
-      "text": "Bautischlerarbeiten"
-     },
-     {
-      "language": "EN",
-      "text": "Joinery work"
-     },
-     {
-      "language": "FR",
-      "text": "Travaux de menuiserie"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-17",
-   "dossier": {
-    "accreditations": {
-     "D5": 2,
-     "D20": 2
-    },
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Remplacement des menuiseries extérieures du bâtiment B4 de l'implantation du Communauté Scolaire Saint-Benoît de Habay située Avenue de la Gare 68 à 6720 HABAY-LA-NEUVE"
-     }
-    ],
-    "enterpriseCategories": [
-     {
-      "categoryCode": "D5",
-      "levels": [
-       1,
-       2
-      ]
-     },
-     {
-      "categoryCode": "D20",
-      "levels": [
-       1,
-       2
-      ]
-     }
-    ],
-    "legalBasis": "D24",
-    "number": "PPT_EU_2026-0481",
+    "number": "PPP0M9-1248/6212/T26.1248",
     "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "PPT_EU_2026-0481",
+    "referenceNumber": "PPP0M9-1248/6212/T26.1248",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
       "language": "FR",
-      "text": "Remplacement des menuiseries extérieures du bâtiment B4 de la Communauté Scolaire St Benoît de Habay-la-Neuve (Implantation Avenue de la Gare)"
+      "text": "Marché à bons de commande pour la fourniture et l'installation de cuisines équipées dans les logements du patrimoine"
      }
     ]
    },
-   "insertionDate": "2026-10-17",
+   "insertionDate": "2026-10-19",
    "lots": [
     {
      "descriptions": [
       {
        "language": "FR",
-       "text": "Remplacement de menuiseries extérieures à la Communauté Scolaire Saint-Benoît de Habay-la-Neuve (bâtiment B4 de l'implantation située Avenue de la Gare 68 à 6720 Habay-la-Neuve)"
+       "text": "Marché à bons de commande pour la fourniture et l'installation de cuisines équipées dans les logements du patrimoine"
       }
      ],
      "reservedExecution": [
@@ -401,7 +119,7 @@
      "titles": [
       {
        "language": "FR",
-       "text": "PPT_EU_2026-0481 - 1"
+       "text": "Marché à bons de commande pour la fourniture et l'installation de cuisines équipées dans les logements du patrimoine"
       }
      ]
     }
@@ -410,189 +128,537 @@
     "WORKS"
    ],
    "noticeIds": [
-    "0898d16f-ef5c-432a-9ae5-868bb835d816"
+    "10487a92-700e-4df5-a2f1-18e9c87f205a"
    ],
-   "noticeSubType": "16",
+   "noticeSubType": "E4",
    "nutsCodes": [
-    "BE341"
+    "BE329"
    ],
    "organisation": {
-    "organisationId": 4344,
+    "organisationId": 965,
     "organisationNames": [
      {
-      "language": "FR",
-      "text": "ASBL Pouvoir organisateur du centre d’enseignement secondaire Catholique d’Habay"
-     },
-     {
       "language": "EN",
-      "text": "ASBL Pouvoir organisateur du centre d’enseignement secondaire Catholique d’Habay"
+      "text": "Centr'Habitat"
      },
      {
       "language": "DE",
-      "text": "ASBL Pouvoir organisateur du centre d’enseignement secondaire Catholique d’Habay"
+      "text": "Centr'Habitat"
      },
      {
       "language": "NL",
-      "text": "ASBL Pouvoir organisateur du centre d’enseignement secondaire Catholique d’Habay"
+      "text": "Centr'Habitat"
+     },
+     {
+      "language": "FR",
+      "text": "Centr'Habitat SCRL"
      }
     ],
-    "tree": "200004.200026.4344"
+    "tree": "200004.200028.965"
    },
-   "procedureId": "e576da3f-3d41-4169-8f39-f579a2cff4ea",
-   "publicationDate": "2026-10-17",
+   "procedureId": "8e914665-e76c-471f-a62b-d7b7506e94b5",
+   "publicationDate": "2026-10-19",
    "publicationLanguages": [
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPT_EU_2026-0481_pub01"
+    "PPP0M9-1248/6212/T26.1248_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "9342325d-fdd4-4cf9-baa7-49669482007b",
+   "publicationWorkspaceId": "89c70f4e-d96f-4496-9234-ebb16884717a",
    "publishedAt": [
-    "2026-10-17T09:44:45.013932"
+    "2026-10-19T00:00:45.861449"
    ],
-   "referenceNumber": "PPT_EU_2026-0481_pub01",
+   "referenceNumber": "PPP0M9-1248/6212/T26.1248_002",
    "sentAt": [
-    "2026-10-17T09:44:45.013932"
+    "2026-10-19T00:00:45.861449"
+   ],
+   "tedPublished": false
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45233120-6",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Road construction works"
+      },
+      {
+       "language": "NL",
+       "text": "Wegenbouwwerken"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de construction de routes"
+      },
+      {
+       "language": "DE",
+       "text": "Straßenbauarbeiten"
+      }
+     ]
+    },
+    {
+     "code": "45233220-7",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Wegdekwerkzaamheden voor wegen"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de revêtement de routes"
+      },
+      {
+       "language": "EN",
+       "text": "Surface work for roads"
+      },
+      {
+       "language": "DE",
+       "text": "Oberbauarbeiten für Landstraßen"
+      }
+     ]
+    },
+    {
+     "code": "45233142-6",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Travaux de réparation de routes"
+      },
+      {
+       "language": "EN",
+       "text": "Road-repair works"
+      },
+      {
+       "language": "DE",
+       "text": "Straßenausbesserungsarbeiten"
+      },
+      {
+       "language": "NL",
+       "text": "Herstellen van wegen"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45233120-6",
+    "descriptions": [
+     {
+      "language": "EN",
+      "text": "Road construction works"
+     },
+     {
+      "language": "NL",
+      "text": "Wegenbouwwerken"
+     },
+     {
+      "language": "FR",
+      "text": "Travaux de construction de routes"
+     },
+     {
+      "language": "DE",
+      "text": "Straßenbauarbeiten"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-19",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Herstellen Sint-Jobsesteenweg"
+     },
+     {
+      "language": "FR",
+      "text": "Réfection chaussée de Saint-Job"
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP0C4-2389/6389/82/2026-005",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "PPP0C4-2389/6389/82/2026-005",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Herstellen Sint-Jobsesteenweg"
+     },
+     {
+      "language": "FR",
+      "text": "Réfection chaussée de Saint-Job"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-19",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Herstellen Sint-Jobsesteenweg"
+      },
+      {
+       "language": "FR",
+       "text": "Réfection chaussée de Saint-Job"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Herstellen Sint-Jobsesteenweg"
+      },
+      {
+       "language": "FR",
+       "text": "Réfection chaussée de Saint-Job"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "a38a1510-d064-4a59-9a33-c3b4cc22a746"
+   ],
+   "noticeSubType": "16",
+   "nutsCodes": [
+    "BE100"
+   ],
+   "organisation": {
+    "organisationId": 662,
+    "organisationNames": [
+     {
+      "language": "FR",
+      "text": "Uccle"
+     },
+     {
+      "language": "EN",
+      "text": "Uccle"
+     },
+     {
+      "language": "NL",
+      "text": "Ukkel"
+     },
+     {
+      "language": "DE",
+      "text": "Uccle"
+     }
+    ],
+    "tree": "200004.200021.662"
+   },
+   "procedureId": "7fa05608-4302-4a6f-8d1f-06d44b34c41b",
+   "publicationDate": "2026-10-19",
+   "publicationLanguages": [
+    "NL",
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP0C4-2389/6389/82/2026-005_001"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "a4ab731e-0c2b-4ec5-998b-b0ce56c1c762",
+   "publishedAt": [
+    "2026-10-19T00:00:46.389303"
+   ],
+   "referenceNumber": "PPP0C4-2389/6389/82/2026-005_001",
+   "sentAt": [
+    "2026-10-19T00:00:46.389303"
    ],
    "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-23T16:00:00"
+   "vaultSubmissionDeadline": "2026-11-30T10:00:00"
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45000000-7",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Bouwwerkzaamheden"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de construction"
+      },
+      {
+       "language": "DE",
+       "text": "Bauarbeiten"
+      },
+      {
+       "language": "EN",
+       "text": "Construction work"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45000000-7",
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Bouwwerkzaamheden"
+     },
+     {
+      "language": "FR",
+      "text": "Travaux de construction"
+     },
+     {
+      "language": "DE",
+      "text": "Bauarbeiten"
+     },
+     {
+      "language": "EN",
+      "text": "Construction work"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-19",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Aanpassingswerken technieken Brielpoort - deel elektriciteit"
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP0CU-9831/6132/2026/2751 - OMG - Brielpoort",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "PPP0CU-9831/6132/2026/2751 - OMG - Brielpoort",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Aanpassingswerken technieken Brielpoort - deel elektriciteit"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-19",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Aanpassingswerken technieken Brielpoort - deel elektriciteit"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Aanpassingswerken technieken Brielpoort - deel elektriciteit"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "56c53958-5d73-4f65-b298-047d1af78dbd"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE100"
+   ],
+   "organisation": {
+    "organisationId": 356,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "Deinze"
+     },
+     {
+      "language": "NL",
+      "text": "Deinze"
+     },
+     {
+      "language": "FR",
+      "text": "Deinze"
+     },
+     {
+      "language": "EN",
+      "text": "Deinze"
+     }
+    ],
+    "tree": "200004.200021.356"
+   },
+   "procedureId": "301d70df-3d12-44b2-b082-f2c42451988b",
+   "publicationDate": "2026-10-19",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP0CU-9831/6132/2026/2751 - OMG - Brielpoort_002"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "500dcbc0-32cd-4e38-a183-b6c7d0604242",
+   "publishedAt": [
+    "2026-10-19T00:00:46.762668"
+   ],
+   "referenceNumber": "PPP0CU-9831/6132/2026/2751 - OMG - Brielpoort_002",
+   "sentAt": [
+    "2026-10-19T00:00:46.762668"
+   ],
+   "tedPublished": false
   }
  ],
  "exemple_attribution": [
   {
    "cpvAdditionalCodes": [
     {
-     "code": "51212000-1",
+     "code": "45421151-7",
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Services d'installation de matériel d'enregistrement des présences"
-      },
-      {
        "language": "EN",
-       "text": "Installation services of time register equipment"
-      },
-      {
-       "language": "NL",
-       "text": "Installatiediensten voor tijdregistratieapparatuur"
+       "text": "Installation of fitted kitchens"
       },
       {
        "language": "DE",
-       "text": "Installation von Zeitregistrierungsgeräten"
+       "text": "Installation von Einbauküchen"
+      },
+      {
+       "language": "NL",
+       "text": "Plaatsen van inbouwkeukens"
+      },
+      {
+       "language": "FR",
+       "text": "Installation de cuisines équipées"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "65000000-3",
+    "code": "45421151-7",
     "descriptions": [
      {
       "language": "EN",
-      "text": "Public utilities"
-     },
-     {
-      "language": "FR",
-      "text": "Services publics"
+      "text": "Installation of fitted kitchens"
      },
      {
       "language": "DE",
-      "text": "Versorgungsunternehmen"
+      "text": "Installation von Einbauküchen"
      },
      {
       "language": "NL",
-      "text": "Openbare voorzieningen"
+      "text": "Plaatsen van inbouwkeukens"
+     },
+     {
+      "language": "FR",
+      "text": "Installation de cuisines équipées"
      }
     ]
    },
-   "dispatchDate": "2026-10-17",
+   "dispatchDate": "2026-10-19",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
       "language": "FR",
-      "text": "Acquisition de deux pointeuses et mise en place d'un système de gestion du temps de travail et de présence."
+      "text": "Nous attirons l’attention des soumissionnaires sur le fait que ce marché porte sur des interventions ponctuelles de réparations et/ou de placement de meubles de cuisine. Il ne s’agit nullement de travaux portant sur un ensemble de logements.  Ce marché consiste au démontage de la cuisine présente s'il y a lieu. La fourniture de nouveaux meubles et l'installation de ceux-ci avec tous les raccords adéquats.   L’attention du soumissionnaire est attirée sur le fait que les travaux seront majoritairement exécutés en site occupé. Dans ce cas, il appartient à l’adjudicataire de prendre contact avec les locataires et d’assumer tous les frais relatifs à l’impossibilité d’avoir accès au logement le jour des travaux. Cependant, si l'adjudicataire peut apporter la preuve écrite qu’un RDV avait bien été fixé et accepté par le locataire, il aura l’opportunité de se voir octroyer des frais de déplacement inutile à concurrence de 25€ HTVA.  Il s’agit d’un accord par lequel l’adjudicateur envoie un bon de commande, par adresse, via un mail en fonction de ses besoins. En aucun cas, les travaux envisagés se feront à l’échelle d’un site et/ou cité complète  Ce marché ne garantit donc en rien un flux continu de travaux. A ce titre, le nombre de commandes réalisées sur les 3 ans est de 89 interventions.  Ces chiffres sont indicatifs et ne constituent en rien un acquit pour l’adjudicataire.  Le délai d’exécution, par bon de commande, est de 30 jours calendrier à partir de la date d’envoi de celui-ci à l’adjudicataire.  Lieu d’exécution : La Louvière, Manage, Le Roeulx. "
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "2026298",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "2026298",
+    "number": "PPP0M9-1248/6212/T26.1248",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "PPP0M9-1248/6212/T26.1248",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
       "language": "FR",
-      "text": "Acquisition de deux pointeuses et mise en place d'un système de gestion du temps de travail et de présence"
+      "text": "Marché à bons de commande pour la fourniture et l'installation de cuisines équipées dans les logements du patrimoine"
      }
     ]
    },
-   "insertionDate": "2026-10-17",
+   "insertionDate": "2026-10-19",
    "lots": [
     {
      "descriptions": [
       {
        "language": "FR",
-       "text": "ACQUISITION DE POINTEUSES ET MISE EN PLACE D'UN SYSTÈME DE GESTION DU TEMPS DE TRAVAIL ET DE PRÉSENCE"
+       "text": "Marché à bons de commande pour la fourniture et l'installation de cuisines équipées dans les logements du patrimoine"
       }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
      ],
      "titles": [
       {
        "language": "FR",
-       "text": "2026298 - 1"
+       "text": "Marché à bons de commande pour la fourniture et l'installation de cuisines équipées dans les logements du patrimoine"
       }
      ]
     }
    ],
    "natures": [
-    "SERVICES"
+    "WORKS"
    ],
    "noticeIds": [
-    "7b1e161f-bd12-4c95-beb5-9f68b6c348ba"
+    "10487a92-700e-4df5-a2f1-18e9c87f205a"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE310"
+    "BE329"
    ],
    "organisation": {
-    "organisationId": 587,
+    "organisationId": 965,
     "organisationNames": [
      {
-      "language": "NL",
-      "text": "Mont-Saint-Guibert"
-     },
-     {
-      "language": "FR",
-      "text": "Mont-Saint-Guibert"
-     },
-     {
       "language": "EN",
-      "text": "Mont-Saint-Guibert"
+      "text": "Centr'Habitat"
      },
      {
       "language": "DE",
-      "text": "Mont-Saint-Guibert"
+      "text": "Centr'Habitat"
+     },
+     {
+      "language": "NL",
+      "text": "Centr'Habitat"
+     },
+     {
+      "language": "FR",
+      "text": "Centr'Habitat SCRL"
      }
     ],
-    "tree": "200004.200021.587"
+    "tree": "200004.200028.965"
    },
-   "procedureId": "a882ad94-5901-429b-9ca2-6f8d1557e0bb",
-   "publicationDate": "2026-10-17",
+   "procedureId": "8e914665-e76c-471f-a62b-d7b7506e94b5",
+   "publicationDate": "2026-10-19",
    "publicationLanguages": [
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "2026298_pub01"
+    "PPP0M9-1248/6212/T26.1248_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "d062fc40-2860-4534-a12e-c53129868591",
+   "publicationWorkspaceId": "89c70f4e-d96f-4496-9234-ebb16884717a",
    "publishedAt": [
-    "2026-10-17T00:00:45.011433"
+    "2026-10-19T00:00:45.861449"
    ],
-   "referenceNumber": "2026298_pub01",
+   "referenceNumber": "PPP0M9-1248/6212/T26.1248_002",
    "sentAt": [
-    "2026-10-17T00:00:45.011433"
+    "2026-10-19T00:00:45.861449"
    ],
    "tedPublished": false
   }
