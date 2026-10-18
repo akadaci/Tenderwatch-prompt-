@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 292166
+  "totalCount": 292167
  },
  "types": [
   "ACTIVE|16|['SERVICES']",
@@ -34,6 +34,136 @@
   "ACTIVE|E4|['WORKS']"
  ],
  "exemples": [
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "90919000-2",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Office, school and office equipment cleaning services"
+      },
+      {
+       "language": "NL",
+       "text": "Reinigingsdiensten van kantoren, scholen en kantoorapparatuur"
+      },
+      {
+       "language": "FR",
+       "text": "Services de nettoyage de matériel de bureau, de bureaux, des écoles"
+      },
+      {
+       "language": "DE",
+       "text": "Büro-, Schul- und Büroausstattungsreinigung"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "90919000-2",
+    "descriptions": [
+     {
+      "language": "EN",
+      "text": "Office, school and office equipment cleaning services"
+     },
+     {
+      "language": "NL",
+      "text": "Reinigingsdiensten van kantoren, scholen en kantoorapparatuur"
+     },
+     {
+      "language": "FR",
+      "text": "Services de nettoyage de matériel de bureau, de bureaux, des écoles"
+     },
+     {
+      "language": "DE",
+      "text": "Büro-, Schul- und Büroausstattungsreinigung"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-18",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Poetsen van schoolgebouwen op 2 vestigingen van het schoolbestuur Katholiek Buitengewoon Onderwijs regio Leuven te - Tervuursesteenweg 295, 3001 Heverlee - Klein Park 4, 3360 Lovenjoel  "
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "KBOL/02",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "KBOL/02",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Poetsen van schoolgebouwen"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-18",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Poetsen van schoolgebouwen"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "2026/01 - 1"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SERVICES"
+   ],
+   "noticeIds": [
+    "995fe699-17e2-4507-a0a6-09b8d2c91e91"
+   ],
+   "noticeSubType": "16",
+   "nutsCodes": [
+    "BE242"
+   ],
+   "organisation": {
+    "organisationId": 16241,
+    "organisationNames": [
+     {
+      "language": "NL",
+      "text": "Katholiek Buitengewoon onderwijs regio Leuven"
+     }
+    ],
+    "tree": "200004.200026.16241"
+   },
+   "procedureId": "1f3ce627-0d52-486e-9f1b-4fc52b10399c",
+   "publicationDate": "2026-10-18",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "KBOL/02_pub01"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "0afb3450-0fe0-4d49-8b2a-a488224c6bab",
+   "publishedAt": [
+    "2026-10-18T15:31:45.040475"
+   ],
+   "referenceNumber": "KBOL/02_pub01",
+   "sentAt": [
+    "2026-10-18T15:31:45.040475"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-11-15T23:59:00"
+  },
   {
    "cpvAdditionalCodes": [
     {
@@ -328,151 +458,6 @@
    ],
    "tedPublished": false,
    "vaultSubmissionDeadline": "2026-11-23T16:00:00"
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "45000000-7",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Bouwwerkzaamheden"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de construction"
-      },
-      {
-       "language": "DE",
-       "text": "Bauarbeiten"
-      },
-      {
-       "language": "EN",
-       "text": "Construction work"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "45000000-7",
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Bouwwerkzaamheden"
-     },
-     {
-      "language": "FR",
-      "text": "Travaux de construction"
-     },
-     {
-      "language": "DE",
-      "text": "Bauarbeiten"
-     },
-     {
-      "language": "EN",
-      "text": "Construction work"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-17",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Stad Lommel wenst de Hoppinpunten De Soeverein en Huis van de stad aan te leggen.  De opdracht behelst vooral: - Algemene administratieve voorschriften en bepalingen  - Opbreken van diverse verhardingsmaterialen en lijnvormige elementen - Opbreken van funderingen en onderfunderingen - Rooien van beplanting - Rooien van bomen - Grondverzet - Aanleg van funderingen - Aanleg van lijnvormige elementen - Aanleg van betonverharding - Aanleg van betontegels en betonstraatstenen - Aanleg van asfaltverharding - Aanleg van halfverharding - Aanleg van keerelementen, fietsenstalling, draadafsluiting, anti-parkeerpalen,… - Beplantingswerken – zaaiwerken. "
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP04A-3171/6284/2026042",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "PPP04A-3171/6284/2026042",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Hoppinpunten De Soeverein - Huis van de Stad  (wegen-, omgevings- en beplantingswerken)"
-     }
-    ]
-   },
-   "insertionDate": "2026-09-23",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Stad Lommel wenst de Hoppinpunten De Soeverein en Huis van de stad aan te leggen.  De opdracht behelst vooral: - Algemene administratieve voorschriften en bepalingen  - Opbreken van diverse verhardingsmaterialen en lijnvormige elementen - Opbreken van funderingen en onderfunderingen - Rooien van beplanting - Rooien van bomen - Grondverzet - Aanleg van funderingen - Aanleg van lijnvormige elementen - Aanleg van betonverharding - Aanleg van betontegels en betonstraatstenen - Aanleg van asfaltverharding - Aanleg van halfverharding - Aanleg van keerelementen, fietsenstalling, draadafsluiting, anti-parkeerpalen,… - Beplantingswerken – zaaiwerken. "
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Hoppinpunten De Soeverein - Huis van de Stad  (wegen-, omgevings- en beplantingswerken)"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "WORKS"
-   ],
-   "noticeIds": [
-    "79c1a8ca-d2ee-409c-ac02-5627aef9d53f",
-    "c3551fd2-cdc5-49b7-84da-a8ccb1cea70e"
-   ],
-   "noticeSubType": "16",
-   "nutsCodes": [
-    "BE225"
-   ],
-   "organisation": {
-    "organisationId": 316,
-    "organisationNames": [
-     {
-      "language": "EN",
-      "text": "Lommel"
-     },
-     {
-      "language": "DE",
-      "text": "Lommel"
-     },
-     {
-      "language": "NL",
-      "text": "Lommel"
-     },
-     {
-      "language": "FR",
-      "text": "Lommel"
-     }
-    ],
-    "tree": "200004.200021.316"
-   },
-   "procedureId": "95ea5efc-5e53-486f-b55d-60cc75e7d126",
-   "publicationDate": "2026-10-17",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP04A-3171/6284/2026042_001"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "fa571fca-bb9f-428e-abf3-09ceed92a97b",
-   "publishedAt": [
-    "2026-09-23T08:35:46.011058",
-    "2026-10-17T09:56:45.010204"
-   ],
-   "referenceNumber": "PPP04A-3171/6284/2026042_001",
-   "sentAt": [
-    "2026-09-23T08:35:46.011058",
-    "2026-10-17T09:56:45.010204"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-10-29T09:00:00"
   }
  ],
  "exemple_attribution": [
