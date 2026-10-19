@@ -1,11 +1,13 @@
 {
- "updated": "2026-10-19T05:19:50Z",
+ "updated": "2026-10-19T06:01:30Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 221,
- "kept": 118,
- "count": 1746,
- "new_ids": [],
+ "received": 223,
+ "kept": 119,
+ "count": 1747,
+ "new_ids": [
+  "bda-62d1322b-32ae-4481-b6d8-618e06b26ac1"
+ ],
  "records": [
   {
    "id": "bda-89c70f4e-d96f-4496-9234-ebb16884717a",
@@ -489,6 +491,27 @@
    "procedure": "59524bb9-1027-41e9-8a43-a5895a0174af",
    "dossier": "2026/001/glasbollen",
    "first_seen": "2026-10-19T04:01:44Z"
+  },
+  {
+   "id": "bda-62d1322b-32ae-4481-b6d8-618e06b26ac1",
+   "source_type": "BDA",
+   "nom": "Remplacement de la toiture des balcons",
+   "lieu": "Hainaut",
+   "province": "Hainaut",
+   "mo": "Hainaut Gestion du Patrimoine",
+   "etape": 4,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/62d1322b-32ae-4481-b6d8-618e06b26ac1",
+   "verif": "vérifié",
+   "verif_date": "2026-10-19",
+   "preuve": "Bulletin des Adjudications, réf. PPP0Y1-2382/6398/P/42111 (avis de marché, sous-type eForms 16), publié le 2026-10-19.",
+   "date_publication": "2026-10-19",
+   "cpv": "45000000",
+   "ted_ref": "",
+   "notes": "Remplacement de la toiture des balcons",
+   "procedure": "764f176c-4851-4ba0-8857-1f86f9663106",
+   "dossier": "PPP0Y1-2382/6398/P/42111",
+   "first_seen": "2026-10-19T06:01:30Z"
   },
   {
    "id": "bda-fa571fca-bb9f-428e-abf3-09ceed92a97b",
@@ -2268,7 +2291,7 @@
    "verif_date": "2026-10-19",
    "preuve": "Bulletin des Adjudications, réf. DZ/2026/PGB/025/kwaliteitskader koelteplekken (avis de marché, sous-type eForms E3), publié le 2026-10-16.",
    "date_publication": "2026-10-16",
-   "cpv": "85000000,90713000,71317210,73000000,71351611,73110000",
+   "cpv": "85000000,90713000,71317210,73000000,73110000,71351611",
    "ted_ref": "",
    "notes": "Afgelopen zomer toonde ons dat we nog steeds onvoldoende zijn voorbereid op de extreme hitte, waarvan we verwachten dat die nog zal toenemen ten gevolge van het veranderende klimaat. Eén van de maatregelen die we kunnen treffen en waar tot nu toe maar enkele mee aan de slag zijn gegaan zijn koeltepl",
    "procedure": "b59a03bc-3bb6-4cac-bcaf-a60a886759a9",
