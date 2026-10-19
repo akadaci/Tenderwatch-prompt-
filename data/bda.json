@@ -1,13 +1,11 @@
 {
- "updated": "2026-10-19T17:47:11Z",
+ "updated": "2026-10-19T18:01:33Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
  "received": 388,
  "kept": 194,
  "count": 1798,
- "new_ids": [
-  "bda-5a8bbb70-489f-4c06-8b47-06885eddf46e"
- ],
+ "new_ids": [],
  "records": [
   {
    "id": "bda-89c70f4e-d96f-4496-9234-ebb16884717a",
@@ -275,7 +273,7 @@
    "verif_date": "2026-10-19",
    "preuve": "Bulletin des Adjudications, réf. WA/OND/D100/2026/1 (attribution, sous-type eForms 29), publié le 2026-10-19.",
    "date_publication": "2026-10-19",
-   "cpv": "45233141,34996000,34992200,34942000,45233294,45233280,45233290,45316200,45233142",
+   "cpv": "45233141,34996000,34992200,34942000,45233294,45233290,45233280,45316200,45233142",
    "ted_ref": "WA/OND/D100/2026/1_pub02",
    "notes": "Deze aanneming heeft tot doel om, op de gewestwegen (N) en de autosnelwegen (A) en hun aanhorigheden in de vervoersregio Kempen van de afdeling Antwerpen, de berijdbaarheid en de veiligheid van de weggebruikers van de gewestwegen en de autosnelwegen te verzekeren. Dit door de uitvoering van onderhou",
    "procedure": "9aa9e5d0-9eb0-4eeb-953c-e377ffc932ea",
@@ -3866,7 +3864,7 @@
    "verif_date": "2026-10-19",
    "preuve": "Bulletin des Adjudications, réf. DZ/2026/PGB/025/kwaliteitskader koelteplekken (avis de marché, sous-type eForms E3), publié le 2026-10-16.",
    "date_publication": "2026-10-16",
-   "cpv": "85000000,90713000,71317210,73000000,71351611,73110000",
+   "cpv": "85000000,90713000,71317210,73000000,73110000,71351611",
    "ted_ref": "",
    "notes": "Afgelopen zomer toonde ons dat we nog steeds onvoldoende zijn voorbereid op de extreme hitte, waarvan we verwachten dat die nog zal toenemen ten gevolge van het veranderende klimaat. Eén van de maatregelen die we kunnen treffen en waar tot nu toe maar enkele mee aan de slag zijn gegaan zijn koeltepl",
    "procedure": "b59a03bc-3bb6-4cac-bcaf-a60a886759a9",
