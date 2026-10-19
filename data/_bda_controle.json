@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 292293
+  "totalCount": 292301
  },
  "types": [
   "ACTIVE|10|['WORKS', 'SERVICES']",
@@ -207,12 +207,12 @@
      "code": "45233220-7",
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Wegdekwerkzaamheden voor wegen"
-      },
-      {
        "language": "FR",
        "text": "Travaux de revêtement de routes"
+      },
+      {
+       "language": "NL",
+       "text": "Wegdekwerkzaamheden voor wegen"
       },
       {
        "language": "EN",
@@ -349,12 +349,12 @@
       "text": "Uccle"
      },
      {
-      "language": "NL",
-      "text": "Ukkel"
-     },
-     {
       "language": "DE",
       "text": "Uccle"
+     },
+     {
+      "language": "NL",
+      "text": "Ukkel"
      }
     ],
     "tree": "200004.200021.662"

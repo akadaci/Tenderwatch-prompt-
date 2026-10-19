@@ -1,16 +1,35 @@
 {
- "updated": "2026-10-19T10:01:39Z",
+ "updated": "2026-10-19T11:16:18Z",
  "source": "urban.brussels NOVA (WFS)",
  "days_back": 3,
- "received": 37,
- "kept": 3,
- "count": 97,
- "new_ids": [],
+ "received": 43,
+ "kept": 5,
+ "count": 99,
+ "new_ids": [
+  "nova-19/PU/2049564",
+  "nova-04/PU/2049538"
+ ],
  "records": [
+  {
+   "id": "nova-19/PU/2049564",
+   "source_type": "Permis",
+   "nom": "construire une piscine extérieure et installer un nouvel abri de jardin destiné à accueillir le local technique et outils de jardin",
+   "lieu": "Avenue du Lothier 24, 1150 Woluwe-Saint-Pierre",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='19/PU/2049564'",
+   "verif": "vérifié",
+   "verif_date": "2026-10-19",
+   "preuve": "Demande de permis 19/PU/2049564 reçue le 2026-10-18 (urban.brussels, service NOVA).",
+   "date_publication": "2026-10-18",
+   "notes": "Autorité : Woluwe-Saint-Pierre",
+   "first_seen": "2026-10-19T11:16:18Z"
+  },
   {
    "id": "nova-15/PU/2049516",
    "source_type": "Permis",
-   "nom": "Permis d'urbanisme privé",
+   "nom": "La présente demande porte sur un changement d’affectation de l’espace situé au RDC entre l’extrémité gauche du bâtiment et l’axe E, adjacent au local vélo.",
    "lieu": "Chaussée de Haecht 572, 1030 Schaerbeek",
    "type": "Permis d'urbanisme privé",
    "mo": "",
@@ -70,6 +89,22 @@
    "date_publication": "2026-10-16",
    "notes": "Autorité : Ixelles",
    "first_seen": "2026-10-17T04:01:44Z"
+  },
+  {
+   "id": "nova-04/PU/2049538",
+   "source_type": "Permis",
+   "nom": "Projet de transformer le bâtiment d'angle (angle Annessens/Bld Maurice Lemonnier) au 1,2,3,4 étage pour créer à chaque étage 3 chambres en place de 2 existantes, + projet créer un passage (percement m",
+   "lieu": "Place Anneessens 25, 1000 Bruxelles",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='04/PU/2049538'",
+   "verif": "vérifié",
+   "verif_date": "2026-10-19",
+   "preuve": "Demande de permis 04/PU/2049538 reçue le 2026-10-16 (urban.brussels, service NOVA).",
+   "date_publication": "2026-10-16",
+   "notes": "Autorité : Bruxelles",
+   "first_seen": "2026-10-19T11:16:18Z"
   },
   {
    "id": "nova-18/PU/2049404",
