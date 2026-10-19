@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 292373
+  "totalCount": 292375
  },
  "types": [
   "ACTIVE|10|['WORKS', 'SERVICES']",
@@ -211,12 +211,12 @@
      "code": "45233220-7",
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Travaux de revêtement de routes"
-      },
-      {
        "language": "NL",
        "text": "Wegdekwerkzaamheden voor wegen"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de revêtement de routes"
       },
       {
        "language": "EN",
