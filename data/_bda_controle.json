@@ -8,25 +8,17 @@
   "ACTIVE|16|['SUPPLIES']",
   "ACTIVE|16|['WORKS']",
   "ACTIVE|17|['SERVICES']",
-  "ACTIVE|17|['WORKS']",
-  "ACTIVE|18|['SERVICES']",
   "ACTIVE|20|['SERVICES']",
   "ACTIVE|20|['WORKS']",
-  "ACTIVE|21|['SUPPLIES']",
-  "ACTIVE|25|['SUPPLIES']",
   "ACTIVE|29|['SERVICES']",
   "ACTIVE|29|['SUPPLIES']",
   "ACTIVE|29|['WORKS']",
   "ACTIVE|30|['SERVICES']",
-  "ACTIVE|30|['SUPPLIES']",
-  "ACTIVE|30|['WORKS']",
   "ACTIVE|33|['SERVICES']",
-  "ACTIVE|33|['SUPPLIES', 'SERVICES']",
   "ACTIVE|33|['WORKS']",
   "ACTIVE|38|['SUPPLIES']",
   "ACTIVE|E1|['SERVICES']",
   "ACTIVE|E3|['SERVICES']",
-  "ACTIVE|E3|['SUPPLIES', 'SERVICES']",
   "ACTIVE|E3|['SUPPLIES']",
   "ACTIVE|E3|['WORKS']",
   "ACTIVE|E4|['SERVICES']",
@@ -345,12 +337,12 @@
       "text": "Uccle"
      },
      {
-      "language": "NL",
-      "text": "Ukkel"
-     },
-     {
       "language": "DE",
       "text": "Uccle"
+     },
+     {
+      "language": "NL",
+      "text": "Ukkel"
      }
     ],
     "tree": "200004.200021.662"
