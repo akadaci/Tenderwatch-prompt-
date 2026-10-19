@@ -1,22 +1,12 @@
 {
- "updated": "2026-10-19T16:01:35Z",
+ "updated": "2026-10-19T17:47:11Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 387,
- "kept": 193,
- "count": 1797,
+ "received": 388,
+ "kept": 194,
+ "count": 1798,
  "new_ids": [
-  "bda-0fe608b6-59c3-4227-9daf-90813a279914",
-  "bda-26652b1a-a87b-4986-a3eb-ebe4d74f6657",
-  "bda-1c074547-ada3-4866-aae5-64b552b3512e",
-  "bda-3a624e4c-7f13-46ed-942f-bcfbae27871a",
-  "bda-944b78c4-2e4f-4ee3-8723-4baf90cf66ba",
-  "bda-931543c5-bcb1-46f3-9a02-40b577030b61",
-  "bda-55474d84-22f3-4d4f-9382-ca353e8f4e24",
-  "bda-0e99ae6d-33d2-4fb0-a867-e05a45caa734",
-  "bda-773fd434-d683-456b-ba89-9f5f70ebfc8d",
-  "bda-c99d85a4-bd74-4dcd-9e79-fd79660d09a7",
-  "bda-dfa47a0d-320e-4743-8207-00be34bd58a1"
+  "bda-5a8bbb70-489f-4c06-8b47-06885eddf46e"
  ],
  "records": [
   {
@@ -285,7 +275,7 @@
    "verif_date": "2026-10-19",
    "preuve": "Bulletin des Adjudications, réf. WA/OND/D100/2026/1 (attribution, sous-type eForms 29), publié le 2026-10-19.",
    "date_publication": "2026-10-19",
-   "cpv": "45233141,34996000,34992200,34942000,45233294,45233290,45233280,45316200,45233142",
+   "cpv": "45233141,34996000,34992200,34942000,45233294,45233280,45233290,45316200,45233142",
    "ted_ref": "WA/OND/D100/2026/1_pub02",
    "notes": "Deze aanneming heeft tot doel om, op de gewestwegen (N) en de autosnelwegen (A) en hun aanhorigheden in de vervoersregio Kempen van de afdeling Antwerpen, de berijdbaarheid en de veiligheid van de weggebruikers van de gewestwegen en de autosnelwegen te verzekeren. Dit door de uitvoering van onderhou",
    "procedure": "9aa9e5d0-9eb0-4eeb-953c-e377ffc932ea",
@@ -1167,7 +1157,7 @@
    "verif_date": "2026-10-19",
    "preuve": "Bulletin des Adjudications, réf. NPSV-OMVB-26-03 (attribution, sous-type eForms E4), publié le 2026-10-19.",
    "date_publication": "2026-10-19",
-   "cpv": "44000000,79930000,45223210,39294100,39294000,14622000,22000000,45262400,79934000,45223000",
+   "cpv": "44000000,79930000,45223210,39294100,39294000,14622000,45262400,22000000,79934000,45223000",
    "ted_ref": "",
    "notes": "Nationaal Park Scheldevallei heeft de ambitie om een kwaliteitsvolle en uniforme bezoekersinfrastructuur te voorzien. Dit omvat onder meer duurzaam buitenmeubilair en duidelijke informatieborden, die bijdragen aan de beleving en herkenbaarheid van het nationaal park. In kader van het Sigmaplan zijn ",
    "procedure": "a84eda4a-77b5-4951-b96e-701eaf56665e",
@@ -2097,6 +2087,27 @@
    "procedure": "7cae74a5-7747-45b6-b943-aa5d5eb1a984",
    "dossier": "MP032630 - 23-A-047",
    "first_seen": "2026-10-19T16:01:35Z"
+  },
+  {
+   "id": "bda-5a8bbb70-489f-4c06-8b47-06885eddf46e",
+   "source_type": "BDA",
+   "nom": "Mobiliteitsstudie",
+   "lieu": "Brabant flamand",
+   "province": "Brabant flamand",
+   "mo": "Linkebeek",
+   "etape": 2,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/5a8bbb70-489f-4c06-8b47-06885eddf46e",
+   "verif": "vérifié",
+   "verif_date": "2026-10-19",
+   "preuve": "Bulletin des Adjudications, réf. PPP0DD-725/6095/725.2026 (attribution, sous-type eForms E4), publié le 2026-10-19.",
+   "date_publication": "2026-10-19",
+   "cpv": "71300000",
+   "ted_ref": "",
+   "notes": "Uitvoering van een mobiliteitsstudie en opmaak van een gemeentelijk mobiliteitsplan voor de gemeente Linkebeek. Plaats van dienstverlening: Gemeente Linkebeek",
+   "procedure": "bee64ef6-a0e1-466a-8bc6-61acada18dfc",
+   "dossier": "PPP0DD-725/6095/725.2026",
+   "first_seen": "2026-10-19T17:47:11Z"
   },
   {
    "id": "bda-fa571fca-bb9f-428e-abf3-09ceed92a97b",
