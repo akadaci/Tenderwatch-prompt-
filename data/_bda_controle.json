@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 292375
+  "totalCount": 292391
  },
  "types": [
   "ACTIVE|10|['WORKS', 'SERVICES']",
@@ -45,272 +45,391 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45421151-7",
+     "code": "48450000-7",
      "descriptions": [
       {
-       "language": "EN",
-       "text": "Installation of fitted kitchens"
-      },
-      {
        "language": "DE",
-       "text": "Installation von Einbauküchen"
-      },
-      {
-       "language": "NL",
-       "text": "Plaatsen van inbouwkeukens"
+       "text": "Softwarepaket für Zeiterfassung und Personalverwaltung"
       },
       {
        "language": "FR",
-       "text": "Installation de cuisines équipées"
+       "text": "Logiciels de gestion des temps de travail et des ressources humaines"
+      },
+      {
+       "language": "EN",
+       "text": "Time accounting or human resources software package"
+      },
+      {
+       "language": "NL",
+       "text": "Software voor tijdregistratie of human reousrces"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45421151-7",
+    "code": "48450000-7",
     "descriptions": [
      {
-      "language": "EN",
-      "text": "Installation of fitted kitchens"
-     },
-     {
       "language": "DE",
-      "text": "Installation von Einbauküchen"
-     },
-     {
-      "language": "NL",
-      "text": "Plaatsen van inbouwkeukens"
+      "text": "Softwarepaket für Zeiterfassung und Personalverwaltung"
      },
      {
       "language": "FR",
-      "text": "Installation de cuisines équipées"
+      "text": "Logiciels de gestion des temps de travail et des ressources humaines"
+     },
+     {
+      "language": "EN",
+      "text": "Time accounting or human resources software package"
+     },
+     {
+      "language": "NL",
+      "text": "Software voor tijdregistratie of human reousrces"
      }
     ]
    },
-   "dispatchDate": "2026-10-19",
+   "dispatchDate": "2026-10-20",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
       "language": "FR",
-      "text": "Nous attirons l’attention des soumissionnaires sur le fait que ce marché porte sur des interventions ponctuelles de réparations et/ou de placement de meubles de cuisine. Il ne s’agit nullement de travaux portant sur un ensemble de logements.  Ce marché consiste au démontage de la cuisine présente s'il y a lieu. La fourniture de nouveaux meubles et l'installation de ceux-ci avec tous les raccords adéquats.   L’attention du soumissionnaire est attirée sur le fait que les travaux seront majoritairement exécutés en site occupé. Dans ce cas, il appartient à l’adjudicataire de prendre contact avec les locataires et d’assumer tous les frais relatifs à l’impossibilité d’avoir accès au logement le jour des travaux. Cependant, si l'adjudicataire peut apporter la preuve écrite qu’un RDV avait bien été fixé et accepté par le locataire, il aura l’opportunité de se voir octroyer des frais de déplacement inutile à concurrence de 25€ HTVA.  Il s’agit d’un accord par lequel l’adjudicateur envoie un bon de commande, par adresse, via un mail en fonction de ses besoins. En aucun cas, les travaux envisagés se feront à l’échelle d’un site et/ou cité complète  Ce marché ne garantit donc en rien un flux continu de travaux. A ce titre, le nombre de commandes réalisées sur les 3 ans est de 89 interventions.  Ces chiffres sont indicatifs et ne constituent en rien un acquit pour l’adjudicataire.  Le délai d’exécution, par bon de commande, est de 30 jours calendrier à partir de la date d’envoi de celui-ci à l’adjudicataire.  Lieu d’exécution : La Louvière, Manage, Le Roeulx. "
+      "text": "Acquisition d’un nouvel environnement de gestion et de contrôle du temps"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP0M9-1248/6212/T26.1248",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "PPP0M9-1248/6212/T26.1248",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "number": "PPP0A2-1048/6080/2026032CPAS",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP0A2-1048/6080/2026032CPAS",
     "titles": [
      {
       "language": "FR",
-      "text": "Marché à bons de commande pour la fourniture et l'installation de cuisines équipées dans les logements du patrimoine"
+      "text": "Acquisition d’un nouvel environnement de gestion et de contrôle du temps"
      }
     ]
    },
-   "insertionDate": "2026-10-19",
+   "insertionDate": "2026-10-20",
    "lots": [
     {
      "descriptions": [
       {
        "language": "FR",
-       "text": "Marché à bons de commande pour la fourniture et l'installation de cuisines équipées dans les logements du patrimoine"
+       "text": "Acquisition d’un nouvel environnement de gestion et de contrôle du temps"
       }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
      ],
      "titles": [
       {
        "language": "FR",
-       "text": "Marché à bons de commande pour la fourniture et l'installation de cuisines équipées dans les logements du patrimoine"
+       "text": "Acquisition d’un nouvel environnement de gestion et de contrôle du temps"
       }
      ]
     }
    ],
    "natures": [
-    "WORKS"
+    "SUPPLIES"
    ],
    "noticeIds": [
-    "10487a92-700e-4df5-a2f1-18e9c87f205a"
+    "af0081bd-9963-4b13-bc4b-4d10d4244fc0"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE329"
+    "BE323"
    ],
    "organisation": {
-    "organisationId": 965,
+    "organisationId": 283,
     "organisationNames": [
      {
-      "language": "EN",
-      "text": "Centr'Habitat"
-     },
-     {
-      "language": "DE",
-      "text": "Centr'Habitat"
-     },
-     {
       "language": "NL",
-      "text": "Centr'Habitat"
+      "text": "Colfontaine"
      },
      {
       "language": "FR",
-      "text": "Centr'Habitat SCRL"
+      "text": "Colfontaine"
+     },
+     {
+      "language": "EN",
+      "text": "Colfontaine"
+     },
+     {
+      "language": "DE",
+      "text": "Colfontaine"
      }
     ],
-    "tree": "200004.200028.965"
+    "tree": "200004.200021.283"
    },
-   "procedureId": "8e914665-e76c-471f-a62b-d7b7506e94b5",
-   "publicationDate": "2026-10-19",
+   "procedureId": "e2c90c57-bf94-4455-b6b4-4c18e4329b2e",
+   "publicationDate": "2026-10-20",
    "publicationLanguages": [
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP0M9-1248/6212/T26.1248_002"
+    "PPP0A2-1048/6080/2026032CPAS_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "89c70f4e-d96f-4496-9234-ebb16884717a",
+   "publicationWorkspaceId": "a8ed90d0-7d10-437b-9d7e-40869da6bb47",
    "publishedAt": [
-    "2026-10-19T00:00:45.861449"
+    "2026-10-20T00:00:47.006584"
    ],
-   "referenceNumber": "PPP0M9-1248/6212/T26.1248_002",
+   "referenceNumber": "PPP0A2-1048/6080/2026032CPAS_002",
    "sentAt": [
-    "2026-10-19T00:00:45.861449"
+    "2026-10-20T00:00:47.006584"
    ],
    "tedPublished": false
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45233120-6",
+     "code": "72260000-5",
      "descriptions": [
       {
-       "language": "EN",
-       "text": "Road construction works"
-      },
-      {
        "language": "NL",
-       "text": "Wegenbouwwerken"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de construction de routes"
+       "text": "Diensten in verband met software"
       },
       {
        "language": "DE",
-       "text": "Straßenbauarbeiten"
+       "text": "Dienstleistungen in Verbindung mit Software"
+      },
+      {
+       "language": "FR",
+       "text": "Services relatifs aux logiciels"
+      },
+      {
+       "language": "EN",
+       "text": "Software-related services"
       }
      ]
     },
     {
-     "code": "45233220-7",
+     "code": "72263000-6",
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Wegdekwerkzaamheden voor wegen"
+       "language": "EN",
+       "text": "Software implementation services"
       },
       {
        "language": "FR",
-       "text": "Travaux de revêtement de routes"
-      },
-      {
-       "language": "EN",
-       "text": "Surface work for roads"
+       "text": "Services d'implémentation de logiciels"
       },
       {
        "language": "DE",
-       "text": "Oberbauarbeiten für Landstraßen"
+       "text": "Software-Implementierung"
+      },
+      {
+       "language": "NL",
+       "text": "Software-implementatiediensten"
       }
      ]
     },
     {
-     "code": "45233142-6",
+     "code": "72000000-5",
      "descriptions": [
       {
        "language": "FR",
-       "text": "Travaux de réparation de routes"
-      },
-      {
-       "language": "EN",
-       "text": "Road-repair works"
-      },
-      {
-       "language": "DE",
-       "text": "Straßenausbesserungsarbeiten"
+       "text": "Services de technologies de l'information, conseil, développement de logiciels, internet et appui"
       },
       {
        "language": "NL",
-       "text": "Herstellen van wegen"
+       "text": "IT-diensten: adviezen, softwareontwikkeling, internet en ondersteuning"
+      },
+      {
+       "language": "EN",
+       "text": "IT services: consulting, software development, Internet and support"
+      },
+      {
+       "language": "DE",
+       "text": "IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung"
+      }
+     ]
+    },
+    {
+     "code": "72262000-9",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Software development services"
+      },
+      {
+       "language": "DE",
+       "text": "Software-Entwicklung"
+      },
+      {
+       "language": "NL",
+       "text": "Ontwikkeling van software"
+      },
+      {
+       "language": "FR",
+       "text": "Services de développement de logiciels"
+      }
+     ]
+    },
+    {
+     "code": "72267000-4",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Software maintenance and repair services"
+      },
+      {
+       "language": "NL",
+       "text": "Onderhouds- en reparatiediensten voor software"
+      },
+      {
+       "language": "DE",
+       "text": "Software-Wartung und -Reparatur"
+      },
+      {
+       "language": "FR",
+       "text": "Services de maintenance et de réparation de logiciels"
+      }
+     ]
+    },
+    {
+     "code": "72254000-0",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Softwaretests"
+      },
+      {
+       "language": "NL",
+       "text": "Testen van software"
+      },
+      {
+       "language": "FR",
+       "text": "Services d'essais de logiciels"
+      },
+      {
+       "language": "EN",
+       "text": "Software testing"
+      }
+     ]
+    },
+    {
+     "code": "72261000-2",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Services d'assistance relative aux logiciels"
+      },
+      {
+       "language": "NL",
+       "text": "Softwareondersteuningsdiensten"
+      },
+      {
+       "language": "EN",
+       "text": "Software support services"
+      },
+      {
+       "language": "DE",
+       "text": "Software-Unterstützung"
+      }
+     ]
+    },
+    {
+     "code": "72250000-2",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Systeem- en ondersteuningsdiensten"
+      },
+      {
+       "language": "FR",
+       "text": "Services de maintenance des systèmes et services d'assistance"
+      },
+      {
+       "language": "DE",
+       "text": "Systemdienstleistungen und Unterstützungsdienste"
+      },
+      {
+       "language": "EN",
+       "text": "System and support services"
+      }
+     ]
+    },
+    {
+     "code": "72200000-7",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Softwareprogrammierung und -beratung"
+      },
+      {
+       "language": "FR",
+       "text": "Services de programmation et de conseil en logiciels"
+      },
+      {
+       "language": "EN",
+       "text": "Software programming and consultancy services"
+      },
+      {
+       "language": "NL",
+       "text": "Softwareprogrammering en -advies"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45233120-6",
+    "code": "72262000-9",
     "descriptions": [
      {
       "language": "EN",
-      "text": "Road construction works"
-     },
-     {
-      "language": "NL",
-      "text": "Wegenbouwwerken"
-     },
-     {
-      "language": "FR",
-      "text": "Travaux de construction de routes"
+      "text": "Software development services"
      },
      {
       "language": "DE",
-      "text": "Straßenbauarbeiten"
+      "text": "Software-Entwicklung"
+     },
+     {
+      "language": "NL",
+      "text": "Ontwikkeling van software"
+     },
+     {
+      "language": "FR",
+      "text": "Services de développement de logiciels"
      }
     ]
    },
-   "dispatchDate": "2026-10-19",
+   "dispatchDate": "2026-10-20",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
       "language": "NL",
-      "text": "Herstellen Sint-Jobsesteenweg"
+      "text": "Ontwikkeling en onderhoud van ondersteunende software & ERP-integratie voor een aankoopcentrale"
      },
      {
       "language": "FR",
-      "text": "Réfection chaussée de Saint-Job"
+      "text": "Développement d'un système qui permettra de gérer les adhérents à la Centrale d'achats."
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP0C4-2389/6389/82/2026-005",
+    "number": "IT/2026/001",
     "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "PPP0C4-2389/6389/82/2026-005",
+    "referenceNumber": "IT/2026/001",
     "titles": [
      {
       "language": "NL",
-      "text": "Herstellen Sint-Jobsesteenweg"
+      "text": "Ontwikkeling en onderhoud van ondersteunende software & ERP-integratie voor een aankoopcentrale"
      },
      {
       "language": "FR",
-      "text": "Réfection chaussée de Saint-Job"
+      "text": "Développement et maintenance d’un logiciel de support & intégration ERP d’une centrale d’achat"
      }
     ]
    },
-   "insertionDate": "2026-10-19",
+   "insertionDate": "2026-10-20",
    "lots": [
     {
      "descriptions": [
       {
        "language": "NL",
-       "text": "Herstellen Sint-Jobsesteenweg"
+       "text": "Ontwikkeling en onderhoud van ondersteunende software & ERP-integratie voor een aankoopcentrale"
       },
       {
        "language": "FR",
-       "text": "Réfection chaussée de Saint-Job"
+       "text": "Développement et maintenance d’un logiciel de support & intégration ERP d’une centrale d’achat"
       }
      ],
      "reservedExecution": [
@@ -322,207 +441,348 @@
      "titles": [
       {
        "language": "NL",
-       "text": "Herstellen Sint-Jobsesteenweg"
+       "text": "IT/2026/001"
       },
       {
        "language": "FR",
-       "text": "Réfection chaussée de Saint-Job"
+       "text": "IT/2026/001- "
       }
      ]
     }
    ],
    "natures": [
-    "WORKS"
+    "SERVICES"
    ],
    "noticeIds": [
-    "a38a1510-d064-4a59-9a33-c3b4cc22a746"
+    "cc313794-1932-4548-8cae-ae010fc7ea65"
    ],
-   "noticeSubType": "16",
+   "noticeSubType": "E3",
    "nutsCodes": [
     "BE100"
    ],
    "organisation": {
-    "organisationId": 662,
+    "organisationId": 4906,
     "organisationNames": [
      {
-      "language": "FR",
-      "text": "Uccle"
-     },
-     {
       "language": "EN",
-      "text": "Uccle"
-     },
-     {
-      "language": "NL",
-      "text": "Ukkel"
+      "text": "Evoliris ASBL"
      },
      {
       "language": "DE",
-      "text": "Uccle"
+      "text": "Digitalcity.brussels"
+     },
+     {
+      "language": "NL",
+      "text": "Pôle Formation Emploi des métiers du Numérique"
+     },
+     {
+      "language": "FR",
+      "text": "Pôle Formation Emploi des métiers du numérique Digitalcity.brussels ASBL"
      }
     ],
-    "tree": "200004.200021.662"
+    "tree": "200003.200017.61.4906"
    },
-   "procedureId": "7fa05608-4302-4a6f-8d1f-06d44b34c41b",
-   "publicationDate": "2026-10-19",
+   "procedureId": "d3d760d8-8c64-4d35-9993-89b49aacfda2",
+   "publicationDate": "2026-10-20",
    "publicationLanguages": [
     "NL",
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP0C4-2389/6389/82/2026-005_001"
+    "IT/2026/001_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "a4ab731e-0c2b-4ec5-998b-b0ce56c1c762",
+   "publicationWorkspaceId": "8e78d99f-54d5-41b0-98e1-d3293bd28d84",
    "publishedAt": [
-    "2026-10-19T00:00:46.389303"
+    "2026-10-20T00:00:48.118422"
    ],
-   "referenceNumber": "PPP0C4-2389/6389/82/2026-005_001",
+   "referenceNumber": "IT/2026/001_pub01",
    "sentAt": [
-    "2026-10-19T00:00:46.389303"
+    "2026-10-20T00:00:48.118422"
    ],
    "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-30T10:00:00"
+   "vaultSubmissionDeadline": "2026-12-04T12:00:00"
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45000000-7",
+     "code": "90500000-2",
      "descriptions": [
       {
+       "language": "DE",
+       "text": "Dienstleistungen im Zusammenhang mit Siedlungs- und anderen Abfällen"
+      },
+      {
        "language": "NL",
-       "text": "Bouwwerkzaamheden"
+       "text": "Diensten op het gebied van vuilnis en afval"
       },
       {
        "language": "FR",
-       "text": "Travaux de construction"
-      },
-      {
-       "language": "DE",
-       "text": "Bauarbeiten"
+       "text": "Services liés aux déchets et aux ordures"
       },
       {
        "language": "EN",
-       "text": "Construction work"
+       "text": "Refuse and waste related services"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45000000-7",
+    "code": "90500000-2",
     "descriptions": [
      {
+      "language": "DE",
+      "text": "Dienstleistungen im Zusammenhang mit Siedlungs- und anderen Abfällen"
+     },
+     {
       "language": "NL",
-      "text": "Bouwwerkzaamheden"
+      "text": "Diensten op het gebied van vuilnis en afval"
      },
      {
       "language": "FR",
-      "text": "Travaux de construction"
-     },
-     {
-      "language": "DE",
-      "text": "Bauarbeiten"
+      "text": "Services liés aux déchets et aux ordures"
      },
      {
       "language": "EN",
-      "text": "Construction work"
+      "text": "Refuse and waste related services"
      }
     ]
    },
-   "dispatchDate": "2026-10-19",
+   "dispatchDate": "2026-10-20",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
+      "language": "FR",
+      "text": "Le présent marché a pour objet la collecte et le traitement des déchets (déchets résiduels, PMC, déchets organiques, carton/papier, papier confidentiel) dans les bâtiments du SPF Finances"
+     },
+     {
       "language": "NL",
-      "text": "Aanpassingswerken technieken Brielpoort - deel elektriciteit"
+      "text": "Deze opdracht heeft tot doel de ophaling en de verwerking van afval (restafval, pmd, organisch afval, karton/papier, vertrouwelijk papier) voor de gebouwen van de FOD Financiën. "
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP0CU-9831/6132/2026/2751 - OMG - Brielpoort",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "PPP0CU-9831/6132/2026/2751 - OMG - Brielpoort",
+    "number": "FIN/2026/005",
+    "procurementProcedureType": "NEG_W_CALL_24",
+    "referenceNumber": "FIN/2026/005",
     "titles": [
      {
       "language": "NL",
-      "text": "Aanpassingswerken technieken Brielpoort - deel elektriciteit"
+      "text": "Mededingingsprocedure met onderhandeling voor het ophalen en verwerken  van afval voor de gebouwen van de FOD Financiën"
+     },
+     {
+      "language": "FR",
+      "text": "Procédure concurrentielle avec négociation pour la collecte et le traitement  des déchets dans les bâtiments du SPF Finances"
      }
     ]
    },
-   "insertionDate": "2026-10-19",
+   "insertionDate": "2026-10-20",
    "lots": [
     {
      "descriptions": [
       {
        "language": "NL",
-       "text": "Aanpassingswerken technieken Brielpoort - deel elektriciteit"
+       "text": "Ophalen van vertrouwelijk papierafval voor de gebouwen van de FOD Financiën in  Vlaanderen"
+      },
+      {
+       "language": "FR",
+       "text": "Collecte des déchets papiers confidentiels pour les bâtiments du SPF Finances en  Flandre"
       }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
      ],
      "titles": [
       {
        "language": "NL",
-       "text": "Aanpassingswerken technieken Brielpoort - deel elektriciteit"
+       "text": "Ophalen van vertrouwelijk papierafval voor de gebouwen van de FOD Financiën in  Vlaanderen"
+      },
+      {
+       "language": "FR",
+       "text": "Collecte des déchets papiers confidentiels pour les bâtiments du SPF Finances en  Flandre"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Collecte des déchets papiers confidentiels pour les bâtiments du SPF Finances à  Bruxelles"
+      },
+      {
+       "language": "NL",
+       "text": "Ophalen van vertrouwelijk papierafval voor de gebouwen van de FOD Financiën in het  Brusselse Hoofdstedelijke Gewest "
+      }
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Collecte des déchets papiers confidentiels pour les bâtiments du SPF Finances à  Bruxelles "
+      },
+      {
+       "language": "NL",
+       "text": "Ophalen van vertrouwelijk papierafval voor de gebouwen van de FOD Financiën in het  Brusselse Hoofdstedelijke Gewest"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Ophalen van alle afval, behalve vertrouwelijk papier, voor de gebouwen van de  FOD Financiën in de provincies Limburg, Vlaams-Brabant en Antwerpen"
+      },
+      {
+       "language": "FR",
+       "text": ",Collecte de l’ensemble des déchets n’incluant pas les papiers confidentiels pour les  bâtiments du SPF Finances en province du Limbourg, Brabant Flamand et province  d’Anvers"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Ophalen van alle afval, behalve vertrouwelijk papier, voor de gebouwen van de  FOD Financiën in de provincies Limburg, Vlaams-Brabant en Antwerpen"
+      },
+      {
+       "language": "FR",
+       "text": "Collecte de l’ensemble des déchets n’incluant pas les papiers confidentiels pour les  bâtiments du SPF Finances en province du Limbourg, Brabant Flamand et province d’Anvers"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Collecte des déchets papiers confidentiels pour les bâtiments du SPF Finances en  Wallonie"
+      },
+      {
+       "language": "NL",
+       "text": "Ophalen van vertrouwelijk papierafval voor de gebouwen van de FOD Financiën in  Wallonië"
+      }
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Collecte des déchets papiers confidentiels pour les bâtiments du SPF Finances en  Wallonie"
+      },
+      {
+       "language": "NL",
+       "text": "Ophalen van vertrouwelijk papierafval voor de gebouwen van de FOD Financiën in  Wallonië"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Ophalen en wegen van alle afval, behalve vertrouwelijk papier, voor de Paradis-toren  in Luik"
+      },
+      {
+       "language": "FR",
+       "text": "Collecte et pesage de l’ensemble des déchets n’incluant pas le papier confidentiel dans  la Tour Paradis de Liège "
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "FIN/2026/005 - 1Ophalen en wegen van alle afval, behalve vertrouwelijk papier, voor de Paradis-toren  in Luik"
+      },
+      {
+       "language": "FR",
+       "text": "Collecte et pesage de l’ensemble des déchets n’incluant pas le papier confidentiel dans  la Tour Paradis de Liège "
       }
      ]
     }
    ],
    "natures": [
-    "WORKS"
+    "SERVICES"
    ],
    "noticeIds": [
-    "56c53958-5d73-4f65-b298-047d1af78dbd"
+    "0b05dd8a-2980-48d8-b949-a1d3a835ae45"
    ],
-   "noticeSubType": "E4",
+   "noticeSubType": "29",
    "nutsCodes": [
-    "BE100"
+    "BE223",
+    "BE345",
+    "BE344",
+    "BE343",
+    "BE342",
+    "BE341",
+    "BE310",
+    "BE242",
+    "BE241",
+    "BE213",
+    "BE212",
+    "BE211",
+    "BE335",
+    "BE334",
+    "BE332",
+    "BE331",
+    "BE235",
+    "BE234",
+    "BE236",
+    "BE231",
+    "BE233",
+    "BE232",
+    "BE32D",
+    "BE32C",
+    "BE32B",
+    "BE32A",
+    "BE352",
+    "BE351",
+    "BE353",
+    "BE329",
+    "BE328",
+    "BE323",
+    "BE257",
+    "BE258",
+    "BE256",
+    "BE253",
+    "BE255",
+    "BE254",
+    "BE252",
+    "BE100",
+    "BE251",
+    "BE225",
+    "BE224"
    ],
    "organisation": {
-    "organisationId": 356,
+    "organisationId": 4817,
     "organisationNames": [
      {
-      "language": "DE",
-      "text": "Deinze"
-     },
-     {
       "language": "NL",
-      "text": "Deinze"
+      "text": "FOD FIN - Afdeling Overheidsopdrachten"
      },
      {
-      "language": "FR",
-      "text": "Deinze"
+      "language": "DE",
+      "text": "SPF Fin Division Achats"
      },
      {
       "language": "EN",
-      "text": "Deinze"
+      "text": "SPF Fin Division Achats"
+     },
+     {
+      "language": "FR",
+      "text": "SPF FIN - Division Marchés Publics"
      }
     ],
-    "tree": "200004.200021.356"
+    "tree": "200002.200008.7.4817"
    },
-   "procedureId": "301d70df-3d12-44b2-b082-f2c42451988b",
-   "publicationDate": "2026-10-19",
+   "procedureId": "163d5178-0960-4d1f-8c70-2af9febe3cc8",
+   "publicationDate": "2026-10-20",
    "publicationLanguages": [
-    "NL"
+    "NL",
+    "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP0CU-9831/6132/2026/2751 - OMG - Brielpoort_002"
+    "FIN/2026/005_PUB/GA"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "500dcbc0-32cd-4e38-a183-b6c7d0604242",
+   "publicationWorkspaceId": "19cc73d3-9a62-4e29-84f4-82c94d6b4748",
    "publishedAt": [
-    "2026-10-19T00:00:46.762668"
+    "2026-10-20T00:00:46.256014"
    ],
-   "referenceNumber": "PPP0CU-9831/6132/2026/2751 - OMG - Brielpoort_002",
+   "referenceNumber": "FIN/2026/005_PUB/GA",
    "sentAt": [
-    "2026-10-19T00:00:46.762668"
+    "2026-10-20T00:00:46.256014"
    ],
    "tedPublished": false
   }
@@ -531,142 +791,135 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45421151-7",
+     "code": "48450000-7",
      "descriptions": [
       {
-       "language": "EN",
-       "text": "Installation of fitted kitchens"
-      },
-      {
        "language": "DE",
-       "text": "Installation von Einbauküchen"
-      },
-      {
-       "language": "NL",
-       "text": "Plaatsen van inbouwkeukens"
+       "text": "Softwarepaket für Zeiterfassung und Personalverwaltung"
       },
       {
        "language": "FR",
-       "text": "Installation de cuisines équipées"
+       "text": "Logiciels de gestion des temps de travail et des ressources humaines"
+      },
+      {
+       "language": "EN",
+       "text": "Time accounting or human resources software package"
+      },
+      {
+       "language": "NL",
+       "text": "Software voor tijdregistratie of human reousrces"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45421151-7",
+    "code": "48450000-7",
     "descriptions": [
      {
-      "language": "EN",
-      "text": "Installation of fitted kitchens"
-     },
-     {
       "language": "DE",
-      "text": "Installation von Einbauküchen"
-     },
-     {
-      "language": "NL",
-      "text": "Plaatsen van inbouwkeukens"
+      "text": "Softwarepaket für Zeiterfassung und Personalverwaltung"
      },
      {
       "language": "FR",
-      "text": "Installation de cuisines équipées"
+      "text": "Logiciels de gestion des temps de travail et des ressources humaines"
+     },
+     {
+      "language": "EN",
+      "text": "Time accounting or human resources software package"
+     },
+     {
+      "language": "NL",
+      "text": "Software voor tijdregistratie of human reousrces"
      }
     ]
    },
-   "dispatchDate": "2026-10-19",
+   "dispatchDate": "2026-10-20",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
       "language": "FR",
-      "text": "Nous attirons l’attention des soumissionnaires sur le fait que ce marché porte sur des interventions ponctuelles de réparations et/ou de placement de meubles de cuisine. Il ne s’agit nullement de travaux portant sur un ensemble de logements.  Ce marché consiste au démontage de la cuisine présente s'il y a lieu. La fourniture de nouveaux meubles et l'installation de ceux-ci avec tous les raccords adéquats.   L’attention du soumissionnaire est attirée sur le fait que les travaux seront majoritairement exécutés en site occupé. Dans ce cas, il appartient à l’adjudicataire de prendre contact avec les locataires et d’assumer tous les frais relatifs à l’impossibilité d’avoir accès au logement le jour des travaux. Cependant, si l'adjudicataire peut apporter la preuve écrite qu’un RDV avait bien été fixé et accepté par le locataire, il aura l’opportunité de se voir octroyer des frais de déplacement inutile à concurrence de 25€ HTVA.  Il s’agit d’un accord par lequel l’adjudicateur envoie un bon de commande, par adresse, via un mail en fonction de ses besoins. En aucun cas, les travaux envisagés se feront à l’échelle d’un site et/ou cité complète  Ce marché ne garantit donc en rien un flux continu de travaux. A ce titre, le nombre de commandes réalisées sur les 3 ans est de 89 interventions.  Ces chiffres sont indicatifs et ne constituent en rien un acquit pour l’adjudicataire.  Le délai d’exécution, par bon de commande, est de 30 jours calendrier à partir de la date d’envoi de celui-ci à l’adjudicataire.  Lieu d’exécution : La Louvière, Manage, Le Roeulx. "
+      "text": "Acquisition d’un nouvel environnement de gestion et de contrôle du temps"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP0M9-1248/6212/T26.1248",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "PPP0M9-1248/6212/T26.1248",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "number": "PPP0A2-1048/6080/2026032CPAS",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP0A2-1048/6080/2026032CPAS",
     "titles": [
      {
       "language": "FR",
-      "text": "Marché à bons de commande pour la fourniture et l'installation de cuisines équipées dans les logements du patrimoine"
+      "text": "Acquisition d’un nouvel environnement de gestion et de contrôle du temps"
      }
     ]
    },
-   "insertionDate": "2026-10-19",
+   "insertionDate": "2026-10-20",
    "lots": [
     {
      "descriptions": [
       {
        "language": "FR",
-       "text": "Marché à bons de commande pour la fourniture et l'installation de cuisines équipées dans les logements du patrimoine"
+       "text": "Acquisition d’un nouvel environnement de gestion et de contrôle du temps"
       }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
      ],
      "titles": [
       {
        "language": "FR",
-       "text": "Marché à bons de commande pour la fourniture et l'installation de cuisines équipées dans les logements du patrimoine"
+       "text": "Acquisition d’un nouvel environnement de gestion et de contrôle du temps"
       }
      ]
     }
    ],
    "natures": [
-    "WORKS"
+    "SUPPLIES"
    ],
    "noticeIds": [
-    "10487a92-700e-4df5-a2f1-18e9c87f205a"
+    "af0081bd-9963-4b13-bc4b-4d10d4244fc0"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE329"
+    "BE323"
    ],
    "organisation": {
-    "organisationId": 965,
+    "organisationId": 283,
     "organisationNames": [
      {
-      "language": "EN",
-      "text": "Centr'Habitat"
-     },
-     {
-      "language": "DE",
-      "text": "Centr'Habitat"
-     },
-     {
       "language": "NL",
-      "text": "Centr'Habitat"
+      "text": "Colfontaine"
      },
      {
       "language": "FR",
-      "text": "Centr'Habitat SCRL"
+      "text": "Colfontaine"
+     },
+     {
+      "language": "EN",
+      "text": "Colfontaine"
+     },
+     {
+      "language": "DE",
+      "text": "Colfontaine"
      }
     ],
-    "tree": "200004.200028.965"
+    "tree": "200004.200021.283"
    },
-   "procedureId": "8e914665-e76c-471f-a62b-d7b7506e94b5",
-   "publicationDate": "2026-10-19",
+   "procedureId": "e2c90c57-bf94-4455-b6b4-4c18e4329b2e",
+   "publicationDate": "2026-10-20",
    "publicationLanguages": [
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP0M9-1248/6212/T26.1248_002"
+    "PPP0A2-1048/6080/2026032CPAS_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "89c70f4e-d96f-4496-9234-ebb16884717a",
+   "publicationWorkspaceId": "a8ed90d0-7d10-437b-9d7e-40869da6bb47",
    "publishedAt": [
-    "2026-10-19T00:00:45.861449"
+    "2026-10-20T00:00:47.006584"
    ],
-   "referenceNumber": "PPP0M9-1248/6212/T26.1248_002",
+   "referenceNumber": "PPP0A2-1048/6080/2026032CPAS_002",
    "sentAt": [
-    "2026-10-19T00:00:45.861449"
+    "2026-10-20T00:00:47.006584"
    ],
    "tedPublished": false
   }
