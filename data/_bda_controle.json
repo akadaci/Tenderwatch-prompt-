@@ -1,9 +1,10 @@
 {
  "meta": {
-  "totalCount": 292258
+  "totalCount": 292293
  },
  "types": [
   "ACTIVE|10|['WORKS', 'SERVICES']",
+  "ACTIVE|10|['WORKS']",
   "ACTIVE|16|['SERVICES']",
   "ACTIVE|16|['SUPPLIES', 'SERVICES']",
   "ACTIVE|16|['SUPPLIES']",
@@ -23,6 +24,7 @@
   "ACTIVE|30|['SUPPLIES']",
   "ACTIVE|30|['WORKS']",
   "ACTIVE|33|['SERVICES']",
+  "ACTIVE|33|['SUPPLIES']",
   "ACTIVE|33|['WORKS']",
   "ACTIVE|38|['SUPPLIES']",
   "ACTIVE|38|['WORKS']",
@@ -347,12 +349,12 @@
       "text": "Uccle"
      },
      {
-      "language": "DE",
-      "text": "Uccle"
-     },
-     {
       "language": "NL",
       "text": "Ukkel"
+     },
+     {
+      "language": "DE",
+      "text": "Uccle"
      }
     ],
     "tree": "200004.200021.662"
