@@ -1,23 +1,31 @@
 {
  "meta": {
-  "totalCount": 292391
+  "totalCount": 292466
  },
  "types": [
+  "ACTIVE|10|['SUPPLIES']",
   "ACTIVE|10|['WORKS', 'SERVICES']",
   "ACTIVE|10|['WORKS']",
   "ACTIVE|16|['SERVICES']",
+  "ACTIVE|16|['SUPPLIES', 'SERVICES']",
   "ACTIVE|16|['SUPPLIES']",
+  "ACTIVE|16|['WORKS', 'SUPPLIES']",
   "ACTIVE|16|['WORKS']",
+  "ACTIVE|17|['SERVICES']",
+  "ACTIVE|17|['SUPPLIES']",
   "ACTIVE|17|['WORKS']",
   "ACTIVE|19|['SERVICES']",
   "ACTIVE|20|['SERVICES']",
   "ACTIVE|21|['SUPPLIES']",
+  "ACTIVE|25|['SUPPLIES']",
   "ACTIVE|29|['SERVICES']",
   "ACTIVE|29|['SUPPLIES', 'SERVICES']",
   "ACTIVE|29|['SUPPLIES']",
+  "ACTIVE|30|['SERVICES']",
   "ACTIVE|33|['SERVICES']",
   "ACTIVE|33|['SUPPLIES']",
   "ACTIVE|33|['WORKS']",
+  "ACTIVE|38|['SERVICES']",
   "ACTIVE|4|['SUPPLIES']",
   "ACTIVE|BE-E3|['SERVICES']",
   "ACTIVE|E1|['SERVICES']",
@@ -556,39 +564,17 @@
     "referenceNumber": "FIN/2026/005",
     "titles": [
      {
-      "language": "FR",
-      "text": "Procédure concurrentielle avec négociation pour la collecte et le traitement  des déchets dans les bâtiments du SPF Finances"
-     },
-     {
       "language": "NL",
       "text": "Mededingingsprocedure met onderhandeling voor het ophalen en verwerken  van afval voor de gebouwen van de FOD Financiën"
+     },
+     {
+      "language": "FR",
+      "text": "Procédure concurrentielle avec négociation pour la collecte et le traitement  des déchets dans les bâtiments du SPF Finances"
      }
     ]
    },
    "insertionDate": "2026-10-20",
    "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Ophalen van vertrouwelijk papierafval voor de gebouwen van de FOD Financiën in  Vlaanderen"
-      },
-      {
-       "language": "FR",
-       "text": "Collecte des déchets papiers confidentiels pour les bâtiments du SPF Finances en  Flandre"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Ophalen van vertrouwelijk papierafval voor de gebouwen van de FOD Financiën in  Vlaanderen"
-      },
-      {
-       "language": "FR",
-       "text": "Collecte des déchets papiers confidentiels pour les bâtiments du SPF Finances en  Flandre"
-      }
-     ]
-    },
     {
      "descriptions": [
       {
@@ -608,6 +594,28 @@
       {
        "language": "NL",
        "text": "Ophalen van vertrouwelijk papierafval voor de gebouwen van de FOD Financiën in het  Brusselse Hoofdstedelijke Gewest"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Ophalen van vertrouwelijk papierafval voor de gebouwen van de FOD Financiën in  Vlaanderen"
+      },
+      {
+       "language": "FR",
+       "text": "Collecte des déchets papiers confidentiels pour les bâtiments du SPF Finances en  Flandre"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Ophalen van vertrouwelijk papierafval voor de gebouwen van de FOD Financiën in  Vlaanderen"
+      },
+      {
+       "language": "FR",
+       "text": "Collecte des déchets papiers confidentiels pour les bâtiments du SPF Finances en  Flandre"
       }
      ]
     },
@@ -658,12 +666,12 @@
     {
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Collecte et pesage de l’ensemble des déchets n’incluant pas le papier confidentiel dans  la Tour Paradis de Liège "
-      },
-      {
        "language": "NL",
        "text": "Ophalen en wegen van alle afval, behalve vertrouwelijk papier, voor de Paradis-toren  in Luik"
+      },
+      {
+       "language": "FR",
+       "text": "Collecte et pesage de l’ensemble des déchets n’incluant pas le papier confidentiel dans  la Tour Paradis de Liège "
       }
      ],
      "titles": [
