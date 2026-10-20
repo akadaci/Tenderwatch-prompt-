@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 292466
+  "totalCount": 292468
  },
  "types": [
   "ACTIVE|10|['SUPPLIES']",
@@ -564,12 +564,12 @@
     "referenceNumber": "FIN/2026/005",
     "titles": [
      {
-      "language": "NL",
-      "text": "Mededingingsprocedure met onderhandeling voor het ophalen en verwerken  van afval voor de gebouwen van de FOD Financiën"
-     },
-     {
       "language": "FR",
       "text": "Procédure concurrentielle avec négociation pour la collecte et le traitement  des déchets dans les bâtiments du SPF Finances"
+     },
+     {
+      "language": "NL",
+      "text": "Mededingingsprocedure met onderhandeling voor het ophalen en verwerken  van afval voor de gebouwen van de FOD Financiën"
      }
     ]
    },
@@ -666,12 +666,12 @@
     {
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Ophalen en wegen van alle afval, behalve vertrouwelijk papier, voor de Paradis-toren  in Luik"
-      },
-      {
        "language": "FR",
        "text": "Collecte et pesage de l’ensemble des déchets n’incluant pas le papier confidentiel dans  la Tour Paradis de Liège "
+      },
+      {
+       "language": "NL",
+       "text": "Ophalen en wegen van alle afval, behalve vertrouwelijk papier, voor de Paradis-toren  in Luik"
       }
      ],
      "titles": [
