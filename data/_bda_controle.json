@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 292474
+  "totalCount": 292507
  },
  "types": [
   "ACTIVE|10|['SUPPLIES']",
@@ -21,10 +21,13 @@
   "ACTIVE|29|['SERVICES']",
   "ACTIVE|29|['SUPPLIES', 'SERVICES']",
   "ACTIVE|29|['SUPPLIES']",
+  "ACTIVE|29|['WORKS']",
   "ACTIVE|30|['SERVICES']",
+  "ACTIVE|30|['SUPPLIES', 'SERVICES']",
   "ACTIVE|33|['SERVICES']",
   "ACTIVE|33|['SUPPLIES']",
   "ACTIVE|33|['WORKS']",
+  "ACTIVE|34|['SUPPLIES']",
   "ACTIVE|38|['SERVICES']",
   "ACTIVE|4|['SUPPLIES']",
   "ACTIVE|BE-E3|['SERVICES']",
@@ -564,12 +567,12 @@
     "referenceNumber": "FIN/2026/005",
     "titles": [
      {
-      "language": "FR",
-      "text": "Procédure concurrentielle avec négociation pour la collecte et le traitement  des déchets dans les bâtiments du SPF Finances"
-     },
-     {
       "language": "NL",
       "text": "Mededingingsprocedure met onderhandeling voor het ophalen en verwerken  van afval voor de gebouwen van de FOD Financiën"
+     },
+     {
+      "language": "FR",
+      "text": "Procédure concurrentielle avec négociation pour la collecte et le traitement  des déchets dans les bâtiments du SPF Finances"
      }
     ]
    },
@@ -666,12 +669,12 @@
     {
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Collecte et pesage de l’ensemble des déchets n’incluant pas le papier confidentiel dans  la Tour Paradis de Liège "
-      },
-      {
        "language": "NL",
        "text": "Ophalen en wegen van alle afval, behalve vertrouwelijk papier, voor de Paradis-toren  in Luik"
+      },
+      {
+       "language": "FR",
+       "text": "Collecte et pesage de l’ensemble des déchets n’incluant pas le papier confidentiel dans  la Tour Paradis de Liège "
       }
      ],
      "titles": [
