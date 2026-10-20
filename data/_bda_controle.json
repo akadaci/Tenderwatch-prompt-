@@ -1,8 +1,9 @@
 {
  "meta": {
-  "totalCount": 292616
+  "totalCount": 292628
  },
  "types": [
+  "ACTIVE|10|['SERVICES']",
   "ACTIVE|10|['SUPPLIES']",
   "ACTIVE|10|['WORKS', 'SERVICES']",
   "ACTIVE|10|['WORKS']",
@@ -588,6 +589,28 @@
     {
      "descriptions": [
       {
+       "language": "NL",
+       "text": "Ophalen van vertrouwelijk papierafval voor de gebouwen van de FOD Financiën in  Vlaanderen"
+      },
+      {
+       "language": "FR",
+       "text": "Collecte des déchets papiers confidentiels pour les bâtiments du SPF Finances en  Flandre"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Ophalen van vertrouwelijk papierafval voor de gebouwen van de FOD Financiën in  Vlaanderen"
+      },
+      {
+       "language": "FR",
+       "text": "Collecte des déchets papiers confidentiels pour les bâtiments du SPF Finances en  Flandre"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
        "language": "FR",
        "text": "Collecte des déchets papiers confidentiels pour les bâtiments du SPF Finances à  Bruxelles"
       },
@@ -604,28 +627,6 @@
       {
        "language": "NL",
        "text": "Ophalen van vertrouwelijk papierafval voor de gebouwen van de FOD Financiën in het  Brusselse Hoofdstedelijke Gewest"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Ophalen van vertrouwelijk papierafval voor de gebouwen van de FOD Financiën in  Vlaanderen"
-      },
-      {
-       "language": "FR",
-       "text": "Collecte des déchets papiers confidentiels pour les bâtiments du SPF Finances en  Flandre"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Ophalen van vertrouwelijk papierafval voor de gebouwen van de FOD Financiën in  Vlaanderen"
-      },
-      {
-       "language": "FR",
-       "text": "Collecte des déchets papiers confidentiels pour les bâtiments du SPF Finances en  Flandre"
       }
      ]
     },
