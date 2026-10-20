@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 292507
+  "totalCount": 292551
  },
  "types": [
   "ACTIVE|10|['SUPPLIES']",
@@ -17,6 +17,7 @@
   "ACTIVE|19|['SERVICES']",
   "ACTIVE|20|['SERVICES']",
   "ACTIVE|21|['SUPPLIES']",
+  "ACTIVE|21|['WORKS']",
   "ACTIVE|25|['SUPPLIES']",
   "ACTIVE|29|['SERVICES']",
   "ACTIVE|29|['SUPPLIES', 'SERVICES']",
@@ -24,6 +25,7 @@
   "ACTIVE|29|['WORKS']",
   "ACTIVE|30|['SERVICES']",
   "ACTIVE|30|['SUPPLIES', 'SERVICES']",
+  "ACTIVE|30|['WORKS']",
   "ACTIVE|33|['SERVICES']",
   "ACTIVE|33|['SUPPLIES']",
   "ACTIVE|33|['WORKS']",
@@ -32,6 +34,8 @@
   "ACTIVE|4|['SUPPLIES']",
   "ACTIVE|BE-E3|['SERVICES']",
   "ACTIVE|E1|['SERVICES']",
+  "ACTIVE|E1|['SUPPLIES', 'SERVICES']",
+  "ACTIVE|E1|['SUPPLIES']",
   "ACTIVE|E3|['SERVICES']",
   "ACTIVE|E3|['SUPPLIES']",
   "ACTIVE|E3|['WORKS']",
@@ -567,12 +571,12 @@
     "referenceNumber": "FIN/2026/005",
     "titles": [
      {
-      "language": "NL",
-      "text": "Mededingingsprocedure met onderhandeling voor het ophalen en verwerken  van afval voor de gebouwen van de FOD Financiën"
-     },
-     {
       "language": "FR",
       "text": "Procédure concurrentielle avec négociation pour la collecte et le traitement  des déchets dans les bâtiments du SPF Finances"
+     },
+     {
+      "language": "NL",
+      "text": "Mededingingsprocedure met onderhandeling voor het ophalen en verwerken  van afval voor de gebouwen van de FOD Financiën"
      }
     ]
    },
@@ -669,12 +673,12 @@
     {
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Ophalen en wegen van alle afval, behalve vertrouwelijk papier, voor de Paradis-toren  in Luik"
-      },
-      {
        "language": "FR",
        "text": "Collecte et pesage de l’ensemble des déchets n’incluant pas le papier confidentiel dans  la Tour Paradis de Liège "
+      },
+      {
+       "language": "NL",
+       "text": "Ophalen en wegen van alle afval, behalve vertrouwelijk papier, voor de Paradis-toren  in Luik"
       }
      ],
      "titles": [
