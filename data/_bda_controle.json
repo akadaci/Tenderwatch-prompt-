@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 292551
+  "totalCount": 292578
  },
  "types": [
   "ACTIVE|10|['SUPPLIES']",
@@ -41,6 +41,7 @@
   "ACTIVE|E3|['WORKS']",
   "ACTIVE|E4|['SERVICES']",
   "ACTIVE|E4|['SUPPLIES']",
+  "ACTIVE|E4|['WORKS', 'SERVICES']",
   "ACTIVE|E4|['WORKS']"
  ],
  "exemples": [
@@ -571,39 +572,17 @@
     "referenceNumber": "FIN/2026/005",
     "titles": [
      {
-      "language": "FR",
-      "text": "Procédure concurrentielle avec négociation pour la collecte et le traitement  des déchets dans les bâtiments du SPF Finances"
-     },
-     {
       "language": "NL",
       "text": "Mededingingsprocedure met onderhandeling voor het ophalen en verwerken  van afval voor de gebouwen van de FOD Financiën"
+     },
+     {
+      "language": "FR",
+      "text": "Procédure concurrentielle avec négociation pour la collecte et le traitement  des déchets dans les bâtiments du SPF Finances"
      }
     ]
    },
    "insertionDate": "2026-10-20",
    "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Ophalen van vertrouwelijk papierafval voor de gebouwen van de FOD Financiën in  Vlaanderen"
-      },
-      {
-       "language": "FR",
-       "text": "Collecte des déchets papiers confidentiels pour les bâtiments du SPF Finances en  Flandre"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Ophalen van vertrouwelijk papierafval voor de gebouwen van de FOD Financiën in  Vlaanderen"
-      },
-      {
-       "language": "FR",
-       "text": "Collecte des déchets papiers confidentiels pour les bâtiments du SPF Finances en  Flandre"
-      }
-     ]
-    },
     {
      "descriptions": [
       {
@@ -623,6 +602,28 @@
       {
        "language": "NL",
        "text": "Ophalen van vertrouwelijk papierafval voor de gebouwen van de FOD Financiën in het  Brusselse Hoofdstedelijke Gewest"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Ophalen van vertrouwelijk papierafval voor de gebouwen van de FOD Financiën in  Vlaanderen"
+      },
+      {
+       "language": "FR",
+       "text": "Collecte des déchets papiers confidentiels pour les bâtiments du SPF Finances en  Flandre"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Ophalen van vertrouwelijk papierafval voor de gebouwen van de FOD Financiën in  Vlaanderen"
+      },
+      {
+       "language": "FR",
+       "text": "Collecte des déchets papiers confidentiels pour les bâtiments du SPF Finances en  Flandre"
       }
      ]
     },

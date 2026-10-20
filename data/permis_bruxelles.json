@@ -1,11 +1,13 @@
 {
- "updated": "2026-10-20T10:02:00Z",
+ "updated": "2026-10-20T12:01:48Z",
  "source": "urban.brussels NOVA (WFS)",
  "days_back": 3,
- "received": 37,
- "kept": 7,
- "count": 105,
- "new_ids": [],
+ "received": 39,
+ "kept": 8,
+ "count": 106,
+ "new_ids": [
+  "nova-04/PU/2049714"
+ ],
  "records": [
   {
    "id": "nova-09/PU/2049711",
@@ -70,6 +72,22 @@
    "date_publication": "2026-10-19",
    "notes": "Autorité : BUP",
    "first_seen": "2026-10-20T04:01:38Z"
+  },
+  {
+   "id": "nova-04/PU/2049714",
+   "source_type": "Permis",
+   "nom": "RENOVATION DES FACADES Remplacement du parement des façades et amélioration de l'isolation thermique extérieure des façades de l'immeuble existant",
+   "lieu": "Boulevard Emile Jacqmain 135, 1000 Bruxelles",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='04/PU/2049714'",
+   "verif": "vérifié",
+   "verif_date": "2026-10-20",
+   "preuve": "Demande de permis 04/PU/2049714 reçue le 2026-10-19 (urban.brussels, service NOVA).",
+   "date_publication": "2026-10-19",
+   "notes": "Autorité : Bruxelles",
+   "first_seen": "2026-10-20T12:01:48Z"
   },
   {
    "id": "nova-19/PU/2049564",
