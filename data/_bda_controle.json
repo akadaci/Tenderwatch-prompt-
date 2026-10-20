@@ -677,12 +677,12 @@
     {
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Ophalen en wegen van alle afval, behalve vertrouwelijk papier, voor de Paradis-toren  in Luik"
-      },
-      {
        "language": "FR",
        "text": "Collecte et pesage de l’ensemble des déchets n’incluant pas le papier confidentiel dans  la Tour Paradis de Liège "
+      },
+      {
+       "language": "NL",
+       "text": "Ophalen en wegen van alle afval, behalve vertrouwelijk papier, voor de Paradis-toren  in Luik"
       }
      ],
      "titles": [
