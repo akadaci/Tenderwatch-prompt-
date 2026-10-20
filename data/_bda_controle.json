@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 292632
+  "totalCount": 292640
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -51,391 +51,76 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "48450000-7",
+     "code": "45200000-9",
      "descriptions": [
       {
        "language": "DE",
-       "text": "Softwarepaket für Zeiterfassung und Personalverwaltung"
+       "text": "Komplett- oder Teilbauleistungen im Hochbau sowie Tiefbauarbeiten"
       },
       {
        "language": "FR",
-       "text": "Logiciels de gestion des temps de travail et des ressources humaines"
-      },
-      {
-       "language": "EN",
-       "text": "Time accounting or human resources software package"
+       "text": "Travaux de construction complète ou partielle et travaux de génie civil"
       },
       {
        "language": "NL",
-       "text": "Software voor tijdregistratie of human reousrces"
+       "text": "Volledige of gedeeltelijke bouw- en civieltechnische werkzaamheden"
+      },
+      {
+       "language": "EN",
+       "text": "Works for complete or part construction and civil engineering work"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "48450000-7",
+    "code": "45200000-9",
     "descriptions": [
      {
       "language": "DE",
-      "text": "Softwarepaket für Zeiterfassung und Personalverwaltung"
+      "text": "Komplett- oder Teilbauleistungen im Hochbau sowie Tiefbauarbeiten"
      },
      {
       "language": "FR",
-      "text": "Logiciels de gestion des temps de travail et des ressources humaines"
-     },
-     {
-      "language": "EN",
-      "text": "Time accounting or human resources software package"
+      "text": "Travaux de construction complète ou partielle et travaux de génie civil"
      },
      {
       "language": "NL",
-      "text": "Software voor tijdregistratie of human reousrces"
+      "text": "Volledige of gedeeltelijke bouw- en civieltechnische werkzaamheden"
+     },
+     {
+      "language": "EN",
+      "text": "Works for complete or part construction and civil engineering work"
      }
     ]
    },
-   "dispatchDate": "2026-10-20",
+   "dispatchDate": "2026-10-21",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
       "language": "FR",
-      "text": "Acquisition d’un nouvel environnement de gestion et de contrôle du temps"
+      "text": "Entretien extraordinaire des voiries 2026 - Rue Sonnetty et rue François Boudart"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP0A2-1048/6080/2026032CPAS",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP0A2-1048/6080/2026032CPAS",
+    "number": "PPP093-3357/6346/MT-PO/26-3357",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "PPP093-3357/6346/MT-PO/26-3357",
     "titles": [
      {
       "language": "FR",
-      "text": "Acquisition d’un nouvel environnement de gestion et de contrôle du temps"
+      "text": "Entretien extraordinaire des voiries 2026 - Rue Sonnetty et rue François Boudart"
      }
     ]
    },
-   "insertionDate": "2026-10-20",
+   "insertionDate": "2026-10-21",
    "lots": [
     {
      "descriptions": [
       {
        "language": "FR",
-       "text": "Acquisition d’un nouvel environnement de gestion et de contrôle du temps"
-      }
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Acquisition d’un nouvel environnement de gestion et de contrôle du temps"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SUPPLIES"
-   ],
-   "noticeIds": [
-    "af0081bd-9963-4b13-bc4b-4d10d4244fc0"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE323"
-   ],
-   "organisation": {
-    "organisationId": 283,
-    "organisationNames": [
-     {
-      "language": "NL",
-      "text": "Colfontaine"
-     },
-     {
-      "language": "FR",
-      "text": "Colfontaine"
-     },
-     {
-      "language": "EN",
-      "text": "Colfontaine"
-     },
-     {
-      "language": "DE",
-      "text": "Colfontaine"
-     }
-    ],
-    "tree": "200004.200021.283"
-   },
-   "procedureId": "e2c90c57-bf94-4455-b6b4-4c18e4329b2e",
-   "publicationDate": "2026-10-20",
-   "publicationLanguages": [
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP0A2-1048/6080/2026032CPAS_002"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "a8ed90d0-7d10-437b-9d7e-40869da6bb47",
-   "publishedAt": [
-    "2026-10-20T00:00:47.006584"
-   ],
-   "referenceNumber": "PPP0A2-1048/6080/2026032CPAS_002",
-   "sentAt": [
-    "2026-10-20T00:00:47.006584"
-   ],
-   "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "72260000-5",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Diensten in verband met software"
-      },
-      {
-       "language": "DE",
-       "text": "Dienstleistungen in Verbindung mit Software"
-      },
-      {
-       "language": "FR",
-       "text": "Services relatifs aux logiciels"
-      },
-      {
-       "language": "EN",
-       "text": "Software-related services"
-      }
-     ]
-    },
-    {
-     "code": "72263000-6",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Software implementation services"
-      },
-      {
-       "language": "FR",
-       "text": "Services d'implémentation de logiciels"
-      },
-      {
-       "language": "DE",
-       "text": "Software-Implementierung"
-      },
-      {
-       "language": "NL",
-       "text": "Software-implementatiediensten"
-      }
-     ]
-    },
-    {
-     "code": "72000000-5",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Services de technologies de l'information, conseil, développement de logiciels, internet et appui"
-      },
-      {
-       "language": "NL",
-       "text": "IT-diensten: adviezen, softwareontwikkeling, internet en ondersteuning"
-      },
-      {
-       "language": "EN",
-       "text": "IT services: consulting, software development, Internet and support"
-      },
-      {
-       "language": "DE",
-       "text": "IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung"
-      }
-     ]
-    },
-    {
-     "code": "72262000-9",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Software development services"
-      },
-      {
-       "language": "DE",
-       "text": "Software-Entwicklung"
-      },
-      {
-       "language": "NL",
-       "text": "Ontwikkeling van software"
-      },
-      {
-       "language": "FR",
-       "text": "Services de développement de logiciels"
-      }
-     ]
-    },
-    {
-     "code": "72267000-4",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Software maintenance and repair services"
-      },
-      {
-       "language": "NL",
-       "text": "Onderhouds- en reparatiediensten voor software"
-      },
-      {
-       "language": "DE",
-       "text": "Software-Wartung und -Reparatur"
-      },
-      {
-       "language": "FR",
-       "text": "Services de maintenance et de réparation de logiciels"
-      }
-     ]
-    },
-    {
-     "code": "72254000-0",
-     "descriptions": [
-      {
-       "language": "DE",
-       "text": "Softwaretests"
-      },
-      {
-       "language": "NL",
-       "text": "Testen van software"
-      },
-      {
-       "language": "FR",
-       "text": "Services d'essais de logiciels"
-      },
-      {
-       "language": "EN",
-       "text": "Software testing"
-      }
-     ]
-    },
-    {
-     "code": "72261000-2",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Services d'assistance relative aux logiciels"
-      },
-      {
-       "language": "NL",
-       "text": "Softwareondersteuningsdiensten"
-      },
-      {
-       "language": "EN",
-       "text": "Software support services"
-      },
-      {
-       "language": "DE",
-       "text": "Software-Unterstützung"
-      }
-     ]
-    },
-    {
-     "code": "72250000-2",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Systeem- en ondersteuningsdiensten"
-      },
-      {
-       "language": "FR",
-       "text": "Services de maintenance des systèmes et services d'assistance"
-      },
-      {
-       "language": "DE",
-       "text": "Systemdienstleistungen und Unterstützungsdienste"
-      },
-      {
-       "language": "EN",
-       "text": "System and support services"
-      }
-     ]
-    },
-    {
-     "code": "72200000-7",
-     "descriptions": [
-      {
-       "language": "DE",
-       "text": "Softwareprogrammierung und -beratung"
-      },
-      {
-       "language": "FR",
-       "text": "Services de programmation et de conseil en logiciels"
-      },
-      {
-       "language": "EN",
-       "text": "Software programming and consultancy services"
-      },
-      {
-       "language": "NL",
-       "text": "Softwareprogrammering en -advies"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "72262000-9",
-    "descriptions": [
-     {
-      "language": "EN",
-      "text": "Software development services"
-     },
-     {
-      "language": "DE",
-      "text": "Software-Entwicklung"
-     },
-     {
-      "language": "NL",
-      "text": "Ontwikkeling van software"
-     },
-     {
-      "language": "FR",
-      "text": "Services de développement de logiciels"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-20",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Ontwikkeling en onderhoud van ondersteunende software & ERP-integratie voor een aankoopcentrale"
-     },
-     {
-      "language": "FR",
-      "text": "Développement d'un système qui permettra de gérer les adhérents à la Centrale d'achats."
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "IT/2026/001",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "IT/2026/001",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Ontwikkeling en onderhoud van ondersteunende software & ERP-integratie voor een aankoopcentrale"
-     },
-     {
-      "language": "FR",
-      "text": "Développement et maintenance d’un logiciel de support & intégration ERP d’une centrale d’achat"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-20",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Ontwikkeling en onderhoud van ondersteunende software & ERP-integratie voor een aankoopcentrale"
-      },
-      {
-       "language": "FR",
-       "text": "Développement et maintenance d’un logiciel de support & intégration ERP d’une centrale d’achat"
+       "text": "Entretien extraordinaire des voiries 2026 - Rue Sonnetty et rue François Boudart"
       }
      ],
      "reservedExecution": [
@@ -446,209 +131,187 @@
      ],
      "titles": [
       {
-       "language": "NL",
-       "text": "IT/2026/001"
-      },
-      {
        "language": "FR",
-       "text": "IT/2026/001- "
+       "text": "Entretien extraordinaire des voiries 2026 - Rue Sonnetty et rue François Boudart"
       }
      ]
     }
    ],
    "natures": [
-    "SERVICES"
+    "WORKS"
    ],
    "noticeIds": [
-    "cc313794-1932-4548-8cae-ae010fc7ea65"
+    "48bdaec4-cfcc-4be1-893f-2fda306d8a54"
    ],
-   "noticeSubType": "E3",
+   "noticeSubType": "16",
    "nutsCodes": [
-    "BE100"
+    "BE341"
    ],
    "organisation": {
-    "organisationId": 4906,
+    "organisationId": 5462,
     "organisationNames": [
      {
-      "language": "EN",
-      "text": "Evoliris ASBL"
-     },
-     {
       "language": "DE",
-      "text": "Digitalcity.brussels"
+      "text": "Administration Communale de la Ville d'Arlon"
      },
      {
       "language": "NL",
-      "text": "Pôle Formation Emploi des métiers du Numérique"
+      "text": "Administration Communale de la Ville d'Arlon"
      },
      {
       "language": "FR",
-      "text": "Pôle Formation Emploi des métiers du numérique Digitalcity.brussels ASBL"
+      "text": "Administration Communale de la Ville d'Arlon"
+     },
+     {
+      "language": "EN",
+      "text": "Administration Communale de la Ville d'Arlon"
      }
     ],
-    "tree": "200003.200017.61.4906"
+    "tree": "200004.200021.272.5462"
    },
-   "procedureId": "d3d760d8-8c64-4d35-9993-89b49aacfda2",
-   "publicationDate": "2026-10-20",
+   "procedureId": "1b85af2a-9a60-432b-a0ea-2dd1378fcefc",
+   "publicationDate": "2026-10-21",
    "publicationLanguages": [
-    "NL",
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "IT/2026/001_pub01"
+    "PPP093-3357/6346/MT-PO/26-3357_001"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "8e78d99f-54d5-41b0-98e1-d3293bd28d84",
+   "publicationWorkspaceId": "f5f63a5b-5329-4382-ac63-295ef64fbabe",
    "publishedAt": [
-    "2026-10-20T00:00:48.118422"
+    "2026-10-21T00:00:47.373141"
    ],
-   "referenceNumber": "IT/2026/001_pub01",
+   "referenceNumber": "PPP093-3357/6346/MT-PO/26-3357_001",
    "sentAt": [
-    "2026-10-20T00:00:48.118422"
+    "2026-10-21T00:00:47.373141"
    ],
    "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-12-04T12:00:00"
+   "vaultSubmissionDeadline": "2026-11-23T11:00:00"
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "90500000-2",
+     "code": "45233142-6",
      "descriptions": [
       {
-       "language": "DE",
-       "text": "Dienstleistungen im Zusammenhang mit Siedlungs- und anderen Abfällen"
-      },
-      {
-       "language": "NL",
-       "text": "Diensten op het gebied van vuilnis en afval"
-      },
-      {
        "language": "FR",
-       "text": "Services liés aux déchets et aux ordures"
+       "text": "Travaux de réparation de routes"
       },
       {
        "language": "EN",
-       "text": "Refuse and waste related services"
+       "text": "Road-repair works"
+      },
+      {
+       "language": "DE",
+       "text": "Straßenausbesserungsarbeiten"
+      },
+      {
+       "language": "NL",
+       "text": "Herstellen van wegen"
+      }
+     ]
+    },
+    {
+     "code": "45233220-7",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Wegdekwerkzaamheden voor wegen"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de revêtement de routes"
+      },
+      {
+       "language": "EN",
+       "text": "Surface work for roads"
+      },
+      {
+       "language": "DE",
+       "text": "Oberbauarbeiten für Landstraßen"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "90500000-2",
+    "code": "45233220-7",
     "descriptions": [
      {
-      "language": "DE",
-      "text": "Dienstleistungen im Zusammenhang mit Siedlungs- und anderen Abfällen"
+      "language": "FR",
+      "text": "Travaux de revêtement de routes"
      },
      {
       "language": "NL",
-      "text": "Diensten op het gebied van vuilnis en afval"
-     },
-     {
-      "language": "FR",
-      "text": "Services liés aux déchets et aux ordures"
+      "text": "Wegdekwerkzaamheden voor wegen"
      },
      {
       "language": "EN",
-      "text": "Refuse and waste related services"
+      "text": "Surface work for roads"
+     },
+     {
+      "language": "DE",
+      "text": "Oberbauarbeiten für Landstraßen"
      }
     ]
    },
-   "dispatchDate": "2026-10-20",
+   "dispatchDate": "2026-10-21",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
       "language": "FR",
-      "text": "Le présent marché a pour objet la collecte et le traitement des déchets (déchets résiduels, PMC, déchets organiques, carton/papier, papier confidentiel) dans les bâtiments du SPF Finances"
+      "text": "Réfections de trottoirs"
      },
      {
       "language": "NL",
-      "text": "Deze opdracht heeft tot doel de ophaling en de verwerking van afval (restafval, pmd, organisch afval, karton/papier, vertrouwelijk papier) voor de gebouwen van de FOD Financiën. "
+      "text": "Herstellen van trottoirs"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "FIN/2026/005",
-    "procurementProcedureType": "NEG_W_CALL_24",
-    "referenceNumber": "FIN/2026/005",
+    "number": "PPP0C4-2411/6418/82/2026-012",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "PPP0C4-2411/6418/82/2026-012",
     "titles": [
      {
-      "language": "NL",
-      "text": "Mededingingsprocedure met onderhandeling voor het ophalen en verwerken  van afval voor de gebouwen van de FOD Financiën"
+      "language": "FR",
+      "text": "Réfections de trottoirs"
      },
      {
-      "language": "FR",
-      "text": "Procédure concurrentielle avec négociation pour la collecte et le traitement  des déchets dans les bâtiments du SPF Finances"
+      "language": "NL",
+      "text": "Herstellen van trottoirs"
      }
     ]
    },
-   "insertionDate": "2026-10-20",
+   "insertionDate": "2026-10-21",
    "lots": [
     {
      "descriptions": [
       {
        "language": "FR",
-       "text": "Collecte des déchets papiers confidentiels pour les bâtiments du SPF Finances à  Bruxelles"
+       "text": "Lot 2"
       },
       {
        "language": "NL",
-       "text": "Ophalen van vertrouwelijk papierafval voor de gebouwen van de FOD Financiën in het  Brusselse Hoofdstedelijke Gewest "
+       "text": " Perceel 2"
       }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
      ],
      "titles": [
       {
        "language": "FR",
-       "text": "Collecte des déchets papiers confidentiels pour les bâtiments du SPF Finances à  Bruxelles "
+       "text": "Lot 2"
       },
       {
        "language": "NL",
-       "text": "Ophalen van vertrouwelijk papierafval voor de gebouwen van de FOD Financiën in het  Brusselse Hoofdstedelijke Gewest"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Ophalen van vertrouwelijk papierafval voor de gebouwen van de FOD Financiën in  Vlaanderen"
-      },
-      {
-       "language": "FR",
-       "text": "Collecte des déchets papiers confidentiels pour les bâtiments du SPF Finances en  Flandre"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Ophalen van vertrouwelijk papierafval voor de gebouwen van de FOD Financiën in  Vlaanderen"
-      },
-      {
-       "language": "FR",
-       "text": "Collecte des déchets papiers confidentiels pour les bâtiments du SPF Finances en  Flandre"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Ophalen van alle afval, behalve vertrouwelijk papier, voor de gebouwen van de  FOD Financiën in de provincies Limburg, Vlaams-Brabant en Antwerpen"
-      },
-      {
-       "language": "FR",
-       "text": ",Collecte de l’ensemble des déchets n’incluant pas les papiers confidentiels pour les  bâtiments du SPF Finances en province du Limbourg, Brabant Flamand et province  d’Anvers"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Ophalen van alle afval, behalve vertrouwelijk papier, voor de gebouwen van de  FOD Financiën in de provincies Limburg, Vlaams-Brabant en Antwerpen"
-      },
-      {
-       "language": "FR",
-       "text": "Collecte de l’ensemble des déchets n’incluant pas les papiers confidentiels pour les  bâtiments du SPF Finances en province du Limbourg, Brabant Flamand et province d’Anvers"
+       "text": " Perceel 2"
       }
      ]
     },
@@ -656,276 +319,378 @@
      "descriptions": [
       {
        "language": "FR",
-       "text": "Collecte des déchets papiers confidentiels pour les bâtiments du SPF Finances en  Wallonie"
+       "text": "Lot 1"
       },
       {
        "language": "NL",
-       "text": "Ophalen van vertrouwelijk papierafval voor de gebouwen van de FOD Financiën in  Wallonië"
+       "text": "Perceel 1"
       }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
      ],
      "titles": [
       {
        "language": "FR",
-       "text": "Collecte des déchets papiers confidentiels pour les bâtiments du SPF Finances en  Wallonie"
+       "text": "Lot 1"
       },
       {
        "language": "NL",
-       "text": "Ophalen van vertrouwelijk papierafval voor de gebouwen van de FOD Financiën in  Wallonië"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Ophalen en wegen van alle afval, behalve vertrouwelijk papier, voor de Paradis-toren  in Luik"
-      },
-      {
-       "language": "FR",
-       "text": "Collecte et pesage de l’ensemble des déchets n’incluant pas le papier confidentiel dans  la Tour Paradis de Liège "
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "FIN/2026/005 - 1Ophalen en wegen van alle afval, behalve vertrouwelijk papier, voor de Paradis-toren  in Luik"
-      },
-      {
-       "language": "FR",
-       "text": "Collecte et pesage de l’ensemble des déchets n’incluant pas le papier confidentiel dans  la Tour Paradis de Liège "
+       "text": "Perceel 1"
       }
      ]
     }
    ],
    "natures": [
-    "SERVICES"
+    "WORKS"
    ],
    "noticeIds": [
-    "0b05dd8a-2980-48d8-b949-a1d3a835ae45"
+    "457d0e75-a69b-4f9a-8b42-3b568cddd774"
    ],
-   "noticeSubType": "29",
+   "noticeSubType": "16",
    "nutsCodes": [
-    "BE223",
-    "BE345",
-    "BE344",
-    "BE343",
-    "BE342",
-    "BE341",
-    "BE310",
-    "BE242",
-    "BE241",
-    "BE213",
-    "BE212",
-    "BE211",
-    "BE335",
-    "BE334",
-    "BE332",
-    "BE331",
-    "BE235",
-    "BE234",
-    "BE236",
-    "BE231",
-    "BE233",
-    "BE232",
-    "BE32D",
-    "BE32C",
-    "BE32B",
-    "BE32A",
-    "BE352",
-    "BE351",
-    "BE353",
-    "BE329",
-    "BE328",
-    "BE323",
-    "BE257",
-    "BE258",
-    "BE256",
-    "BE253",
-    "BE255",
-    "BE254",
-    "BE252",
-    "BE100",
-    "BE251",
-    "BE225",
-    "BE224"
+    "BE100"
    ],
    "organisation": {
-    "organisationId": 4817,
+    "organisationId": 662,
     "organisationNames": [
      {
-      "language": "NL",
-      "text": "FOD FIN - Afdeling Overheidsopdrachten"
-     },
-     {
-      "language": "DE",
-      "text": "SPF Fin Division Achats"
+      "language": "FR",
+      "text": "Uccle"
      },
      {
       "language": "EN",
-      "text": "SPF Fin Division Achats"
+      "text": "Uccle"
      },
      {
-      "language": "FR",
-      "text": "SPF FIN - Division Marchés Publics"
+      "language": "DE",
+      "text": "Uccle"
+     },
+     {
+      "language": "NL",
+      "text": "Ukkel"
      }
     ],
-    "tree": "200002.200008.7.4817"
+    "tree": "200004.200021.662"
    },
-   "procedureId": "163d5178-0960-4d1f-8c70-2af9febe3cc8",
-   "publicationDate": "2026-10-20",
+   "procedureId": "e1e1c83e-0217-43ed-9a00-f14924477589",
+   "publicationDate": "2026-10-21",
    "publicationLanguages": [
     "NL",
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "FIN/2026/005_PUB/GA"
+    "PPP0C4-2411/6418/82/2026-012_001"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "19cc73d3-9a62-4e29-84f4-82c94d6b4748",
+   "publicationWorkspaceId": "3990de9c-3a99-4e80-bea1-e18cb7ea0cd7",
    "publishedAt": [
-    "2026-10-20T00:00:46.256014"
+    "2026-10-21T00:00:46.426299"
    ],
-   "referenceNumber": "FIN/2026/005_PUB/GA",
+   "referenceNumber": "PPP0C4-2411/6418/82/2026-012_001",
    "sentAt": [
-    "2026-10-20T00:00:46.256014"
+    "2026-10-21T00:00:46.426299"
    ],
-   "tedPublished": false
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-12-02T10:00:00"
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45262620-3",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Steunmuren"
+      },
+      {
+       "language": "DE",
+       "text": "Stützmauern"
+      },
+      {
+       "language": "EN",
+       "text": "Supporting walls"
+      },
+      {
+       "language": "FR",
+       "text": "Murs de soutènement"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45262620-3",
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Steunmuren"
+     },
+     {
+      "language": "DE",
+      "text": "Stützmauern"
+     },
+     {
+      "language": "EN",
+      "text": "Supporting walls"
+     },
+     {
+      "language": "FR",
+      "text": "Murs de soutènement"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-21",
+   "dossier": {
+    "accreditations": {
+     "E": 4
+    },
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Ce marché concerne: - du débroussaillage ;  - de l’entretien de maçonneries (réfection et rejointoiement) ;  - divers travaux annexes (découpe de garde-corps, réfection de couronnement, …)."
+     }
+    ],
+    "enterpriseCategories": [
+     {
+      "categoryCode": "E",
+      "levels": [
+       4,
+       3,
+       2,
+       1
+      ]
+     }
+    ],
+    "legalBasis": "D25",
+    "number": "5753426101",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "5753426101",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Ligne 37 : Tronçon Pepinster / Verviers-Est, Ville de Verviers Entretien des murs de soutènement de la rue du Palais"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-21",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Ce marché concerne: - du débroussaillage ;  - de l’entretien de maçonneries (réfection et rejointoiement) ;  - divers travaux annexes (découpe de garde-corps, réfection de couronnement, …)."
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "5753426101 - 1 Ligne 37 : Tronçon Pepinster / Verviers-Est, Ville de Verviers Entretien des murs de soutènement de la rue du Palais"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "0fb6361d-5f2e-4b40-8572-b8f53d1d0b98"
+   ],
+   "noticeSubType": "17",
+   "nutsCodes": [
+    "BE335"
+   ],
+   "organisation": {
+    "organisationId": 17122,
+    "organisationNames": [
+     {
+      "language": "NL",
+      "text": "Infrabel Projects South"
+     },
+     {
+      "language": "FR",
+      "text": "Infrabel Projects South"
+     },
+     {
+      "language": "EN",
+      "text": "Infrabel Projects South"
+     },
+     {
+      "language": "DE",
+      "text": "Infrabel Projects South"
+     }
+    ],
+    "tree": "200002.200014.4784.17122"
+   },
+   "procedureId": "5da912b3-b1a3-4f28-ace7-17e135d60ee9",
+   "publicationDate": "2026-10-21",
+   "publicationLanguages": [
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "5753426101_pub01"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "93a75075-1e2f-4809-ad60-6ab7dfd93acf",
+   "publishedAt": [
+    "2026-10-21T00:00:47.658719"
+   ],
+   "referenceNumber": "5753426101_pub01",
+   "sentAt": [
+    "2026-10-21T00:00:47.658719"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-11-24T14:00:00"
   }
  ],
  "exemple_attribution": [
   {
    "cpvAdditionalCodes": [
     {
-     "code": "48450000-7",
+     "code": "72500000-0",
      "descriptions": [
       {
-       "language": "DE",
-       "text": "Softwarepaket für Zeiterfassung und Personalverwaltung"
-      },
-      {
        "language": "FR",
-       "text": "Logiciels de gestion des temps de travail et des ressources humaines"
+       "text": "Services informatiques"
       },
       {
        "language": "EN",
-       "text": "Time accounting or human resources software package"
+       "text": "Computer-related services"
       },
       {
        "language": "NL",
-       "text": "Software voor tijdregistratie of human reousrces"
+       "text": "Informaticadiensten"
+      },
+      {
+       "language": "DE",
+       "text": "Datenverarbeitungsdienste"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "48450000-7",
+    "code": "72500000-0",
     "descriptions": [
      {
-      "language": "DE",
-      "text": "Softwarepaket für Zeiterfassung und Personalverwaltung"
-     },
-     {
       "language": "FR",
-      "text": "Logiciels de gestion des temps de travail et des ressources humaines"
+      "text": "Services informatiques"
      },
      {
       "language": "EN",
-      "text": "Time accounting or human resources software package"
+      "text": "Computer-related services"
      },
      {
       "language": "NL",
-      "text": "Software voor tijdregistratie of human reousrces"
+      "text": "Informaticadiensten"
+     },
+     {
+      "language": "DE",
+      "text": "Datenverarbeitungsdienste"
      }
     ]
    },
-   "dispatchDate": "2026-10-20",
+   "dispatchDate": "2026-10-21",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
       "language": "FR",
-      "text": "Acquisition d’un nouvel environnement de gestion et de contrôle du temps"
+      "text": "Renouvellement Zabbix"
+     },
+     {
+      "language": "NL",
+      "text": "Renouvellement Zabbix"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP0A2-1048/6080/2026032CPAS",
+    "number": "2026/AINF/AP/011",
     "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP0A2-1048/6080/2026032CPAS",
+    "referenceNumber": "2026/AINF/AP/011",
     "titles": [
      {
       "language": "FR",
-      "text": "Acquisition d’un nouvel environnement de gestion et de contrôle du temps"
+      "text": "Renouvellement Zabbix"
+     },
+     {
+      "language": "NL",
+      "text": "Renouvellement Zabbix"
      }
     ]
    },
-   "insertionDate": "2026-10-20",
+   "insertionDate": "2026-10-21",
    "lots": [
     {
      "descriptions": [
       {
        "language": "FR",
-       "text": "Acquisition d’un nouvel environnement de gestion et de contrôle du temps"
+       "text": "Renouvellement Zabbix"
+      },
+      {
+       "language": "NL",
+       "text": "Renouvellement Zabbix"
       }
      ],
      "titles": [
       {
+       "language": "NL",
+       "text": "2026/AINF/AP/011 - 1"
+      },
+      {
        "language": "FR",
-       "text": "Acquisition d’un nouvel environnement de gestion et de contrôle du temps"
+       "text": "2026/AINF/AP/011 - 1"
       }
      ]
     }
    ],
    "natures": [
-    "SUPPLIES"
+    "SERVICES"
    ],
    "noticeIds": [
-    "af0081bd-9963-4b13-bc4b-4d10d4244fc0"
+    "99e9f5f0-1359-4912-aa92-f928f148bcda"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE323"
+    "BE100"
    ],
    "organisation": {
-    "organisationId": 283,
+    "organisationId": 15561,
     "organisationNames": [
      {
-      "language": "NL",
-      "text": "Colfontaine"
-     },
-     {
       "language": "FR",
-      "text": "Colfontaine"
-     },
-     {
-      "language": "EN",
-      "text": "Colfontaine"
-     },
-     {
-      "language": "DE",
-      "text": "Colfontaine"
+      "text": "Achats ICT"
      }
     ],
-    "tree": "200004.200021.283"
+    "tree": "200004.200032.617.15561"
    },
-   "procedureId": "e2c90c57-bf94-4455-b6b4-4c18e4329b2e",
-   "publicationDate": "2026-10-20",
+   "procedureId": "e62f2487-1157-45ff-8ae3-c1c80e1a4f15",
+   "publicationDate": "2026-10-21",
    "publicationLanguages": [
+    "NL",
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP0A2-1048/6080/2026032CPAS_002"
+    "2026/AINF/AP/011_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "a8ed90d0-7d10-437b-9d7e-40869da6bb47",
+   "publicationWorkspaceId": "e87e7681-a06e-422e-bc90-d881ec726b62",
    "publishedAt": [
-    "2026-10-20T00:00:47.006584"
+    "2026-10-21T00:00:47.144156"
    ],
-   "referenceNumber": "PPP0A2-1048/6080/2026032CPAS_002",
+   "referenceNumber": "2026/AINF/AP/011_pub01",
    "sentAt": [
-    "2026-10-20T00:00:47.006584"
+    "2026-10-21T00:00:47.144156"
    ],
    "tedPublished": false
   }
