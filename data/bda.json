@@ -1,15 +1,11 @@
 {
- "updated": "2026-10-20T17:32:14Z",
+ "updated": "2026-10-20T18:01:40Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
  "received": 468,
  "kept": 221,
  "count": 1901,
- "new_ids": [
-  "bda-fecbfedd-009b-4c50-a12e-ea5fe1d0a525",
-  "bda-f8678daa-e8e3-4b46-b382-eb98dde0a394",
-  "bda-11cf1de2-7f54-4b38-a4ca-8de406eb89d7"
- ],
+ "new_ids": [],
  "records": [
   {
    "id": "bda-9e40ba59-f763-4a53-8844-5b60a6907557",
@@ -3931,7 +3927,7 @@
    "verif_date": "2026-10-20",
    "preuve": "Bulletin des Adjudications, réf. NPSV-OMVB-26-03 (attribution, sous-type eForms E4), publié le 2026-10-19.",
    "date_publication": "2026-10-19",
-   "cpv": "44000000,79930000,45223210,39294100,39294000,14622000,45262400,22000000,79934000,45223000",
+   "cpv": "44000000,79930000,45223210,39294100,39294000,14622000,22000000,45262400,79934000,45223000",
    "ted_ref": "",
    "notes": "Nationaal Park Scheldevallei heeft de ambitie om een kwaliteitsvolle en uniforme bezoekersinfrastructuur te voorzien. Dit omvat onder meer duurzaam buitenmeubilair en duidelijke informatieborden, die bijdragen aan de beleving en herkenbaarheid van het nationaal park. In kader van het Sigmaplan zijn ",
    "procedure": "a84eda4a-77b5-4951-b96e-701eaf56665e",
