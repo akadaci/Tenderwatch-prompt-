@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T22:38:46Z",
+ "updated": "2026-10-20T00:01:45Z",
  "source": "urban.brussels NOVA (WFS)",
  "days_back": 3,
  "received": 25,
@@ -17,7 +17,7 @@
    "etape": 1,
    "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='19/PU/2049564'",
    "verif": "vérifié",
-   "verif_date": "2026-10-19",
+   "verif_date": "2026-10-20",
    "preuve": "Demande de permis 19/PU/2049564 reçue le 2026-10-18 (urban.brussels, service NOVA).",
    "date_publication": "2026-10-18",
    "notes": "Autorité : Woluwe-Saint-Pierre",
