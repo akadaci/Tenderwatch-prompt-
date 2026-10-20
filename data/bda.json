@@ -1,11 +1,13 @@
 {
- "updated": "2026-10-20T20:01:43Z",
+ "updated": "2026-10-20T20:53:35Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 468,
- "kept": 221,
- "count": 1901,
- "new_ids": [],
+ "received": 469,
+ "kept": 222,
+ "count": 1902,
+ "new_ids": [
+  "bda-e4defc96-1d5f-4626-8d2b-9c23aa778eb3"
+ ],
  "records": [
   {
    "id": "bda-9e40ba59-f763-4a53-8844-5b60a6907557",
@@ -2820,6 +2822,27 @@
    "procedure": "8ce41476-8112-45fa-ad91-daa8602b1c30",
    "dossier": "MRT24001-10152",
    "first_seen": "2026-10-20T17:32:14Z"
+  },
+  {
+   "id": "bda-e4defc96-1d5f-4626-8d2b-9c23aa778eb3",
+   "source_type": "BDA",
+   "nom": "UCP-24711-Remplacement cabine haute tension",
+   "lieu": "Liège",
+   "province": "Liège",
+   "mo": "GROUPE SANTE CHC ASBL",
+   "etape": 4,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/e4defc96-1d5f-4626-8d2b-9c23aa778eb3",
+   "verif": "vérifié",
+   "verif_date": "2026-10-20",
+   "preuve": "Bulletin des Adjudications, réf. PPP1IU-761/6429/24711 (avis de marché, sous-type eForms 16), publié le 2026-10-20.",
+   "date_publication": "2026-10-20",
+   "cpv": "45311200",
+   "ted_ref": "",
+   "notes": "UCP-24711-Remplacement cabine haute tension",
+   "procedure": "0f1a7c3a-467c-498c-9e17-35fbdf01a220",
+   "dossier": "PPP1IU-761/6429/24711",
+   "first_seen": "2026-10-20T20:53:35Z"
   },
   {
    "id": "bda-89c70f4e-d96f-4496-9234-ebb16884717a",
