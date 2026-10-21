@@ -290,12 +290,12 @@
     {
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Lot 2"
-      },
-      {
        "language": "NL",
        "text": " Perceel 2"
+      },
+      {
+       "language": "FR",
+       "text": "Lot 2"
       }
      ],
      "reservedExecution": [
@@ -306,12 +306,12 @@
      ],
      "titles": [
       {
-       "language": "FR",
-       "text": "Lot 2"
-      },
-      {
        "language": "NL",
        "text": " Perceel 2"
+      },
+      {
+       "language": "FR",
+       "text": "Lot 2"
       }
      ]
     },
