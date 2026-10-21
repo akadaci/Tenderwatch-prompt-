@@ -1,11 +1,13 @@
 {
- "updated": "2026-10-21T16:01:51Z",
+ "updated": "2026-10-21T18:02:01Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 707,
- "kept": 347,
- "count": 2002,
- "new_ids": [],
+ "received": 709,
+ "kept": 348,
+ "count": 2003,
+ "new_ids": [
+  "bda-d381fcf0-5c0b-4b79-958d-468f29fc2d28"
+ ],
  "records": [
   {
    "id": "bda-f5f63a5b-5329-4382-ac63-295ef64fbabe",
@@ -2799,6 +2801,27 @@
    "procedure": "f44b916a-0e94-4ec7-bcfa-bb90e00af517",
    "dossier": "DISIPPJ-3132-2026-00185",
    "first_seen": "2026-10-21T15:37:37Z"
+  },
+  {
+   "id": "bda-d381fcf0-5c0b-4b79-958d-468f29fc2d28",
+   "source_type": "BDA",
+   "nom": "Rénovation de la Maison des Artistes - Phase 2b",
+   "lieu": "Bruxelles",
+   "province": "Bruxelles",
+   "mo": "Anderlecht",
+   "etape": 4,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/d381fcf0-5c0b-4b79-958d-468f29fc2d28",
+   "verif": "vérifié",
+   "verif_date": "2026-10-21",
+   "preuve": "Bulletin des Adjudications, réf. MDA2-B (avis de marché, sous-type eForms 16), publié le 2026-10-21.",
+   "date_publication": "2026-10-21",
+   "cpv": "45000000",
+   "ted_ref": "",
+   "notes": "Parachèvements intérieurs et restauration de la façade avant de la Maison des Artistes, rue du Bronze 14 à Anderlecht. Ce bâtiment héberge des expositions temporaires et des ateliers à destination d’artistes en résidence ou de riverains pour des initiations occasionnelles.",
+   "procedure": "db0d58d9-9cf6-4b08-a446-38779d1e026d",
+   "dossier": "MDA2-B",
+   "first_seen": "2026-10-21T18:02:01Z"
   },
   {
    "id": "bda-9e40ba59-f763-4a53-8844-5b60a6907557",
