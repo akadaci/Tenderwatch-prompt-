@@ -1,12 +1,48 @@
 {
- "updated": "2026-10-21T02:01:52Z",
+ "updated": "2026-10-21T04:01:50Z",
  "source": "urban.brussels NOVA (WFS)",
  "days_back": 3,
- "received": 34,
- "kept": 6,
- "count": 106,
- "new_ids": [],
+ "received": 52,
+ "kept": 9,
+ "count": 109,
+ "new_ids": [
+  "nova-04/PU/2049805",
+  "nova-12/PU/2049794",
+  "nova-12/PU/2049614"
+ ],
  "records": [
+  {
+   "id": "nova-04/PU/2049805",
+   "source_type": "Permis",
+   "nom": "Régularisation d'un immeuble d'appartements",
+   "lieu": "Rue de la Croix de Fer 48, 1000 Bruxelles",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='04/PU/2049805'",
+   "verif": "vérifié",
+   "verif_date": "2026-10-21",
+   "preuve": "Demande de permis 04/PU/2049805 reçue le 2026-10-20 (urban.brussels, service NOVA), surface projetée 313 m².",
+   "date_publication": "2026-10-20",
+   "notes": "Autorité : Bruxelles",
+   "first_seen": "2026-10-21T04:01:50Z"
+  },
+  {
+   "id": "nova-12/PU/2049794",
+   "source_type": "Permis",
+   "nom": "la mise en conformité d’un logement simplex au 27ème étage d’un immeuble",
+   "lieu": "Boulevard Louis Mettewie 85, 1080 Molenbeek-Saint-Jean",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='12/PU/2049794'",
+   "verif": "vérifié",
+   "verif_date": "2026-10-21",
+   "preuve": "Demande de permis 12/PU/2049794 reçue le 2026-10-20 (urban.brussels, service NOVA), surface projetée 32 m².",
+   "date_publication": "2026-10-20",
+   "notes": "Autorité : Molenbeek-Saint-Jean",
+   "first_seen": "2026-10-21T04:01:50Z"
+  },
   {
    "id": "nova-09/PU/2049711",
    "source_type": "Permis",
@@ -86,6 +122,22 @@
    "date_publication": "2026-10-19",
    "notes": "Autorité : Bruxelles",
    "first_seen": "2026-10-20T12:01:48Z"
+  },
+  {
+   "id": "nova-12/PU/2049614",
+   "source_type": "Permis",
+   "nom": "l'extension du 2e étage et la régularisation de la division des étages de 1 à 2 logements et d'annexes au +1/+2",
+   "lieu": "Rue Piers 56, 1080 Molenbeek-Saint-Jean",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='12/PU/2049614'",
+   "verif": "vérifié",
+   "verif_date": "2026-10-21",
+   "preuve": "Demande de permis 12/PU/2049614 reçue le 2026-10-19 (urban.brussels, service NOVA), surface projetée 328 m².",
+   "date_publication": "2026-10-19",
+   "notes": "Autorité : Molenbeek-Saint-Jean",
+   "first_seen": "2026-10-21T04:01:50Z"
   },
   {
    "id": "nova-19/PU/2049564",
