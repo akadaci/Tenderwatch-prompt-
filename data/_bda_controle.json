@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 292698
+  "totalCount": 292716
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -51,186 +51,6 @@
   "ACTIVE|E4|['WORKS']"
  ],
  "exemples": [
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "79311200-9",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Services de réalisation d'enquêtes"
-      },
-      {
-       "language": "EN",
-       "text": "Survey conduction services"
-      },
-      {
-       "language": "NL",
-       "text": "Diensten voor het uitvoeren van enquêtes"
-      },
-      {
-       "language": "DE",
-       "text": "Durchführung von Umfragen"
-      }
-     ]
-    },
-    {
-     "code": "79315000-5",
-     "descriptions": [
-      {
-       "language": "DE",
-       "text": "Sozialforschung"
-      },
-      {
-       "language": "NL",
-       "text": "Sociaal onderzoek"
-      },
-      {
-       "language": "FR",
-       "text": "Services de recherche sociale"
-      },
-      {
-       "language": "EN",
-       "text": "Social research services"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "79315000-5",
-    "descriptions": [
-     {
-      "language": "DE",
-      "text": "Sozialforschung"
-     },
-     {
-      "language": "NL",
-      "text": "Sociaal onderzoek"
-     },
-     {
-      "language": "FR",
-      "text": "Services de recherche sociale"
-     },
-     {
-      "language": "EN",
-      "text": "Social research services"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-21",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "OPEN PROCEDURE VOOR STUDIE NAAR DE PERSONEN VAN WIE NA AFLOOP VAN HUN WERKLOOSHEIDSUITKERING GEEN SOCIO-ECONOMISCHE POSITIE MEER GEVONDEN WORDT."
-     },
-     {
-      "language": "FR",
-      "text": "PROCÉDURE OUVERTE POUR UNE ÉTUDE SUR LES PERSONNES DONT LA SITUATION SOCIO-ÉCONOMIQUE NE PEUT PLUS ÊTRE ÉTABLIE APRÈS LA FIN DE LEURS ALLOCATIONS DE CHÔMAGE.  "
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "MIIS 2026 10",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "MIIS 2026 10",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "PROCÉDURE OUVERTE POUR UNE ÉTUDE SUR LES PERSONNES DONT LA SITUATION SOCIO-ÉCONOMIQUE NE PEUT PLUS ÊTRE ÉTABLIE APRÈS LA FIN DE LEURS ALLOCATIONS DE CHÔMAGE."
-     },
-     {
-      "language": "NL",
-      "text": "OPEN PROCEDURE VOOR STUDIE NAAR DE PERSONEN VAN WIE NA AFLOOP VAN HUN WERKLOOSHEIDSUITKERING GEEN SOCIO-ECONOMISCHE POSITIE MEER GEVONDEN WORDT."
-     }
-    ]
-   },
-   "insertionDate": "2026-10-21",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "La limitation dans le temps des allocations de chômage entraîne, à partir de 2026, une sortie importante de l’assurance chômage. Pour une partie des personnes concernées, les données administratives permettent d’établir leur situation socio-économique ultérieure : emploi, autre prestation de sécurité sociale, maladie/invalidité, aide sociale via le CPAS ou allocation pour personnes handicapées. Pour un autre groupe, la situation après la fin du droit reste toutefois peu claire. Ces personnes disparaissent du suivi administratif habituel. L’absence de parcours administratif visible ne signifie pas nécessairement que ces personnes sont dépourvues de moyens d’existence. Les explications possibles comprennent notamment les revenus professionnels propres ou du ménage, le patrimoine ou l’épargne, la formation ou l’accompagnement, le départ à l’étranger, une demande refusée par le CPAS, le non-recours aux droits ou des revenus/activités qui ne peuvent être identifiés à partir des sources disponibles.   Le fait qu’une personne n’apparaisse plus dans les flux classiques de prestations ne signifie toutefois pas nécessairement qu’elle est dépourvue de moyens d’existence. Les explications possibles comprennent notamment : - les revenus professionnels de la personne elle-même ; - les revenus d’autres membres du ménage excluant le droit au revenu d’intégration ; - des revenus temporaires ou incertains ; - la possession d’une épargne, d’un patrimoine immobilier ou d’autres moyens d’existence ; - le départ à l’étranger ; - l’absence de résidence fixe ; - une demande refusée par un CPAS ; - ou l’absence de demande de droits sociaux auxquels la personne pourrait éventuellement prétendre.  L’étude doit examiner l’ampleur, le profil, les moyens d’existence effectifs, l’impact social et l’évolution dans le temps de ce groupe. Une attention particulière est accordée aux personnes qui s’adressent à un CPAS sans recevoir de revenu d’intégration, à une éventuelle entrée différée dans l’aide sociale et aux personnes qui restent invisibles même après un couplage complémentaire des données et un travail de terrain. L’étude ne constitue pas une évaluation causale générale de la réforme, mais comprend, lorsque cela est possible, une comparaison limitée d’indicateurs sociaux pertinents avant et après la perte des allocations.      L’étude doit, en définitive, répondre à quatre questions :  1. Qui disparaît des régimes administratifs connus après la fin des allocations de chômage ?  2. Pourquoi ces personnes ne sont-elles plus visibles ?  3. De quels moyens d’existence disposent-elles effectivement ?  4. Cette disparition est-elle temporaire, ou se constitue-t-il un groupe restant, à plus long terme également, en dehors de l’emploi, de la sécurité sociale et de l’intégration sociale ?  La combinaison du couplage de données administratives, d’une enquête ciblée et d’un suivi longitudinal doit permettre de répondre à ces questions de manière fiable.  "
-      },
-      {
-       "language": "NL",
-       "text": " De beperking in de tijd van de werkloosheidsuitkeringen leidt vanaf 2026 tot een aanzienlijke uitstroom uit de werkloosheidsverzekering. Voor een deel van de betrokkenen kan via administratieve gegevens worden vastgesteld welke socio-economische positie zij nadien innemen: werk, een andere socialezekerheidsuitkering, ziekte/invaliditeit, sociale bijstand via het OCMW of een tegemoetkoming voor personen met een handicap. Voor een andere groep ontbreekt evenwel een duidelijk zicht op de situatie na het einde van het recht. Zij verdwijnen uit de gebruikelijke administratieve monitoring.  Het ontbreken van een zichtbaar administratief traject betekent niet noodzakelijk dat deze personen zonder bestaansmiddelen zijn. Mogelijke verklaringen zijn onder meer eigen of huishoudelijk arbeidsinkomen, vermogen of spaargeld, opleiding of begeleiding, vertrek naar het buitenland, een geweigerde OCMW-aanvraag, non-take-up of inkomsten/activiteiten die niet via de beschikbare bronnen kunnen worden vastgesteld.  Het feit dat een persoon niet langer voorkomt in de klassieke uitkeringsstromen betekent echter niet noodzakelijk dat deze persoon zonder bestaansmiddelen valt. Mogelijke verklaringen zijn onder meer: - inkomen uit arbeid van de persoon zelf; - inkomen van andere gezinsleden waardoor geen recht op leefloon bestaat; - tijdelijke of onzekere inkomsten; - het beschikken over spaargeld, onroerend vermogen of andere bestaansmiddelen; - vertrek naar het buitenland; - het ontbreken van een vaste verblijfplaats; - een aanvraag bij een OCMW die wordt geweigerd; - of het niet aanvragen van sociale rechten waarop de persoon eventueel wel aanspraak zou kunnen maken.   De studie moet de omvang, het profiel, de feitelijke bestaansmiddelen, de sociale impact en het traject in de tijd van deze groep onderzoeken. Bijzondere aandacht gaat naar personen die zich tot een OCMW wenden maar geen leefloon ontvangen, naar eventuele uitgestelde instroom in de sociale bijstand en naar personen die ook na aanvullende datakoppeling en veldwerk buiten beeld blijven. De studie is geen algemene causale evaluatie van de hervorming, maar bevat waar mogelijk wel een beperkte vergelijking van relevante sociale indicatoren vóór en na het verlies van de uitkering.  De studie moet uiteindelijk vier vragen beantwoorden:  1. Wie verdwijnt na het einde van de werkloosheidsuitkering uit de gekende administratieve stelsels?  2. Waarom zijn deze personen niet meer zichtbaar?  3.  Over welke bestaansmiddelen beschikken zij daadwerkelijk?  4. Is dit verdwijnen tijdelijk, of ontstaat er een groep die ook op langere termijn buiten arbeid, sociale zekerheid en maatschappelijke integratie blijft?  De combinatie van administratieve datakoppeling, een gerichte enquête en longitudinale opvolging moet toelaten om deze vragen betrouwbaar te beantwoorden.  "
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "MIIS 2026 10 - 1"
-      },
-      {
-       "language": "NL",
-       "text": "MIIS 2026 10 - 1"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SERVICES"
-   ],
-   "noticeIds": [
-    "67d0916a-9887-424d-b2ef-eb64cb7fce16"
-   ],
-   "noticeSubType": "16",
-   "nutsCodes": [
-    "BE100"
-   ],
-   "organisation": {
-    "organisationId": 14,
-    "organisationNames": [
-     {
-      "language": "EN",
-      "text": "SPP Intégration Sociale"
-     },
-     {
-      "language": "DE",
-      "text": "SPP Intégration Sociale"
-     },
-     {
-      "language": "NL",
-      "text": "POD Maatschappelijke Integratie"
-     },
-     {
-      "language": "FR",
-      "text": "SPP Intégration Sociale"
-     }
-    ],
-    "tree": "200002.200009.14"
-   },
-   "procedureId": "19e15628-0b1e-4592-a4cf-78000fd0fc58",
-   "publicationDate": "2026-10-21",
-   "publicationLanguages": [
-    "NL",
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "MIIS 2026 10_pub01"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "0f4f7de2-932f-457f-8b65-60af5dee8e5a",
-   "publishedAt": [
-    "2026-10-21T00:00:46.771988"
-   ],
-   "referenceNumber": "MIIS 2026 10_pub01",
-   "sentAt": [
-    "2026-10-21T00:00:46.771988"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-27T10:30:00"
-  },
   {
    "cpvAdditionalCodes": [
     {
@@ -545,6 +365,214 @@
    ],
    "tedPublished": false,
    "vaultSubmissionDeadline": "2026-11-23T11:00:00"
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45233142-6",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Travaux de réparation de routes"
+      },
+      {
+       "language": "EN",
+       "text": "Road-repair works"
+      },
+      {
+       "language": "DE",
+       "text": "Straßenausbesserungsarbeiten"
+      },
+      {
+       "language": "NL",
+       "text": "Herstellen van wegen"
+      }
+     ]
+    },
+    {
+     "code": "45233220-7",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Travaux de revêtement de routes"
+      },
+      {
+       "language": "NL",
+       "text": "Wegdekwerkzaamheden voor wegen"
+      },
+      {
+       "language": "EN",
+       "text": "Surface work for roads"
+      },
+      {
+       "language": "DE",
+       "text": "Oberbauarbeiten für Landstraßen"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45233220-7",
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Travaux de revêtement de routes"
+     },
+     {
+      "language": "NL",
+      "text": "Wegdekwerkzaamheden voor wegen"
+     },
+     {
+      "language": "EN",
+      "text": "Surface work for roads"
+     },
+     {
+      "language": "DE",
+      "text": "Oberbauarbeiten für Landstraßen"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-21",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Réfections de trottoirs"
+     },
+     {
+      "language": "NL",
+      "text": "Herstellen van trottoirs"
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP0C4-2411/6418/82/2026-012",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "PPP0C4-2411/6418/82/2026-012",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Réfections de trottoirs"
+     },
+     {
+      "language": "NL",
+      "text": "Herstellen van trottoirs"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-21",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": " Perceel 2"
+      },
+      {
+       "language": "FR",
+       "text": "Lot 2"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": " Perceel 2"
+      },
+      {
+       "language": "FR",
+       "text": "Lot 2"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Lot 1"
+      },
+      {
+       "language": "NL",
+       "text": "Perceel 1"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Lot 1"
+      },
+      {
+       "language": "NL",
+       "text": "Perceel 1"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "457d0e75-a69b-4f9a-8b42-3b568cddd774"
+   ],
+   "noticeSubType": "16",
+   "nutsCodes": [
+    "BE100"
+   ],
+   "organisation": {
+    "organisationId": 662,
+    "organisationNames": [
+     {
+      "language": "FR",
+      "text": "Uccle"
+     },
+     {
+      "language": "EN",
+      "text": "Uccle"
+     },
+     {
+      "language": "DE",
+      "text": "Uccle"
+     },
+     {
+      "language": "NL",
+      "text": "Ukkel"
+     }
+    ],
+    "tree": "200004.200021.662"
+   },
+   "procedureId": "e1e1c83e-0217-43ed-9a00-f14924477589",
+   "publicationDate": "2026-10-21",
+   "publicationLanguages": [
+    "NL",
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP0C4-2411/6418/82/2026-012_001"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "3990de9c-3a99-4e80-bea1-e18cb7ea0cd7",
+   "publishedAt": [
+    "2026-10-21T00:00:46.426299"
+   ],
+   "referenceNumber": "PPP0C4-2411/6418/82/2026-012_001",
+   "sentAt": [
+    "2026-10-21T00:00:46.426299"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-12-02T10:00:00"
   }
  ],
  "exemple_attribution": [
