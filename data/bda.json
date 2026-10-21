@@ -1,16 +1,11 @@
 {
- "updated": "2026-10-21T22:01:48Z",
+ "updated": "2026-10-21T22:45:23Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
  "received": 721,
  "kept": 354,
  "count": 2008,
- "new_ids": [
-  "bda-a6e197d4-25b2-44eb-bd8b-7ba3fea270c0",
-  "bda-c793c423-11dc-43f5-9a2c-84d629fec4d1",
-  "bda-a8830741-01c6-4fb9-b5aa-0bff8226871b",
-  "bda-48a1c3c9-6441-4e53-9f30-d3ee69307650"
- ],
+ "new_ids": [],
  "records": [
   {
    "id": "bda-a6e197d4-25b2-44eb-bd8b-7ba3fea270c0",
@@ -6788,7 +6783,7 @@
    "verif_date": "2026-10-21",
    "preuve": "Bulletin des Adjudications, réf. NPSV-OMVB-26-03 (attribution, sous-type eForms E4), publié le 2026-10-19.",
    "date_publication": "2026-10-19",
-   "cpv": "44000000,79930000,45223210,39294100,39294000,14622000,22000000,45262400,79934000,45223000",
+   "cpv": "44000000,79930000,45223210,39294100,39294000,14622000,45262400,22000000,79934000,45223000",
    "ted_ref": "",
    "notes": "Nationaal Park Scheldevallei heeft de ambitie om een kwaliteitsvolle en uniforme bezoekersinfrastructuur te voorzien. Dit omvat onder meer duurzaam buitenmeubilair en duidelijke informatieborden, die bijdragen aan de beleving en herkenbaarheid van het nationaal park. In kader van het Sigmaplan zijn ",
    "procedure": "a84eda4a-77b5-4951-b96e-701eaf56665e",
