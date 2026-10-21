@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-21T18:02:01Z",
+ "updated": "2026-10-21T19:37:44Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 709,
- "kept": 348,
- "count": 2003,
+ "received": 710,
+ "kept": 349,
+ "count": 2004,
  "new_ids": [
-  "bda-d381fcf0-5c0b-4b79-958d-468f29fc2d28"
+  "bda-8cc5590e-d04b-478e-b595-109d08b45323"
  ],
  "records": [
   {
@@ -2822,6 +2822,48 @@
    "procedure": "db0d58d9-9cf6-4b08-a446-38779d1e026d",
    "dossier": "MDA2-B",
    "first_seen": "2026-10-21T18:02:01Z"
+  },
+  {
+   "id": "bda-720745d7-b096-4211-a616-ff19aeb21776",
+   "source_type": "BDA",
+   "nom": "Rénovation, changement de destination d’un entrepôt en équipement d’intérêt collectif d’un espace situé au rez-de-chaussée et en intérieur d’îlot de la rue d’Anderlecht, 148 à 1000 Bruxelles et aménag",
+   "lieu": "",
+   "province": "",
+   "mo": "Cultures et Santé asbl",
+   "etape": 4,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/720745d7-b096-4211-a616-ff19aeb21776",
+   "verif": "vérifié",
+   "verif_date": "2026-10-21",
+   "preuve": "Bulletin des Adjudications, réf. CS2025-AND148 (avis de marché, sous-type eForms 16), publié le 2026-10-21.",
+   "date_publication": "2026-10-21",
+   "cpv": "45210000",
+   "ted_ref": "",
+   "notes": "Le présent Marché est un marché public de travaux ayant pour objet la rénovation et l’aménagement d’une salle polyvalente située au rez-de-chaussée et en intérieur d’îlot de l’immeuble sis rue d’Anderlecht 148 à 1000 Bruxelles. Les travaux comprennent notamment : • la dépose des éléments de toiture ",
+   "procedure": "ba217e68-be3e-46d3-b0b9-11008d221a2a",
+   "dossier": "CS2025-AND148",
+   "first_seen": "2026-10-19T10:01:33Z"
+  },
+  {
+   "id": "bda-8cc5590e-d04b-478e-b595-109d08b45323",
+   "source_type": "BDA",
+   "nom": "Aanstellen studiebureau voor de begeleiding van een ontwerp en engineering van een koelwaterplant.",
+   "lieu": "Anvers",
+   "province": "Anvers",
+   "mo": "water-link",
+   "etape": 2,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/8cc5590e-d04b-478e-b595-109d08b45323",
+   "verif": "vérifié",
+   "verif_date": "2026-10-21",
+   "preuve": "Bulletin des Adjudications, réf. PPP06P-796/6328/2026-LR0017367 (attribution, sous-type eForms E4), publié le 2026-10-21.",
+   "date_publication": "2026-10-21",
+   "cpv": "71000000",
+   "ted_ref": "",
+   "notes": "Deze overheidsopdracht heeft tot doel een keuze te maken voor de begeleiding van een ontwerp en engineering van een koelwaterplant met (hoofdproces en afvalwaterbehandeling) van 2.000 m3/h permeaat, gebaseerd op membraantechnologie en vertrekkend van een hybride ruwwatersysteem (RWZI-effluenten, opp",
+   "procedure": "bd132136-58b4-438c-83f5-1822977f8e1d",
+   "dossier": "PPP06P-796/6328/2026-LR0017367",
+   "first_seen": "2026-10-21T19:37:44Z"
   },
   {
    "id": "bda-9e40ba59-f763-4a53-8844-5b60a6907557",
@@ -6433,27 +6475,6 @@
    "notes": "Le présent marché public concerne : un marché ponctuel relatif à la réalisation d’une construction d’une sectionpour la service d’incendie, comprenant notamment un garage pour deux véhicule d'incendie, une zone d’atelier, une zone de buanderie, des installations sanitaires (toilettes et douches), de",
    "procedure": "8e20eace-3359-45f6-a0bb-b5eb5718b2c3",
    "dossier": "26IP037",
-   "first_seen": "2026-10-19T10:01:33Z"
-  },
-  {
-   "id": "bda-720745d7-b096-4211-a616-ff19aeb21776",
-   "source_type": "BDA",
-   "nom": "Rénovation, changement de destination d’un entrepôt en équipement d’intérêt collectif d’un espace situé au rez-de-chaussée et en intérieur d’îlot de la rue d’Anderlecht, 148 à 1000 Bruxelles et aménag",
-   "lieu": "",
-   "province": "",
-   "mo": "Cultures et Santé asbl",
-   "etape": 4,
-   "sur_ted": false,
-   "source": "https://www.publicprocurement.be/publication-workspaces/720745d7-b096-4211-a616-ff19aeb21776",
-   "verif": "vérifié",
-   "verif_date": "2026-10-21",
-   "preuve": "Bulletin des Adjudications, réf. CS2025-AND148 (avis de marché, sous-type eForms 16), publié le 2026-10-19.",
-   "date_publication": "2026-10-19",
-   "cpv": "45210000",
-   "ted_ref": "",
-   "notes": "Le présent Marché est un marché public de travaux ayant pour objet la rénovation et l’aménagement d’une salle polyvalente située au rez-de-chaussée et en intérieur d’îlot de l’immeuble sis rue d’Anderlecht 148 à 1000 Bruxelles. Les travaux comprennent notamment : • la dépose des éléments de toiture ",
-   "procedure": "ba217e68-be3e-46d3-b0b9-11008d221a2a",
-   "dossier": "CS2025-AND148",
    "first_seen": "2026-10-19T10:01:33Z"
   },
   {
