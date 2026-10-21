@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 292765
+  "totalCount": 292804
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -11,6 +11,7 @@
   "ACTIVE|16|['SERVICES']",
   "ACTIVE|16|['SUPPLIES', 'SERVICES']",
   "ACTIVE|16|['SUPPLIES']",
+  "ACTIVE|16|['WORKS', 'SERVICES']",
   "ACTIVE|16|['WORKS', 'SUPPLIES']",
   "ACTIVE|16|['WORKS']",
   "ACTIVE|17|['SERVICES']",
@@ -395,12 +396,12 @@
      "code": "45233220-7",
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Travaux de revêtement de routes"
-      },
-      {
        "language": "NL",
        "text": "Wegdekwerkzaamheden voor wegen"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de revêtement de routes"
       },
       {
        "language": "EN",
@@ -468,12 +469,12 @@
     {
      "descriptions": [
       {
-       "language": "NL",
-       "text": " Perceel 2"
-      },
-      {
        "language": "FR",
        "text": "Lot 2"
+      },
+      {
+       "language": "NL",
+       "text": " Perceel 2"
       }
      ],
      "reservedExecution": [
