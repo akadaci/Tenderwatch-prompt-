@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 292753
+  "totalCount": 292760
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -146,12 +146,12 @@
     {
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Rénovation de 14 chaufferies et des groupes de ventilation pour les 3 immeubles situés rue des Minimes"
-      },
-      {
        "language": "NL",
        "text": "Renovatie van 14 verwarmingsketels en ventilatiegroepen voor de 3 gebouwen aan de Minimesstraat"
+      },
+      {
+       "language": "FR",
+       "text": "Rénovation de 14 chaufferies et des groupes de ventilation pour les 3 immeubles situés rue des Minimes"
       }
      ],
      "reservedExecution": [
@@ -417,12 +417,12 @@
     "code": "45233220-7",
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Travaux de revêtement de routes"
-     },
-     {
       "language": "NL",
       "text": "Wegdekwerkzaamheden voor wegen"
+     },
+     {
+      "language": "FR",
+      "text": "Travaux de revêtement de routes"
      },
      {
       "language": "EN",
@@ -484,12 +484,12 @@
      ],
      "titles": [
       {
-       "language": "FR",
-       "text": "Lot 2"
-      },
-      {
        "language": "NL",
        "text": " Perceel 2"
+      },
+      {
+       "language": "FR",
+       "text": "Lot 2"
       }
      ]
     },

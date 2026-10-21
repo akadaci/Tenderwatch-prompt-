@@ -1,12 +1,30 @@
 {
- "updated": "2026-10-21T10:01:54Z",
+ "updated": "2026-10-21T10:36:47Z",
  "source": "urban.brussels NOVA (WFS)",
  "days_back": 3,
- "received": 52,
+ "received": 59,
  "kept": 9,
- "count": 109,
- "new_ids": [],
+ "count": 110,
+ "new_ids": [
+  "nova-14/PU/2049957"
+ ],
  "records": [
+  {
+   "id": "nova-14/PU/2049957",
+   "source_type": "Permis",
+   "nom": "Permis d'urbanisme privé",
+   "lieu": "Rue du Moulin 41, 1210 Saint-Josse-ten-Noode",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='14/PU/2049957'",
+   "verif": "vérifié",
+   "verif_date": "2026-10-21",
+   "preuve": "Demande de permis 14/PU/2049957 reçue le 2026-10-21 (urban.brussels, service NOVA), surface projetée 9005 m².",
+   "date_publication": "2026-10-21",
+   "notes": "Autorité : Saint-Josse-ten-Noode",
+   "first_seen": "2026-10-21T10:36:47Z"
+  },
   {
    "id": "nova-04/PU/2049805",
    "source_type": "Permis",
