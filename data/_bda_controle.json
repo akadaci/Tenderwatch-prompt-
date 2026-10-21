@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 292696
+  "totalCount": 292698
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -340,11 +340,11 @@
      ],
      "titles": [
       {
-       "language": "NL",
+       "language": "FR",
        "text": "SLRB214020220701LBW0039 - 1"
       },
       {
-       "language": "FR",
+       "language": "NL",
        "text": "SLRB214020220701LBW0039 - 1"
       }
      ]
