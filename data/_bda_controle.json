@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 292822
+  "totalCount": 292832
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -57,249 +57,88 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45331000-6",
+     "code": "50700000-2",
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Travaux d'installation de matériel de chauffage, de ventilation et de climatisation"
+       "language": "NL",
+       "text": "Reparatie en onderhoud van uitrusting in gebouwen"
       },
       {
        "language": "EN",
-       "text": "Heating, ventilation and air-conditioning installation work"
+       "text": "Repair and maintenance services of building installations"
       },
       {
        "language": "DE",
-       "text": "Installation von Heizungs-, Lüftungs- und Klimaanlagen"
+       "text": "Reparatur und Wartung von Einrichtungen in Gebäuden"
       },
       {
-       "language": "NL",
-       "text": "Installeren van verwarming, ventilatie en airconditioning"
+       "language": "FR",
+       "text": "Services de réparation et d'entretien d'installations de bâtiments"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45331000-6",
+    "code": "50700000-2",
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Travaux d'installation de matériel de chauffage, de ventilation et de climatisation"
+      "language": "NL",
+      "text": "Reparatie en onderhoud van uitrusting in gebouwen"
      },
      {
       "language": "EN",
-      "text": "Heating, ventilation and air-conditioning installation work"
+      "text": "Repair and maintenance services of building installations"
      },
      {
       "language": "DE",
-      "text": "Installation von Heizungs-, Lüftungs- und Klimaanlagen"
+      "text": "Reparatur und Wartung von Einrichtungen in Gebäuden"
      },
      {
-      "language": "NL",
-      "text": "Installeren van verwarming, ventilatie en airconditioning"
+      "language": "FR",
+      "text": "Services de réparation et d'entretien d'installations de bâtiments"
      }
     ]
    },
-   "dispatchDate": "2026-10-21",
-   "dossier": {
-    "accreditations": {
-     "D17": 6
-    },
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Rénovation des chaufferies dans les complexes suivants  • C01: Cité Hellemans (Rue des Brodeurs 7, Rue des Orfévres 5, Rue des Tonneliers 7, Rue des Ramoneurs 3, Rue des Ramoneurs 4, Rue des Chaisiers 7, Rue des Charpentiers 7)  • C02: Forêt d'Houthulst (Bd de Dixmude, Rue de la Forêt d'Houthulst)  • C04: Economie-Hectolitre (Rue de l'Economie 25) • C15: Minimes (Rue des Minimes 109, 135 et 137)  • C63: Fleuristes (Rue Lacaille, Rue des Fleuristes)  - Estimation du montant total des travaux : 2.230.000€"
-     },
-     {
-      "language": "NL",
-      "text": "Renovatie stookplaatsen van de volgende complexen • C01: Hellemanswijk (Borduurdersstraat 7, Goudsmedenstraat 5, Kuipersstraat 7, Schoorsteenvegersstraat 3, Schoorsteenvegersstraat 4, Stoelenmakersstraat 7, Timmerliedenstraat 7) • C02: Houthulstbos (Diksmuidelaan, Houthulstbosstraat) • C04: Spaarzaamheid-Hectoliter (Spaarzaamheidsstraat 25) • C15: Minimen (Minimenstraat 109, 135 en 137) • C63: Bloemisten (Lacaillestraat, Bloemistenstraat) - Geschatte totale kosten van de werkzaamheden: 2.230.000€ "
-     }
-    ],
-    "enterpriseCategories": [
-     {
-      "categoryCode": "D17",
-      "levels": [
-       6,
-       5,
-       4,
-       3,
-       2,
-       1
-      ]
-     }
-    ],
-    "legalBasis": "D24",
-    "number": "SLRB214020220701LBW0039",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "SLRB214020220701LBW0039",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Renovatie van 14 ketelhuizen"
-     },
-     {
-      "language": "FR",
-      "text": "Rénovation 14 chaufferies"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-21",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Renovatie van 14 verwarmingsketels en ventilatiegroepen voor de 3 gebouwen aan de Minimesstraat"
-      },
-      {
-       "language": "FR",
-       "text": "Rénovation de 14 chaufferies et des groupes de ventilation pour les 3 immeubles situés rue des Minimes"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "SLRB214020220701LBW0039 - 1"
-      },
-      {
-       "language": "FR",
-       "text": "SLRB214020220701LBW0039 - 1"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "WORKS"
-   ],
-   "noticeIds": [
-    "77078ae1-a8a2-435c-a843-3bbf9a81ad4f"
-   ],
-   "noticeSubType": "16",
-   "nutsCodes": [
-    "BE100"
-   ],
-   "organisation": {
-    "organisationId": 2618,
-    "organisationNames": [
-     {
-      "language": "DE",
-      "text": "le logement Bruxellois"
-     },
-     {
-      "language": "FR",
-      "text": "Le logement Bruxellois"
-     },
-     {
-      "language": "EN",
-      "text": "le logement Bruxellois"
-     },
-     {
-      "language": "NL",
-      "text": "Brussels woning"
-     }
-    ],
-    "tree": "200004.200028.2618"
-   },
-   "procedureId": "cab8278b-cd8e-4e16-9330-48432090ade2",
-   "publicationDate": "2026-10-21",
-   "publicationLanguages": [
-    "NL",
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "SLRB214020220701LBW0039_pub01"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "93e28870-f689-4118-aa70-3d660ebac9b7",
-   "publishedAt": [
-    "2026-10-21T00:00:48.02142"
-   ],
-   "referenceNumber": "SLRB214020220701LBW0039_pub01",
-   "sentAt": [
-    "2026-10-21T00:00:48.02142"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-12-16T10:00:00"
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "45200000-9",
-     "descriptions": [
-      {
-       "language": "DE",
-       "text": "Komplett- oder Teilbauleistungen im Hochbau sowie Tiefbauarbeiten"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de construction complète ou partielle et travaux de génie civil"
-      },
-      {
-       "language": "NL",
-       "text": "Volledige of gedeeltelijke bouw- en civieltechnische werkzaamheden"
-      },
-      {
-       "language": "EN",
-       "text": "Works for complete or part construction and civil engineering work"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "45200000-9",
-    "descriptions": [
-     {
-      "language": "DE",
-      "text": "Komplett- oder Teilbauleistungen im Hochbau sowie Tiefbauarbeiten"
-     },
-     {
-      "language": "FR",
-      "text": "Travaux de construction complète ou partielle et travaux de génie civil"
-     },
-     {
-      "language": "NL",
-      "text": "Volledige of gedeeltelijke bouw- en civieltechnische werkzaamheden"
-     },
-     {
-      "language": "EN",
-      "text": "Works for complete or part construction and civil engineering work"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-21",
+   "dispatchDate": "2026-10-22",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
       "language": "FR",
-      "text": "Entretien extraordinaire des voiries 2026 - Rue Sonnetty et rue François Boudart"
+      "text": "Le présent marché public a pour objet la désignation d’un prestataire de services chargé de la mission complète de maintenance préventive, de contrôle et d'entretien en temps et en heure des installations de ventilation mécanique individuelles et collectives (simple et double flux) ainsi que des extractions forcées en toiture au sein du patrimoine de logements sociaux de LOG’IRIS.  Les prestations se dérouleront sur les communes d'Etterbeek et Koekelberg.La mission inclut notamment : - Durant la première année : La réalisation obligatoire d'un inventaire exhaustif, d'un diagnostic général et l'établissement d'un cadastre complet et actualisé de l’ensemble des installations du patrimoine. - Prestations récurrentes : Les opérations périodiques d'entretien et de contrôle prescrites par les constructeurs (incluant le remplacement bisannuel des filtres et les consommables compris dans le forfait). Durée et exécution : Le marché est conclu pour une durée initiale de 1 an, reconductible tacitement au maximum 3 fois (durée totale maximale de 4 ans). Le démarrage des prestations est prévu pour janvier 2027."
+     },
+     {
+      "language": "NL",
+      "text": "Het doel van deze overheidsopdracht is het aanstellen van een dienstverlener voor het uitvoeren van uitgebreid preventief onderhoud, inspectie en tijdig onderhoud aan individuele en collectieve mechanische ventilatiesystemen (enkel- en dubbelstroom), evenals aan mechanische afzuigsystemen op daken, binnen het door LOG’IRIS beheerde bestand aan sociale woningen. De diensten zullen worden verleend in de gemeenten Etterbeek en Koekelberg. De opdracht omvat onder meer:   - Tijdens het eerste jaar: het verplicht opstellen van een volledige inventaris, een algemene diagnose en een compleet, actueel register van alle systemen in het gehele woningbestand. - Terugkerende werkzaamheden: periodiek onderhoud en inspecties zoals voorgeschreven door de fabrikanten (inclusief de tweejaarlijkse vervanging van filters en andere verbruiksartikelen; dit alles is inbegrepen in de vaste prijs). Duur en uitvoering: de overeenkomst wordt aangegaan voor een initiële looptijd van 1 jaar, met de mogelijkheid tot stilzwijgende verlenging tot maximaal 3 keer (voor een totale maximale duur van 4 jaar). De uitvoering van de diensten staat gepland om in januari 2027 van start te gaan."
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP093-3357/6346/MT-PO/26-3357",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "PPP093-3357/6346/MT-PO/26-3357",
+    "number": "2026_MS_ENTRETIEN_VENTILATION",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "2026_MS_ENTRETIEN_VENTILATION",
     "titles": [
      {
+      "language": "NL",
+      "text": "Aanstelling van een dienstverlener voor het onderhoud van collectieve en individuele ventilatiesystemen in onze vastgoedportefeuille"
+     },
+     {
       "language": "FR",
-      "text": "Entretien extraordinaire des voiries 2026 - Rue Sonnetty et rue François Boudart"
+      "text": "Désignation d'un prestataire de service d'entretien des systèmes de ventilation collectifs et individuels de notre patrimoine"
      }
     ]
    },
-   "insertionDate": "2026-10-21",
+   "insertionDate": "2026-10-22",
    "lots": [
     {
      "descriptions": [
       {
        "language": "FR",
-       "text": "Entretien extraordinaire des voiries 2026 - Rue Sonnetty et rue François Boudart"
+       "text": "Le présent marché public a pour objet la désignation d’un prestataire de services chargé de la mission complète de maintenance préventive, de contrôle et d'entretien en temps et en heure des installations de ventilation mécanique individuelles et collectives (simple et double flux) ainsi que des extractions forcées en toiture au sein du patrimoine de logements sociaux de LOG’IRIS.  Les prestations se dérouleront sur les communes d'Etterbeek et Koekelberg.La mission inclut notamment : - Durant la première année : La réalisation obligatoire d'un inventaire exhaustif, d'un diagnostic général et l'établissement d'un cadastre complet et actualisé de l’ensemble des installations du patrimoine. - Prestations récurrentes : Les opérations périodiques d'entretien et de contrôle prescrites par les constructeurs (incluant le remplacement bisannuel des filtres et les consommables compris dans le forfait). Durée et exécution : Le marché est conclu pour une durée initiale de 1 an, reconductible tacitement au maximum 3 fois (durée totale maximale de 4 ans). Le démarrage des prestations est prévu pour janvier 2027."
+      },
+      {
+       "language": "NL",
+       "text": "Het doel van deze overheidsopdracht is het aanstellen van een dienstverlener voor het uitvoeren van uitgebreid preventief onderhoud, inspectie en tijdig onderhoud aan individuele en collectieve mechanische ventilatiesystemen (enkel- en dubbelstroom), evenals aan mechanische afzuigsystemen op daken, binnen het door LOG’IRIS beheerde bestand aan sociale woningen. De diensten zullen worden verleend in de gemeenten Etterbeek en Koekelberg. De opdracht omvat onder meer: - Tijdens het eerste jaar: het verplicht opstellen van een volledige inventaris, een algemene diagnose en een compleet, actueel register van alle systemen in het gehele woningbestand. - Terugkerende werkzaamheden: periodiek onderhoud en inspecties zoals voorgeschreven door de fabrikanten (inclusief de tweejaarlijkse vervanging van filters en andere verbruiksartikelen; dit alles is inbegrepen in de vaste prijs). Duur en uitvoering: de overeenkomst wordt aangegaan voor een initiële looptijd van 1 jaar, met de mogelijkheid tot stilzwijgende verlenging tot maximaal 3 keer (voor een totale maximale duur van 4 jaar). De uitvoering van de diensten staat gepland om in januari 2027 van start te gaan."
       }
      ],
      "reservedExecution": [
@@ -311,369 +150,11 @@
      "titles": [
       {
        "language": "FR",
-       "text": "Entretien extraordinaire des voiries 2026 - Rue Sonnetty et rue François Boudart"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "WORKS"
-   ],
-   "noticeIds": [
-    "48bdaec4-cfcc-4be1-893f-2fda306d8a54"
-   ],
-   "noticeSubType": "16",
-   "nutsCodes": [
-    "BE341"
-   ],
-   "organisation": {
-    "organisationId": 5462,
-    "organisationNames": [
-     {
-      "language": "DE",
-      "text": "Administration Communale de la Ville d'Arlon"
-     },
-     {
-      "language": "NL",
-      "text": "Administration Communale de la Ville d'Arlon"
-     },
-     {
-      "language": "FR",
-      "text": "Administration Communale de la Ville d'Arlon"
-     },
-     {
-      "language": "EN",
-      "text": "Administration Communale de la Ville d'Arlon"
-     }
-    ],
-    "tree": "200004.200021.272.5462"
-   },
-   "procedureId": "1b85af2a-9a60-432b-a0ea-2dd1378fcefc",
-   "publicationDate": "2026-10-21",
-   "publicationLanguages": [
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP093-3357/6346/MT-PO/26-3357_001"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "f5f63a5b-5329-4382-ac63-295ef64fbabe",
-   "publishedAt": [
-    "2026-10-21T00:00:47.373141"
-   ],
-   "referenceNumber": "PPP093-3357/6346/MT-PO/26-3357_001",
-   "sentAt": [
-    "2026-10-21T00:00:47.373141"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-23T11:00:00"
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "45233142-6",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Travaux de réparation de routes"
-      },
-      {
-       "language": "EN",
-       "text": "Road-repair works"
-      },
-      {
-       "language": "DE",
-       "text": "Straßenausbesserungsarbeiten"
+       "text": "2026_MS_ENTRETIEN_VENTILATION - 1"
       },
       {
        "language": "NL",
-       "text": "Herstellen van wegen"
-      }
-     ]
-    },
-    {
-     "code": "45233220-7",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Wegdekwerkzaamheden voor wegen"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de revêtement de routes"
-      },
-      {
-       "language": "EN",
-       "text": "Surface work for roads"
-      },
-      {
-       "language": "DE",
-       "text": "Oberbauarbeiten für Landstraßen"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "45233220-7",
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Travaux de revêtement de routes"
-     },
-     {
-      "language": "NL",
-      "text": "Wegdekwerkzaamheden voor wegen"
-     },
-     {
-      "language": "EN",
-      "text": "Surface work for roads"
-     },
-     {
-      "language": "DE",
-      "text": "Oberbauarbeiten für Landstraßen"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-21",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Réfections de trottoirs"
-     },
-     {
-      "language": "NL",
-      "text": "Herstellen van trottoirs"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP0C4-2411/6418/82/2026-012",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "PPP0C4-2411/6418/82/2026-012",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "Réfections de trottoirs"
-     },
-     {
-      "language": "NL",
-      "text": "Herstellen van trottoirs"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-21",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": " Perceel 2"
-      },
-      {
-       "language": "FR",
-       "text": "Lot 2"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": " Perceel 2"
-      },
-      {
-       "language": "FR",
-       "text": "Lot 2"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Lot 1"
-      },
-      {
-       "language": "NL",
-       "text": "Perceel 1"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Lot 1"
-      },
-      {
-       "language": "NL",
-       "text": "Perceel 1"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "WORKS"
-   ],
-   "noticeIds": [
-    "457d0e75-a69b-4f9a-8b42-3b568cddd774"
-   ],
-   "noticeSubType": "16",
-   "nutsCodes": [
-    "BE100"
-   ],
-   "organisation": {
-    "organisationId": 662,
-    "organisationNames": [
-     {
-      "language": "FR",
-      "text": "Uccle"
-     },
-     {
-      "language": "EN",
-      "text": "Uccle"
-     },
-     {
-      "language": "NL",
-      "text": "Ukkel"
-     },
-     {
-      "language": "DE",
-      "text": "Uccle"
-     }
-    ],
-    "tree": "200004.200021.662"
-   },
-   "procedureId": "e1e1c83e-0217-43ed-9a00-f14924477589",
-   "publicationDate": "2026-10-21",
-   "publicationLanguages": [
-    "NL",
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP0C4-2411/6418/82/2026-012_001"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "3990de9c-3a99-4e80-bea1-e18cb7ea0cd7",
-   "publishedAt": [
-    "2026-10-21T00:00:46.426299"
-   ],
-   "referenceNumber": "PPP0C4-2411/6418/82/2026-012_001",
-   "sentAt": [
-    "2026-10-21T00:00:46.426299"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-12-02T10:00:00"
-  }
- ],
- "exemple_attribution": [
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "72500000-0",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Services informatiques"
-      },
-      {
-       "language": "EN",
-       "text": "Computer-related services"
-      },
-      {
-       "language": "NL",
-       "text": "Informaticadiensten"
-      },
-      {
-       "language": "DE",
-       "text": "Datenverarbeitungsdienste"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "72500000-0",
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Services informatiques"
-     },
-     {
-      "language": "EN",
-      "text": "Computer-related services"
-     },
-     {
-      "language": "NL",
-      "text": "Informaticadiensten"
-     },
-     {
-      "language": "DE",
-      "text": "Datenverarbeitungsdienste"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-21",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Renouvellement Zabbix"
-     },
-     {
-      "language": "NL",
-      "text": "Renouvellement Zabbix"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "2026/AINF/AP/011",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "2026/AINF/AP/011",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "Renouvellement Zabbix"
-     },
-     {
-      "language": "NL",
-      "text": "Renouvellement Zabbix"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-21",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Renouvellement Zabbix"
-      },
-      {
-       "language": "NL",
-       "text": "Renouvellement Zabbix"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "2026/AINF/AP/011 - 1"
-      },
-      {
-       "language": "FR",
-       "text": "2026/AINF/AP/011 - 1"
+       "text": "2026_MS_ENTRETIEN_VENTILATION - 1"
       }
      ]
     }
@@ -682,40 +163,876 @@
     "SERVICES"
    ],
    "noticeIds": [
-    "99e9f5f0-1359-4912-aa92-f928f148bcda"
+    "e61779ec-8d82-4d2c-85b1-1a77db90bdb5"
    ],
-   "noticeSubType": "E4",
+   "noticeSubType": "16",
    "nutsCodes": [
-    "BE100"
+    "BE"
    ],
    "organisation": {
-    "organisationId": 15561,
+    "organisationId": 1444,
     "organisationNames": [
      {
       "language": "FR",
-      "text": "Achats ICT"
+      "text": "LOG'IRIS  S.A."
+     },
+     {
+      "language": "NL",
+      "text": "LOG'IRIS  S.A.."
+     },
+     {
+      "language": "EN",
+      "text": "LOG'IRIS  S.A."
+     },
+     {
+      "language": "DE",
+      "text": "LOG'IRIS  S.A."
      }
     ],
-    "tree": "200004.200032.617.15561"
+    "tree": "200004.200028.1444"
    },
-   "procedureId": "e62f2487-1157-45ff-8ae3-c1c80e1a4f15",
-   "publicationDate": "2026-10-21",
+   "procedureId": "198cb7d6-7807-4831-ae54-e5441399d20c",
+   "publicationDate": "2026-10-22",
    "publicationLanguages": [
     "NL",
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "2026/AINF/AP/011_pub01"
+    "2026_MS_ENTRETIEN_VENTILATION_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "e87e7681-a06e-422e-bc90-d881ec726b62",
+   "publicationWorkspaceId": "8170327c-aaa3-4061-8e28-80fd98486355",
    "publishedAt": [
-    "2026-10-21T00:00:47.144156"
+    "2026-10-22T00:00:46.013326"
    ],
-   "referenceNumber": "2026/AINF/AP/011_pub01",
+   "referenceNumber": "2026_MS_ENTRETIEN_VENTILATION_pub01",
    "sentAt": [
-    "2026-10-21T00:00:47.144156"
+    "2026-10-22T00:00:46.013326"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-11-23T09:00:00"
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "43800000-1",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Werkplaatsuitrusting"
+      },
+      {
+       "language": "EN",
+       "text": "Workshop equipment"
+      },
+      {
+       "language": "FR",
+       "text": "Équipement d'atelier"
+      },
+      {
+       "language": "DE",
+       "text": "Werkstattausrüstung"
+      }
+     ]
+    },
+    {
+     "code": "42000000-6",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Industrielle Maschinen"
+      },
+      {
+       "language": "FR",
+       "text": "Machines industrielles"
+      },
+      {
+       "language": "NL",
+       "text": "Bedrijfsmachines"
+      },
+      {
+       "language": "EN",
+       "text": "Industrial machinery"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "42600000-2",
+    "descriptions": [
+     {
+      "language": "EN",
+      "text": "Machine tools"
+     },
+     {
+      "language": "NL",
+      "text": "Gereedschapswerktuigen"
+     },
+     {
+      "language": "DE",
+      "text": "Werkzeugmaschinen"
+     },
+     {
+      "language": "FR",
+      "text": "Machines-outils"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-22",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Le présent marché concerne la fourniture, la livraison et l'installation en outillage du nouveau dépôt LETEC \"Mobi'Park\" Rue Lairesse 2 à Saint Nicolas. "
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D25",
+    "number": "DT-TECH-2026-05",
+    "procurementProcedureType": "S_NEG_W_CALL_25",
+    "referenceNumber": "DT-TECH-2026-05",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Mobi'Park Outillage"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-22",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Lot 9 - Compacteur cartons"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "DT-TECH-2026-05 - Lot 9"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Lot 3 - Outillage soudage"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "DT-TECH-2026-05 - Lot 3"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Lot 6 - Stockage"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "DT-TECH-2026-05 - Lot 6"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Lot 8 - Nacelle"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "DT-TECH-2026-05 - Lot 8"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Lot 7 - Machine spécifique"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "DT-TECH-2026-05 - Lot 7"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "LOT 1 - Levage"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "DT-TECH-2026-05 - Lot 1"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Lot 4 - Outillage Tôlerie"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "DT-TECH-2026-05 - Lot 4"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Lot 2 - Divers"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "DT-TECH-2026-05 - Lot 2"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Lot 5 - Outillage commun "
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "DT-TECH-2026-05 - Lot 5"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SUPPLIES"
+   ],
+   "noticeIds": [
+    "3bd53524-f595-4f5f-9ee1-22dc6b93504b"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE332"
+   ],
+   "organisation": {
+    "organisationId": 615,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "Opérateur de Transport de Wallonie"
+     },
+     {
+      "language": "NL",
+      "text": "Opérateur de Transport de Wallonie"
+     },
+     {
+      "language": "FR",
+      "text": "Opérateur de Transport de Wallonie"
+     },
+     {
+      "language": "EN",
+      "text": "Opérateur de Transport de Wallonie"
+     }
+    ],
+    "tree": "200003.200016.615"
+   },
+   "procedureId": "cbb81622-b521-4f70-b45a-832e6e9fce7a",
+   "publicationDate": "2026-10-22",
+   "publicationLanguages": [
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "DT-TECH-2026-05_pub02"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "001861a1-5fb6-4b05-bd54-11ee10cb249f",
+   "publishedAt": [
+    "2026-10-22T00:00:47.077442"
+   ],
+   "referenceNumber": "DT-TECH-2026-05_pub02",
+   "sentAt": [
+    "2026-10-22T00:00:47.077442"
+   ],
+   "tedPublished": false
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "43221000-8",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Straßenplanierer"
+      },
+      {
+       "language": "FR",
+       "text": "Niveleuses automotrices"
+      },
+      {
+       "language": "EN",
+       "text": "Road graders"
+      },
+      {
+       "language": "NL",
+       "text": "Wegschaven"
+      }
+     ]
+    },
+    {
+     "code": "43200000-5",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Machines de terrassement et d'excavation et pièces détachées"
+      },
+      {
+       "language": "EN",
+       "text": "Earthmoving and excavating machinery, and associated parts"
+      },
+      {
+       "language": "NL",
+       "text": "Grondverzet- en graafmachines, en bijbehorende onderdelen"
+      },
+      {
+       "language": "DE",
+       "text": "Erdbewegungs- und Erdaushubmaschinen sowie zugehörige Teile"
+      }
+     ]
+    },
+    {
+     "code": "43220000-1",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Planiermaschinen und Straßenhobel"
+      },
+      {
+       "language": "EN",
+       "text": "Graders and levellers"
+      },
+      {
+       "language": "NL",
+       "text": "Grondschaven en egaliseermachines"
+      },
+      {
+       "language": "FR",
+       "text": "Niveleuses-régleuses et niveleuses-surfaceuses"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "43220000-1",
+    "descriptions": [
+     {
+      "language": "DE",
+      "text": "Planiermaschinen und Straßenhobel"
+     },
+     {
+      "language": "EN",
+      "text": "Graders and levellers"
+     },
+     {
+      "language": "NL",
+      "text": "Grondschaven en egaliseermachines"
+     },
+     {
+      "language": "FR",
+      "text": "Niveleuses-régleuses et niveleuses-surfaceuses"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-22",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "het leveren van een wegnivelleermachine"
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP02J-1592/6185/2026/034",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP02J-1592/6185/2026/034",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "het leveren van een wegnivelleermachine"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-22",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "het leveren van een wegnivelleermachine"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "het leveren van een wegnivelleermachine"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SUPPLIES"
+   ],
+   "noticeIds": [
+    "eed0c198-2e3f-403c-8530-3514eed5e7b9"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE242"
+   ],
+   "organisation": {
+    "organisationId": 723,
+    "organisationNames": [
+     {
+      "language": "EN",
+      "text": "Aarschot"
+     },
+     {
+      "language": "NL",
+      "text": "Stad Aarschot"
+     },
+     {
+      "language": "DE",
+      "text": "Aarschot"
+     },
+     {
+      "language": "FR",
+      "text": "Aarschot"
+     }
+    ],
+    "tree": "200004.200021.723"
+   },
+   "procedureId": "0c09d497-4a28-4823-82d9-9f2017f74826",
+   "publicationDate": "2026-10-22",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP02J-1592/6185/2026/034_002"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "df9acfaa-decd-433c-b2c5-72e8c013537a",
+   "publishedAt": [
+    "2026-10-22T00:00:48.155791"
+   ],
+   "referenceNumber": "PPP02J-1592/6185/2026/034_002",
+   "sentAt": [
+    "2026-10-22T00:00:48.155791"
+   ],
+   "tedPublished": false
+  }
+ ],
+ "exemple_attribution": [
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "43800000-1",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Werkplaatsuitrusting"
+      },
+      {
+       "language": "EN",
+       "text": "Workshop equipment"
+      },
+      {
+       "language": "FR",
+       "text": "Équipement d'atelier"
+      },
+      {
+       "language": "DE",
+       "text": "Werkstattausrüstung"
+      }
+     ]
+    },
+    {
+     "code": "42000000-6",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Industrielle Maschinen"
+      },
+      {
+       "language": "FR",
+       "text": "Machines industrielles"
+      },
+      {
+       "language": "NL",
+       "text": "Bedrijfsmachines"
+      },
+      {
+       "language": "EN",
+       "text": "Industrial machinery"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "42600000-2",
+    "descriptions": [
+     {
+      "language": "EN",
+      "text": "Machine tools"
+     },
+     {
+      "language": "NL",
+      "text": "Gereedschapswerktuigen"
+     },
+     {
+      "language": "DE",
+      "text": "Werkzeugmaschinen"
+     },
+     {
+      "language": "FR",
+      "text": "Machines-outils"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-22",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Le présent marché concerne la fourniture, la livraison et l'installation en outillage du nouveau dépôt LETEC \"Mobi'Park\" Rue Lairesse 2 à Saint Nicolas. "
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D25",
+    "number": "DT-TECH-2026-05",
+    "procurementProcedureType": "S_NEG_W_CALL_25",
+    "referenceNumber": "DT-TECH-2026-05",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Mobi'Park Outillage"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-22",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Lot 9 - Compacteur cartons"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "DT-TECH-2026-05 - Lot 9"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Lot 3 - Outillage soudage"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "DT-TECH-2026-05 - Lot 3"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Lot 6 - Stockage"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "DT-TECH-2026-05 - Lot 6"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Lot 8 - Nacelle"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "DT-TECH-2026-05 - Lot 8"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Lot 7 - Machine spécifique"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "DT-TECH-2026-05 - Lot 7"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "LOT 1 - Levage"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "DT-TECH-2026-05 - Lot 1"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Lot 4 - Outillage Tôlerie"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "DT-TECH-2026-05 - Lot 4"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Lot 2 - Divers"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "DT-TECH-2026-05 - Lot 2"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Lot 5 - Outillage commun "
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "DT-TECH-2026-05 - Lot 5"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SUPPLIES"
+   ],
+   "noticeIds": [
+    "3bd53524-f595-4f5f-9ee1-22dc6b93504b"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE332"
+   ],
+   "organisation": {
+    "organisationId": 615,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "Opérateur de Transport de Wallonie"
+     },
+     {
+      "language": "NL",
+      "text": "Opérateur de Transport de Wallonie"
+     },
+     {
+      "language": "FR",
+      "text": "Opérateur de Transport de Wallonie"
+     },
+     {
+      "language": "EN",
+      "text": "Opérateur de Transport de Wallonie"
+     }
+    ],
+    "tree": "200003.200016.615"
+   },
+   "procedureId": "cbb81622-b521-4f70-b45a-832e6e9fce7a",
+   "publicationDate": "2026-10-22",
+   "publicationLanguages": [
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "DT-TECH-2026-05_pub02"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "001861a1-5fb6-4b05-bd54-11ee10cb249f",
+   "publishedAt": [
+    "2026-10-22T00:00:47.077442"
+   ],
+   "referenceNumber": "DT-TECH-2026-05_pub02",
+   "sentAt": [
+    "2026-10-22T00:00:47.077442"
    ],
    "tedPublished": false
   }
