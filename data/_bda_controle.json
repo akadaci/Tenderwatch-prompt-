@@ -306,12 +306,12 @@
      ],
      "titles": [
       {
-       "language": "NL",
-       "text": " Perceel 2"
-      },
-      {
        "language": "FR",
        "text": "Lot 2"
+      },
+      {
+       "language": "NL",
+       "text": " Perceel 2"
       }
      ]
     },
@@ -366,12 +366,12 @@
       "text": "Uccle"
      },
      {
-      "language": "DE",
-      "text": "Uccle"
-     },
-     {
       "language": "NL",
       "text": "Ukkel"
+     },
+     {
+      "language": "DE",
+      "text": "Uccle"
      }
     ],
     "tree": "200004.200021.662"
