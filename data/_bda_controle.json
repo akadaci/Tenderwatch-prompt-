@@ -147,12 +147,12 @@
     {
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Rénovation de 14 chaufferies et des groupes de ventilation pour les 3 immeubles situés rue des Minimes"
-      },
-      {
        "language": "NL",
        "text": "Renovatie van 14 verwarmingsketels en ventilatiegroepen voor de 3 gebouwen aan de Minimesstraat"
+      },
+      {
+       "language": "FR",
+       "text": "Rénovation de 14 chaufferies et des groupes de ventilation pour les 3 immeubles situés rue des Minimes"
       }
      ],
      "reservedExecution": [
@@ -163,11 +163,11 @@
      ],
      "titles": [
       {
-       "language": "FR",
+       "language": "NL",
        "text": "SLRB214020220701LBW0039 - 1"
       },
       {
-       "language": "NL",
+       "language": "FR",
        "text": "SLRB214020220701LBW0039 - 1"
       }
      ]
@@ -396,12 +396,12 @@
      "code": "45233220-7",
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Travaux de revêtement de routes"
-      },
-      {
        "language": "NL",
        "text": "Wegdekwerkzaamheden voor wegen"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de revêtement de routes"
       },
       {
        "language": "EN",
@@ -418,12 +418,12 @@
     "code": "45233220-7",
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Wegdekwerkzaamheden voor wegen"
-     },
-     {
       "language": "FR",
       "text": "Travaux de revêtement de routes"
+     },
+     {
+      "language": "NL",
+      "text": "Wegdekwerkzaamheden voor wegen"
      },
      {
       "language": "EN",
@@ -469,12 +469,12 @@
     {
      "descriptions": [
       {
-       "language": "NL",
-       "text": " Perceel 2"
-      },
-      {
        "language": "FR",
        "text": "Lot 2"
+      },
+      {
+       "language": "NL",
+       "text": " Perceel 2"
       }
      ],
      "reservedExecution": [
@@ -545,12 +545,12 @@
       "text": "Uccle"
      },
      {
-      "language": "DE",
-      "text": "Uccle"
-     },
-     {
       "language": "NL",
       "text": "Ukkel"
+     },
+     {
+      "language": "DE",
+      "text": "Uccle"
      }
     ],
     "tree": "200004.200021.662"
