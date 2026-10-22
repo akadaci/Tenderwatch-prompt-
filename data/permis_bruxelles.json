@@ -1,11 +1,14 @@
 {
- "updated": "2026-10-22T10:01:53Z",
+ "updated": "2026-10-22T12:02:20Z",
  "source": "urban.brussels NOVA (WFS)",
  "days_back": 3,
- "received": 59,
- "kept": 10,
- "count": 112,
- "new_ids": [],
+ "received": 60,
+ "kept": 9,
+ "count": 114,
+ "new_ids": [
+  "nova-04/PU/2050105",
+  "nova-18/SFD/2050133"
+ ],
  "records": [
   {
    "id": "nova-14/PU/2049957",
@@ -22,6 +25,38 @@
    "date_publication": "2026-10-21",
    "notes": "Autorité : Saint-Josse-ten-Noode",
    "first_seen": "2026-10-21T10:36:47Z"
+  },
+  {
+   "id": "nova-04/PU/2050105",
+   "source_type": "Permis",
+   "nom": "Implanter un équipement d’intérêt collectif de santé (centre médical) en demandant la modification administrative du 1er et 4e étage, affection actuelle \"Bureaux» : sans modification de la structure o",
+   "lieu": "Avenue de Cortenbergh 66, 1000 Bruxelles",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='04/PU/2050105'",
+   "verif": "vérifié",
+   "verif_date": "2026-10-22",
+   "preuve": "Demande de permis 04/PU/2050105 reçue le 2026-10-21 (urban.brussels, service NOVA), surface projetée 448 m².",
+   "date_publication": "2026-10-21",
+   "notes": "Autorité : Bruxelles",
+   "first_seen": "2026-10-22T12:02:20Z"
+  },
+  {
+   "id": "nova-18/SFD/2050133",
+   "source_type": "Permis",
+   "nom": "étendre le rez-de-chaussée de l'immeuble",
+   "lieu": "Rue Dries 197, 1200 Woluwe-Saint-Lambert",
+   "type": "",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='18/SFD/2050133'",
+   "verif": "vérifié",
+   "verif_date": "2026-10-22",
+   "preuve": "Demande de permis 18/SFD/2050133 reçue le 2026-10-21 (urban.brussels, service NOVA), surface projetée 232 m².",
+   "date_publication": "2026-10-21",
+   "notes": "Autorité : BUP",
+   "first_seen": "2026-10-22T12:02:20Z"
   },
   {
    "id": "nova-04/PU/2049805",
