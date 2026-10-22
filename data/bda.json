@@ -1,24 +1,12 @@
 {
- "updated": "2026-10-22T07:59:01Z",
+ "updated": "2026-10-22T08:05:43Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 832,
- "kept": 395,
- "count": 2038,
+ "received": 833,
+ "kept": 396,
+ "count": 2039,
  "new_ids": [
-  "bda-ef9f7b0c-6b85-4225-b552-071f80516729",
-  "bda-68b47f0c-6143-4399-9ddf-c3ecfa501177",
-  "bda-f5481893-28c7-40b2-94e0-5ae930d70701",
-  "bda-062f3fb5-ceaf-4599-b6b4-166bc0fa7fe7",
-  "bda-a7740a6e-46bd-46f7-b81d-f04672d905d3",
-  "bda-dac35bfb-8142-497c-a6dd-80eb142152c9",
-  "bda-cd08ba1f-411b-4b83-8bef-8ef77de694da",
-  "bda-a7f1db46-c1e4-44d4-91ce-dd1fcac3dcd2",
-  "bda-7cccbe7a-2481-458f-bbde-5350b3b452e1",
-  "bda-dafe779e-2c3f-476c-b494-900e6a93cde8",
-  "bda-a0466fd9-18b3-42c9-a97d-bf258c38e750",
-  "bda-2e74dccc-96c6-475c-9345-273c6fa6accf",
-  "bda-3511e676-411e-44d5-a5f8-637e724fb041"
+  "bda-c0398114-a9c7-472e-a3d6-6d6d0240a92e"
  ],
  "records": [
   {
@@ -965,6 +953,27 @@
    "procedure": "675993c5-46c9-4a13-9aec-c5bda2facd7c",
    "dossier": "PPP07G-3116/6855/V-2026-3116",
    "first_seen": "2026-10-22T07:59:01Z"
+  },
+  {
+   "id": "bda-c0398114-a9c7-472e-a3d6-6d6d0240a92e",
+   "source_type": "BDA",
+   "nom": "AMENAGEMENT DU PARKING DE L'ECOLE DU GRAND JARDIN",
+   "lieu": "Bruxelles",
+   "province": "Bruxelles",
+   "mo": "Saint-Ghislain",
+   "etape": 4,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/c0398114-a9c7-472e-a3d6-6d6d0240a92e",
+   "verif": "vérifié",
+   "verif_date": "2026-10-22",
+   "preuve": "Bulletin des Adjudications, réf. PPP0FH-1334/6369/20260050 (avis de marché, sous-type eForms 16), publié le 2026-10-22.",
+   "date_publication": "2026-10-22",
+   "cpv": "45233140",
+   "ted_ref": "",
+   "notes": "AMENAGEMENT DU PARKING DE L'ECOLE DU GRAND JARDIN",
+   "procedure": "345fa900-1d92-426a-9b4f-464e9ce7d37b",
+   "dossier": "PPP0FH-1334/6369/20260050",
+   "first_seen": "2026-10-22T08:05:43Z"
   },
   {
    "id": "bda-f5f63a5b-5329-4382-ac63-295ef64fbabe",
@@ -7658,7 +7667,7 @@
    "verif_date": "2026-10-22",
    "preuve": "Bulletin des Adjudications, réf. NPSV-OMVB-26-03 (attribution, sous-type eForms E4), publié le 2026-10-19.",
    "date_publication": "2026-10-19",
-   "cpv": "44000000,79930000,45223210,39294100,39294000,14622000,22000000,45262400,79934000,45223000",
+   "cpv": "44000000,79930000,45223210,39294100,39294000,14622000,45262400,22000000,79934000,45223000",
    "ted_ref": "",
    "notes": "Nationaal Park Scheldevallei heeft de ambitie om een kwaliteitsvolle en uniforme bezoekersinfrastructuur te voorzien. Dit omvat onder meer duurzaam buitenmeubilair en duidelijke informatieborden, die bijdragen aan de beleving en herkenbaarheid van het nationaal park. In kader van het Sigmaplan zijn ",
    "procedure": "a84eda4a-77b5-4951-b96e-701eaf56665e",
