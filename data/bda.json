@@ -1,25 +1,12 @@
 {
- "updated": "2026-10-22T14:01:55Z",
+ "updated": "2026-10-22T14:06:44Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 937,
- "kept": 441,
- "count": 2068,
+ "received": 938,
+ "kept": 442,
+ "count": 2069,
  "new_ids": [
-  "bda-e947de3c-2561-4e97-b611-d8b873eaf910",
-  "bda-a2297992-80ff-472d-87e0-7b1bc8686a27",
-  "bda-272840e4-8780-4738-9802-59f520db9204",
-  "bda-1277bf3e-671a-4d19-9b38-3fb9e56ccdcb",
-  "bda-3cc33349-3d82-49a2-81cb-5c10e956f9d1",
-  "bda-1a37e674-9f6b-4791-a6c1-ef9b1c946bf1",
-  "bda-d1e5c1ee-d164-49b8-818a-f0371d2317ea",
-  "bda-c27f9dc3-6ac1-41bc-8349-dca91d6fdfb2",
-  "bda-e085eb7c-96aa-46ed-84cd-704e77e9ba9e",
-  "bda-966e7871-d421-48e6-a623-20bcd6288285",
-  "bda-6b735408-d5f3-4213-abc7-3d9246f3efb4",
-  "bda-f1cee8fc-046c-4d14-9a93-3d946eccf09d",
-  "bda-c611a820-556e-460d-9e3f-f52f60222080",
-  "bda-d36101c8-c4ad-4631-917b-053bd993dc8b"
+  "bda-c4bd16a5-17fd-4449-b455-941fdd2db386"
  ],
  "records": [
   {
@@ -2037,6 +2024,27 @@
    "procedure": "4d5c587e-a331-4244-abc9-db6aceefddef",
    "dossier": "BAT 2026/004 bis",
    "first_seen": "2026-10-22T14:01:55Z"
+  },
+  {
+   "id": "bda-c4bd16a5-17fd-4449-b455-941fdd2db386",
+   "source_type": "BDA",
+   "nom": "Marché public de travaux de mise en conformité du Musée Rops",
+   "lieu": "Namur",
+   "province": "Namur",
+   "mo": "Province de Namur - Service des marchés publics",
+   "etape": 4,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/c4bd16a5-17fd-4449-b455-941fdd2db386",
+   "verif": "vérifié",
+   "verif_date": "2026-10-22",
+   "preuve": "Bulletin des Adjudications, réf. STPI 2026/71 (avis de marché, sous-type eForms E3), publié le 2026-10-22.",
+   "date_publication": "2026-10-22",
+   "cpv": "45000000",
+   "ted_ref": "",
+   "notes": "Mise en conformité électrique",
+   "procedure": "862cc901-1a54-4a77-917a-78cf3c1a4d9a",
+   "dossier": "STPI 2026/71",
+   "first_seen": "2026-10-22T14:06:44Z"
   },
   {
    "id": "bda-f5f63a5b-5329-4382-ac63-295ef64fbabe",
@@ -8625,7 +8633,7 @@
    "verif_date": "2026-10-22",
    "preuve": "Bulletin des Adjudications, réf. NPSV-OMVB-26-03 (attribution, sous-type eForms E4), publié le 2026-10-19.",
    "date_publication": "2026-10-19",
-   "cpv": "44000000,79930000,45223210,39294100,39294000,14622000,45262400,22000000,79934000,45223000",
+   "cpv": "44000000,79930000,45223210,39294100,39294000,14622000,22000000,45262400,79934000,45223000",
    "ted_ref": "",
    "notes": "Nationaal Park Scheldevallei heeft de ambitie om een kwaliteitsvolle en uniforme bezoekersinfrastructuur te voorzien. Dit omvat onder meer duurzaam buitenmeubilair en duidelijke informatieborden, die bijdragen aan de beleving en herkenbaarheid van het nationaal park. In kader van het Sigmaplan zijn ",
    "procedure": "a84eda4a-77b5-4951-b96e-701eaf56665e",
