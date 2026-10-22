@@ -1,19 +1,12 @@
 {
- "updated": "2026-10-22T16:02:05Z",
+ "updated": "2026-10-22T18:01:59Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 956,
- "kept": 452,
- "count": 2077,
+ "received": 958,
+ "kept": 453,
+ "count": 2078,
  "new_ids": [
-  "bda-6dedc187-6480-4fc1-9370-95f83d2eb7ee",
-  "bda-6b751bb6-9665-419f-9d63-c2093c3fea1e",
-  "bda-b3bf6087-b1f5-4748-9acd-06f2f69b6f1d",
-  "bda-7a615176-83c1-49c1-84fc-b4b8f8ec03e9",
-  "bda-5bb30f7c-dcc1-41cf-93f0-cb00702a88ac",
-  "bda-db819eb9-eb1c-4bc9-917b-6b09e2c17316",
-  "bda-2906aab7-70ff-4478-9bd2-0cc8f85f0e6e",
-  "bda-f082bbd5-ea48-43f3-8868-0d146623eacf"
+  "bda-e7c0df26-750f-4bd0-b115-6fcb0355f1f5"
  ],
  "records": [
   {
@@ -2283,6 +2276,27 @@
    "procedure": "96a8215f-808c-4cfd-84b9-69e234735e55",
    "dossier": "PPP004-916/6079/OW 2610",
    "first_seen": "2026-10-22T16:02:05Z"
+  },
+  {
+   "id": "bda-e7c0df26-750f-4bd0-b115-6fcb0355f1f5",
+   "source_type": "BDA",
+   "nom": "Aménagement des abords et de la Place d'Hymiée",
+   "lieu": "Bruxelles",
+   "province": "Bruxelles",
+   "mo": "Gerpinnes",
+   "etape": 4,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/e7c0df26-750f-4bd0-b115-6fcb0355f1f5",
+   "verif": "vérifié",
+   "verif_date": "2026-10-22",
+   "preuve": "Bulletin des Adjudications, réf. PPP05B-1639/6216/20261639 (avis de marché, sous-type eForms 16), publié le 2026-10-22.",
+   "date_publication": "2026-10-22",
+   "cpv": "45233140,45233200,45223300",
+   "ted_ref": "",
+   "notes": "Aménagement des abords et de la Place d'Hymiée Les travaux s’effectuent sur un réseau de type IIIa. ils consistent principalement en l'aménagement de parking et de trottoirs aux abords de l'école , de la maison de village et de la place, en pavés béton et dalles-gazon béton. Les travaux décrits ci-d",
+   "procedure": "e14746af-5684-45a9-b6f9-f077f09cbdd1",
+   "dossier": "PPP05B-1639/6216/20261639",
+   "first_seen": "2026-10-22T18:01:59Z"
   },
   {
    "id": "bda-f5f63a5b-5329-4382-ac63-295ef64fbabe",
