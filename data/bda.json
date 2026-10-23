@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-23T01:58:33Z",
+ "updated": "2026-10-23T02:08:43Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
  "received": 720,
- "kept": 353,
+ "kept": 354,
  "count": 2082,
  "new_ids": [],
  "records": [
@@ -90,6 +90,27 @@
    "procedure": "2e88bf9e-2b38-43e8-9072-df2beae1ab78",
    "dossier": "PPP0IW-623/6084/AC/1165/2026/0009",
    "first_seen": "2026-10-22T22:06:27Z"
+  },
+  {
+   "id": "bda-7254702b-8c81-40f8-a722-8c66e878eb13",
+   "source_type": "BDA",
+   "nom": "Het aanstellen van een architect voor ontwerp en realisatie van de renovatie van het hoofdgebouw op de Deynecampus",
+   "lieu": "",
+   "province": "",
+   "mo": "MFC Styrka",
+   "etape": 1,
+   "sur_ted": true,
+   "source": "https://www.publicprocurement.be/publication-workspaces/7254702b-8c81-40f8-a722-8c66e878eb13",
+   "verif": "vérifié",
+   "verif_date": "2026-10-23",
+   "preuve": "Bulletin des Adjudications, réf. 202610_STY (avis de marché, sous-type eForms 16), publié le 2026-10-23.",
+   "date_publication": "2026-10-23",
+   "cpv": "71200000,71000000",
+   "ted_ref": "202610_STY_pub01",
+   "notes": "Het aanstellen van een architect voor ontwerp en realisatie van de renovatie van het hoofdgebouw op de Deynecampus",
+   "procedure": "697dd67e-ad64-4406-8cd4-42426f84c23c",
+   "dossier": "202610_STY",
+   "first_seen": "2026-10-13T04:01:37Z"
   },
   {
    "id": "bda-a6e197d4-25b2-44eb-bd8b-7ba3fea270c0",
@@ -16826,27 +16847,6 @@
    "notes": "Il s'agit d'une concession de travaux comprenant, à titre de modalités immobilières d’exécution, des cessions de quotités de terrain avec charges et une renonciation temporaire au droit d’accession. La concession porte, dès sa conclusion, sur l’ensemble des études, démarches de permis, financements,",
    "procedure": "6b2daa21-a447-4432-9f45-5ba4ca7a72dd",
    "dossier": "2026 - Commune de Marchin - Concession de travaux- Dix Bonniers",
-   "first_seen": "2026-10-13T04:01:37Z"
-  },
-  {
-   "id": "bda-7254702b-8c81-40f8-a722-8c66e878eb13",
-   "source_type": "BDA",
-   "nom": "Het aanstellen van een architect voor ontwerp en realisatie van de renovatie van het hoofdgebouw op de Deynecampus",
-   "lieu": "",
-   "province": "",
-   "mo": "MFC Styrka",
-   "etape": 1,
-   "sur_ted": true,
-   "source": "https://www.publicprocurement.be/publication-workspaces/7254702b-8c81-40f8-a722-8c66e878eb13",
-   "verif": "vérifié",
-   "verif_date": "2026-10-15",
-   "preuve": "Bulletin des Adjudications, réf. 202610_STY (avis de marché, sous-type eForms 16), publié le 2026-10-13.",
-   "date_publication": "2026-10-13",
-   "cpv": "71200000,71000000",
-   "ted_ref": "202610_STY_pub01",
-   "notes": "Het aanstellen van een architect voor ontwerp en realisatie van de renovatie van het hoofdgebouw op de Deynecampus",
-   "procedure": "697dd67e-ad64-4406-8cd4-42426f84c23c",
-   "dossier": "202610_STY",
    "first_seen": "2026-10-13T04:01:37Z"
   },
   {
