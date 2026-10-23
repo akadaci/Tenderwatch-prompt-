@@ -1,14 +1,14 @@
 {
  "meta": {
-  "totalCount": 293080
+  "totalCount": 293082
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
   "ACTIVE|10|['SUPPLIES']",
+  "ACTIVE|16|['SERVICES', 'SUPPLIES']",
+  "ACTIVE|16|['SERVICES', 'WORKS']",
   "ACTIVE|16|['SERVICES']",
-  "ACTIVE|16|['SUPPLIES', 'SERVICES']",
   "ACTIVE|16|['SUPPLIES']",
-  "ACTIVE|16|['WORKS', 'SERVICES']",
   "ACTIVE|16|['WORKS', 'SUPPLIES']",
   "ACTIVE|16|['WORKS']",
   "ACTIVE|17|['SERVICES']",
@@ -19,13 +19,13 @@
   "ACTIVE|21|['WORKS']",
   "ACTIVE|23|['WORKS']",
   "ACTIVE|25|['SUPPLIES']",
+  "ACTIVE|29|['SERVICES', 'SUPPLIES', 'WORKS']",
+  "ACTIVE|29|['SERVICES', 'SUPPLIES']",
   "ACTIVE|29|['SERVICES']",
-  "ACTIVE|29|['SUPPLIES', 'SERVICES']",
   "ACTIVE|29|['SUPPLIES']",
-  "ACTIVE|29|['WORKS', 'SUPPLIES', 'SERVICES']",
   "ACTIVE|29|['WORKS']",
+  "ACTIVE|30|['SERVICES', 'SUPPLIES']",
   "ACTIVE|30|['SERVICES']",
-  "ACTIVE|30|['SUPPLIES', 'SERVICES']",
   "ACTIVE|30|['SUPPLIES']",
   "ACTIVE|30|['WORKS', 'SUPPLIES']",
   "ACTIVE|30|['WORKS']",
@@ -35,20 +35,20 @@
   "ACTIVE|34|['SERVICES']",
   "ACTIVE|34|['SUPPLIES']",
   "ACTIVE|4|['SERVICES']",
+  "ACTIVE|E1|['SERVICES', 'SUPPLIES']",
   "ACTIVE|E1|['SERVICES']",
-  "ACTIVE|E1|['SUPPLIES', 'SERVICES']",
   "ACTIVE|E1|['SUPPLIES']",
   "ACTIVE|E1|['WORKS']",
+  "ACTIVE|E3|['SERVICES', 'SUPPLIES']",
+  "ACTIVE|E3|['SERVICES', 'WORKS']",
   "ACTIVE|E3|['SERVICES']",
-  "ACTIVE|E3|['SUPPLIES', 'SERVICES']",
   "ACTIVE|E3|['SUPPLIES']",
-  "ACTIVE|E3|['WORKS', 'SERVICES']",
   "ACTIVE|E3|['WORKS', 'SUPPLIES']",
   "ACTIVE|E3|['WORKS']",
+  "ACTIVE|E4|['SERVICES', 'SUPPLIES']",
+  "ACTIVE|E4|['SERVICES', 'WORKS']",
   "ACTIVE|E4|['SERVICES']",
-  "ACTIVE|E4|['SUPPLIES', 'SERVICES']",
   "ACTIVE|E4|['SUPPLIES']",
-  "ACTIVE|E4|['WORKS', 'SERVICES']",
   "ACTIVE|E4|['WORKS', 'SUPPLIES']",
   "ACTIVE|E4|['WORKS']"
  ],
@@ -118,12 +118,12 @@
     "referenceNumber": "CM019BU2025 – 0012675",
     "titles": [
      {
-      "language": "NL",
-      "text": "Deelnemen aan een marktconsultatie in het station van BRUSSEL-ZUID concept onthaalbureau en check in van luchtvaartmaatschappij(en)"
-     },
-     {
       "language": "FR",
       "text": "Participer à une consultation de marché dans la gare de BRUXELLES-MIDI, Concept bureau d’accueil/check in pour compagnie(s) aérienne(s)"
+     },
+     {
+      "language": "NL",
+      "text": "Deelnemen aan een marktconsultatie in het station van BRUSSEL-ZUID concept onthaalbureau en check in van luchtvaartmaatschappij(en)"
      }
     ]
    },
@@ -132,12 +132,12 @@
     {
      "descriptions": [
       {
-       "language": "NL",
-       "text": "NMBS is op zoek naar een kandidaat-concessiehouder voor de uitbating van een onthaalbalie en registratie van een luchtvaartmaatschappij in het station Brussel-Zuid.  Door deze balie aangeboden diensten : • Onthaal- en check-in diensten  • Bagageafgifte de dag vóór vertrek & op de dag van vertrek Een gratis dienst voor bagageafgifte en -check-in wordt aangeboden aan reizigers met een gecombineerd trein- en vliegticket. De bagage wordt ingecheckt tot aan de eindbestemming. (Bijvoorbeeld: de reiziger neemt eerst de trein naar Paris-Charles de Gaulle, waarna de bagage automatisch wordt doorgestuurd naar het ruim van het vliegtuig.)  Op de dag van vertrek kan de passagier dus zonder bagage reizen en deze rechtstreeks ophalen bij aankomst. • Afhaling van het treinticket & check-in Het kantoor in het station Brussel-Zuid biedt eveneens de mogelijkheid om: • het treinticket verbonden aan het gecombineerd ticket af te halen, • op de dag van vertrek de instapkaart van de luchtvaartmaatschappij te verkrijgen. • Lounges & ontspanningsruimtes Als aanvulling op de onthaal- en incheckdiensten kan de concessiehouder een premiumruimte ter beschikking stellen voor reizigers met een gecombineerd trein- en vliegticket, om hun comfort en reiservaring aanzienlijk te verbeteren. "
-      },
-      {
        "language": "FR",
        "text": "La SNCB est à la recherche d’un candidat concessionnaire pour l’exploitation d'un bureau d'accueil et enregistrement d'une compagnie aérienne en gare de Bruxelles-Midi.  Services proposés par ce bureau ; • Services d’accueil et d’enregistrement • Dépôt des bagages la veille du départ & le jour même du départ Un service gratuit de dépose et d’enregistrement des bagages est proposé aux voyageurs disposant d’un billet combiné train + avion. Les bagages sont enregistrés jusqu’à la destination finale. (Par exemple : ils voyagent d’abord en train vers Paris-Charles de Gaulle, puis sont automatiquement transférés vers la soute de l’avion.)  Le jour du départ, le passager peut ainsi voyager sans bagage et les récupère directement à l’arrivée. • Récupération du billet de train & check-in Le bureau situé dans la gare de Bruxelles Midi permet également : • de récupérer le billet de train associé au billet combiné, • d’obtenir la carte d’embarquement de la compagnie aérienne le jour du départ. • Salons & espaces de détente En complément des services d’accueil et d’enregistrement, le concessionnaire pourra proposer la mise à disposition d’un espace premium dédié aux voyageurs munis d’un billet combiné train + avion, afin d’améliorer significativement leur confort et leur expérience de voyage. "
+      },
+      {
+       "language": "NL",
+       "text": "NMBS is op zoek naar een kandidaat-concessiehouder voor de uitbating van een onthaalbalie en registratie van een luchtvaartmaatschappij in het station Brussel-Zuid.  Door deze balie aangeboden diensten : • Onthaal- en check-in diensten  • Bagageafgifte de dag vóór vertrek & op de dag van vertrek Een gratis dienst voor bagageafgifte en -check-in wordt aangeboden aan reizigers met een gecombineerd trein- en vliegticket. De bagage wordt ingecheckt tot aan de eindbestemming. (Bijvoorbeeld: de reiziger neemt eerst de trein naar Paris-Charles de Gaulle, waarna de bagage automatisch wordt doorgestuurd naar het ruim van het vliegtuig.)  Op de dag van vertrek kan de passagier dus zonder bagage reizen en deze rechtstreeks ophalen bij aankomst. • Afhaling van het treinticket & check-in Het kantoor in het station Brussel-Zuid biedt eveneens de mogelijkheid om: • het treinticket verbonden aan het gecombineerd ticket af te halen, • op de dag van vertrek de instapkaart van de luchtvaartmaatschappij te verkrijgen. • Lounges & ontspanningsruimtes Als aanvulling op de onthaal- en incheckdiensten kan de concessiehouder een premiumruimte ter beschikking stellen voor reizigers met een gecombineerd trein- en vliegticket, om hun comfort en reiservaring aanzienlijk te verbeteren. "
       }
      ],
      "reservedExecution": [
@@ -148,11 +148,11 @@
      ],
      "titles": [
       {
-       "language": "FR",
+       "language": "NL",
        "text": "CM019BU2025 – 0012675 - 1"
       },
       {
-       "language": "NL",
+       "language": "FR",
        "text": "CM019BU2025 – 0012675 - 1"
       }
      ]
@@ -172,7 +172,11 @@
     "organisationId": 5644,
     "organisationNames": [
      {
-      "language": "EN",
+      "language": "NL",
+      "text": "NMBS-Stations Commercialisation"
+     },
+     {
+      "language": "FR",
       "text": "SNCB-Stations Commercialisation"
      },
      {
@@ -180,11 +184,7 @@
       "text": "SNCB-Stations Commercialisation"
      },
      {
-      "language": "NL",
-      "text": "NMBS-Stations Commercialisation"
-     },
-     {
-      "language": "FR",
+      "language": "EN",
       "text": "SNCB-Stations Commercialisation"
      }
     ],
@@ -215,29 +215,12 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "80500000-9",
+     "code": "80000000-4",
      "descriptions": [
       {
        "language": "NL",
-       "text": "Opleidingsdiensten"
+       "text": "Diensten voor onderwijs en opleiding"
       },
-      {
-       "language": "EN",
-       "text": "Training services"
-      },
-      {
-       "language": "FR",
-       "text": "Services de formation"
-      },
-      {
-       "language": "DE",
-       "text": "Ausbildung"
-      }
-     ]
-    },
-    {
-     "code": "80000000-4",
-     "descriptions": [
       {
        "language": "EN",
        "text": "Education and training services"
@@ -249,10 +232,27 @@
       {
        "language": "DE",
        "text": "Allgemeine und berufliche Bildung"
+      }
+     ]
+    },
+    {
+     "code": "80500000-9",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Services de formation"
       },
       {
        "language": "NL",
-       "text": "Diensten voor onderwijs en opleiding"
+       "text": "Opleidingsdiensten"
+      },
+      {
+       "language": "EN",
+       "text": "Training services"
+      },
+      {
+       "language": "DE",
+       "text": "Ausbildung"
       }
      ]
     }
@@ -260,6 +260,10 @@
    "cpvMainCode": {
     "code": "80000000-4",
     "descriptions": [
+     {
+      "language": "NL",
+      "text": "Diensten voor onderwijs en opleiding"
+     },
      {
       "language": "EN",
       "text": "Education and training services"
@@ -271,10 +275,6 @@
      {
       "language": "DE",
       "text": "Allgemeine und berufliche Bildung"
-     },
-     {
-      "language": "NL",
-      "text": "Diensten voor onderwijs en opleiding"
      }
     ]
    },
@@ -302,6 +302,26 @@
    },
    "insertionDate": "2026-10-23",
    "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Basisopleiding voor nieuwe bestuurders en bijscholingen (hernieuwing attest) voor ervaren bestuurders van hoogwerker, schaarlift en telescopische hoogwerker."
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Opleiding veiligheid: in de hoogte werken (open aanbod)"
+      }
+     ]
+    },
     {
      "descriptions": [
       {
@@ -361,26 +381,6 @@
        "text": "Opleiding vakbekwaamheid: code 95 (open aanbod)"
       }
      ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Basisopleiding voor nieuwe bestuurders en bijscholingen (hernieuwing attest) voor ervaren bestuurders van hoogwerker, schaarlift en telescopische hoogwerker."
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Opleiding veiligheid: in de hoogte werken (open aanbod)"
-      }
-     ]
     }
    ],
    "natures": [
@@ -397,6 +397,10 @@
     "organisationId": 484,
     "organisationNames": [
      {
+      "language": "DE",
+      "text": "Kortrijk"
+     },
+     {
       "language": "NL",
       "text": "Kortrijk"
      },
@@ -406,10 +410,6 @@
      },
      {
       "language": "EN",
-      "text": "Kortrijk"
-     },
-     {
-      "language": "DE",
       "text": "Kortrijk"
      }
     ],
@@ -446,12 +446,12 @@
        "text": "Landbouwmachines"
       },
       {
-       "language": "FR",
-       "text": "Machines agricoles"
-      },
-      {
        "language": "EN",
        "text": "Agricultural machinery"
+      },
+      {
+       "language": "FR",
+       "text": "Machines agricoles"
       },
       {
        "language": "DE",
@@ -468,12 +468,12 @@
       "text": "Landbouwmachines"
      },
      {
-      "language": "FR",
-      "text": "Machines agricoles"
-     },
-     {
       "language": "EN",
       "text": "Agricultural machinery"
+     },
+     {
+      "language": "FR",
+      "text": "Machines agricoles"
      },
      {
       "language": "DE",
@@ -586,29 +586,12 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "80500000-9",
+     "code": "80000000-4",
      "descriptions": [
       {
        "language": "NL",
-       "text": "Opleidingsdiensten"
+       "text": "Diensten voor onderwijs en opleiding"
       },
-      {
-       "language": "EN",
-       "text": "Training services"
-      },
-      {
-       "language": "FR",
-       "text": "Services de formation"
-      },
-      {
-       "language": "DE",
-       "text": "Ausbildung"
-      }
-     ]
-    },
-    {
-     "code": "80000000-4",
-     "descriptions": [
       {
        "language": "EN",
        "text": "Education and training services"
@@ -620,10 +603,27 @@
       {
        "language": "DE",
        "text": "Allgemeine und berufliche Bildung"
+      }
+     ]
+    },
+    {
+     "code": "80500000-9",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Services de formation"
       },
       {
        "language": "NL",
-       "text": "Diensten voor onderwijs en opleiding"
+       "text": "Opleidingsdiensten"
+      },
+      {
+       "language": "EN",
+       "text": "Training services"
+      },
+      {
+       "language": "DE",
+       "text": "Ausbildung"
       }
      ]
     }
@@ -631,6 +631,10 @@
    "cpvMainCode": {
     "code": "80000000-4",
     "descriptions": [
+     {
+      "language": "NL",
+      "text": "Diensten voor onderwijs en opleiding"
+     },
      {
       "language": "EN",
       "text": "Education and training services"
@@ -642,10 +646,6 @@
      {
       "language": "DE",
       "text": "Allgemeine und berufliche Bildung"
-     },
-     {
-      "language": "NL",
-      "text": "Diensten voor onderwijs en opleiding"
      }
     ]
    },
@@ -673,6 +673,26 @@
    },
    "insertionDate": "2026-10-23",
    "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Basisopleiding voor nieuwe bestuurders en bijscholingen (hernieuwing attest) voor ervaren bestuurders van hoogwerker, schaarlift en telescopische hoogwerker."
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Opleiding veiligheid: in de hoogte werken (open aanbod)"
+      }
+     ]
+    },
     {
      "descriptions": [
       {
@@ -732,26 +752,6 @@
        "text": "Opleiding vakbekwaamheid: code 95 (open aanbod)"
       }
      ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Basisopleiding voor nieuwe bestuurders en bijscholingen (hernieuwing attest) voor ervaren bestuurders van hoogwerker, schaarlift en telescopische hoogwerker."
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Opleiding veiligheid: in de hoogte werken (open aanbod)"
-      }
-     ]
     }
    ],
    "natures": [
@@ -768,6 +768,10 @@
     "organisationId": 484,
     "organisationNames": [
      {
+      "language": "DE",
+      "text": "Kortrijk"
+     },
+     {
       "language": "NL",
       "text": "Kortrijk"
      },
@@ -777,10 +781,6 @@
      },
      {
       "language": "EN",
-      "text": "Kortrijk"
-     },
-     {
-      "language": "DE",
       "text": "Kortrijk"
      }
     ],
