@@ -1,11 +1,13 @@
 {
- "updated": "2026-10-23T18:54:55Z",
+ "updated": "2026-10-23T20:11:30Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 933,
- "kept": 447,
- "count": 2152,
- "new_ids": [],
+ "received": 934,
+ "kept": 448,
+ "count": 2153,
+ "new_ids": [
+  "bda-72011bb4-9744-4195-8b27-339f89600ae0"
+ ],
  "records": [
   {
    "id": "bda-0f952e7c-560a-448b-896a-2d80205d19e5",
@@ -2169,6 +2171,27 @@
    "procedure": "c6e229a0-1439-4b82-a89e-69a084b5b3bd",
    "dossier": "BFA23001-10090",
    "first_seen": "2026-10-15T00:01:45Z"
+  },
+  {
+   "id": "bda-72011bb4-9744-4195-8b27-339f89600ae0",
+   "source_type": "BDA",
+   "nom": "Le démontage et évacuation d’une toiture en ardoise amiante et le placement d’une nouvelle toiture avec tous ses accessoires",
+   "lieu": "Bruxelles",
+   "province": "Bruxelles",
+   "mo": "Direction régionale de Bruxelles",
+   "etape": 4,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/72011bb4-9744-4195-8b27-339f89600ae0",
+   "verif": "vérifié",
+   "verif_date": "2026-10-23",
+   "preuve": "Bulletin des Adjudications, réf. EP26158489-11 (avis de marché, sous-type eForms 16), publié le 2026-10-23.",
+   "date_publication": "2026-10-23",
+   "cpv": "45261212",
+   "ted_ref": "",
+   "notes": "Ce projet comprend la mise en place des équipements de chantier et de sécurité (échafaudages périphériques) afin d'effectuer le désamiantage réglementaire de la toiture (188 m² d'ardoises amiante-ciment). Après dépose complète des anciens éléments (système solaire, lattes, isolation et gouttières), ",
+   "procedure": "b37eab38-84fd-4b83-b628-c72a2ae6314b",
+   "dossier": "EP26158489-11",
+   "first_seen": "2026-10-23T20:11:30Z"
   },
   {
    "id": "bda-a6e197d4-25b2-44eb-bd8b-7ba3fea270c0",
