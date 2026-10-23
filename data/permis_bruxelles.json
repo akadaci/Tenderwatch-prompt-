@@ -1,16 +1,52 @@
 {
- "updated": "2026-10-23T10:02:02Z",
+ "updated": "2026-10-23T12:01:48Z",
  "source": "urban.brussels NOVA (WFS)",
  "days_back": 3,
- "received": 60,
- "kept": 11,
- "count": 120,
- "new_ids": [],
+ "received": 66,
+ "kept": 14,
+ "count": 123,
+ "new_ids": [
+  "nova-16/PU/2050316",
+  "nova-04/PU/2050305",
+  "nova-14/PFD/2050329"
+ ],
  "records": [
+  {
+   "id": "nova-16/PU/2050316",
+   "source_type": "Permis",
+   "nom": "Permis d'urbanisme privé",
+   "lieu": "Avenue Jacques Pastur, 1180 Uccle",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='16/PU/2050316'",
+   "verif": "vérifié",
+   "verif_date": "2026-10-23",
+   "preuve": "Demande de permis 16/PU/2050316 reçue le 2026-10-23 (urban.brussels, service NOVA), surface projetée 1097 m².",
+   "date_publication": "2026-10-23",
+   "notes": "Autorité : Uccle",
+   "first_seen": "2026-10-23T12:01:48Z"
+  },
+  {
+   "id": "nova-04/PU/2050305",
+   "source_type": "Permis",
+   "nom": "Prolongation de l'installation de 5 logements (studios) temporaires (constructions modulaires) à destination de personnes sans abri dans l'attente de l'octroi d'un permis d'urbanisme pour un terrain s",
+   "lieu": "Rue de Heembeek 43, 1120 Bruxelles",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='04/PU/2050305'",
+   "verif": "vérifié",
+   "verif_date": "2026-10-23",
+   "preuve": "Demande de permis 04/PU/2050305 reçue le 2026-10-23 (urban.brussels, service NOVA), surface projetée 130 m².",
+   "date_publication": "2026-10-23",
+   "notes": "Autorité : Bruxelles",
+   "first_seen": "2026-10-23T12:01:48Z"
+  },
   {
    "id": "nova-06/PFD/2050296",
    "source_type": "Permis",
-   "nom": "Permis d'urbanisme délivré par le FD",
+   "nom": "Construire 'une pouponnière pour 48 enfants, abattre deux arbres et régulariser la démolition des trois maisons (démolies en 2021 par la commune d'Evere)",
    "lieu": "Rue Pierre Dupont 157, 1140 Evere",
    "type": "Permis d'urbanisme délivré par le FD",
    "mo": "",
@@ -26,7 +62,7 @@
   {
    "id": "nova-15/PFD/2050290",
    "source_type": "Permis",
-   "nom": "Permis d'urbanisme délivré par le FD",
+   "nom": "MODIFIER UN PROJET AUTORISE PAR PERMIS D'URBANISME LE 27.05.2024 REF: 15PFD1846762 DEMANDE DE REAMENAGEMENT DES ABORDS + CHANGEMENT D'AFFECTATION DE BUREAUX VERS EQUIPEMENT D'INTERET COLLECTIF OU DE S",
    "lieu": "Rue Colonel Bourg 101, 1030 Schaerbeek",
    "type": "Permis d'urbanisme délivré par le FD",
    "mo": "",
@@ -58,7 +94,7 @@
   {
    "id": "nova-14/PU/2049957",
    "source_type": "Permis",
-   "nom": "Permis d'urbanisme privé",
+   "nom": "Rénovation et isolation de l’enveloppe, adjontcion d'une VMC et réaménagement des abords d’un immeuble de 78 logements sociaux en site occupé.",
    "lieu": "Rue du Moulin 41, 1210 Saint-Josse-ten-Noode",
    "type": "Permis d'urbanisme privé",
    "mo": "",
@@ -68,7 +104,7 @@
    "verif_date": "2026-10-23",
    "preuve": "Demande de permis 14/PU/2049957 reçue le 2026-10-21 (urban.brussels, service NOVA), surface projetée 9005 m².",
    "date_publication": "2026-10-21",
-   "notes": "Autorité : Saint-Josse-ten-Noode",
+   "notes": "Autorité : Saint-Josse-ten-Noode · statut : Annulé",
    "first_seen": "2026-10-21T10:36:47Z"
   },
   {
@@ -134,6 +170,22 @@
    "date_publication": "2026-10-21",
    "notes": "Autorité : Berchem-Sainte-Agathe",
    "first_seen": "2026-10-23T04:01:50Z"
+  },
+  {
+   "id": "nova-14/PFD/2050329",
+   "source_type": "Permis",
+   "nom": "Rénover et isoler l’enveloppe, adjontcion d'une VMC et réaménagement des abords d’un immeuble de 78 logements sociaux en site occupé.",
+   "lieu": "Rue du Moulin 41, 1210 Saint-Josse-ten-Noode",
+   "type": "Permis d'urbanisme délivré par le FD",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='14/PFD/2050329'",
+   "verif": "vérifié",
+   "verif_date": "2026-10-23",
+   "preuve": "Demande de permis 14/PFD/2050329 reçue le 2026-10-21 (urban.brussels, service NOVA), surface projetée 9005 m².",
+   "date_publication": "2026-10-21",
+   "notes": "Autorité : BUP",
+   "first_seen": "2026-10-23T12:01:48Z"
   },
   {
    "id": "nova-04/PU/2049805",
