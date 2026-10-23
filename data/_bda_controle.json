@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 293082
+  "totalCount": 293106
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -215,66 +215,66 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "80000000-4",
+     "code": "48311100-2",
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Diensten voor onderwijs en opleiding"
-      },
-      {
        "language": "EN",
-       "text": "Education and training services"
+       "text": "Document management system"
       },
       {
        "language": "FR",
-       "text": "Services d'enseignement et de formation"
+       "text": "Système de gestion de documents"
+      },
+      {
+       "language": "NL",
+       "text": "Systeem voor documentenbeheer"
       },
       {
        "language": "DE",
-       "text": "Allgemeine und berufliche Bildung"
+       "text": "Dokumentenverwaltungssystem"
       }
      ]
     },
     {
-     "code": "80500000-9",
+     "code": "48311000-1",
      "descriptions": [
       {
        "language": "FR",
-       "text": "Services de formation"
-      },
-      {
-       "language": "NL",
-       "text": "Opleidingsdiensten"
+       "text": "Logiciel de gestion des documents"
       },
       {
        "language": "EN",
-       "text": "Training services"
+       "text": "Document management software package"
       },
       {
        "language": "DE",
-       "text": "Ausbildung"
+       "text": "Dokumentenverwaltungssoftwarepaket"
+      },
+      {
+       "language": "NL",
+       "text": "Software voor documentenbeheer"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "80000000-4",
+    "code": "48311100-2",
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Diensten voor onderwijs en opleiding"
-     },
-     {
       "language": "EN",
-      "text": "Education and training services"
+      "text": "Document management system"
      },
      {
       "language": "FR",
-      "text": "Services d'enseignement et de formation"
+      "text": "Système de gestion de documents"
+     },
+     {
+      "language": "NL",
+      "text": "Systeem voor documentenbeheer"
      },
      {
       "language": "DE",
-      "text": "Allgemeine und berufliche Bildung"
+      "text": "Dokumentenverwaltungssystem"
      }
     ]
    },
@@ -284,19 +284,18 @@
     "descriptions": [
      {
       "language": "NL",
-      "text": "Stad Kortrijk wil overgaan tot het afsluiten van een raamovereenkomst voor de organisatie van veiligheids- en praktijkgerichte opleidingen in het besturen van mobiele arbeidsmiddelen en voor de organisatie van opleidingen voor het behalen van de vakbekwaamheid – code 95 voor chauffeurs met rijbewijs C.    De opdracht heeft een looptijd van één jaar, met mogelijkheid tot twee stilzwijgende verlengingen van elk ook 12 maanden. De opleidingen worden op afroep georganiseerd.    De opdracht is opgedeeld in 4 percelen:   Perceel 1: “opleiding veiligheid: hijsen en tillen”   Perceel 2: “opleiding veiligheid: in de hoogte werken”   Perceel 3: “opleiding veiligheid: grondverzet”   Perceel 4: “opleiding vakbekwaamheid – code 95”   De aanbestedende overheid heeft het recht slechts enkele percelen toe te wijzen en te besluiten dat de andere in één of meer nieuwe opdrachten worden opgenomen en/of dat deze op een andere wijze zullen worden gegund."
+      "text": "Hasselt University is looking for a configurable, Erasmus without papers (EWP) compliant exchange platform to administer incoming and outgoing end-to-end exchange flows. The minimal viable product (MVP) will focus on partners/interinstitutional agreements (IIA) management, EWP compliance, student workflows (study and traineeship), notifications, templates with digital signatures, report/PowerBI connectivity, grant calculations and Single Sign-On (SSO). Subsequent phases can add deeper integrations and optional features (e.g. additional exchange programme and staff flows) subjected to year to year budget availability.   Universiteit Hasselt is op zoek naar een configureerbaar uitwisselingsplatform dat voldoet aan de \"Erasmus without Papers\" of \"EWP\"-normen, voor het beheer van inkomende en uitgaande uitwisselingsstromen van begin tot eind. Het minimaal levensvatbare product (MVP) zal zich richten op het beheer van partners/interinstitutionele overeenkomsten (IIA), EWP-conformiteit, studentenworkflows (studie en stage), meldingen, sjablonen met digitale handtekeningen, rapportage/PowerBI-connectiviteit, subsidieberekeningen en Single Sign-On (SSO). In volgende fasen kunnen diepere integraties en optionele functies (bijv. aanvullende uitwisselingsprogramma's en personeelsstromen) worden toegevoegd, afhankelijk van de jaarlijkse beschikbaarheid van budget."
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP0I4-3464/6380/2026/3464",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "PPP0I4-3464/6380/2026/3464",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "number": "PPP0FG-1014/6321/2026-029",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP0FG-1014/6321/2026-029",
     "titles": [
      {
       "language": "NL",
-      "text": "Raamovereenkomst voor opleidingen van mobiele arbeidsmiddelen en vakbekwaamheid"
+      "text": "Exchange portaal"
      }
     ]
    },
@@ -306,221 +305,13 @@
      "descriptions": [
       {
        "language": "NL",
-       "text": "Basisopleiding voor nieuwe bestuurders en bijscholingen (hernieuwing attest) voor ervaren bestuurders van hoogwerker, schaarlift en telescopische hoogwerker."
+       "text": "Hasselt University is looking for a configurable, Erasmus without papers (EWP) compliant exchange platform to administer incoming and outgoing end-to-end exchange flows. The minimal viable product (MVP) will focus on partners/interinstitutional agreements (IIA) management, EWP compliance, student workflows (study and traineeship), notifications, templates with digital signatures, report/PowerBI connectivity, grant calculations and Single Sign-On (SSO). Subsequent phases can add deeper integrations and optional features (e.g. additional exchange programme and staff flows) subjected to year to year budget availability.   Universiteit Hasselt is op zoek naar een configureerbaar uitwisselingsplatform dat voldoet aan de \"Erasmus without Papers\" of \"EWP\"-normen, voor het beheer van inkomende en uitgaande uitwisselingsstromen van begin tot eind. Het minimaal levensvatbare product (MVP) zal zich richten op het beheer van partners/interinstitutionele overeenkomsten (IIA), EWP-conformiteit, studentenworkflows (studie en stage), meldingen, sjablonen met digitale handtekeningen, rapportage/PowerBI-connectiviteit, subsidieberekeningen en Single Sign-On (SSO). In volgende fasen kunnen diepere integraties en optionele functies (bijv. aanvullende uitwisselingsprogramma's en personeelsstromen) worden toegevoegd, afhankelijk van de jaarlijkse beschikbaarheid van budget."
       }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
      ],
      "titles": [
       {
        "language": "NL",
-       "text": "Opleiding veiligheid: in de hoogte werken (open aanbod)"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Basisopleiding voor nieuwe bestuurders en bijscholingen (hernieuwing attest) voor ervaren bestuurders van heftruck, stapelaar, autolaadkraan, verreiker en reachtruck."
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Opleiding veiligheid: hijsen en tillen (open aanbod)"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Basisopleiding voor nieuwe bestuurders en bijscholingen (hernieuwing attest) voor ervaren bestuurders van graafmachines."
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Opleiding veiligheid: grondverzet (open aanbod)"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Het doel van de bijscholing in kader van vakbekwaamheid is het verlengen van het bewijs (code 95 op het rijbewijs) met de verplichte 35 uren nascholing."
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Opleiding vakbekwaamheid: code 95 (open aanbod)"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SERVICES"
-   ],
-   "noticeIds": [
-    "185e6908-39b5-41b2-bc02-899f89e8dab3"
-   ],
-   "noticeSubType": "33",
-   "nutsCodes": [
-    "BE100"
-   ],
-   "organisation": {
-    "organisationId": 484,
-    "organisationNames": [
-     {
-      "language": "DE",
-      "text": "Kortrijk"
-     },
-     {
-      "language": "NL",
-      "text": "Kortrijk"
-     },
-     {
-      "language": "FR",
-      "text": "Kortrijk"
-     },
-     {
-      "language": "EN",
-      "text": "Kortrijk"
-     }
-    ],
-    "tree": "200004.200021.484"
-   },
-   "procedureId": "b40fb218-195c-4318-b77d-a72e23c66025",
-   "publicationDate": "2026-10-23",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP0I4-3464/6380/2026/3464_003"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "04fd5b42-3c85-4aab-a548-f600ac6f59b3",
-   "publishedAt": [
-    "2026-10-23T00:00:46.95251"
-   ],
-   "referenceNumber": "PPP0I4-3464/6380/2026/3464_003",
-   "sentAt": [
-    "2026-10-23T00:00:46.95251"
-   ],
-   "tedPublished": false
-  },
-  {
-   "cancelledAt": "2026-10-23T00:00:45.699606",
-   "cpvAdditionalCodes": [
-    {
-     "code": "16000000-5",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Landbouwmachines"
-      },
-      {
-       "language": "EN",
-       "text": "Agricultural machinery"
-      },
-      {
-       "language": "FR",
-       "text": "Machines agricoles"
-      },
-      {
-       "language": "DE",
-       "text": "Landwirtschaftsmaschinen"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "16000000-5",
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Landbouwmachines"
-     },
-     {
-      "language": "EN",
-      "text": "Agricultural machinery"
-     },
-     {
-      "language": "FR",
-      "text": "Machines agricoles"
-     },
-     {
-      "language": "DE",
-      "text": "Landwirtschaftsmaschinen"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-23",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "ACQUISITION D'UN TRACTEUR, D’UNE ÉPAREUSE, D’UN SÉCATEUR À LAMIER ET D’UN SEMOIR POUR LE SERVICE DES TRAVAUX DE LA COMMUNE D'ANTHISNES"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "F2026-005",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "F2026-005",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "ACQUISITION D'UN TRACTEUR, D’UNE ÉPAREUSE, D’UN SÉCATEUR À LAMIER ET D’UN SEMOIR POUR LE SERVICE DES TRAVAUX DE LA COMMUNE D'ANTHISNES"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-02",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "ACQUISITION D'UN TRACTEUR, D’UNE ÉPAREUSE, D’UN SÉCATEUR À LAMIER ET D’UN SEMOIR POUR LE SERVICE DES TRAVAUX DE LA COMMUNE D'ANTHISNES"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "F2026-005 - 1"
+       "text": "Exchange portaal"
       }
      ]
     }
@@ -529,145 +320,127 @@
     "SUPPLIES"
    ],
    "noticeIds": [
-    "0b4e82a8-0b8a-4f01-ab70-cdb81240d710",
-    "569762f1-ebe6-431c-9d4f-97e4a4c27607",
-    "0cae8744-906d-4475-a13f-637622c63596"
+    "c4e94f52-1e19-487c-b647-69daaef1e648"
    ],
-   "noticeSubType": "16",
+   "noticeSubType": "E4",
    "nutsCodes": [
-    "BE331"
+    "BE100"
    ],
    "organisation": {
-    "organisationId": 852,
+    "organisationId": 144,
     "organisationNames": [
      {
       "language": "DE",
-      "text": "Anthisnes"
+      "text": "Universiteit Hasselt"
      },
      {
       "language": "NL",
-      "text": "Anthisnes"
-     },
-     {
-      "language": "FR",
-      "text": "Anthisnes"
+      "text": "Universiteit Hasselt"
      },
      {
       "language": "EN",
-      "text": "Anthisnes"
+      "text": "Universiteit Hasselt"
+     },
+     {
+      "language": "FR",
+      "text": "Universiteit Hasselt"
      }
     ],
-    "tree": "200004.200021.852"
+    "tree": "200004.200026.144"
    },
-   "procedureId": "62e4a16f-b9ea-4e76-8943-06bab8e75ca3",
+   "procedureId": "ed2a727f-3d49-4263-ad8f-aca1c68c7f29",
    "publicationDate": "2026-10-23",
    "publicationLanguages": [
-    "FR"
+    "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "F2026-005_pub01"
+    "PPP0FG-1014/6321/2026-029_003"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "420eea41-1966-4e3e-9837-4a0a7ba2f853",
+   "publicationWorkspaceId": "173fd4c8-d63e-445b-a663-f6eaff7f783c",
    "publishedAt": [
-    "2026-10-23T00:00:45.027453",
-    "2026-10-02T12:30:45.023448"
+    "2026-10-23T09:40:45.293536"
    ],
-   "referenceNumber": "F2026-005_pub01",
+   "referenceNumber": "PPP0FG-1014/6321/2026-029_003",
    "sentAt": [
-    "2026-10-23T00:00:45.027453",
-    "2026-10-02T12:30:45.023448"
+    "2026-10-23T09:40:45.293536"
    ],
    "tedPublished": false
-  }
- ],
- "exemple_attribution": [
+  },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "80000000-4",
+     "code": "45331000-6",
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Diensten voor onderwijs en opleiding"
-      },
-      {
        "language": "EN",
-       "text": "Education and training services"
+       "text": "Heating, ventilation and air-conditioning installation work"
       },
       {
        "language": "FR",
-       "text": "Services d'enseignement et de formation"
-      },
-      {
-       "language": "DE",
-       "text": "Allgemeine und berufliche Bildung"
-      }
-     ]
-    },
-    {
-     "code": "80500000-9",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Services de formation"
+       "text": "Travaux d'installation de matériel de chauffage, de ventilation et de climatisation"
       },
       {
        "language": "NL",
-       "text": "Opleidingsdiensten"
-      },
-      {
-       "language": "EN",
-       "text": "Training services"
+       "text": "Installeren van verwarming, ventilatie en airconditioning"
       },
       {
        "language": "DE",
-       "text": "Ausbildung"
+       "text": "Installation von Heizungs-, Lüftungs- und Klimaanlagen"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "80000000-4",
+    "code": "45331000-6",
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Diensten voor onderwijs en opleiding"
-     },
-     {
       "language": "EN",
-      "text": "Education and training services"
+      "text": "Heating, ventilation and air-conditioning installation work"
      },
      {
       "language": "FR",
-      "text": "Services d'enseignement et de formation"
+      "text": "Travaux d'installation de matériel de chauffage, de ventilation et de climatisation"
+     },
+     {
+      "language": "NL",
+      "text": "Installeren van verwarming, ventilatie en airconditioning"
      },
      {
       "language": "DE",
-      "text": "Allgemeine und berufliche Bildung"
+      "text": "Installation von Heizungs-, Lüftungs- und Klimaanlagen"
      }
     ]
    },
    "dispatchDate": "2026-10-23",
    "dossier": {
-    "accreditations": {},
+    "accreditations": {
+     "D18": 2
+    },
     "descriptions": [
      {
       "language": "NL",
-      "text": "Stad Kortrijk wil overgaan tot het afsluiten van een raamovereenkomst voor de organisatie van veiligheids- en praktijkgerichte opleidingen in het besturen van mobiele arbeidsmiddelen en voor de organisatie van opleidingen voor het behalen van de vakbekwaamheid – code 95 voor chauffeurs met rijbewijs C.    De opdracht heeft een looptijd van één jaar, met mogelijkheid tot twee stilzwijgende verlengingen van elk ook 12 maanden. De opleidingen worden op afroep georganiseerd.    De opdracht is opgedeeld in 4 percelen:   Perceel 1: “opleiding veiligheid: hijsen en tillen”   Perceel 2: “opleiding veiligheid: in de hoogte werken”   Perceel 3: “opleiding veiligheid: grondverzet”   Perceel 4: “opleiding vakbekwaamheid – code 95”   De aanbestedende overheid heeft het recht slechts enkele percelen toe te wijzen en te besluiten dat de andere in één of meer nieuwe opdrachten worden opgenomen en/of dat deze op een andere wijze zullen worden gegund."
+      "text": "Er zijn aanpassingen nodig aan de HVAC om voldoende ventilatiedebieten te behalen in nieuwe lokalen en om het comfort te verhogen. Er zijn verlaagde plafonds. De werken betreffen voornamelijk het plaatsen van luchtkanalen, roosters en kleppen – aanpassen elektrische borden – plaatsen van conditioneringsbalken en stralingspanelen – automatische regeling – brandkleppen – schilderwerken en isolatie.  Geïnteresseerd in onze andere aanbestedingen?  Bezoek onze website www.vlaanderen.be/bouwprojecten en schrijf je in op onze nieuwsbrief."
      }
     ],
-    "enterpriseCategories": [],
+    "enterpriseCategories": [
+     {
+      "categoryCode": "D18",
+      "levels": [
+       1,
+       2
+      ]
+     }
+    ],
     "legalBasis": "D24",
-    "number": "PPP0I4-3464/6380/2026/3464",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "PPP0I4-3464/6380/2026/3464",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "number": "2026/HFB/OP/153406",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "2026/HFB/OP/153406",
     "titles": [
      {
       "language": "NL",
-      "text": "Raamovereenkomst voor opleidingen van mobiele arbeidsmiddelen en vakbekwaamheid"
+      "text": "Aanpassingen HVAC in het kantoorgebouw Jacob van Maerlantgebouw - VAC Brugge"
      }
     ]
    },
@@ -677,7 +450,7 @@
      "descriptions": [
       {
        "language": "NL",
-       "text": "Basisopleiding voor nieuwe bestuurders en bijscholingen (hernieuwing attest) voor ervaren bestuurders van hoogwerker, schaarlift en telescopische hoogwerker."
+       "text": "Er zijn aanpassingen nodig aan de HVAC om voldoende ventilatiedebieten te behalen in nieuwe lokalen en om het comfort te verhogen. Er zijn verlaagde plafonds. De werken betreffen voornamelijk het plaatsen van luchtkanalen, roosters en kleppen – aanpassen elektrische borden – plaatsen van conditioneringsbalken en stralingspanelen – automatische regeling – brandkleppen – schilderwerken en isolatie.  Geïnteresseerd in onze andere aanbestedingen?  Bezoek onze website www.vlaanderen.be/bouwprojecten en schrijf je in op onze nieuwsbrief."
       }
      ],
      "reservedExecution": [
@@ -689,120 +462,218 @@
      "titles": [
       {
        "language": "NL",
-       "text": "Opleiding veiligheid: in de hoogte werken (open aanbod)"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Basisopleiding voor nieuwe bestuurders en bijscholingen (hernieuwing attest) voor ervaren bestuurders van heftruck, stapelaar, autolaadkraan, verreiker en reachtruck."
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Opleiding veiligheid: hijsen en tillen (open aanbod)"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Basisopleiding voor nieuwe bestuurders en bijscholingen (hernieuwing attest) voor ervaren bestuurders van graafmachines."
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Opleiding veiligheid: grondverzet (open aanbod)"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Het doel van de bijscholing in kader van vakbekwaamheid is het verlengen van het bewijs (code 95 op het rijbewijs) met de verplichte 35 uren nascholing."
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Opleiding vakbekwaamheid: code 95 (open aanbod)"
+       "text": "2026/HFB/OP/153406 - 1"
       }
      ]
     }
    ],
    "natures": [
-    "SERVICES"
+    "WORKS"
    ],
    "noticeIds": [
-    "185e6908-39b5-41b2-bc02-899f89e8dab3"
+    "a71c6704-6480-41a6-81a5-32e60f0a7c8c"
    ],
-   "noticeSubType": "33",
+   "noticeSubType": "29",
    "nutsCodes": [
-    "BE100"
+    "BE251"
    ],
    "organisation": {
-    "organisationId": 484,
+    "organisationId": 5762,
     "organisationNames": [
      {
       "language": "DE",
-      "text": "Kortrijk"
+      "text": "Agentschap Facilitair Bedrijf"
      },
      {
       "language": "NL",
-      "text": "Kortrijk"
-     },
-     {
-      "language": "FR",
-      "text": "Kortrijk"
+      "text": "Agentschap Facilitair Bedrijf"
      },
      {
       "language": "EN",
-      "text": "Kortrijk"
+      "text": "Agentschap Facilitair Bedrijf"
+     },
+     {
+      "language": "FR",
+      "text": "Agentschap Facilitair Bedrijf"
      }
     ],
-    "tree": "200004.200021.484"
+    "tree": "200003.200015.73.4652.5762"
    },
-   "procedureId": "b40fb218-195c-4318-b77d-a72e23c66025",
+   "procedureId": "23376f6c-a8e8-4285-9e9d-197c87ba5642",
    "publicationDate": "2026-10-23",
    "publicationLanguages": [
     "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP0I4-3464/6380/2026/3464_003"
+    "2026/HFB/OP/153406_pub02"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "04fd5b42-3c85-4aab-a548-f600ac6f59b3",
+   "publicationWorkspaceId": "a611fba0-cb3e-4293-ae1e-8f354285107d",
    "publishedAt": [
-    "2026-10-23T00:00:46.95251"
+    "2026-10-23T09:46:45.015173"
    ],
-   "referenceNumber": "PPP0I4-3464/6380/2026/3464_003",
+   "referenceNumber": "2026/HFB/OP/153406_pub02",
    "sentAt": [
-    "2026-10-23T00:00:46.95251"
+    "2026-10-23T09:46:45.015173"
+   ],
+   "tedPublished": false
+  }
+ ],
+ "exemple_attribution": [
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "48311100-2",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Document management system"
+      },
+      {
+       "language": "FR",
+       "text": "Système de gestion de documents"
+      },
+      {
+       "language": "NL",
+       "text": "Systeem voor documentenbeheer"
+      },
+      {
+       "language": "DE",
+       "text": "Dokumentenverwaltungssystem"
+      }
+     ]
+    },
+    {
+     "code": "48311000-1",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Logiciel de gestion des documents"
+      },
+      {
+       "language": "EN",
+       "text": "Document management software package"
+      },
+      {
+       "language": "DE",
+       "text": "Dokumentenverwaltungssoftwarepaket"
+      },
+      {
+       "language": "NL",
+       "text": "Software voor documentenbeheer"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "48311100-2",
+    "descriptions": [
+     {
+      "language": "EN",
+      "text": "Document management system"
+     },
+     {
+      "language": "FR",
+      "text": "Système de gestion de documents"
+     },
+     {
+      "language": "NL",
+      "text": "Systeem voor documentenbeheer"
+     },
+     {
+      "language": "DE",
+      "text": "Dokumentenverwaltungssystem"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-23",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Hasselt University is looking for a configurable, Erasmus without papers (EWP) compliant exchange platform to administer incoming and outgoing end-to-end exchange flows. The minimal viable product (MVP) will focus on partners/interinstitutional agreements (IIA) management, EWP compliance, student workflows (study and traineeship), notifications, templates with digital signatures, report/PowerBI connectivity, grant calculations and Single Sign-On (SSO). Subsequent phases can add deeper integrations and optional features (e.g. additional exchange programme and staff flows) subjected to year to year budget availability.   Universiteit Hasselt is op zoek naar een configureerbaar uitwisselingsplatform dat voldoet aan de \"Erasmus without Papers\" of \"EWP\"-normen, voor het beheer van inkomende en uitgaande uitwisselingsstromen van begin tot eind. Het minimaal levensvatbare product (MVP) zal zich richten op het beheer van partners/interinstitutionele overeenkomsten (IIA), EWP-conformiteit, studentenworkflows (studie en stage), meldingen, sjablonen met digitale handtekeningen, rapportage/PowerBI-connectiviteit, subsidieberekeningen en Single Sign-On (SSO). In volgende fasen kunnen diepere integraties en optionele functies (bijv. aanvullende uitwisselingsprogramma's en personeelsstromen) worden toegevoegd, afhankelijk van de jaarlijkse beschikbaarheid van budget."
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP0FG-1014/6321/2026-029",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP0FG-1014/6321/2026-029",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Exchange portaal"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-23",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Hasselt University is looking for a configurable, Erasmus without papers (EWP) compliant exchange platform to administer incoming and outgoing end-to-end exchange flows. The minimal viable product (MVP) will focus on partners/interinstitutional agreements (IIA) management, EWP compliance, student workflows (study and traineeship), notifications, templates with digital signatures, report/PowerBI connectivity, grant calculations and Single Sign-On (SSO). Subsequent phases can add deeper integrations and optional features (e.g. additional exchange programme and staff flows) subjected to year to year budget availability.   Universiteit Hasselt is op zoek naar een configureerbaar uitwisselingsplatform dat voldoet aan de \"Erasmus without Papers\" of \"EWP\"-normen, voor het beheer van inkomende en uitgaande uitwisselingsstromen van begin tot eind. Het minimaal levensvatbare product (MVP) zal zich richten op het beheer van partners/interinstitutionele overeenkomsten (IIA), EWP-conformiteit, studentenworkflows (studie en stage), meldingen, sjablonen met digitale handtekeningen, rapportage/PowerBI-connectiviteit, subsidieberekeningen en Single Sign-On (SSO). In volgende fasen kunnen diepere integraties en optionele functies (bijv. aanvullende uitwisselingsprogramma's en personeelsstromen) worden toegevoegd, afhankelijk van de jaarlijkse beschikbaarheid van budget."
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Exchange portaal"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SUPPLIES"
+   ],
+   "noticeIds": [
+    "c4e94f52-1e19-487c-b647-69daaef1e648"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE100"
+   ],
+   "organisation": {
+    "organisationId": 144,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "Universiteit Hasselt"
+     },
+     {
+      "language": "NL",
+      "text": "Universiteit Hasselt"
+     },
+     {
+      "language": "EN",
+      "text": "Universiteit Hasselt"
+     },
+     {
+      "language": "FR",
+      "text": "Universiteit Hasselt"
+     }
+    ],
+    "tree": "200004.200026.144"
+   },
+   "procedureId": "ed2a727f-3d49-4263-ad8f-aca1c68c7f29",
+   "publicationDate": "2026-10-23",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP0FG-1014/6321/2026-029_003"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "173fd4c8-d63e-445b-a663-f6eaff7f783c",
+   "publishedAt": [
+    "2026-10-23T09:40:45.293536"
+   ],
+   "referenceNumber": "PPP0FG-1014/6321/2026-029_003",
+   "sentAt": [
+    "2026-10-23T09:40:45.293536"
    ],
    "tedPublished": false
   }
