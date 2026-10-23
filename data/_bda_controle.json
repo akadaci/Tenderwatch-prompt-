@@ -1,9 +1,10 @@
 {
  "meta": {
-  "totalCount": 293023
+  "totalCount": 293080
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
+  "ACTIVE|10|['SUPPLIES']",
   "ACTIVE|16|['SERVICES']",
   "ACTIVE|16|['SUPPLIES', 'SERVICES']",
   "ACTIVE|16|['SUPPLIES']",
@@ -16,6 +17,7 @@
   "ACTIVE|20|['SERVICES']",
   "ACTIVE|20|['WORKS']",
   "ACTIVE|21|['WORKS']",
+  "ACTIVE|23|['WORKS']",
   "ACTIVE|25|['SUPPLIES']",
   "ACTIVE|29|['SERVICES']",
   "ACTIVE|29|['SUPPLIES', 'SERVICES']",
@@ -51,6 +53,165 @@
   "ACTIVE|E4|['WORKS']"
  ],
  "exemples": [
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "63510000-7",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Reisbureaudiensten en dergelijke"
+      },
+      {
+       "language": "DE",
+       "text": "Dienstleistungen von Reisebüros und ähnliche Dienste"
+      },
+      {
+       "language": "FR",
+       "text": "Services d'agences de voyages et services similaires"
+      },
+      {
+       "language": "EN",
+       "text": "Travel agency and similar services"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "63510000-7",
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Reisbureaudiensten en dergelijke"
+     },
+     {
+      "language": "DE",
+      "text": "Dienstleistungen von Reisebüros und ähnliche Dienste"
+     },
+     {
+      "language": "FR",
+      "text": "Services d'agences de voyages et services similaires"
+     },
+     {
+      "language": "EN",
+      "text": "Travel agency and similar services"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-23",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "NMBS is op zoek naar een kandidaat-concessiehouder voor de uitbating van een onthaalbalie en registratie van een luchtvaartmaatschappij in het station Brussel-Zuid. 9 Door deze balie aangeboden diensten : • Onthaal- en incheckdiensten. • Bagageafgifte de dag vóór vertrek & op de dag van vertrek. Een gratis dienst voor bagageafgifte en -inchecken wordt aangeboden aan reizigers met een gecombineerd trein- en vliegticket. De bagage wordt ingecheckt tot aan de eindbestemming. (Bijvoorbeeld: de reiziger neemt eerst de trein naar Paris-Charles de Gaulle, waarna de bagage automatisch wordt doorgestuurd naar de bagageruimte van het vliegtuig.) Op de dag van vertrek kan de passagier dus zonder bagage reizen en deze rechtstreeks ophalen bij aankomst. • Afhaling van het treinticket & check-in. Het kantoor in het station Brussel-Zuid biedt eveneens de mogelijkheid om: • het treinticket verbonden aan het gecombineerd ticket af te halen; • op de dag van vertrek de instapkaart van de luchtvaartmaatschappij te verkrijgen. • Lounges & ontspanningsruimtes : Als aanvulling op de onthaal- en incheckdiensten kan de concessiehouder een premiumruimte ter beschikking stellen voor reizigers met een gecombineerd trein- en vliegticket, om hun comfort en reiservaring aanzienlijk te verbeteren."
+     },
+     {
+      "language": "FR",
+      "text": "La SNCB est à la recherche d’un candidat concessionnaire pour l’exploitation d'un bureau d'accueil et enregistrement d'une compagnie aérienne en gare de Bruxelles-Midi. Services proposés par ce bureau ; • Services d’accueil et d’enregistrement. • Dépôt des bagages la veille du départ & le jour même du départ. Un service gratuit de dépose et d’enregistrement des bagages est proposé aux voyageurs disposant d’un billet combiné train + avion. Les bagages sont enregistrés jusqu’à la destination finale. (Par exemple : le voyageur voyage d’abord en train vers Paris-Charles de Gaulle, puis les bagages sont automatiquement transférés vers la soute de l’avion.) Le jour du départ, le passager peut ainsi voyager sans bagage et les récupère directement à l’arrivée. • Récupération du billet de train & check in. Le bureau situé dans la gare de Bruxelles-Midi permet également : • de récupérer le billet de train associé au billet combiné ; • d’obtenir la carte d’embarquement de la compagnie aérienne le jour du départ. • Salons & espaces de détente : En complément des services d’accueil et d’enregistrement, le concessionnaire pourra proposer la mise à disposition d’un espace premium dédié aux voyageurs munis d’un billet combiné train + avion, afin d’améliorer significativement leur confort et leur expérience de voyage."
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D23",
+    "number": "CM019BU2025 – 0012675",
+    "procurementProcedureType": "NEG_W_CALL_23",
+    "referenceNumber": "CM019BU2025 – 0012675",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Deelnemen aan een marktconsultatie in het station van BRUSSEL-ZUID concept onthaalbureau en check in van luchtvaartmaatschappij(en)"
+     },
+     {
+      "language": "FR",
+      "text": "Participer à une consultation de marché dans la gare de BRUXELLES-MIDI, Concept bureau d’accueil/check in pour compagnie(s) aérienne(s)"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-23",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "NMBS is op zoek naar een kandidaat-concessiehouder voor de uitbating van een onthaalbalie en registratie van een luchtvaartmaatschappij in het station Brussel-Zuid.  Door deze balie aangeboden diensten : • Onthaal- en check-in diensten  • Bagageafgifte de dag vóór vertrek & op de dag van vertrek Een gratis dienst voor bagageafgifte en -check-in wordt aangeboden aan reizigers met een gecombineerd trein- en vliegticket. De bagage wordt ingecheckt tot aan de eindbestemming. (Bijvoorbeeld: de reiziger neemt eerst de trein naar Paris-Charles de Gaulle, waarna de bagage automatisch wordt doorgestuurd naar het ruim van het vliegtuig.)  Op de dag van vertrek kan de passagier dus zonder bagage reizen en deze rechtstreeks ophalen bij aankomst. • Afhaling van het treinticket & check-in Het kantoor in het station Brussel-Zuid biedt eveneens de mogelijkheid om: • het treinticket verbonden aan het gecombineerd ticket af te halen, • op de dag van vertrek de instapkaart van de luchtvaartmaatschappij te verkrijgen. • Lounges & ontspanningsruimtes Als aanvulling op de onthaal- en incheckdiensten kan de concessiehouder een premiumruimte ter beschikking stellen voor reizigers met een gecombineerd trein- en vliegticket, om hun comfort en reiservaring aanzienlijk te verbeteren. "
+      },
+      {
+       "language": "FR",
+       "text": "La SNCB est à la recherche d’un candidat concessionnaire pour l’exploitation d'un bureau d'accueil et enregistrement d'une compagnie aérienne en gare de Bruxelles-Midi.  Services proposés par ce bureau ; • Services d’accueil et d’enregistrement • Dépôt des bagages la veille du départ & le jour même du départ Un service gratuit de dépose et d’enregistrement des bagages est proposé aux voyageurs disposant d’un billet combiné train + avion. Les bagages sont enregistrés jusqu’à la destination finale. (Par exemple : ils voyagent d’abord en train vers Paris-Charles de Gaulle, puis sont automatiquement transférés vers la soute de l’avion.)  Le jour du départ, le passager peut ainsi voyager sans bagage et les récupère directement à l’arrivée. • Récupération du billet de train & check-in Le bureau situé dans la gare de Bruxelles Midi permet également : • de récupérer le billet de train associé au billet combiné, • d’obtenir la carte d’embarquement de la compagnie aérienne le jour du départ. • Salons & espaces de détente En complément des services d’accueil et d’enregistrement, le concessionnaire pourra proposer la mise à disposition d’un espace premium dédié aux voyageurs munis d’un billet combiné train + avion, afin d’améliorer significativement leur confort et leur expérience de voyage. "
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "CM019BU2025 – 0012675 - 1"
+      },
+      {
+       "language": "NL",
+       "text": "CM019BU2025 – 0012675 - 1"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SERVICES"
+   ],
+   "noticeIds": [
+    "4e73d14b-6a33-459f-8993-be16cad43269"
+   ],
+   "noticeSubType": "19",
+   "nutsCodes": [
+    "BE100"
+   ],
+   "organisation": {
+    "organisationId": 5644,
+    "organisationNames": [
+     {
+      "language": "EN",
+      "text": "SNCB-Stations Commercialisation"
+     },
+     {
+      "language": "DE",
+      "text": "SNCB-Stations Commercialisation"
+     },
+     {
+      "language": "NL",
+      "text": "NMBS-Stations Commercialisation"
+     },
+     {
+      "language": "FR",
+      "text": "SNCB-Stations Commercialisation"
+     }
+    ],
+    "tree": "200002.200014.4613.5644"
+   },
+   "procedureId": "1206d369-8ebf-42ac-b178-266babe7635c",
+   "publicationDate": "2026-10-23",
+   "publicationLanguages": [
+    "NL",
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "CM019BU2025 – 0012675_pub01"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "ffee5877-fbe2-4c9d-9f09-46ade5ef2e2b",
+   "publishedAt": [
+    "2026-10-23T00:00:48.152275"
+   ],
+   "referenceNumber": "CM019BU2025 – 0012675_pub01",
+   "sentAt": [
+    "2026-10-23T00:00:48.152275"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2027-01-08T12:00:00"
+  },
   {
    "cpvAdditionalCodes": [
     {
@@ -417,152 +578,6 @@
    "sentAt": [
     "2026-10-23T00:00:45.027453",
     "2026-10-02T12:30:45.023448"
-   ],
-   "tedPublished": false
-  },
-  {
-   "cancelledAt": "2026-10-23T00:00:47.354151",
-   "cpvAdditionalCodes": [
-    {
-     "code": "44211000-2",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Bâtiments préfabriqués"
-      },
-      {
-       "language": "NL",
-       "text": "Prefabgebouwen"
-      },
-      {
-       "language": "DE",
-       "text": "Vorgefertigte Gebäude"
-      },
-      {
-       "language": "EN",
-       "text": "Prefabricated buildings"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "44211000-2",
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Bâtiments préfabriqués"
-     },
-     {
-      "language": "NL",
-      "text": "Prefabgebouwen"
-     },
-     {
-      "language": "DE",
-      "text": "Vorgefertigte Gebäude"
-     },
-     {
-      "language": "EN",
-      "text": "Prefabricated buildings"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-23",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "aankoop van 2 stacaravans"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "2027_BE_stacaravans",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "2027_BE_stacaravans",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "aankoop 2 stacaravans"
-     }
-    ]
-   },
-   "insertionDate": "2026-09-11",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "aankoop van 2 stacaravans voor verhuur op een recreatiedomein"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "2027_BE_stacaravans - 1"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SUPPLIES"
-   ],
-   "noticeIds": [
-    "ecc45deb-4808-4450-be89-930a25125c83",
-    "aa564bbb-6768-43f7-b4a3-15bdf0361391",
-    "0e2abe68-cee8-475f-9dc0-845e804da1dd"
-   ],
-   "noticeSubType": "16",
-   "nutsCodes": [
-    "BE213"
-   ],
-   "organisation": {
-    "organisationId": 5554,
-    "organisationNames": [
-     {
-      "language": "DE",
-      "text": "EVAP PRD De Lilse Bergen"
-     },
-     {
-      "language": "NL",
-      "text": "EVAP PRD De Lilse Bergen"
-     },
-     {
-      "language": "FR",
-      "text": "EVAP PRD De Lilse Bergen"
-     },
-     {
-      "language": "EN",
-      "text": "EVAP PRD De Lilse Bergen"
-     }
-    ],
-    "tree": "200004.200020.968.5554"
-   },
-   "procedureId": "3b8cff18-02e6-43c9-bd59-4ac6a074242a",
-   "publicationDate": "2026-10-23",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "2027_BE_stacaravans_pub01"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "0f952e7c-560a-448b-896a-2d80205d19e5",
-   "publishedAt": [
-    "2026-10-23T00:00:47.294202",
-    "2026-09-11T14:15:46.873686"
-   ],
-   "referenceNumber": "2027_BE_stacaravans_pub01",
-   "sentAt": [
-    "2026-10-23T00:00:47.294202",
-    "2026-09-11T14:15:46.873686"
    ],
    "tedPublished": false
   }
