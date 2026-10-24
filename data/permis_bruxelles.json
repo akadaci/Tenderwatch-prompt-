@@ -1,11 +1,14 @@
 {
- "updated": "2026-10-24T02:01:58Z",
+ "updated": "2026-10-24T04:07:07Z",
  "source": "urban.brussels NOVA (WFS)",
  "days_back": 3,
- "received": 48,
- "kept": 11,
- "count": 123,
- "new_ids": [],
+ "received": 69,
+ "kept": 13,
+ "count": 125,
+ "new_ids": [
+  "nova-15/PU/2050360",
+  "nova-04/PU/2050359"
+ ],
  "records": [
   {
    "id": "nova-16/PU/2050316",
@@ -38,6 +41,38 @@
    "date_publication": "2026-10-23",
    "notes": "Autorité : Bruxelles",
    "first_seen": "2026-10-23T12:01:48Z"
+  },
+  {
+   "id": "nova-15/PU/2050360",
+   "source_type": "Permis",
+   "nom": "Permis d'urbanisme privé",
+   "lieu": "Avenue Félix Marchal 41, 1030 Schaerbeek",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='15/PU/2050360'",
+   "verif": "vérifié",
+   "verif_date": "2026-10-24",
+   "preuve": "Demande de permis 15/PU/2050360 reçue le 2026-10-23 (urban.brussels, service NOVA), surface projetée 1740 m².",
+   "date_publication": "2026-10-23",
+   "notes": "Autorité : Schaerbeek",
+   "first_seen": "2026-10-24T04:07:07Z"
+  },
+  {
+   "id": "nova-04/PU/2050359",
+   "source_type": "Permis",
+   "nom": "Transformation de la toiture du volume R+T Transformations structurelles, modification de baies Régularisation de la chambre au rez, baies et percement intérieur Construction d'une piscine Démolition ",
+   "lieu": "Avenue du Pérou 25, 1000 Bruxelles",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='04/PU/2050359'",
+   "verif": "vérifié",
+   "verif_date": "2026-10-24",
+   "preuve": "Demande de permis 04/PU/2050359 reçue le 2026-10-23 (urban.brussels, service NOVA), surface projetée 412 m².",
+   "date_publication": "2026-10-23",
+   "notes": "Autorité : Bruxelles",
+   "first_seen": "2026-10-24T04:07:07Z"
   },
   {
    "id": "nova-06/PFD/2050296",
