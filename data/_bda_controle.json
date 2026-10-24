@@ -49,6 +49,201 @@
   {
    "cpvAdditionalCodes": [
     {
+     "code": "45261212-3",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Roof-slating work"
+      },
+      {
+       "language": "DE",
+       "text": "Schieferdachdeckarbeiten"
+      },
+      {
+       "language": "NL",
+       "text": "Leidekken"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de couverture en ardoises"
+      }
+     ]
+    },
+    {
+     "code": "45441000-0",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Travaux de vitrerie"
+      },
+      {
+       "language": "DE",
+       "text": "Verglasungsarbeiten"
+      },
+      {
+       "language": "EN",
+       "text": "Glazing work"
+      },
+      {
+       "language": "NL",
+       "text": "Beglazing"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45261212-3",
+    "descriptions": [
+     {
+      "language": "EN",
+      "text": "Roof-slating work"
+     },
+     {
+      "language": "DE",
+      "text": "Schieferdachdeckarbeiten"
+     },
+     {
+      "language": "NL",
+      "text": "Leidekken"
+     },
+     {
+      "language": "FR",
+      "text": "Travaux de couverture en ardoises"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-24",
+   "dossier": {
+    "accreditations": {
+     "D23": 1,
+     "D24": 3
+    },
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Het voorwerp van de opdracht is opgebouwd uit 2 percelen als volgt: Perceel 1: dakrenovatie van de Sint-Antoniuskerk van Padua, Sint-Antoniusplein z/n, 2910 Essen Deze omvat de afbraak/verwijdering van alle dakbedekkingen, lood en zinkwerken, incl. dakgoten en vervangen door een nieuwe dakbedekking met natuurleien Perceel 2: Renovatie van de glas in lood ramen van de Sint-Antoniuskerk van Padua, Sint-Antoniusplein z/n, 2910 Essen Deze omvat de tijdelijke verwijderen van de bestaande glasramen, tijdelijke bescherming, herstel van het glas in lood en terug plaatsen met de nodige bijkomende handelingen volgens lasten boek deel III"
+     }
+    ],
+    "enterpriseCategories": [
+     {
+      "categoryCode": "D23",
+      "levels": [
+       1
+      ]
+     },
+     {
+      "categoryCode": "D24",
+      "levels": [
+       3,
+       2,
+       1
+      ]
+     }
+    ],
+    "legalBasis": "D24",
+    "number": "20009-P1 & P2",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "20009-P1 & P2",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Dakrenovatie Sint-Antoniuskerk van Padua - Sint-Antoniusplein 1A - 2910 Essen"
+     }
+    ]
+   },
+   "insertionDate": "2026-09-22",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Perceel 2: Renovatie van de glas in lood ramen van de Sint-Antoniuskerk van Padua, Sint-Antoniusplein z/n, 2910 Essen Deze omvat de tijdelijke verwijderen van de bestaande glasramen, tijdelijke bescherming, herstel van het glas in lood en terug plaatsen met de nodige bijkomende handelingen volgens lasten boek deel III"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "20009-P2"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Perceel 1: dakrenovatie van de Sint-Antoniuskerk van Padua, Sint-Antoniusplein z/n, 2910 Essen Deze omvat de afbraak/verwijdering van alle dakbedekkingen, lood en zinkwerken, incl. dakgoten en vervangen door een nieuwe dakbedekking met natuurleien"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "20009-P1"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "151fa2ef-0e04-4724-a786-2467df403f2a",
+    "efa66542-6dd4-4b05-89fd-87d58e7b08ed",
+    "881c13c1-f7a6-432a-a51e-2d2de3d78493"
+   ],
+   "noticeSubType": "16",
+   "nutsCodes": [
+    "BE211"
+   ],
+   "organisation": {
+    "organisationId": 57669,
+    "organisationNames": [
+     {
+      "language": "NL",
+      "text": "Kerkfabriek Sint Antonius van Padua Essen"
+     }
+    ],
+    "tree": "200004.200033.57669"
+   },
+   "procedureId": "ae4584af-0892-49cc-96cf-c53327a793db",
+   "publicationDate": "2026-10-24",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "20009-P1 & P2_pub01"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "582e9a9a-72f0-4af8-97d7-2a5b2886b7f8",
+   "publishedAt": [
+    "2026-09-22T15:59:45.037508",
+    "2026-10-24T09:15:45.012859",
+    "2026-09-22T16:50:46.432152"
+   ],
+   "referenceNumber": "20009-P1 & P2_pub01",
+   "sentAt": [
+    "2026-09-22T15:59:45.037508",
+    "2026-10-24T09:15:45.012859",
+    "2026-09-22T16:50:46.432152"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-11-16T09:00:00"
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
      "code": "63510000-7",
      "descriptions": [
       {
@@ -358,157 +553,6 @@
    "referenceNumber": "PPP0FG-1014/6321/2026-029_003",
    "sentAt": [
     "2026-10-23T09:40:45.293536"
-   ],
-   "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "45331000-6",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Heating, ventilation and air-conditioning installation work"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux d'installation de matériel de chauffage, de ventilation et de climatisation"
-      },
-      {
-       "language": "NL",
-       "text": "Installeren van verwarming, ventilatie en airconditioning"
-      },
-      {
-       "language": "DE",
-       "text": "Installation von Heizungs-, Lüftungs- und Klimaanlagen"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "45331000-6",
-    "descriptions": [
-     {
-      "language": "EN",
-      "text": "Heating, ventilation and air-conditioning installation work"
-     },
-     {
-      "language": "FR",
-      "text": "Travaux d'installation de matériel de chauffage, de ventilation et de climatisation"
-     },
-     {
-      "language": "NL",
-      "text": "Installeren van verwarming, ventilatie en airconditioning"
-     },
-     {
-      "language": "DE",
-      "text": "Installation von Heizungs-, Lüftungs- und Klimaanlagen"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-23",
-   "dossier": {
-    "accreditations": {
-     "D18": 2
-    },
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Er zijn aanpassingen nodig aan de HVAC om voldoende ventilatiedebieten te behalen in nieuwe lokalen en om het comfort te verhogen. Er zijn verlaagde plafonds. De werken betreffen voornamelijk het plaatsen van luchtkanalen, roosters en kleppen – aanpassen elektrische borden – plaatsen van conditioneringsbalken en stralingspanelen – automatische regeling – brandkleppen – schilderwerken en isolatie.  Geïnteresseerd in onze andere aanbestedingen?  Bezoek onze website www.vlaanderen.be/bouwprojecten en schrijf je in op onze nieuwsbrief."
-     }
-    ],
-    "enterpriseCategories": [
-     {
-      "categoryCode": "D18",
-      "levels": [
-       1,
-       2
-      ]
-     }
-    ],
-    "legalBasis": "D24",
-    "number": "2026/HFB/OP/153406",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "2026/HFB/OP/153406",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Aanpassingen HVAC in het kantoorgebouw Jacob van Maerlantgebouw - VAC Brugge"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-23",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Er zijn aanpassingen nodig aan de HVAC om voldoende ventilatiedebieten te behalen in nieuwe lokalen en om het comfort te verhogen. Er zijn verlaagde plafonds. De werken betreffen voornamelijk het plaatsen van luchtkanalen, roosters en kleppen – aanpassen elektrische borden – plaatsen van conditioneringsbalken en stralingspanelen – automatische regeling – brandkleppen – schilderwerken en isolatie.  Geïnteresseerd in onze andere aanbestedingen?  Bezoek onze website www.vlaanderen.be/bouwprojecten en schrijf je in op onze nieuwsbrief."
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "2026/HFB/OP/153406 - 1"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "WORKS"
-   ],
-   "noticeIds": [
-    "a71c6704-6480-41a6-81a5-32e60f0a7c8c"
-   ],
-   "noticeSubType": "29",
-   "nutsCodes": [
-    "BE251"
-   ],
-   "organisation": {
-    "organisationId": 5762,
-    "organisationNames": [
-     {
-      "language": "DE",
-      "text": "Agentschap Facilitair Bedrijf"
-     },
-     {
-      "language": "NL",
-      "text": "Agentschap Facilitair Bedrijf"
-     },
-     {
-      "language": "EN",
-      "text": "Agentschap Facilitair Bedrijf"
-     },
-     {
-      "language": "FR",
-      "text": "Agentschap Facilitair Bedrijf"
-     }
-    ],
-    "tree": "200003.200015.73.4652.5762"
-   },
-   "procedureId": "23376f6c-a8e8-4285-9e9d-197c87ba5642",
-   "publicationDate": "2026-10-23",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "2026/HFB/OP/153406_pub02"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "a611fba0-cb3e-4293-ae1e-8f354285107d",
-   "publishedAt": [
-    "2026-10-23T09:46:45.015173"
-   ],
-   "referenceNumber": "2026/HFB/OP/153406_pub02",
-   "sentAt": [
-    "2026-10-23T09:46:45.015173"
    ],
    "tedPublished": false
   }

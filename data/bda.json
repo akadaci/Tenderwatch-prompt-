@@ -1,12 +1,35 @@
 {
- "updated": "2026-10-24T06:02:20Z",
+ "updated": "2026-10-24T08:01:38Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 639,
- "kept": 313,
- "count": 2153,
- "new_ids": [],
+ "received": 640,
+ "kept": 314,
+ "count": 2154,
+ "new_ids": [
+  "bda-582e9a9a-72f0-4af8-97d7-2a5b2886b7f8"
+ ],
  "records": [
+  {
+   "id": "bda-582e9a9a-72f0-4af8-97d7-2a5b2886b7f8",
+   "source_type": "BDA",
+   "nom": "Dakrenovatie Sint-Antoniuskerk van Padua - Sint-Antoniusplein 1A - 2910 Essen",
+   "lieu": "Anvers",
+   "province": "Anvers",
+   "mo": "Kerkfabriek Sint Antonius van Padua Essen",
+   "etape": 4,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/582e9a9a-72f0-4af8-97d7-2a5b2886b7f8",
+   "verif": "vérifié",
+   "verif_date": "2026-10-24",
+   "preuve": "Bulletin des Adjudications, réf. 20009-P1 & P2 (avis de marché, sous-type eForms 16), publié le 2026-10-24.",
+   "date_publication": "2026-10-24",
+   "cpv": "45261212,45441000",
+   "ted_ref": "",
+   "notes": "Het voorwerp van de opdracht is opgebouwd uit 2 percelen als volgt: Perceel 1: dakrenovatie van de Sint-Antoniuskerk van Padua, Sint-Antoniusplein z/n, 2910 Essen Deze omvat de afbraak/verwijdering van alle dakbedekkingen, lood en zinkwerken, incl. dakgoten en vervangen door een nieuwe dakbedekking ",
+   "procedure": "ae4584af-0892-49cc-96cf-c53327a793db",
+   "dossier": "20009-P1 & P2",
+   "first_seen": "2026-10-24T08:01:38Z"
+  },
   {
    "id": "bda-0f952e7c-560a-448b-896a-2d80205d19e5",
    "source_type": "BDA",
