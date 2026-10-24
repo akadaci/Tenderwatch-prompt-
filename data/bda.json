@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T19:48:39Z",
+ "updated": "2026-10-24T20:01:43Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
  "received": 642,
@@ -483,7 +483,7 @@
    "verif_date": "2026-10-24",
    "preuve": "Bulletin des Adjudications, réf. 2026-2552 (avis de marché, sous-type eForms 23), publié le 2026-10-23.",
    "date_publication": "2026-10-23",
-   "cpv": "45210000,45313100,45331000,45311000,45233293",
+   "cpv": "45210000,45313100,45233293,45311000,45331000",
    "ted_ref": "2026-2552_pub01",
    "notes": "La commune de Raeren souhaite faire construire un nouveau hall de sport comprenant notamment deux salles de sports, une salle de fitness, une cafétaria, des vestiaires et des locaux sanitaires. L’ancien hall des sport, le stand de tir et deux maisons seront déconstruits en fin de chantier afin de pe",
    "procedure": "560dd1ea-8691-41c6-bf2c-7989674941d0",
