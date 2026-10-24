@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 293199
+  "totalCount": 293200
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -46,6 +46,148 @@
   "ACTIVE|E4|['WORKS']"
  ],
  "exemples": [
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "33191110-9",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Autoclaves"
+      },
+      {
+       "language": "NL",
+       "text": "Autoclaven"
+      },
+      {
+       "language": "EN",
+       "text": "Autoclaves"
+      },
+      {
+       "language": "DE",
+       "text": "Autoklaven"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "33191110-9",
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Autoclaves"
+     },
+     {
+      "language": "NL",
+      "text": "Autoclaven"
+     },
+     {
+      "language": "EN",
+      "text": "Autoclaves"
+     },
+     {
+      "language": "DE",
+      "text": "Autoklaven"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-24",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "This contract relates to the purchase, delivery and installation of a setup to perform corrosion testing at increased pressure and temperature in a continuous process in a CO2 environment with impurities (e.g. H2O, O2, N2, NOx, SOx, H2S), relevant to CCUS applications.  This includes at least the following elements: - Delivery, installation, validation, inspection and commissioning - All necessary training.  - Electrode for corrosion research are present, and should be connectable to the setup. Dimensional drawings of the electrodes can be requested via e-mail to Arne.Simons@UGent.be   The contract is divided into the following lots:  • Lot 1: Explanation: A complete setup to allow the above-mentioned experiments, hence including: o Autoclave vessel + required heating/cooling o Autoclave lid with all required connection (2 electrodes, 1 reference electrode, gas inlet, gas outlet, thermocouple, digital/analog pressure sensor, safety features (rupture disk, spring loaded valve)) o All required pumps, piping and vessels o All required sensors  • Lot 2: Explanation: A system compatible with the currently present autoclave to allow the above-mentioned experiments, hence including: o All required pumps, piping and vessels  Lot 1 provides more flexibility to the tenderer regarding geometry and material of construction. Also, this keeps the currently existing setup intact, which will be considered during the comparison between the different proposals. On the other hand, Lot 2 offers the possibility to provide a setup at a lower cost.  "
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP01G-3593/6094/26VOM043",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "PPP01G-3593/6094/26VOM043",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Purchase and installation of an autoclave"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-24",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "This contract relates to the purchase, delivery and installation of a setup to perform corrosion testing at increased pressure and temperature in a continuous process in a CO2 environment with impurities (e.g. H2O, O2, N2, NOx, SOx, H2S), relevant to CCUS applications.  This includes at least the following elements: - Delivery, installation, validation, inspection and commissioning - All necessary training.  - Electrode for corrosion research are present, and should be connectable to the setup. Dimensional drawings of the electrodes can be requested via e-mail to Arne.Simons@UGent.be   The contract is divided into the following lots:  • Lot 1: Explanation: A complete setup to allow the above-mentioned experiments, hence including: o Autoclave vessel + required heating/cooling o Autoclave lid with all required connection (2 electrodes, 1 reference electrode, gas inlet, gas outlet, thermocouple, digital/analog pressure sensor, safety features (rupture disk, spring loaded valve)) o All required pumps, piping and vessels o All required sensors  • Lot 2: Explanation: A system compatible with the currently present autoclave to allow the above-mentioned experiments, hence including: o All required pumps, piping and vessels  Lot 1 provides more flexibility to the tenderer regarding geometry and material of construction. Also, this keeps the currently existing setup intact, which will be considered during the comparison between the different proposals. On the other hand, Lot 2 offers the possibility to provide a setup at a lower cost.  "
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Purchase and installation of an autoclave"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SUPPLIES"
+   ],
+   "noticeIds": [
+    "fe043314-623e-4d10-ac9f-a95323ac9ac3"
+   ],
+   "noticeSubType": "16",
+   "nutsCodes": [
+    "BE234"
+   ],
+   "organisation": {
+    "organisationId": 160,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "Universiteit Gent"
+     },
+     {
+      "language": "NL",
+      "text": "Universiteit Gent"
+     },
+     {
+      "language": "FR",
+      "text": "Universiteit Gent"
+     },
+     {
+      "language": "EN",
+      "text": "Universiteit Gent"
+     }
+    ],
+    "tree": "200004.200026.160"
+   },
+   "procedureId": "78162bfc-206a-484b-b81f-464be14ec904",
+   "publicationDate": "2026-10-24",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP01G-3593/6094/26VOM043_001"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "98b688af-f7e7-48dc-b1cf-2265d13f28a0",
+   "publishedAt": [
+    "2026-10-24T14:27:45.014411"
+   ],
+   "referenceNumber": "PPP01G-3593/6094/26VOM043_001",
+   "sentAt": [
+    "2026-10-24T14:27:45.014411"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-11-12T16:00:00"
+  },
   {
    "cpvAdditionalCodes": [
     {
@@ -410,165 +552,6 @@
    ],
    "tedPublished": false,
    "vaultSubmissionDeadline": "2026-10-30T10:05:00"
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "63510000-7",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Reisbureaudiensten en dergelijke"
-      },
-      {
-       "language": "DE",
-       "text": "Dienstleistungen von Reisebüros und ähnliche Dienste"
-      },
-      {
-       "language": "FR",
-       "text": "Services d'agences de voyages et services similaires"
-      },
-      {
-       "language": "EN",
-       "text": "Travel agency and similar services"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "63510000-7",
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Reisbureaudiensten en dergelijke"
-     },
-     {
-      "language": "DE",
-      "text": "Dienstleistungen von Reisebüros und ähnliche Dienste"
-     },
-     {
-      "language": "FR",
-      "text": "Services d'agences de voyages et services similaires"
-     },
-     {
-      "language": "EN",
-      "text": "Travel agency and similar services"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-23",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "NMBS is op zoek naar een kandidaat-concessiehouder voor de uitbating van een onthaalbalie en registratie van een luchtvaartmaatschappij in het station Brussel-Zuid. 9 Door deze balie aangeboden diensten : • Onthaal- en incheckdiensten. • Bagageafgifte de dag vóór vertrek & op de dag van vertrek. Een gratis dienst voor bagageafgifte en -inchecken wordt aangeboden aan reizigers met een gecombineerd trein- en vliegticket. De bagage wordt ingecheckt tot aan de eindbestemming. (Bijvoorbeeld: de reiziger neemt eerst de trein naar Paris-Charles de Gaulle, waarna de bagage automatisch wordt doorgestuurd naar de bagageruimte van het vliegtuig.) Op de dag van vertrek kan de passagier dus zonder bagage reizen en deze rechtstreeks ophalen bij aankomst. • Afhaling van het treinticket & check-in. Het kantoor in het station Brussel-Zuid biedt eveneens de mogelijkheid om: • het treinticket verbonden aan het gecombineerd ticket af te halen; • op de dag van vertrek de instapkaart van de luchtvaartmaatschappij te verkrijgen. • Lounges & ontspanningsruimtes : Als aanvulling op de onthaal- en incheckdiensten kan de concessiehouder een premiumruimte ter beschikking stellen voor reizigers met een gecombineerd trein- en vliegticket, om hun comfort en reiservaring aanzienlijk te verbeteren."
-     },
-     {
-      "language": "FR",
-      "text": "La SNCB est à la recherche d’un candidat concessionnaire pour l’exploitation d'un bureau d'accueil et enregistrement d'une compagnie aérienne en gare de Bruxelles-Midi. Services proposés par ce bureau ; • Services d’accueil et d’enregistrement. • Dépôt des bagages la veille du départ & le jour même du départ. Un service gratuit de dépose et d’enregistrement des bagages est proposé aux voyageurs disposant d’un billet combiné train + avion. Les bagages sont enregistrés jusqu’à la destination finale. (Par exemple : le voyageur voyage d’abord en train vers Paris-Charles de Gaulle, puis les bagages sont automatiquement transférés vers la soute de l’avion.) Le jour du départ, le passager peut ainsi voyager sans bagage et les récupère directement à l’arrivée. • Récupération du billet de train & check in. Le bureau situé dans la gare de Bruxelles-Midi permet également : • de récupérer le billet de train associé au billet combiné ; • d’obtenir la carte d’embarquement de la compagnie aérienne le jour du départ. • Salons & espaces de détente : En complément des services d’accueil et d’enregistrement, le concessionnaire pourra proposer la mise à disposition d’un espace premium dédié aux voyageurs munis d’un billet combiné train + avion, afin d’améliorer significativement leur confort et leur expérience de voyage."
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D23",
-    "number": "CM019BU2025 – 0012675",
-    "procurementProcedureType": "NEG_W_CALL_23",
-    "referenceNumber": "CM019BU2025 – 0012675",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "Participer à une consultation de marché dans la gare de BRUXELLES-MIDI, Concept bureau d’accueil/check in pour compagnie(s) aérienne(s)"
-     },
-     {
-      "language": "NL",
-      "text": "Deelnemen aan een marktconsultatie in het station van BRUSSEL-ZUID concept onthaalbureau en check in van luchtvaartmaatschappij(en)"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-23",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "La SNCB est à la recherche d’un candidat concessionnaire pour l’exploitation d'un bureau d'accueil et enregistrement d'une compagnie aérienne en gare de Bruxelles-Midi.  Services proposés par ce bureau ; • Services d’accueil et d’enregistrement • Dépôt des bagages la veille du départ & le jour même du départ Un service gratuit de dépose et d’enregistrement des bagages est proposé aux voyageurs disposant d’un billet combiné train + avion. Les bagages sont enregistrés jusqu’à la destination finale. (Par exemple : ils voyagent d’abord en train vers Paris-Charles de Gaulle, puis sont automatiquement transférés vers la soute de l’avion.)  Le jour du départ, le passager peut ainsi voyager sans bagage et les récupère directement à l’arrivée. • Récupération du billet de train & check-in Le bureau situé dans la gare de Bruxelles Midi permet également : • de récupérer le billet de train associé au billet combiné, • d’obtenir la carte d’embarquement de la compagnie aérienne le jour du départ. • Salons & espaces de détente En complément des services d’accueil et d’enregistrement, le concessionnaire pourra proposer la mise à disposition d’un espace premium dédié aux voyageurs munis d’un billet combiné train + avion, afin d’améliorer significativement leur confort et leur expérience de voyage. "
-      },
-      {
-       "language": "NL",
-       "text": "NMBS is op zoek naar een kandidaat-concessiehouder voor de uitbating van een onthaalbalie en registratie van een luchtvaartmaatschappij in het station Brussel-Zuid.  Door deze balie aangeboden diensten : • Onthaal- en check-in diensten  • Bagageafgifte de dag vóór vertrek & op de dag van vertrek Een gratis dienst voor bagageafgifte en -check-in wordt aangeboden aan reizigers met een gecombineerd trein- en vliegticket. De bagage wordt ingecheckt tot aan de eindbestemming. (Bijvoorbeeld: de reiziger neemt eerst de trein naar Paris-Charles de Gaulle, waarna de bagage automatisch wordt doorgestuurd naar het ruim van het vliegtuig.)  Op de dag van vertrek kan de passagier dus zonder bagage reizen en deze rechtstreeks ophalen bij aankomst. • Afhaling van het treinticket & check-in Het kantoor in het station Brussel-Zuid biedt eveneens de mogelijkheid om: • het treinticket verbonden aan het gecombineerd ticket af te halen, • op de dag van vertrek de instapkaart van de luchtvaartmaatschappij te verkrijgen. • Lounges & ontspanningsruimtes Als aanvulling op de onthaal- en incheckdiensten kan de concessiehouder een premiumruimte ter beschikking stellen voor reizigers met een gecombineerd trein- en vliegticket, om hun comfort en reiservaring aanzienlijk te verbeteren. "
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "CM019BU2025 – 0012675 - 1"
-      },
-      {
-       "language": "FR",
-       "text": "CM019BU2025 – 0012675 - 1"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SERVICES"
-   ],
-   "noticeIds": [
-    "4e73d14b-6a33-459f-8993-be16cad43269"
-   ],
-   "noticeSubType": "19",
-   "nutsCodes": [
-    "BE100"
-   ],
-   "organisation": {
-    "organisationId": 5644,
-    "organisationNames": [
-     {
-      "language": "NL",
-      "text": "NMBS-Stations Commercialisation"
-     },
-     {
-      "language": "FR",
-      "text": "SNCB-Stations Commercialisation"
-     },
-     {
-      "language": "DE",
-      "text": "SNCB-Stations Commercialisation"
-     },
-     {
-      "language": "EN",
-      "text": "SNCB-Stations Commercialisation"
-     }
-    ],
-    "tree": "200002.200014.4613.5644"
-   },
-   "procedureId": "1206d369-8ebf-42ac-b178-266babe7635c",
-   "publicationDate": "2026-10-23",
-   "publicationLanguages": [
-    "NL",
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "CM019BU2025 – 0012675_pub01"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "ffee5877-fbe2-4c9d-9f09-46ade5ef2e2b",
-   "publishedAt": [
-    "2026-10-23T00:00:48.152275"
-   ],
-   "referenceNumber": "CM019BU2025 – 0012675_pub01",
-   "sentAt": [
-    "2026-10-23T00:00:48.152275"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2027-01-08T12:00:00"
   }
  ],
  "exemple_attribution": [
