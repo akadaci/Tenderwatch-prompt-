@@ -244,6 +244,176 @@
   {
    "cpvAdditionalCodes": [
     {
+     "code": "45240000-1",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Travaux de construction d'ouvrages hydrauliques"
+      },
+      {
+       "language": "DE",
+       "text": "Wasserbauarbeiten"
+      },
+      {
+       "language": "NL",
+       "text": "Waterbouwwerkzaamheden"
+      },
+      {
+       "language": "EN",
+       "text": "Construction work for water projects"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45240000-1",
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Travaux de construction d'ouvrages hydrauliques"
+     },
+     {
+      "language": "DE",
+      "text": "Wasserbauarbeiten"
+     },
+     {
+      "language": "NL",
+      "text": "Waterbouwwerkzaamheden"
+     },
+     {
+      "language": "EN",
+      "text": "Construction work for water projects"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-24",
+   "dossier": {
+    "accreditations": {
+     "B": 4,
+     "G": 4
+    },
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "De werken omvatten in hoofdzaak: - Opbraak van bestaande oeververdediging - Vellen van bomen - Grondwerk: uitgraven winterbedding - Bestrijding Japanse duizendknoop - Groenaanleg "
+     }
+    ],
+    "enterpriseCategories": [
+     {
+      "categoryCode": "G",
+      "levels": [
+       4,
+       3,
+       2,
+       1
+      ]
+     },
+     {
+      "categoryCode": "B",
+      "levels": [
+       4,
+       3,
+       2,
+       1
+      ]
+     }
+    ],
+    "legalBasis": "D24",
+    "number": "L 4625 I 0021 G",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "L 4625 I 0021 G",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Aanleg van een winterbed op de Zwalm te Nederzwalm"
+     }
+    ]
+   },
+   "insertionDate": "2026-09-25",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "De werken omvatten in hoofdzaak: - Opbraak van bestaande oeververdediging - Vellen van bomen - Grondwerk: uitgraven winterbedding - Bestrijding Japanse duizendknoop - Groenaanleg "
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "L 4625 I 0021 G - 1"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "b7aef6fc-add3-4fa1-9d9e-e893095afddb",
+    "8d58f141-018e-408a-baae-2d504f5b5da9",
+    "5bc97d23-fb0b-4dad-9522-6ea9b37f3c5e"
+   ],
+   "noticeSubType": "16",
+   "nutsCodes": [
+    "BE235"
+   ],
+   "organisation": {
+    "organisationId": 5721,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "Vlaamse Milieumaatschappij"
+     },
+     {
+      "language": "NL",
+      "text": "Vlaamse Milieumaatschappij"
+     },
+     {
+      "language": "EN",
+      "text": "Vlaamse Milieumaatschappij"
+     },
+     {
+      "language": "FR",
+      "text": "Vlaamse Milieumaatschappij"
+     }
+    ],
+    "tree": "200003.200015.73.4646.5721"
+   },
+   "procedureId": "5f6e5e2d-5af3-4955-96a9-a1449eaf7e75",
+   "publicationDate": "2026-10-24",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "L 4625 I 0021 G_pub01"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "4f0c70a8-8d08-4c74-848e-05c4229f4fcb",
+   "publishedAt": [
+    "2026-10-24T12:16:45.036451",
+    "2026-09-25T17:01:46.017697",
+    "2026-10-24T12:12:45.018209"
+   ],
+   "referenceNumber": "L 4625 I 0021 G_pub01",
+   "sentAt": [
+    "2026-10-24T12:16:45.036451",
+    "2026-09-25T17:01:46.017697",
+    "2026-10-24T12:12:45.018209"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-10-30T10:05:00"
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
      "code": "63510000-7",
      "descriptions": [
       {
@@ -399,162 +569,6 @@
    ],
    "tedPublished": false,
    "vaultSubmissionDeadline": "2027-01-08T12:00:00"
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "48311100-2",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Document management system"
-      },
-      {
-       "language": "FR",
-       "text": "Système de gestion de documents"
-      },
-      {
-       "language": "NL",
-       "text": "Systeem voor documentenbeheer"
-      },
-      {
-       "language": "DE",
-       "text": "Dokumentenverwaltungssystem"
-      }
-     ]
-    },
-    {
-     "code": "48311000-1",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Logiciel de gestion des documents"
-      },
-      {
-       "language": "EN",
-       "text": "Document management software package"
-      },
-      {
-       "language": "DE",
-       "text": "Dokumentenverwaltungssoftwarepaket"
-      },
-      {
-       "language": "NL",
-       "text": "Software voor documentenbeheer"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "48311100-2",
-    "descriptions": [
-     {
-      "language": "EN",
-      "text": "Document management system"
-     },
-     {
-      "language": "FR",
-      "text": "Système de gestion de documents"
-     },
-     {
-      "language": "NL",
-      "text": "Systeem voor documentenbeheer"
-     },
-     {
-      "language": "DE",
-      "text": "Dokumentenverwaltungssystem"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-23",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Hasselt University is looking for a configurable, Erasmus without papers (EWP) compliant exchange platform to administer incoming and outgoing end-to-end exchange flows. The minimal viable product (MVP) will focus on partners/interinstitutional agreements (IIA) management, EWP compliance, student workflows (study and traineeship), notifications, templates with digital signatures, report/PowerBI connectivity, grant calculations and Single Sign-On (SSO). Subsequent phases can add deeper integrations and optional features (e.g. additional exchange programme and staff flows) subjected to year to year budget availability.   Universiteit Hasselt is op zoek naar een configureerbaar uitwisselingsplatform dat voldoet aan de \"Erasmus without Papers\" of \"EWP\"-normen, voor het beheer van inkomende en uitgaande uitwisselingsstromen van begin tot eind. Het minimaal levensvatbare product (MVP) zal zich richten op het beheer van partners/interinstitutionele overeenkomsten (IIA), EWP-conformiteit, studentenworkflows (studie en stage), meldingen, sjablonen met digitale handtekeningen, rapportage/PowerBI-connectiviteit, subsidieberekeningen en Single Sign-On (SSO). In volgende fasen kunnen diepere integraties en optionele functies (bijv. aanvullende uitwisselingsprogramma's en personeelsstromen) worden toegevoegd, afhankelijk van de jaarlijkse beschikbaarheid van budget."
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP0FG-1014/6321/2026-029",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP0FG-1014/6321/2026-029",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Exchange portaal"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-23",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Hasselt University is looking for a configurable, Erasmus without papers (EWP) compliant exchange platform to administer incoming and outgoing end-to-end exchange flows. The minimal viable product (MVP) will focus on partners/interinstitutional agreements (IIA) management, EWP compliance, student workflows (study and traineeship), notifications, templates with digital signatures, report/PowerBI connectivity, grant calculations and Single Sign-On (SSO). Subsequent phases can add deeper integrations and optional features (e.g. additional exchange programme and staff flows) subjected to year to year budget availability.   Universiteit Hasselt is op zoek naar een configureerbaar uitwisselingsplatform dat voldoet aan de \"Erasmus without Papers\" of \"EWP\"-normen, voor het beheer van inkomende en uitgaande uitwisselingsstromen van begin tot eind. Het minimaal levensvatbare product (MVP) zal zich richten op het beheer van partners/interinstitutionele overeenkomsten (IIA), EWP-conformiteit, studentenworkflows (studie en stage), meldingen, sjablonen met digitale handtekeningen, rapportage/PowerBI-connectiviteit, subsidieberekeningen en Single Sign-On (SSO). In volgende fasen kunnen diepere integraties en optionele functies (bijv. aanvullende uitwisselingsprogramma's en personeelsstromen) worden toegevoegd, afhankelijk van de jaarlijkse beschikbaarheid van budget."
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Exchange portaal"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SUPPLIES"
-   ],
-   "noticeIds": [
-    "c4e94f52-1e19-487c-b647-69daaef1e648"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE100"
-   ],
-   "organisation": {
-    "organisationId": 144,
-    "organisationNames": [
-     {
-      "language": "DE",
-      "text": "Universiteit Hasselt"
-     },
-     {
-      "language": "NL",
-      "text": "Universiteit Hasselt"
-     },
-     {
-      "language": "EN",
-      "text": "Universiteit Hasselt"
-     },
-     {
-      "language": "FR",
-      "text": "Universiteit Hasselt"
-     }
-    ],
-    "tree": "200004.200026.144"
-   },
-   "procedureId": "ed2a727f-3d49-4263-ad8f-aca1c68c7f29",
-   "publicationDate": "2026-10-23",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP0FG-1014/6321/2026-029_003"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "173fd4c8-d63e-445b-a663-f6eaff7f783c",
-   "publishedAt": [
-    "2026-10-23T09:40:45.293536"
-   ],
-   "referenceNumber": "PPP0FG-1014/6321/2026-029_003",
-   "sentAt": [
-    "2026-10-23T09:40:45.293536"
-   ],
-   "tedPublished": false
   }
  ],
  "exemple_attribution": [

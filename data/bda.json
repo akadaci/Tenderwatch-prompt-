@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-24T10:01:43Z",
+ "updated": "2026-10-24T12:01:41Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 640,
- "kept": 314,
+ "received": 641,
+ "kept": 315,
  "count": 2154,
  "new_ids": [],
  "records": [
@@ -27,6 +27,27 @@
    "procedure": "ae4584af-0892-49cc-96cf-c53327a793db",
    "dossier": "20009-P1 & P2",
    "first_seen": "2026-10-24T08:01:38Z"
+  },
+  {
+   "id": "bda-4f0c70a8-8d08-4c74-848e-05c4229f4fcb",
+   "source_type": "BDA",
+   "nom": "Aanleg van een winterbed op de Zwalm te Nederzwalm",
+   "lieu": "Flandre-Orientale",
+   "mo": "Vlaamse Milieumaatschappij",
+   "etape": 4,
+   "source": "https://www.publicprocurement.be/publication-workspaces/4f0c70a8-8d08-4c74-848e-05c4229f4fcb",
+   "verif": "vérifié",
+   "verif_date": "2026-10-24",
+   "preuve": "Bulletin des Adjudications, réf. L 4625 I 0021 G (avis de marché, sous-type eForms 16), publié le 2026-10-24.",
+   "date_publication": "2026-10-24",
+   "cpv": "45240000",
+   "ted_ref": "",
+   "notes": "De werken omvatten in hoofdzaak: - Opbraak van bestaande oeververdediging - Vellen van bomen - Grondwerk: uitgraven winterbedding - Bestrijding Japanse duizendknoop - Groenaanleg",
+   "first_seen": "2026-10-07T23:39:38Z",
+   "province": "Flandre-Orientale",
+   "sur_ted": false,
+   "procedure": "5f6e5e2d-5af3-4955-96a9-a1449eaf7e75",
+   "dossier": "L 4625 I 0021 G"
   },
   {
    "id": "bda-0f952e7c-560a-448b-896a-2d80205d19e5",
@@ -1363,7 +1384,7 @@
    "verif_date": "2026-10-24",
    "preuve": "Bulletin des Adjudications, réf. PPP0U7-113/6038/0200/2026-04 (avis de marché, sous-type eForms 16), publié le 2026-10-23.",
    "date_publication": "2026-10-23",
-   "cpv": "45233120,45232454,45112000,45222000,45112700,45233200",
+   "cpv": "45233120,45222000,45112000,45232454,45112700,45233200",
    "ted_ref": "",
    "notes": "Fietsenstalling + optie uitbreiding parking",
    "first_seen": "2026-10-07T23:39:38Z",
@@ -39608,23 +39629,6 @@
    "cpv": "45000000,45262660",
    "ted_ref": "",
    "notes": "Rénovation et construction d’un équipement comprenant une crèche ONE, des bureaux et un projet en agriculture urbaine",
-   "first_seen": "2026-10-07T23:39:38Z"
-  },
-  {
-   "id": "bda-4f0c70a8-8d08-4c74-848e-05c4229f4fcb",
-   "source_type": "BDA",
-   "nom": "Aanleg van een winterbed op de Zwalm te Nederzwalm",
-   "lieu": "Flandre-Orientale",
-   "mo": "Vlaamse Milieumaatschappij",
-   "etape": 4,
-   "source": "https://www.publicprocurement.be/publication-workspaces/4f0c70a8-8d08-4c74-848e-05c4229f4fcb",
-   "verif": "vérifié",
-   "verif_date": "2026-10-07",
-   "preuve": "Bulletin des Adjudications, réf. L 4625 I 0021 G (avis de marché, sous-type eForms 16), publié le 2026-09-25.",
-   "date_publication": "2026-09-25",
-   "cpv": "45240000",
-   "ted_ref": "",
-   "notes": "De werken omvatten in hoofdzaak: - Opbraak van bestaande oeververdediging - Vellen van bomen - Grondwerk: uitgraven winterbedding - Bestrijding Japanse duizendknoop - Groenaanleg",
    "first_seen": "2026-10-07T23:39:38Z"
   },
   {
