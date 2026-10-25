@@ -42,6 +42,139 @@
   {
    "cpvAdditionalCodes": [
     {
+     "code": "92000000-1",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Recreational, cultural and sporting services"
+      },
+      {
+       "language": "NL",
+       "text": "Cultuur-, sport- en recreatiediensten"
+      },
+      {
+       "language": "DE",
+       "text": "Dienstleistungen in den Bereichen Erholung, Kultur und Sport"
+      },
+      {
+       "language": "FR",
+       "text": "Services récréatifs, culturels et sportifs"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "92000000-1",
+    "descriptions": [
+     {
+      "language": "EN",
+      "text": "Recreational, cultural and sporting services"
+     },
+     {
+      "language": "NL",
+      "text": "Cultuur-, sport- en recreatiediensten"
+     },
+     {
+      "language": "DE",
+      "text": "Dienstleistungen in den Bereichen Erholung, Kultur und Sport"
+     },
+     {
+      "language": "FR",
+      "text": "Services récréatifs, culturels et sportifs"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-25",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Concessie voor de exploitatie van de tennis-en padelclub Linkebeek Sport"
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D23",
+    "number": "001",
+    "procurementProcedureType": "OPEN_CONS",
+    "referenceNumber": "001",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Concessie voor de exploitatie van Linkebeek Sport"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-09",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Concessie voor de exploitatie van de tennis-en padelclub Linkebeek Sport"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "001 - 1"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SERVICES"
+   ],
+   "noticeIds": [
+    "7df1a853-2b51-4539-ba4d-ba1a4e155e35",
+    "3aa76f35-7925-4da4-905a-d3ba1869ecbf"
+   ],
+   "noticeSubType": "19",
+   "nutsCodes": [
+    "BE100"
+   ],
+   "organisation": {
+    "organisationId": 58409,
+    "organisationNames": [
+     {
+      "language": "FR",
+      "text": "Linkebeek Sport"
+     }
+    ],
+    "tree": "200004.200032.58409"
+   },
+   "procedureId": "fb518a2c-9810-46c9-a921-d37b74d4e284",
+   "publicationDate": "2026-10-25",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "001_pub01"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "79a175c3-7f90-47c0-9c73-3687f3972f0c",
+   "publishedAt": [
+    "2026-10-09T14:08:45.020172",
+    "2026-10-25T11:55:45.011286"
+   ],
+   "referenceNumber": "001_pub01",
+   "sentAt": [
+    "2026-10-09T14:08:45.020172",
+    "2026-10-25T11:55:45.011286"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-11-13T23:00:00"
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
      "code": "33191110-9",
      "descriptions": [
       {
@@ -375,176 +508,6 @@
    ],
    "tedPublished": false,
    "vaultSubmissionDeadline": "2026-11-16T09:00:00"
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "45240000-1",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Travaux de construction d'ouvrages hydrauliques"
-      },
-      {
-       "language": "DE",
-       "text": "Wasserbauarbeiten"
-      },
-      {
-       "language": "NL",
-       "text": "Waterbouwwerkzaamheden"
-      },
-      {
-       "language": "EN",
-       "text": "Construction work for water projects"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "45240000-1",
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Travaux de construction d'ouvrages hydrauliques"
-     },
-     {
-      "language": "DE",
-      "text": "Wasserbauarbeiten"
-     },
-     {
-      "language": "NL",
-      "text": "Waterbouwwerkzaamheden"
-     },
-     {
-      "language": "EN",
-      "text": "Construction work for water projects"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-24",
-   "dossier": {
-    "accreditations": {
-     "B": 4,
-     "G": 4
-    },
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "De werken omvatten in hoofdzaak: - Opbraak van bestaande oeververdediging - Vellen van bomen - Grondwerk: uitgraven winterbedding - Bestrijding Japanse duizendknoop - Groenaanleg "
-     }
-    ],
-    "enterpriseCategories": [
-     {
-      "categoryCode": "G",
-      "levels": [
-       4,
-       3,
-       2,
-       1
-      ]
-     },
-     {
-      "categoryCode": "B",
-      "levels": [
-       4,
-       3,
-       2,
-       1
-      ]
-     }
-    ],
-    "legalBasis": "D24",
-    "number": "L 4625 I 0021 G",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "L 4625 I 0021 G",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Aanleg van een winterbed op de Zwalm te Nederzwalm"
-     }
-    ]
-   },
-   "insertionDate": "2026-09-25",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "De werken omvatten in hoofdzaak: - Opbraak van bestaande oeververdediging - Vellen van bomen - Grondwerk: uitgraven winterbedding - Bestrijding Japanse duizendknoop - Groenaanleg "
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "L 4625 I 0021 G - 1"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "WORKS"
-   ],
-   "noticeIds": [
-    "b7aef6fc-add3-4fa1-9d9e-e893095afddb",
-    "8d58f141-018e-408a-baae-2d504f5b5da9",
-    "5bc97d23-fb0b-4dad-9522-6ea9b37f3c5e"
-   ],
-   "noticeSubType": "16",
-   "nutsCodes": [
-    "BE235"
-   ],
-   "organisation": {
-    "organisationId": 5721,
-    "organisationNames": [
-     {
-      "language": "DE",
-      "text": "Vlaamse Milieumaatschappij"
-     },
-     {
-      "language": "NL",
-      "text": "Vlaamse Milieumaatschappij"
-     },
-     {
-      "language": "EN",
-      "text": "Vlaamse Milieumaatschappij"
-     },
-     {
-      "language": "FR",
-      "text": "Vlaamse Milieumaatschappij"
-     }
-    ],
-    "tree": "200003.200015.73.4646.5721"
-   },
-   "procedureId": "5f6e5e2d-5af3-4955-96a9-a1449eaf7e75",
-   "publicationDate": "2026-10-24",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "L 4625 I 0021 G_pub01"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "4f0c70a8-8d08-4c74-848e-05c4229f4fcb",
-   "publishedAt": [
-    "2026-10-24T12:16:45.036451",
-    "2026-09-25T17:01:46.017697",
-    "2026-10-24T12:12:45.018209"
-   ],
-   "referenceNumber": "L 4625 I 0021 G_pub01",
-   "sentAt": [
-    "2026-10-24T12:16:45.036451",
-    "2026-09-25T17:01:46.017697",
-    "2026-10-24T12:12:45.018209"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-10-30T10:05:00"
   }
  ],
  "exemple_attribution": [
