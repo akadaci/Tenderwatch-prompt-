@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 293201
+  "totalCount": 293206
  },
  "types": [
   "ACTIVE|10|['SUPPLIES']",
@@ -42,390 +42,88 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "92000000-1",
+     "code": "45000000-7",
      "descriptions": [
       {
-       "language": "EN",
-       "text": "Recreational, cultural and sporting services"
+       "language": "DE",
+       "text": "Bauarbeiten"
       },
       {
        "language": "NL",
-       "text": "Cultuur-, sport- en recreatiediensten"
+       "text": "Bouwwerkzaamheden"
       },
       {
-       "language": "DE",
-       "text": "Dienstleistungen in den Bereichen Erholung, Kultur und Sport"
+       "language": "EN",
+       "text": "Construction work"
       },
       {
        "language": "FR",
-       "text": "Services récréatifs, culturels et sportifs"
+       "text": "Travaux de construction"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "92000000-1",
+    "code": "45000000-7",
     "descriptions": [
-     {
-      "language": "EN",
-      "text": "Recreational, cultural and sporting services"
-     },
-     {
-      "language": "NL",
-      "text": "Cultuur-, sport- en recreatiediensten"
-     },
      {
       "language": "DE",
-      "text": "Dienstleistungen in den Bereichen Erholung, Kultur und Sport"
-     },
-     {
-      "language": "FR",
-      "text": "Services récréatifs, culturels et sportifs"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-25",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Concessie voor de exploitatie van de tennis-en padelclub Linkebeek Sport"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D23",
-    "number": "001",
-    "procurementProcedureType": "OPEN_CONS",
-    "referenceNumber": "001",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Concessie voor de exploitatie van Linkebeek Sport"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-09",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Concessie voor de exploitatie van de tennis-en padelclub Linkebeek Sport"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "001 - 1"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SERVICES"
-   ],
-   "noticeIds": [
-    "7df1a853-2b51-4539-ba4d-ba1a4e155e35",
-    "3aa76f35-7925-4da4-905a-d3ba1869ecbf"
-   ],
-   "noticeSubType": "19",
-   "nutsCodes": [
-    "BE100"
-   ],
-   "organisation": {
-    "organisationId": 58409,
-    "organisationNames": [
-     {
-      "language": "FR",
-      "text": "Linkebeek Sport"
-     }
-    ],
-    "tree": "200004.200032.58409"
-   },
-   "procedureId": "fb518a2c-9810-46c9-a921-d37b74d4e284",
-   "publicationDate": "2026-10-25",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "001_pub01"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "79a175c3-7f90-47c0-9c73-3687f3972f0c",
-   "publishedAt": [
-    "2026-10-09T14:08:45.020172",
-    "2026-10-25T11:55:45.011286"
-   ],
-   "referenceNumber": "001_pub01",
-   "sentAt": [
-    "2026-10-09T14:08:45.020172",
-    "2026-10-25T11:55:45.011286"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-13T23:00:00"
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "33191110-9",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Autoclaves"
-      },
-      {
-       "language": "NL",
-       "text": "Autoclaven"
-      },
-      {
-       "language": "EN",
-       "text": "Autoclaves"
-      },
-      {
-       "language": "DE",
-       "text": "Autoklaven"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "33191110-9",
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Autoclaves"
+      "text": "Bauarbeiten"
      },
      {
       "language": "NL",
-      "text": "Autoclaven"
+      "text": "Bouwwerkzaamheden"
      },
      {
       "language": "EN",
-      "text": "Autoclaves"
-     },
-     {
-      "language": "DE",
-      "text": "Autoklaven"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-24",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "This contract relates to the purchase, delivery and installation of a setup to perform corrosion testing at increased pressure and temperature in a continuous process in a CO2 environment with impurities (e.g. H2O, O2, N2, NOx, SOx, H2S), relevant to CCUS applications.  This includes at least the following elements: - Delivery, installation, validation, inspection and commissioning - All necessary training.  - Electrode for corrosion research are present, and should be connectable to the setup. Dimensional drawings of the electrodes can be requested via e-mail to Arne.Simons@UGent.be   The contract is divided into the following lots:  • Lot 1: Explanation: A complete setup to allow the above-mentioned experiments, hence including: o Autoclave vessel + required heating/cooling o Autoclave lid with all required connection (2 electrodes, 1 reference electrode, gas inlet, gas outlet, thermocouple, digital/analog pressure sensor, safety features (rupture disk, spring loaded valve)) o All required pumps, piping and vessels o All required sensors  • Lot 2: Explanation: A system compatible with the currently present autoclave to allow the above-mentioned experiments, hence including: o All required pumps, piping and vessels  Lot 1 provides more flexibility to the tenderer regarding geometry and material of construction. Also, this keeps the currently existing setup intact, which will be considered during the comparison between the different proposals. On the other hand, Lot 2 offers the possibility to provide a setup at a lower cost.  "
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP01G-3593/6094/26VOM043",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "PPP01G-3593/6094/26VOM043",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Purchase and installation of an autoclave"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-24",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "This contract relates to the purchase, delivery and installation of a setup to perform corrosion testing at increased pressure and temperature in a continuous process in a CO2 environment with impurities (e.g. H2O, O2, N2, NOx, SOx, H2S), relevant to CCUS applications.  This includes at least the following elements: - Delivery, installation, validation, inspection and commissioning - All necessary training.  - Electrode for corrosion research are present, and should be connectable to the setup. Dimensional drawings of the electrodes can be requested via e-mail to Arne.Simons@UGent.be   The contract is divided into the following lots:  • Lot 1: Explanation: A complete setup to allow the above-mentioned experiments, hence including: o Autoclave vessel + required heating/cooling o Autoclave lid with all required connection (2 electrodes, 1 reference electrode, gas inlet, gas outlet, thermocouple, digital/analog pressure sensor, safety features (rupture disk, spring loaded valve)) o All required pumps, piping and vessels o All required sensors  • Lot 2: Explanation: A system compatible with the currently present autoclave to allow the above-mentioned experiments, hence including: o All required pumps, piping and vessels  Lot 1 provides more flexibility to the tenderer regarding geometry and material of construction. Also, this keeps the currently existing setup intact, which will be considered during the comparison between the different proposals. On the other hand, Lot 2 offers the possibility to provide a setup at a lower cost.  "
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Purchase and installation of an autoclave"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SUPPLIES"
-   ],
-   "noticeIds": [
-    "fe043314-623e-4d10-ac9f-a95323ac9ac3"
-   ],
-   "noticeSubType": "16",
-   "nutsCodes": [
-    "BE234"
-   ],
-   "organisation": {
-    "organisationId": 160,
-    "organisationNames": [
-     {
-      "language": "DE",
-      "text": "Universiteit Gent"
-     },
-     {
-      "language": "NL",
-      "text": "Universiteit Gent"
+      "text": "Construction work"
      },
      {
       "language": "FR",
-      "text": "Universiteit Gent"
-     },
-     {
-      "language": "EN",
-      "text": "Universiteit Gent"
-     }
-    ],
-    "tree": "200004.200026.160"
-   },
-   "procedureId": "78162bfc-206a-484b-b81f-464be14ec904",
-   "publicationDate": "2026-10-24",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP01G-3593/6094/26VOM043_001"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "98b688af-f7e7-48dc-b1cf-2265d13f28a0",
-   "publishedAt": [
-    "2026-10-24T14:27:45.014411"
-   ],
-   "referenceNumber": "PPP01G-3593/6094/26VOM043_001",
-   "sentAt": [
-    "2026-10-24T14:27:45.014411"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-12T16:00:00"
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "45261212-3",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Roof-slating work"
-      },
-      {
-       "language": "DE",
-       "text": "Schieferdachdeckarbeiten"
-      },
-      {
-       "language": "NL",
-       "text": "Leidekken"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de couverture en ardoises"
-      }
-     ]
-    },
-    {
-     "code": "45441000-0",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Travaux de vitrerie"
-      },
-      {
-       "language": "DE",
-       "text": "Verglasungsarbeiten"
-      },
-      {
-       "language": "EN",
-       "text": "Glazing work"
-      },
-      {
-       "language": "NL",
-       "text": "Beglazing"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "45261212-3",
-    "descriptions": [
-     {
-      "language": "EN",
-      "text": "Roof-slating work"
-     },
-     {
-      "language": "DE",
-      "text": "Schieferdachdeckarbeiten"
-     },
-     {
-      "language": "NL",
-      "text": "Leidekken"
-     },
-     {
-      "language": "FR",
-      "text": "Travaux de couverture en ardoises"
+      "text": "Travaux de construction"
      }
     ]
    },
-   "dispatchDate": "2026-10-24",
+   "dispatchDate": "2026-10-26",
    "dossier": {
     "accreditations": {
-     "D23": 1,
-     "D24": 3
+     "H": 4
     },
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Het voorwerp van de opdracht is opgebouwd uit 2 percelen als volgt: Perceel 1: dakrenovatie van de Sint-Antoniuskerk van Padua, Sint-Antoniusplein z/n, 2910 Essen Deze omvat de afbraak/verwijdering van alle dakbedekkingen, lood en zinkwerken, incl. dakgoten en vervangen door een nieuwe dakbedekking met natuurleien Perceel 2: Renovatie van de glas in lood ramen van de Sint-Antoniuskerk van Padua, Sint-Antoniusplein z/n, 2910 Essen Deze omvat de tijdelijke verwijderen van de bestaande glasramen, tijdelijke bescherming, herstel van het glas in lood en terug plaatsen met de nodige bijkomende handelingen volgens lasten boek deel III"
+      "language": "FR",
+      "text": "Ligne 43 :Y.Aguesse / Marloie Pose d’une nouvelle liaison 13AH/BH en gare de Rivage T Ligne 44 ; Pepinster - Spa-Géronstère  Et renouvellement AS 07I en gare de Pepinster Voies électrifiées 3 Kv "
      }
     ],
     "enterpriseCategories": [
      {
-      "categoryCode": "D23",
+      "categoryCode": "H",
       "levels": [
-       1
-      ]
-     },
-     {
-      "categoryCode": "D24",
-      "levels": [
+       4,
        3,
        2,
        1
       ]
      }
     ],
-    "legalBasis": "D24",
-    "number": "20009-P1 & P2",
+    "legalBasis": "D25",
+    "number": "5752426077",
     "procurementProcedureType": "OPEN",
-    "referenceNumber": "20009-P1 & P2",
+    "referenceNumber": "5752426077",
     "titles": [
      {
-      "language": "NL",
-      "text": "Dakrenovatie Sint-Antoniuskerk van Padua - Sint-Antoniusplein 1A - 2910 Essen"
+      "language": "FR",
+      "text": "Pose d’une nouvelle liaison en gare de Rivage Et renouvellement en gare de Pepinster Ligne 44 ; Pepinster - Spa-Géronstère"
      }
     ]
    },
-   "insertionDate": "2026-09-22",
+   "insertionDate": "2026-10-26",
    "lots": [
     {
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Perceel 2: Renovatie van de glas in lood ramen van de Sint-Antoniuskerk van Padua, Sint-Antoniusplein z/n, 2910 Essen Deze omvat de tijdelijke verwijderen van de bestaande glasramen, tijdelijke bescherming, herstel van het glas in lood en terug plaatsen met de nodige bijkomende handelingen volgens lasten boek deel III"
+       "language": "FR",
+       "text": "- L43 : Pose d’une nouvelle liaison 13AH/BH - L44 : Renouvellement AS 07I voies électrifiées 3 Kv en gare de Pepinster "
       }
      ],
      "reservedExecution": [
@@ -436,28 +134,8 @@
      ],
      "titles": [
       {
-       "language": "NL",
-       "text": "20009-P2"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Perceel 1: dakrenovatie van de Sint-Antoniuskerk van Padua, Sint-Antoniusplein z/n, 2910 Essen Deze omvat de afbraak/verwijdering van alle dakbedekkingen, lood en zinkwerken, incl. dakgoten en vervangen door een nieuwe dakbedekking met natuurleien"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "20009-P1"
+       "language": "FR",
+       "text": "5752426077 - Pose d’une nouvelle liaison 13AH/BH en gare de Rivage Ligne 43 : Y.Aguesse / Marloie Et renouvellement AS 07I en gare de Pepinster Ligne 44 : Pepinster - Spa-Géronstère  Voies électrifiées 3 Kv "
       }
      ]
     }
@@ -466,151 +144,162 @@
     "WORKS"
    ],
    "noticeIds": [
-    "151fa2ef-0e04-4724-a786-2467df403f2a",
-    "efa66542-6dd4-4b05-89fd-87d58e7b08ed",
-    "881c13c1-f7a6-432a-a51e-2d2de3d78493"
+    "b9fc23e4-47c1-4225-b4d8-1dd84000ebf6"
    ],
-   "noticeSubType": "16",
+   "noticeSubType": "17",
    "nutsCodes": [
-    "BE211"
+    "BE332",
+    "BE341"
    ],
    "organisation": {
-    "organisationId": 57669,
+    "organisationId": 17122,
     "organisationNames": [
      {
+      "language": "DE",
+      "text": "Infrabel Projects South"
+     },
+     {
       "language": "NL",
-      "text": "Kerkfabriek Sint Antonius van Padua Essen"
+      "text": "Infrabel Projects South"
+     },
+     {
+      "language": "FR",
+      "text": "Infrabel Projects South"
+     },
+     {
+      "language": "EN",
+      "text": "Infrabel Projects South"
      }
     ],
-    "tree": "200004.200033.57669"
+    "tree": "200002.200014.4784.17122"
    },
-   "procedureId": "ae4584af-0892-49cc-96cf-c53327a793db",
-   "publicationDate": "2026-10-24",
+   "procedureId": "8ce82c7b-2edf-41e6-afa7-c4fdac23bf30",
+   "publicationDate": "2026-10-26",
    "publicationLanguages": [
-    "NL"
+    "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "20009-P1 & P2_pub01"
+    "5752426077_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "582e9a9a-72f0-4af8-97d7-2a5b2886b7f8",
+   "publicationWorkspaceId": "91fc7a81-2a18-451f-8a2a-c221010b4576",
    "publishedAt": [
-    "2026-09-22T15:59:45.037508",
-    "2026-10-24T09:15:45.012859",
-    "2026-09-22T16:50:46.432152"
+    "2026-10-26T00:00:46.200403"
    ],
-   "referenceNumber": "20009-P1 & P2_pub01",
+   "referenceNumber": "5752426077_pub01",
    "sentAt": [
-    "2026-09-22T15:59:45.037508",
-    "2026-10-24T09:15:45.012859",
-    "2026-09-22T16:50:46.432152"
+    "2026-10-26T00:00:46.200403"
    ],
    "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-16T09:00:00"
-  }
- ],
- "exemple_attribution": [
+   "vaultSubmissionDeadline": "2026-11-26T14:00:00"
+  },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "48311100-2",
+     "code": "32321300-2",
      "descriptions": [
       {
-       "language": "EN",
-       "text": "Document management system"
-      },
-      {
-       "language": "FR",
-       "text": "Système de gestion de documents"
-      },
-      {
        "language": "NL",
-       "text": "Systeem voor documentenbeheer"
+       "text": "Audiovisuele materialen"
+      },
+      {
+       "language": "EN",
+       "text": "Audio-visual materials"
       },
       {
        "language": "DE",
-       "text": "Dokumentenverwaltungssystem"
+       "text": "Audiovisueller Bedarf"
+      },
+      {
+       "language": "FR",
+       "text": "Matériel audiovisuel"
       }
      ]
     },
     {
-     "code": "48311000-1",
+     "code": "32321200-1",
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Logiciel de gestion des documents"
+       "language": "DE",
+       "text": "Audiovisuelle Geräte"
       },
       {
        "language": "EN",
-       "text": "Document management software package"
-      },
-      {
-       "language": "DE",
-       "text": "Dokumentenverwaltungssoftwarepaket"
+       "text": "Audio-visual equipment"
       },
       {
        "language": "NL",
-       "text": "Software voor documentenbeheer"
+       "text": "Audiovisuele uitrusting"
+      },
+      {
+       "language": "FR",
+       "text": "Équipement audiovisuel"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "48311100-2",
+    "code": "32321200-1",
     "descriptions": [
      {
-      "language": "EN",
-      "text": "Document management system"
+      "language": "DE",
+      "text": "Audiovisuelle Geräte"
      },
      {
-      "language": "FR",
-      "text": "Système de gestion de documents"
+      "language": "EN",
+      "text": "Audio-visual equipment"
      },
      {
       "language": "NL",
-      "text": "Systeem voor documentenbeheer"
+      "text": "Audiovisuele uitrusting"
      },
      {
-      "language": "DE",
-      "text": "Dokumentenverwaltungssystem"
+      "language": "FR",
+      "text": "Équipement audiovisuel"
      }
     ]
    },
-   "dispatchDate": "2026-10-23",
+   "dispatchDate": "2026-10-26",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
       "language": "NL",
-      "text": "Hasselt University is looking for a configurable, Erasmus without papers (EWP) compliant exchange platform to administer incoming and outgoing end-to-end exchange flows. The minimal viable product (MVP) will focus on partners/interinstitutional agreements (IIA) management, EWP compliance, student workflows (study and traineeship), notifications, templates with digital signatures, report/PowerBI connectivity, grant calculations and Single Sign-On (SSO). Subsequent phases can add deeper integrations and optional features (e.g. additional exchange programme and staff flows) subjected to year to year budget availability.   Universiteit Hasselt is op zoek naar een configureerbaar uitwisselingsplatform dat voldoet aan de \"Erasmus without Papers\" of \"EWP\"-normen, voor het beheer van inkomende en uitgaande uitwisselingsstromen van begin tot eind. Het minimaal levensvatbare product (MVP) zal zich richten op het beheer van partners/interinstitutionele overeenkomsten (IIA), EWP-conformiteit, studentenworkflows (studie en stage), meldingen, sjablonen met digitale handtekeningen, rapportage/PowerBI-connectiviteit, subsidieberekeningen en Single Sign-On (SSO). In volgende fasen kunnen diepere integraties en optionele functies (bijv. aanvullende uitwisselingsprogramma's en personeelsstromen) worden toegevoegd, afhankelijk van de jaarlijkse beschikbaarheid van budget."
+      "text": "Levering van scenografisch audiovisueel materiaal: hard- en software"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP0FG-1014/6321/2026-029",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP0FG-1014/6321/2026-029",
+    "number": "PPP043-1098/6108/2026/594",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "PPP043-1098/6108/2026/594",
     "titles": [
      {
       "language": "NL",
-      "text": "Exchange portaal"
+      "text": "Levering van scenografisch audiovisueel materiaal: hard- en software"
      }
     ]
    },
-   "insertionDate": "2026-10-23",
+   "insertionDate": "2026-10-26",
    "lots": [
     {
      "descriptions": [
       {
        "language": "NL",
-       "text": "Hasselt University is looking for a configurable, Erasmus without papers (EWP) compliant exchange platform to administer incoming and outgoing end-to-end exchange flows. The minimal viable product (MVP) will focus on partners/interinstitutional agreements (IIA) management, EWP compliance, student workflows (study and traineeship), notifications, templates with digital signatures, report/PowerBI connectivity, grant calculations and Single Sign-On (SSO). Subsequent phases can add deeper integrations and optional features (e.g. additional exchange programme and staff flows) subjected to year to year budget availability.   Universiteit Hasselt is op zoek naar een configureerbaar uitwisselingsplatform dat voldoet aan de \"Erasmus without Papers\" of \"EWP\"-normen, voor het beheer van inkomende en uitgaande uitwisselingsstromen van begin tot eind. Het minimaal levensvatbare product (MVP) zal zich richten op het beheer van partners/interinstitutionele overeenkomsten (IIA), EWP-conformiteit, studentenworkflows (studie en stage), meldingen, sjablonen met digitale handtekeningen, rapportage/PowerBI-connectiviteit, subsidieberekeningen en Single Sign-On (SSO). In volgende fasen kunnen diepere integraties en optionele functies (bijv. aanvullende uitwisselingsprogramma's en personeelsstromen) worden toegevoegd, afhankelijk van de jaarlijkse beschikbaarheid van budget."
+       "text": "Levering van scenografisch audiovisueel materiaal: hard- en software"
       }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
      ],
      "titles": [
       {
        "language": "NL",
-       "text": "Exchange portaal"
+       "text": "Levering van scenografisch audiovisueel materiaal: hard- en software"
       }
      ]
     }
@@ -619,51 +308,357 @@
     "SUPPLIES"
    ],
    "noticeIds": [
-    "c4e94f52-1e19-487c-b647-69daaef1e648"
+    "a60278ad-e332-4878-b47d-eb4e677fe782"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
     "BE100"
    ],
    "organisation": {
-    "organisationId": 144,
+    "organisationId": 451,
     "organisationNames": [
      {
-      "language": "DE",
-      "text": "Universiteit Hasselt"
-     },
-     {
-      "language": "NL",
-      "text": "Universiteit Hasselt"
+      "language": "FR",
+      "text": "Rumst"
      },
      {
       "language": "EN",
-      "text": "Universiteit Hasselt"
+      "text": "Rumst"
      },
      {
-      "language": "FR",
-      "text": "Universiteit Hasselt"
+      "language": "DE",
+      "text": "Rumst"
+     },
+     {
+      "language": "NL",
+      "text": "Rumst"
      }
     ],
-    "tree": "200004.200026.144"
+    "tree": "200004.200021.451"
    },
-   "procedureId": "ed2a727f-3d49-4263-ad8f-aca1c68c7f29",
-   "publicationDate": "2026-10-23",
+   "procedureId": "06e11f08-5664-4f5c-bae1-f85bc0f2c0b6",
+   "publicationDate": "2026-10-26",
    "publicationLanguages": [
     "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP0FG-1014/6321/2026-029_003"
+    "PPP043-1098/6108/2026/594_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "173fd4c8-d63e-445b-a663-f6eaff7f783c",
+   "publicationWorkspaceId": "002d5e17-0d1a-428a-b326-45fa31404eda",
    "publishedAt": [
-    "2026-10-23T09:40:45.293536"
+    "2026-10-26T00:00:45.565324"
    ],
-   "referenceNumber": "PPP0FG-1014/6321/2026-029_003",
+   "referenceNumber": "PPP043-1098/6108/2026/594_002",
    "sentAt": [
-    "2026-10-23T09:40:45.293536"
+    "2026-10-26T00:00:45.565324"
+   ],
+   "tedPublished": false
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "34928480-6",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Waste and rubbish containers and bins"
+      },
+      {
+       "language": "DE",
+       "text": "Abfallcontainer und -körbe"
+      },
+      {
+       "language": "NL",
+       "text": "Afval- en vuilcontainers en bakken"
+      },
+      {
+       "language": "FR",
+       "text": "Conteneurs et poubelles de déchets"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "34928480-6",
+    "descriptions": [
+     {
+      "language": "EN",
+      "text": "Waste and rubbish containers and bins"
+     },
+     {
+      "language": "DE",
+      "text": "Abfallcontainer und -körbe"
+     },
+     {
+      "language": "NL",
+      "text": "Afval- en vuilcontainers en bakken"
+     },
+     {
+      "language": "FR",
+      "text": "Conteneurs et poubelles de déchets"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-26",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Leveren van vuilnisbakken om gescheiden afvalinzameling mogelijk te maken in de dagrecreatie van het APB Zilvermeer. De dagrecreatie bestaat uit verschillende zones zoals speeltuin, marktplein, strandzone, parkings."
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "HL03",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "HL03",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Leveren van vuilnisbakken voor gescheiden afvalinzameling"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-26",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Leveren van vuilnisbakken om gescheiden afvalinzameling mogelijk te maken in de dagrecreatie van het APB Zilvermeer. De dagrecreatie bestaat uit verschillende zones zoals speeltuin, marktplein, strandzone, parkings."
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "HL03 - 1"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SUPPLIES"
+   ],
+   "noticeIds": [
+    "e6262014-a7e0-4162-86cd-2743ddfd9fe6"
+   ],
+   "noticeSubType": "16",
+   "nutsCodes": [
+    "BE213"
+   ],
+   "organisation": {
+    "organisationId": 5124,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "APB Zilvermeer"
+     },
+     {
+      "language": "NL",
+      "text": "APB Zilvermeer"
+     },
+     {
+      "language": "FR",
+      "text": "APB Zilvermeer"
+     },
+     {
+      "language": "EN",
+      "text": "APB Zilvermeer"
+     }
+    ],
+    "tree": "200004.200020.968.5124"
+   },
+   "procedureId": "b411680c-53c5-4d92-bd95-67f6089ba45d",
+   "publicationDate": "2026-10-26",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "HL03_pub01"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "4cda68e9-c4b6-4394-a638-8b7cd0b80d1d",
+   "publishedAt": [
+    "2026-10-26T00:00:45.783107"
+   ],
+   "referenceNumber": "HL03_pub01",
+   "sentAt": [
+    "2026-10-26T00:00:45.783107"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-11-16T12:00:00"
+  }
+ ],
+ "exemple_attribution": [
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "32321300-2",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Audiovisuele materialen"
+      },
+      {
+       "language": "EN",
+       "text": "Audio-visual materials"
+      },
+      {
+       "language": "DE",
+       "text": "Audiovisueller Bedarf"
+      },
+      {
+       "language": "FR",
+       "text": "Matériel audiovisuel"
+      }
+     ]
+    },
+    {
+     "code": "32321200-1",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Audiovisuelle Geräte"
+      },
+      {
+       "language": "EN",
+       "text": "Audio-visual equipment"
+      },
+      {
+       "language": "NL",
+       "text": "Audiovisuele uitrusting"
+      },
+      {
+       "language": "FR",
+       "text": "Équipement audiovisuel"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "32321200-1",
+    "descriptions": [
+     {
+      "language": "DE",
+      "text": "Audiovisuelle Geräte"
+     },
+     {
+      "language": "EN",
+      "text": "Audio-visual equipment"
+     },
+     {
+      "language": "NL",
+      "text": "Audiovisuele uitrusting"
+     },
+     {
+      "language": "FR",
+      "text": "Équipement audiovisuel"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-26",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Levering van scenografisch audiovisueel materiaal: hard- en software"
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP043-1098/6108/2026/594",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "PPP043-1098/6108/2026/594",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Levering van scenografisch audiovisueel materiaal: hard- en software"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-26",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Levering van scenografisch audiovisueel materiaal: hard- en software"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Levering van scenografisch audiovisueel materiaal: hard- en software"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SUPPLIES"
+   ],
+   "noticeIds": [
+    "a60278ad-e332-4878-b47d-eb4e677fe782"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE100"
+   ],
+   "organisation": {
+    "organisationId": 451,
+    "organisationNames": [
+     {
+      "language": "FR",
+      "text": "Rumst"
+     },
+     {
+      "language": "EN",
+      "text": "Rumst"
+     },
+     {
+      "language": "DE",
+      "text": "Rumst"
+     },
+     {
+      "language": "NL",
+      "text": "Rumst"
+     }
+    ],
+    "tree": "200004.200021.451"
+   },
+   "procedureId": "06e11f08-5664-4f5c-bae1-f85bc0f2c0b6",
+   "publicationDate": "2026-10-26",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP043-1098/6108/2026/594_002"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "002d5e17-0d1a-428a-b326-45fa31404eda",
+   "publishedAt": [
+    "2026-10-26T00:00:45.565324"
+   ],
+   "referenceNumber": "PPP043-1098/6108/2026/594_002",
+   "sentAt": [
+    "2026-10-26T00:00:45.565324"
    ],
    "tedPublished": false
   }
