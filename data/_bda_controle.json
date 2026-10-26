@@ -1,11 +1,13 @@
 {
  "meta": {
-  "totalCount": 293252
+  "totalCount": 293280
  },
  "types": [
+  "ACTIVE|16|['SERVICES', 'SUPPLIES']",
   "ACTIVE|16|['SERVICES']",
   "ACTIVE|16|['SUPPLIES']",
   "ACTIVE|16|['WORKS']",
+  "ACTIVE|17|['SERVICES']",
   "ACTIVE|17|['WORKS']",
   "ACTIVE|19|['SERVICES']",
   "ACTIVE|20|['SERVICES']",
@@ -106,12 +108,12 @@
        "text": "Production de films et de vidéos publicitaires, de propagande et d'information"
       },
       {
-       "language": "DE",
-       "text": "Herstellung von Werbe-, Reklame- und Informationsfilmen und -videofilmen"
-      },
-      {
        "language": "NL",
        "text": "Productie van films en video's voor reclame, propaganda en informatie"
+      },
+      {
+       "language": "DE",
+       "text": "Herstellung von Werbe-, Reklame- und Informationsfilmen und -videofilmen"
       }
      ]
     },
@@ -702,12 +704,12 @@
        "text": "Production de films et de vidéos publicitaires, de propagande et d'information"
       },
       {
-       "language": "DE",
-       "text": "Herstellung von Werbe-, Reklame- und Informationsfilmen und -videofilmen"
-      },
-      {
        "language": "NL",
        "text": "Productie van films en video's voor reclame, propaganda en informatie"
+      },
+      {
+       "language": "DE",
+       "text": "Herstellung von Werbe-, Reklame- und Informationsfilmen und -videofilmen"
       }
      ]
     },
