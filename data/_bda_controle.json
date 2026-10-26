@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 293376
+  "totalCount": 293377
  },
  "types": [
   "ACTIVE|16|['SERVICES', 'SUPPLIES']",
@@ -453,12 +453,12 @@
     {
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Fourniture d'un Ecran interactif 4K Performant75''"
-      },
-      {
        "language": "NL",
        "text": "Levering van een hoogwaardig 75-inch 4K-interactief display"
+      },
+      {
+       "language": "FR",
+       "text": "Fourniture d'un Ecran interactif 4K Performant75''"
       }
      ],
      "reservedExecution": [
