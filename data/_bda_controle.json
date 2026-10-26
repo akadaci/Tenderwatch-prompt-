@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 293334
+  "totalCount": 293359
  },
  "types": [
   "ACTIVE|16|['SERVICES', 'SUPPLIES']",
@@ -22,6 +22,7 @@
   "ACTIVE|33|['WORKS']",
   "ACTIVE|34|['SUPPLIES']",
   "ACTIVE|38|['WORKS']",
+  "ACTIVE|E1|['SERVICES']",
   "ACTIVE|E3|['SERVICES', 'SUPPLIES']",
   "ACTIVE|E3|['SERVICES']",
   "ACTIVE|E3|['SUPPLIES']",
@@ -452,12 +453,12 @@
     {
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Levering van een hoogwaardig 75-inch 4K-interactief display"
-      },
-      {
        "language": "FR",
        "text": "Fourniture d'un Ecran interactif 4K Performant75''"
+      },
+      {
+       "language": "NL",
+       "text": "Levering van een hoogwaardig 75-inch 4K-interactief display"
       }
      ],
      "reservedExecution": [
