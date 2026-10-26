@@ -1,12 +1,35 @@
 {
- "updated": "2026-10-26T21:01:38Z",
+ "updated": "2026-10-26T23:01:45Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 387,
- "kept": 202,
- "count": 2235,
- "new_ids": [],
+ "received": 392,
+ "kept": 203,
+ "count": 2236,
+ "new_ids": [
+  "bda-ebf962b3-01e8-48e2-9df4-de8d1b2408c2"
+ ],
  "records": [
+  {
+   "id": "bda-ebf962b3-01e8-48e2-9df4-de8d1b2408c2",
+   "source_type": "BDA",
+   "nom": "Réalisation de forages géothermiques sur le site du Clos de l'Age d'Or à La Louvière",
+   "lieu": "Hainaut",
+   "province": "Hainaut",
+   "mo": "Centr'Habitat SCRL",
+   "etape": 5,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/ebf962b3-01e8-48e2-9df4-de8d1b2408c2",
+   "verif": "vérifié",
+   "verif_date": "2026-10-26",
+   "preuve": "Bulletin des Adjudications, réf. PPP0M9-1201/5216/T25.1201 (126.285) (attribution, sous-type eForms E4), publié le 2026-10-27.",
+   "date_publication": "2026-10-27",
+   "cpv": "45255500",
+   "ted_ref": "",
+   "notes": "Le présent marché concerne la réalisation des forages en vue d’alimenter une sous-station thermodynamique centralisée. Cela comprend donc l’ensemble des forages géothermiques, les raccordements aux collecteurs, les collecteurs et la connexion à la zone technique. Lieu d’exécution : 7100 Haine-Saint-",
+   "procedure": "33e93b75-5bfd-4cf8-adf6-61ff0ee54368",
+   "dossier": "PPP0M9-1201/5216/T25.1201 (126.285)",
+   "first_seen": "2026-10-26T23:01:45Z"
+  },
   {
    "id": "bda-91fc7a81-2a18-451f-8a2a-c221010b4576",
    "source_type": "BDA",

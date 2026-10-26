@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 293377
+  "totalCount": 293382
  },
  "types": [
   "ACTIVE|16|['SERVICES', 'SUPPLIES']",
@@ -37,77 +37,76 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "80530000-8",
+     "code": "45255500-4",
      "descriptions": [
       {
-       "language": "EN",
-       "text": "Vocational training services"
-      },
-      {
        "language": "NL",
-       "text": "Beroepsopleidingsdiensten"
+       "text": "Boor- en exploratiewerkzaamheden"
       },
       {
-       "language": "FR",
-       "text": "Services de formation professionnelle"
+       "language": "EN",
+       "text": "Drilling and exploration work"
       },
       {
        "language": "DE",
-       "text": "Berufsausbildung"
+       "text": "Bohrungs- und Explorationsarbeiten"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de forage et d'exploration"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "80530000-8",
+    "code": "45255500-4",
     "descriptions": [
      {
-      "language": "EN",
-      "text": "Vocational training services"
-     },
-     {
       "language": "NL",
-      "text": "Beroepsopleidingsdiensten"
+      "text": "Boor- en exploratiewerkzaamheden"
      },
      {
-      "language": "FR",
-      "text": "Services de formation professionnelle"
+      "language": "EN",
+      "text": "Drilling and exploration work"
      },
      {
       "language": "DE",
-      "text": "Berufsausbildung"
+      "text": "Bohrungs- und Explorationsarbeiten"
+     },
+     {
+      "language": "FR",
+      "text": "Travaux de forage et d'exploration"
      }
     ]
    },
-   "dispatchDate": "2026-10-26",
+   "dispatchDate": "2026-10-27",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
       "language": "FR",
-      "text": "Le présent marché a pour objet la prestation de services pédagogiques spécialisés en Graphic Design. Le marché consiste en la réalisation de missions d'animation, de coanimation et de renfort pédagogique de modules de formation en Graphic Design à destination notamment des chercheurs d'emploi, travailleurs, étudiants et enseignants."
+      "text": "Le présent marché concerne la réalisation des forages en vue d’alimenter une sous-station thermodynamique centralisée. Cela comprend donc l’ensemble des forages géothermiques, les raccordements aux collecteurs, les collecteurs et la connexion à la zone technique.  Lieu d’exécution : 7100 Haine-Saint-Paul (La Louvière) – Clos de l’Age d’Or  Le site est libre d’occupation et de construction. "
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "DMP2600205/TLMFLR/GRAPHIC DESIGN",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "DMP2600205/TLMFLR/GRAPHIC DESIGN",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "number": "PPP0M9-1201/5216/T25.1201 (126.285)",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "PPP0M9-1201/5216/T25.1201 (126.285)",
     "titles": [
      {
       "language": "FR",
-      "text": "Marché DNSH de services de prestations pédagogiques en Graphic Design"
+      "text": "Réalisation de forages géothermiques sur le site du Clos de l'Age d'Or à La Louvière"
      }
     ]
    },
-   "insertionDate": "2026-10-26",
+   "insertionDate": "2026-10-27",
    "lots": [
     {
      "descriptions": [
       {
        "language": "FR",
-       "text": "Création graphique avec la suite Affinity"
+       "text": "Le présent marché concerne la réalisation des forages en vue d’alimenter une sous-station thermodynamique centralisée. Cela comprend donc l’ensemble des forages géothermiques, les raccordements aux collecteurs, les collecteurs et la connexion à la zone technique.  Lieu d’exécution : 7100 Haine-Saint-Paul (La Louvière) – Clos de l’Age d’Or  Le site est libre d’occupation et de construction. "
       }
      ],
      "reservedExecution": [
@@ -119,15 +118,136 @@
      "titles": [
       {
        "language": "FR",
-       "text": "DMP2600205/TLMFLR/GRAPHIC DESIGN -: Création graphique avec la Suite Affinity"
+       "text": "Réalisation de forages géothermiques sur le site du Clos de l'Age d'Or à La Louvière"
       }
      ]
-    },
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "f67bc62f-68fb-4f3c-9c5f-fb73084c7761"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE329"
+   ],
+   "organisation": {
+    "organisationId": 965,
+    "organisationNames": [
+     {
+      "language": "EN",
+      "text": "Centr'Habitat"
+     },
+     {
+      "language": "DE",
+      "text": "Centr'Habitat"
+     },
+     {
+      "language": "NL",
+      "text": "Centr'Habitat"
+     },
+     {
+      "language": "FR",
+      "text": "Centr'Habitat SCRL"
+     }
+    ],
+    "tree": "200004.200028.965"
+   },
+   "procedureId": "33e93b75-5bfd-4cf8-adf6-61ff0ee54368",
+   "publicationDate": "2026-10-27",
+   "publicationLanguages": [
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP0M9-1201/5216/T25.1201 (126.285)_002"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "ebf962b3-01e8-48e2-9df4-de8d1b2408c2",
+   "publishedAt": [
+    "2026-10-27T00:00:47.128507"
+   ],
+   "referenceNumber": "PPP0M9-1201/5216/T25.1201 (126.285)_002",
+   "sentAt": [
+    "2026-10-27T00:00:47.128507"
+   ],
+   "tedPublished": false
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "79311000-7",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Survey services"
+      },
+      {
+       "language": "FR",
+       "text": "Services d'études"
+      },
+      {
+       "language": "NL",
+       "text": "Uitvoeren van studies"
+      },
+      {
+       "language": "DE",
+       "text": "Umfragen"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "79311000-7",
+    "descriptions": [
+     {
+      "language": "EN",
+      "text": "Survey services"
+     },
+     {
+      "language": "FR",
+      "text": "Services d'études"
+     },
+     {
+      "language": "NL",
+      "text": "Uitvoeren van studies"
+     },
+     {
+      "language": "DE",
+      "text": "Umfragen"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-27",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "(1) Analyser de manière critique la méthodologie actuelle de calcul du risque résiduel lié aux contrôles des aides PAC. (2) Identifier ses forces, limites, biais et incertitudes. (3) Définir des orientations d’amélioration et proposer une méthodologie statistiquement robuste. (4) Tester, ajuster et documenter la méthodologie. (5) Transférer les connaissances aux équipes de l’OPW"
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "A3.00.03.00-26-1952",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "A3.00.03.00-26-1952",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Marché de services d'expertise statistique visant à accompagner l'Organisme payeur de Wallonie dans l'analyse critique, la conception et la documentation d'une méthodologie robuste statistiquement du calcul du risque résiduel liée aux contrôles des aides PAC (Politique agricole commune)"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-27",
+   "lots": [
     {
      "descriptions": [
       {
        "language": "FR",
-       "text": "Projets graphiques intégrés, méthodologie de travail et valorisation personnelle (portfolio)"
+       "text": "(1) Analyser de manière critique la méthodologie actuelle de calcul du risque résiduel lié aux contrôles des aides PAC. (2) Identifier ses forces, limites, biais et incertitudes. (3) Définir des orientations d’amélioration et proposer une méthodologie statistiquement robuste. (4) Tester, ajuster et documenter la méthodologie. (5) Transférer les connaissances aux équipes de l’OPW"
       }
      ],
      "reservedExecution": [
@@ -139,127 +259,7 @@
      "titles": [
       {
        "language": "FR",
-       "text": "DMP2600205/TLMFLR/GRAPHIC DESIGN - 6 : Projets graphiques intégrés, méthodologie de travail et valorisation personnelle (portfolio)"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Communication digitale: publications numériques et contenus interactifs (multi-supports)"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "DMP2600205/TLMFLR/GRAPHIC DESIGN - 5 : Communication digitale: publications numériques et contenus interactifs (multi-supports)"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Design éditorial, mise en page et prépresse (print et multi supports) avec Adobe In Design"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "DMP2600205/TLMFLR/GRAPHIC DESIGN : Design éditorial, mise en page et prépresse (print et multi supports) avec Adobe In Design"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Chaîne graphique, conformité des fichiers et workflows de production"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "DMP2600205/TLMFLR/GRAPHIC DESIGN - 4 : Chaîne graphique, conformité des fichiers et workflows de production"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Packaging, PLV et supports grand format"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "DMP2600205/TLMFLR/GRAPHIC DESIGN - 7 : Packaging, PLV et supports grand format"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Design de marque et productions vectorielles avec Adobe Illustrator"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "DMP2600205/TLMFLR/GRAPHIC DESIGN - Design de marque et productions vectorielles avec Adobe Illustrator"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Mise à jour Creative Cloud"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "DMP2600205/TLMFLR/GRAPHIC DESIGN - 8 : Mise à jour Creative Cloud"
+       "text": "A3.00.03.00-26-1952 - 1"
       }
      ]
     }
@@ -268,241 +268,134 @@
     "SERVICES"
    ],
    "noticeIds": [
-    "5e70ca1c-033d-4805-b411-95700aea0700"
+    "7cde95b3-7936-4f85-8068-616008a5a620"
    ],
    "noticeSubType": "16",
    "nutsCodes": [
-    "BE"
+    "BE352"
    ],
    "organisation": {
-    "organisationId": 134,
+    "organisationId": 6001,
     "organisationNames": [
      {
-      "language": "EN",
-      "text": "Office Wallon de la formation professionnelle et de l'emploi"
-     },
-     {
       "language": "FR",
-      "text": "Office Wallon de la formation professionnelle et de l'emploi"
+      "text": "A3.00.03.00 - Organisme payeur de Wallonie (FEAGA-Feader) Direction Financière"
      },
      {
       "language": "DE",
-      "text": "Office Wallon de la formation professionnelle et de l'emploi"
+      "text": "Direction de l'Octroi des aides agricole"
      },
      {
       "language": "NL",
-      "text": "Office Wallon de la formation professionnelle et de l'emploi"
+      "text": "Direction de l'Octroi des aides agricole"
+     },
+     {
+      "language": "EN",
+      "text": "Direction de l'Octroi des aides agricole"
      }
     ],
-    "tree": "200003.200016.134"
+    "tree": "200003.200016.123.5082.6001"
    },
-   "procedureId": "3d242df9-b5c2-4c8a-9924-716c657b1fae",
-   "publicationDate": "2026-10-26",
+   "procedureId": "4fe75bef-dcde-431a-ab30-62c05fea0c58",
+   "publicationDate": "2026-10-27",
    "publicationLanguages": [
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "DMP2600205/TLMFLR/GRAPHIC DESIGN_pub01"
+    "A3.00.03.00-26-1952_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "3e5ffbad-cee9-49d2-92cf-34e673ae6a94",
+   "publicationWorkspaceId": "3f9aca72-3432-492c-ab61-bc13dc26ee44",
    "publishedAt": [
-    "2026-10-26T09:54:45.017378"
+    "2026-10-27T00:00:46.013439"
    ],
-   "referenceNumber": "DMP2600205/TLMFLR/GRAPHIC DESIGN_pub01",
+   "referenceNumber": "A3.00.03.00-26-1952_pub01",
    "sentAt": [
-    "2026-10-26T09:54:45.017378"
+    "2026-10-27T00:00:46.013439"
    ],
    "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-12-07T14:00:00"
+   "vaultSubmissionDeadline": "2026-12-02T11:00:00"
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "30000000-9",
+     "code": "16310000-1",
      "descriptions": [
       {
-       "language": "EN",
-       "text": "Office and computing machinery, equipment and supplies except furniture and software packages"
-      },
-      {
-       "language": "FR",
-       "text": "Machines, matériel et fourniture informatique et de bureau, excepté les meubles et logiciels"
+       "language": "DE",
+       "text": "Mäher"
       },
       {
        "language": "NL",
-       "text": "Kantoormachines en gegevensverwerkende apparatuur, kantooruitrusting en -benodigdheden, uitgez. meubilair en softwarepakketten"
+       "text": "Maaimachines"
       },
       {
-       "language": "DE",
-       "text": "Maschinen, Material und Zubehör für Büro und Computer, außer Möbeln und Softwarepaketen"
+       "language": "EN",
+       "text": "Mowers"
+      },
+      {
+       "language": "FR",
+       "text": "Faucheuses"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "30000000-9",
+    "code": "16310000-1",
     "descriptions": [
      {
-      "language": "EN",
-      "text": "Office and computing machinery, equipment and supplies except furniture and software packages"
-     },
-     {
-      "language": "FR",
-      "text": "Machines, matériel et fourniture informatique et de bureau, excepté les meubles et logiciels"
+      "language": "DE",
+      "text": "Mäher"
      },
      {
       "language": "NL",
-      "text": "Kantoormachines en gegevensverwerkende apparatuur, kantooruitrusting en -benodigdheden, uitgez. meubilair en softwarepakketten"
+      "text": "Maaimachines"
      },
      {
-      "language": "DE",
-      "text": "Maschinen, Material und Zubehör für Büro und Computer, außer Möbeln und Softwarepaketen"
+      "language": "EN",
+      "text": "Mowers"
+     },
+     {
+      "language": "FR",
+      "text": "Faucheuses"
      }
     ]
    },
-   "dispatchDate": "2026-10-26",
+   "dispatchDate": "2026-10-27",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Acquisition de matériels informatiques destinés aux partenaires de mise en œuvre du projet PIREDD dans les provinces du Kasaï Oriental et de la Lomami. "
-     },
-     {
       "language": "NL",
-      "text": "Aanschaf van IT-apparatuur voor de uitvoerende partners van het PIREDD-project in de provincies Kasaï Oriental en Lomami"
+      "text": "Leveren van een klepelmaaier voor de groendienst Koksijde"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "COD20004-10300",
-    "procurementProcedureType": "RESTRICTED",
-    "referenceNumber": "COD20004-10300",
-    "specialPurchasingTechnique": "DYNAMIC_PURCHASING_SYSTEM",
+    "number": "PPP00T-4150/6681/2026133",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP00T-4150/6681/2026133",
     "titles": [
      {
       "language": "NL",
-      "text": "Overheidsopdracht voor de verwerving van IT-apparatuur voor partners van PIREDD KORLOM"
-     },
-     {
-      "language": "FR",
-      "text": "Marché public de fournitures relatif à l'acquisition de matériels informatiques pour les partenaires du PIREDD KORLOM"
+      "text": "Leveren van een klepelmaaier voor de groendienst Koksijde"
      }
     ]
    },
-   "insertionDate": "2026-10-26",
+   "insertionDate": "2026-10-27",
    "lots": [
     {
      "descriptions": [
       {
        "language": "NL",
-       "text": "Aanschaf van Tablet-powerbank-gps"
-      },
-      {
-       "language": "FR",
-       "text": "Fournitures de Tablette-PowerBank-GPS "
+       "text": "Leveren van een klepelmaaier voor de groendienst Koksijde"
       }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
      ],
      "titles": [
       {
        "language": "NL",
-       "text": "COD20004-10300 - 2 : ablet-powerbank-gps"
-      },
-      {
-       "language": "FR",
-       "text": "COD20004-10300 - 2 : Tablette -PowerBank-GPS"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Aanschaf van computers en accessoires"
-      },
-      {
-       "language": "FR",
-       "text": "Acquisition des Ordinateurs et des accessoires "
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "COD20004-10300 - 1 : Computers en accessoires"
-      },
-      {
-       "language": "FR",
-       "text": "COD20004-10300 - 1: Ordinateurs et accessoires "
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Levering van een hoogwaardig 75-inch 4K-interactief display"
-      },
-      {
-       "language": "FR",
-       "text": "Fourniture d'un Ecran interactif 4K Performant75''"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "COD20004-10300 - 4 : Hoogwaardig 75-inch interactief 4K-scherm"
-      },
-      {
-       "language": "FR",
-       "text": "COD20004-10300 - 4 : Ecran interactif 4K Performant75''"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Printerbenodigdheden"
-      },
-      {
-       "language": "FR",
-       "text": "Fournitures d'imprimantes"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "COD20004-10300 - 3 : Printer"
-      },
-      {
-       "language": "FR",
-       "text": "COD20004-10300 - 3 : Imprimantes "
+       "text": "Leveren van een klepelmaaier voor de groendienst Koksijde"
       }
      ]
     }
@@ -511,185 +404,51 @@
     "SUPPLIES"
    ],
    "noticeIds": [
-    "fb90cc24-785f-4035-8b03-345b49a291c1"
+    "ecc4f6f6-1173-4b9c-972e-4343fb079587"
    ],
-   "noticeSubType": "16",
-   "nutsCodes": [],
-   "organisation": {
-    "organisationId": 139,
-    "organisationNames": [
-     {
-      "language": "DE",
-      "text": "Enabel"
-     },
-     {
-      "language": "NL",
-      "text": "Enabel"
-     },
-     {
-      "language": "EN",
-      "text": "Enabel"
-     },
-     {
-      "language": "FR",
-      "text": "Enabel"
-     }
-    ],
-    "tree": "200002.200014.139"
-   },
-   "procedureId": "098733fd-4f89-4622-bae1-a6e874076983",
-   "publicationDate": "2026-10-26",
-   "publicationLanguages": [
-    "NL",
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "COD20004-10300_pub01"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "6e337194-d289-4400-a6e1-085dad19a1bd",
-   "publishedAt": [
-    "2026-10-26T09:48:46.02476"
-   ],
-   "referenceNumber": "COD20004-10300_pub01",
-   "sentAt": [
-    "2026-10-26T09:48:46.02476"
-   ],
-   "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "77000000-0",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Agricultural, forestry, horticultural, aquacultural and apicultural services"
-      },
-      {
-       "language": "DE",
-       "text": "Dienstleistungen in Landwirtschaft, Forstwirtschft, Gartenbau, Aquakultur und Bienenzucht"
-      },
-      {
-       "language": "NL",
-       "text": "Diensten voor land-, bos- en tuinbouw, aquicultuur en imkerij"
-      },
-      {
-       "language": "FR",
-       "text": "Services agricoles, sylvicoles, horticoles, d'aquaculture et d'apiculture"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "77000000-0",
-    "descriptions": [
-     {
-      "language": "EN",
-      "text": "Agricultural, forestry, horticultural, aquacultural and apicultural services"
-     },
-     {
-      "language": "DE",
-      "text": "Dienstleistungen in Landwirtschaft, Forstwirtschft, Gartenbau, Aquakultur und Bienenzucht"
-     },
-     {
-      "language": "NL",
-      "text": "Diensten voor land-, bos- en tuinbouw, aquicultuur en imkerij"
-     },
-     {
-      "language": "FR",
-      "text": "Services agricoles, sylvicoles, horticoles, d'aquaculture et d'apiculture"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-26",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "De dienst omvat het verwijderen van oude rasters en het plaatsen van een nieuw prikkeldraadraster met enkele metalen weidepoorten. Naast het vervangen van het raster zullen er ook enkele kleinere diensten gevraagd worden, zoals het voorzien van inbuizingen aan de toegangen van het begrazingsblok en het plaatsen van een grondwaterput met bijhorende weidepomp. Locatie: Scherpenheuvel-Zichem"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "ANB_GI_INRO_2026_168",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "ANB_GI_INRO_2026_168",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Begrazingsblok Kloosterbeemden"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-26",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Kort samengevat omvatten de werken het verwijderen van oude rasters en het plaatsen van een nieuw prikkeldraadraster met enkele metalen weidepoorten. Naast het vervangen van het raster zullen er ook enkele kleinere diensten gevraagd worden, zoals het voorzien van inbuizingen aan de toegangen van het begrazingsblok en het plaatsen van een grondwaterput met bijhorende weidepomp."
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "ANB_GI_INRO_2026_168 - 1"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SERVICES"
-   ],
-   "noticeIds": [
-    "e292bb5d-7dfd-4865-b43d-428f93ca7571"
-   ],
-   "noticeSubType": "29",
+   "noticeSubType": "E4",
    "nutsCodes": [
-    "BE242"
+    "BE258"
    ],
    "organisation": {
-    "organisationId": 5717,
+    "organisationId": 260,
     "organisationNames": [
      {
       "language": "DE",
-      "text": "Agentschap voor Natuur en Bos"
+      "text": "Koksijde"
      },
      {
       "language": "NL",
-      "text": "Agentschap voor Natuur en Bos"
+      "text": "Koksijde"
      },
      {
       "language": "FR",
-      "text": "Agentschap voor Natuur en Bos"
+      "text": "Koksijde"
      },
      {
       "language": "EN",
-      "text": "Agentschap voor Natuur en Bos"
+      "text": "Koksijde"
      }
     ],
-    "tree": "200003.200015.73.4646.5717"
+    "tree": "200004.200021.260"
    },
-   "procedureId": "52c79c8a-fbe5-4220-95cf-5b96a071b2f5",
-   "publicationDate": "2026-10-26",
+   "procedureId": "08ef8cee-b921-4801-9185-20a9cf907714",
+   "publicationDate": "2026-10-27",
    "publicationLanguages": [
     "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "ANB_GI_INRO_2026_168_pub01"
+    "PPP00T-4150/6681/2026133_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "262107df-2d5d-40ef-bb50-0c53a08a57db",
+   "publicationWorkspaceId": "10613a74-94c9-4f91-9ee2-18a70018859e",
    "publishedAt": [
-    "2026-10-26T09:57:45.463108"
+    "2026-10-27T00:00:47.688601"
    ],
-   "referenceNumber": "ANB_GI_INRO_2026_168_pub01",
+   "referenceNumber": "PPP00T-4150/6681/2026133_002",
    "sentAt": [
-    "2026-10-26T09:57:45.463108"
+    "2026-10-27T00:00:47.688601"
    ],
    "tedPublished": false
   }
@@ -698,135 +457,141 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "77000000-0",
+     "code": "45255500-4",
      "descriptions": [
       {
+       "language": "NL",
+       "text": "Boor- en exploratiewerkzaamheden"
+      },
+      {
        "language": "EN",
-       "text": "Agricultural, forestry, horticultural, aquacultural and apicultural services"
+       "text": "Drilling and exploration work"
       },
       {
        "language": "DE",
-       "text": "Dienstleistungen in Landwirtschaft, Forstwirtschft, Gartenbau, Aquakultur und Bienenzucht"
-      },
-      {
-       "language": "NL",
-       "text": "Diensten voor land-, bos- en tuinbouw, aquicultuur en imkerij"
+       "text": "Bohrungs- und Explorationsarbeiten"
       },
       {
        "language": "FR",
-       "text": "Services agricoles, sylvicoles, horticoles, d'aquaculture et d'apiculture"
+       "text": "Travaux de forage et d'exploration"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "77000000-0",
+    "code": "45255500-4",
     "descriptions": [
      {
+      "language": "NL",
+      "text": "Boor- en exploratiewerkzaamheden"
+     },
+     {
       "language": "EN",
-      "text": "Agricultural, forestry, horticultural, aquacultural and apicultural services"
+      "text": "Drilling and exploration work"
      },
      {
       "language": "DE",
-      "text": "Dienstleistungen in Landwirtschaft, Forstwirtschft, Gartenbau, Aquakultur und Bienenzucht"
-     },
-     {
-      "language": "NL",
-      "text": "Diensten voor land-, bos- en tuinbouw, aquicultuur en imkerij"
+      "text": "Bohrungs- und Explorationsarbeiten"
      },
      {
       "language": "FR",
-      "text": "Services agricoles, sylvicoles, horticoles, d'aquaculture et d'apiculture"
+      "text": "Travaux de forage et d'exploration"
      }
     ]
    },
-   "dispatchDate": "2026-10-26",
+   "dispatchDate": "2026-10-27",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
-      "language": "NL",
-      "text": "De dienst omvat het verwijderen van oude rasters en het plaatsen van een nieuw prikkeldraadraster met enkele metalen weidepoorten. Naast het vervangen van het raster zullen er ook enkele kleinere diensten gevraagd worden, zoals het voorzien van inbuizingen aan de toegangen van het begrazingsblok en het plaatsen van een grondwaterput met bijhorende weidepomp. Locatie: Scherpenheuvel-Zichem"
+      "language": "FR",
+      "text": "Le présent marché concerne la réalisation des forages en vue d’alimenter une sous-station thermodynamique centralisée. Cela comprend donc l’ensemble des forages géothermiques, les raccordements aux collecteurs, les collecteurs et la connexion à la zone technique.  Lieu d’exécution : 7100 Haine-Saint-Paul (La Louvière) – Clos de l’Age d’Or  Le site est libre d’occupation et de construction. "
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "ANB_GI_INRO_2026_168",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "ANB_GI_INRO_2026_168",
+    "number": "PPP0M9-1201/5216/T25.1201 (126.285)",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "PPP0M9-1201/5216/T25.1201 (126.285)",
     "titles": [
      {
-      "language": "NL",
-      "text": "Begrazingsblok Kloosterbeemden"
+      "language": "FR",
+      "text": "Réalisation de forages géothermiques sur le site du Clos de l'Age d'Or à La Louvière"
      }
     ]
    },
-   "insertionDate": "2026-10-26",
+   "insertionDate": "2026-10-27",
    "lots": [
     {
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Kort samengevat omvatten de werken het verwijderen van oude rasters en het plaatsen van een nieuw prikkeldraadraster met enkele metalen weidepoorten. Naast het vervangen van het raster zullen er ook enkele kleinere diensten gevraagd worden, zoals het voorzien van inbuizingen aan de toegangen van het begrazingsblok en het plaatsen van een grondwaterput met bijhorende weidepomp."
+       "language": "FR",
+       "text": "Le présent marché concerne la réalisation des forages en vue d’alimenter une sous-station thermodynamique centralisée. Cela comprend donc l’ensemble des forages géothermiques, les raccordements aux collecteurs, les collecteurs et la connexion à la zone technique.  Lieu d’exécution : 7100 Haine-Saint-Paul (La Louvière) – Clos de l’Age d’Or  Le site est libre d’occupation et de construction. "
       }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
      ],
      "titles": [
       {
-       "language": "NL",
-       "text": "ANB_GI_INRO_2026_168 - 1"
+       "language": "FR",
+       "text": "Réalisation de forages géothermiques sur le site du Clos de l'Age d'Or à La Louvière"
       }
      ]
     }
    ],
    "natures": [
-    "SERVICES"
+    "WORKS"
    ],
    "noticeIds": [
-    "e292bb5d-7dfd-4865-b43d-428f93ca7571"
+    "f67bc62f-68fb-4f3c-9c5f-fb73084c7761"
    ],
-   "noticeSubType": "29",
+   "noticeSubType": "E4",
    "nutsCodes": [
-    "BE242"
+    "BE329"
    ],
    "organisation": {
-    "organisationId": 5717,
+    "organisationId": 965,
     "organisationNames": [
      {
+      "language": "EN",
+      "text": "Centr'Habitat"
+     },
+     {
       "language": "DE",
-      "text": "Agentschap voor Natuur en Bos"
+      "text": "Centr'Habitat"
      },
      {
       "language": "NL",
-      "text": "Agentschap voor Natuur en Bos"
+      "text": "Centr'Habitat"
      },
      {
       "language": "FR",
-      "text": "Agentschap voor Natuur en Bos"
-     },
-     {
-      "language": "EN",
-      "text": "Agentschap voor Natuur en Bos"
+      "text": "Centr'Habitat SCRL"
      }
     ],
-    "tree": "200003.200015.73.4646.5717"
+    "tree": "200004.200028.965"
    },
-   "procedureId": "52c79c8a-fbe5-4220-95cf-5b96a071b2f5",
-   "publicationDate": "2026-10-26",
+   "procedureId": "33e93b75-5bfd-4cf8-adf6-61ff0ee54368",
+   "publicationDate": "2026-10-27",
    "publicationLanguages": [
-    "NL"
+    "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "ANB_GI_INRO_2026_168_pub01"
+    "PPP0M9-1201/5216/T25.1201 (126.285)_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "262107df-2d5d-40ef-bb50-0c53a08a57db",
+   "publicationWorkspaceId": "ebf962b3-01e8-48e2-9df4-de8d1b2408c2",
    "publishedAt": [
-    "2026-10-26T09:57:45.463108"
+    "2026-10-27T00:00:47.128507"
    ],
-   "referenceNumber": "ANB_GI_INRO_2026_168_pub01",
+   "referenceNumber": "PPP0M9-1201/5216/T25.1201 (126.285)_002",
    "sentAt": [
-    "2026-10-26T09:57:45.463108"
+    "2026-10-27T00:00:47.128507"
    ],
    "tedPublished": false
   }
