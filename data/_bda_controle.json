@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 293206
+  "totalCount": 293251
  },
  "types": [
   "ACTIVE|16|['SERVICES']",
@@ -10,6 +10,7 @@
   "ACTIVE|19|['SERVICES']",
   "ACTIVE|20|['SERVICES']",
   "ACTIVE|29|['SERVICES', 'SUPPLIES']",
+  "ACTIVE|29|['SERVICES']",
   "ACTIVE|29|['SUPPLIES']",
   "ACTIVE|29|['WORKS']",
   "ACTIVE|30|['SERVICES']",
@@ -17,6 +18,7 @@
   "ACTIVE|33|['SERVICES']",
   "ACTIVE|33|['SUPPLIES']",
   "ACTIVE|34|['SUPPLIES']",
+  "ACTIVE|38|['WORKS']",
   "ACTIVE|E3|['SERVICES', 'SUPPLIES']",
   "ACTIVE|E3|['SERVICES']",
   "ACTIVE|E3|['SUPPLIES']",
@@ -30,221 +32,192 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45000000-7",
+     "code": "79956000-0",
      "descriptions": [
       {
-       "language": "DE",
-       "text": "Bauarbeiten"
-      },
-      {
        "language": "NL",
-       "text": "Bouwwerkzaamheden"
+       "text": "Diensten voor het organiseren van beurzen en tentoonstellingen"
       },
       {
-       "language": "EN",
-       "text": "Construction work"
+       "language": "DE",
+       "text": "Organisation von Messen und Ausstellungen"
       },
       {
        "language": "FR",
-       "text": "Travaux de construction"
+       "text": "Services d'organisation de foires et d'expositions"
+      },
+      {
+       "language": "EN",
+       "text": "Fair and exhibition organisation services"
+      }
+     ]
+    },
+    {
+     "code": "92520000-2",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Museum services and preservation services of historical sites and buildings"
+      },
+      {
+       "language": "FR",
+       "text": "Services de musées et de préservation des sites historiques et des services connexes"
+      },
+      {
+       "language": "NL",
+       "text": "Museum- en aanverwante diensten"
+      },
+      {
+       "language": "DE",
+       "text": "Dienstleistungen von Museen und zugehörige Dienste"
+      }
+     ]
+    },
+    {
+     "code": "92112000-9",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Dienstleistungen im Zusammenhang mit Film- und Videofilmherstellung"
+      },
+      {
+       "language": "EN",
+       "text": "Services in connection with motion-picture and video-tape production"
+      },
+      {
+       "language": "FR",
+       "text": "Services liés à la production de films cinématographiques ou de vidéos"
+      },
+      {
+       "language": "NL",
+       "text": "Diensten in verband met de productie van films en video's"
+      }
+     ]
+    },
+    {
+     "code": "92111200-4",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Advertising, propaganda and information film and video-tape production"
+      },
+      {
+       "language": "FR",
+       "text": "Production de films et de vidéos publicitaires, de propagande et d'information"
+      },
+      {
+       "language": "DE",
+       "text": "Herstellung von Werbe-, Reklame- und Informationsfilmen und -videofilmen"
+      },
+      {
+       "language": "NL",
+       "text": "Productie van films en video's voor reclame, propaganda en informatie"
+      }
+     ]
+    },
+    {
+     "code": "92312210-6",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Services provided by authors"
+      },
+      {
+       "language": "NL",
+       "text": "Diensten verleend door auteurs"
+      },
+      {
+       "language": "DE",
+       "text": "Dienstleistungen von Verfassern"
+      },
+      {
+       "language": "FR",
+       "text": "Services prestés par les auteurs"
+      }
+     ]
+    },
+    {
+     "code": "92312211-3",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Dienstleistungen von Schreibbüros"
+      },
+      {
+       "language": "EN",
+       "text": "Writing agency services"
+      },
+      {
+       "language": "FR",
+       "text": "Services d'agences de rédaction"
+      },
+      {
+       "language": "NL",
+       "text": "Diensten verleend door tekstbureau"
+      }
+     ]
+    },
+    {
+     "code": "92521100-0",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Museum-exhibition services"
+      },
+      {
+       "language": "DE",
+       "text": "Museumsausstellungen"
+      },
+      {
+       "language": "NL",
+       "text": "Diensten voor museumexposities"
+      },
+      {
+       "language": "FR",
+       "text": "Services d'exposition dans les musées"
+      }
+     ]
+    },
+    {
+     "code": "92521000-9",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Museum services"
+      },
+      {
+       "language": "DE",
+       "text": "Dienstleistungen von Museen"
+      },
+      {
+       "language": "NL",
+       "text": "Museumdiensten"
+      },
+      {
+       "language": "FR",
+       "text": "Services de musées"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45000000-7",
+    "code": "92520000-2",
     "descriptions": [
      {
-      "language": "DE",
-      "text": "Bauarbeiten"
+      "language": "EN",
+      "text": "Museum services and preservation services of historical sites and buildings"
+     },
+     {
+      "language": "FR",
+      "text": "Services de musées et de préservation des sites historiques et des services connexes"
      },
      {
       "language": "NL",
-      "text": "Bouwwerkzaamheden"
+      "text": "Museum- en aanverwante diensten"
      },
-     {
-      "language": "EN",
-      "text": "Construction work"
-     },
-     {
-      "language": "FR",
-      "text": "Travaux de construction"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-26",
-   "dossier": {
-    "accreditations": {
-     "H": 4
-    },
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Ligne 43 :Y.Aguesse / Marloie Pose d’une nouvelle liaison 13AH/BH en gare de Rivage T Ligne 44 ; Pepinster - Spa-Géronstère  Et renouvellement AS 07I en gare de Pepinster Voies électrifiées 3 Kv "
-     }
-    ],
-    "enterpriseCategories": [
-     {
-      "categoryCode": "H",
-      "levels": [
-       4,
-       3,
-       2,
-       1
-      ]
-     }
-    ],
-    "legalBasis": "D25",
-    "number": "5752426077",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "5752426077",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "Pose d’une nouvelle liaison en gare de Rivage Et renouvellement en gare de Pepinster Ligne 44 ; Pepinster - Spa-Géronstère"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-26",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "- L43 : Pose d’une nouvelle liaison 13AH/BH - L44 : Renouvellement AS 07I voies électrifiées 3 Kv en gare de Pepinster "
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "5752426077 - Pose d’une nouvelle liaison 13AH/BH en gare de Rivage Ligne 43 : Y.Aguesse / Marloie Et renouvellement AS 07I en gare de Pepinster Ligne 44 : Pepinster - Spa-Géronstère  Voies électrifiées 3 Kv "
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "WORKS"
-   ],
-   "noticeIds": [
-    "b9fc23e4-47c1-4225-b4d8-1dd84000ebf6"
-   ],
-   "noticeSubType": "17",
-   "nutsCodes": [
-    "BE332",
-    "BE341"
-   ],
-   "organisation": {
-    "organisationId": 17122,
-    "organisationNames": [
      {
       "language": "DE",
-      "text": "Infrabel Projects South"
-     },
-     {
-      "language": "NL",
-      "text": "Infrabel Projects South"
-     },
-     {
-      "language": "FR",
-      "text": "Infrabel Projects South"
-     },
-     {
-      "language": "EN",
-      "text": "Infrabel Projects South"
-     }
-    ],
-    "tree": "200002.200014.4784.17122"
-   },
-   "procedureId": "8ce82c7b-2edf-41e6-afa7-c4fdac23bf30",
-   "publicationDate": "2026-10-26",
-   "publicationLanguages": [
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "5752426077_pub01"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "91fc7a81-2a18-451f-8a2a-c221010b4576",
-   "publishedAt": [
-    "2026-10-26T00:00:46.200403"
-   ],
-   "referenceNumber": "5752426077_pub01",
-   "sentAt": [
-    "2026-10-26T00:00:46.200403"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-26T14:00:00"
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "32321300-2",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Audiovisuele materialen"
-      },
-      {
-       "language": "EN",
-       "text": "Audio-visual materials"
-      },
-      {
-       "language": "DE",
-       "text": "Audiovisueller Bedarf"
-      },
-      {
-       "language": "FR",
-       "text": "Matériel audiovisuel"
-      }
-     ]
-    },
-    {
-     "code": "32321200-1",
-     "descriptions": [
-      {
-       "language": "DE",
-       "text": "Audiovisuelle Geräte"
-      },
-      {
-       "language": "EN",
-       "text": "Audio-visual equipment"
-      },
-      {
-       "language": "NL",
-       "text": "Audiovisuele uitrusting"
-      },
-      {
-       "language": "FR",
-       "text": "Équipement audiovisuel"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "32321200-1",
-    "descriptions": [
-     {
-      "language": "DE",
-      "text": "Audiovisuelle Geräte"
-     },
-     {
-      "language": "EN",
-      "text": "Audio-visual equipment"
-     },
-     {
-      "language": "NL",
-      "text": "Audiovisuele uitrusting"
-     },
-     {
-      "language": "FR",
-      "text": "Équipement audiovisuel"
+      "text": "Dienstleistungen von Museen und zugehörige Dienste"
      }
     ]
    },
@@ -254,18 +227,18 @@
     "descriptions": [
      {
       "language": "NL",
-      "text": "Levering van scenografisch audiovisueel materiaal: hard- en software"
+      "text": "Ontwikkeling van scenografische vormgeving en content"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP043-1098/6108/2026/594",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "PPP043-1098/6108/2026/594",
+    "number": "PPP043-1096/6102/2026/592",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP043-1096/6102/2026/592",
     "titles": [
      {
       "language": "NL",
-      "text": "Levering van scenografisch audiovisueel materiaal: hard- en software"
+      "text": "Ontwikkeling van scenografische vormgeving en content"
      }
     ]
    },
@@ -275,28 +248,50 @@
      "descriptions": [
       {
        "language": "NL",
-       "text": "Levering van scenografisch audiovisueel materiaal: hard- en software"
+       "text": "Ontwikkelen van films en audiovisueel materiaal"
       }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
      ],
      "titles": [
       {
        "language": "NL",
-       "text": "Levering van scenografisch audiovisueel materiaal: hard- en software"
+       "text": "Ontwikkelen van films en audiovisueel materiaal"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Ontwikkeling van content"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Ontwikkeling van content"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Grafische huisstijl en grafische vormgeving scenografie"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Grafische huisstijl en grafische vormgeving scenografie"
       }
      ]
     }
    ],
    "natures": [
-    "SUPPLIES"
+    "SERVICES"
    ],
    "noticeIds": [
-    "a60278ad-e332-4878-b47d-eb4e677fe782"
+    "efb47f7a-c19a-4c42-87e5-5c108b4e859e"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
@@ -324,25 +319,167 @@
     ],
     "tree": "200004.200021.451"
    },
-   "procedureId": "06e11f08-5664-4f5c-bae1-f85bc0f2c0b6",
+   "procedureId": "fd027616-89a3-40e8-9daa-b2bf39d45e93",
    "publicationDate": "2026-10-26",
    "publicationLanguages": [
     "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP043-1098/6108/2026/594_002"
+    "PPP043-1096/6102/2026/592_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "002d5e17-0d1a-428a-b326-45fa31404eda",
+   "publicationWorkspaceId": "b30cfef2-72f3-475e-9026-8d865f12fd4c",
    "publishedAt": [
-    "2026-10-26T00:00:45.565324"
+    "2026-10-26T00:00:46.040918"
    ],
-   "referenceNumber": "PPP043-1098/6108/2026/594_002",
+   "referenceNumber": "PPP043-1096/6102/2026/592_002",
    "sentAt": [
-    "2026-10-26T00:00:45.565324"
+    "2026-10-26T00:00:46.040918"
    ],
    "tedPublished": false
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45110000-1",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Building demolition and wrecking work and earthmoving work"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de démolition de bâtiments et travaux de terrassement"
+      },
+      {
+       "language": "NL",
+       "text": "Slopen en ontmantelen van gebouwen, en grondverzet"
+      },
+      {
+       "language": "DE",
+       "text": "Abbruch von Gebäuden sowie allgemeine Abbruch- und Erdbewegungsarbeiten"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45110000-1",
+    "descriptions": [
+     {
+      "language": "EN",
+      "text": "Building demolition and wrecking work and earthmoving work"
+     },
+     {
+      "language": "FR",
+      "text": "Travaux de démolition de bâtiments et travaux de terrassement"
+     },
+     {
+      "language": "NL",
+      "text": "Slopen en ontmantelen van gebouwen, en grondverzet"
+     },
+     {
+      "language": "DE",
+      "text": "Abbruch von Gebäuden sowie allgemeine Abbruch- und Erdbewegungsarbeiten"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-26",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Sloop van een bestaande loods en metalen terreinafsluiting"
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP104-451/6102/901.296",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "PPP104-451/6102/901.296",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Sloop van een bestaande loods en metalen terreinafsluiting"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-26",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Sloop van een bestaande loods en metalen terreinafsluiting"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Sloop van een bestaande loods en metalen terreinafsluiting"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "6c4242e4-3540-4a01-91b0-5f10f6926e9d"
+   ],
+   "noticeSubType": "16",
+   "nutsCodes": [
+    "BE242"
+   ],
+   "organisation": {
+    "organisationId": 1785,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "Dienstverlenende vereniging voor de Ruimtelijke Ordening en de Economische-Sociale Expansie van het Arrondissement Leuven"
+     },
+     {
+      "language": "NL",
+      "text": "Dienstverlenende vereniging voor de Ruimtelijke Ordening en de Economische-Sociale Expansie van het Arrondissement Leuven"
+     },
+     {
+      "language": "EN",
+      "text": "Dienstverlenende vereniging voor de Ruimtelijke Ordening en de Economische-Sociale Expansie van het Arrondissement Leuven"
+     },
+     {
+      "language": "FR",
+      "text": "Dienstverlenende vereniging voor de Ruimtelijke Ordening en de Economische-Sociale Expansie van het Arrondissement Leuven"
+     }
+    ],
+    "tree": "200004.200023.1785"
+   },
+   "procedureId": "525ee0aa-d0d7-4edf-b2c9-58f1e96a6c3a",
+   "publicationDate": "2026-10-26",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP104-451/6102/901.296_001"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "8ebdb0a9-6350-4ff7-9343-fc065779caca",
+   "publishedAt": [
+    "2026-10-26T00:00:45.015088"
+   ],
+   "referenceNumber": "PPP104-451/6102/901.296_001",
+   "sentAt": [
+    "2026-10-26T00:00:45.015088"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-11-23T10:00:00"
   },
   {
    "cpvAdditionalCodes": [
@@ -491,66 +628,192 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "32321300-2",
+     "code": "79956000-0",
      "descriptions": [
       {
        "language": "NL",
-       "text": "Audiovisuele materialen"
-      },
-      {
-       "language": "EN",
-       "text": "Audio-visual materials"
+       "text": "Diensten voor het organiseren van beurzen en tentoonstellingen"
       },
       {
        "language": "DE",
-       "text": "Audiovisueller Bedarf"
+       "text": "Organisation von Messen und Ausstellungen"
       },
       {
        "language": "FR",
-       "text": "Matériel audiovisuel"
+       "text": "Services d'organisation de foires et d'expositions"
+      },
+      {
+       "language": "EN",
+       "text": "Fair and exhibition organisation services"
       }
      ]
     },
     {
-     "code": "32321200-1",
+     "code": "92520000-2",
      "descriptions": [
       {
-       "language": "DE",
-       "text": "Audiovisuelle Geräte"
-      },
-      {
        "language": "EN",
-       "text": "Audio-visual equipment"
-      },
-      {
-       "language": "NL",
-       "text": "Audiovisuele uitrusting"
+       "text": "Museum services and preservation services of historical sites and buildings"
       },
       {
        "language": "FR",
-       "text": "Équipement audiovisuel"
+       "text": "Services de musées et de préservation des sites historiques et des services connexes"
+      },
+      {
+       "language": "NL",
+       "text": "Museum- en aanverwante diensten"
+      },
+      {
+       "language": "DE",
+       "text": "Dienstleistungen von Museen und zugehörige Dienste"
+      }
+     ]
+    },
+    {
+     "code": "92112000-9",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Dienstleistungen im Zusammenhang mit Film- und Videofilmherstellung"
+      },
+      {
+       "language": "EN",
+       "text": "Services in connection with motion-picture and video-tape production"
+      },
+      {
+       "language": "FR",
+       "text": "Services liés à la production de films cinématographiques ou de vidéos"
+      },
+      {
+       "language": "NL",
+       "text": "Diensten in verband met de productie van films en video's"
+      }
+     ]
+    },
+    {
+     "code": "92111200-4",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Advertising, propaganda and information film and video-tape production"
+      },
+      {
+       "language": "FR",
+       "text": "Production de films et de vidéos publicitaires, de propagande et d'information"
+      },
+      {
+       "language": "DE",
+       "text": "Herstellung von Werbe-, Reklame- und Informationsfilmen und -videofilmen"
+      },
+      {
+       "language": "NL",
+       "text": "Productie van films en video's voor reclame, propaganda en informatie"
+      }
+     ]
+    },
+    {
+     "code": "92312210-6",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Services provided by authors"
+      },
+      {
+       "language": "NL",
+       "text": "Diensten verleend door auteurs"
+      },
+      {
+       "language": "DE",
+       "text": "Dienstleistungen von Verfassern"
+      },
+      {
+       "language": "FR",
+       "text": "Services prestés par les auteurs"
+      }
+     ]
+    },
+    {
+     "code": "92312211-3",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Dienstleistungen von Schreibbüros"
+      },
+      {
+       "language": "EN",
+       "text": "Writing agency services"
+      },
+      {
+       "language": "FR",
+       "text": "Services d'agences de rédaction"
+      },
+      {
+       "language": "NL",
+       "text": "Diensten verleend door tekstbureau"
+      }
+     ]
+    },
+    {
+     "code": "92521100-0",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Museum-exhibition services"
+      },
+      {
+       "language": "DE",
+       "text": "Museumsausstellungen"
+      },
+      {
+       "language": "NL",
+       "text": "Diensten voor museumexposities"
+      },
+      {
+       "language": "FR",
+       "text": "Services d'exposition dans les musées"
+      }
+     ]
+    },
+    {
+     "code": "92521000-9",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Museum services"
+      },
+      {
+       "language": "DE",
+       "text": "Dienstleistungen von Museen"
+      },
+      {
+       "language": "NL",
+       "text": "Museumdiensten"
+      },
+      {
+       "language": "FR",
+       "text": "Services de musées"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "32321200-1",
+    "code": "92520000-2",
     "descriptions": [
      {
-      "language": "DE",
-      "text": "Audiovisuelle Geräte"
-     },
-     {
       "language": "EN",
-      "text": "Audio-visual equipment"
-     },
-     {
-      "language": "NL",
-      "text": "Audiovisuele uitrusting"
+      "text": "Museum services and preservation services of historical sites and buildings"
      },
      {
       "language": "FR",
-      "text": "Équipement audiovisuel"
+      "text": "Services de musées et de préservation des sites historiques et des services connexes"
+     },
+     {
+      "language": "NL",
+      "text": "Museum- en aanverwante diensten"
+     },
+     {
+      "language": "DE",
+      "text": "Dienstleistungen von Museen und zugehörige Dienste"
      }
     ]
    },
@@ -560,18 +823,18 @@
     "descriptions": [
      {
       "language": "NL",
-      "text": "Levering van scenografisch audiovisueel materiaal: hard- en software"
+      "text": "Ontwikkeling van scenografische vormgeving en content"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP043-1098/6108/2026/594",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "PPP043-1098/6108/2026/594",
+    "number": "PPP043-1096/6102/2026/592",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP043-1096/6102/2026/592",
     "titles": [
      {
       "language": "NL",
-      "text": "Levering van scenografisch audiovisueel materiaal: hard- en software"
+      "text": "Ontwikkeling van scenografische vormgeving en content"
      }
     ]
    },
@@ -581,28 +844,50 @@
      "descriptions": [
       {
        "language": "NL",
-       "text": "Levering van scenografisch audiovisueel materiaal: hard- en software"
+       "text": "Ontwikkelen van films en audiovisueel materiaal"
       }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
      ],
      "titles": [
       {
        "language": "NL",
-       "text": "Levering van scenografisch audiovisueel materiaal: hard- en software"
+       "text": "Ontwikkelen van films en audiovisueel materiaal"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Ontwikkeling van content"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Ontwikkeling van content"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Grafische huisstijl en grafische vormgeving scenografie"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Grafische huisstijl en grafische vormgeving scenografie"
       }
      ]
     }
    ],
    "natures": [
-    "SUPPLIES"
+    "SERVICES"
    ],
    "noticeIds": [
-    "a60278ad-e332-4878-b47d-eb4e677fe782"
+    "efb47f7a-c19a-4c42-87e5-5c108b4e859e"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
@@ -630,23 +915,23 @@
     ],
     "tree": "200004.200021.451"
    },
-   "procedureId": "06e11f08-5664-4f5c-bae1-f85bc0f2c0b6",
+   "procedureId": "fd027616-89a3-40e8-9daa-b2bf39d45e93",
    "publicationDate": "2026-10-26",
    "publicationLanguages": [
     "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP043-1098/6108/2026/594_002"
+    "PPP043-1096/6102/2026/592_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "002d5e17-0d1a-428a-b326-45fa31404eda",
+   "publicationWorkspaceId": "b30cfef2-72f3-475e-9026-8d865f12fd4c",
    "publishedAt": [
-    "2026-10-26T00:00:45.565324"
+    "2026-10-26T00:00:46.040918"
    ],
-   "referenceNumber": "PPP043-1098/6108/2026/594_002",
+   "referenceNumber": "PPP043-1096/6102/2026/592_002",
    "sentAt": [
-    "2026-10-26T00:00:45.565324"
+    "2026-10-26T00:00:46.040918"
    ],
    "tedPublished": false
   }
