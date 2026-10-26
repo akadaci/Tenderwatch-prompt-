@@ -1,13 +1,12 @@
 {
- "updated": "2026-10-26T17:02:54Z",
+ "updated": "2026-10-26T19:01:35Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 381,
- "kept": 199,
- "count": 2233,
+ "received": 383,
+ "kept": 200,
+ "count": 2234,
  "new_ids": [
-  "bda-247174ad-522e-4d6e-94cd-2e6076454e77",
-  "bda-f256e8ef-f026-41d9-b332-3a7aa054a42f"
+  "bda-d12159d5-7cb9-4d93-9579-f5c56235c01f"
  ],
  "records": [
   {
@@ -2340,6 +2339,27 @@
    "procedure": "6d390bdb-b53a-4202-bcbb-2a814f5934b5",
    "dossier": "PPP0CH-5739/6977/RF2026/8-7/5739",
    "first_seen": "2026-10-26T17:02:54Z"
+  },
+  {
+   "id": "bda-d12159d5-7cb9-4d93-9579-f5c56235c01f",
+   "source_type": "BDA",
+   "nom": "PROJET PRISMA - ÉVALUATION BIOLOGIQUE, VALIDATION DE LA STÉRILISATION, VALIDATION DU RETRAITEMENT D'UN INSTRUMENT CHIRURGICAL RÉUTILISABLE",
+   "lieu": "Bruxelles",
+   "province": "Bruxelles",
+   "mo": "CERDECAM",
+   "etape": 2,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/d12159d5-7cb9-4d93-9579-f5c56235c01f",
+   "verif": "vérifié",
+   "verif_date": "2026-10-26",
+   "preuve": "Bulletin des Adjudications, réf. CERDECAM-3 (attribution, sous-type eForms 29), publié le 2026-10-26.",
+   "date_publication": "2026-10-26",
+   "cpv": "71900000,73111000",
+   "ted_ref": "",
+   "notes": "Le présent contrat a pour objet la réalisation d’essais en laboratoire et d’activités d’évaluation destinés à étayer la documentation technique du fabricant requise en vertu du règlement (UE) 2017/745 (MDR) pour le dispositif. ClearCut est classé comme instrument chirurgical réutilisable de classe I",
+   "procedure": "afc813a8-86b4-4938-9ebc-9c9dab2ef477",
+   "dossier": "CERDECAM-3",
+   "first_seen": "2026-10-26T19:01:35Z"
   },
   {
    "id": "bda-582e9a9a-72f0-4af8-97d7-2a5b2886b7f8",
