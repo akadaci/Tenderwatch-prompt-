@@ -1,12 +1,48 @@
 {
- "updated": "2026-10-26T11:01:42Z",
+ "updated": "2026-10-26T13:01:50Z",
  "source": "urban.brussels NOVA (WFS)",
  "days_back": 3,
- "received": 34,
- "kept": 2,
- "count": 125,
- "new_ids": [],
+ "received": 42,
+ "kept": 3,
+ "count": 128,
+ "new_ids": [
+  "nova-17/PU/2050454",
+  "nova-17/PU/2050455",
+  "nova-09/PFD/2050425"
+ ],
  "records": [
+  {
+   "id": "nova-17/PU/2050454",
+   "source_type": "Permis",
+   "nom": "rénover énergétique du bâtiment et créer une cour anglaise",
+   "lieu": "Avenue Emile Van Becelaere 101, 1170 Watermael-Boitsfort",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='17/PU/2050454'",
+   "verif": "vérifié",
+   "verif_date": "2026-10-26",
+   "preuve": "Demande de permis 17/PU/2050454 reçue le 2026-10-26 (urban.brussels, service NOVA).",
+   "date_publication": "2026-10-26",
+   "notes": "Autorité : Watermael-Boitsfort",
+   "first_seen": "2026-10-26T13:01:50Z"
+  },
+  {
+   "id": "nova-17/PU/2050455",
+   "source_type": "Permis",
+   "nom": "régulariser (art. 330, § 3, CoBAT) la réunion des appartements E7 et F7 du 7e étage en un seul logement, réalisée avant le 1er janvier 2000 (dès 1972)",
+   "lieu": "Avenue de la Sauvagine 5, 1170 Watermael-Boitsfort",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='17/PU/2050455'",
+   "verif": "vérifié",
+   "verif_date": "2026-10-26",
+   "preuve": "Demande de permis 17/PU/2050455 reçue le 2026-10-25 (urban.brussels, service NOVA).",
+   "date_publication": "2026-10-25",
+   "notes": "Autorité : Watermael-Boitsfort",
+   "first_seen": "2026-10-26T13:01:50Z"
+  },
   {
    "id": "nova-16/PU/2050316",
    "source_type": "Permis",
@@ -70,6 +106,22 @@
    "date_publication": "2026-10-23",
    "notes": "Autorité : Bruxelles",
    "first_seen": "2026-10-24T04:07:07Z"
+  },
+  {
+   "id": "nova-09/PFD/2050425",
+   "source_type": "Permis",
+   "nom": "Mettre en conformité l'aménagement intérieur résultant de la suppression de la liaison entre l'ancien espace de bureaux situé au rez-de-chaussée et le logement A281. Le projet prévoit également de rég",
+   "lieu": "Rue Souveraine 28, 1050 Ixelles",
+   "type": "Permis d'urbanisme délivré par le FD",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='09/PFD/2050425'",
+   "verif": "vérifié",
+   "verif_date": "2026-10-26",
+   "preuve": "Demande de permis 09/PFD/2050425 reçue le 2026-10-23 (urban.brussels, service NOVA).",
+   "date_publication": "2026-10-23",
+   "notes": "Autorité : BUP",
+   "first_seen": "2026-10-26T13:01:50Z"
   },
   {
    "id": "nova-06/PFD/2050296",
