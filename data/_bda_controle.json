@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 293280
+  "totalCount": 293321
  },
  "types": [
   "ACTIVE|16|['SERVICES', 'SUPPLIES']",
@@ -19,6 +19,7 @@
   "ACTIVE|30|['SUPPLIES']",
   "ACTIVE|33|['SERVICES']",
   "ACTIVE|33|['SUPPLIES']",
+  "ACTIVE|33|['WORKS']",
   "ACTIVE|34|['SUPPLIES']",
   "ACTIVE|38|['WORKS']",
   "ACTIVE|E3|['SERVICES', 'SUPPLIES']",
@@ -26,6 +27,7 @@
   "ACTIVE|E3|['SUPPLIES']",
   "ACTIVE|E3|['WORKS', 'SUPPLIES']",
   "ACTIVE|E3|['WORKS']",
+  "ACTIVE|E4|['SERVICES', 'SUPPLIES']",
   "ACTIVE|E4|['SERVICES']",
   "ACTIVE|E4|['SUPPLIES']",
   "ACTIVE|E4|['WORKS']"
@@ -34,192 +36,45 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "79956000-0",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Diensten voor het organiseren van beurzen en tentoonstellingen"
-      },
-      {
-       "language": "DE",
-       "text": "Organisation von Messen und Ausstellungen"
-      },
-      {
-       "language": "FR",
-       "text": "Services d'organisation de foires et d'expositions"
-      },
-      {
-       "language": "EN",
-       "text": "Fair and exhibition organisation services"
-      }
-     ]
-    },
-    {
-     "code": "92520000-2",
+     "code": "80530000-8",
      "descriptions": [
       {
        "language": "EN",
-       "text": "Museum services and preservation services of historical sites and buildings"
-      },
-      {
-       "language": "FR",
-       "text": "Services de musées et de préservation des sites historiques et des services connexes"
+       "text": "Vocational training services"
       },
       {
        "language": "NL",
-       "text": "Museum- en aanverwante diensten"
-      },
-      {
-       "language": "DE",
-       "text": "Dienstleistungen von Museen und zugehörige Dienste"
-      }
-     ]
-    },
-    {
-     "code": "92112000-9",
-     "descriptions": [
-      {
-       "language": "DE",
-       "text": "Dienstleistungen im Zusammenhang mit Film- und Videofilmherstellung"
-      },
-      {
-       "language": "EN",
-       "text": "Services in connection with motion-picture and video-tape production"
+       "text": "Beroepsopleidingsdiensten"
       },
       {
        "language": "FR",
-       "text": "Services liés à la production de films cinématographiques ou de vidéos"
-      },
-      {
-       "language": "NL",
-       "text": "Diensten in verband met de productie van films en video's"
-      }
-     ]
-    },
-    {
-     "code": "92111200-4",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Advertising, propaganda and information film and video-tape production"
-      },
-      {
-       "language": "FR",
-       "text": "Production de films et de vidéos publicitaires, de propagande et d'information"
-      },
-      {
-       "language": "NL",
-       "text": "Productie van films en video's voor reclame, propaganda en informatie"
+       "text": "Services de formation professionnelle"
       },
       {
        "language": "DE",
-       "text": "Herstellung von Werbe-, Reklame- und Informationsfilmen und -videofilmen"
-      }
-     ]
-    },
-    {
-     "code": "92312210-6",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Services provided by authors"
-      },
-      {
-       "language": "NL",
-       "text": "Diensten verleend door auteurs"
-      },
-      {
-       "language": "DE",
-       "text": "Dienstleistungen von Verfassern"
-      },
-      {
-       "language": "FR",
-       "text": "Services prestés par les auteurs"
-      }
-     ]
-    },
-    {
-     "code": "92312211-3",
-     "descriptions": [
-      {
-       "language": "DE",
-       "text": "Dienstleistungen von Schreibbüros"
-      },
-      {
-       "language": "EN",
-       "text": "Writing agency services"
-      },
-      {
-       "language": "FR",
-       "text": "Services d'agences de rédaction"
-      },
-      {
-       "language": "NL",
-       "text": "Diensten verleend door tekstbureau"
-      }
-     ]
-    },
-    {
-     "code": "92521100-0",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Museum-exhibition services"
-      },
-      {
-       "language": "DE",
-       "text": "Museumsausstellungen"
-      },
-      {
-       "language": "NL",
-       "text": "Diensten voor museumexposities"
-      },
-      {
-       "language": "FR",
-       "text": "Services d'exposition dans les musées"
-      }
-     ]
-    },
-    {
-     "code": "92521000-9",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Museum services"
-      },
-      {
-       "language": "DE",
-       "text": "Dienstleistungen von Museen"
-      },
-      {
-       "language": "NL",
-       "text": "Museumdiensten"
-      },
-      {
-       "language": "FR",
-       "text": "Services de musées"
+       "text": "Berufsausbildung"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "92520000-2",
+    "code": "80530000-8",
     "descriptions": [
      {
       "language": "EN",
-      "text": "Museum services and preservation services of historical sites and buildings"
-     },
-     {
-      "language": "FR",
-      "text": "Services de musées et de préservation des sites historiques et des services connexes"
+      "text": "Vocational training services"
      },
      {
       "language": "NL",
-      "text": "Museum- en aanverwante diensten"
+      "text": "Beroepsopleidingsdiensten"
+     },
+     {
+      "language": "FR",
+      "text": "Services de formation professionnelle"
      },
      {
       "language": "DE",
-      "text": "Dienstleistungen von Museen und zugehörige Dienste"
+      "text": "Berufsausbildung"
      }
     ]
    },
@@ -228,19 +83,20 @@
     "accreditations": {},
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Ontwikkeling van scenografische vormgeving en content"
+      "language": "FR",
+      "text": "Le présent marché a pour objet la prestation de services pédagogiques spécialisés en Graphic Design. Le marché consiste en la réalisation de missions d'animation, de coanimation et de renfort pédagogique de modules de formation en Graphic Design à destination notamment des chercheurs d'emploi, travailleurs, étudiants et enseignants."
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP043-1096/6102/2026/592",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP043-1096/6102/2026/592",
+    "number": "DMP2600205/TLMFLR/GRAPHIC DESIGN",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "DMP2600205/TLMFLR/GRAPHIC DESIGN",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
-      "language": "NL",
-      "text": "Ontwikkeling van scenografische vormgeving en content"
+      "language": "FR",
+      "text": "Marché DNSH de services de prestations pédagogiques en Graphic Design"
      }
     ]
    },
@@ -249,42 +105,160 @@
     {
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Ontwikkelen van films en audiovisueel materiaal"
+       "language": "FR",
+       "text": "Création graphique avec la suite Affinity"
       }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
      ],
      "titles": [
       {
-       "language": "NL",
-       "text": "Ontwikkelen van films en audiovisueel materiaal"
+       "language": "FR",
+       "text": "DMP2600205/TLMFLR/GRAPHIC DESIGN -: Création graphique avec la Suite Affinity"
       }
      ]
     },
     {
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Ontwikkeling van content"
+       "language": "FR",
+       "text": "Projets graphiques intégrés, méthodologie de travail et valorisation personnelle (portfolio)"
       }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
      ],
      "titles": [
       {
-       "language": "NL",
-       "text": "Ontwikkeling van content"
+       "language": "FR",
+       "text": "DMP2600205/TLMFLR/GRAPHIC DESIGN - 6 : Projets graphiques intégrés, méthodologie de travail et valorisation personnelle (portfolio)"
       }
      ]
     },
     {
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Grafische huisstijl en grafische vormgeving scenografie"
+       "language": "FR",
+       "text": "Communication digitale: publications numériques et contenus interactifs (multi-supports)"
       }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
      ],
      "titles": [
       {
-       "language": "NL",
-       "text": "Grafische huisstijl en grafische vormgeving scenografie"
+       "language": "FR",
+       "text": "DMP2600205/TLMFLR/GRAPHIC DESIGN - 5 : Communication digitale: publications numériques et contenus interactifs (multi-supports)"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Design éditorial, mise en page et prépresse (print et multi supports) avec Adobe In Design"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "DMP2600205/TLMFLR/GRAPHIC DESIGN : Design éditorial, mise en page et prépresse (print et multi supports) avec Adobe In Design"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Chaîne graphique, conformité des fichiers et workflows de production"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "DMP2600205/TLMFLR/GRAPHIC DESIGN - 4 : Chaîne graphique, conformité des fichiers et workflows de production"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Packaging, PLV et supports grand format"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "DMP2600205/TLMFLR/GRAPHIC DESIGN - 7 : Packaging, PLV et supports grand format"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Design de marque et productions vectorielles avec Adobe Illustrator"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "DMP2600205/TLMFLR/GRAPHIC DESIGN - Design de marque et productions vectorielles avec Adobe Illustrator"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Mise à jour Creative Cloud"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "DMP2600205/TLMFLR/GRAPHIC DESIGN - 8 : Mise à jour Creative Cloud"
       }
      ]
     }
@@ -293,238 +267,97 @@
     "SERVICES"
    ],
    "noticeIds": [
-    "efb47f7a-c19a-4c42-87e5-5c108b4e859e"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE100"
-   ],
-   "organisation": {
-    "organisationId": 451,
-    "organisationNames": [
-     {
-      "language": "FR",
-      "text": "Rumst"
-     },
-     {
-      "language": "EN",
-      "text": "Rumst"
-     },
-     {
-      "language": "DE",
-      "text": "Rumst"
-     },
-     {
-      "language": "NL",
-      "text": "Rumst"
-     }
-    ],
-    "tree": "200004.200021.451"
-   },
-   "procedureId": "fd027616-89a3-40e8-9daa-b2bf39d45e93",
-   "publicationDate": "2026-10-26",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP043-1096/6102/2026/592_002"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "b30cfef2-72f3-475e-9026-8d865f12fd4c",
-   "publishedAt": [
-    "2026-10-26T00:00:46.040918"
-   ],
-   "referenceNumber": "PPP043-1096/6102/2026/592_002",
-   "sentAt": [
-    "2026-10-26T00:00:46.040918"
-   ],
-   "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "45110000-1",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Building demolition and wrecking work and earthmoving work"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de démolition de bâtiments et travaux de terrassement"
-      },
-      {
-       "language": "NL",
-       "text": "Slopen en ontmantelen van gebouwen, en grondverzet"
-      },
-      {
-       "language": "DE",
-       "text": "Abbruch von Gebäuden sowie allgemeine Abbruch- und Erdbewegungsarbeiten"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "45110000-1",
-    "descriptions": [
-     {
-      "language": "EN",
-      "text": "Building demolition and wrecking work and earthmoving work"
-     },
-     {
-      "language": "FR",
-      "text": "Travaux de démolition de bâtiments et travaux de terrassement"
-     },
-     {
-      "language": "NL",
-      "text": "Slopen en ontmantelen van gebouwen, en grondverzet"
-     },
-     {
-      "language": "DE",
-      "text": "Abbruch von Gebäuden sowie allgemeine Abbruch- und Erdbewegungsarbeiten"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-26",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Sloop van een bestaande loods en metalen terreinafsluiting"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP104-451/6102/901.296",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "PPP104-451/6102/901.296",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Sloop van een bestaande loods en metalen terreinafsluiting"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-26",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Sloop van een bestaande loods en metalen terreinafsluiting"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Sloop van een bestaande loods en metalen terreinafsluiting"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "WORKS"
-   ],
-   "noticeIds": [
-    "6c4242e4-3540-4a01-91b0-5f10f6926e9d"
+    "5e70ca1c-033d-4805-b411-95700aea0700"
    ],
    "noticeSubType": "16",
    "nutsCodes": [
-    "BE242"
+    "BE"
    ],
    "organisation": {
-    "organisationId": 1785,
+    "organisationId": 134,
     "organisationNames": [
      {
-      "language": "DE",
-      "text": "Dienstverlenende vereniging voor de Ruimtelijke Ordening en de Economische-Sociale Expansie van het Arrondissement Leuven"
-     },
-     {
-      "language": "NL",
-      "text": "Dienstverlenende vereniging voor de Ruimtelijke Ordening en de Economische-Sociale Expansie van het Arrondissement Leuven"
-     },
-     {
       "language": "EN",
-      "text": "Dienstverlenende vereniging voor de Ruimtelijke Ordening en de Economische-Sociale Expansie van het Arrondissement Leuven"
+      "text": "Office Wallon de la formation professionnelle et de l'emploi"
      },
      {
       "language": "FR",
-      "text": "Dienstverlenende vereniging voor de Ruimtelijke Ordening en de Economische-Sociale Expansie van het Arrondissement Leuven"
+      "text": "Office Wallon de la formation professionnelle et de l'emploi"
+     },
+     {
+      "language": "DE",
+      "text": "Office Wallon de la formation professionnelle et de l'emploi"
+     },
+     {
+      "language": "NL",
+      "text": "Office Wallon de la formation professionnelle et de l'emploi"
      }
     ],
-    "tree": "200004.200023.1785"
+    "tree": "200003.200016.134"
    },
-   "procedureId": "525ee0aa-d0d7-4edf-b2c9-58f1e96a6c3a",
+   "procedureId": "3d242df9-b5c2-4c8a-9924-716c657b1fae",
    "publicationDate": "2026-10-26",
    "publicationLanguages": [
-    "NL"
+    "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP104-451/6102/901.296_001"
+    "DMP2600205/TLMFLR/GRAPHIC DESIGN_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "8ebdb0a9-6350-4ff7-9343-fc065779caca",
+   "publicationWorkspaceId": "3e5ffbad-cee9-49d2-92cf-34e673ae6a94",
    "publishedAt": [
-    "2026-10-26T00:00:45.015088"
+    "2026-10-26T09:54:45.017378"
    ],
-   "referenceNumber": "PPP104-451/6102/901.296_001",
+   "referenceNumber": "DMP2600205/TLMFLR/GRAPHIC DESIGN_pub01",
    "sentAt": [
-    "2026-10-26T00:00:45.015088"
+    "2026-10-26T09:54:45.017378"
    ],
    "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-23T10:00:00"
+   "vaultSubmissionDeadline": "2026-12-07T14:00:00"
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "34928480-6",
+     "code": "30000000-9",
      "descriptions": [
       {
        "language": "EN",
-       "text": "Waste and rubbish containers and bins"
-      },
-      {
-       "language": "DE",
-       "text": "Abfallcontainer und -körbe"
-      },
-      {
-       "language": "NL",
-       "text": "Afval- en vuilcontainers en bakken"
+       "text": "Office and computing machinery, equipment and supplies except furniture and software packages"
       },
       {
        "language": "FR",
-       "text": "Conteneurs et poubelles de déchets"
+       "text": "Machines, matériel et fourniture informatique et de bureau, excepté les meubles et logiciels"
+      },
+      {
+       "language": "NL",
+       "text": "Kantoormachines en gegevensverwerkende apparatuur, kantooruitrusting en -benodigdheden, uitgez. meubilair en softwarepakketten"
+      },
+      {
+       "language": "DE",
+       "text": "Maschinen, Material und Zubehör für Büro und Computer, außer Möbeln und Softwarepaketen"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "34928480-6",
+    "code": "30000000-9",
     "descriptions": [
      {
       "language": "EN",
-      "text": "Waste and rubbish containers and bins"
-     },
-     {
-      "language": "DE",
-      "text": "Abfallcontainer und -körbe"
-     },
-     {
-      "language": "NL",
-      "text": "Afval- en vuilcontainers en bakken"
+      "text": "Office and computing machinery, equipment and supplies except furniture and software packages"
      },
      {
       "language": "FR",
-      "text": "Conteneurs et poubelles de déchets"
+      "text": "Machines, matériel et fourniture informatique et de bureau, excepté les meubles et logiciels"
+     },
+     {
+      "language": "NL",
+      "text": "Kantoormachines en gegevensverwerkende apparatuur, kantooruitrusting en -benodigdheden, uitgez. meubilair en softwarepakketten"
+     },
+     {
+      "language": "DE",
+      "text": "Maschinen, Material und Zubehör für Büro und Computer, außer Möbeln und Softwarepaketen"
      }
     ]
    },
@@ -533,19 +366,28 @@
     "accreditations": {},
     "descriptions": [
      {
+      "language": "FR",
+      "text": "Acquisition de matériels informatiques destinés aux partenaires de mise en œuvre du projet PIREDD dans les provinces du Kasaï Oriental et de la Lomami. "
+     },
+     {
       "language": "NL",
-      "text": "Leveren van vuilnisbakken om gescheiden afvalinzameling mogelijk te maken in de dagrecreatie van het APB Zilvermeer. De dagrecreatie bestaat uit verschillende zones zoals speeltuin, marktplein, strandzone, parkings."
+      "text": "Aanschaf van IT-apparatuur voor de uitvoerende partners van het PIREDD-project in de provincies Kasaï Oriental en Lomami"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "HL03",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "HL03",
+    "number": "COD20004-10300",
+    "procurementProcedureType": "RESTRICTED",
+    "referenceNumber": "COD20004-10300",
+    "specialPurchasingTechnique": "DYNAMIC_PURCHASING_SYSTEM",
     "titles": [
      {
       "language": "NL",
-      "text": "Leveren van vuilnisbakken voor gescheiden afvalinzameling"
+      "text": "Overheidsopdracht voor de verwerving van IT-apparatuur voor partners van PIREDD KORLOM"
+     },
+     {
+      "language": "FR",
+      "text": "Marché public de fournitures relatif à l'acquisition de matériels informatiques pour les partenaires du PIREDD KORLOM"
      }
     ]
    },
@@ -555,7 +397,11 @@
      "descriptions": [
       {
        "language": "NL",
-       "text": "Leveren van vuilnisbakken om gescheiden afvalinzameling mogelijk te maken in de dagrecreatie van het APB Zilvermeer. De dagrecreatie bestaat uit verschillende zones zoals speeltuin, marktplein, strandzone, parkings."
+       "text": "Aanschaf van Tablet-powerbank-gps"
+      },
+      {
+       "language": "FR",
+       "text": "Fournitures de Tablette-PowerBank-GPS "
       }
      ],
      "reservedExecution": [
@@ -567,7 +413,95 @@
      "titles": [
       {
        "language": "NL",
-       "text": "HL03 - 1"
+       "text": "COD20004-10300 - 2 : ablet-powerbank-gps"
+      },
+      {
+       "language": "FR",
+       "text": "COD20004-10300 - 2 : Tablette -PowerBank-GPS"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Aanschaf van computers en accessoires"
+      },
+      {
+       "language": "FR",
+       "text": "Acquisition des Ordinateurs et des accessoires "
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "COD20004-10300 - 1 : Computers en accessoires"
+      },
+      {
+       "language": "FR",
+       "text": "COD20004-10300 - 1: Ordinateurs et accessoires "
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Levering van een hoogwaardig 75-inch 4K-interactief display"
+      },
+      {
+       "language": "FR",
+       "text": "Fourniture d'un Ecran interactif 4K Performant75''"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "COD20004-10300 - 4 : Hoogwaardig 75-inch interactief 4K-scherm"
+      },
+      {
+       "language": "FR",
+       "text": "COD20004-10300 - 4 : Ecran interactif 4K Performant75''"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Printerbenodigdheden"
+      },
+      {
+       "language": "FR",
+       "text": "Fournitures d'imprimantes"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "COD20004-10300 - 3 : Printer"
+      },
+      {
+       "language": "FR",
+       "text": "COD20004-10300 - 3 : Imprimantes "
       }
      ]
     }
@@ -576,246 +510,95 @@
     "SUPPLIES"
    ],
    "noticeIds": [
-    "e6262014-a7e0-4162-86cd-2743ddfd9fe6"
+    "fb90cc24-785f-4035-8b03-345b49a291c1"
    ],
    "noticeSubType": "16",
-   "nutsCodes": [
-    "BE213"
-   ],
+   "nutsCodes": [],
    "organisation": {
-    "organisationId": 5124,
+    "organisationId": 139,
     "organisationNames": [
      {
       "language": "DE",
-      "text": "APB Zilvermeer"
+      "text": "Enabel"
      },
      {
       "language": "NL",
-      "text": "APB Zilvermeer"
-     },
-     {
-      "language": "FR",
-      "text": "APB Zilvermeer"
+      "text": "Enabel"
      },
      {
       "language": "EN",
-      "text": "APB Zilvermeer"
+      "text": "Enabel"
+     },
+     {
+      "language": "FR",
+      "text": "Enabel"
      }
     ],
-    "tree": "200004.200020.968.5124"
+    "tree": "200002.200014.139"
    },
-   "procedureId": "b411680c-53c5-4d92-bd95-67f6089ba45d",
+   "procedureId": "098733fd-4f89-4622-bae1-a6e874076983",
    "publicationDate": "2026-10-26",
    "publicationLanguages": [
-    "NL"
+    "NL",
+    "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "HL03_pub01"
+    "COD20004-10300_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "4cda68e9-c4b6-4394-a638-8b7cd0b80d1d",
+   "publicationWorkspaceId": "6e337194-d289-4400-a6e1-085dad19a1bd",
    "publishedAt": [
-    "2026-10-26T00:00:45.783107"
+    "2026-10-26T09:48:46.02476"
    ],
-   "referenceNumber": "HL03_pub01",
+   "referenceNumber": "COD20004-10300_pub01",
    "sentAt": [
-    "2026-10-26T00:00:45.783107"
+    "2026-10-26T09:48:46.02476"
    ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-16T12:00:00"
-  }
- ],
- "exemple_attribution": [
+   "tedPublished": false
+  },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "79956000-0",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Diensten voor het organiseren van beurzen en tentoonstellingen"
-      },
-      {
-       "language": "DE",
-       "text": "Organisation von Messen und Ausstellungen"
-      },
-      {
-       "language": "FR",
-       "text": "Services d'organisation de foires et d'expositions"
-      },
-      {
-       "language": "EN",
-       "text": "Fair and exhibition organisation services"
-      }
-     ]
-    },
-    {
-     "code": "92520000-2",
+     "code": "77000000-0",
      "descriptions": [
       {
        "language": "EN",
-       "text": "Museum services and preservation services of historical sites and buildings"
-      },
-      {
-       "language": "FR",
-       "text": "Services de musées et de préservation des sites historiques et des services connexes"
-      },
-      {
-       "language": "NL",
-       "text": "Museum- en aanverwante diensten"
+       "text": "Agricultural, forestry, horticultural, aquacultural and apicultural services"
       },
       {
        "language": "DE",
-       "text": "Dienstleistungen von Museen und zugehörige Dienste"
-      }
-     ]
-    },
-    {
-     "code": "92112000-9",
-     "descriptions": [
-      {
-       "language": "DE",
-       "text": "Dienstleistungen im Zusammenhang mit Film- und Videofilmherstellung"
-      },
-      {
-       "language": "EN",
-       "text": "Services in connection with motion-picture and video-tape production"
-      },
-      {
-       "language": "FR",
-       "text": "Services liés à la production de films cinématographiques ou de vidéos"
+       "text": "Dienstleistungen in Landwirtschaft, Forstwirtschft, Gartenbau, Aquakultur und Bienenzucht"
       },
       {
        "language": "NL",
-       "text": "Diensten in verband met de productie van films en video's"
-      }
-     ]
-    },
-    {
-     "code": "92111200-4",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Advertising, propaganda and information film and video-tape production"
+       "text": "Diensten voor land-, bos- en tuinbouw, aquicultuur en imkerij"
       },
       {
        "language": "FR",
-       "text": "Production de films et de vidéos publicitaires, de propagande et d'information"
-      },
-      {
-       "language": "NL",
-       "text": "Productie van films en video's voor reclame, propaganda en informatie"
-      },
-      {
-       "language": "DE",
-       "text": "Herstellung von Werbe-, Reklame- und Informationsfilmen und -videofilmen"
-      }
-     ]
-    },
-    {
-     "code": "92312210-6",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Services provided by authors"
-      },
-      {
-       "language": "NL",
-       "text": "Diensten verleend door auteurs"
-      },
-      {
-       "language": "DE",
-       "text": "Dienstleistungen von Verfassern"
-      },
-      {
-       "language": "FR",
-       "text": "Services prestés par les auteurs"
-      }
-     ]
-    },
-    {
-     "code": "92312211-3",
-     "descriptions": [
-      {
-       "language": "DE",
-       "text": "Dienstleistungen von Schreibbüros"
-      },
-      {
-       "language": "EN",
-       "text": "Writing agency services"
-      },
-      {
-       "language": "FR",
-       "text": "Services d'agences de rédaction"
-      },
-      {
-       "language": "NL",
-       "text": "Diensten verleend door tekstbureau"
-      }
-     ]
-    },
-    {
-     "code": "92521100-0",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Museum-exhibition services"
-      },
-      {
-       "language": "DE",
-       "text": "Museumsausstellungen"
-      },
-      {
-       "language": "NL",
-       "text": "Diensten voor museumexposities"
-      },
-      {
-       "language": "FR",
-       "text": "Services d'exposition dans les musées"
-      }
-     ]
-    },
-    {
-     "code": "92521000-9",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Museum services"
-      },
-      {
-       "language": "DE",
-       "text": "Dienstleistungen von Museen"
-      },
-      {
-       "language": "NL",
-       "text": "Museumdiensten"
-      },
-      {
-       "language": "FR",
-       "text": "Services de musées"
+       "text": "Services agricoles, sylvicoles, horticoles, d'aquaculture et d'apiculture"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "92520000-2",
+    "code": "77000000-0",
     "descriptions": [
      {
       "language": "EN",
-      "text": "Museum services and preservation services of historical sites and buildings"
-     },
-     {
-      "language": "FR",
-      "text": "Services de musées et de préservation des sites historiques et des services connexes"
-     },
-     {
-      "language": "NL",
-      "text": "Museum- en aanverwante diensten"
+      "text": "Agricultural, forestry, horticultural, aquacultural and apicultural services"
      },
      {
       "language": "DE",
-      "text": "Dienstleistungen von Museen und zugehörige Dienste"
+      "text": "Dienstleistungen in Landwirtschaft, Forstwirtschft, Gartenbau, Aquakultur und Bienenzucht"
+     },
+     {
+      "language": "NL",
+      "text": "Diensten voor land-, bos- en tuinbouw, aquicultuur en imkerij"
+     },
+     {
+      "language": "FR",
+      "text": "Services agricoles, sylvicoles, horticoles, d'aquaculture et d'apiculture"
      }
     ]
    },
@@ -825,18 +608,18 @@
     "descriptions": [
      {
       "language": "NL",
-      "text": "Ontwikkeling van scenografische vormgeving en content"
+      "text": "De dienst omvat het verwijderen van oude rasters en het plaatsen van een nieuw prikkeldraadraster met enkele metalen weidepoorten. Naast het vervangen van het raster zullen er ook enkele kleinere diensten gevraagd worden, zoals het voorzien van inbuizingen aan de toegangen van het begrazingsblok en het plaatsen van een grondwaterput met bijhorende weidepomp. Locatie: Scherpenheuvel-Zichem"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP043-1096/6102/2026/592",
+    "number": "ANB_GI_INRO_2026_168",
     "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP043-1096/6102/2026/592",
+    "referenceNumber": "ANB_GI_INRO_2026_168",
     "titles": [
      {
       "language": "NL",
-      "text": "Ontwikkeling van scenografische vormgeving en content"
+      "text": "Begrazingsblok Kloosterbeemden"
      }
     ]
    },
@@ -846,41 +629,13 @@
      "descriptions": [
       {
        "language": "NL",
-       "text": "Ontwikkelen van films en audiovisueel materiaal"
+       "text": "Kort samengevat omvatten de werken het verwijderen van oude rasters en het plaatsen van een nieuw prikkeldraadraster met enkele metalen weidepoorten. Naast het vervangen van het raster zullen er ook enkele kleinere diensten gevraagd worden, zoals het voorzien van inbuizingen aan de toegangen van het begrazingsblok en het plaatsen van een grondwaterput met bijhorende weidepomp."
       }
      ],
      "titles": [
       {
        "language": "NL",
-       "text": "Ontwikkelen van films en audiovisueel materiaal"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Ontwikkeling van content"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Ontwikkeling van content"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Grafische huisstijl en grafische vormgeving scenografie"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Grafische huisstijl en grafische vormgeving scenografie"
+       "text": "ANB_GI_INRO_2026_168 - 1"
       }
      ]
     }
@@ -889,51 +644,188 @@
     "SERVICES"
    ],
    "noticeIds": [
-    "efb47f7a-c19a-4c42-87e5-5c108b4e859e"
+    "e292bb5d-7dfd-4865-b43d-428f93ca7571"
    ],
-   "noticeSubType": "E4",
+   "noticeSubType": "29",
    "nutsCodes": [
-    "BE100"
+    "BE242"
    ],
    "organisation": {
-    "organisationId": 451,
+    "organisationId": 5717,
     "organisationNames": [
      {
-      "language": "FR",
-      "text": "Rumst"
-     },
-     {
-      "language": "EN",
-      "text": "Rumst"
-     },
-     {
       "language": "DE",
-      "text": "Rumst"
+      "text": "Agentschap voor Natuur en Bos"
      },
      {
       "language": "NL",
-      "text": "Rumst"
+      "text": "Agentschap voor Natuur en Bos"
+     },
+     {
+      "language": "FR",
+      "text": "Agentschap voor Natuur en Bos"
+     },
+     {
+      "language": "EN",
+      "text": "Agentschap voor Natuur en Bos"
      }
     ],
-    "tree": "200004.200021.451"
+    "tree": "200003.200015.73.4646.5717"
    },
-   "procedureId": "fd027616-89a3-40e8-9daa-b2bf39d45e93",
+   "procedureId": "52c79c8a-fbe5-4220-95cf-5b96a071b2f5",
    "publicationDate": "2026-10-26",
    "publicationLanguages": [
     "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP043-1096/6102/2026/592_002"
+    "ANB_GI_INRO_2026_168_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "b30cfef2-72f3-475e-9026-8d865f12fd4c",
+   "publicationWorkspaceId": "262107df-2d5d-40ef-bb50-0c53a08a57db",
    "publishedAt": [
-    "2026-10-26T00:00:46.040918"
+    "2026-10-26T09:57:45.463108"
    ],
-   "referenceNumber": "PPP043-1096/6102/2026/592_002",
+   "referenceNumber": "ANB_GI_INRO_2026_168_pub01",
    "sentAt": [
-    "2026-10-26T00:00:46.040918"
+    "2026-10-26T09:57:45.463108"
+   ],
+   "tedPublished": false
+  }
+ ],
+ "exemple_attribution": [
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "77000000-0",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Agricultural, forestry, horticultural, aquacultural and apicultural services"
+      },
+      {
+       "language": "DE",
+       "text": "Dienstleistungen in Landwirtschaft, Forstwirtschft, Gartenbau, Aquakultur und Bienenzucht"
+      },
+      {
+       "language": "NL",
+       "text": "Diensten voor land-, bos- en tuinbouw, aquicultuur en imkerij"
+      },
+      {
+       "language": "FR",
+       "text": "Services agricoles, sylvicoles, horticoles, d'aquaculture et d'apiculture"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "77000000-0",
+    "descriptions": [
+     {
+      "language": "EN",
+      "text": "Agricultural, forestry, horticultural, aquacultural and apicultural services"
+     },
+     {
+      "language": "DE",
+      "text": "Dienstleistungen in Landwirtschaft, Forstwirtschft, Gartenbau, Aquakultur und Bienenzucht"
+     },
+     {
+      "language": "NL",
+      "text": "Diensten voor land-, bos- en tuinbouw, aquicultuur en imkerij"
+     },
+     {
+      "language": "FR",
+      "text": "Services agricoles, sylvicoles, horticoles, d'aquaculture et d'apiculture"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-26",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "De dienst omvat het verwijderen van oude rasters en het plaatsen van een nieuw prikkeldraadraster met enkele metalen weidepoorten. Naast het vervangen van het raster zullen er ook enkele kleinere diensten gevraagd worden, zoals het voorzien van inbuizingen aan de toegangen van het begrazingsblok en het plaatsen van een grondwaterput met bijhorende weidepomp. Locatie: Scherpenheuvel-Zichem"
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "ANB_GI_INRO_2026_168",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "ANB_GI_INRO_2026_168",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Begrazingsblok Kloosterbeemden"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-26",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Kort samengevat omvatten de werken het verwijderen van oude rasters en het plaatsen van een nieuw prikkeldraadraster met enkele metalen weidepoorten. Naast het vervangen van het raster zullen er ook enkele kleinere diensten gevraagd worden, zoals het voorzien van inbuizingen aan de toegangen van het begrazingsblok en het plaatsen van een grondwaterput met bijhorende weidepomp."
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "ANB_GI_INRO_2026_168 - 1"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SERVICES"
+   ],
+   "noticeIds": [
+    "e292bb5d-7dfd-4865-b43d-428f93ca7571"
+   ],
+   "noticeSubType": "29",
+   "nutsCodes": [
+    "BE242"
+   ],
+   "organisation": {
+    "organisationId": 5717,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "Agentschap voor Natuur en Bos"
+     },
+     {
+      "language": "NL",
+      "text": "Agentschap voor Natuur en Bos"
+     },
+     {
+      "language": "FR",
+      "text": "Agentschap voor Natuur en Bos"
+     },
+     {
+      "language": "EN",
+      "text": "Agentschap voor Natuur en Bos"
+     }
+    ],
+    "tree": "200003.200015.73.4646.5717"
+   },
+   "procedureId": "52c79c8a-fbe5-4220-95cf-5b96a071b2f5",
+   "publicationDate": "2026-10-26",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "ANB_GI_INRO_2026_168_pub01"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "262107df-2d5d-40ef-bb50-0c53a08a57db",
+   "publishedAt": [
+    "2026-10-26T09:57:45.463108"
+   ],
+   "referenceNumber": "ANB_GI_INRO_2026_168_pub01",
+   "sentAt": [
+    "2026-10-26T09:57:45.463108"
    ],
    "tedPublished": false
   }
