@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 293434
+  "totalCount": 293459
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -18,7 +18,9 @@
   "ACTIVE|29|['WORKS']",
   "ACTIVE|30|['SERVICES']",
   "ACTIVE|30|['SUPPLIES']",
+  "ACTIVE|32|['SERVICES']",
   "ACTIVE|33|['SERVICES']",
+  "ACTIVE|33|['SUPPLIES']",
   "ACTIVE|33|['WORKS']",
   "ACTIVE|38|['SUPPLIES']",
   "ACTIVE|E1|['SERVICES']",
@@ -34,66 +36,168 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45255500-4",
+     "code": "45332400-7",
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Boor- en exploratiewerkzaamheden"
-      },
-      {
        "language": "EN",
-       "text": "Drilling and exploration work"
+       "text": "Sanitary fixture installation work"
       },
       {
        "language": "DE",
-       "text": "Bohrungs- und Explorationsarbeiten"
+       "text": "Installation von Sanitäreinrichtungen"
       },
       {
        "language": "FR",
-       "text": "Travaux de forage et d'exploration"
+       "text": "Travaux d'installation d'appareils sanitaires"
+      },
+      {
+       "language": "NL",
+       "text": "Installeren van sanitair"
+      }
+     ]
+    },
+    {
+     "code": "45422000-1",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Travaux de charpenterie"
+      },
+      {
+       "language": "NL",
+       "text": "Timmer- en schrijnwerk"
+      },
+      {
+       "language": "EN",
+       "text": "Carpentry installation work"
+      },
+      {
+       "language": "DE",
+       "text": "Zimmer- und Tischlerarbeiten"
+      }
+     ]
+    },
+    {
+     "code": "45332000-3",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Loodgieterswerk en leggen van afvoerbuizen"
+      },
+      {
+       "language": "DE",
+       "text": "Installateurarbeiten und Verlegung von Abwasserleitungen"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de plomberie et de pose de conduits d'évacuation"
+      },
+      {
+       "language": "EN",
+       "text": "Plumbing and drain-laying work"
+      }
+     ]
+    },
+    {
+     "code": "45330000-9",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Plumbing and sanitary works"
+      },
+      {
+       "language": "NL",
+       "text": "Loodgieterswerk"
+      },
+      {
+       "language": "DE",
+       "text": "Installateurarbeiten"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de plomberie"
+      }
+     ]
+    },
+    {
+     "code": "45421131-1",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Installation of doors"
+      },
+      {
+       "language": "NL",
+       "text": "Plaatsen van deuren"
+      },
+      {
+       "language": "FR",
+       "text": "Pose de portes"
+      },
+      {
+       "language": "DE",
+       "text": "Einbau von Türen"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45255500-4",
+    "code": "45332400-7",
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Boor- en exploratiewerkzaamheden"
-     },
-     {
       "language": "EN",
-      "text": "Drilling and exploration work"
+      "text": "Sanitary fixture installation work"
      },
      {
       "language": "DE",
-      "text": "Bohrungs- und Explorationsarbeiten"
+      "text": "Installation von Sanitäreinrichtungen"
      },
      {
       "language": "FR",
-      "text": "Travaux de forage et d'exploration"
+      "text": "Travaux d'installation d'appareils sanitaires"
+     },
+     {
+      "language": "NL",
+      "text": "Installeren van sanitair"
      }
     ]
    },
    "dispatchDate": "2026-10-27",
    "dossier": {
-    "accreditations": {},
+    "accreditations": {
+     "D16": 1
+    },
     "descriptions": [
      {
+      "language": "NL",
+      "text": "De huidige opdracht betreft een raamovereenkomst met één enkele onderneming voor het vernieuwen van de sanitaire installaties en wandtegels in woningen van Centrale Dienst voor Sociale en Culturele Actie van het Ministerie van Landsverdediging (Def+) bestaande uit: PERCEEL 1: 70 woningen te Aye, 97 woningen te Waha en 102 woningen te Bourdon; PERCEEL 2: 66 woningen en 24 appartementen te Belgrado, 26 woningen te Dinant, 84 woningen te Florennes, 59 woningen en 11 appartementen te Philippeville. Het gaat om een contract van 1 jaar met de mogelijkheid om het contract jaarlijks stilzwijgend te verlengen onder exact dezelfde voorwaarden en maximaal 3 keer. De maximaal mogelijke waarde van de opdracht is €250.000 voor perceel 1 en €250.000 voor perceel 2. De opdracht wordt van rechtswege beëindigd ofwel wanneer deze bedragen worden bereikt ofwel wanneer de laatst mogelijke verlenging eindigt, naargelang het eerste wat gebeurt."
+     },
+     {
       "language": "FR",
-      "text": "Le présent marché concerne la réalisation des forages en vue d’alimenter une sous-station thermodynamique centralisée. Cela comprend donc l’ensemble des forages géothermiques, les raccordements aux collecteurs, les collecteurs et la connexion à la zone technique.  Lieu d’exécution : 7100 Haine-Saint-Paul (La Louvière) – Clos de l’Age d’Or  Le site est libre d’occupation et de construction. "
+      "text": "Le présent marché porte sur un accord-cadre avec une seule entreprise pour des travaux de renouvellement des installations sanitaires et faïences murales dans des logements de l’Office Central d’Action Sociale et Culturelle du Ministère De La Défense (ci-après Def+) dont ; LOT 1 : 70 maisons à Aye, 97 maisons à Waha et 102 maisons à Bourdon; LOT 2 : 66 maisons et 24 appartements à Belgrade, 26 maisons à Dinant, 84 maisons à Florennes, 59 maisons et 11 appartements à Philippeville. Il s’agit d’un contrat de 1 an avec la possibilité annuelle de prolonger le contrat d’une manière tacite sous exactement les mêmes conditions et au maximum 3 fois (voir point 2.5 du CSC). La valeur maximale possible du marché est de 250.000 € pour le lot 1 et 250.000 € pour le lot 2. Le marché prend fin de plein droit ce qui arrive d’abord, soit au moment où ces montants seraient atteints soit à l'expiration de la dernière prolongation possible."
      }
     ],
-    "enterpriseCategories": [],
+    "enterpriseCategories": [
+     {
+      "categoryCode": "D16",
+      "levels": [
+       1
+      ]
+     }
+    ],
     "legalBasis": "D24",
-    "number": "PPP0M9-1201/5216/T25.1201 (126.285)",
+    "number": "21034-21037",
     "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "PPP0M9-1201/5216/T25.1201 (126.285)",
+    "referenceNumber": "21034-21037",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
       "language": "FR",
-      "text": "Réalisation de forages géothermiques sur le site du Clos de l'Age d'Or à La Louvière"
+      "text": "Travaux de renouvellement des installations sanitaires et faïences murales dans des logements de l’Office Central D’Action Sociale et Culturelle du Ministère de la Défense (Def+) à Aye, Waha, Bourdon (lot 1 – réf 21034) et Belgrade, Dinant, Florennes et Philippeville (lot 2 – réf 21037)"
+     },
+     {
+      "language": "NL",
+      "text": "Werkzaamheden voor het vernieuwen van de sanitaire installaties en wandtegels in de woningen van de Centrale Dienst voor Sociale en Culturele Actie van het Ministerie van Landsverdediging (Def+) te Aye, Waha, Bourdon (perceel 1 – ref 21034) en Belgrade, Dinant, Florennes en Philippeville (perceel 2 – ref 21037)"
      }
     ]
    },
@@ -102,8 +206,12 @@
     {
      "descriptions": [
       {
+       "language": "NL",
+       "text": "De huidige opdracht betreft een raamovereenkomst met één enkele onderneming voor het vernieuwen van de sanitaire installaties en wandtegels in woningen van Centrale Dienst voor Sociale en Culturele Actie van het Ministerie van Landsverdediging (Def+) bestaande uit: PERCEEL 1: 70 woningen te Aye, 97 woningen te Waha en 102 woningen te Bourdon. Het gaat om een contract van 1 jaar met de mogelijkheid om het contract jaarlijks stilzwijgend te verlengen onder exact dezelfde voorwaarden en maximaal 3 keer. De maximaal mogelijke waarde van de opdracht is €250.000 voor perceel 1. De opdracht wordt van rechtswege beëindigd ofwel wanneer dit bedrag wordt bereikt ofwel wanneer de laatst mogelijke verlenging eindigt, naargelang het eerste wat gebeurt."
+      },
+      {
        "language": "FR",
-       "text": "Le présent marché concerne la réalisation des forages en vue d’alimenter une sous-station thermodynamique centralisée. Cela comprend donc l’ensemble des forages géothermiques, les raccordements aux collecteurs, les collecteurs et la connexion à la zone technique.  Lieu d’exécution : 7100 Haine-Saint-Paul (La Louvière) – Clos de l’Age d’Or  Le site est libre d’occupation et de construction. "
+       "text": "Le présent marché porte sur un accord-cadre avec une seule entreprise pour des travaux de renouvellement des installations sanitaires et faïences murales dans des logements de l’Office Central d’Action Sociale et Culturelle du Ministère De La Défense (ci-après Def+) dont ; LOT 1 : 70 maisons à Aye, 97 maisons à Waha et 102 maisons à Bourdon. Il s’agit d’un contrat de 1 an avec la possibilité annuelle de prolonger le contrat d’une manière tacite sous exactement les mêmes conditions et au maximum 3 fois (voir point 2.5 du CSC). La valeur maximale possible de ce lot est de 250.000 €. Le marché prend fin de plein droit ce qui arrive d’abord, soit au moment où ce montant serait atteint soit à l'expiration de la dernière prolongation possible."
       }
      ],
      "reservedExecution": [
@@ -114,8 +222,40 @@
      ],
      "titles": [
       {
+       "language": "NL",
+       "text": "21034 - Werkzaamheden voor het vernieuwen van de sanitaire installaties en wandtegels in de woningen van de Centrale Dienst voor Sociale en Culturele Actie van het Ministerie van Landsverdediging (Def+) te Aye, Waha, Bourdon (perceel 1)"
+      },
+      {
        "language": "FR",
-       "text": "Réalisation de forages géothermiques sur le site du Clos de l'Age d'Or à La Louvière"
+       "text": "21034 - Travaux de renouvellement des installations sanitaires et faïences murales dans des logements de l’Office Central D’Action Sociale et Culturelle du Ministère de la Défense (Def+) à Aye, Waha, Bourdon (lot 1)"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Le présent marché porte sur un accord-cadre avec une seule entreprise pour des travaux de renouvellement des installations sanitaires et faïences murales dans des logements de l’Office Central d’Action Sociale et Culturelle du Ministère De La Défense (ci-après Def+) dont ; LOT 2 : 66 maisons et 24 appartements à Belgrade, 26 maisons à Dinant, 84 maisons à Florennes, 59 maisons et 11 appartements à Philippeville. Il s’agit d’un contrat de 1 an avec la possibilité annuelle de prolonger le contrat d’une manière tacite sous exactement les mêmes conditions et au maximum 3 fois (voir point 2.5 du CSC). La valeur maximale possible de ce lot est de 250.000 €. Le marché prend fin de plein droit ce qui arrive d’abord, soit au moment où ce montant serait atteint soit à l'expiration de la dernière prolongation possible."
+      },
+      {
+       "language": "NL",
+       "text": "De huidige opdracht betreft een raamovereenkomst met één enkele onderneming voor het vernieuwen van de sanitaire installaties en wandtegels in woningen van Centrale Dienst voor Sociale en Culturele Actie van het Ministerie van Landsverdediging (Def+) bestaande uit: PERCEEL 2: 66 woningen en 24 appartementen te Belgrado, 26 woningen te Dinant, 84 woningen te Florennes, 59 woningen en 11 appartementen te Philippeville. Het gaat om een contract van 1 jaar met de mogelijkheid om het contract jaarlijks stilzwijgend te verlengen onder exact dezelfde voorwaarden en maximaal 3 keer. De maximaal mogelijke waarde van de opdracht is €250.000 voor perceel 2. De opdracht wordt van rechtswege beëindigd ofwel wanneer dit bedrag wordt bereikt ofwel wanneer de laatst mogelijke verlenging eindigt, naargelang het eerste wat gebeurt."
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "21037 - Werkzaamheden voor het vernieuwen van de sanitaire installaties en wandtegels in de woningen van de Centrale Dienst voor Sociale en Culturele Actie van het Ministerie van Landsverdediging (Def+) te Belgrade, Dinant, Florennes en Philippeville (perceel 2)"
+      },
+      {
+       "language": "FR",
+       "text": "21037 - Travaux de renouvellement des installations sanitaires et faïences murales dans des logements de l’Office Central D’Action Sociale et Culturelle du Ministère de la Défense (Def+) à Belgrade, Dinant, Florennes et Philippeville (lot 2)"
       }
      ]
     }
@@ -124,399 +264,121 @@
     "WORKS"
    ],
    "noticeIds": [
-    "f67bc62f-68fb-4f3c-9c5f-fb73084c7761"
+    "5c4f8fff-946b-4490-aab5-d42e039f4443"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE329"
+    "BE343",
+    "BE353",
+    "BE352",
+    "BE351"
    ],
    "organisation": {
-    "organisationId": 965,
-    "organisationNames": [
-     {
-      "language": "EN",
-      "text": "Centr'Habitat"
-     },
-     {
-      "language": "DE",
-      "text": "Centr'Habitat"
-     },
-     {
-      "language": "NL",
-      "text": "Centr'Habitat"
-     },
-     {
-      "language": "FR",
-      "text": "Centr'Habitat SCRL"
-     }
-    ],
-    "tree": "200004.200028.965"
-   },
-   "procedureId": "33e93b75-5bfd-4cf8-adf6-61ff0ee54368",
-   "publicationDate": "2026-10-27",
-   "publicationLanguages": [
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP0M9-1201/5216/T25.1201 (126.285)_002"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "ebf962b3-01e8-48e2-9df4-de8d1b2408c2",
-   "publishedAt": [
-    "2026-10-27T00:00:47.128507"
-   ],
-   "referenceNumber": "PPP0M9-1201/5216/T25.1201 (126.285)_002",
-   "sentAt": [
-    "2026-10-27T00:00:47.128507"
-   ],
-   "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "79311000-7",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Survey services"
-      },
-      {
-       "language": "FR",
-       "text": "Services d'études"
-      },
-      {
-       "language": "NL",
-       "text": "Uitvoeren van studies"
-      },
-      {
-       "language": "DE",
-       "text": "Umfragen"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "79311000-7",
-    "descriptions": [
-     {
-      "language": "EN",
-      "text": "Survey services"
-     },
-     {
-      "language": "FR",
-      "text": "Services d'études"
-     },
-     {
-      "language": "NL",
-      "text": "Uitvoeren van studies"
-     },
-     {
-      "language": "DE",
-      "text": "Umfragen"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-27",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "(1) Analyser de manière critique la méthodologie actuelle de calcul du risque résiduel lié aux contrôles des aides PAC. (2) Identifier ses forces, limites, biais et incertitudes. (3) Définir des orientations d’amélioration et proposer une méthodologie statistiquement robuste. (4) Tester, ajuster et documenter la méthodologie. (5) Transférer les connaissances aux équipes de l’OPW"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "A3.00.03.00-26-1952",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "A3.00.03.00-26-1952",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "Marché de services d'expertise statistique visant à accompagner l'Organisme payeur de Wallonie dans l'analyse critique, la conception et la documentation d'une méthodologie robuste statistiquement du calcul du risque résiduel liée aux contrôles des aides PAC (Politique agricole commune)"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-27",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "(1) Analyser de manière critique la méthodologie actuelle de calcul du risque résiduel lié aux contrôles des aides PAC. (2) Identifier ses forces, limites, biais et incertitudes. (3) Définir des orientations d’amélioration et proposer une méthodologie statistiquement robuste. (4) Tester, ajuster et documenter la méthodologie. (5) Transférer les connaissances aux équipes de l’OPW"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "A3.00.03.00-26-1952 - 1"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SERVICES"
-   ],
-   "noticeIds": [
-    "7cde95b3-7936-4f85-8068-616008a5a620"
-   ],
-   "noticeSubType": "16",
-   "nutsCodes": [
-    "BE352"
-   ],
-   "organisation": {
-    "organisationId": 6001,
+    "organisationId": 3,
     "organisationNames": [
      {
       "language": "FR",
-      "text": "A3.00.03.00 - Organisme payeur de Wallonie (FEAGA-Feader) Direction Financière"
+      "text": "Office Central d'Action Sociale et Culturelle du Ministère de la Défense"
      },
      {
       "language": "DE",
-      "text": "Direction de l'Octroi des aides agricole"
-     },
-     {
-      "language": "NL",
-      "text": "Direction de l'Octroi des aides agricole"
+      "text": "Office Central d'Action Sociale et Culturelle"
      },
      {
       "language": "EN",
-      "text": "Direction de l'Octroi des aides agricole"
+      "text": "Central Office of Sociale and Cultural Action of the Ministry of Defense"
+     },
+     {
+      "language": "NL",
+      "text": "Centrale Dienst voor Sociale en Culturele Actie van het Ministerie van Landsverdediging"
      }
     ],
-    "tree": "200003.200016.123.5082.6001"
+    "tree": "200002.200010.3"
    },
-   "procedureId": "4fe75bef-dcde-431a-ab30-62c05fea0c58",
-   "publicationDate": "2026-10-27",
-   "publicationLanguages": [
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "A3.00.03.00-26-1952_pub01"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "3f9aca72-3432-492c-ab61-bc13dc26ee44",
-   "publishedAt": [
-    "2026-10-27T00:00:46.013439"
-   ],
-   "referenceNumber": "A3.00.03.00-26-1952_pub01",
-   "sentAt": [
-    "2026-10-27T00:00:46.013439"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-12-02T11:00:00"
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "55000000-0",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Hotel, restaurant and retail trade services"
-      },
-      {
-       "language": "NL",
-       "text": "Diensten voor hotel, restaurant en detailhandel"
-      },
-      {
-       "language": "FR",
-       "text": "Services d'hôtellerie, de restauration et de commerce au détail"
-      },
-      {
-       "language": "DE",
-       "text": "Dienstleistungen des Hotel- und Gaststättengewerbes und des Einzelhandels"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "55000000-0",
-    "descriptions": [
-     {
-      "language": "EN",
-      "text": "Hotel, restaurant and retail trade services"
-     },
-     {
-      "language": "NL",
-      "text": "Diensten voor hotel, restaurant en detailhandel"
-     },
-     {
-      "language": "FR",
-      "text": "Services d'hôtellerie, de restauration et de commerce au détail"
-     },
-     {
-      "language": "DE",
-      "text": "Dienstleistungen des Hotel- und Gaststättengewerbes und des Einzelhandels"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-27",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "La SNCB recherche un candidat-concessionnaire pour l’exploitation d’un concept Food & Beverage. La SNCB accordera une attention particulière au caractère complémentaire de l'offre proposée et se réserve le droit d'écarter toute candidature dont le concept, bien que présenté sous une autre appellation commerciale, serait considéré comme similaire à une offre déjà exploitée au sein de la gare.  Les concepts reposant principalement sur les catégories de produits suivantes* ne seront dès lors pas retenus :  *burgers et sandwiches de type « fast-food burger »  *Sandwich traditionnels  *friterie  *pizzas  *pâtes  *gyros   *glaces, cookies, gaufres et concepts de desserts similaires"
-     },
-     {
-      "language": "NL",
-      "text": "NMBS is op zoek naar een kandidaat-concessiehouder voor de uitbating van een Food & Beverage-concept.  NMBS zal bijzondere aandacht besteden aan het complementaire karakter van het voorgestelde aanbod en behoudt zich het recht voor om elke kandidatuur te weigeren waarvan het concept, hoewel het onder een andere commerciële benaming wordt voorgesteld, als gelijkaardig wordt beschouwd aan een aanbod dat reeds in het station wordt uitgebaat.  Concepten die hoofdzakelijk gebaseerd zijn op de volgende productcategorieën*, komen bijgevolg niet in aanmerking:  *burgers en sandwiches van het type fastfoodburger;  *traditionele sandwiches;  *frituur;  *pizza’s;  *pastagerechten;  *gyros;  *ijs, cookies, wafels en gelijkaardige dessertconcepten. "
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D23",
-    "number": "CM019BU2026 - 0012829",
-    "procurementProcedureType": "NEG_W_CALL_23",
-    "referenceNumber": "CM019BU2026 - 0012829",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "Participation à une Consultation de Marché dans la gare de Bruxelles-Midi, concept Food & Beverage "
-     },
-     {
-      "language": "NL",
-      "text": "Deelnemen aan een Marktconsultatie in het station van Brussel-Zuid, concept Food & Beverage "
-     }
-    ]
-   },
-   "insertionDate": "2026-10-27",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "La SNCB recherche un candidat-concessionnaire pour l’exploitation d’un concept Food & Beverage. La SNCB accordera une attention particulière au caractère complémentaire de l'offre proposée et se réserve le droit d'écarter toute candidature dont le concept, bien que présenté sous une autre appellation commerciale, serait considéré comme similaire à une offre déjà exploitée au sein de la gare.  Les concepts reposant principalement sur les catégories de produits suivantes ne seront dès lors pas retenus :  *burgers et sandwiches de type « fast-food burger »  *Sandwich traditionnels  *friterie  *pizzas  *pâtes  *gyros   *glaces, cookies, gaufres et concepts de desserts similaires  "
-      },
-      {
-       "language": "NL",
-       "text": "NMBS is op zoek naar een kandidaat-concessiehouder voor de uitbating van een Food & Beverage-concept. NMBS zal bijzondere aandacht besteden aan het complementaire karakter van het voorgestelde aanbod en behoudt zich het recht voor om elke kandidatuur te weigeren waarvan het concept, hoewel het onder een andere commerciële benaming wordt voorgesteld, als gelijkaardig wordt beschouwd aan een aanbod dat reeds in het station wordt uitgebaat.  Concepten die hoofdzakelijk gebaseerd zijn op de volgende productcategorieën*, komen bijgevolg niet in aanmerking:  *burgers en sandwiches van het type fastfoodburger;  *traditionele sandwiches;  *frituur;  *pizza’s;  *pastagerechten;  *gyros;  *ijs, cookies, wafels en gelijkaardige dessertconcepten. "
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "CM019BU2026 - 0012829 - 1"
-      },
-      {
-       "language": "FR",
-       "text": "CM019BU2026 - 0012829 - 1"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SERVICES"
-   ],
-   "noticeIds": [
-    "59322c37-c413-4d5f-b231-e63c0ed5b5c1"
-   ],
-   "noticeSubType": "19",
-   "nutsCodes": [
-    "BE100"
-   ],
-   "organisation": {
-    "organisationId": 5644,
-    "organisationNames": [
-     {
-      "language": "NL",
-      "text": "NMBS-Stations Commercialisation"
-     },
-     {
-      "language": "FR",
-      "text": "SNCB-Stations Commercialisation"
-     },
-     {
-      "language": "DE",
-      "text": "SNCB-Stations Commercialisation"
-     },
-     {
-      "language": "EN",
-      "text": "SNCB-Stations Commercialisation"
-     }
-    ],
-    "tree": "200002.200014.4613.5644"
-   },
-   "procedureId": "a2793c91-910b-46ae-b016-39e386da9e84",
+   "procedureId": "80e65566-2448-4b9c-ac5d-afc9e8a19544",
    "publicationDate": "2026-10-27",
    "publicationLanguages": [
     "NL",
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "CM019BU2026 - 0012829_pub01"
+    "21034-21037_pub02"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "4b2a5b19-3d80-4308-9047-f4013d3352f9",
+   "publicationWorkspaceId": "8725425f-adee-4d50-806d-a58ecece9ba3",
    "publishedAt": [
-    "2026-10-27T00:00:47.284843"
+    "2026-10-27T07:26:46.061463"
    ],
-   "referenceNumber": "CM019BU2026 - 0012829_pub01",
+   "referenceNumber": "21034-21037_pub02",
    "sentAt": [
-    "2026-10-27T00:00:47.284843"
+    "2026-10-27T07:26:46.061463"
    ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2027-01-20T12:00:00"
-  }
- ],
- "exemple_attribution": [
+   "tedPublished": false
+  },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45255500-4",
+     "code": "39711310-5",
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Boor- en exploratiewerkzaamheden"
-      },
-      {
-       "language": "EN",
-       "text": "Drilling and exploration work"
-      },
-      {
        "language": "DE",
-       "text": "Bohrungs- und Explorationsarbeiten"
+       "text": "Elektrische Kaffeemaschinen"
       },
       {
        "language": "FR",
-       "text": "Travaux de forage et d'exploration"
+       "text": "Cafetières électriques"
+      },
+      {
+       "language": "NL",
+       "text": "Elektrische koffiezetapparaten"
+      },
+      {
+       "language": "EN",
+       "text": "Electric coffee makers"
+      }
+     ]
+    },
+    {
+     "code": "15860000-4",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Café, thé et produits connexes"
+      },
+      {
+       "language": "DE",
+       "text": "Kaffee, Tee und zugehörige Produkte"
+      },
+      {
+       "language": "NL",
+       "text": "Koffie, thee en aanverwante producten"
+      },
+      {
+       "language": "EN",
+       "text": "Coffee, tea and related products"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45255500-4",
+    "code": "15860000-4",
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Boor- en exploratiewerkzaamheden"
-     },
-     {
-      "language": "EN",
-      "text": "Drilling and exploration work"
+      "language": "FR",
+      "text": "Café, thé et produits connexes"
      },
      {
       "language": "DE",
-      "text": "Bohrungs- und Explorationsarbeiten"
+      "text": "Kaffee, Tee und zugehörige Produkte"
      },
      {
-      "language": "FR",
-      "text": "Travaux de forage et d'exploration"
+      "language": "NL",
+      "text": "Koffie, thee en aanverwante producten"
+     },
+     {
+      "language": "EN",
+      "text": "Coffee, tea and related products"
      }
     ]
    },
@@ -525,19 +387,20 @@
     "accreditations": {},
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Le présent marché concerne la réalisation des forages en vue d’alimenter une sous-station thermodynamique centralisée. Cela comprend donc l’ensemble des forages géothermiques, les raccordements aux collecteurs, les collecteurs et la connexion à la zone technique.  Lieu d’exécution : 7100 Haine-Saint-Paul (La Louvière) – Clos de l’Age d’Or  Le site est libre d’occupation et de construction. "
+      "language": "NL",
+      "text": "Het lokaal bestuur Grimbergen wenst een raamovereenkomst af te sluiten voor de levering van koffie, thee, warme drankingrediënten en aanverwante verbruiksgoederen, gecombineerd met het ter beschikking stellen, onderhouden en gebruiksklaar houden van koffieautomaten op verschillende gemeentelijke locaties.    De opdracht richt zich tot leveranciers die zowel kunnen instaan voor de levering van kwalitatieve producten afkomstig uit eerlijke handel (Fairtrade of gelijkwaardig) als voor een volledige dienstverlening inzake koffieautomaten, met inbegrip van plaatsing, onderhoud, herstellingen, opleidingen en technische ondersteuning. Gedurende de volledige looptijd van de overeenkomst blijft de opdrachtnemer verantwoordelijk voor de beschikbaarheid en goede werking van de toestellen."
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP0M9-1201/5216/T25.1201 (126.285)",
+    "number": "PPP06I-1363/6285/2026/1276",
     "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "PPP0M9-1201/5216/T25.1201 (126.285)",
+    "referenceNumber": "PPP06I-1363/6285/2026/1276",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
-      "language": "FR",
-      "text": "Réalisation de forages géothermiques sur le site du Clos de l'Age d'Or à La Louvière"
+      "language": "NL",
+      "text": "Levering van koffie afkomstig uit eerlijke handel en toebehoren en plaatsen van koffietoestellen 2027 - 2032"
      }
     ]
    },
@@ -546,8 +409,162 @@
     {
      "descriptions": [
       {
+       "language": "NL",
+       "text": "Het lokaal bestuur Grimbergen wenst een raamovereenkomst af te sluiten voor de levering van koffie, thee, warme drankingrediënten en aanverwante verbruiksgoederen, gecombineerd met het ter beschikking stellen, onderhouden en gebruiksklaar houden van koffieautomaten op verschillende gemeentelijke locaties.    De opdracht richt zich tot leveranciers die zowel kunnen instaan voor de levering van kwalitatieve producten afkomstig uit eerlijke handel (Fairtrade of gelijkwaardig) als voor een volledige dienstverlening inzake koffieautomaten, met inbegrip van plaatsing, onderhoud, herstellingen, opleidingen en technische ondersteuning. Gedurende de volledige looptijd van de overeenkomst blijft de opdrachtnemer verantwoordelijk voor de beschikbaarheid en goede werking van de toestellen."
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Levering van koffie afkomstig uit eerlijke handel en toebehoren en plaatsen van koffietoestellen 2027 - 2032"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SUPPLIES"
+   ],
+   "noticeIds": [
+    "c76425d7-7e69-42fc-b59f-894b906700b2"
+   ],
+   "noticeSubType": "16",
+   "nutsCodes": [
+    "BE241"
+   ],
+   "organisation": {
+    "organisationId": 235,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "Grimbergen"
+     },
+     {
+      "language": "NL",
+      "text": "Grimbergen"
+     },
+     {
+      "language": "FR",
+      "text": "Grimbergen"
+     },
+     {
+      "language": "EN",
+      "text": "Grimbergen"
+     }
+    ],
+    "tree": "200004.200021.235"
+   },
+   "procedureId": "be8a5b23-82c2-4679-b638-bf2e9eda3f41",
+   "publicationDate": "2026-10-27",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP06I-1363/6285/2026/1276_001"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "459224ae-ac14-44c0-96c3-12419038a878",
+   "publishedAt": [
+    "2026-10-27T08:33:45.039569"
+   ],
+   "referenceNumber": "PPP06I-1363/6285/2026/1276_001",
+   "sentAt": [
+    "2026-10-27T08:33:45.039569"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-11-19T11:00:00"
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "90713000-8",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Environmental issues consultancy services"
+      },
+      {
+       "language": "DE",
+       "text": "Beratung in Umweltfragen"
+      },
+      {
+       "language": "NL",
+       "text": "Adviesdiensten inzake milieuproblematiek"
+      },
+      {
        "language": "FR",
-       "text": "Le présent marché concerne la réalisation des forages en vue d’alimenter une sous-station thermodynamique centralisée. Cela comprend donc l’ensemble des forages géothermiques, les raccordements aux collecteurs, les collecteurs et la connexion à la zone technique.  Lieu d’exécution : 7100 Haine-Saint-Paul (La Louvière) – Clos de l’Age d’Or  Le site est libre d’occupation et de construction. "
+       "text": "Services de conseils environnementaux"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "90713000-8",
+    "descriptions": [
+     {
+      "language": "EN",
+      "text": "Environmental issues consultancy services"
+     },
+     {
+      "language": "DE",
+      "text": "Beratung in Umweltfragen"
+     },
+     {
+      "language": "NL",
+      "text": "Adviesdiensten inzake milieuproblematiek"
+     },
+     {
+      "language": "FR",
+      "text": "Services de conseils environnementaux"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-27",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "EN",
+      "text": "Consultancy Services for Climate Finance Project Pipeline Development"
+     },
+     {
+      "language": "FR",
+      "text": "Services de conseil pour le développement d'un portefeuille de projets liés au financement de la lutte contre le changement climatique"
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "MOZ22006-10161",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "MOZ22006-10161",
+    "titles": [
+     {
+      "language": "EN",
+      "text": "Consultancy Services for Climate Finance Project Pipeline Development"
+     },
+     {
+      "language": "FR",
+      "text": "Services de conseil pour le développement d'un portefeuille de projets liés au financement de la lutte contre le changement climatique"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-12",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Consultancy Services for Climate Finance Project Pipeline Development"
+      },
+      {
+       "language": "FR",
+       "text": "Services de conseil pour le développement d'un portefeuille de projets liés au financement de la lutte contre le changement climatique"
       }
      ],
      "reservedExecution": [
@@ -559,7 +576,294 @@
      "titles": [
       {
        "language": "FR",
-       "text": "Réalisation de forages géothermiques sur le site du Clos de l'Age d'Or à La Louvière"
+       "text": "MOZ22006-10161 - 1"
+      },
+      {
+       "language": "EN",
+       "text": "MOZ22006-10161 - 1"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SERVICES"
+   ],
+   "noticeIds": [
+    "eb1b2cb7-9b65-45ec-bbbf-4d5d33cd45ac",
+    "060baa91-57ea-4c09-b082-e0904f6055f9"
+   ],
+   "noticeSubType": "E3",
+   "nutsCodes": [],
+   "organisation": {
+    "organisationId": 139,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "Enabel"
+     },
+     {
+      "language": "NL",
+      "text": "Enabel"
+     },
+     {
+      "language": "EN",
+      "text": "Enabel"
+     },
+     {
+      "language": "FR",
+      "text": "Enabel"
+     }
+    ],
+    "tree": "200002.200014.139"
+   },
+   "procedureId": "8981546f-f295-4f3a-b233-13d28932b4f7",
+   "publicationDate": "2026-10-27",
+   "publicationLanguages": [
+    "EN",
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "MOZ22006-10161_pub01"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "9d94d9dc-e0f4-4bf7-be43-21c676ebe087",
+   "publishedAt": [
+    "2026-10-12T14:30:45.019561",
+    "2026-10-27T07:19:46.063536"
+   ],
+   "referenceNumber": "MOZ22006-10161_pub01",
+   "sentAt": [
+    "2026-10-12T14:30:45.019561",
+    "2026-10-27T07:19:46.063536"
+   ],
+   "tedPublished": false
+  }
+ ],
+ "exemple_attribution": [
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45332400-7",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Sanitary fixture installation work"
+      },
+      {
+       "language": "DE",
+       "text": "Installation von Sanitäreinrichtungen"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux d'installation d'appareils sanitaires"
+      },
+      {
+       "language": "NL",
+       "text": "Installeren van sanitair"
+      }
+     ]
+    },
+    {
+     "code": "45422000-1",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Travaux de charpenterie"
+      },
+      {
+       "language": "NL",
+       "text": "Timmer- en schrijnwerk"
+      },
+      {
+       "language": "EN",
+       "text": "Carpentry installation work"
+      },
+      {
+       "language": "DE",
+       "text": "Zimmer- und Tischlerarbeiten"
+      }
+     ]
+    },
+    {
+     "code": "45332000-3",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Loodgieterswerk en leggen van afvoerbuizen"
+      },
+      {
+       "language": "DE",
+       "text": "Installateurarbeiten und Verlegung von Abwasserleitungen"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de plomberie et de pose de conduits d'évacuation"
+      },
+      {
+       "language": "EN",
+       "text": "Plumbing and drain-laying work"
+      }
+     ]
+    },
+    {
+     "code": "45330000-9",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Plumbing and sanitary works"
+      },
+      {
+       "language": "NL",
+       "text": "Loodgieterswerk"
+      },
+      {
+       "language": "DE",
+       "text": "Installateurarbeiten"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de plomberie"
+      }
+     ]
+    },
+    {
+     "code": "45421131-1",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Installation of doors"
+      },
+      {
+       "language": "NL",
+       "text": "Plaatsen van deuren"
+      },
+      {
+       "language": "FR",
+       "text": "Pose de portes"
+      },
+      {
+       "language": "DE",
+       "text": "Einbau von Türen"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45332400-7",
+    "descriptions": [
+     {
+      "language": "EN",
+      "text": "Sanitary fixture installation work"
+     },
+     {
+      "language": "DE",
+      "text": "Installation von Sanitäreinrichtungen"
+     },
+     {
+      "language": "FR",
+      "text": "Travaux d'installation d'appareils sanitaires"
+     },
+     {
+      "language": "NL",
+      "text": "Installeren van sanitair"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-27",
+   "dossier": {
+    "accreditations": {
+     "D16": 1
+    },
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "De huidige opdracht betreft een raamovereenkomst met één enkele onderneming voor het vernieuwen van de sanitaire installaties en wandtegels in woningen van Centrale Dienst voor Sociale en Culturele Actie van het Ministerie van Landsverdediging (Def+) bestaande uit: PERCEEL 1: 70 woningen te Aye, 97 woningen te Waha en 102 woningen te Bourdon; PERCEEL 2: 66 woningen en 24 appartementen te Belgrado, 26 woningen te Dinant, 84 woningen te Florennes, 59 woningen en 11 appartementen te Philippeville. Het gaat om een contract van 1 jaar met de mogelijkheid om het contract jaarlijks stilzwijgend te verlengen onder exact dezelfde voorwaarden en maximaal 3 keer. De maximaal mogelijke waarde van de opdracht is €250.000 voor perceel 1 en €250.000 voor perceel 2. De opdracht wordt van rechtswege beëindigd ofwel wanneer deze bedragen worden bereikt ofwel wanneer de laatst mogelijke verlenging eindigt, naargelang het eerste wat gebeurt."
+     },
+     {
+      "language": "FR",
+      "text": "Le présent marché porte sur un accord-cadre avec une seule entreprise pour des travaux de renouvellement des installations sanitaires et faïences murales dans des logements de l’Office Central d’Action Sociale et Culturelle du Ministère De La Défense (ci-après Def+) dont ; LOT 1 : 70 maisons à Aye, 97 maisons à Waha et 102 maisons à Bourdon; LOT 2 : 66 maisons et 24 appartements à Belgrade, 26 maisons à Dinant, 84 maisons à Florennes, 59 maisons et 11 appartements à Philippeville. Il s’agit d’un contrat de 1 an avec la possibilité annuelle de prolonger le contrat d’une manière tacite sous exactement les mêmes conditions et au maximum 3 fois (voir point 2.5 du CSC). La valeur maximale possible du marché est de 250.000 € pour le lot 1 et 250.000 € pour le lot 2. Le marché prend fin de plein droit ce qui arrive d’abord, soit au moment où ces montants seraient atteints soit à l'expiration de la dernière prolongation possible."
+     }
+    ],
+    "enterpriseCategories": [
+     {
+      "categoryCode": "D16",
+      "levels": [
+       1
+      ]
+     }
+    ],
+    "legalBasis": "D24",
+    "number": "21034-21037",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "21034-21037",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Travaux de renouvellement des installations sanitaires et faïences murales dans des logements de l’Office Central D’Action Sociale et Culturelle du Ministère de la Défense (Def+) à Aye, Waha, Bourdon (lot 1 – réf 21034) et Belgrade, Dinant, Florennes et Philippeville (lot 2 – réf 21037)"
+     },
+     {
+      "language": "NL",
+      "text": "Werkzaamheden voor het vernieuwen van de sanitaire installaties en wandtegels in de woningen van de Centrale Dienst voor Sociale en Culturele Actie van het Ministerie van Landsverdediging (Def+) te Aye, Waha, Bourdon (perceel 1 – ref 21034) en Belgrade, Dinant, Florennes en Philippeville (perceel 2 – ref 21037)"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-27",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "De huidige opdracht betreft een raamovereenkomst met één enkele onderneming voor het vernieuwen van de sanitaire installaties en wandtegels in woningen van Centrale Dienst voor Sociale en Culturele Actie van het Ministerie van Landsverdediging (Def+) bestaande uit: PERCEEL 1: 70 woningen te Aye, 97 woningen te Waha en 102 woningen te Bourdon. Het gaat om een contract van 1 jaar met de mogelijkheid om het contract jaarlijks stilzwijgend te verlengen onder exact dezelfde voorwaarden en maximaal 3 keer. De maximaal mogelijke waarde van de opdracht is €250.000 voor perceel 1. De opdracht wordt van rechtswege beëindigd ofwel wanneer dit bedrag wordt bereikt ofwel wanneer de laatst mogelijke verlenging eindigt, naargelang het eerste wat gebeurt."
+      },
+      {
+       "language": "FR",
+       "text": "Le présent marché porte sur un accord-cadre avec une seule entreprise pour des travaux de renouvellement des installations sanitaires et faïences murales dans des logements de l’Office Central d’Action Sociale et Culturelle du Ministère De La Défense (ci-après Def+) dont ; LOT 1 : 70 maisons à Aye, 97 maisons à Waha et 102 maisons à Bourdon. Il s’agit d’un contrat de 1 an avec la possibilité annuelle de prolonger le contrat d’une manière tacite sous exactement les mêmes conditions et au maximum 3 fois (voir point 2.5 du CSC). La valeur maximale possible de ce lot est de 250.000 €. Le marché prend fin de plein droit ce qui arrive d’abord, soit au moment où ce montant serait atteint soit à l'expiration de la dernière prolongation possible."
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "21034 - Werkzaamheden voor het vernieuwen van de sanitaire installaties en wandtegels in de woningen van de Centrale Dienst voor Sociale en Culturele Actie van het Ministerie van Landsverdediging (Def+) te Aye, Waha, Bourdon (perceel 1)"
+      },
+      {
+       "language": "FR",
+       "text": "21034 - Travaux de renouvellement des installations sanitaires et faïences murales dans des logements de l’Office Central D’Action Sociale et Culturelle du Ministère de la Défense (Def+) à Aye, Waha, Bourdon (lot 1)"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Le présent marché porte sur un accord-cadre avec une seule entreprise pour des travaux de renouvellement des installations sanitaires et faïences murales dans des logements de l’Office Central d’Action Sociale et Culturelle du Ministère De La Défense (ci-après Def+) dont ; LOT 2 : 66 maisons et 24 appartements à Belgrade, 26 maisons à Dinant, 84 maisons à Florennes, 59 maisons et 11 appartements à Philippeville. Il s’agit d’un contrat de 1 an avec la possibilité annuelle de prolonger le contrat d’une manière tacite sous exactement les mêmes conditions et au maximum 3 fois (voir point 2.5 du CSC). La valeur maximale possible de ce lot est de 250.000 €. Le marché prend fin de plein droit ce qui arrive d’abord, soit au moment où ce montant serait atteint soit à l'expiration de la dernière prolongation possible."
+      },
+      {
+       "language": "NL",
+       "text": "De huidige opdracht betreft een raamovereenkomst met één enkele onderneming voor het vernieuwen van de sanitaire installaties en wandtegels in woningen van Centrale Dienst voor Sociale en Culturele Actie van het Ministerie van Landsverdediging (Def+) bestaande uit: PERCEEL 2: 66 woningen en 24 appartementen te Belgrado, 26 woningen te Dinant, 84 woningen te Florennes, 59 woningen en 11 appartementen te Philippeville. Het gaat om een contract van 1 jaar met de mogelijkheid om het contract jaarlijks stilzwijgend te verlengen onder exact dezelfde voorwaarden en maximaal 3 keer. De maximaal mogelijke waarde van de opdracht is €250.000 voor perceel 2. De opdracht wordt van rechtswege beëindigd ofwel wanneer dit bedrag wordt bereikt ofwel wanneer de laatst mogelijke verlenging eindigt, naargelang het eerste wat gebeurt."
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "21037 - Werkzaamheden voor het vernieuwen van de sanitaire installaties en wandtegels in de woningen van de Centrale Dienst voor Sociale en Culturele Actie van het Ministerie van Landsverdediging (Def+) te Belgrade, Dinant, Florennes en Philippeville (perceel 2)"
+      },
+      {
+       "language": "FR",
+       "text": "21037 - Travaux de renouvellement des installations sanitaires et faïences murales dans des logements de l’Office Central D’Action Sociale et Culturelle du Ministère de la Défense (Def+) à Belgrade, Dinant, Florennes et Philippeville (lot 2)"
       }
      ]
     }
@@ -568,51 +872,55 @@
     "WORKS"
    ],
    "noticeIds": [
-    "f67bc62f-68fb-4f3c-9c5f-fb73084c7761"
+    "5c4f8fff-946b-4490-aab5-d42e039f4443"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE329"
+    "BE343",
+    "BE353",
+    "BE352",
+    "BE351"
    ],
    "organisation": {
-    "organisationId": 965,
+    "organisationId": 3,
     "organisationNames": [
      {
-      "language": "EN",
-      "text": "Centr'Habitat"
+      "language": "FR",
+      "text": "Office Central d'Action Sociale et Culturelle du Ministère de la Défense"
      },
      {
       "language": "DE",
-      "text": "Centr'Habitat"
+      "text": "Office Central d'Action Sociale et Culturelle"
+     },
+     {
+      "language": "EN",
+      "text": "Central Office of Sociale and Cultural Action of the Ministry of Defense"
      },
      {
       "language": "NL",
-      "text": "Centr'Habitat"
-     },
-     {
-      "language": "FR",
-      "text": "Centr'Habitat SCRL"
+      "text": "Centrale Dienst voor Sociale en Culturele Actie van het Ministerie van Landsverdediging"
      }
     ],
-    "tree": "200004.200028.965"
+    "tree": "200002.200010.3"
    },
-   "procedureId": "33e93b75-5bfd-4cf8-adf6-61ff0ee54368",
+   "procedureId": "80e65566-2448-4b9c-ac5d-afc9e8a19544",
    "publicationDate": "2026-10-27",
    "publicationLanguages": [
+    "NL",
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP0M9-1201/5216/T25.1201 (126.285)_002"
+    "21034-21037_pub02"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "ebf962b3-01e8-48e2-9df4-de8d1b2408c2",
+   "publicationWorkspaceId": "8725425f-adee-4d50-806d-a58ecece9ba3",
    "publishedAt": [
-    "2026-10-27T00:00:47.128507"
+    "2026-10-27T07:26:46.061463"
    ],
-   "referenceNumber": "PPP0M9-1201/5216/T25.1201 (126.285)_002",
+   "referenceNumber": "21034-21037_pub02",
    "sentAt": [
-    "2026-10-27T00:00:47.128507"
+    "2026-10-27T07:26:46.061463"
    ],
    "tedPublished": false
   }
