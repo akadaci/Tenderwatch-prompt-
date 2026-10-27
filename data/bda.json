@@ -1,11 +1,13 @@
 {
- "updated": "2026-10-27T05:36:38Z",
+ "updated": "2026-10-27T07:01:53Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
  "received": 255,
  "kept": 121,
- "count": 2245,
- "new_ids": [],
+ "count": 2246,
+ "new_ids": [
+  "bda-8725425f-adee-4d50-806d-a58ecece9ba3"
+ ],
  "records": [
   {
    "id": "bda-ebf962b3-01e8-48e2-9df4-de8d1b2408c2",
@@ -300,6 +302,27 @@
    "procedure": "781bf8c9-1aa5-47df-9606-1449f2d5025d",
    "dossier": "ANB-GI-INRW-2026-229",
    "first_seen": "2026-10-27T05:01:39Z"
+  },
+  {
+   "id": "bda-8725425f-adee-4d50-806d-a58ecece9ba3",
+   "source_type": "BDA",
+   "nom": "Travaux de renouvellement des installations sanitaires et faïences murales dans des logements de l’Office Central D’Action Sociale et Culturelle du Ministère de la Défense (Def+) à Aye, Waha, Bourdon ",
+   "lieu": "Luxembourg (prov.), Namur",
+   "province": "Luxembourg (prov.)",
+   "mo": "Office Central d'Action Sociale et Culturelle du Ministère de la Défense",
+   "etape": 5,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/8725425f-adee-4d50-806d-a58ecece9ba3",
+   "verif": "vérifié",
+   "verif_date": "2026-10-27",
+   "preuve": "Bulletin des Adjudications, réf. 21034-21037 (attribution, sous-type eForms E4), publié le 2026-10-27.",
+   "date_publication": "2026-10-27",
+   "cpv": "45332400,45422000,45332000,45330000,45421131",
+   "ted_ref": "",
+   "notes": "Le présent marché porte sur un accord-cadre avec une seule entreprise pour des travaux de renouvellement des installations sanitaires et faïences murales dans des logements de l’Office Central d’Action Sociale et Culturelle du Ministère De La Défense (ci-après Def+) dont ; LOT 1 : 70 maisons à Aye, ",
+   "procedure": "80e65566-2448-4b9c-ac5d-afc9e8a19544",
+   "dossier": "21034-21037",
+   "first_seen": "2026-10-27T07:01:53Z"
   },
   {
    "id": "bda-91fc7a81-2a18-451f-8a2a-c221010b4576",
