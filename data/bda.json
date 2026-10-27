@@ -1,21 +1,11 @@
 {
- "updated": "2026-10-27T05:01:39Z",
+ "updated": "2026-10-27T05:36:38Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
  "received": 255,
  "kept": 121,
  "count": 2245,
- "new_ids": [
-  "bda-84664835-3da4-4bdc-8eef-21f7386db545",
-  "bda-55fa6bbb-203a-4613-bc17-c904eb1f098b",
-  "bda-3ffc8455-2c7d-4e80-92ea-5b533ba9188f",
-  "bda-59d0663e-091e-445f-bb33-6f46cffc0c7e",
-  "bda-3a30cf8a-a9bf-4756-a5d5-17f9022fa9a6",
-  "bda-27a4d2d8-3be7-48ba-8fe8-52b7004796d7",
-  "bda-c3ecf961-11bb-42fb-8428-ed4021fe0997",
-  "bda-9743c64f-c669-4ecb-a0ba-4713bc143660",
-  "bda-69361118-bfbe-4b7a-936a-c9241bb8ae1f"
- ],
+ "new_ids": [],
  "records": [
   {
    "id": "bda-ebf962b3-01e8-48e2-9df4-de8d1b2408c2",
@@ -428,7 +418,7 @@
    "verif_date": "2026-10-27",
    "preuve": "Bulletin des Adjudications, réf. ATE-26-0006 (avis de marché, sous-type eForms 16), publié le 2026-10-26.",
    "date_publication": "2026-10-26",
-   "cpv": "45315100,38651100,32234000,32333300,32231000,32333100,32323500,48730000,45262300,38651000,34928510,32223000,32323400,50343000,32323100,32323000",
+   "cpv": "45315100,38651100,32234000,32333300,32333100,32231000,32323500,48730000,45262300,38651000,34928510,32223000,32323400,50343000,32323100,32323000",
    "ted_ref": "ATE-26-0006_pub01",
    "notes": "Het voorwerp van de opdracht is de verdere uitrol van CCTV-systemen incl. VMS, het onderhoud en beheer van CCTV-(deel)systemen in het ambtsgebied van De Vlaamse Waterweg nv.",
    "first_seen": "2026-10-07T23:29:15Z",
@@ -2549,7 +2539,7 @@
    "verif_date": "2026-10-27",
    "preuve": "Bulletin des Adjudications, réf. PPP0U7-113/6038/0200/2026-04 (avis de marché, sous-type eForms 16), publié le 2026-10-26.",
    "date_publication": "2026-10-26",
-   "cpv": "45233120,45232454,45112000,45222000,45112700,45233200",
+   "cpv": "45233120,45222000,45112000,45232454,45112700,45233200",
    "ted_ref": "",
    "notes": "Fietsenstalling + optie uitbreiding parking",
    "first_seen": "2026-10-07T23:39:38Z",
