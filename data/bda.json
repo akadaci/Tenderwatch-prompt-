@@ -1,13 +1,11 @@
 {
- "updated": "2026-10-27T19:06:17Z",
+ "updated": "2026-10-27T21:01:40Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 420,
+ "received": 422,
  "kept": 211,
  "count": 2319,
- "new_ids": [
-  "bda-628cebf0-1bfb-4ff7-a27f-a787b478e985"
- ],
+ "new_ids": [],
  "records": [
   {
    "id": "bda-ebf962b3-01e8-48e2-9df4-de8d1b2408c2",
@@ -4389,7 +4387,7 @@
    "verif_date": "2026-10-27",
    "preuve": "Bulletin des Adjudications, réf. PPP0U7-113/6038/0200/2026-04 (avis de marché, sous-type eForms 16), publié le 2026-10-26.",
    "date_publication": "2026-10-26",
-   "cpv": "45233120,45222000,45112000,45232454,45112700,45233200",
+   "cpv": "45233120,45232454,45112000,45222000,45112700,45233200",
    "ted_ref": "",
    "notes": "Fietsenstalling + optie uitbreiding parking",
    "first_seen": "2026-10-07T23:39:38Z",
