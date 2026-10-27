@@ -1,22 +1,26 @@
 {
  "meta": {
-  "totalCount": 293382
+  "totalCount": 293432
  },
  "types": [
+  "ACTIVE|10|['SERVICES']",
   "ACTIVE|16|['SERVICES', 'SUPPLIES']",
   "ACTIVE|16|['SERVICES']",
   "ACTIVE|16|['SUPPLIES']",
   "ACTIVE|16|['WORKS']",
   "ACTIVE|17|['SERVICES']",
+  "ACTIVE|17|['SUPPLIES']",
   "ACTIVE|17|['WORKS']",
   "ACTIVE|19|['SERVICES']",
   "ACTIVE|20|['SERVICES']",
   "ACTIVE|29|['SERVICES']",
+  "ACTIVE|29|['SUPPLIES']",
   "ACTIVE|29|['WORKS']",
   "ACTIVE|30|['SERVICES']",
   "ACTIVE|30|['SUPPLIES']",
   "ACTIVE|33|['SERVICES']",
   "ACTIVE|33|['WORKS']",
+  "ACTIVE|38|['SUPPLIES']",
   "ACTIVE|E1|['SERVICES']",
   "ACTIVE|E3|['SERVICES']",
   "ACTIVE|E3|['SUPPLIES']",
@@ -313,45 +317,45 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "16310000-1",
+     "code": "55000000-0",
      "descriptions": [
       {
-       "language": "DE",
-       "text": "Mäher"
+       "language": "EN",
+       "text": "Hotel, restaurant and retail trade services"
       },
       {
        "language": "NL",
-       "text": "Maaimachines"
-      },
-      {
-       "language": "EN",
-       "text": "Mowers"
+       "text": "Diensten voor hotel, restaurant en detailhandel"
       },
       {
        "language": "FR",
-       "text": "Faucheuses"
+       "text": "Services d'hôtellerie, de restauration et de commerce au détail"
+      },
+      {
+       "language": "DE",
+       "text": "Dienstleistungen des Hotel- und Gaststättengewerbes und des Einzelhandels"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "16310000-1",
+    "code": "55000000-0",
     "descriptions": [
      {
-      "language": "DE",
-      "text": "Mäher"
+      "language": "EN",
+      "text": "Hotel, restaurant and retail trade services"
      },
      {
       "language": "NL",
-      "text": "Maaimachines"
-     },
-     {
-      "language": "EN",
-      "text": "Mowers"
+      "text": "Diensten voor hotel, restaurant en detailhandel"
      },
      {
       "language": "FR",
-      "text": "Faucheuses"
+      "text": "Services d'hôtellerie, de restauration et de commerce au détail"
+     },
+     {
+      "language": "DE",
+      "text": "Dienstleistungen des Hotel- und Gaststättengewerbes und des Einzelhandels"
      }
     ]
    },
@@ -360,19 +364,27 @@
     "accreditations": {},
     "descriptions": [
      {
+      "language": "FR",
+      "text": "La SNCB recherche un candidat-concessionnaire pour l’exploitation d’un concept Food & Beverage. La SNCB accordera une attention particulière au caractère complémentaire de l'offre proposée et se réserve le droit d'écarter toute candidature dont le concept, bien que présenté sous une autre appellation commerciale, serait considéré comme similaire à une offre déjà exploitée au sein de la gare.  Les concepts reposant principalement sur les catégories de produits suivantes* ne seront dès lors pas retenus :  *burgers et sandwiches de type « fast-food burger »  *Sandwich traditionnels  *friterie  *pizzas  *pâtes  *gyros   *glaces, cookies, gaufres et concepts de desserts similaires"
+     },
+     {
       "language": "NL",
-      "text": "Leveren van een klepelmaaier voor de groendienst Koksijde"
+      "text": "NMBS is op zoek naar een kandidaat-concessiehouder voor de uitbating van een Food & Beverage-concept.  NMBS zal bijzondere aandacht besteden aan het complementaire karakter van het voorgestelde aanbod en behoudt zich het recht voor om elke kandidatuur te weigeren waarvan het concept, hoewel het onder een andere commerciële benaming wordt voorgesteld, als gelijkaardig wordt beschouwd aan een aanbod dat reeds in het station wordt uitgebaat.  Concepten die hoofdzakelijk gebaseerd zijn op de volgende productcategorieën*, komen bijgevolg niet in aanmerking:  *burgers en sandwiches van het type fastfoodburger;  *traditionele sandwiches;  *frituur;  *pizza’s;  *pastagerechten;  *gyros;  *ijs, cookies, wafels en gelijkaardige dessertconcepten. "
      }
     ],
     "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP00T-4150/6681/2026133",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP00T-4150/6681/2026133",
+    "legalBasis": "D23",
+    "number": "CM019BU2026 - 0012829",
+    "procurementProcedureType": "NEG_W_CALL_23",
+    "referenceNumber": "CM019BU2026 - 0012829",
     "titles": [
      {
+      "language": "FR",
+      "text": "Participation à une Consultation de Marché dans la gare de Bruxelles-Midi, concept Food & Beverage "
+     },
+     {
       "language": "NL",
-      "text": "Leveren van een klepelmaaier voor de groendienst Koksijde"
+      "text": "Deelnemen aan een Marktconsultatie in het station van Brussel-Zuid, concept Food & Beverage "
      }
     ]
    },
@@ -381,69 +393,85 @@
     {
      "descriptions": [
       {
+       "language": "FR",
+       "text": "La SNCB recherche un candidat-concessionnaire pour l’exploitation d’un concept Food & Beverage. La SNCB accordera une attention particulière au caractère complémentaire de l'offre proposée et se réserve le droit d'écarter toute candidature dont le concept, bien que présenté sous une autre appellation commerciale, serait considéré comme similaire à une offre déjà exploitée au sein de la gare.  Les concepts reposant principalement sur les catégories de produits suivantes ne seront dès lors pas retenus :  *burgers et sandwiches de type « fast-food burger »  *Sandwich traditionnels  *friterie  *pizzas  *pâtes  *gyros   *glaces, cookies, gaufres et concepts de desserts similaires  "
+      },
+      {
        "language": "NL",
-       "text": "Leveren van een klepelmaaier voor de groendienst Koksijde"
+       "text": "NMBS is op zoek naar een kandidaat-concessiehouder voor de uitbating van een Food & Beverage-concept. NMBS zal bijzondere aandacht besteden aan het complementaire karakter van het voorgestelde aanbod en behoudt zich het recht voor om elke kandidatuur te weigeren waarvan het concept, hoewel het onder een andere commerciële benaming wordt voorgesteld, als gelijkaardig wordt beschouwd aan een aanbod dat reeds in het station wordt uitgebaat.  Concepten die hoofdzakelijk gebaseerd zijn op de volgende productcategorieën*, komen bijgevolg niet in aanmerking:  *burgers en sandwiches van het type fastfoodburger;  *traditionele sandwiches;  *frituur;  *pizza’s;  *pastagerechten;  *gyros;  *ijs, cookies, wafels en gelijkaardige dessertconcepten. "
       }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
      ],
      "titles": [
       {
        "language": "NL",
-       "text": "Leveren van een klepelmaaier voor de groendienst Koksijde"
+       "text": "CM019BU2026 - 0012829 - 1"
+      },
+      {
+       "language": "FR",
+       "text": "CM019BU2026 - 0012829 - 1"
       }
      ]
     }
    ],
    "natures": [
-    "SUPPLIES"
+    "SERVICES"
    ],
    "noticeIds": [
-    "ecc4f6f6-1173-4b9c-972e-4343fb079587"
+    "59322c37-c413-4d5f-b231-e63c0ed5b5c1"
    ],
-   "noticeSubType": "E4",
+   "noticeSubType": "19",
    "nutsCodes": [
-    "BE258"
+    "BE100"
    ],
    "organisation": {
-    "organisationId": 260,
+    "organisationId": 5644,
     "organisationNames": [
      {
-      "language": "DE",
-      "text": "Koksijde"
-     },
-     {
       "language": "NL",
-      "text": "Koksijde"
+      "text": "NMBS-Stations Commercialisation"
      },
      {
       "language": "FR",
-      "text": "Koksijde"
+      "text": "SNCB-Stations Commercialisation"
+     },
+     {
+      "language": "DE",
+      "text": "SNCB-Stations Commercialisation"
      },
      {
       "language": "EN",
-      "text": "Koksijde"
+      "text": "SNCB-Stations Commercialisation"
      }
     ],
-    "tree": "200004.200021.260"
+    "tree": "200002.200014.4613.5644"
    },
-   "procedureId": "08ef8cee-b921-4801-9185-20a9cf907714",
+   "procedureId": "a2793c91-910b-46ae-b016-39e386da9e84",
    "publicationDate": "2026-10-27",
    "publicationLanguages": [
-    "NL"
+    "NL",
+    "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP00T-4150/6681/2026133_002"
+    "CM019BU2026 - 0012829_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "10613a74-94c9-4f91-9ee2-18a70018859e",
+   "publicationWorkspaceId": "4b2a5b19-3d80-4308-9047-f4013d3352f9",
    "publishedAt": [
-    "2026-10-27T00:00:47.688601"
+    "2026-10-27T00:00:47.284843"
    ],
-   "referenceNumber": "PPP00T-4150/6681/2026133_002",
+   "referenceNumber": "CM019BU2026 - 0012829_pub01",
    "sentAt": [
-    "2026-10-27T00:00:47.688601"
+    "2026-10-27T00:00:47.284843"
    ],
-   "tedPublished": false
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2027-01-20T12:00:00"
   }
  ],
  "exemple_attribution": [
