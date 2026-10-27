@@ -1,11 +1,13 @@
 {
- "updated": "2026-10-27T17:04:39Z",
+ "updated": "2026-10-27T19:06:17Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 418,
- "kept": 210,
- "count": 2318,
- "new_ids": [],
+ "received": 420,
+ "kept": 211,
+ "count": 2319,
+ "new_ids": [
+  "bda-628cebf0-1bfb-4ff7-a27f-a787b478e985"
+ ],
  "records": [
   {
    "id": "bda-ebf962b3-01e8-48e2-9df4-de8d1b2408c2",
@@ -2148,6 +2150,27 @@
    "procedure": "1568c08e-c801-4b34-b0de-e9b76e2cb585",
    "dossier": "CIC/MP/MPT/001",
    "first_seen": "2026-10-27T16:52:03Z"
+  },
+  {
+   "id": "bda-628cebf0-1bfb-4ff7-a27f-a787b478e985",
+   "source_type": "BDA",
+   "nom": "vernieuwen schrijnwerk gemeentehuis De Warande, Kemmel",
+   "lieu": "Flandre-Occidentale",
+   "province": "Flandre-Occidentale",
+   "mo": "Heuvelland",
+   "etape": 4,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/628cebf0-1bfb-4ff7-a27f-a787b478e985",
+   "verif": "vérifié",
+   "verif_date": "2026-10-27",
+   "preuve": "Bulletin des Adjudications, réf. PPP02Z-3210/6267/2026/3210 (avis de marché, sous-type eForms 16), publié le 2026-10-27.",
+   "date_publication": "2026-10-27",
+   "cpv": "45421130",
+   "ted_ref": "",
+   "notes": "vervangen van bestaande schrijnwerk (ramen en deuren) door identiek nieuw houten schrijnwerk",
+   "procedure": "997113d0-88d3-4549-98f7-cd5345648cbf",
+   "dossier": "PPP02Z-3210/6267/2026/3210",
+   "first_seen": "2026-10-27T19:06:17Z"
   },
   {
    "id": "bda-91fc7a81-2a18-451f-8a2a-c221010b4576",
