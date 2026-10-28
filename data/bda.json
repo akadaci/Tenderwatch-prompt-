@@ -1,15 +1,11 @@
 {
- "updated": "2026-10-28T19:02:04Z",
+ "updated": "2026-10-28T19:53:29Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 681,
+ "received": 682,
  "kept": 328,
  "count": 2419,
- "new_ids": [
-  "bda-ea09c2b3-27a5-43c7-a720-26dc7df3e50b",
-  "bda-0eac38fd-3521-42a0-82ef-7645d79b79d7",
-  "bda-7fa15458-2e79-4c57-bc48-09fef2ddb7d2"
- ],
+ "new_ids": [],
  "records": [
   {
    "id": "bda-f239df58-59bb-42d1-825c-790e7ac6abc1",
@@ -277,7 +273,7 @@
    "verif_date": "2026-10-28",
    "preuve": "Bulletin des Adjudications, réf. ARW-26-005 (attribution, sous-type eForms 29), publié le 2026-10-28.",
    "date_publication": "2026-10-28",
-   "cpv": "77310000,77211300,77211400,77211500,77312100,77315000,77312000,77341000,45233229,77314100",
+   "cpv": "77310000,77211300,77211400,77211500,77312000,77315000,77312100,77341000,45233229,77314100",
    "ted_ref": "ARW-26-005_pub02",
    "notes": "Het voorwerp van de opdracht is het uitvoeren van het groen- en netheidsonderhoud in district 3: Leie.",
    "procedure": "4b6a9607-d03a-43a8-8e16-d74b09af07ff",
@@ -1243,7 +1239,7 @@
    "verif_date": "2026-10-28",
    "preuve": "Bulletin des Adjudications, réf. PPP0B9-695/6158/2026-695-buitengewoon_onderhoud_wegen (avis de marché, sous-type eForms 16), publié le 2026-10-28.",
    "date_publication": "2026-10-28",
-   "cpv": "45233141,45233222,45000000,45233120,45233142",
+   "cpv": "45233141,45233222,45233120,45000000,45233142",
    "ted_ref": "",
    "notes": "Buitengewoon onderhoud wegen 2026-2027",
    "procedure": "e09ebc81-7caa-43e6-930e-c24d814ac1aa",
