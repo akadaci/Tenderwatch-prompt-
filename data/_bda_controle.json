@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 293791
+  "totalCount": 293804
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -47,168 +47,232 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "66510000-8",
+     "code": "33192120-9",
      "descriptions": [
       {
-       "language": "EN",
-       "text": "Insurance services"
-      },
-      {
-       "language": "DE",
-       "text": "Versicherungen"
-      },
-      {
        "language": "FR",
-       "text": "Services d'assurance"
+       "text": "Lits d'hôpital"
       },
       {
        "language": "NL",
-       "text": "Verzekeringsdiensten"
+       "text": "Ziekenhuisbedden"
+      },
+      {
+       "language": "DE",
+       "text": "Krankenhausbetten"
+      },
+      {
+       "language": "EN",
+       "text": "Hospital beds"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "66510000-8",
+    "code": "33192120-9",
     "descriptions": [
      {
-      "language": "EN",
-      "text": "Insurance services"
-     },
-     {
-      "language": "DE",
-      "text": "Versicherungen"
-     },
-     {
       "language": "FR",
-      "text": "Services d'assurance"
+      "text": "Lits d'hôpital"
      },
      {
       "language": "NL",
-      "text": "Verzekeringsdiensten"
+      "text": "Ziekenhuisbedden"
+     },
+     {
+      "language": "DE",
+      "text": "Krankenhausbetten"
+     },
+     {
+      "language": "EN",
+      "text": "Hospital beds"
      }
     ]
    },
-   "dispatchDate": "2026-10-28",
+   "dispatchDate": "2026-10-29",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
       "language": "NL",
-      "text": "Overheidsopdracht voor verzekeringsdiensten met als voorwerp ”Hernieuwing van de verzekeringsportefeuille van het APB Westtoer en de VZW Toerisme Leiestreek”."
+      "text": "Deze opdracht betreft de afsluiting van een raamovereenkomst voor de gefaseerde levering voor HHLeuven van vermoedelijk 25 smalle, ergonomische ziekenhuisbedden, bestemd voor gebruik in het dagziekenhuis. De aanbestedende overheid behoudt zich het recht om de effectieve hoeveelheden te verhogen, te verlagen of te schrappen. De opgenomen hoeveelheden zijn niet-contractueel en geven geen recht op enige minimumafname.   De huidige bedden nemen een aanzienlijke vloeroppervlakte in en hebben daardoor een beperkte wendbaarheid, wat een rechtstreekse impact heeft op de werkbaarheid en de efficiëntie van de zorgverlening. In het dagziekenhuis worden de bedden bovendien zeer frequent verplaatst, onder meer tussen voorbereidingszones, operatiezaal en recovery. De bestaande brede bedden zijn hiervoor onvoldoende aangepast, wat leidt tot manoeuvreerproblemen in nauwe gangen en ruimtes en een verhoogde fysieke belasting voor het zorgpersoneel. In de huidige infrastructuur is dit niet langer optimaal, waardoor er nood is aan zeer wendbare, compacte en smalle ziekenhuisbedden die vlot door één zorgverlener kunnen worden gemanoeuvreerd.  Met deze opdracht beoogt de aanbestedende overheid een duurzame, toekomstgerichte en functionele oplossing te realiseren die het dagelijks gebruik in een intensieve zorgomgeving optimaal ondersteunt.  Dit dossier vereist bijzondere aandacht voor ruimte-efficiëntie, patiëntveiligheid en gebruiksgemak voor verpleegkundigen en andere zorgverleners. De opdracht wordt opgevat als een gefaseerde aankoop, met het oog op een coherente en consistente uitrusting over verschillende zorgomgevingen heen: • Fase 1 betreft de aankoop van een eerste reeks van 8 smalle ziekenhuisbedden, bestemd voor onmiddellijk gebruik in het huidige dagziekenhuis. Deze fase heeft als doel onmiddellijk tegemoet te komen aan de huidige ruimtelijke, operationele en ergonomische noden. • Fase 2 voorziet in een mogelijke latere bijkomende aankoop van identieke bedden, voorzien tegen 2030-2031, in functie van de ingebruikname van het nieuw chirurgisch dagziekenhuis.  De aanbestedende overheid hecht groot belang aan het feit dat de voorgestelde bedden niet louter een oplossing bieden voor de huidige situatie, maar ook structureel inzetbaar zijn binnen de geplande uitbreiding.  De in fase 1 aangekochte bedden zullen worden meegenomen naar het nieuw dagziekenhuis en daar aangevuld worden met identieke bedden aangekocht in fase 2, teneinde operationele continuïteit en uniformiteit van materiaal te waarborgen.  Deze overheidsopdracht omvat: - De levering van smalle bedden exclusief matras - De nodige accessoires en toebehoren - Gebruiksinstructies en opleiding van het personeel - Onderhoudscontract  De looptijd van de raamovereenkomst bedraagt 6 jaar.  "
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP0BR-1120/6275/2026/620",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "PPP0BR-1120/6275/2026/620",
+    "number": "PPP0VM-254/6054/2026.009",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP0VM-254/6054/2026.009",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
       "language": "NL",
-      "text": "HERNIEUWING VAN DE VERZEKERINGSPORTEFEUILLE VAN HET APB WESTTOER EN DE VZW TOERISME LEIESTREEK"
+      "text": "Raamovereenkomst voor smalle bedden voor chirurgisch dagziekenhuis"
      }
     ]
    },
-   "insertionDate": "2026-10-28",
+   "insertionDate": "2026-10-29",
    "lots": [
     {
      "descriptions": [
       {
        "language": "NL",
-       "text": "Aansprakelijkheid – Burgerlijke aansprakelijkheid, bestuurdersaansprakelijkheid, objectieve aansprakelijkheid"
+       "text": "Deze opdracht betreft de afsluiting van een raamovereenkomst voor de gefaseerde levering voor HHLeuven van vermoedelijk 25 smalle, ergonomische ziekenhuisbedden, bestemd voor gebruik in het dagziekenhuis. De aanbestedende overheid behoudt zich het recht om de effectieve hoeveelheden te verhogen, te verlagen of te schrappen. De opgenomen hoeveelheden zijn niet-contractueel en geven geen recht op enige minimumafname.   De huidige bedden nemen een aanzienlijke vloeroppervlakte in en hebben daardoor een beperkte wendbaarheid, wat een rechtstreekse impact heeft op de werkbaarheid en de efficiëntie van de zorgverlening. In het dagziekenhuis worden de bedden bovendien zeer frequent verplaatst, onder meer tussen voorbereidingszones, operatiezaal en recovery. De bestaande brede bedden zijn hiervoor onvoldoende aangepast, wat leidt tot manoeuvreerproblemen in nauwe gangen en ruimtes en een verhoogde fysieke belasting voor het zorgpersoneel. In de huidige infrastructuur is dit niet langer optimaal, waardoor er nood is aan zeer wendbare, compacte en smalle ziekenhuisbedden die vlot door één zorgverlener kunnen worden gemanoeuvreerd.  Met deze opdracht beoogt de aanbestedende overheid een duurzame, toekomstgerichte en functionele oplossing te realiseren die het dagelijks gebruik in een intensieve zorgomgeving optimaal ondersteunt.  Dit dossier vereist bijzondere aandacht voor ruimte-efficiëntie, patiëntveiligheid en gebruiksgemak voor verpleegkundigen en andere zorgverleners. De opdracht wordt opgevat als een gefaseerde aankoop, met het oog op een coherente en consistente uitrusting over verschillende zorgomgevingen heen: • Fase 1 betreft de aankoop van een eerste reeks van 8 smalle ziekenhuisbedden, bestemd voor onmiddellijk gebruik in het huidige dagziekenhuis. Deze fase heeft als doel onmiddellijk tegemoet te komen aan de huidige ruimtelijke, operationele en ergonomische noden. • Fase 2 voorziet in een mogelijke latere bijkomende aankoop van identieke bedden, voorzien tegen 2030-2031, in functie van de ingebruikname van het nieuw chirurgisch dagziekenhuis.  De aanbestedende overheid hecht groot belang aan het feit dat de voorgestelde bedden niet louter een oplossing bieden voor de huidige situatie, maar ook structureel inzetbaar zijn binnen de geplande uitbreiding.  De in fase 1 aangekochte bedden zullen worden meegenomen naar het nieuw dagziekenhuis en daar aangevuld worden met identieke bedden aangekocht in fase 2, teneinde operationele continuïteit en uniformiteit van materiaal te waarborgen.  Deze overheidsopdracht omvat: - De levering van smalle bedden exclusief matras - De nodige accessoires en toebehoren - Gebruiksinstructies en opleiding van het personeel - Onderhoudscontract  De looptijd van de raamovereenkomst bedraagt 6 jaar.  "
       }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
      ],
      "titles": [
       {
        "language": "NL",
-       "text": "Aansprakelijkheid – Burgerlijke aansprakelijkheid, bestuurdersaansprakelijkheid, objectieve aansprakelijkheid"
+       "text": "Raamovereenkomst voor smalle bedden voor chirurgisch dagziekenhuis"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SUPPLIES"
+   ],
+   "noticeIds": [
+    "dfcdef27-3af3-43a1-af5b-da737a358d4f"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE242"
+   ],
+   "organisation": {
+    "organisationId": 1566,
+    "organisationNames": [
+     {
+      "language": "EN",
+      "text": "Regionaal Ziekenhuis H. Hart Leuven vzw "
+     },
+     {
+      "language": "FR",
+      "text": "Regionaal Ziekenhuis H. Hart Leuven vzw "
+     },
+     {
+      "language": "DE",
+      "text": "Regionaal Ziekenhuis H. Hart Leuven vzw "
+     },
+     {
+      "language": "NL",
+      "text": "Regionaal Ziekenhuis H. Hart Leuven vzw "
+     }
+    ],
+    "tree": "200004.200027.1566"
+   },
+   "procedureId": "09b8a6f2-73c2-4f2d-9d46-a7a666edddf5",
+   "publicationDate": "2026-10-29",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP0VM-254/6054/2026.009_003"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "08db7a23-f0ff-4d75-8d79-b5d1c3a8e48c",
+   "publishedAt": [
+    "2026-10-29T00:00:47.112282"
+   ],
+   "referenceNumber": "PPP0VM-254/6054/2026.009_003",
+   "sentAt": [
+    "2026-10-29T00:00:47.112282"
+   ],
+   "tedPublished": false
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "71241000-9",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Études de faisabilité, service de conseil, analyse"
+      },
+      {
+       "language": "EN",
+       "text": "Feasibility study, advisory service, analysis"
+      },
+      {
+       "language": "DE",
+       "text": "Durchführbarkeitsstudie, Beratung, Analyse"
+      },
+      {
+       "language": "NL",
+       "text": "Haalbaarheidsstudie, adviesverlening, analyse"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "71241000-9",
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Études de faisabilité, service de conseil, analyse"
+     },
+     {
+      "language": "EN",
+      "text": "Feasibility study, advisory service, analysis"
+     },
+     {
+      "language": "DE",
+      "text": "Durchführbarkeitsstudie, Beratung, Analyse"
+     },
+     {
+      "language": "NL",
+      "text": "Haalbaarheidsstudie, adviesverlening, analyse"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-29",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Étude et dimensionnement de dispositifs de lutte contre les inondations au sud de Neufvilles"
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP05K-1908/6316/2026/3P/1908",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP05K-1908/6316/2026/3P/1908",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Étude et dimensionnement de dispositifs de lutte contre les inondations au sud de Neufvilles"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-29",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Solutions pour les problèmes d'inondation au sud-est de Neufvilles"
+      }
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Solutions pour les problèmes d'inondation au sud-est de Neufvilles"
       }
      ]
     },
     {
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Materiële schade - Brand en aanverwante risico’s, patrimoniumpolis, alle risico’s (incl. Beaufort)"
+       "language": "FR",
+       "text": "Solutions pour les problèmes d'inondation au sud-ouest de Neufvilles"
       }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
      ],
      "titles": [
       {
-       "language": "NL",
-       "text": "Materiële schade - Brand en aanverwante risico’s, patrimoniumpolis, alle risico’s (incl. Beaufort)"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Ongevallen – Arbeidsongevallen, lichamelijk ongevallen leden raad van bestuur, lichamelijke ongevallen, ziekte en contaminatie vrijwilligers"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Ongevallen – Arbeidsongevallen, lichamelijk ongevallen leden raad van bestuur, lichamelijke ongevallen, ziekte en contaminatie vrijwilligers"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Cyber verzekering"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Cyber verzekering"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Autoverzekering – Omnium dienstverplaatsingen, vlootovereenkomst wagenpark, assistentie voertuigen"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Autoverzekering – Omnium dienstverplaatsingen, vlootovereenkomst wagenpark, assistentie voertuigen"
+       "language": "FR",
+       "text": "Solutions pour les problèmes d'inondation au sud-ouest de Neufvilles"
       }
      ]
     }
@@ -217,129 +281,127 @@
     "SERVICES"
    ],
    "noticeIds": [
-    "fe4dd417-ca6b-467a-ac66-186b9b847507"
+    "c3b9332f-2668-47de-97cf-35ef64b89991"
    ],
-   "noticeSubType": "16",
+   "noticeSubType": "E4",
    "nutsCodes": [
-    "BE251"
+    "BE32C"
    ],
    "organisation": {
-    "organisationId": 416,
+    "organisationId": 332,
     "organisationNames": [
      {
-      "language": "EN",
-      "text": "Westtoer apb"
-     },
-     {
-      "language": "DE",
-      "text": "Westtoer apb"
-     },
-     {
       "language": "NL",
-      "text": "Westtoer apb"
+      "text": "Soignies "
+     },
+     {
+      "language": "EN",
+      "text": "Soignies "
      },
      {
       "language": "FR",
-      "text": "Westtoer apb"
+      "text": "Soignies "
+     },
+     {
+      "language": "DE",
+      "text": "Soignies "
      }
     ],
-    "tree": "200004.200036.416"
+    "tree": "200004.200021.332"
    },
-   "procedureId": "79b9e068-8fea-4559-a693-f2062d2f69a8",
-   "publicationDate": "2026-10-28",
+   "procedureId": "a4c7376f-98a2-44d8-ae53-fea166f08c45",
+   "publicationDate": "2026-10-29",
    "publicationLanguages": [
-    "NL"
+    "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP0BR-1120/6275/2026/620_001"
+    "PPP05K-1908/6316/2026/3P/1908_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "c9e77d1e-9265-4506-9ae6-e9ab128f055a",
+   "publicationWorkspaceId": "7fbc278d-2757-4e84-9536-b7b0f060a75d",
    "publishedAt": [
-    "2026-10-28T08:16:46.01706"
+    "2026-10-29T00:00:46.801069"
    ],
-   "referenceNumber": "PPP0BR-1120/6275/2026/620_001",
+   "referenceNumber": "PPP05K-1908/6316/2026/3P/1908_002",
    "sentAt": [
-    "2026-10-28T08:16:46.01706"
+    "2026-10-29T00:00:46.801069"
    ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-23T10:00:00"
+   "tedPublished": false
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45233221-4",
+     "code": "45233120-6",
      "descriptions": [
       {
-       "language": "DE",
-       "text": "Straßenmarkierungsarbeiten"
+       "language": "FR",
+       "text": "Travaux de construction de routes"
       },
       {
        "language": "EN",
-       "text": "Road-surface painting work"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de marquage routier"
+       "text": "Road construction works"
       },
       {
        "language": "NL",
-       "text": "Aanbrengen van wegmarkeringen"
+       "text": "Wegenbouwwerken"
+      },
+      {
+       "language": "DE",
+       "text": "Straßenbauarbeiten"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45233221-4",
+    "code": "45233120-6",
     "descriptions": [
      {
-      "language": "DE",
-      "text": "Straßenmarkierungsarbeiten"
+      "language": "FR",
+      "text": "Travaux de construction de routes"
      },
      {
       "language": "EN",
-      "text": "Road-surface painting work"
-     },
-     {
-      "language": "FR",
-      "text": "Travaux de marquage routier"
+      "text": "Road construction works"
      },
      {
       "language": "NL",
-      "text": "Aanbrengen van wegmarkeringen"
+      "text": "Wegenbouwwerken"
+     },
+     {
+      "language": "DE",
+      "text": "Straßenbauarbeiten"
      }
     ]
    },
-   "dispatchDate": "2026-10-28",
+   "dispatchDate": "2026-10-29",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
       "language": "NL",
-      "text": "Jaarlijks worden de wegmarkeringen opgefrist. Daarnaast worden er ook op regelmatige basis nieuwe markeringen voorzien. Dit kunnen onder andere mindervaliden parkeerplaatsen, laadpunten, buurtparkeerplaatsen, fietsstraten, shop & go’s, ... zijn. Deze worden steeds aangebracht op vraag/in overleg met andere diensten (mobiliteit, economie, …)."
+      "text": "De werken houden de aanleg van parkeerzones in de Reesinghelaan in. Na het verwijderen van de toplaag worden de parkeerzones uitgebroken en terug aangelegd met een waterdoorlatende opbouw. Aansluitend wordt de toplaag van de volledige Reesinghelaan vernieuwd en fietssuggestiestroken aangebracht. "
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP091-5281/6465/26/MJE-59/27-30V",
+    "number": "PPP03N-1064/6123/CAD-2026-021",
     "procurementProcedureType": "OPEN",
-    "referenceNumber": "PPP091-5281/6465/26/MJE-59/27-30V",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "referenceNumber": "PPP03N-1064/6123/CAD-2026-021",
     "titles": [
      {
       "language": "NL",
-      "text": "Thema Ruimte - dienst Openbare Werken. Raamovereenkomst voor het aanbrengen en onderhouden van wegmarkeringen op grondgebied stad Aalst"
+      "text": "Snelheidsmilderende maatregelen Reesinghelaan"
      }
     ]
    },
-   "insertionDate": "2026-10-28",
+   "insertionDate": "2026-10-29",
    "lots": [
     {
      "descriptions": [
       {
        "language": "NL",
-       "text": "Jaarlijks worden de wegmarkeringen opgefrist. Daarnaast worden er ook op regelmatige basis nieuwe markeringen voorzien. Dit kunnen onder andere mindervaliden parkeerplaatsen, laadpunten, buurtparkeerplaatsen, fietsstraten, shop & go’s, ... zijn. Deze worden steeds aangebracht op vraag/in overleg met andere diensten (mobiliteit, economie, …)."
+       "text": "De werken houden de aanleg van parkeerzones in de Reesinghelaan in. Na het verwijderen van de toplaag worden de parkeerzones uitgebroken en terug aangelegd met een waterdoorlatende opbouw. Aansluitend wordt de toplaag van de volledige Reesinghelaan vernieuwd en fietssuggestiestroken aangebracht. "
       }
      ],
      "reservedExecution": [
@@ -351,7 +413,7 @@
      "titles": [
       {
        "language": "NL",
-       "text": "Thema Ruimte - dienst Openbare Werken. Raamovereenkomst voor het aanbrengen en onderhouden van wegmarkeringen op grondgebied stad Aalst"
+       "text": "Snelheidsmilderende maatregelen Reesinghelaan"
       }
      ]
     }
@@ -360,187 +422,51 @@
     "WORKS"
    ],
    "noticeIds": [
-    "8501699a-31d1-4310-9ccf-5f99fd6274b3"
+    "b8fb9807-fca3-41b0-90b7-d0e60b19c2f7"
    ],
-   "noticeSubType": "16",
+   "noticeSubType": "E4",
    "nutsCodes": [
-    "BE231"
+    "BE100"
    ],
    "organisation": {
-    "organisationId": 184,
+    "organisationId": 181,
     "organisationNames": [
      {
-      "language": "EN",
-      "text": "Aalst "
-     },
-     {
-      "language": "FR",
-      "text": "Aalst "
-     },
-     {
       "language": "DE",
-      "text": "Aalst "
+      "text": "Maldegem"
      },
      {
       "language": "NL",
-      "text": "Aalst "
+      "text": "Maldegem"
+     },
+     {
+      "language": "FR",
+      "text": "Maldegem"
+     },
+     {
+      "language": "EN",
+      "text": "Maldegem"
      }
     ],
-    "tree": "200004.200021.184"
+    "tree": "200004.200021.181"
    },
-   "procedureId": "68f834f8-c903-4e89-948a-5bc67d00c0cc",
-   "publicationDate": "2026-10-28",
+   "procedureId": "b10d9f78-4f0e-4265-a8c9-bd95166ae9da",
+   "publicationDate": "2026-10-29",
    "publicationLanguages": [
     "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP091-5281/6465/26/MJE-59/27-30V_001"
+    "PPP03N-1064/6123/CAD-2026-021_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "3a881af3-41f4-43d1-a9e7-6134a75bcefe",
+   "publicationWorkspaceId": "88b57738-42d3-4384-98b5-b995d7ff68b4",
    "publishedAt": [
-    "2026-10-28T08:00:45.01013"
+    "2026-10-29T00:00:48.082846"
    ],
-   "referenceNumber": "PPP091-5281/6465/26/MJE-59/27-30V_001",
+   "referenceNumber": "PPP03N-1064/6123/CAD-2026-021_002",
    "sentAt": [
-    "2026-10-28T08:00:45.01013"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-30T09:00:00"
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "32581000-9",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Gegevenscommunicatie-uitrusting"
-      },
-      {
-       "language": "DE",
-       "text": "Ausrüstung für Datenübertragung"
-      },
-      {
-       "language": "FR",
-       "text": "Matériel de communication de données"
-      },
-      {
-       "language": "EN",
-       "text": "Data-communications equipment"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "32260000-3",
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Datatransmissie-uitrusting"
-     },
-     {
-      "language": "FR",
-      "text": "Matériel de transmission de données"
-     },
-     {
-      "language": "EN",
-      "text": "Data-transmission equipment"
-     },
-     {
-      "language": "DE",
-      "text": "Datenübertragungsanlagen"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-28",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "La Direction des Cours d’Eau non navigables (DCENN) dispose d’un réseau de mesures limnimétriques composé de plus de 300 stations. Elle réalise l’installation, l’entretien et le jaugeage de son réseau de mesures en interne. Ce type de matériel peut subir des dommages irréversibles. Il est dès lors indispensable de disposer d’un stock pour garantir une réactivité suffisante en cas de panne. A cette fin, il a été décidé"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "03.06.04-26-598",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "03.06.04-26-598",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "Marché de fournitures de matériel limnimétrique : data loggers XLink500 et sondes de pression PLS500"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-28",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "La Direction des Cours d’Eau non navigables (DCENN) dispose d’un réseau de mesures limnimétriques composé de plus de 300 stations. Elle réalise l’ installation, l’entretien et le jaugeage de son réseau de mesures en interne. Ce type de matériel peut subir des dommages irréversibles. Il est dès lors indispensable de disposer d’un stock pour garantir une réactivité suffisante en cas de panne. A cette fin, il a été décidé"
-      }
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Marché de fournitures de matériel limnimétrique : data loggers XLink500 et sondes de pression PLS500"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SUPPLIES"
-   ],
-   "noticeIds": [
-    "0eb9401b-8a1f-42ef-82a2-d6e1d35c6161"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BEZZZ"
-   ],
-   "organisation": {
-    "organisationId": 6023,
-    "organisationNames": [
-     {
-      "language": "EN",
-      "text": "Direction des Cours d'eau non navigables"
-     },
-     {
-      "language": "FR",
-      "text": "O3.06.04 - Direction des Cours d'eau non navigables"
-     },
-     {
-      "language": "DE",
-      "text": "Direction des Cours d'eau non navigables"
-     },
-     {
-      "language": "NL",
-      "text": "Direction des Cours d'eau non navigables"
-     }
-    ],
-    "tree": "200003.200016.123.5082.6023"
-   },
-   "procedureId": "c0a3ba95-6650-4702-a95a-9853302cf5ad",
-   "publicationDate": "2026-10-28",
-   "publicationLanguages": [
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "03.06.04-26-598_pub01"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "29e497d1-4590-4abe-b113-8df4abe95987",
-   "publishedAt": [
-    "2026-10-28T08:21:46.026348"
-   ],
-   "referenceNumber": "03.06.04-26-598_pub01",
-   "sentAt": [
-    "2026-10-28T08:21:46.026348"
+    "2026-10-29T00:00:48.082846"
    ],
    "tedPublished": false
   }
@@ -549,82 +475,83 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "32581000-9",
+     "code": "33192120-9",
      "descriptions": [
       {
+       "language": "FR",
+       "text": "Lits d'hôpital"
+      },
+      {
        "language": "NL",
-       "text": "Gegevenscommunicatie-uitrusting"
+       "text": "Ziekenhuisbedden"
       },
       {
        "language": "DE",
-       "text": "Ausrüstung für Datenübertragung"
-      },
-      {
-       "language": "FR",
-       "text": "Matériel de communication de données"
+       "text": "Krankenhausbetten"
       },
       {
        "language": "EN",
-       "text": "Data-communications equipment"
+       "text": "Hospital beds"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "32260000-3",
+    "code": "33192120-9",
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Datatransmissie-uitrusting"
-     },
-     {
       "language": "FR",
-      "text": "Matériel de transmission de données"
+      "text": "Lits d'hôpital"
      },
      {
-      "language": "EN",
-      "text": "Data-transmission equipment"
+      "language": "NL",
+      "text": "Ziekenhuisbedden"
      },
      {
       "language": "DE",
-      "text": "Datenübertragungsanlagen"
+      "text": "Krankenhausbetten"
+     },
+     {
+      "language": "EN",
+      "text": "Hospital beds"
      }
     ]
    },
-   "dispatchDate": "2026-10-28",
+   "dispatchDate": "2026-10-29",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
-      "language": "FR",
-      "text": "La Direction des Cours d’Eau non navigables (DCENN) dispose d’un réseau de mesures limnimétriques composé de plus de 300 stations. Elle réalise l’installation, l’entretien et le jaugeage de son réseau de mesures en interne. Ce type de matériel peut subir des dommages irréversibles. Il est dès lors indispensable de disposer d’un stock pour garantir une réactivité suffisante en cas de panne. A cette fin, il a été décidé"
+      "language": "NL",
+      "text": "Deze opdracht betreft de afsluiting van een raamovereenkomst voor de gefaseerde levering voor HHLeuven van vermoedelijk 25 smalle, ergonomische ziekenhuisbedden, bestemd voor gebruik in het dagziekenhuis. De aanbestedende overheid behoudt zich het recht om de effectieve hoeveelheden te verhogen, te verlagen of te schrappen. De opgenomen hoeveelheden zijn niet-contractueel en geven geen recht op enige minimumafname.   De huidige bedden nemen een aanzienlijke vloeroppervlakte in en hebben daardoor een beperkte wendbaarheid, wat een rechtstreekse impact heeft op de werkbaarheid en de efficiëntie van de zorgverlening. In het dagziekenhuis worden de bedden bovendien zeer frequent verplaatst, onder meer tussen voorbereidingszones, operatiezaal en recovery. De bestaande brede bedden zijn hiervoor onvoldoende aangepast, wat leidt tot manoeuvreerproblemen in nauwe gangen en ruimtes en een verhoogde fysieke belasting voor het zorgpersoneel. In de huidige infrastructuur is dit niet langer optimaal, waardoor er nood is aan zeer wendbare, compacte en smalle ziekenhuisbedden die vlot door één zorgverlener kunnen worden gemanoeuvreerd.  Met deze opdracht beoogt de aanbestedende overheid een duurzame, toekomstgerichte en functionele oplossing te realiseren die het dagelijks gebruik in een intensieve zorgomgeving optimaal ondersteunt.  Dit dossier vereist bijzondere aandacht voor ruimte-efficiëntie, patiëntveiligheid en gebruiksgemak voor verpleegkundigen en andere zorgverleners. De opdracht wordt opgevat als een gefaseerde aankoop, met het oog op een coherente en consistente uitrusting over verschillende zorgomgevingen heen: • Fase 1 betreft de aankoop van een eerste reeks van 8 smalle ziekenhuisbedden, bestemd voor onmiddellijk gebruik in het huidige dagziekenhuis. Deze fase heeft als doel onmiddellijk tegemoet te komen aan de huidige ruimtelijke, operationele en ergonomische noden. • Fase 2 voorziet in een mogelijke latere bijkomende aankoop van identieke bedden, voorzien tegen 2030-2031, in functie van de ingebruikname van het nieuw chirurgisch dagziekenhuis.  De aanbestedende overheid hecht groot belang aan het feit dat de voorgestelde bedden niet louter een oplossing bieden voor de huidige situatie, maar ook structureel inzetbaar zijn binnen de geplande uitbreiding.  De in fase 1 aangekochte bedden zullen worden meegenomen naar het nieuw dagziekenhuis en daar aangevuld worden met identieke bedden aangekocht in fase 2, teneinde operationele continuïteit en uniformiteit van materiaal te waarborgen.  Deze overheidsopdracht omvat: - De levering van smalle bedden exclusief matras - De nodige accessoires en toebehoren - Gebruiksinstructies en opleiding van het personeel - Onderhoudscontract  De looptijd van de raamovereenkomst bedraagt 6 jaar.  "
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "03.06.04-26-598",
+    "number": "PPP0VM-254/6054/2026.009",
     "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "03.06.04-26-598",
+    "referenceNumber": "PPP0VM-254/6054/2026.009",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
-      "language": "FR",
-      "text": "Marché de fournitures de matériel limnimétrique : data loggers XLink500 et sondes de pression PLS500"
+      "language": "NL",
+      "text": "Raamovereenkomst voor smalle bedden voor chirurgisch dagziekenhuis"
      }
     ]
    },
-   "insertionDate": "2026-10-28",
+   "insertionDate": "2026-10-29",
    "lots": [
     {
      "descriptions": [
       {
-       "language": "FR",
-       "text": "La Direction des Cours d’Eau non navigables (DCENN) dispose d’un réseau de mesures limnimétriques composé de plus de 300 stations. Elle réalise l’ installation, l’entretien et le jaugeage de son réseau de mesures en interne. Ce type de matériel peut subir des dommages irréversibles. Il est dès lors indispensable de disposer d’un stock pour garantir une réactivité suffisante en cas de panne. A cette fin, il a été décidé"
+       "language": "NL",
+       "text": "Deze opdracht betreft de afsluiting van een raamovereenkomst voor de gefaseerde levering voor HHLeuven van vermoedelijk 25 smalle, ergonomische ziekenhuisbedden, bestemd voor gebruik in het dagziekenhuis. De aanbestedende overheid behoudt zich het recht om de effectieve hoeveelheden te verhogen, te verlagen of te schrappen. De opgenomen hoeveelheden zijn niet-contractueel en geven geen recht op enige minimumafname.   De huidige bedden nemen een aanzienlijke vloeroppervlakte in en hebben daardoor een beperkte wendbaarheid, wat een rechtstreekse impact heeft op de werkbaarheid en de efficiëntie van de zorgverlening. In het dagziekenhuis worden de bedden bovendien zeer frequent verplaatst, onder meer tussen voorbereidingszones, operatiezaal en recovery. De bestaande brede bedden zijn hiervoor onvoldoende aangepast, wat leidt tot manoeuvreerproblemen in nauwe gangen en ruimtes en een verhoogde fysieke belasting voor het zorgpersoneel. In de huidige infrastructuur is dit niet langer optimaal, waardoor er nood is aan zeer wendbare, compacte en smalle ziekenhuisbedden die vlot door één zorgverlener kunnen worden gemanoeuvreerd.  Met deze opdracht beoogt de aanbestedende overheid een duurzame, toekomstgerichte en functionele oplossing te realiseren die het dagelijks gebruik in een intensieve zorgomgeving optimaal ondersteunt.  Dit dossier vereist bijzondere aandacht voor ruimte-efficiëntie, patiëntveiligheid en gebruiksgemak voor verpleegkundigen en andere zorgverleners. De opdracht wordt opgevat als een gefaseerde aankoop, met het oog op een coherente en consistente uitrusting over verschillende zorgomgevingen heen: • Fase 1 betreft de aankoop van een eerste reeks van 8 smalle ziekenhuisbedden, bestemd voor onmiddellijk gebruik in het huidige dagziekenhuis. Deze fase heeft als doel onmiddellijk tegemoet te komen aan de huidige ruimtelijke, operationele en ergonomische noden. • Fase 2 voorziet in een mogelijke latere bijkomende aankoop van identieke bedden, voorzien tegen 2030-2031, in functie van de ingebruikname van het nieuw chirurgisch dagziekenhuis.  De aanbestedende overheid hecht groot belang aan het feit dat de voorgestelde bedden niet louter een oplossing bieden voor de huidige situatie, maar ook structureel inzetbaar zijn binnen de geplande uitbreiding.  De in fase 1 aangekochte bedden zullen worden meegenomen naar het nieuw dagziekenhuis en daar aangevuld worden met identieke bedden aangekocht in fase 2, teneinde operationele continuïteit en uniformiteit van materiaal te waarborgen.  Deze overheidsopdracht omvat: - De levering van smalle bedden exclusief matras - De nodige accessoires en toebehoren - Gebruiksinstructies en opleiding van het personeel - Onderhoudscontract  De looptijd van de raamovereenkomst bedraagt 6 jaar.  "
       }
      ],
      "titles": [
       {
-       "language": "FR",
-       "text": "Marché de fournitures de matériel limnimétrique : data loggers XLink500 et sondes de pression PLS500"
+       "language": "NL",
+       "text": "Raamovereenkomst voor smalle bedden voor chirurgisch dagziekenhuis"
       }
      ]
     }
@@ -633,51 +560,51 @@
     "SUPPLIES"
    ],
    "noticeIds": [
-    "0eb9401b-8a1f-42ef-82a2-d6e1d35c6161"
+    "dfcdef27-3af3-43a1-af5b-da737a358d4f"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BEZZZ"
+    "BE242"
    ],
    "organisation": {
-    "organisationId": 6023,
+    "organisationId": 1566,
     "organisationNames": [
      {
       "language": "EN",
-      "text": "Direction des Cours d'eau non navigables"
+      "text": "Regionaal Ziekenhuis H. Hart Leuven vzw "
      },
      {
       "language": "FR",
-      "text": "O3.06.04 - Direction des Cours d'eau non navigables"
+      "text": "Regionaal Ziekenhuis H. Hart Leuven vzw "
      },
      {
       "language": "DE",
-      "text": "Direction des Cours d'eau non navigables"
+      "text": "Regionaal Ziekenhuis H. Hart Leuven vzw "
      },
      {
       "language": "NL",
-      "text": "Direction des Cours d'eau non navigables"
+      "text": "Regionaal Ziekenhuis H. Hart Leuven vzw "
      }
     ],
-    "tree": "200003.200016.123.5082.6023"
+    "tree": "200004.200027.1566"
    },
-   "procedureId": "c0a3ba95-6650-4702-a95a-9853302cf5ad",
-   "publicationDate": "2026-10-28",
+   "procedureId": "09b8a6f2-73c2-4f2d-9d46-a7a666edddf5",
+   "publicationDate": "2026-10-29",
    "publicationLanguages": [
-    "FR"
+    "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "03.06.04-26-598_pub01"
+    "PPP0VM-254/6054/2026.009_003"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "29e497d1-4590-4abe-b113-8df4abe95987",
+   "publicationWorkspaceId": "08db7a23-f0ff-4d75-8d79-b5d1c3a8e48c",
    "publishedAt": [
-    "2026-10-28T08:21:46.026348"
+    "2026-10-29T00:00:47.112282"
    ],
-   "referenceNumber": "03.06.04-26-598_pub01",
+   "referenceNumber": "PPP0VM-254/6054/2026.009_003",
    "sentAt": [
-    "2026-10-28T08:21:46.026348"
+    "2026-10-29T00:00:47.112282"
    ],
    "tedPublished": false
   }
