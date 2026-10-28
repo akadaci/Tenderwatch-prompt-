@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 293652
+  "totalCount": 293671
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -21,6 +21,7 @@
   "ACTIVE|29|['WORKS']",
   "ACTIVE|30|['SERVICES']",
   "ACTIVE|30|['SUPPLIES']",
+  "ACTIVE|30|['WORKS']",
   "ACTIVE|32|['SERVICES']",
   "ACTIVE|33|['SERVICES']",
   "ACTIVE|33|['SUPPLIES']",
@@ -29,7 +30,9 @@
   "ACTIVE|38|['SUPPLIES']",
   "ACTIVE|7|['SERVICES']",
   "ACTIVE|E1|['SERVICES']",
+  "ACTIVE|E1|['WORKS']",
   "ACTIVE|E3|['SERVICES']",
+  "ACTIVE|E3|['SUPPLIES', 'WORKS']",
   "ACTIVE|E3|['SUPPLIES']",
   "ACTIVE|E3|['WORKS']",
   "ACTIVE|E4|['SERVICES', 'SUPPLIES']",
@@ -41,45 +44,45 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45236110-4",
+     "code": "66510000-8",
      "descriptions": [
       {
        "language": "EN",
-       "text": "Flatwork for sports fields"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de nivelage de terrains de sports"
-      },
-      {
-       "language": "NL",
-       "text": "Verharding voor sportvelden"
+       "text": "Insurance services"
       },
       {
        "language": "DE",
-       "text": "Oberbauarbeiten für Sportplätze"
+       "text": "Versicherungen"
+      },
+      {
+       "language": "NL",
+       "text": "Verzekeringsdiensten"
+      },
+      {
+       "language": "FR",
+       "text": "Services d'assurance"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45236110-4",
+    "code": "66510000-8",
     "descriptions": [
      {
       "language": "EN",
-      "text": "Flatwork for sports fields"
-     },
-     {
-      "language": "FR",
-      "text": "Travaux de nivelage de terrains de sports"
-     },
-     {
-      "language": "NL",
-      "text": "Verharding voor sportvelden"
+      "text": "Insurance services"
      },
      {
       "language": "DE",
-      "text": "Oberbauarbeiten für Sportplätze"
+      "text": "Versicherungen"
+     },
+     {
+      "language": "FR",
+      "text": "Services d'assurance"
+     },
+     {
+      "language": "NL",
+      "text": "Verzekeringsdiensten"
      }
     ]
    },
@@ -89,18 +92,18 @@
     "descriptions": [
      {
       "language": "NL",
-      "text": "Het stadsbestuur van Oostende wenst op het sportpark de Schorre een nieuw hockeyveld op te richten. Om bijkomende grondinname te vermijden wordt ervoor geopteerd om één van de bestaande natuurgrasvelden, terrein 21, om te vormen tot kunstgras hockeyveld.  De opdracht omvat: - Voorbereiding van het terrein en plaatsen van werfinstallatie; - Opbraak van omheining, doelen en andere kleine elementen; - Uitvoeren van voorbereidende grond- en grondstabilisatiewerken; - Plaatsen van funderingskoffer, inclusief velddrainage; - Plaatsen van noodzakelijke tussenlagen; - Plaatsen van kunstgrasveld, inclusief uitwijkstroken, belijning, ...; - Plaatsen van een volledige beregeningsinstallatie, inclusief ondergrondse leidingen, rioleringen, elektriciteitsaansluiting, sturing, ... - Plaatsen van toebehoren zoals: omheining, ballenvangers, dugouts, ...; - Het vernieuwen van de verlichtingsinstallatie op bestaande palen.  De opdrachtnemer levert een volledig bespeelbaar hockeyveld af dat conform de FIH Global normering is opgebouwd en aldus gecertificeerd wordt door een FIH-geaccrediteerd testinstituut. De opdrachtnemer moet vóór de voorlopige oplevering een geldig keuringscertificaat afleveren dat aantoont dat het veld beschikt over volgende certificeringen: - FIH global field categorie 2 bij beregening - FIH dry-non-irrigated - Target range en Field categorie 3 zonder beregening  Om de opdrachtdocumenten te kunnen downloaden wordt u gevraagd een e-mailadres op te geven. Op dit e-mailadres zal alle eventuele communicatie gevoerd worden tijdens de plaatsingsprocedure, zoals daar zijn de eventuele vragen en antwoorden, ontbrekende pagina's of documenten,... Het is in uw belang dat u de opdrachtdocumenten via de link vermeld in het publicatiebericht downloadt en een geldig e-mailadres opgeeft."
+      "text": "Overheidsopdracht voor verzekeringsdiensten met als voorwerp ”Hernieuwing van de verzekeringsportefeuille van het APB Westtoer en de VZW Toerisme Leiestreek”."
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP03T-8707/6612/6330.W.090",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "PPP03T-8707/6612/6330.W.090",
+    "number": "PPP0BR-1120/6275/2026/620",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "PPP0BR-1120/6275/2026/620",
     "titles": [
      {
       "language": "NL",
-      "text": "Sportpark De Schorre - Aanleg van een hockeyveld op terrein 21"
+      "text": "HERNIEUWING VAN DE VERZEKERINGSPORTEFEUILLE VAN HET APB WESTTOER EN DE VZW TOERISME LEIESTREEK"
      }
     ]
    },
@@ -110,7 +113,7 @@
      "descriptions": [
       {
        "language": "NL",
-       "text": "Het stadsbestuur van Oostende wenst op het sportpark de Schorre een nieuw hockeyveld op te richten. Om bijkomende grondinname te vermijden wordt ervoor geopteerd om één van de bestaande natuurgrasvelden, terrein 21, om te vormen tot kunstgras hockeyveld.  De opdracht omvat: - Voorbereiding van het terrein en plaatsen van werfinstallatie; - Opbraak van omheining, doelen en andere kleine elementen; - Uitvoeren van voorbereidende grond- en grondstabilisatiewerken; - Plaatsen van funderingskoffer, inclusief velddrainage; - Plaatsen van noodzakelijke tussenlagen; - Plaatsen van kunstgrasveld, inclusief uitwijkstroken, belijning, ...; - Plaatsen van een volledige beregeningsinstallatie, inclusief ondergrondse leidingen, rioleringen, elektriciteitsaansluiting, sturing, ... - Plaatsen van toebehoren zoals: omheining, ballenvangers, dugouts, ...; - Het vernieuwen van de verlichtingsinstallatie op bestaande palen.  De opdrachtnemer levert een volledig bespeelbaar hockeyveld af dat conform de FIH Global normering is opgebouwd en aldus gecertificeerd wordt door een FIH-geaccrediteerd testinstituut. De opdrachtnemer moet vóór de voorlopige oplevering een geldig keuringscertificaat afleveren dat aantoont dat het veld beschikt over volgende certificeringen: - FIH global field categorie 2 bij beregening - FIH dry-non-irrigated - Target range en Field categorie 3 zonder beregening  Om de opdrachtdocumenten te kunnen downloaden wordt u gevraagd een e-mailadres op te geven. Op dit e-mailadres zal alle eventuele communicatie gevoerd worden tijdens de plaatsingsprocedure, zoals daar zijn de eventuele vragen en antwoorden, ontbrekende pagina's of documenten,... Het is in uw belang dat u de opdrachtdocumenten via de link vermeld in het publicatiebericht downloadt en een geldig e-mailadres opgeeft."
+       "text": "Aansprakelijkheid – Burgerlijke aansprakelijkheid, bestuurdersaansprakelijkheid, objectieve aansprakelijkheid"
       }
      ],
      "reservedExecution": [
@@ -122,7 +125,230 @@
      "titles": [
       {
        "language": "NL",
-       "text": "Sportpark De Schorre - Aanleg van een hockeyveld op terrein 21"
+       "text": "Aansprakelijkheid – Burgerlijke aansprakelijkheid, bestuurdersaansprakelijkheid, objectieve aansprakelijkheid"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Materiële schade - Brand en aanverwante risico’s, patrimoniumpolis, alle risico’s (incl. Beaufort)"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Materiële schade - Brand en aanverwante risico’s, patrimoniumpolis, alle risico’s (incl. Beaufort)"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Ongevallen – Arbeidsongevallen, lichamelijk ongevallen leden raad van bestuur, lichamelijke ongevallen, ziekte en contaminatie vrijwilligers"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Ongevallen – Arbeidsongevallen, lichamelijk ongevallen leden raad van bestuur, lichamelijke ongevallen, ziekte en contaminatie vrijwilligers"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Cyber verzekering"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Cyber verzekering"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Autoverzekering – Omnium dienstverplaatsingen, vlootovereenkomst wagenpark, assistentie voertuigen"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Autoverzekering – Omnium dienstverplaatsingen, vlootovereenkomst wagenpark, assistentie voertuigen"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SERVICES"
+   ],
+   "noticeIds": [
+    "fe4dd417-ca6b-467a-ac66-186b9b847507"
+   ],
+   "noticeSubType": "16",
+   "nutsCodes": [
+    "BE251"
+   ],
+   "organisation": {
+    "organisationId": 416,
+    "organisationNames": [
+     {
+      "language": "EN",
+      "text": "Westtoer apb"
+     },
+     {
+      "language": "DE",
+      "text": "Westtoer apb"
+     },
+     {
+      "language": "NL",
+      "text": "Westtoer apb"
+     },
+     {
+      "language": "FR",
+      "text": "Westtoer apb"
+     }
+    ],
+    "tree": "200004.200036.416"
+   },
+   "procedureId": "79b9e068-8fea-4559-a693-f2062d2f69a8",
+   "publicationDate": "2026-10-28",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP0BR-1120/6275/2026/620_001"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "c9e77d1e-9265-4506-9ae6-e9ab128f055a",
+   "publishedAt": [
+    "2026-10-28T08:16:46.01706"
+   ],
+   "referenceNumber": "PPP0BR-1120/6275/2026/620_001",
+   "sentAt": [
+    "2026-10-28T08:16:46.01706"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-11-23T10:00:00"
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45233221-4",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Straßenmarkierungsarbeiten"
+      },
+      {
+       "language": "EN",
+       "text": "Road-surface painting work"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de marquage routier"
+      },
+      {
+       "language": "NL",
+       "text": "Aanbrengen van wegmarkeringen"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45233221-4",
+    "descriptions": [
+     {
+      "language": "DE",
+      "text": "Straßenmarkierungsarbeiten"
+     },
+     {
+      "language": "EN",
+      "text": "Road-surface painting work"
+     },
+     {
+      "language": "FR",
+      "text": "Travaux de marquage routier"
+     },
+     {
+      "language": "NL",
+      "text": "Aanbrengen van wegmarkeringen"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-28",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Jaarlijks worden de wegmarkeringen opgefrist. Daarnaast worden er ook op regelmatige basis nieuwe markeringen voorzien. Dit kunnen onder andere mindervaliden parkeerplaatsen, laadpunten, buurtparkeerplaatsen, fietsstraten, shop & go’s, ... zijn. Deze worden steeds aangebracht op vraag/in overleg met andere diensten (mobiliteit, economie, …)."
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP091-5281/6465/26/MJE-59/27-30V",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "PPP091-5281/6465/26/MJE-59/27-30V",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Thema Ruimte - dienst Openbare Werken. Raamovereenkomst voor het aanbrengen en onderhouden van wegmarkeringen op grondgebied stad Aalst"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-28",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Jaarlijks worden de wegmarkeringen opgefrist. Daarnaast worden er ook op regelmatige basis nieuwe markeringen voorzien. Dit kunnen onder andere mindervaliden parkeerplaatsen, laadpunten, buurtparkeerplaatsen, fietsstraten, shop & go’s, ... zijn. Deze worden steeds aangebracht op vraag/in overleg met andere diensten (mobiliteit, economie, …)."
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Thema Ruimte - dienst Openbare Werken. Raamovereenkomst voor het aanbrengen en onderhouden van wegmarkeringen op grondgebied stad Aalst"
       }
      ]
     }
@@ -131,97 +357,97 @@
     "WORKS"
    ],
    "noticeIds": [
-    "89089e6a-9400-4666-b541-6ed302ab7bfb"
+    "8501699a-31d1-4310-9ccf-5f99fd6274b3"
    ],
    "noticeSubType": "16",
    "nutsCodes": [
-    "BE255"
+    "BE231"
    ],
    "organisation": {
-    "organisationId": 200,
+    "organisationId": 184,
     "organisationNames": [
      {
-      "language": "FR",
-      "text": "Oostende"
-     },
-     {
       "language": "EN",
-      "text": "Oostende"
+      "text": "Aalst "
      },
      {
-      "language": "NL",
-      "text": "Stad Oostende"
+      "language": "FR",
+      "text": "Aalst "
      },
      {
       "language": "DE",
-      "text": "Oostende"
+      "text": "Aalst "
+     },
+     {
+      "language": "NL",
+      "text": "Aalst "
      }
     ],
-    "tree": "200004.200021.200"
+    "tree": "200004.200021.184"
    },
-   "procedureId": "a6416eab-cb36-4141-863b-e9e59b0661f6",
+   "procedureId": "68f834f8-c903-4e89-948a-5bc67d00c0cc",
    "publicationDate": "2026-10-28",
    "publicationLanguages": [
     "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP03T-8707/6612/6330.W.090_001"
+    "PPP091-5281/6465/26/MJE-59/27-30V_001"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "f239df58-59bb-42d1-825c-790e7ac6abc1",
+   "publicationWorkspaceId": "3a881af3-41f4-43d1-a9e7-6134a75bcefe",
    "publishedAt": [
-    "2026-10-28T00:00:47.201495"
+    "2026-10-28T08:00:45.01013"
    ],
-   "referenceNumber": "PPP03T-8707/6612/6330.W.090_001",
+   "referenceNumber": "PPP091-5281/6465/26/MJE-59/27-30V_001",
    "sentAt": [
-    "2026-10-28T00:00:47.201495"
+    "2026-10-28T08:00:45.01013"
    ],
    "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-12-07T11:00:00"
+   "vaultSubmissionDeadline": "2026-11-30T09:00:00"
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "79810000-5",
+     "code": "32581000-9",
      "descriptions": [
       {
        "language": "NL",
-       "text": "Drukkerijdiensten"
-      },
-      {
-       "language": "FR",
-       "text": "Services d'impression"
+       "text": "Gegevenscommunicatie-uitrusting"
       },
       {
        "language": "DE",
-       "text": "Druckereidienste"
+       "text": "Ausrüstung für Datenübertragung"
+      },
+      {
+       "language": "FR",
+       "text": "Matériel de communication de données"
       },
       {
        "language": "EN",
-       "text": "Printing services"
+       "text": "Data-communications equipment"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "79810000-5",
+    "code": "32260000-3",
     "descriptions": [
      {
       "language": "NL",
-      "text": "Drukkerijdiensten"
+      "text": "Datatransmissie-uitrusting"
      },
      {
       "language": "FR",
-      "text": "Services d'impression"
-     },
-     {
-      "language": "DE",
-      "text": "Druckereidienste"
+      "text": "Matériel de transmission de données"
      },
      {
       "language": "EN",
-      "text": "Printing services"
+      "text": "Data-transmission equipment"
+     },
+     {
+      "language": "DE",
+      "text": "Datenübertragungsanlagen"
      }
     ]
    },
@@ -231,19 +457,18 @@
     "descriptions": [
      {
       "language": "FR",
-      "text": "Le Pouvoir Adjudicateur souhaite 6 parutions par année du \"Vivre à Chaudfontaine\" soit les semaines 4, 13, 21, 28, 39, 48 pour l'année 2027 (à confirmer).  Pour chaque parution, un fichier PDF sera transmis à l'adjudicataire au moins 8 jours avant la date de dépôt chez BPOST. Ensuite, l'adjudicataire enverra un bon à tirer en format papier et/ou un système de liseuse en ligne performante (haute définition, visualisation en cahier, validation par page, ...) au Pouvoir Adjudicateur.  La livraison à la poste devra respecter les conditions imposées par BPOST et son système «Distripost» (voir III. Descriptions des exigences techniques). "
+      "text": "La Direction des Cours d’Eau non navigables (DCENN) dispose d’un réseau de mesures limnimétriques composé de plus de 300 stations. Elle réalise l’installation, l’entretien et le jaugeage de son réseau de mesures en interne. Ce type de matériel peut subir des dommages irréversibles. Il est dès lors indispensable de disposer d’un stock pour garantir une réactivité suffisante en cas de panne. A cette fin, il a été décidé"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP07G-3076/6693/VAC-2026-3076",
+    "number": "03.06.04-26-598",
     "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP07G-3076/6693/VAC-2026-3076",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "referenceNumber": "03.06.04-26-598",
     "titles": [
      {
       "language": "FR",
-      "text": "Accord-cadre : Impression du journal communal \"Vivre à Chaudfontaine\" - Editions 2027-2028"
+      "text": "Marché de fournitures de matériel limnimétrique : data loggers XLink500 et sondes de pression PLS500"
      }
     ]
    },
@@ -253,154 +478,13 @@
      "descriptions": [
       {
        "language": "FR",
-       "text": "Accord-cadre : Impression du journal communal \"Vivre à Chaudfontaine\" - Editions 2027-2028"
+       "text": "La Direction des Cours d’Eau non navigables (DCENN) dispose d’un réseau de mesures limnimétriques composé de plus de 300 stations. Elle réalise l’ installation, l’entretien et le jaugeage de son réseau de mesures en interne. Ce type de matériel peut subir des dommages irréversibles. Il est dès lors indispensable de disposer d’un stock pour garantir une réactivité suffisante en cas de panne. A cette fin, il a été décidé"
       }
      ],
      "titles": [
       {
        "language": "FR",
-       "text": "Accord-cadre : Impression du journal communal \"Vivre à Chaudfontaine\" - Editions 2027-2028"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SERVICES"
-   ],
-   "noticeIds": [
-    "c20994ea-b297-430c-af0e-7ac5d3ad81ee"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE332"
-   ],
-   "organisation": {
-    "organisationId": 766,
-    "organisationNames": [
-     {
-      "language": "FR",
-      "text": "Commune de Chaudfontaine"
-     },
-     {
-      "language": "DE",
-      "text": "Chaudfontaine"
-     },
-     {
-      "language": "NL",
-      "text": "Chaudfontaine"
-     },
-     {
-      "language": "EN",
-      "text": "Chaudfontaine"
-     }
-    ],
-    "tree": "200004.200021.766"
-   },
-   "procedureId": "efe3019e-48a1-4c81-9dc4-cf96ebfea575",
-   "publicationDate": "2026-10-28",
-   "publicationLanguages": [
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP07G-3076/6693/VAC-2026-3076_002"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "3f8e82e0-ac1e-4d40-92f5-c247821b2cf0",
-   "publishedAt": [
-    "2026-10-28T00:00:47.444912"
-   ],
-   "referenceNumber": "PPP07G-3076/6693/VAC-2026-3076_002",
-   "sentAt": [
-    "2026-10-28T00:00:47.444912"
-   ],
-   "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "44112200-0",
-     "descriptions": [
-      {
-       "language": "DE",
-       "text": "Fußbodenbeläge"
-      },
-      {
-       "language": "FR",
-       "text": "Revêtements de sol"
-      },
-      {
-       "language": "EN",
-       "text": "Floor coverings"
-      },
-      {
-       "language": "NL",
-       "text": "Vloerbedekking"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "44112200-0",
-    "descriptions": [
-     {
-      "language": "DE",
-      "text": "Fußbodenbeläge"
-     },
-     {
-      "language": "FR",
-      "text": "Revêtements de sol"
-     },
-     {
-      "language": "EN",
-      "text": "Floor coverings"
-     },
-     {
-      "language": "NL",
-      "text": "Vloerbedekking"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-28",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Levering beschermende vloer graszones Grote Markt"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP009-3699/6457/2026-068/OVA/beschermende vloer gras Markt/EB-KB",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "PPP009-3699/6457/2026-068/OVA/beschermende vloer gras Markt/EB-KB",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Levering beschermende vloer graszones Grote Markt"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-28",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Levering beschermende vloer graszones Grote Markt"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Levering beschermende vloer graszones Grote Markt"
+       "text": "Marché de fournitures de matériel limnimétrique : data loggers XLink500 et sondes de pression PLS500"
       }
      ]
     }
@@ -409,99 +493,98 @@
     "SUPPLIES"
    ],
    "noticeIds": [
-    "ecaab80b-e767-4f43-ba98-10e66d32108d"
+    "0eb9401b-8a1f-42ef-82a2-d6e1d35c6161"
    ],
-   "noticeSubType": "16",
+   "noticeSubType": "E4",
    "nutsCodes": [
-    "BE236"
+    "BEZZZ"
    ],
    "organisation": {
-    "organisationId": 338,
+    "organisationId": 6023,
     "organisationNames": [
      {
-      "language": "DE",
-      "text": "Sint-Niklaas"
-     },
-     {
-      "language": "NL",
-      "text": "Sint-Niklaas"
+      "language": "EN",
+      "text": "Direction des Cours d'eau non navigables"
      },
      {
       "language": "FR",
-      "text": "Sint-Niklaas"
+      "text": "O3.06.04 - Direction des Cours d'eau non navigables"
      },
      {
-      "language": "EN",
-      "text": "Sint-Niklaas"
+      "language": "DE",
+      "text": "Direction des Cours d'eau non navigables"
+     },
+     {
+      "language": "NL",
+      "text": "Direction des Cours d'eau non navigables"
      }
     ],
-    "tree": "200004.200021.338"
+    "tree": "200003.200016.123.5082.6023"
    },
-   "procedureId": "83122ff4-7a02-4a12-860d-3c04d6d48e06",
+   "procedureId": "c0a3ba95-6650-4702-a95a-9853302cf5ad",
    "publicationDate": "2026-10-28",
    "publicationLanguages": [
-    "NL"
+    "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP009-3699/6457/2026-068/OVA/beschermende vloer gras Markt/EB-KB_001"
+    "03.06.04-26-598_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "2b795666-f7ca-4217-a6e2-a5176ef44c94",
+   "publicationWorkspaceId": "29e497d1-4590-4abe-b113-8df4abe95987",
    "publishedAt": [
-    "2026-10-28T00:00:46.933524"
+    "2026-10-28T08:21:46.026348"
    ],
-   "referenceNumber": "PPP009-3699/6457/2026-068/OVA/beschermende vloer gras Markt/EB-KB_001",
+   "referenceNumber": "03.06.04-26-598_pub01",
    "sentAt": [
-    "2026-10-28T00:00:46.933524"
+    "2026-10-28T08:21:46.026348"
    ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-30T09:00:00"
+   "tedPublished": false
   }
  ],
  "exemple_attribution": [
   {
    "cpvAdditionalCodes": [
     {
-     "code": "79810000-5",
+     "code": "32581000-9",
      "descriptions": [
       {
        "language": "NL",
-       "text": "Drukkerijdiensten"
-      },
-      {
-       "language": "FR",
-       "text": "Services d'impression"
+       "text": "Gegevenscommunicatie-uitrusting"
       },
       {
        "language": "DE",
-       "text": "Druckereidienste"
+       "text": "Ausrüstung für Datenübertragung"
+      },
+      {
+       "language": "FR",
+       "text": "Matériel de communication de données"
       },
       {
        "language": "EN",
-       "text": "Printing services"
+       "text": "Data-communications equipment"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "79810000-5",
+    "code": "32260000-3",
     "descriptions": [
      {
       "language": "NL",
-      "text": "Drukkerijdiensten"
+      "text": "Datatransmissie-uitrusting"
      },
      {
       "language": "FR",
-      "text": "Services d'impression"
-     },
-     {
-      "language": "DE",
-      "text": "Druckereidienste"
+      "text": "Matériel de transmission de données"
      },
      {
       "language": "EN",
-      "text": "Printing services"
+      "text": "Data-transmission equipment"
+     },
+     {
+      "language": "DE",
+      "text": "Datenübertragungsanlagen"
      }
     ]
    },
@@ -511,19 +594,18 @@
     "descriptions": [
      {
       "language": "FR",
-      "text": "Le Pouvoir Adjudicateur souhaite 6 parutions par année du \"Vivre à Chaudfontaine\" soit les semaines 4, 13, 21, 28, 39, 48 pour l'année 2027 (à confirmer).  Pour chaque parution, un fichier PDF sera transmis à l'adjudicataire au moins 8 jours avant la date de dépôt chez BPOST. Ensuite, l'adjudicataire enverra un bon à tirer en format papier et/ou un système de liseuse en ligne performante (haute définition, visualisation en cahier, validation par page, ...) au Pouvoir Adjudicateur.  La livraison à la poste devra respecter les conditions imposées par BPOST et son système «Distripost» (voir III. Descriptions des exigences techniques). "
+      "text": "La Direction des Cours d’Eau non navigables (DCENN) dispose d’un réseau de mesures limnimétriques composé de plus de 300 stations. Elle réalise l’installation, l’entretien et le jaugeage de son réseau de mesures en interne. Ce type de matériel peut subir des dommages irréversibles. Il est dès lors indispensable de disposer d’un stock pour garantir une réactivité suffisante en cas de panne. A cette fin, il a été décidé"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP07G-3076/6693/VAC-2026-3076",
+    "number": "03.06.04-26-598",
     "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP07G-3076/6693/VAC-2026-3076",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "referenceNumber": "03.06.04-26-598",
     "titles": [
      {
       "language": "FR",
-      "text": "Accord-cadre : Impression du journal communal \"Vivre à Chaudfontaine\" - Editions 2027-2028"
+      "text": "Marché de fournitures de matériel limnimétrique : data loggers XLink500 et sondes de pression PLS500"
      }
     ]
    },
@@ -533,66 +615,66 @@
      "descriptions": [
       {
        "language": "FR",
-       "text": "Accord-cadre : Impression du journal communal \"Vivre à Chaudfontaine\" - Editions 2027-2028"
+       "text": "La Direction des Cours d’Eau non navigables (DCENN) dispose d’un réseau de mesures limnimétriques composé de plus de 300 stations. Elle réalise l’ installation, l’entretien et le jaugeage de son réseau de mesures en interne. Ce type de matériel peut subir des dommages irréversibles. Il est dès lors indispensable de disposer d’un stock pour garantir une réactivité suffisante en cas de panne. A cette fin, il a été décidé"
       }
      ],
      "titles": [
       {
        "language": "FR",
-       "text": "Accord-cadre : Impression du journal communal \"Vivre à Chaudfontaine\" - Editions 2027-2028"
+       "text": "Marché de fournitures de matériel limnimétrique : data loggers XLink500 et sondes de pression PLS500"
       }
      ]
     }
    ],
    "natures": [
-    "SERVICES"
+    "SUPPLIES"
    ],
    "noticeIds": [
-    "c20994ea-b297-430c-af0e-7ac5d3ad81ee"
+    "0eb9401b-8a1f-42ef-82a2-d6e1d35c6161"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE332"
+    "BEZZZ"
    ],
    "organisation": {
-    "organisationId": 766,
+    "organisationId": 6023,
     "organisationNames": [
      {
+      "language": "EN",
+      "text": "Direction des Cours d'eau non navigables"
+     },
+     {
       "language": "FR",
-      "text": "Commune de Chaudfontaine"
+      "text": "O3.06.04 - Direction des Cours d'eau non navigables"
      },
      {
       "language": "DE",
-      "text": "Chaudfontaine"
+      "text": "Direction des Cours d'eau non navigables"
      },
      {
       "language": "NL",
-      "text": "Chaudfontaine"
-     },
-     {
-      "language": "EN",
-      "text": "Chaudfontaine"
+      "text": "Direction des Cours d'eau non navigables"
      }
     ],
-    "tree": "200004.200021.766"
+    "tree": "200003.200016.123.5082.6023"
    },
-   "procedureId": "efe3019e-48a1-4c81-9dc4-cf96ebfea575",
+   "procedureId": "c0a3ba95-6650-4702-a95a-9853302cf5ad",
    "publicationDate": "2026-10-28",
    "publicationLanguages": [
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP07G-3076/6693/VAC-2026-3076_002"
+    "03.06.04-26-598_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "3f8e82e0-ac1e-4d40-92f5-c247821b2cf0",
+   "publicationWorkspaceId": "29e497d1-4590-4abe-b113-8df4abe95987",
    "publishedAt": [
-    "2026-10-28T00:00:47.444912"
+    "2026-10-28T08:21:46.026348"
    ],
-   "referenceNumber": "PPP07G-3076/6693/VAC-2026-3076_002",
+   "referenceNumber": "03.06.04-26-598_pub01",
    "sentAt": [
-    "2026-10-28T00:00:47.444912"
+    "2026-10-28T08:21:46.026348"
    ],
    "tedPublished": false
   }
