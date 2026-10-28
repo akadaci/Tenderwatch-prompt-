@@ -1,11 +1,13 @@
 {
- "updated": "2026-10-28T03:01:40Z",
+ "updated": "2026-10-28T05:01:52Z",
  "source": "urban.brussels NOVA (WFS)",
  "days_back": 3,
- "received": 46,
- "kept": 11,
- "count": 137,
- "new_ids": [],
+ "received": 62,
+ "kept": 12,
+ "count": 138,
+ "new_ids": [
+  "nova-13/PU/2050736"
+ ],
  "records": [
   {
    "id": "nova-01/PU/2050677",
@@ -54,6 +56,22 @@
    "date_publication": "2026-10-27",
    "notes": "Autorité : BUP",
    "first_seen": "2026-10-27T13:01:40Z"
+  },
+  {
+   "id": "nova-13/PU/2050736",
+   "source_type": "Permis",
+   "nom": "Fermeture du passage existant entre les immeubles situés rue de Moscou 5 et 7 à Saint-Gilles, par construction d'un mur de séparation. La poutre porteuse existante sera intégralement conservée. Les de",
+   "lieu": "Rue de Moscou 5, 1060 Saint-Gilles",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='13/PU/2050736'",
+   "verif": "vérifié",
+   "verif_date": "2026-10-28",
+   "preuve": "Demande de permis 13/PU/2050736 reçue le 2026-10-27 (urban.brussels, service NOVA).",
+   "date_publication": "2026-10-27",
+   "notes": "Autorité : Saint-Gilles",
+   "first_seen": "2026-10-28T05:01:52Z"
   },
   {
    "id": "nova-17/PU/2050454",
