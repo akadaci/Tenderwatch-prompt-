@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 293868
+  "totalCount": 293869
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -541,8 +541,8 @@
      "code": "71317200-5",
      "descriptions": [
       {
-       "language": "DE",
-       "text": "Dienstleistungen im Bereich Gesundheitsschutz und Sicherheit"
+       "language": "FR",
+       "text": "Services de santé et de sécurité"
       },
       {
        "language": "NL",
@@ -553,8 +553,8 @@
        "text": "Health and safety services"
       },
       {
-       "language": "FR",
-       "text": "Services de santé et de sécurité"
+       "language": "DE",
+       "text": "Dienstleistungen im Bereich Gesundheitsschutz und Sicherheit"
       }
      ]
     }
@@ -741,8 +741,8 @@
      "code": "71317200-5",
      "descriptions": [
       {
-       "language": "DE",
-       "text": "Dienstleistungen im Bereich Gesundheitsschutz und Sicherheit"
+       "language": "FR",
+       "text": "Services de santé et de sécurité"
       },
       {
        "language": "NL",
@@ -753,8 +753,8 @@
        "text": "Health and safety services"
       },
       {
-       "language": "FR",
-       "text": "Services de santé et de sécurité"
+       "language": "DE",
+       "text": "Dienstleistungen im Bereich Gesundheitsschutz und Sicherheit"
       }
      ]
     }

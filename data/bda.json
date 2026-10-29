@@ -1,18 +1,11 @@
 {
- "updated": "2026-10-29T05:01:45Z",
+ "updated": "2026-10-29T06:28:34Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 782,
+ "received": 783,
  "kept": 352,
  "count": 2433,
- "new_ids": [
-  "bda-16a62925-6cdf-4730-9e09-c6f406f81e22",
-  "bda-49387306-3d00-40cb-b553-c84abdd3acf9",
-  "bda-022ea3a7-28e8-4d89-b6d6-0521478d066e",
-  "bda-16fcef4c-a9e3-46b3-82b7-ac957614902b",
-  "bda-cbc3f761-0a57-4f04-845b-f12e85cfe192",
-  "bda-1011a988-c2b5-4d5b-a5b0-89aefa890d69"
- ],
+ "new_ids": [],
  "records": [
   {
    "id": "bda-7fbc278d-2757-4e84-9536-b7b0f060a75d",
@@ -742,7 +735,7 @@
    "verif_date": "2026-10-29",
    "preuve": "Bulletin des Adjudications, réf. ARW-26-005 (attribution, sous-type eForms 29), publié le 2026-10-28.",
    "date_publication": "2026-10-28",
-   "cpv": "77310000,77211300,77211400,77211500,77312000,77315000,77312100,77341000,45233229,77314100",
+   "cpv": "77310000,77211300,77211400,77211500,77312100,77315000,77312000,77341000,45233229,77314100",
    "ted_ref": "ARW-26-005_pub02",
    "notes": "Het voorwerp van de opdracht is het uitvoeren van het groen- en netheidsonderhoud in district 3: Leie.",
    "procedure": "4b6a9607-d03a-43a8-8e16-d74b09af07ff",
@@ -7565,7 +7558,7 @@
    "verif_date": "2026-10-29",
    "preuve": "Bulletin des Adjudications, réf. PPP0U7-113/6038/0200/2026-04 (avis de marché, sous-type eForms 16), publié le 2026-10-26.",
    "date_publication": "2026-10-26",
-   "cpv": "45233120,45222000,45112000,45232454,45112700,45233200",
+   "cpv": "45233120,45232454,45112000,45222000,45112700,45233200",
    "ted_ref": "",
    "notes": "Fietsenstalling + optie uitbreiding parking",
    "first_seen": "2026-10-07T23:39:38Z",
