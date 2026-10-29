@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T07:01:45Z",
+ "updated": "2026-10-29T09:01:29Z",
  "days_back": 3,
  "sources": {
   "TED": {
@@ -8,17 +8,15 @@
    "echecs_suite": 0
   },
   "Bulletin des Adjudications": {
-   "ok": false,
-   "echecs_suite": 1,
-   "error": "TimeoutError: Page.goto: Timeout 90000ms exceeded.\nCall log:\n  - navigating to \"https://www.publicprocurement.be/bda\", waiting until \"networkidle\"\n",
-   "trace": "Traceback (most recent call last):\n  File \"/home/runner/work/Tenderwatch-prompt-/Tenderwatch-prompt-/radar/main.py\", line 28, in main\n    new = mod.run(days_back=days_back)\n          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/Tenderwatch-prompt-/Tenderwatch-prompt-/radar/bda.py\", line 137, in run\n    pubs, meta = asyncio.run(fetch(days_back))\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/asyncio/runners.py\", line 190, in run\n    return runner.run(main)\n           ^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/asyncio/runners.py\", line 118, in run\n    return self._loop.run_until_complete(task)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/asyncio/base_events.py\", line 654, in run_until_complete\n    return future.result()\n           ^^^^^^^^^^^^^^^\n  File \"/home/runner/work/Tenderwatch-prompt-/Tenderwatch-prompt-/radar/bda.py\", line 114, in fetch\n    await page.goto(BDA, wait_until=\"networkidle\", timeout=90000)\n  File \"/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/playwright/async_api/_generated.py\", line 9901, in goto\n    await self._impl_obj.goto(\n  File \"/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/playwright/_impl/_page.py\", line 562, in goto\n    return await self._main_frame.goto(**locals_to_params(locals()))\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/playwright/_impl/_frame.py\", line 157, in goto\n    await self._channel.send(\n  File \"/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py\", line 76, in send\n    return await self._connection.wrap_api_call(\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/playwright/_impl/_connection.py\", line 632, in wrap_api_call\n    raise rewrite_error(error, f\"{parsed_st['apiName']}: {error}\") from None\nplaywright._impl._errors.TimeoutError: Page.goto: Timeout 90000ms exceeded.\nCall log:\n  - navigating to \"https://www.publicprocurement.be/bda\", waiting until \"networkidle\"\n\n"
+   "ok": true,
+   "new": 18,
+   "echecs_suite": 0
   },
   "Permis Bruxelles": {
-   "ok": false,
-   "echecs_suite": 1,
-   "error": "ConnectTimeout: timed out",
-   "trace": "core.ConnectTimeout: timed out\n\nThe above exception was the direct cause of the following exception:\n\nTraceback (most recent call last):\n  File \"/home/runner/work/Tenderwatch-prompt-/Tenderwatch-prompt-/radar/main.py\", line 28, in main\n    new = mod.run(days_back=days_back)\n          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/Tenderwatch-prompt-/Tenderwatch-prompt-/radar/nova.py\", line 91, in run\n    items = fetch(days_back=days_back)\n            ^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/Tenderwatch-prompt-/Tenderwatch-prompt-/radar/nova.py\", line 40, in fetch\n    r = client.get(_url(params))\n        ^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/httpx/_client.py\", line 1053, in get\n    return self.request(\n           ^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/httpx/_client.py\", line 825, in request\n    return self.send(request, auth=auth, follow_redirects=follow_redirects)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/httpx/_client.py\", line 914, in send\n    response = self._send_handling_auth(\n               ^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/httpx/_client.py\", line 942, in _send_handling_auth\n    response = self._send_handling_redirects(\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/httpx/_client.py\", line 979, in _send_handling_redirects\n    response = self._send_single_request(request)\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/httpx/_client.py\", line 1014, in _send_single_request\n    response = transport.handle_request(request)\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/httpx/_transports/default.py\", line 249, in handle_request\n    with map_httpcore_exceptions():\n  File \"/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/contextlib.py\", line 158, in __exit__\n    self.gen.throw(typ, value, traceback)\n  File \"/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/httpx/_transports/default.py\", line 118, in map_httpcore_exceptions\n    raise mapped_exc(message) from exc\nhttpx.ConnectTimeout: timed out\n"
+   "ok": true,
+   "new": 0,
+   "echecs_suite": 0
   }
  },
- "radar_public": 3202
+ "radar_public": 3220
 }

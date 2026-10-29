@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 293869
+  "totalCount": 293896
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -51,45 +51,199 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45000000-7",
+     "code": "79611000-0",
      "descriptions": [
       {
+       "language": "EN",
+       "text": "Job search services"
+      },
+      {
        "language": "DE",
-       "text": "Bauarbeiten"
+       "text": "Arbeitsvermittlungsdienste"
       },
       {
        "language": "NL",
-       "text": "Bouwwerkzaamheden"
-      },
-      {
-       "language": "EN",
-       "text": "Construction work"
+       "text": "Diensten voor sollicitatiebegeleiding"
       },
       {
        "language": "FR",
-       "text": "Travaux de construction"
+       "text": "Services de recherche d'emplois"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45000000-7",
+    "code": "79611000-0",
     "descriptions": [
      {
+      "language": "EN",
+      "text": "Job search services"
+     },
+     {
       "language": "DE",
-      "text": "Bauarbeiten"
+      "text": "Arbeitsvermittlungsdienste"
      },
      {
       "language": "NL",
-      "text": "Bouwwerkzaamheden"
-     },
-     {
-      "language": "EN",
-      "text": "Construction work"
+      "text": "Diensten voor sollicitatiebegeleiding"
      },
      {
       "language": "FR",
-      "text": "Travaux de construction"
+      "text": "Services de recherche d'emplois"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-29",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Marche public de services relatif a “l’acquisition d’une expertise spécialisée pour le développement, l’intégration et le deploiement de modules d’intelligence artificielle destines a renforcer la plateforme digitale de l’ONEM"
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "COD22022-10116-1",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "COD22022-10116-1",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Marche public de services relatif a “l’acquisition d’une expertise spécialisée pour le développement, l’intégration et le deploiement de modules d’intelligence artificielle destines a renforcer la plateforme digitale de l’ONEM"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-29",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Marche public de services relatif a “l’acquisition d’une expertise spécialisée pour le développement, l’intégration et le deploiement de modules d’intelligence artificielle destines a renforcer la plateforme digitale de l’ONEM"
+      }
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "COD22022-10116-1 - 1"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SERVICES"
+   ],
+   "noticeIds": [
+    "318553df-e598-4db8-9dbc-e4e8cbd6df19"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [],
+   "organisation": {
+    "organisationId": 139,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "Enabel"
+     },
+     {
+      "language": "NL",
+      "text": "Enabel"
+     },
+     {
+      "language": "EN",
+      "text": "Enabel"
+     },
+     {
+      "language": "FR",
+      "text": "Enabel"
+     }
+    ],
+    "tree": "200002.200014.139"
+   },
+   "procedureId": "736b494d-21f7-4e87-8237-c3837170fc92",
+   "publicationDate": "2026-10-29",
+   "publicationLanguages": [
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "COD22022-10116-1_pub01"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "bbd967fd-eb00-4a3b-ad0f-65843aba3cbc",
+   "publishedAt": [
+    "2026-10-29T08:14:46.044745"
+   ],
+   "referenceNumber": "COD22022-10116-1_pub01",
+   "sentAt": [
+    "2026-10-29T08:14:46.044745"
+   ],
+   "tedPublished": false
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45233120-6",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Travaux de construction de routes"
+      },
+      {
+       "language": "EN",
+       "text": "Road construction works"
+      },
+      {
+       "language": "NL",
+       "text": "Wegenbouwwerken"
+      },
+      {
+       "language": "DE",
+       "text": "Straßenbauarbeiten"
+      }
+     ]
+    },
+    {
+     "code": "45233141-9",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Straßeninstandhaltungsarbeiten"
+      },
+      {
+       "language": "NL",
+       "text": "Wegenonderhoud"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux d'entretien routier"
+      },
+      {
+       "language": "EN",
+       "text": "Road-maintenance works"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45233141-9",
+    "descriptions": [
+     {
+      "language": "DE",
+      "text": "Straßeninstandhaltungsarbeiten"
+     },
+     {
+      "language": "NL",
+      "text": "Wegenonderhoud"
+     },
+     {
+      "language": "FR",
+      "text": "Travaux d'entretien routier"
+     },
+     {
+      "language": "EN",
+      "text": "Road-maintenance works"
      }
     ]
    },
@@ -99,18 +253,18 @@
     "descriptions": [
      {
       "language": "NL",
-      "text": "De opdracht omvat het ontwerp, de levering, de plaatsing, de aansluiting en de volledige indienststelling van batterij-energieopslagsystemen (BESS) voor gebouwen van Stad Halle. De installaties omvatten onder meer de noodzakelijke aanpassingen aan de elektrische borden en bekabeling, beveiligingen, een energiemanagementsysteem, monitoring en eventuele netontkoppeling. De opdrachtnemer staat tevens in voor de vereiste netstudies en afstemming met de distributienetbeheerder, keuringen, testen, opleiding, technische documentatie en onderhoud. De systemen moeten als één veilig, bedrijfszeker en gebruiksklaar geheel worden opgeleverd en voldoen aan het AREI, de toepasselijke Belgische en Europese normen en de voorschriften van de netbeheerder."
+      "text": "Buitengewoon onderhoud gemeentewegen - uitvoering"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP01Y-3019/6378/20263019",
+    "number": "PPP01A-1516/6078/2026-318",
     "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "PPP01Y-3019/6378/20263019",
+    "referenceNumber": "PPP01A-1516/6078/2026-318",
     "titles": [
      {
       "language": "NL",
-      "text": "Implementatie Bess systemen in 2 stedelijke gebouwen"
+      "text": "Buitengewoon onderhoud gemeentewegen - uitvoering"
      }
     ]
    },
@@ -120,7 +274,7 @@
      "descriptions": [
       {
        "language": "NL",
-       "text": "De opdracht omvat het ontwerp, de levering, de plaatsing, de aansluiting en de volledige indienststelling van batterij-energieopslagsystemen (BESS) voor gebouwen van Stad Halle. De installaties omvatten onder meer de noodzakelijke aanpassingen aan de elektrische borden en bekabeling, beveiligingen, een energiemanagementsysteem, monitoring en eventuele netontkoppeling. De opdrachtnemer staat tevens in voor de vereiste netstudies en afstemming met de distributienetbeheerder, keuringen, testen, opleiding, technische documentatie en onderhoud. De systemen moeten als één veilig, bedrijfszeker en gebruiksklaar geheel worden opgeleverd en voldoen aan het AREI, de toepasselijke Belgische en Europese normen en de voorschriften van de netbeheerder."
+       "text": "Buitengewoon onderhoud gemeentewegen - uitvoering"
       }
      ],
      "reservedExecution": [
@@ -132,7 +286,7 @@
      "titles": [
       {
        "language": "NL",
-       "text": "Implementatie Bess systemen in 2 stedelijke gebouwen"
+       "text": "Buitengewoon onderhoud gemeentewegen - uitvoering"
       }
      ]
     }
@@ -141,97 +295,97 @@
     "WORKS"
    ],
    "noticeIds": [
-    "03770c63-5481-457e-8107-14fb1d4be77f"
+    "3d77f0e9-586c-4c1f-8ada-a2bce1eeb7e4"
    ],
    "noticeSubType": "16",
    "nutsCodes": [
-    "BE100"
+    "BE213"
    ],
    "organisation": {
-    "organisationId": 447,
+    "organisationId": 538,
     "organisationNames": [
      {
-      "language": "EN",
-      "text": "Halle"
-     },
-     {
-      "language": "FR",
-      "text": "Halle"
-     },
-     {
       "language": "DE",
-      "text": "Halle"
+      "text": "Herselt"
      },
      {
       "language": "NL",
-      "text": "Halle"
+      "text": "Herselt"
+     },
+     {
+      "language": "FR",
+      "text": "Herselt"
+     },
+     {
+      "language": "EN",
+      "text": "Herselt"
      }
     ],
-    "tree": "200004.200021.447"
+    "tree": "200004.200021.538"
    },
-   "procedureId": "eb28725e-8d8a-4009-94ba-961aca1e213c",
+   "procedureId": "d6910c7e-d722-421f-8176-2ed04cd40f12",
    "publicationDate": "2026-10-29",
    "publicationLanguages": [
     "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP01Y-3019/6378/20263019_001"
+    "PPP01A-1516/6078/2026-318_001"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "a5a3e6ef-ef6e-4f88-97cf-da53c2bdbef7",
+   "publicationWorkspaceId": "466ebaf6-9da5-4459-b2f2-f3415b5ad0ec",
    "publishedAt": [
-    "2026-10-29T00:00:47.546872"
+    "2026-10-29T08:15:45.021942"
    ],
-   "referenceNumber": "PPP01Y-3019/6378/20263019_001",
+   "referenceNumber": "PPP01A-1516/6078/2026-318_001",
    "sentAt": [
-    "2026-10-29T00:00:47.546872"
+    "2026-10-29T08:15:45.021942"
    ],
    "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-12-18T10:00:00"
+   "vaultSubmissionDeadline": "2026-12-01T10:00:00"
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "77310000-6",
+     "code": "45262330-3",
      "descriptions": [
       {
-       "language": "EN",
-       "text": "Planting and maintenance services of green areas"
-      },
-      {
-       "language": "FR",
-       "text": "Réalisation et entretien d'espaces verts"
+       "language": "DE",
+       "text": "Betonreparaturarbeiten"
       },
       {
        "language": "NL",
-       "text": "Beplanten en onderhouden van groengebieden"
+       "text": "Reparatie van betonwerk"
       },
       {
-       "language": "DE",
-       "text": "Anpflanzungs- und Pflegearbeiten an Grünflächen"
+       "language": "FR",
+       "text": "Travaux de réparation d'ouvrages en béton"
+      },
+      {
+       "language": "EN",
+       "text": "Concrete repair work"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "77310000-6",
+    "code": "45262330-3",
     "descriptions": [
      {
-      "language": "EN",
-      "text": "Planting and maintenance services of green areas"
-     },
-     {
-      "language": "FR",
-      "text": "Réalisation et entretien d'espaces verts"
+      "language": "DE",
+      "text": "Betonreparaturarbeiten"
      },
      {
       "language": "NL",
-      "text": "Beplanten en onderhouden van groengebieden"
+      "text": "Reparatie van betonwerk"
      },
      {
-      "language": "DE",
-      "text": "Anpflanzungs- und Pflegearbeiten an Grünflächen"
+      "language": "FR",
+      "text": "Travaux de réparation d'ouvrages en béton"
+     },
+     {
+      "language": "EN",
+      "text": "Concrete repair work"
      }
     ]
    },
@@ -241,363 +395,18 @@
     "descriptions": [
      {
       "language": "NL",
-      "text": "Het lokaal bestuur wenst een deel van zijn groenonderhoud alsook het onderhoud van de bushokjes gedurende een periode van 2 jaar uit te besteden. "
+      "text": "Door carbonatatie is schade opgetreden aan betonbalken aan de oude school Vichte, gelegen Ommersheimplein 1. De opdracht bestaat uit het aanbrengen van de nodige bescherming op wapening en herstel van beton volgens het technisch bestek in bijlage. "
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP034-512/6072/MEERHOUT-2026-009",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "PPP034-512/6072/MEERHOUT-2026-009",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Groenonderhoud en onderhoud van bushokjes in 2027 en 2028"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-29",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Jagersweg - Engstraat (zie situeringsplan I.2.4)"
-      }
-     ],
-     "reservedExecution": [
-      "YES"
-     ],
-     "reservedParticipation": [
-      "RESERVED_TO_WORKSHOPS_AND_ECONOMIC_OPERATORS"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Jagersweg - Engstraat (zie situeringsplan I.2.4)"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Bushokjes (zie situeringsplan I.2.7)"
-      }
-     ],
-     "reservedExecution": [
-      "YES"
-     ],
-     "reservedParticipation": [
-      "RESERVED_TO_WORKSHOPS_AND_ECONOMIC_OPERATORS"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Bushokjes (zie situeringsplan I.2.7)"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Mgr. Cruysberghslaan - Netelaan (zie situeringsplan I.2.5)"
-      }
-     ],
-     "reservedExecution": [
-      "YES"
-     ],
-     "reservedParticipation": [
-      "RESERVED_TO_WORKSHOPS_AND_ECONOMIC_OPERATORS"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Mgr. Cruysberghslaan - Netelaan (zie situeringsplan I.2.5)"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Gestel (zie situeringsplan I.2.3)"
-      }
-     ],
-     "reservedExecution": [
-      "YES"
-     ],
-     "reservedParticipation": [
-      "RESERVED_TO_WORKSHOPS_AND_ECONOMIC_OPERATORS"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Gestel (zie situeringsplan I.2.3)"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Gasthuisstraat (zie situeringsplan I.2.2)"
-      }
-     ],
-     "reservedExecution": [
-      "YES"
-     ],
-     "reservedParticipation": [
-      "RESERVED_TO_WORKSHOPS_AND_ECONOMIC_OPERATORS"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Gasthuisstraat (zie situeringsplan I.2.2)"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Watertorenwijk (zie situeringsplan I.2.6)"
-      }
-     ],
-     "reservedExecution": [
-      "YES"
-     ],
-     "reservedParticipation": [
-      "RESERVED_TO_WORKSHOPS_AND_ECONOMIC_OPERATORS"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Watertorenwijk (zie situeringsplan I.2.6)"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Eikenboomlaan - Mispad (zie situeringsplan I.2.1)"
-      }
-     ],
-     "reservedExecution": [
-      "YES"
-     ],
-     "reservedParticipation": [
-      "RESERVED_TO_WORKSHOPS_AND_ECONOMIC_OPERATORS"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Eikenboomlaan - Mispad (zie situeringsplan I.2.1)"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Atletiekpiste (zie situeringsplan I.2.8)"
-      }
-     ],
-     "reservedExecution": [
-      "YES"
-     ],
-     "reservedParticipation": [
-      "RESERVED_TO_WORKSHOPS_AND_ECONOMIC_OPERATORS"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Atletiekpiste (zie situeringsplan I.2.8)"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SERVICES"
-   ],
-   "noticeIds": [
-    "2f04ea71-a3c3-4264-8d3a-a78b2204c792"
-   ],
-   "noticeSubType": "16",
-   "nutsCodes": [
-    "BE211"
-   ],
-   "organisation": {
-    "organisationId": 435,
-    "organisationNames": [
-     {
-      "language": "EN",
-      "text": "Meerhout"
-     },
-     {
-      "language": "FR",
-      "text": "Meerhout"
-     },
-     {
-      "language": "DE",
-      "text": "Meerhout"
-     },
-     {
-      "language": "NL",
-      "text": "Meerhout"
-     }
-    ],
-    "tree": "200004.200021.435"
-   },
-   "procedureId": "f074cd71-eecb-47fc-9466-d171e29347f4",
-   "publicationDate": "2026-10-29",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP034-512/6072/MEERHOUT-2026-009_001"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "7cc8d7fa-bd6f-48a3-addc-46eacd088306",
-   "publishedAt": [
-    "2026-10-29T00:00:47.781245"
-   ],
-   "referenceNumber": "PPP034-512/6072/MEERHOUT-2026-009_001",
-   "sentAt": [
-    "2026-10-29T00:00:47.781245"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-27T11:00:00"
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "98000000-3",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Autres services communautaires, sociaux et personnels"
-      },
-      {
-       "language": "DE",
-       "text": "Sonstige gemeinschaftliche, soziale und persönliche Dienste"
-      },
-      {
-       "language": "EN",
-       "text": "Other community, social and personal services"
-      },
-      {
-       "language": "NL",
-       "text": "Overige gemeenschaps-, sociale en persoonlijke diensten"
-      }
-     ]
-    },
-    {
-     "code": "85000000-9",
-     "descriptions": [
-      {
-       "language": "DE",
-       "text": "Dienstleistungen des Gesundheits- und Sozialwesens"
-      },
-      {
-       "language": "NL",
-       "text": "Gezondheidszorg en maatschappelijk werk"
-      },
-      {
-       "language": "EN",
-       "text": "Health and social work services"
-      },
-      {
-       "language": "FR",
-       "text": "Services de santé et services sociaux"
-      }
-     ]
-    },
-    {
-     "code": "85147000-1",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Services de médecine du travail"
-      },
-      {
-       "language": "NL",
-       "text": "Diensten voor bedrijfsgeneeskunde"
-      },
-      {
-       "language": "DE",
-       "text": "Betriebliche Gesundheitsfürsorge"
-      },
-      {
-       "language": "EN",
-       "text": "Company health services"
-      }
-     ]
-    },
-    {
-     "code": "71317200-5",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Services de santé et de sécurité"
-      },
-      {
-       "language": "NL",
-       "text": "Gezondheids- en veiligheidsdiensten"
-      },
-      {
-       "language": "EN",
-       "text": "Health and safety services"
-      },
-      {
-       "language": "DE",
-       "text": "Dienstleistungen im Bereich Gesundheitsschutz und Sicherheit"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "85147000-1",
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Services de médecine du travail"
-     },
-     {
-      "language": "NL",
-      "text": "Diensten voor bedrijfsgeneeskunde"
-     },
-     {
-      "language": "DE",
-      "text": "Betriebliche Gesundheitsfürsorge"
-     },
-     {
-      "language": "EN",
-      "text": "Company health services"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-29",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Affiliation à un service externe pour la prévention et la protection au travail"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP0HQ-143/6016/DR-DLF-26-002-DS",
+    "number": "PPP15K-1863/6109/2026/1863",
     "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP0HQ-143/6016/DR-DLF-26-002-DS",
+    "referenceNumber": "PPP15K-1863/6109/2026/1863",
     "titles": [
      {
-      "language": "FR",
-      "text": "Affiliation à un service externe pour la prévention et la protection au travail"
+      "language": "NL",
+      "text": "Betonherstel aan voormalig schoolgebouw (kunstacademie) gelegen aan het Ommersheimplein"
      }
     ]
    },
@@ -606,67 +415,67 @@
     {
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Affiliation à un service externe pour la prévention et la protection au travail"
+       "language": "NL",
+       "text": "Door carbonatatie is schade opgetreden aan betonbalken aan de oude school Vichte, gelegen Ommersheimplein 1. De opdracht bestaat uit het aanbrengen van de nodige bescherming op wapening en herstel van beton volgens het technisch bestek in bijlage. "
       }
      ],
      "titles": [
       {
-       "language": "FR",
-       "text": "Affiliation à un service externe pour la prévention et la protection au travail"
+       "language": "NL",
+       "text": "Betonherstel aan voormalig schoolgebouw (kunstacademie) gelegen aan het Ommersheimplein"
       }
      ]
     }
    ],
    "natures": [
-    "SERVICES"
+    "WORKS"
    ],
    "noticeIds": [
-    "7d7ccfed-0d4b-45e0-9ac0-bb270a3a224f"
+    "09897238-7a00-4f44-8263-4ae150bde866"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE323"
+    "BE254"
    ],
    "organisation": {
-    "organisationId": 624,
+    "organisationId": 1773,
     "organisationNames": [
      {
       "language": "DE",
-      "text": "Zone de Police Mons-Quévy"
+      "text": "Anzegem"
      },
      {
       "language": "NL",
-      "text": "Zone de Police Mons-Quévy"
-     },
-     {
-      "language": "EN",
-      "text": "Zone de Police Mons-Quévy"
+      "text": "Gemeente Anzegem"
      },
      {
       "language": "FR",
-      "text": "Zone de Police Mons-Quévy"
+      "text": "Anzegem"
+     },
+     {
+      "language": "EN",
+      "text": "Anzegem"
      }
     ],
-    "tree": "200004.200024.624"
+    "tree": "200004.200021.1773"
    },
-   "procedureId": "7e244f7c-d53e-4033-b157-930c5c043a6d",
+   "procedureId": "8ade889b-8877-4c8c-a55e-e0a2875c3c62",
    "publicationDate": "2026-10-29",
    "publicationLanguages": [
-    "FR"
+    "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP0HQ-143/6016/DR-DLF-26-002-DS_002"
+    "PPP15K-1863/6109/2026/1863_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "74a35b43-4947-4b71-abb3-f430c7131cea",
+   "publicationWorkspaceId": "038975a6-92b6-422a-90aa-9c880edd1ee5",
    "publishedAt": [
-    "2026-10-29T00:00:46.986988"
+    "2026-10-29T07:35:46.013217"
    ],
-   "referenceNumber": "PPP0HQ-143/6016/DR-DLF-26-002-DS_002",
+   "referenceNumber": "PPP15K-1863/6109/2026/1863_002",
    "sentAt": [
-    "2026-10-29T00:00:46.986988"
+    "2026-10-29T07:35:46.013217"
    ],
    "tedPublished": false
   }
@@ -675,108 +484,45 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "98000000-3",
+     "code": "79611000-0",
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Autres services communautaires, sociaux et personnels"
+       "language": "EN",
+       "text": "Job search services"
       },
       {
        "language": "DE",
-       "text": "Sonstige gemeinschaftliche, soziale und persönliche Dienste"
-      },
-      {
-       "language": "EN",
-       "text": "Other community, social and personal services"
+       "text": "Arbeitsvermittlungsdienste"
       },
       {
        "language": "NL",
-       "text": "Overige gemeenschaps-, sociale en persoonlijke diensten"
-      }
-     ]
-    },
-    {
-     "code": "85000000-9",
-     "descriptions": [
-      {
-       "language": "DE",
-       "text": "Dienstleistungen des Gesundheits- und Sozialwesens"
-      },
-      {
-       "language": "NL",
-       "text": "Gezondheidszorg en maatschappelijk werk"
-      },
-      {
-       "language": "EN",
-       "text": "Health and social work services"
+       "text": "Diensten voor sollicitatiebegeleiding"
       },
       {
        "language": "FR",
-       "text": "Services de santé et services sociaux"
-      }
-     ]
-    },
-    {
-     "code": "85147000-1",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Services de médecine du travail"
-      },
-      {
-       "language": "NL",
-       "text": "Diensten voor bedrijfsgeneeskunde"
-      },
-      {
-       "language": "DE",
-       "text": "Betriebliche Gesundheitsfürsorge"
-      },
-      {
-       "language": "EN",
-       "text": "Company health services"
-      }
-     ]
-    },
-    {
-     "code": "71317200-5",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Services de santé et de sécurité"
-      },
-      {
-       "language": "NL",
-       "text": "Gezondheids- en veiligheidsdiensten"
-      },
-      {
-       "language": "EN",
-       "text": "Health and safety services"
-      },
-      {
-       "language": "DE",
-       "text": "Dienstleistungen im Bereich Gesundheitsschutz und Sicherheit"
+       "text": "Services de recherche d'emplois"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "85147000-1",
+    "code": "79611000-0",
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Services de médecine du travail"
-     },
-     {
-      "language": "NL",
-      "text": "Diensten voor bedrijfsgeneeskunde"
+      "language": "EN",
+      "text": "Job search services"
      },
      {
       "language": "DE",
-      "text": "Betriebliche Gesundheitsfürsorge"
+      "text": "Arbeitsvermittlungsdienste"
      },
      {
-      "language": "EN",
-      "text": "Company health services"
+      "language": "NL",
+      "text": "Diensten voor sollicitatiebegeleiding"
+     },
+     {
+      "language": "FR",
+      "text": "Services de recherche d'emplois"
      }
     ]
    },
@@ -786,18 +532,18 @@
     "descriptions": [
      {
       "language": "FR",
-      "text": "Affiliation à un service externe pour la prévention et la protection au travail"
+      "text": "Marche public de services relatif a “l’acquisition d’une expertise spécialisée pour le développement, l’intégration et le deploiement de modules d’intelligence artificielle destines a renforcer la plateforme digitale de l’ONEM"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP0HQ-143/6016/DR-DLF-26-002-DS",
+    "number": "COD22022-10116-1",
     "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP0HQ-143/6016/DR-DLF-26-002-DS",
+    "referenceNumber": "COD22022-10116-1",
     "titles": [
      {
       "language": "FR",
-      "text": "Affiliation à un service externe pour la prévention et la protection au travail"
+      "text": "Marche public de services relatif a “l’acquisition d’une expertise spécialisée pour le développement, l’intégration et le deploiement de modules d’intelligence artificielle destines a renforcer la plateforme digitale de l’ONEM"
      }
     ]
    },
@@ -807,13 +553,13 @@
      "descriptions": [
       {
        "language": "FR",
-       "text": "Affiliation à un service externe pour la prévention et la protection au travail"
+       "text": "Marche public de services relatif a “l’acquisition d’une expertise spécialisée pour le développement, l’intégration et le deploiement de modules d’intelligence artificielle destines a renforcer la plateforme digitale de l’ONEM"
       }
      ],
      "titles": [
       {
        "language": "FR",
-       "text": "Affiliation à un service externe pour la prévention et la protection au travail"
+       "text": "COD22022-10116-1 - 1"
       }
      ]
     }
@@ -822,51 +568,49 @@
     "SERVICES"
    ],
    "noticeIds": [
-    "7d7ccfed-0d4b-45e0-9ac0-bb270a3a224f"
+    "318553df-e598-4db8-9dbc-e4e8cbd6df19"
    ],
    "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE323"
-   ],
+   "nutsCodes": [],
    "organisation": {
-    "organisationId": 624,
+    "organisationId": 139,
     "organisationNames": [
      {
       "language": "DE",
-      "text": "Zone de Police Mons-Quévy"
+      "text": "Enabel"
      },
      {
       "language": "NL",
-      "text": "Zone de Police Mons-Quévy"
+      "text": "Enabel"
      },
      {
       "language": "EN",
-      "text": "Zone de Police Mons-Quévy"
+      "text": "Enabel"
      },
      {
       "language": "FR",
-      "text": "Zone de Police Mons-Quévy"
+      "text": "Enabel"
      }
     ],
-    "tree": "200004.200024.624"
+    "tree": "200002.200014.139"
    },
-   "procedureId": "7e244f7c-d53e-4033-b157-930c5c043a6d",
+   "procedureId": "736b494d-21f7-4e87-8237-c3837170fc92",
    "publicationDate": "2026-10-29",
    "publicationLanguages": [
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP0HQ-143/6016/DR-DLF-26-002-DS_002"
+    "COD22022-10116-1_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "74a35b43-4947-4b71-abb3-f430c7131cea",
+   "publicationWorkspaceId": "bbd967fd-eb00-4a3b-ad0f-65843aba3cbc",
    "publishedAt": [
-    "2026-10-29T00:00:46.986988"
+    "2026-10-29T08:14:46.044745"
    ],
-   "referenceNumber": "PPP0HQ-143/6016/DR-DLF-26-002-DS_002",
+   "referenceNumber": "COD22022-10116-1_pub01",
    "sentAt": [
-    "2026-10-29T00:00:46.986988"
+    "2026-10-29T08:14:46.044745"
    ],
    "tedPublished": false
   }
