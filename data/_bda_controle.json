@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 294018
+  "totalCount": 294035
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -56,230 +56,76 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "79611000-0",
+     "code": "45332400-7",
      "descriptions": [
       {
        "language": "EN",
-       "text": "Job search services"
+       "text": "Sanitary fixture installation work"
       },
       {
        "language": "DE",
-       "text": "Arbeitsvermittlungsdienste"
-      },
-      {
-       "language": "NL",
-       "text": "Diensten voor sollicitatiebegeleiding"
+       "text": "Installation von Sanitäreinrichtungen"
       },
       {
        "language": "FR",
-       "text": "Services de recherche d'emplois"
+       "text": "Travaux d'installation d'appareils sanitaires"
+      },
+      {
+       "language": "NL",
+       "text": "Installeren van sanitair"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "79611000-0",
+    "code": "45332400-7",
     "descriptions": [
      {
       "language": "EN",
-      "text": "Job search services"
+      "text": "Sanitary fixture installation work"
      },
      {
       "language": "DE",
-      "text": "Arbeitsvermittlungsdienste"
+      "text": "Installation von Sanitäreinrichtungen"
+     },
+     {
+      "language": "FR",
+      "text": "Travaux d'installation d'appareils sanitaires"
      },
      {
       "language": "NL",
-      "text": "Diensten voor sollicitatiebegeleiding"
-     },
-     {
-      "language": "FR",
-      "text": "Services de recherche d'emplois"
+      "text": "Installeren van sanitair"
      }
     ]
    },
-   "dispatchDate": "2026-10-29",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Marche public de services relatif a “l’acquisition d’une expertise spécialisée pour le développement, l’intégration et le deploiement de modules d’intelligence artificielle destines a renforcer la plateforme digitale de l’ONEM"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "COD22022-10116-1",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "COD22022-10116-1",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "Marche public de services relatif a “l’acquisition d’une expertise spécialisée pour le développement, l’intégration et le deploiement de modules d’intelligence artificielle destines a renforcer la plateforme digitale de l’ONEM"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-29",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Marche public de services relatif a “l’acquisition d’une expertise spécialisée pour le développement, l’intégration et le deploiement de modules d’intelligence artificielle destines a renforcer la plateforme digitale de l’ONEM"
-      }
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "COD22022-10116-1 - 1"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SERVICES"
-   ],
-   "noticeIds": [
-    "318553df-e598-4db8-9dbc-e4e8cbd6df19"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [],
-   "organisation": {
-    "organisationId": 139,
-    "organisationNames": [
-     {
-      "language": "DE",
-      "text": "Enabel"
-     },
-     {
-      "language": "NL",
-      "text": "Enabel"
-     },
-     {
-      "language": "EN",
-      "text": "Enabel"
-     },
-     {
-      "language": "FR",
-      "text": "Enabel"
-     }
-    ],
-    "tree": "200002.200014.139"
-   },
-   "procedureId": "736b494d-21f7-4e87-8237-c3837170fc92",
-   "publicationDate": "2026-10-29",
-   "publicationLanguages": [
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "COD22022-10116-1_pub01"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "bbd967fd-eb00-4a3b-ad0f-65843aba3cbc",
-   "publishedAt": [
-    "2026-10-29T08:14:46.044745"
-   ],
-   "referenceNumber": "COD22022-10116-1_pub01",
-   "sentAt": [
-    "2026-10-29T08:14:46.044745"
-   ],
-   "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "45233120-6",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Travaux de construction de routes"
-      },
-      {
-       "language": "EN",
-       "text": "Road construction works"
-      },
-      {
-       "language": "NL",
-       "text": "Wegenbouwwerken"
-      },
-      {
-       "language": "DE",
-       "text": "Straßenbauarbeiten"
-      }
-     ]
-    },
-    {
-     "code": "45233141-9",
-     "descriptions": [
-      {
-       "language": "DE",
-       "text": "Straßeninstandhaltungsarbeiten"
-      },
-      {
-       "language": "NL",
-       "text": "Wegenonderhoud"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux d'entretien routier"
-      },
-      {
-       "language": "EN",
-       "text": "Road-maintenance works"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "45233141-9",
-    "descriptions": [
-     {
-      "language": "DE",
-      "text": "Straßeninstandhaltungsarbeiten"
-     },
-     {
-      "language": "NL",
-      "text": "Wegenonderhoud"
-     },
-     {
-      "language": "FR",
-      "text": "Travaux d'entretien routier"
-     },
-     {
-      "language": "EN",
-      "text": "Road-maintenance works"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-29",
+   "dispatchDate": "2026-10-30",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
       "language": "NL",
-      "text": "Buitengewoon onderhoud gemeentewegen - uitvoering"
+      "text": "Herstellen sanitair woning nr. 41"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP01A-1516/6078/2026-318",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "PPP01A-1516/6078/2026-318",
+    "number": "RDGB-VRO-2025-210699-LUJA-FA13867",
+    "procurementProcedureType": "LOW_VALUE_T",
+    "referenceNumber": "RDGB-VRO-2025-210699-LUJA-FA13867",
     "titles": [
      {
       "language": "NL",
-      "text": "Buitengewoon onderhoud gemeentewegen - uitvoering"
+      "text": "Sint-Pieters-Leeuw – Regie der Gebouwen – Herstellen sanitair woning nr. 41"
      }
     ]
    },
-   "insertionDate": "2026-10-29",
+   "insertionDate": "2026-10-30",
    "lots": [
     {
      "descriptions": [
       {
        "language": "NL",
-       "text": "Buitengewoon onderhoud gemeentewegen - uitvoering"
+       "text": "Herstellen sanitair woning nr. 41"
       }
      ],
      "reservedExecution": [
@@ -291,7 +137,7 @@
      "titles": [
       {
        "language": "NL",
-       "text": "Buitengewoon onderhoud gemeentewegen - uitvoering"
+       "text": "RDGB-VRO-2025-210699-LUJA-FA13867 - 1"
       }
      ]
     }
@@ -300,134 +146,148 @@
     "WORKS"
    ],
    "noticeIds": [
-    "3d77f0e9-586c-4c1f-8ada-a2bce1eeb7e4"
+    "06f92f77-bdaa-491f-b8a8-23e6b2c82184"
    ],
-   "noticeSubType": "16",
+   "noticeSubType": "E3",
    "nutsCodes": [
-    "BE213"
+    "BE241"
    ],
    "organisation": {
-    "organisationId": 538,
+    "organisationId": 4894,
     "organisationNames": [
      {
       "language": "DE",
-      "text": "Herselt"
+      "text": "Regie der Gebouwen - Vlaanderen Regio Oost"
      },
      {
       "language": "NL",
-      "text": "Herselt"
-     },
-     {
-      "language": "FR",
-      "text": "Herselt"
+      "text": "Regie der Gebouwen - Vlaanderen Regio Oost"
      },
      {
       "language": "EN",
-      "text": "Herselt"
+      "text": "Buildingsagency - Vlaanderen Regio Oost"
+     },
+     {
+      "language": "FR",
+      "text": "Regie der Gebouwen - Vlaanderen Regio Oost"
      }
     ],
-    "tree": "200004.200021.538"
+    "tree": "200002.200010.5.4894"
    },
-   "procedureId": "d6910c7e-d722-421f-8176-2ed04cd40f12",
-   "publicationDate": "2026-10-29",
+   "procedureId": "a8578ca0-17c3-4bd3-a230-5fcbd1379a70",
+   "publicationDate": "2026-10-30",
    "publicationLanguages": [
     "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP01A-1516/6078/2026-318_001"
+    "RDGB-VRO-2025-210699-LUJA-FA13867_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "466ebaf6-9da5-4459-b2f2-f3415b5ad0ec",
+   "publicationWorkspaceId": "5b7006c1-baaa-4081-88b1-80f8d887b7ab",
    "publishedAt": [
-    "2026-10-29T08:15:45.021942"
+    "2026-10-30T00:00:47.251239"
    ],
-   "referenceNumber": "PPP01A-1516/6078/2026-318_001",
+   "referenceNumber": "RDGB-VRO-2025-210699-LUJA-FA13867_pub01",
    "sentAt": [
-    "2026-10-29T08:15:45.021942"
+    "2026-10-30T00:00:47.251239"
    ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-12-01T10:00:00"
+   "tedPublished": false
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45262330-3",
+     "code": "45000000-7",
      "descriptions": [
       {
        "language": "DE",
-       "text": "Betonreparaturarbeiten"
+       "text": "Bauarbeiten"
       },
       {
        "language": "NL",
-       "text": "Reparatie van betonwerk"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de réparation d'ouvrages en béton"
+       "text": "Bouwwerkzaamheden"
       },
       {
        "language": "EN",
-       "text": "Concrete repair work"
+       "text": "Construction work"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de construction"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45262330-3",
+    "code": "45000000-7",
     "descriptions": [
      {
       "language": "DE",
-      "text": "Betonreparaturarbeiten"
+      "text": "Bauarbeiten"
      },
      {
       "language": "NL",
-      "text": "Reparatie van betonwerk"
-     },
-     {
-      "language": "FR",
-      "text": "Travaux de réparation d'ouvrages en béton"
+      "text": "Bouwwerkzaamheden"
      },
      {
       "language": "EN",
-      "text": "Concrete repair work"
+      "text": "Construction work"
+     },
+     {
+      "language": "FR",
+      "text": "Travaux de construction"
      }
     ]
    },
-   "dispatchDate": "2026-10-29",
+   "dispatchDate": "2026-10-30",
    "dossier": {
-    "accreditations": {},
+    "accreditations": {
+     "D": 1
+    },
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Door carbonatatie is schade opgetreden aan betonbalken aan de oude school Vichte, gelegen Ommersheimplein 1. De opdracht bestaat uit het aanbrengen van de nodige bescherming op wapening en herstel van beton volgens het technisch bestek in bijlage. "
+      "language": "FR",
+      "text": "Réaménagement de l'entrée et du sas d'acceuil de la section secondaire de l'ISND"
      }
     ],
-    "enterpriseCategories": [],
+    "enterpriseCategories": [
+     {
+      "categoryCode": "D",
+      "levels": [
+       1
+      ]
+     }
+    ],
     "legalBasis": "D24",
-    "number": "PPP15K-1863/6109/2026/1863",
+    "number": "ISND_2026_Entrée",
     "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP15K-1863/6109/2026/1863",
+    "referenceNumber": "ISND_2026_Entrée",
     "titles": [
      {
-      "language": "NL",
-      "text": "Betonherstel aan voormalig schoolgebouw (kunstacademie) gelegen aan het Ommersheimplein"
+      "language": "FR",
+      "text": "Réaménagement de l'entrée côté secondaire"
      }
     ]
    },
-   "insertionDate": "2026-10-29",
+   "insertionDate": "2026-10-30",
    "lots": [
     {
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Door carbonatatie is schade opgetreden aan betonbalken aan de oude school Vichte, gelegen Ommersheimplein 1. De opdracht bestaat uit het aanbrengen van de nodige bescherming op wapening en herstel van beton volgens het technisch bestek in bijlage. "
+       "language": "FR",
+       "text": "Remodulation de l'entrée"
       }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
      ],
      "titles": [
       {
-       "language": "NL",
-       "text": "Betonherstel aan voormalig schoolgebouw (kunstacademie) gelegen aan het Ommersheimplein"
+       "language": "FR",
+       "text": "ISND_2026_Entrée - 1"
       }
      ]
     }
@@ -436,135 +296,155 @@
     "WORKS"
    ],
    "noticeIds": [
-    "09897238-7a00-4f44-8263-4ae150bde866"
+    "539de645-4bff-41a7-9cd0-2b75c44f47c0"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE254"
+    "BE100"
    ],
    "organisation": {
-    "organisationId": 1773,
+    "organisationId": 2570,
     "organisationNames": [
      {
       "language": "DE",
-      "text": "Anzegem"
+      "text": "Institut des Soeurs de Notre-Dame"
      },
      {
       "language": "NL",
-      "text": "Gemeente Anzegem"
+      "text": "Institut des Soeurs de Notre-Dame"
      },
      {
       "language": "FR",
-      "text": "Anzegem"
+      "text": "Institut des Soeurs de Notre-Dame"
      },
      {
       "language": "EN",
-      "text": "Anzegem"
+      "text": "Institut des Soeurs de Notre-Dame"
      }
     ],
-    "tree": "200004.200021.1773"
+    "tree": "200004.200026.2570"
    },
-   "procedureId": "8ade889b-8877-4c8c-a55e-e0a2875c3c62",
-   "publicationDate": "2026-10-29",
+   "procedureId": "e3f72fff-f692-4ed1-b2d3-c8ef111ed839",
+   "publicationDate": "2026-10-30",
    "publicationLanguages": [
-    "NL"
+    "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP15K-1863/6109/2026/1863_002"
+    "ISND_2026_Entrée_pub02"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "038975a6-92b6-422a-90aa-9c880edd1ee5",
+   "publicationWorkspaceId": "292a6bb8-f56e-40c5-8f57-cc294c400c9e",
    "publishedAt": [
-    "2026-10-29T07:35:46.013217"
+    "2026-10-30T00:00:48.879418"
    ],
-   "referenceNumber": "PPP15K-1863/6109/2026/1863_002",
+   "referenceNumber": "ISND_2026_Entrée_pub02",
    "sentAt": [
-    "2026-10-29T07:35:46.013217"
+    "2026-10-30T00:00:48.879418"
    ],
    "tedPublished": false
-  }
- ],
- "exemple_attribution": [
+  },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "79611000-0",
+     "code": "55000000-0",
      "descriptions": [
       {
        "language": "EN",
-       "text": "Job search services"
-      },
-      {
-       "language": "DE",
-       "text": "Arbeitsvermittlungsdienste"
+       "text": "Hotel, restaurant and retail trade services"
       },
       {
        "language": "NL",
-       "text": "Diensten voor sollicitatiebegeleiding"
+       "text": "Diensten voor hotel, restaurant en detailhandel"
       },
       {
        "language": "FR",
-       "text": "Services de recherche d'emplois"
+       "text": "Services d'hôtellerie, de restauration et de commerce au détail"
+      },
+      {
+       "language": "DE",
+       "text": "Dienstleistungen des Hotel- und Gaststättengewerbes und des Einzelhandels"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "79611000-0",
+    "code": "55000000-0",
     "descriptions": [
      {
       "language": "EN",
-      "text": "Job search services"
-     },
-     {
-      "language": "DE",
-      "text": "Arbeitsvermittlungsdienste"
+      "text": "Hotel, restaurant and retail trade services"
      },
      {
       "language": "NL",
-      "text": "Diensten voor sollicitatiebegeleiding"
+      "text": "Diensten voor hotel, restaurant en detailhandel"
      },
      {
       "language": "FR",
-      "text": "Services de recherche d'emplois"
+      "text": "Services d'hôtellerie, de restauration et de commerce au détail"
+     },
+     {
+      "language": "DE",
+      "text": "Dienstleistungen des Hotel- und Gaststättengewerbes und des Einzelhandels"
      }
     ]
    },
-   "dispatchDate": "2026-10-29",
+   "dispatchDate": "2026-10-30",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
       "language": "FR",
-      "text": "Marche public de services relatif a “l’acquisition d’une expertise spécialisée pour le développement, l’intégration et le deploiement de modules d’intelligence artificielle destines a renforcer la plateforme digitale de l’ONEM"
+      "text": "La SNCB est à la recherche d’un candidat-concessionnaire pour l’exploitation d’un concept F&B Fast Service. Afin de garantir la complémentarité avec les activités de restauration déjà présentes dans la gare, les concepts proposés devront présente une offre différenciante par rapport à l'offre existante. Les concepts reposant principalement sur les catégories de produits suivantes ne seront pas retenus :   sandwiches classiques,   pizzas,   pâtes,   gaufres,   spécialité café,   Smoothies,   Cuisine Coréenne "
+     },
+     {
+      "language": "NL",
+      "text": "NMBS is op zoek naar een kandidaat-concessiehouder voor de uitbating van een Fast Service F&B-concept. Om een gevarieerd en complementair horeca-aanbod in het station te garanderen, zijn we op zoek naar een concept dat zich duidelijk onderscheidt van het reeds bestaande aanbod. Concepten waarbij de volgende productcategorieën het hoofdaanbod vormen, komen niet in aanmerking:   klassieke sandwiches,   pizza’s,   pasta,   wafels,   koffiespecialzaak,   smoothies,   Koreaanse keuken"
      }
     ],
     "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "COD22022-10116-1",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "COD22022-10116-1",
+    "legalBasis": "D23",
+    "number": "CM019BU2026 - 0013205",
+    "procurementProcedureType": "NEG_W_CALL_23",
+    "referenceNumber": "CM019BU2026 - 0013205",
     "titles": [
      {
+      "language": "NL",
+      "text": "Deelnemen aan een marktconsultatie in het station van Brussel-Centraal, concept F&B Fast Service"
+     },
+     {
       "language": "FR",
-      "text": "Marche public de services relatif a “l’acquisition d’une expertise spécialisée pour le développement, l’intégration et le deploiement de modules d’intelligence artificielle destines a renforcer la plateforme digitale de l’ONEM"
+      "text": "Participation à une consultation de marché dans la gare de Bruxelles-Central, concept F&B Fast Service"
      }
     ]
    },
-   "insertionDate": "2026-10-29",
+   "insertionDate": "2026-10-30",
    "lots": [
     {
      "descriptions": [
       {
+       "language": "NL",
+       "text": "NMBS is op zoek naar een kandidaat-concessiehouder voor de uitbating van een Fast Service F&B-concept. Om een gevarieerd en complementair horeca-aanbod in het station te garanderen, zijn we op zoek naar een concept dat zich duidelijk onderscheidt van het reeds bestaande aanbod. Concepten waarbij de volgende productcategorieën het hoofdaanbod vormen, komen niet in aanmerking:   klassieke sandwiches   pizza’s   pasta   wafels   koffiespecialzaak   smoothies   Koreaanse keuken"
+      },
+      {
        "language": "FR",
-       "text": "Marche public de services relatif a “l’acquisition d’une expertise spécialisée pour le développement, l’intégration et le deploiement de modules d’intelligence artificielle destines a renforcer la plateforme digitale de l’ONEM"
+       "text": "La SNCB est à la recherche d’un candidat-concessionnaire pour l’exploitation d’un concept F&B Fast Service. Afin de garantir la complémentarité avec les activités de restauration déjà présentes dans la gare, les concepts proposés devront présente une offre différenciante par rapport à l'offre existante. Les concepts reposant principalement sur les catégories de produits suivantes ne seront pas retenus :   sandwiches classiques   pizzas   pâtes   gaufres   spécialité café   Smoothies   Cuisine Coréenne  "
       }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
      ],
      "titles": [
       {
+       "language": "NL",
+       "text": "CM019BU2026 - 0013205 - 1"
+      },
+      {
        "language": "FR",
-       "text": "COD22022-10116-1 - 1"
+       "text": "CM019BU2026 - 0013205 - 1"
       }
      ]
     }
@@ -573,49 +453,205 @@
     "SERVICES"
    ],
    "noticeIds": [
-    "318553df-e598-4db8-9dbc-e4e8cbd6df19"
+    "eb54f7e7-a227-44fc-bd59-e94e8cef9423"
    ],
-   "noticeSubType": "E4",
-   "nutsCodes": [],
+   "noticeSubType": "19",
+   "nutsCodes": [
+    "BE100"
+   ],
    "organisation": {
-    "organisationId": 139,
+    "organisationId": 5644,
     "organisationNames": [
      {
-      "language": "DE",
-      "text": "Enabel"
-     },
-     {
       "language": "NL",
-      "text": "Enabel"
-     },
-     {
-      "language": "EN",
-      "text": "Enabel"
+      "text": "NMBS-Stations Commercialisation"
      },
      {
       "language": "FR",
-      "text": "Enabel"
+      "text": "SNCB-Stations Commercialisation"
+     },
+     {
+      "language": "DE",
+      "text": "SNCB-Stations Commercialisation"
+     },
+     {
+      "language": "EN",
+      "text": "SNCB-Stations Commercialisation"
      }
     ],
-    "tree": "200002.200014.139"
+    "tree": "200002.200014.4613.5644"
    },
-   "procedureId": "736b494d-21f7-4e87-8237-c3837170fc92",
-   "publicationDate": "2026-10-29",
+   "procedureId": "ec724298-8a00-48f1-a654-ad799c0928c6",
+   "publicationDate": "2026-10-30",
+   "publicationLanguages": [
+    "NL",
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "CM019BU2026 - 0013205_pub01"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "5303fd71-ab92-49c3-9bc1-e825c4c6486a",
+   "publishedAt": [
+    "2026-10-30T00:00:46.925502"
+   ],
+   "referenceNumber": "CM019BU2026 - 0013205_pub01",
+   "sentAt": [
+    "2026-10-30T00:00:46.925502"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2027-01-12T12:00:00"
+  }
+ ],
+ "exemple_attribution": [
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45000000-7",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Bauarbeiten"
+      },
+      {
+       "language": "NL",
+       "text": "Bouwwerkzaamheden"
+      },
+      {
+       "language": "EN",
+       "text": "Construction work"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de construction"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45000000-7",
+    "descriptions": [
+     {
+      "language": "DE",
+      "text": "Bauarbeiten"
+     },
+     {
+      "language": "NL",
+      "text": "Bouwwerkzaamheden"
+     },
+     {
+      "language": "EN",
+      "text": "Construction work"
+     },
+     {
+      "language": "FR",
+      "text": "Travaux de construction"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-30",
+   "dossier": {
+    "accreditations": {
+     "D": 1
+    },
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Réaménagement de l'entrée et du sas d'acceuil de la section secondaire de l'ISND"
+     }
+    ],
+    "enterpriseCategories": [
+     {
+      "categoryCode": "D",
+      "levels": [
+       1
+      ]
+     }
+    ],
+    "legalBasis": "D24",
+    "number": "ISND_2026_Entrée",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "ISND_2026_Entrée",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Réaménagement de l'entrée côté secondaire"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-30",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Remodulation de l'entrée"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "ISND_2026_Entrée - 1"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "539de645-4bff-41a7-9cd0-2b75c44f47c0"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE100"
+   ],
+   "organisation": {
+    "organisationId": 2570,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "Institut des Soeurs de Notre-Dame"
+     },
+     {
+      "language": "NL",
+      "text": "Institut des Soeurs de Notre-Dame"
+     },
+     {
+      "language": "FR",
+      "text": "Institut des Soeurs de Notre-Dame"
+     },
+     {
+      "language": "EN",
+      "text": "Institut des Soeurs de Notre-Dame"
+     }
+    ],
+    "tree": "200004.200026.2570"
+   },
+   "procedureId": "e3f72fff-f692-4ed1-b2d3-c8ef111ed839",
+   "publicationDate": "2026-10-30",
    "publicationLanguages": [
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "COD22022-10116-1_pub01"
+    "ISND_2026_Entrée_pub02"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "bbd967fd-eb00-4a3b-ad0f-65843aba3cbc",
+   "publicationWorkspaceId": "292a6bb8-f56e-40c5-8f57-cc294c400c9e",
    "publishedAt": [
-    "2026-10-29T08:14:46.044745"
+    "2026-10-30T00:00:48.879418"
    ],
-   "referenceNumber": "COD22022-10116-1_pub01",
+   "referenceNumber": "ISND_2026_Entrée_pub02",
    "sentAt": [
-    "2026-10-29T08:14:46.044745"
+    "2026-10-30T00:00:48.879418"
    ],
    "tedPublished": false
   }
