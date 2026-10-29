@@ -1,18 +1,20 @@
 {
  "meta": {
-  "totalCount": 293804
+  "totalCount": 293868
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
   "ACTIVE|14|['SERVICES']",
   "ACTIVE|15|['SUPPLIES']",
   "ACTIVE|16|['SERVICES', 'SUPPLIES']",
+  "ACTIVE|16|['SERVICES', 'WORKS']",
   "ACTIVE|16|['SERVICES']",
   "ACTIVE|16|['SUPPLIES']",
   "ACTIVE|16|['WORKS']",
   "ACTIVE|17|['SERVICES']",
   "ACTIVE|17|['SUPPLIES']",
   "ACTIVE|17|['WORKS']",
+  "ACTIVE|18|['SUPPLIES']",
   "ACTIVE|19|['SERVICES']",
   "ACTIVE|19|['WORKS']",
   "ACTIVE|20|['SERVICES']",
@@ -20,10 +22,12 @@
   "ACTIVE|29|['SERVICES']",
   "ACTIVE|29|['SUPPLIES']",
   "ACTIVE|29|['WORKS']",
+  "ACTIVE|30|['SERVICES', 'SUPPLIES']",
   "ACTIVE|30|['SERVICES']",
   "ACTIVE|30|['SUPPLIES']",
   "ACTIVE|30|['WORKS']",
   "ACTIVE|32|['SERVICES']",
+  "ACTIVE|32|['WORKS']",
   "ACTIVE|33|['SERVICES']",
   "ACTIVE|33|['SUPPLIES', 'WORKS']",
   "ACTIVE|33|['SUPPLIES']",
@@ -47,45 +51,45 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "33192120-9",
+     "code": "45000000-7",
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Lits d'hôpital"
+       "language": "DE",
+       "text": "Bauarbeiten"
       },
       {
        "language": "NL",
-       "text": "Ziekenhuisbedden"
-      },
-      {
-       "language": "DE",
-       "text": "Krankenhausbetten"
+       "text": "Bouwwerkzaamheden"
       },
       {
        "language": "EN",
-       "text": "Hospital beds"
+       "text": "Construction work"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de construction"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "33192120-9",
+    "code": "45000000-7",
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Lits d'hôpital"
+      "language": "DE",
+      "text": "Bauarbeiten"
      },
      {
       "language": "NL",
-      "text": "Ziekenhuisbedden"
-     },
-     {
-      "language": "DE",
-      "text": "Krankenhausbetten"
+      "text": "Bouwwerkzaamheden"
      },
      {
       "language": "EN",
-      "text": "Hospital beds"
+      "text": "Construction work"
+     },
+     {
+      "language": "FR",
+      "text": "Travaux de construction"
      }
     ]
    },
@@ -95,19 +99,18 @@
     "descriptions": [
      {
       "language": "NL",
-      "text": "Deze opdracht betreft de afsluiting van een raamovereenkomst voor de gefaseerde levering voor HHLeuven van vermoedelijk 25 smalle, ergonomische ziekenhuisbedden, bestemd voor gebruik in het dagziekenhuis. De aanbestedende overheid behoudt zich het recht om de effectieve hoeveelheden te verhogen, te verlagen of te schrappen. De opgenomen hoeveelheden zijn niet-contractueel en geven geen recht op enige minimumafname.   De huidige bedden nemen een aanzienlijke vloeroppervlakte in en hebben daardoor een beperkte wendbaarheid, wat een rechtstreekse impact heeft op de werkbaarheid en de efficiëntie van de zorgverlening. In het dagziekenhuis worden de bedden bovendien zeer frequent verplaatst, onder meer tussen voorbereidingszones, operatiezaal en recovery. De bestaande brede bedden zijn hiervoor onvoldoende aangepast, wat leidt tot manoeuvreerproblemen in nauwe gangen en ruimtes en een verhoogde fysieke belasting voor het zorgpersoneel. In de huidige infrastructuur is dit niet langer optimaal, waardoor er nood is aan zeer wendbare, compacte en smalle ziekenhuisbedden die vlot door één zorgverlener kunnen worden gemanoeuvreerd.  Met deze opdracht beoogt de aanbestedende overheid een duurzame, toekomstgerichte en functionele oplossing te realiseren die het dagelijks gebruik in een intensieve zorgomgeving optimaal ondersteunt.  Dit dossier vereist bijzondere aandacht voor ruimte-efficiëntie, patiëntveiligheid en gebruiksgemak voor verpleegkundigen en andere zorgverleners. De opdracht wordt opgevat als een gefaseerde aankoop, met het oog op een coherente en consistente uitrusting over verschillende zorgomgevingen heen: • Fase 1 betreft de aankoop van een eerste reeks van 8 smalle ziekenhuisbedden, bestemd voor onmiddellijk gebruik in het huidige dagziekenhuis. Deze fase heeft als doel onmiddellijk tegemoet te komen aan de huidige ruimtelijke, operationele en ergonomische noden. • Fase 2 voorziet in een mogelijke latere bijkomende aankoop van identieke bedden, voorzien tegen 2030-2031, in functie van de ingebruikname van het nieuw chirurgisch dagziekenhuis.  De aanbestedende overheid hecht groot belang aan het feit dat de voorgestelde bedden niet louter een oplossing bieden voor de huidige situatie, maar ook structureel inzetbaar zijn binnen de geplande uitbreiding.  De in fase 1 aangekochte bedden zullen worden meegenomen naar het nieuw dagziekenhuis en daar aangevuld worden met identieke bedden aangekocht in fase 2, teneinde operationele continuïteit en uniformiteit van materiaal te waarborgen.  Deze overheidsopdracht omvat: - De levering van smalle bedden exclusief matras - De nodige accessoires en toebehoren - Gebruiksinstructies en opleiding van het personeel - Onderhoudscontract  De looptijd van de raamovereenkomst bedraagt 6 jaar.  "
+      "text": "De opdracht omvat het ontwerp, de levering, de plaatsing, de aansluiting en de volledige indienststelling van batterij-energieopslagsystemen (BESS) voor gebouwen van Stad Halle. De installaties omvatten onder meer de noodzakelijke aanpassingen aan de elektrische borden en bekabeling, beveiligingen, een energiemanagementsysteem, monitoring en eventuele netontkoppeling. De opdrachtnemer staat tevens in voor de vereiste netstudies en afstemming met de distributienetbeheerder, keuringen, testen, opleiding, technische documentatie en onderhoud. De systemen moeten als één veilig, bedrijfszeker en gebruiksklaar geheel worden opgeleverd en voldoen aan het AREI, de toepasselijke Belgische en Europese normen en de voorschriften van de netbeheerder."
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP0VM-254/6054/2026.009",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP0VM-254/6054/2026.009",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "number": "PPP01Y-3019/6378/20263019",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "PPP01Y-3019/6378/20263019",
     "titles": [
      {
       "language": "NL",
-      "text": "Raamovereenkomst voor smalle bedden voor chirurgisch dagziekenhuis"
+      "text": "Implementatie Bess systemen in 2 stedelijke gebouwen"
      }
     ]
    },
@@ -117,291 +120,7 @@
      "descriptions": [
       {
        "language": "NL",
-       "text": "Deze opdracht betreft de afsluiting van een raamovereenkomst voor de gefaseerde levering voor HHLeuven van vermoedelijk 25 smalle, ergonomische ziekenhuisbedden, bestemd voor gebruik in het dagziekenhuis. De aanbestedende overheid behoudt zich het recht om de effectieve hoeveelheden te verhogen, te verlagen of te schrappen. De opgenomen hoeveelheden zijn niet-contractueel en geven geen recht op enige minimumafname.   De huidige bedden nemen een aanzienlijke vloeroppervlakte in en hebben daardoor een beperkte wendbaarheid, wat een rechtstreekse impact heeft op de werkbaarheid en de efficiëntie van de zorgverlening. In het dagziekenhuis worden de bedden bovendien zeer frequent verplaatst, onder meer tussen voorbereidingszones, operatiezaal en recovery. De bestaande brede bedden zijn hiervoor onvoldoende aangepast, wat leidt tot manoeuvreerproblemen in nauwe gangen en ruimtes en een verhoogde fysieke belasting voor het zorgpersoneel. In de huidige infrastructuur is dit niet langer optimaal, waardoor er nood is aan zeer wendbare, compacte en smalle ziekenhuisbedden die vlot door één zorgverlener kunnen worden gemanoeuvreerd.  Met deze opdracht beoogt de aanbestedende overheid een duurzame, toekomstgerichte en functionele oplossing te realiseren die het dagelijks gebruik in een intensieve zorgomgeving optimaal ondersteunt.  Dit dossier vereist bijzondere aandacht voor ruimte-efficiëntie, patiëntveiligheid en gebruiksgemak voor verpleegkundigen en andere zorgverleners. De opdracht wordt opgevat als een gefaseerde aankoop, met het oog op een coherente en consistente uitrusting over verschillende zorgomgevingen heen: • Fase 1 betreft de aankoop van een eerste reeks van 8 smalle ziekenhuisbedden, bestemd voor onmiddellijk gebruik in het huidige dagziekenhuis. Deze fase heeft als doel onmiddellijk tegemoet te komen aan de huidige ruimtelijke, operationele en ergonomische noden. • Fase 2 voorziet in een mogelijke latere bijkomende aankoop van identieke bedden, voorzien tegen 2030-2031, in functie van de ingebruikname van het nieuw chirurgisch dagziekenhuis.  De aanbestedende overheid hecht groot belang aan het feit dat de voorgestelde bedden niet louter een oplossing bieden voor de huidige situatie, maar ook structureel inzetbaar zijn binnen de geplande uitbreiding.  De in fase 1 aangekochte bedden zullen worden meegenomen naar het nieuw dagziekenhuis en daar aangevuld worden met identieke bedden aangekocht in fase 2, teneinde operationele continuïteit en uniformiteit van materiaal te waarborgen.  Deze overheidsopdracht omvat: - De levering van smalle bedden exclusief matras - De nodige accessoires en toebehoren - Gebruiksinstructies en opleiding van het personeel - Onderhoudscontract  De looptijd van de raamovereenkomst bedraagt 6 jaar.  "
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Raamovereenkomst voor smalle bedden voor chirurgisch dagziekenhuis"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SUPPLIES"
-   ],
-   "noticeIds": [
-    "dfcdef27-3af3-43a1-af5b-da737a358d4f"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE242"
-   ],
-   "organisation": {
-    "organisationId": 1566,
-    "organisationNames": [
-     {
-      "language": "EN",
-      "text": "Regionaal Ziekenhuis H. Hart Leuven vzw "
-     },
-     {
-      "language": "FR",
-      "text": "Regionaal Ziekenhuis H. Hart Leuven vzw "
-     },
-     {
-      "language": "DE",
-      "text": "Regionaal Ziekenhuis H. Hart Leuven vzw "
-     },
-     {
-      "language": "NL",
-      "text": "Regionaal Ziekenhuis H. Hart Leuven vzw "
-     }
-    ],
-    "tree": "200004.200027.1566"
-   },
-   "procedureId": "09b8a6f2-73c2-4f2d-9d46-a7a666edddf5",
-   "publicationDate": "2026-10-29",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP0VM-254/6054/2026.009_003"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "08db7a23-f0ff-4d75-8d79-b5d1c3a8e48c",
-   "publishedAt": [
-    "2026-10-29T00:00:47.112282"
-   ],
-   "referenceNumber": "PPP0VM-254/6054/2026.009_003",
-   "sentAt": [
-    "2026-10-29T00:00:47.112282"
-   ],
-   "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "71241000-9",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Études de faisabilité, service de conseil, analyse"
-      },
-      {
-       "language": "EN",
-       "text": "Feasibility study, advisory service, analysis"
-      },
-      {
-       "language": "DE",
-       "text": "Durchführbarkeitsstudie, Beratung, Analyse"
-      },
-      {
-       "language": "NL",
-       "text": "Haalbaarheidsstudie, adviesverlening, analyse"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "71241000-9",
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Études de faisabilité, service de conseil, analyse"
-     },
-     {
-      "language": "EN",
-      "text": "Feasibility study, advisory service, analysis"
-     },
-     {
-      "language": "DE",
-      "text": "Durchführbarkeitsstudie, Beratung, Analyse"
-     },
-     {
-      "language": "NL",
-      "text": "Haalbaarheidsstudie, adviesverlening, analyse"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-29",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Étude et dimensionnement de dispositifs de lutte contre les inondations au sud de Neufvilles"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP05K-1908/6316/2026/3P/1908",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP05K-1908/6316/2026/3P/1908",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "Étude et dimensionnement de dispositifs de lutte contre les inondations au sud de Neufvilles"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-29",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Solutions pour les problèmes d'inondation au sud-est de Neufvilles"
-      }
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Solutions pour les problèmes d'inondation au sud-est de Neufvilles"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Solutions pour les problèmes d'inondation au sud-ouest de Neufvilles"
-      }
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Solutions pour les problèmes d'inondation au sud-ouest de Neufvilles"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SERVICES"
-   ],
-   "noticeIds": [
-    "c3b9332f-2668-47de-97cf-35ef64b89991"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE32C"
-   ],
-   "organisation": {
-    "organisationId": 332,
-    "organisationNames": [
-     {
-      "language": "NL",
-      "text": "Soignies "
-     },
-     {
-      "language": "EN",
-      "text": "Soignies "
-     },
-     {
-      "language": "FR",
-      "text": "Soignies "
-     },
-     {
-      "language": "DE",
-      "text": "Soignies "
-     }
-    ],
-    "tree": "200004.200021.332"
-   },
-   "procedureId": "a4c7376f-98a2-44d8-ae53-fea166f08c45",
-   "publicationDate": "2026-10-29",
-   "publicationLanguages": [
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP05K-1908/6316/2026/3P/1908_002"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "7fbc278d-2757-4e84-9536-b7b0f060a75d",
-   "publishedAt": [
-    "2026-10-29T00:00:46.801069"
-   ],
-   "referenceNumber": "PPP05K-1908/6316/2026/3P/1908_002",
-   "sentAt": [
-    "2026-10-29T00:00:46.801069"
-   ],
-   "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "45233120-6",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Travaux de construction de routes"
-      },
-      {
-       "language": "EN",
-       "text": "Road construction works"
-      },
-      {
-       "language": "NL",
-       "text": "Wegenbouwwerken"
-      },
-      {
-       "language": "DE",
-       "text": "Straßenbauarbeiten"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "45233120-6",
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Travaux de construction de routes"
-     },
-     {
-      "language": "EN",
-      "text": "Road construction works"
-     },
-     {
-      "language": "NL",
-      "text": "Wegenbouwwerken"
-     },
-     {
-      "language": "DE",
-      "text": "Straßenbauarbeiten"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-29",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "De werken houden de aanleg van parkeerzones in de Reesinghelaan in. Na het verwijderen van de toplaag worden de parkeerzones uitgebroken en terug aangelegd met een waterdoorlatende opbouw. Aansluitend wordt de toplaag van de volledige Reesinghelaan vernieuwd en fietssuggestiestroken aangebracht. "
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP03N-1064/6123/CAD-2026-021",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "PPP03N-1064/6123/CAD-2026-021",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Snelheidsmilderende maatregelen Reesinghelaan"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-29",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "De werken houden de aanleg van parkeerzones in de Reesinghelaan in. Na het verwijderen van de toplaag worden de parkeerzones uitgebroken en terug aangelegd met een waterdoorlatende opbouw. Aansluitend wordt de toplaag van de volledige Reesinghelaan vernieuwd en fietssuggestiestroken aangebracht. "
+       "text": "De opdracht omvat het ontwerp, de levering, de plaatsing, de aansluiting en de volledige indienststelling van batterij-energieopslagsystemen (BESS) voor gebouwen van Stad Halle. De installaties omvatten onder meer de noodzakelijke aanpassingen aan de elektrische borden en bekabeling, beveiligingen, een energiemanagementsysteem, monitoring en eventuele netontkoppeling. De opdrachtnemer staat tevens in voor de vereiste netstudies en afstemming met de distributienetbeheerder, keuringen, testen, opleiding, technische documentatie en onderhoud. De systemen moeten als één veilig, bedrijfszeker en gebruiksklaar geheel worden opgeleverd en voldoen aan het AREI, de toepasselijke Belgische en Europese normen en de voorschriften van de netbeheerder."
       }
      ],
      "reservedExecution": [
@@ -413,7 +132,7 @@
      "titles": [
       {
        "language": "NL",
-       "text": "Snelheidsmilderende maatregelen Reesinghelaan"
+       "text": "Implementatie Bess systemen in 2 stedelijke gebouwen"
       }
      ]
     }
@@ -422,98 +141,97 @@
     "WORKS"
    ],
    "noticeIds": [
-    "b8fb9807-fca3-41b0-90b7-d0e60b19c2f7"
+    "03770c63-5481-457e-8107-14fb1d4be77f"
    ],
-   "noticeSubType": "E4",
+   "noticeSubType": "16",
    "nutsCodes": [
     "BE100"
    ],
    "organisation": {
-    "organisationId": 181,
+    "organisationId": 447,
     "organisationNames": [
      {
-      "language": "DE",
-      "text": "Maldegem"
-     },
-     {
-      "language": "NL",
-      "text": "Maldegem"
+      "language": "EN",
+      "text": "Halle"
      },
      {
       "language": "FR",
-      "text": "Maldegem"
+      "text": "Halle"
      },
      {
-      "language": "EN",
-      "text": "Maldegem"
+      "language": "DE",
+      "text": "Halle"
+     },
+     {
+      "language": "NL",
+      "text": "Halle"
      }
     ],
-    "tree": "200004.200021.181"
+    "tree": "200004.200021.447"
    },
-   "procedureId": "b10d9f78-4f0e-4265-a8c9-bd95166ae9da",
+   "procedureId": "eb28725e-8d8a-4009-94ba-961aca1e213c",
    "publicationDate": "2026-10-29",
    "publicationLanguages": [
     "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP03N-1064/6123/CAD-2026-021_002"
+    "PPP01Y-3019/6378/20263019_001"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "88b57738-42d3-4384-98b5-b995d7ff68b4",
+   "publicationWorkspaceId": "a5a3e6ef-ef6e-4f88-97cf-da53c2bdbef7",
    "publishedAt": [
-    "2026-10-29T00:00:48.082846"
+    "2026-10-29T00:00:47.546872"
    ],
-   "referenceNumber": "PPP03N-1064/6123/CAD-2026-021_002",
+   "referenceNumber": "PPP01Y-3019/6378/20263019_001",
    "sentAt": [
-    "2026-10-29T00:00:48.082846"
+    "2026-10-29T00:00:47.546872"
    ],
-   "tedPublished": false
-  }
- ],
- "exemple_attribution": [
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-12-18T10:00:00"
+  },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "33192120-9",
+     "code": "77310000-6",
      "descriptions": [
       {
+       "language": "EN",
+       "text": "Planting and maintenance services of green areas"
+      },
+      {
        "language": "FR",
-       "text": "Lits d'hôpital"
+       "text": "Réalisation et entretien d'espaces verts"
       },
       {
        "language": "NL",
-       "text": "Ziekenhuisbedden"
+       "text": "Beplanten en onderhouden van groengebieden"
       },
       {
        "language": "DE",
-       "text": "Krankenhausbetten"
-      },
-      {
-       "language": "EN",
-       "text": "Hospital beds"
+       "text": "Anpflanzungs- und Pflegearbeiten an Grünflächen"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "33192120-9",
+    "code": "77310000-6",
     "descriptions": [
      {
+      "language": "EN",
+      "text": "Planting and maintenance services of green areas"
+     },
+     {
       "language": "FR",
-      "text": "Lits d'hôpital"
+      "text": "Réalisation et entretien d'espaces verts"
      },
      {
       "language": "NL",
-      "text": "Ziekenhuisbedden"
+      "text": "Beplanten en onderhouden van groengebieden"
      },
      {
       "language": "DE",
-      "text": "Krankenhausbetten"
-     },
-     {
-      "language": "EN",
-      "text": "Hospital beds"
+      "text": "Anpflanzungs- und Pflegearbeiten an Grünflächen"
      }
     ]
    },
@@ -523,19 +241,18 @@
     "descriptions": [
      {
       "language": "NL",
-      "text": "Deze opdracht betreft de afsluiting van een raamovereenkomst voor de gefaseerde levering voor HHLeuven van vermoedelijk 25 smalle, ergonomische ziekenhuisbedden, bestemd voor gebruik in het dagziekenhuis. De aanbestedende overheid behoudt zich het recht om de effectieve hoeveelheden te verhogen, te verlagen of te schrappen. De opgenomen hoeveelheden zijn niet-contractueel en geven geen recht op enige minimumafname.   De huidige bedden nemen een aanzienlijke vloeroppervlakte in en hebben daardoor een beperkte wendbaarheid, wat een rechtstreekse impact heeft op de werkbaarheid en de efficiëntie van de zorgverlening. In het dagziekenhuis worden de bedden bovendien zeer frequent verplaatst, onder meer tussen voorbereidingszones, operatiezaal en recovery. De bestaande brede bedden zijn hiervoor onvoldoende aangepast, wat leidt tot manoeuvreerproblemen in nauwe gangen en ruimtes en een verhoogde fysieke belasting voor het zorgpersoneel. In de huidige infrastructuur is dit niet langer optimaal, waardoor er nood is aan zeer wendbare, compacte en smalle ziekenhuisbedden die vlot door één zorgverlener kunnen worden gemanoeuvreerd.  Met deze opdracht beoogt de aanbestedende overheid een duurzame, toekomstgerichte en functionele oplossing te realiseren die het dagelijks gebruik in een intensieve zorgomgeving optimaal ondersteunt.  Dit dossier vereist bijzondere aandacht voor ruimte-efficiëntie, patiëntveiligheid en gebruiksgemak voor verpleegkundigen en andere zorgverleners. De opdracht wordt opgevat als een gefaseerde aankoop, met het oog op een coherente en consistente uitrusting over verschillende zorgomgevingen heen: • Fase 1 betreft de aankoop van een eerste reeks van 8 smalle ziekenhuisbedden, bestemd voor onmiddellijk gebruik in het huidige dagziekenhuis. Deze fase heeft als doel onmiddellijk tegemoet te komen aan de huidige ruimtelijke, operationele en ergonomische noden. • Fase 2 voorziet in een mogelijke latere bijkomende aankoop van identieke bedden, voorzien tegen 2030-2031, in functie van de ingebruikname van het nieuw chirurgisch dagziekenhuis.  De aanbestedende overheid hecht groot belang aan het feit dat de voorgestelde bedden niet louter een oplossing bieden voor de huidige situatie, maar ook structureel inzetbaar zijn binnen de geplande uitbreiding.  De in fase 1 aangekochte bedden zullen worden meegenomen naar het nieuw dagziekenhuis en daar aangevuld worden met identieke bedden aangekocht in fase 2, teneinde operationele continuïteit en uniformiteit van materiaal te waarborgen.  Deze overheidsopdracht omvat: - De levering van smalle bedden exclusief matras - De nodige accessoires en toebehoren - Gebruiksinstructies en opleiding van het personeel - Onderhoudscontract  De looptijd van de raamovereenkomst bedraagt 6 jaar.  "
+      "text": "Het lokaal bestuur wenst een deel van zijn groenonderhoud alsook het onderhoud van de bushokjes gedurende een periode van 2 jaar uit te besteden. "
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP0VM-254/6054/2026.009",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP0VM-254/6054/2026.009",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "number": "PPP034-512/6072/MEERHOUT-2026-009",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "PPP034-512/6072/MEERHOUT-2026-009",
     "titles": [
      {
       "language": "NL",
-      "text": "Raamovereenkomst voor smalle bedden voor chirurgisch dagziekenhuis"
+      "text": "Groenonderhoud en onderhoud van bushokjes in 2027 en 2028"
      }
     ]
    },
@@ -545,66 +262,611 @@
      "descriptions": [
       {
        "language": "NL",
-       "text": "Deze opdracht betreft de afsluiting van een raamovereenkomst voor de gefaseerde levering voor HHLeuven van vermoedelijk 25 smalle, ergonomische ziekenhuisbedden, bestemd voor gebruik in het dagziekenhuis. De aanbestedende overheid behoudt zich het recht om de effectieve hoeveelheden te verhogen, te verlagen of te schrappen. De opgenomen hoeveelheden zijn niet-contractueel en geven geen recht op enige minimumafname.   De huidige bedden nemen een aanzienlijke vloeroppervlakte in en hebben daardoor een beperkte wendbaarheid, wat een rechtstreekse impact heeft op de werkbaarheid en de efficiëntie van de zorgverlening. In het dagziekenhuis worden de bedden bovendien zeer frequent verplaatst, onder meer tussen voorbereidingszones, operatiezaal en recovery. De bestaande brede bedden zijn hiervoor onvoldoende aangepast, wat leidt tot manoeuvreerproblemen in nauwe gangen en ruimtes en een verhoogde fysieke belasting voor het zorgpersoneel. In de huidige infrastructuur is dit niet langer optimaal, waardoor er nood is aan zeer wendbare, compacte en smalle ziekenhuisbedden die vlot door één zorgverlener kunnen worden gemanoeuvreerd.  Met deze opdracht beoogt de aanbestedende overheid een duurzame, toekomstgerichte en functionele oplossing te realiseren die het dagelijks gebruik in een intensieve zorgomgeving optimaal ondersteunt.  Dit dossier vereist bijzondere aandacht voor ruimte-efficiëntie, patiëntveiligheid en gebruiksgemak voor verpleegkundigen en andere zorgverleners. De opdracht wordt opgevat als een gefaseerde aankoop, met het oog op een coherente en consistente uitrusting over verschillende zorgomgevingen heen: • Fase 1 betreft de aankoop van een eerste reeks van 8 smalle ziekenhuisbedden, bestemd voor onmiddellijk gebruik in het huidige dagziekenhuis. Deze fase heeft als doel onmiddellijk tegemoet te komen aan de huidige ruimtelijke, operationele en ergonomische noden. • Fase 2 voorziet in een mogelijke latere bijkomende aankoop van identieke bedden, voorzien tegen 2030-2031, in functie van de ingebruikname van het nieuw chirurgisch dagziekenhuis.  De aanbestedende overheid hecht groot belang aan het feit dat de voorgestelde bedden niet louter een oplossing bieden voor de huidige situatie, maar ook structureel inzetbaar zijn binnen de geplande uitbreiding.  De in fase 1 aangekochte bedden zullen worden meegenomen naar het nieuw dagziekenhuis en daar aangevuld worden met identieke bedden aangekocht in fase 2, teneinde operationele continuïteit en uniformiteit van materiaal te waarborgen.  Deze overheidsopdracht omvat: - De levering van smalle bedden exclusief matras - De nodige accessoires en toebehoren - Gebruiksinstructies en opleiding van het personeel - Onderhoudscontract  De looptijd van de raamovereenkomst bedraagt 6 jaar.  "
+       "text": "Jagersweg - Engstraat (zie situeringsplan I.2.4)"
       }
+     ],
+     "reservedExecution": [
+      "YES"
+     ],
+     "reservedParticipation": [
+      "RESERVED_TO_WORKSHOPS_AND_ECONOMIC_OPERATORS"
      ],
      "titles": [
       {
        "language": "NL",
-       "text": "Raamovereenkomst voor smalle bedden voor chirurgisch dagziekenhuis"
+       "text": "Jagersweg - Engstraat (zie situeringsplan I.2.4)"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Bushokjes (zie situeringsplan I.2.7)"
+      }
+     ],
+     "reservedExecution": [
+      "YES"
+     ],
+     "reservedParticipation": [
+      "RESERVED_TO_WORKSHOPS_AND_ECONOMIC_OPERATORS"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Bushokjes (zie situeringsplan I.2.7)"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Mgr. Cruysberghslaan - Netelaan (zie situeringsplan I.2.5)"
+      }
+     ],
+     "reservedExecution": [
+      "YES"
+     ],
+     "reservedParticipation": [
+      "RESERVED_TO_WORKSHOPS_AND_ECONOMIC_OPERATORS"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Mgr. Cruysberghslaan - Netelaan (zie situeringsplan I.2.5)"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Gestel (zie situeringsplan I.2.3)"
+      }
+     ],
+     "reservedExecution": [
+      "YES"
+     ],
+     "reservedParticipation": [
+      "RESERVED_TO_WORKSHOPS_AND_ECONOMIC_OPERATORS"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Gestel (zie situeringsplan I.2.3)"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Gasthuisstraat (zie situeringsplan I.2.2)"
+      }
+     ],
+     "reservedExecution": [
+      "YES"
+     ],
+     "reservedParticipation": [
+      "RESERVED_TO_WORKSHOPS_AND_ECONOMIC_OPERATORS"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Gasthuisstraat (zie situeringsplan I.2.2)"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Watertorenwijk (zie situeringsplan I.2.6)"
+      }
+     ],
+     "reservedExecution": [
+      "YES"
+     ],
+     "reservedParticipation": [
+      "RESERVED_TO_WORKSHOPS_AND_ECONOMIC_OPERATORS"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Watertorenwijk (zie situeringsplan I.2.6)"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Eikenboomlaan - Mispad (zie situeringsplan I.2.1)"
+      }
+     ],
+     "reservedExecution": [
+      "YES"
+     ],
+     "reservedParticipation": [
+      "RESERVED_TO_WORKSHOPS_AND_ECONOMIC_OPERATORS"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Eikenboomlaan - Mispad (zie situeringsplan I.2.1)"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Atletiekpiste (zie situeringsplan I.2.8)"
+      }
+     ],
+     "reservedExecution": [
+      "YES"
+     ],
+     "reservedParticipation": [
+      "RESERVED_TO_WORKSHOPS_AND_ECONOMIC_OPERATORS"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Atletiekpiste (zie situeringsplan I.2.8)"
       }
      ]
     }
    ],
    "natures": [
-    "SUPPLIES"
+    "SERVICES"
    ],
    "noticeIds": [
-    "dfcdef27-3af3-43a1-af5b-da737a358d4f"
+    "2f04ea71-a3c3-4264-8d3a-a78b2204c792"
    ],
-   "noticeSubType": "E4",
+   "noticeSubType": "16",
    "nutsCodes": [
-    "BE242"
+    "BE211"
    ],
    "organisation": {
-    "organisationId": 1566,
+    "organisationId": 435,
     "organisationNames": [
      {
       "language": "EN",
-      "text": "Regionaal Ziekenhuis H. Hart Leuven vzw "
+      "text": "Meerhout"
      },
      {
       "language": "FR",
-      "text": "Regionaal Ziekenhuis H. Hart Leuven vzw "
+      "text": "Meerhout"
      },
      {
       "language": "DE",
-      "text": "Regionaal Ziekenhuis H. Hart Leuven vzw "
+      "text": "Meerhout"
      },
      {
       "language": "NL",
-      "text": "Regionaal Ziekenhuis H. Hart Leuven vzw "
+      "text": "Meerhout"
      }
     ],
-    "tree": "200004.200027.1566"
+    "tree": "200004.200021.435"
    },
-   "procedureId": "09b8a6f2-73c2-4f2d-9d46-a7a666edddf5",
+   "procedureId": "f074cd71-eecb-47fc-9466-d171e29347f4",
    "publicationDate": "2026-10-29",
    "publicationLanguages": [
     "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP0VM-254/6054/2026.009_003"
+    "PPP034-512/6072/MEERHOUT-2026-009_001"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "08db7a23-f0ff-4d75-8d79-b5d1c3a8e48c",
+   "publicationWorkspaceId": "7cc8d7fa-bd6f-48a3-addc-46eacd088306",
    "publishedAt": [
-    "2026-10-29T00:00:47.112282"
+    "2026-10-29T00:00:47.781245"
    ],
-   "referenceNumber": "PPP0VM-254/6054/2026.009_003",
+   "referenceNumber": "PPP034-512/6072/MEERHOUT-2026-009_001",
    "sentAt": [
-    "2026-10-29T00:00:47.112282"
+    "2026-10-29T00:00:47.781245"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-11-27T11:00:00"
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "98000000-3",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Autres services communautaires, sociaux et personnels"
+      },
+      {
+       "language": "DE",
+       "text": "Sonstige gemeinschaftliche, soziale und persönliche Dienste"
+      },
+      {
+       "language": "EN",
+       "text": "Other community, social and personal services"
+      },
+      {
+       "language": "NL",
+       "text": "Overige gemeenschaps-, sociale en persoonlijke diensten"
+      }
+     ]
+    },
+    {
+     "code": "85000000-9",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Dienstleistungen des Gesundheits- und Sozialwesens"
+      },
+      {
+       "language": "NL",
+       "text": "Gezondheidszorg en maatschappelijk werk"
+      },
+      {
+       "language": "EN",
+       "text": "Health and social work services"
+      },
+      {
+       "language": "FR",
+       "text": "Services de santé et services sociaux"
+      }
+     ]
+    },
+    {
+     "code": "85147000-1",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Services de médecine du travail"
+      },
+      {
+       "language": "NL",
+       "text": "Diensten voor bedrijfsgeneeskunde"
+      },
+      {
+       "language": "DE",
+       "text": "Betriebliche Gesundheitsfürsorge"
+      },
+      {
+       "language": "EN",
+       "text": "Company health services"
+      }
+     ]
+    },
+    {
+     "code": "71317200-5",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Dienstleistungen im Bereich Gesundheitsschutz und Sicherheit"
+      },
+      {
+       "language": "NL",
+       "text": "Gezondheids- en veiligheidsdiensten"
+      },
+      {
+       "language": "EN",
+       "text": "Health and safety services"
+      },
+      {
+       "language": "FR",
+       "text": "Services de santé et de sécurité"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "85147000-1",
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Services de médecine du travail"
+     },
+     {
+      "language": "NL",
+      "text": "Diensten voor bedrijfsgeneeskunde"
+     },
+     {
+      "language": "DE",
+      "text": "Betriebliche Gesundheitsfürsorge"
+     },
+     {
+      "language": "EN",
+      "text": "Company health services"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-29",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Affiliation à un service externe pour la prévention et la protection au travail"
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP0HQ-143/6016/DR-DLF-26-002-DS",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP0HQ-143/6016/DR-DLF-26-002-DS",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Affiliation à un service externe pour la prévention et la protection au travail"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-29",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Affiliation à un service externe pour la prévention et la protection au travail"
+      }
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Affiliation à un service externe pour la prévention et la protection au travail"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SERVICES"
+   ],
+   "noticeIds": [
+    "7d7ccfed-0d4b-45e0-9ac0-bb270a3a224f"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE323"
+   ],
+   "organisation": {
+    "organisationId": 624,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "Zone de Police Mons-Quévy"
+     },
+     {
+      "language": "NL",
+      "text": "Zone de Police Mons-Quévy"
+     },
+     {
+      "language": "EN",
+      "text": "Zone de Police Mons-Quévy"
+     },
+     {
+      "language": "FR",
+      "text": "Zone de Police Mons-Quévy"
+     }
+    ],
+    "tree": "200004.200024.624"
+   },
+   "procedureId": "7e244f7c-d53e-4033-b157-930c5c043a6d",
+   "publicationDate": "2026-10-29",
+   "publicationLanguages": [
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP0HQ-143/6016/DR-DLF-26-002-DS_002"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "74a35b43-4947-4b71-abb3-f430c7131cea",
+   "publishedAt": [
+    "2026-10-29T00:00:46.986988"
+   ],
+   "referenceNumber": "PPP0HQ-143/6016/DR-DLF-26-002-DS_002",
+   "sentAt": [
+    "2026-10-29T00:00:46.986988"
+   ],
+   "tedPublished": false
+  }
+ ],
+ "exemple_attribution": [
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "98000000-3",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Autres services communautaires, sociaux et personnels"
+      },
+      {
+       "language": "DE",
+       "text": "Sonstige gemeinschaftliche, soziale und persönliche Dienste"
+      },
+      {
+       "language": "EN",
+       "text": "Other community, social and personal services"
+      },
+      {
+       "language": "NL",
+       "text": "Overige gemeenschaps-, sociale en persoonlijke diensten"
+      }
+     ]
+    },
+    {
+     "code": "85000000-9",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Dienstleistungen des Gesundheits- und Sozialwesens"
+      },
+      {
+       "language": "NL",
+       "text": "Gezondheidszorg en maatschappelijk werk"
+      },
+      {
+       "language": "EN",
+       "text": "Health and social work services"
+      },
+      {
+       "language": "FR",
+       "text": "Services de santé et services sociaux"
+      }
+     ]
+    },
+    {
+     "code": "85147000-1",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Services de médecine du travail"
+      },
+      {
+       "language": "NL",
+       "text": "Diensten voor bedrijfsgeneeskunde"
+      },
+      {
+       "language": "DE",
+       "text": "Betriebliche Gesundheitsfürsorge"
+      },
+      {
+       "language": "EN",
+       "text": "Company health services"
+      }
+     ]
+    },
+    {
+     "code": "71317200-5",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Dienstleistungen im Bereich Gesundheitsschutz und Sicherheit"
+      },
+      {
+       "language": "NL",
+       "text": "Gezondheids- en veiligheidsdiensten"
+      },
+      {
+       "language": "EN",
+       "text": "Health and safety services"
+      },
+      {
+       "language": "FR",
+       "text": "Services de santé et de sécurité"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "85147000-1",
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Services de médecine du travail"
+     },
+     {
+      "language": "NL",
+      "text": "Diensten voor bedrijfsgeneeskunde"
+     },
+     {
+      "language": "DE",
+      "text": "Betriebliche Gesundheitsfürsorge"
+     },
+     {
+      "language": "EN",
+      "text": "Company health services"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-29",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Affiliation à un service externe pour la prévention et la protection au travail"
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP0HQ-143/6016/DR-DLF-26-002-DS",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP0HQ-143/6016/DR-DLF-26-002-DS",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Affiliation à un service externe pour la prévention et la protection au travail"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-29",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Affiliation à un service externe pour la prévention et la protection au travail"
+      }
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Affiliation à un service externe pour la prévention et la protection au travail"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SERVICES"
+   ],
+   "noticeIds": [
+    "7d7ccfed-0d4b-45e0-9ac0-bb270a3a224f"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE323"
+   ],
+   "organisation": {
+    "organisationId": 624,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "Zone de Police Mons-Quévy"
+     },
+     {
+      "language": "NL",
+      "text": "Zone de Police Mons-Quévy"
+     },
+     {
+      "language": "EN",
+      "text": "Zone de Police Mons-Quévy"
+     },
+     {
+      "language": "FR",
+      "text": "Zone de Police Mons-Quévy"
+     }
+    ],
+    "tree": "200004.200024.624"
+   },
+   "procedureId": "7e244f7c-d53e-4033-b157-930c5c043a6d",
+   "publicationDate": "2026-10-29",
+   "publicationLanguages": [
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP0HQ-143/6016/DR-DLF-26-002-DS_002"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "74a35b43-4947-4b71-abb3-f430c7131cea",
+   "publishedAt": [
+    "2026-10-29T00:00:46.986988"
+   ],
+   "referenceNumber": "PPP0HQ-143/6016/DR-DLF-26-002-DS_002",
+   "sentAt": [
+    "2026-10-29T00:00:46.986988"
    ],
    "tedPublished": false
   }

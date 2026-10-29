@@ -1,11 +1,13 @@
 {
- "updated": "2026-10-29T03:02:10Z",
+ "updated": "2026-10-29T05:01:50Z",
  "source": "urban.brussels NOVA (WFS)",
  "days_back": 3,
- "received": 64,
+ "received": 73,
  "kept": 14,
- "count": 142,
- "new_ids": [],
+ "count": 143,
+ "new_ids": [
+  "nova-02/PFD/2050926"
+ ],
  "records": [
   {
    "id": "nova-09/PU/2050851",
@@ -22,6 +24,22 @@
    "date_publication": "2026-10-28",
    "notes": "Autorité : Ixelles",
    "first_seen": "2026-10-28T13:01:58Z"
+  },
+  {
+   "id": "nova-02/PFD/2050926",
+   "source_type": "Permis",
+   "nom": "Réaliser une station de radiocommunication sur la toiture d'un immeuble de bureaux",
+   "lieu": "Avenue Gustave Demey 57, 1160 Auderghem",
+   "type": "Permis d'urbanisme délivré par le FD",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='02/PFD/2050926'",
+   "verif": "vérifié",
+   "verif_date": "2026-10-29",
+   "preuve": "Demande de permis 02/PFD/2050926 reçue le 2026-10-28 (urban.brussels, service NOVA).",
+   "date_publication": "2026-10-28",
+   "notes": "Autorité : BUP",
+   "first_seen": "2026-10-29T05:01:50Z"
   },
   {
    "id": "nova-01/PU/2050677",
