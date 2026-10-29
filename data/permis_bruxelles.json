@@ -1,11 +1,16 @@
 {
- "updated": "2026-10-29T11:02:01Z",
+ "updated": "2026-10-29T13:01:57Z",
  "source": "urban.brussels NOVA (WFS)",
  "days_back": 3,
- "received": 65,
- "kept": 14,
- "count": 143,
- "new_ids": [],
+ "received": 66,
+ "kept": 17,
+ "count": 147,
+ "new_ids": [
+  "nova-12/PU/2050881",
+  "nova-18/PU/2050843",
+  "nova-01/PU/2050823",
+  "nova-15/PU/2050813"
+ ],
  "records": [
   {
    "id": "nova-09/PU/2050851",
@@ -38,6 +43,38 @@
    "date_publication": "2026-10-28",
    "notes": "Autorité : BUP",
    "first_seen": "2026-10-29T05:01:50Z"
+  },
+  {
+   "id": "nova-12/PU/2050881",
+   "source_type": "Permis",
+   "nom": "Transformation et régularisation des infractions urbanistiques d'un immeuble existant .",
+   "lieu": "Rue Vanderstraeten 59, 1080 Molenbeek-Saint-Jean",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='12/PU/2050881'",
+   "verif": "vérifié",
+   "verif_date": "2026-10-29",
+   "preuve": "Demande de permis 12/PU/2050881 reçue le 2026-10-28 (urban.brussels, service NOVA), surface projetée 357 m².",
+   "date_publication": "2026-10-28",
+   "notes": "Autorité : Molenbeek-Saint-Jean",
+   "first_seen": "2026-10-29T13:01:57Z"
+  },
+  {
+   "id": "nova-18/PU/2050843",
+   "source_type": "Permis",
+   "nom": "DEMANDE DE REGULARISATION URBANISTIQUE DE DEUX APPARTEMENTS CONTIGUS (NOMMES C.2 ET G.2) SITUES AU DEUXIEME ETAGE DE L'IMMEUBLE DIT : ACP WASHINGTON ET QUI PRESENTENT QUELQUES DIFFERENCES PAR RAPPORT ",
+   "lieu": "Avenue Paul Hymans 129, 1200 Woluwe-Saint-Lambert",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='18/PU/2050843'",
+   "verif": "vérifié",
+   "verif_date": "2026-10-29",
+   "preuve": "Demande de permis 18/PU/2050843 reçue le 2026-10-28 (urban.brussels, service NOVA).",
+   "date_publication": "2026-10-28",
+   "notes": "Autorité : Woluwe-Saint-Lambert",
+   "first_seen": "2026-10-29T13:01:57Z"
   },
   {
    "id": "nova-01/PU/2050677",
@@ -134,6 +171,38 @@
    "date_publication": "2026-10-27",
    "notes": "Autorité : Ganshoren",
    "first_seen": "2026-10-28T13:01:58Z"
+  },
+  {
+   "id": "nova-01/PU/2050823",
+   "source_type": "Permis",
+   "nom": "Régularisation de trois logements et de l’extension de l’atelier par couverture de la cour",
+   "lieu": "Rue Léon Delacroix 10, 1080 Molenbeek-Saint-Jean",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='01/PU/2050823'",
+   "verif": "vérifié",
+   "verif_date": "2026-10-29",
+   "preuve": "Demande de permis 01/PU/2050823 reçue le 2026-10-27 (urban.brussels, service NOVA), surface projetée 360 m².",
+   "date_publication": "2026-10-27",
+   "notes": "Autorité : Molenbeek-Saint-Jean",
+   "first_seen": "2026-10-29T13:01:57Z"
+  },
+  {
+   "id": "nova-15/PU/2050813",
+   "source_type": "Permis",
+   "nom": "Régularisation simplifiée (art. 330, §3 du CoBAT) de la création d'un duplex au 3e et 4e étage d'un immeuble à appartements.",
+   "lieu": "Avenue Huart Hamoir 130, 1030 Schaerbeek",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='15/PU/2050813'",
+   "verif": "vérifié",
+   "verif_date": "2026-10-29",
+   "preuve": "Demande de permis 15/PU/2050813 reçue le 2026-10-27 (urban.brussels, service NOVA).",
+   "date_publication": "2026-10-27",
+   "notes": "Autorité : Schaerbeek",
+   "first_seen": "2026-10-29T13:01:57Z"
   },
   {
    "id": "nova-17/PU/2050454",
