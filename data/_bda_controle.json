@@ -1,9 +1,11 @@
 {
  "meta": {
-  "totalCount": 294036
+  "totalCount": 294101
  },
  "types": [
+  "ACTIVE|10|['SERVICES', 'WORKS']",
   "ACTIVE|10|['SERVICES']",
+  "ACTIVE|11|['WORKS']",
   "ACTIVE|14|['SERVICES']",
   "ACTIVE|15|['SUPPLIES']",
   "ACTIVE|16|['SERVICES', 'SUPPLIES']",
@@ -18,6 +20,8 @@
   "ACTIVE|19|['SERVICES']",
   "ACTIVE|19|['WORKS']",
   "ACTIVE|20|['SERVICES']",
+  "ACTIVE|20|['SUPPLIES']",
+  "ACTIVE|23|['SERVICES']",
   "ACTIVE|25|['SERVICES', 'SUPPLIES']",
   "ACTIVE|29|['SERVICES', 'SUPPLIES']",
   "ACTIVE|29|['SERVICES', 'WORKS']",
@@ -25,14 +29,18 @@
   "ACTIVE|29|['SUPPLIES']",
   "ACTIVE|29|['WORKS']",
   "ACTIVE|30|['SERVICES', 'SUPPLIES']",
+  "ACTIVE|30|['SERVICES']",
   "ACTIVE|30|['SUPPLIES']",
   "ACTIVE|30|['WORKS']",
   "ACTIVE|32|['SERVICES']",
   "ACTIVE|32|['WORKS']",
+  "ACTIVE|33|['SERVICES', 'SUPPLIES']",
   "ACTIVE|33|['SERVICES']",
   "ACTIVE|33|['SUPPLIES', 'WORKS']",
   "ACTIVE|33|['SUPPLIES']",
   "ACTIVE|38|['SERVICES']",
+  "ACTIVE|6|['SERVICES']",
+  "ACTIVE|7|['SERVICES']",
   "ACTIVE|E1|['SERVICES']",
   "ACTIVE|E1|['SUPPLIES']",
   "ACTIVE|E1|['WORKS']",
@@ -49,6 +57,157 @@
   "ACTIVE|E4|['WORKS']"
  ],
  "exemples": [
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45341000-9",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Erection of railings"
+      },
+      {
+       "language": "NL",
+       "text": "Plaatsen van leuningen"
+      },
+      {
+       "language": "FR",
+       "text": "Pose de garde-corps"
+      },
+      {
+       "language": "DE",
+       "text": "Errichtung von Geländern"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45341000-9",
+    "descriptions": [
+     {
+      "language": "EN",
+      "text": "Erection of railings"
+     },
+     {
+      "language": "NL",
+      "text": "Plaatsen van leuningen"
+     },
+     {
+      "language": "FR",
+      "text": "Pose de garde-corps"
+     },
+     {
+      "language": "DE",
+      "text": "Errichtung von Geländern"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-30",
+   "dossier": {
+    "accreditations": {
+     "E": 1
+    },
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Ce marché concerne le remplacement des garde-corps publics non conformes du passage supérieur et son entretien général."
+     }
+    ],
+    "enterpriseCategories": [
+     {
+      "categoryCode": "E",
+      "levels": [
+       1
+      ]
+     }
+    ],
+    "legalBasis": "D25",
+    "number": "5753426137",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "5753426137",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Cahier Spécial des Charges n°57/53/4/26/137 - Ligne 166 : Gedinne / Bertrix - Commune de Bièvre - Mise en conformité des garde-corps du passage supérieur de la route de Mon-Idée"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-30",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Ce marché concerne le remplacement des garde-corps publics non conformes du passage supérieur et son entretien général."
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Cahier Spécial des Charges n°57/53/4/26/137 - Ligne 166 : Gedinne / Bertrix - Commune de Bièvre - Mise en conformité des garde-corps du passage supérieur de la route de Mon-Idée"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "71812560-a759-4b2e-88e8-453fe8ebc4ba"
+   ],
+   "noticeSubType": "17",
+   "nutsCodes": [
+    "BE351"
+   ],
+   "organisation": {
+    "organisationId": 17122,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "Infrabel Projects South"
+     },
+     {
+      "language": "NL",
+      "text": "Infrabel Projects South"
+     },
+     {
+      "language": "FR",
+      "text": "Infrabel Projects South"
+     },
+     {
+      "language": "EN",
+      "text": "Infrabel Projects South"
+     }
+    ],
+    "tree": "200002.200014.4784.17122"
+   },
+   "procedureId": "a117a58a-ce63-408a-88da-8cd8e6a11c20",
+   "publicationDate": "2026-10-30",
+   "publicationLanguages": [
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "5753426137_pub01"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "24a88dfd-ac58-4ec7-9ec7-d990c21c1ab3",
+   "publishedAt": [
+    "2026-10-30T00:00:45.570769"
+   ],
+   "referenceNumber": "5753426137_pub01",
+   "sentAt": [
+    "2026-10-30T00:00:45.570769"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-12-01T14:00:00"
+  },
   {
    "cpvAdditionalCodes": [
     {
@@ -339,165 +498,6 @@
     "2026-10-30T00:00:48.879418"
    ],
    "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "55000000-0",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Hotel, restaurant and retail trade services"
-      },
-      {
-       "language": "NL",
-       "text": "Diensten voor hotel, restaurant en detailhandel"
-      },
-      {
-       "language": "FR",
-       "text": "Services d'hôtellerie, de restauration et de commerce au détail"
-      },
-      {
-       "language": "DE",
-       "text": "Dienstleistungen des Hotel- und Gaststättengewerbes und des Einzelhandels"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "55000000-0",
-    "descriptions": [
-     {
-      "language": "EN",
-      "text": "Hotel, restaurant and retail trade services"
-     },
-     {
-      "language": "NL",
-      "text": "Diensten voor hotel, restaurant en detailhandel"
-     },
-     {
-      "language": "FR",
-      "text": "Services d'hôtellerie, de restauration et de commerce au détail"
-     },
-     {
-      "language": "DE",
-      "text": "Dienstleistungen des Hotel- und Gaststättengewerbes und des Einzelhandels"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-30",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "La SNCB est à la recherche d’un candidat-concessionnaire pour l’exploitation d’un concept F&B Fast Service. Afin de garantir la complémentarité avec les activités de restauration déjà présentes dans la gare, les concepts proposés devront présente une offre différenciante par rapport à l'offre existante. Les concepts reposant principalement sur les catégories de produits suivantes ne seront pas retenus :   sandwiches classiques,   pizzas,   pâtes,   gaufres,   spécialité café,   Smoothies,   Cuisine Coréenne "
-     },
-     {
-      "language": "NL",
-      "text": "NMBS is op zoek naar een kandidaat-concessiehouder voor de uitbating van een Fast Service F&B-concept. Om een gevarieerd en complementair horeca-aanbod in het station te garanderen, zijn we op zoek naar een concept dat zich duidelijk onderscheidt van het reeds bestaande aanbod. Concepten waarbij de volgende productcategorieën het hoofdaanbod vormen, komen niet in aanmerking:   klassieke sandwiches,   pizza’s,   pasta,   wafels,   koffiespecialzaak,   smoothies,   Koreaanse keuken"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D23",
-    "number": "CM019BU2026 - 0013205",
-    "procurementProcedureType": "NEG_W_CALL_23",
-    "referenceNumber": "CM019BU2026 - 0013205",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Deelnemen aan een marktconsultatie in het station van Brussel-Centraal, concept F&B Fast Service"
-     },
-     {
-      "language": "FR",
-      "text": "Participation à une consultation de marché dans la gare de Bruxelles-Central, concept F&B Fast Service"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-30",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "NMBS is op zoek naar een kandidaat-concessiehouder voor de uitbating van een Fast Service F&B-concept. Om een gevarieerd en complementair horeca-aanbod in het station te garanderen, zijn we op zoek naar een concept dat zich duidelijk onderscheidt van het reeds bestaande aanbod. Concepten waarbij de volgende productcategorieën het hoofdaanbod vormen, komen niet in aanmerking:   klassieke sandwiches   pizza’s   pasta   wafels   koffiespecialzaak   smoothies   Koreaanse keuken"
-      },
-      {
-       "language": "FR",
-       "text": "La SNCB est à la recherche d’un candidat-concessionnaire pour l’exploitation d’un concept F&B Fast Service. Afin de garantir la complémentarité avec les activités de restauration déjà présentes dans la gare, les concepts proposés devront présente une offre différenciante par rapport à l'offre existante. Les concepts reposant principalement sur les catégories de produits suivantes ne seront pas retenus :   sandwiches classiques   pizzas   pâtes   gaufres   spécialité café   Smoothies   Cuisine Coréenne  "
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "CM019BU2026 - 0013205 - 1"
-      },
-      {
-       "language": "FR",
-       "text": "CM019BU2026 - 0013205 - 1"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SERVICES"
-   ],
-   "noticeIds": [
-    "eb54f7e7-a227-44fc-bd59-e94e8cef9423"
-   ],
-   "noticeSubType": "19",
-   "nutsCodes": [
-    "BE100"
-   ],
-   "organisation": {
-    "organisationId": 5644,
-    "organisationNames": [
-     {
-      "language": "NL",
-      "text": "NMBS-Stations Commercialisation"
-     },
-     {
-      "language": "FR",
-      "text": "SNCB-Stations Commercialisation"
-     },
-     {
-      "language": "DE",
-      "text": "SNCB-Stations Commercialisation"
-     },
-     {
-      "language": "EN",
-      "text": "SNCB-Stations Commercialisation"
-     }
-    ],
-    "tree": "200002.200014.4613.5644"
-   },
-   "procedureId": "ec724298-8a00-48f1-a654-ad799c0928c6",
-   "publicationDate": "2026-10-30",
-   "publicationLanguages": [
-    "NL",
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "CM019BU2026 - 0013205_pub01"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "5303fd71-ab92-49c3-9bc1-e825c4c6486a",
-   "publishedAt": [
-    "2026-10-30T00:00:46.925502"
-   ],
-   "referenceNumber": "CM019BU2026 - 0013205_pub01",
-   "sentAt": [
-    "2026-10-30T00:00:46.925502"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2027-01-12T12:00:00"
   }
  ],
  "exemple_attribution": [
