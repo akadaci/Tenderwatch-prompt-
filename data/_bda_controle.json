@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 294101
+  "totalCount": 294121
  },
  "types": [
   "ACTIVE|10|['SERVICES', 'WORKS']",
@@ -40,7 +40,6 @@
   "ACTIVE|33|['SUPPLIES']",
   "ACTIVE|38|['SERVICES']",
   "ACTIVE|6|['SERVICES']",
-  "ACTIVE|7|['SERVICES']",
   "ACTIVE|E1|['SERVICES']",
   "ACTIVE|E1|['SUPPLIES']",
   "ACTIVE|E1|['WORKS']",
@@ -60,196 +59,45 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45341000-9",
+     "code": "71200000-0",
      "descriptions": [
       {
-       "language": "EN",
-       "text": "Erection of railings"
+       "language": "DE",
+       "text": "Dienstleistungen von Architekturbüros"
       },
       {
-       "language": "NL",
-       "text": "Plaatsen van leuningen"
+       "language": "EN",
+       "text": "Architectural and related services"
       },
       {
        "language": "FR",
-       "text": "Pose de garde-corps"
+       "text": "Services d'architecture"
       },
       {
-       "language": "DE",
-       "text": "Errichtung von Geländern"
+       "language": "NL",
+       "text": "Dienstverlening op het gebied van architectuur en dergelijke"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45341000-9",
+    "code": "71200000-0",
     "descriptions": [
      {
-      "language": "EN",
-      "text": "Erection of railings"
-     },
-     {
-      "language": "NL",
-      "text": "Plaatsen van leuningen"
-     },
-     {
-      "language": "FR",
-      "text": "Pose de garde-corps"
-     },
-     {
       "language": "DE",
-      "text": "Errichtung von Geländern"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-30",
-   "dossier": {
-    "accreditations": {
-     "E": 1
-    },
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Ce marché concerne le remplacement des garde-corps publics non conformes du passage supérieur et son entretien général."
-     }
-    ],
-    "enterpriseCategories": [
-     {
-      "categoryCode": "E",
-      "levels": [
-       1
-      ]
-     }
-    ],
-    "legalBasis": "D25",
-    "number": "5753426137",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "5753426137",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "Cahier Spécial des Charges n°57/53/4/26/137 - Ligne 166 : Gedinne / Bertrix - Commune de Bièvre - Mise en conformité des garde-corps du passage supérieur de la route de Mon-Idée"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-30",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Ce marché concerne le remplacement des garde-corps publics non conformes du passage supérieur et son entretien général."
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Cahier Spécial des Charges n°57/53/4/26/137 - Ligne 166 : Gedinne / Bertrix - Commune de Bièvre - Mise en conformité des garde-corps du passage supérieur de la route de Mon-Idée"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "WORKS"
-   ],
-   "noticeIds": [
-    "71812560-a759-4b2e-88e8-453fe8ebc4ba"
-   ],
-   "noticeSubType": "17",
-   "nutsCodes": [
-    "BE351"
-   ],
-   "organisation": {
-    "organisationId": 17122,
-    "organisationNames": [
-     {
-      "language": "DE",
-      "text": "Infrabel Projects South"
-     },
-     {
-      "language": "NL",
-      "text": "Infrabel Projects South"
-     },
-     {
-      "language": "FR",
-      "text": "Infrabel Projects South"
+      "text": "Dienstleistungen von Architekturbüros"
      },
      {
       "language": "EN",
-      "text": "Infrabel Projects South"
-     }
-    ],
-    "tree": "200002.200014.4784.17122"
-   },
-   "procedureId": "a117a58a-ce63-408a-88da-8cd8e6a11c20",
-   "publicationDate": "2026-10-30",
-   "publicationLanguages": [
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "5753426137_pub01"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "24a88dfd-ac58-4ec7-9ec7-d990c21c1ab3",
-   "publishedAt": [
-    "2026-10-30T00:00:45.570769"
-   ],
-   "referenceNumber": "5753426137_pub01",
-   "sentAt": [
-    "2026-10-30T00:00:45.570769"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-12-01T14:00:00"
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "45332400-7",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Sanitary fixture installation work"
-      },
-      {
-       "language": "DE",
-       "text": "Installation von Sanitäreinrichtungen"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux d'installation d'appareils sanitaires"
-      },
-      {
-       "language": "NL",
-       "text": "Installeren van sanitair"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "45332400-7",
-    "descriptions": [
-     {
-      "language": "EN",
-      "text": "Sanitary fixture installation work"
-     },
-     {
-      "language": "DE",
-      "text": "Installation von Sanitäreinrichtungen"
+      "text": "Architectural and related services"
      },
      {
       "language": "FR",
-      "text": "Travaux d'installation d'appareils sanitaires"
+      "text": "Services d'architecture"
      },
      {
       "language": "NL",
-      "text": "Installeren van sanitair"
+      "text": "Dienstverlening op het gebied van architectuur en dergelijke"
      }
     ]
    },
@@ -258,19 +106,20 @@
     "accreditations": {},
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Herstellen sanitair woning nr. 41"
+      "language": "FR",
+      "text": "MARCHE DE SERVICES POUR LA MISE A JOUR DU CADASTRE DES LOGEMENTS DE LA S.L.G.H."
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "RDGB-VRO-2025-210699-LUJA-FA13867",
-    "procurementProcedureType": "LOW_VALUE_T",
-    "referenceNumber": "RDGB-VRO-2025-210699-LUJA-FA13867",
+    "number": "PPP0NK-647/6139/SLGH/2026.045",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP0NK-647/6139/SLGH/2026.045",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
-      "language": "NL",
-      "text": "Sint-Pieters-Leeuw – Regie der Gebouwen – Herstellen sanitair woning nr. 41"
+      "language": "FR",
+      "text": "MARCHE DE SERVICES POUR LA MISE A JOUR DU CADASTRE DES LOGEMENTS DE LA S.L.G.H."
      }
     ]
    },
@@ -279,8 +128,144 @@
     {
      "descriptions": [
       {
+       "language": "FR",
+       "text": "MARCHE DE SERVICES POUR LA MISE A JOUR DU CADASTRE DES LOGEMENTS DE LA S.L.G.H."
+      }
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "MARCHE DE SERVICES POUR LA MISE A JOUR DU CADASTRE DES LOGEMENTS DE LA S.L.G.H."
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SERVICES"
+   ],
+   "noticeIds": [
+    "8ca17cf7-744f-4246-9cd8-d1027792a050"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE332"
+   ],
+   "organisation": {
+    "organisationId": 1097,
+    "organisationNames": [
+     {
+      "language": "NL",
+      "text": "Société du Logement de Grâce-Hollogne scrl"
+     },
+     {
+      "language": "EN",
+      "text": "Société du Logement de Grâce-Hollogne scrl"
+     },
+     {
+      "language": "FR",
+      "text": "Société du Logement de Grâce-Hollogne SRL"
+     },
+     {
+      "language": "DE",
+      "text": "Société du Logement de Grâce-Hollogne SC"
+     }
+    ],
+    "tree": "200004.200028.1097"
+   },
+   "procedureId": "9f37b114-3e9d-4c92-82f7-51a88af961bf",
+   "publicationDate": "2026-10-30",
+   "publicationLanguages": [
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP0NK-647/6139/SLGH/2026.045_003"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "7575ab87-0b8a-4440-be68-9a4d002e6310",
+   "publishedAt": [
+    "2026-10-30T08:37:45.015597"
+   ],
+   "referenceNumber": "PPP0NK-647/6139/SLGH/2026.045_003",
+   "sentAt": [
+    "2026-10-30T08:37:45.015597"
+   ],
+   "tedPublished": false
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45333000-0",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Installation von Gasanlagen"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux d'installation du gaz"
+      },
+      {
        "language": "NL",
-       "text": "Herstellen sanitair woning nr. 41"
+       "text": "Installeren van gasfittings"
+      },
+      {
+       "language": "EN",
+       "text": "Gas-fitting installation work"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45333000-0",
+    "descriptions": [
+     {
+      "language": "DE",
+      "text": "Installation von Gasanlagen"
+     },
+     {
+      "language": "FR",
+      "text": "Travaux d'installation du gaz"
+     },
+     {
+      "language": "NL",
+      "text": "Installeren van gasfittings"
+     },
+     {
+      "language": "EN",
+      "text": "Gas-fitting installation work"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-30",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Accord-cadre - Mise en conformité des installations gaz"
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP1SC-257/6146/2026-010",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "PPP1SC-257/6146/2026-010",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Accord-cadre - Mise en conformité des installations gaz"
+     }
+    ]
+   },
+   "insertionDate": "2026-09-21",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Accord-cadre - Mise en conformité des installations gaz"
       }
      ],
      "reservedExecution": [
@@ -291,8 +276,8 @@
      ],
      "titles": [
       {
-       "language": "NL",
-       "text": "RDGB-VRO-2025-210699-LUJA-FA13867 - 1"
+       "language": "FR",
+       "text": "Accord-cadre - Mise en conformité des installations gaz"
       }
      ]
     }
@@ -301,53 +286,66 @@
     "WORKS"
    ],
    "noticeIds": [
-    "06f92f77-bdaa-491f-b8a8-23e6b2c82184"
+    "ebe00b23-0478-4ec3-8716-788ca604360f",
+    "118050c4-3773-44db-8470-06ff24f6a1a1",
+    "83affeec-49f4-469e-8225-640c16d7d3dd",
+    "41561367-5295-490b-b998-f91fd98792a6",
+    "b1f34b4b-eb31-4baf-b32f-64a6d58e368d"
    ],
-   "noticeSubType": "E3",
+   "noticeSubType": "16",
    "nutsCodes": [
-    "BE241"
+    "BE332"
    ],
    "organisation": {
-    "organisationId": 4894,
+    "organisationId": 2414,
     "organisationNames": [
      {
-      "language": "DE",
-      "text": "Regie der Gebouwen - Vlaanderen Regio Oost"
-     },
-     {
-      "language": "NL",
-      "text": "Regie der Gebouwen - Vlaanderen Regio Oost"
-     },
-     {
       "language": "EN",
-      "text": "Buildingsagency - Vlaanderen Regio Oost"
+      "text": "LA MAISON SERESIENNE"
      },
      {
       "language": "FR",
-      "text": "Regie der Gebouwen - Vlaanderen Regio Oost"
+      "text": "LA MAISON SERESIENNE"
+     },
+     {
+      "language": "DE",
+      "text": "LA MAISON SERESIENNE"
+     },
+     {
+      "language": "NL",
+      "text": "LA MAISON SERESIENNE"
      }
     ],
-    "tree": "200002.200010.5.4894"
+    "tree": "200004.200028.2414"
    },
-   "procedureId": "a8578ca0-17c3-4bd3-a230-5fcbd1379a70",
+   "procedureId": "9a68f606-a1fa-4b9b-96f0-da430572cf59",
    "publicationDate": "2026-10-30",
    "publicationLanguages": [
-    "NL"
+    "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "RDGB-VRO-2025-210699-LUJA-FA13867_pub01"
+    "PPP1SC-257/6146/2026-010_001"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "5b7006c1-baaa-4081-88b1-80f8d887b7ab",
+   "publicationWorkspaceId": "da61aa47-6f9c-4195-865f-c01b2804167f",
    "publishedAt": [
-    "2026-10-30T00:00:47.251239"
+    "2026-10-30T08:10:45.016337",
+    "2026-10-20T13:41:45.026931",
+    "2026-10-02T08:34:45.017598",
+    "2026-10-30T08:32:45.050294",
+    "2026-09-21T14:46:46.013873"
    ],
-   "referenceNumber": "RDGB-VRO-2025-210699-LUJA-FA13867_pub01",
+   "referenceNumber": "PPP1SC-257/6146/2026-010_001",
    "sentAt": [
-    "2026-10-30T00:00:47.251239"
+    "2026-10-30T08:10:45.016337",
+    "2026-10-20T13:41:45.026931",
+    "2026-10-02T08:34:45.017598",
+    "2026-10-30T08:32:45.050294",
+    "2026-09-21T14:46:46.013873"
    ],
-   "tedPublished": false
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-11-12T11:00:00"
   },
   {
    "cpvAdditionalCodes": [
@@ -396,31 +394,22 @@
    },
    "dispatchDate": "2026-10-30",
    "dossier": {
-    "accreditations": {
-     "D": 1
-    },
+    "accreditations": {},
     "descriptions": [
      {
       "language": "FR",
-      "text": "Réaménagement de l'entrée et du sas d'acceuil de la section secondaire de l'ISND"
+      "text": "Le présent marché porte sur le remplacement des revêtements au recyparc de Rendeux.  La description complète se trouve à la page 7 du CSCh"
      }
     ],
-    "enterpriseCategories": [
-     {
-      "categoryCode": "D",
-      "levels": [
-       1
-      ]
-     }
-    ],
+    "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "ISND_2026_Entrée",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "ISND_2026_Entrée",
+    "number": "MP032632 - 2026-I-001",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "MP032632 - 2026-I-001",
     "titles": [
      {
       "language": "FR",
-      "text": "Réaménagement de l'entrée côté secondaire"
+      "text": "Remplacement des revêtements au Recyparc de Rendeux"
      }
     ]
    },
@@ -430,7 +419,7 @@
      "descriptions": [
       {
        "language": "FR",
-       "text": "Remodulation de l'entrée"
+       "text": "Remplacement des revêtements au Recyparc de Rendeux"
       }
      ],
      "reservedExecution": [
@@ -442,7 +431,7 @@
      "titles": [
       {
        "language": "FR",
-       "text": "ISND_2026_Entrée - 1"
+       "text": "MP032632 - 2026-I-001 - 1"
       }
      ]
     }
@@ -451,128 +440,121 @@
     "WORKS"
    ],
    "noticeIds": [
-    "539de645-4bff-41a7-9cd0-2b75c44f47c0"
+    "1e46747c-491e-4a47-a495-8ea5173e67fe"
    ],
-   "noticeSubType": "E4",
+   "noticeSubType": "16",
    "nutsCodes": [
-    "BE100"
+    "BE343"
    ],
    "organisation": {
-    "organisationId": 2570,
+    "organisationId": 3601,
     "organisationNames": [
      {
       "language": "DE",
-      "text": "Institut des Soeurs de Notre-Dame"
+      "text": "IDELUX Environnement"
      },
      {
       "language": "NL",
-      "text": "Institut des Soeurs de Notre-Dame"
-     },
-     {
-      "language": "FR",
-      "text": "Institut des Soeurs de Notre-Dame"
+      "text": "IDELUX Environnement"
      },
      {
       "language": "EN",
-      "text": "Institut des Soeurs de Notre-Dame"
+      "text": "IDELUX Environnement"
+     },
+     {
+      "language": "FR",
+      "text": "IDELUX Environnement"
      }
     ],
-    "tree": "200004.200026.2570"
+    "tree": "200004.200023.3601"
    },
-   "procedureId": "e3f72fff-f692-4ed1-b2d3-c8ef111ed839",
+   "procedureId": "dc34cbe1-f8f8-4b23-9269-c109c8cb1f5b",
    "publicationDate": "2026-10-30",
    "publicationLanguages": [
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "ISND_2026_Entrée_pub02"
+    "MP032632 - 2026-I-001_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "292a6bb8-f56e-40c5-8f57-cc294c400c9e",
+   "publicationWorkspaceId": "fdf0d911-f12f-4d8f-8552-01fbbdd9dc1c",
    "publishedAt": [
-    "2026-10-30T00:00:48.879418"
+    "2026-10-30T08:34:45.020295"
    ],
-   "referenceNumber": "ISND_2026_Entrée_pub02",
+   "referenceNumber": "MP032632 - 2026-I-001_pub01",
    "sentAt": [
-    "2026-10-30T00:00:48.879418"
+    "2026-10-30T08:34:45.020295"
    ],
-   "tedPublished": false
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-11-23T15:00:00"
   }
  ],
  "exemple_attribution": [
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45000000-7",
+     "code": "71200000-0",
      "descriptions": [
       {
        "language": "DE",
-       "text": "Bauarbeiten"
-      },
-      {
-       "language": "NL",
-       "text": "Bouwwerkzaamheden"
+       "text": "Dienstleistungen von Architekturbüros"
       },
       {
        "language": "EN",
-       "text": "Construction work"
+       "text": "Architectural and related services"
       },
       {
        "language": "FR",
-       "text": "Travaux de construction"
+       "text": "Services d'architecture"
+      },
+      {
+       "language": "NL",
+       "text": "Dienstverlening op het gebied van architectuur en dergelijke"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45000000-7",
+    "code": "71200000-0",
     "descriptions": [
      {
       "language": "DE",
-      "text": "Bauarbeiten"
-     },
-     {
-      "language": "NL",
-      "text": "Bouwwerkzaamheden"
+      "text": "Dienstleistungen von Architekturbüros"
      },
      {
       "language": "EN",
-      "text": "Construction work"
+      "text": "Architectural and related services"
      },
      {
       "language": "FR",
-      "text": "Travaux de construction"
+      "text": "Services d'architecture"
+     },
+     {
+      "language": "NL",
+      "text": "Dienstverlening op het gebied van architectuur en dergelijke"
      }
     ]
    },
    "dispatchDate": "2026-10-30",
    "dossier": {
-    "accreditations": {
-     "D": 1
-    },
+    "accreditations": {},
     "descriptions": [
      {
       "language": "FR",
-      "text": "Réaménagement de l'entrée et du sas d'acceuil de la section secondaire de l'ISND"
+      "text": "MARCHE DE SERVICES POUR LA MISE A JOUR DU CADASTRE DES LOGEMENTS DE LA S.L.G.H."
      }
     ],
-    "enterpriseCategories": [
-     {
-      "categoryCode": "D",
-      "levels": [
-       1
-      ]
-     }
-    ],
+    "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "ISND_2026_Entrée",
+    "number": "PPP0NK-647/6139/SLGH/2026.045",
     "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "ISND_2026_Entrée",
+    "referenceNumber": "PPP0NK-647/6139/SLGH/2026.045",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
       "language": "FR",
-      "text": "Réaménagement de l'entrée côté secondaire"
+      "text": "MARCHE DE SERVICES POUR LA MISE A JOUR DU CADASTRE DES LOGEMENTS DE LA S.L.G.H."
      }
     ]
    },
@@ -582,72 +564,66 @@
      "descriptions": [
       {
        "language": "FR",
-       "text": "Remodulation de l'entrée"
+       "text": "MARCHE DE SERVICES POUR LA MISE A JOUR DU CADASTRE DES LOGEMENTS DE LA S.L.G.H."
       }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
      ],
      "titles": [
       {
        "language": "FR",
-       "text": "ISND_2026_Entrée - 1"
+       "text": "MARCHE DE SERVICES POUR LA MISE A JOUR DU CADASTRE DES LOGEMENTS DE LA S.L.G.H."
       }
      ]
     }
    ],
    "natures": [
-    "WORKS"
+    "SERVICES"
    ],
    "noticeIds": [
-    "539de645-4bff-41a7-9cd0-2b75c44f47c0"
+    "8ca17cf7-744f-4246-9cd8-d1027792a050"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE100"
+    "BE332"
    ],
    "organisation": {
-    "organisationId": 2570,
+    "organisationId": 1097,
     "organisationNames": [
      {
-      "language": "DE",
-      "text": "Institut des Soeurs de Notre-Dame"
-     },
-     {
       "language": "NL",
-      "text": "Institut des Soeurs de Notre-Dame"
-     },
-     {
-      "language": "FR",
-      "text": "Institut des Soeurs de Notre-Dame"
+      "text": "Société du Logement de Grâce-Hollogne scrl"
      },
      {
       "language": "EN",
-      "text": "Institut des Soeurs de Notre-Dame"
+      "text": "Société du Logement de Grâce-Hollogne scrl"
+     },
+     {
+      "language": "FR",
+      "text": "Société du Logement de Grâce-Hollogne SRL"
+     },
+     {
+      "language": "DE",
+      "text": "Société du Logement de Grâce-Hollogne SC"
      }
     ],
-    "tree": "200004.200026.2570"
+    "tree": "200004.200028.1097"
    },
-   "procedureId": "e3f72fff-f692-4ed1-b2d3-c8ef111ed839",
+   "procedureId": "9f37b114-3e9d-4c92-82f7-51a88af961bf",
    "publicationDate": "2026-10-30",
    "publicationLanguages": [
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "ISND_2026_Entrée_pub02"
+    "PPP0NK-647/6139/SLGH/2026.045_003"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "292a6bb8-f56e-40c5-8f57-cc294c400c9e",
+   "publicationWorkspaceId": "7575ab87-0b8a-4440-be68-9a4d002e6310",
    "publishedAt": [
-    "2026-10-30T00:00:48.879418"
+    "2026-10-30T08:37:45.015597"
    ],
-   "referenceNumber": "ISND_2026_Entrée_pub02",
+   "referenceNumber": "PPP0NK-647/6139/SLGH/2026.045_003",
    "sentAt": [
-    "2026-10-30T00:00:48.879418"
+    "2026-10-30T08:37:45.015597"
    ],
    "tedPublished": false
   }
