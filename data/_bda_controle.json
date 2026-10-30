@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 294230
+  "totalCount": 294232
  },
  "types": [
   "ACTIVE|10|['SERVICES', 'WORKS']",
@@ -58,6 +58,148 @@
   "ACTIVE|E4|['WORKS']"
  ],
  "exemples": [
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "79980000-7",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Services d'abonnement"
+      },
+      {
+       "language": "NL",
+       "text": "Abonnementsdiensten"
+      },
+      {
+       "language": "DE",
+       "text": "Abonnementdienste"
+      },
+      {
+       "language": "EN",
+       "text": "Subscription services"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "79980000-7",
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Services d'abonnement"
+     },
+     {
+      "language": "NL",
+      "text": "Abonnementsdiensten"
+     },
+     {
+      "language": "DE",
+      "text": "Abonnementdienste"
+     },
+     {
+      "language": "EN",
+      "text": "Subscription services"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-31",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "VITO wenst als technologisch onderzoeksinstelling het beheer van tijdschriftabonnementen te laten  optimaliseren en beheren door een dienstverlener. Het gaat voornamelijk over  wetenschappelijk gerelateerde informatie, bij voorkeur in digitale vorm."
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP04G-1251/6492/1251 VITO BIB",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "PPP04G-1251/6492/1251 VITO BIB",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Raamovereenkomst voor abonnementenbeheer"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-31",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "[aan te vullen samen met eindgebruiker]"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Raamovereenkomst voor abonnementenbeheer"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SERVICES"
+   ],
+   "noticeIds": [
+    "5a8add02-2d71-4841-89d8-20221066ba96"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE213"
+   ],
+   "organisation": {
+    "organisationId": 5690,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "VITO"
+     },
+     {
+      "language": "NL",
+      "text": "VITO"
+     },
+     {
+      "language": "FR",
+      "text": "VITO"
+     },
+     {
+      "language": "EN",
+      "text": "VITO"
+     }
+    ],
+    "tree": "200003.200015.73.4641.5690"
+   },
+   "procedureId": "fe5d84b8-6929-42b0-94db-2d2918337e1f",
+   "publicationDate": "2026-10-31",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP04G-1251/6492/1251 VITO BIB_002"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "cf37b99a-6888-4e25-8a19-0aad7e55b5a9",
+   "publishedAt": [
+    "2026-10-31T00:00:45.06051"
+   ],
+   "referenceNumber": "PPP04G-1251/6492/1251 VITO BIB_002",
+   "sentAt": [
+    "2026-10-31T00:00:45.06051"
+   ],
+   "tedPublished": false
+  },
   {
    "cpvAdditionalCodes": [
     {
@@ -348,80 +490,83 @@
    ],
    "tedPublished": false,
    "vaultSubmissionDeadline": "2026-11-12T11:00:00"
-  },
+  }
+ ],
+ "exemple_attribution": [
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45000000-7",
+     "code": "79980000-7",
      "descriptions": [
       {
-       "language": "DE",
-       "text": "Bauarbeiten"
+       "language": "FR",
+       "text": "Services d'abonnement"
       },
       {
        "language": "NL",
-       "text": "Bouwwerkzaamheden"
+       "text": "Abonnementsdiensten"
+      },
+      {
+       "language": "DE",
+       "text": "Abonnementdienste"
       },
       {
        "language": "EN",
-       "text": "Construction work"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de construction"
+       "text": "Subscription services"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45000000-7",
+    "code": "79980000-7",
     "descriptions": [
      {
-      "language": "DE",
-      "text": "Bauarbeiten"
+      "language": "FR",
+      "text": "Services d'abonnement"
      },
      {
       "language": "NL",
-      "text": "Bouwwerkzaamheden"
+      "text": "Abonnementsdiensten"
+     },
+     {
+      "language": "DE",
+      "text": "Abonnementdienste"
      },
      {
       "language": "EN",
-      "text": "Construction work"
-     },
-     {
-      "language": "FR",
-      "text": "Travaux de construction"
+      "text": "Subscription services"
      }
     ]
    },
-   "dispatchDate": "2026-10-30",
+   "dispatchDate": "2026-10-31",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Le présent marché porte sur le remplacement des revêtements au recyparc de Rendeux.  La description complète se trouve à la page 7 du CSCh"
+      "language": "NL",
+      "text": "VITO wenst als technologisch onderzoeksinstelling het beheer van tijdschriftabonnementen te laten  optimaliseren en beheren door een dienstverlener. Het gaat voornamelijk over  wetenschappelijk gerelateerde informatie, bij voorkeur in digitale vorm."
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "MP032632 - 2026-I-001",
+    "number": "PPP04G-1251/6492/1251 VITO BIB",
     "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "MP032632 - 2026-I-001",
+    "referenceNumber": "PPP04G-1251/6492/1251 VITO BIB",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
-      "language": "FR",
-      "text": "Remplacement des revêtements au Recyparc de Rendeux"
+      "language": "NL",
+      "text": "Raamovereenkomst voor abonnementenbeheer"
      }
     ]
    },
-   "insertionDate": "2026-10-30",
+   "insertionDate": "2026-10-31",
    "lots": [
     {
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Remplacement des revêtements au Recyparc de Rendeux"
+       "language": "NL",
+       "text": "[aan te vullen samen met eindgebruiker]"
       }
      ],
      "reservedExecution": [
@@ -432,147 +577,8 @@
      ],
      "titles": [
       {
-       "language": "FR",
-       "text": "MP032632 - 2026-I-001 - 1"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "WORKS"
-   ],
-   "noticeIds": [
-    "1e46747c-491e-4a47-a495-8ea5173e67fe"
-   ],
-   "noticeSubType": "16",
-   "nutsCodes": [
-    "BE343"
-   ],
-   "organisation": {
-    "organisationId": 3601,
-    "organisationNames": [
-     {
-      "language": "DE",
-      "text": "IDELUX Environnement"
-     },
-     {
-      "language": "NL",
-      "text": "IDELUX Environnement"
-     },
-     {
-      "language": "EN",
-      "text": "IDELUX Environnement"
-     },
-     {
-      "language": "FR",
-      "text": "IDELUX Environnement"
-     }
-    ],
-    "tree": "200004.200023.3601"
-   },
-   "procedureId": "dc34cbe1-f8f8-4b23-9269-c109c8cb1f5b",
-   "publicationDate": "2026-10-30",
-   "publicationLanguages": [
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "MP032632 - 2026-I-001_pub01"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "fdf0d911-f12f-4d8f-8552-01fbbdd9dc1c",
-   "publishedAt": [
-    "2026-10-30T08:34:45.020295"
-   ],
-   "referenceNumber": "MP032632 - 2026-I-001_pub01",
-   "sentAt": [
-    "2026-10-30T08:34:45.020295"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-23T15:00:00"
-  }
- ],
- "exemple_attribution": [
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "71200000-0",
-     "descriptions": [
-      {
-       "language": "DE",
-       "text": "Dienstleistungen von Architekturbüros"
-      },
-      {
-       "language": "EN",
-       "text": "Architectural and related services"
-      },
-      {
-       "language": "FR",
-       "text": "Services d'architecture"
-      },
-      {
        "language": "NL",
-       "text": "Dienstverlening op het gebied van architectuur en dergelijke"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "71200000-0",
-    "descriptions": [
-     {
-      "language": "DE",
-      "text": "Dienstleistungen von Architekturbüros"
-     },
-     {
-      "language": "EN",
-      "text": "Architectural and related services"
-     },
-     {
-      "language": "FR",
-      "text": "Services d'architecture"
-     },
-     {
-      "language": "NL",
-      "text": "Dienstverlening op het gebied van architectuur en dergelijke"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-30",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "MARCHE DE SERVICES POUR LA MISE A JOUR DU CADASTRE DES LOGEMENTS DE LA S.L.G.H."
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP0NK-647/6139/SLGH/2026.045",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP0NK-647/6139/SLGH/2026.045",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "MARCHE DE SERVICES POUR LA MISE A JOUR DU CADASTRE DES LOGEMENTS DE LA S.L.G.H."
-     }
-    ]
-   },
-   "insertionDate": "2026-10-30",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "MARCHE DE SERVICES POUR LA MISE A JOUR DU CADASTRE DES LOGEMENTS DE LA S.L.G.H."
-      }
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "MARCHE DE SERVICES POUR LA MISE A JOUR DU CADASTRE DES LOGEMENTS DE LA S.L.G.H."
+       "text": "Raamovereenkomst voor abonnementenbeheer"
       }
      ]
     }
@@ -581,51 +587,51 @@
     "SERVICES"
    ],
    "noticeIds": [
-    "8ca17cf7-744f-4246-9cd8-d1027792a050"
+    "5a8add02-2d71-4841-89d8-20221066ba96"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE332"
+    "BE213"
    ],
    "organisation": {
-    "organisationId": 1097,
+    "organisationId": 5690,
     "organisationNames": [
      {
-      "language": "NL",
-      "text": "Société du Logement de Grâce-Hollogne scrl"
+      "language": "DE",
+      "text": "VITO"
      },
      {
-      "language": "EN",
-      "text": "Société du Logement de Grâce-Hollogne scrl"
+      "language": "NL",
+      "text": "VITO"
      },
      {
       "language": "FR",
-      "text": "Société du Logement de Grâce-Hollogne SRL"
+      "text": "VITO"
      },
      {
-      "language": "DE",
-      "text": "Société du Logement de Grâce-Hollogne SC"
+      "language": "EN",
+      "text": "VITO"
      }
     ],
-    "tree": "200004.200028.1097"
+    "tree": "200003.200015.73.4641.5690"
    },
-   "procedureId": "9f37b114-3e9d-4c92-82f7-51a88af961bf",
-   "publicationDate": "2026-10-30",
+   "procedureId": "fe5d84b8-6929-42b0-94db-2d2918337e1f",
+   "publicationDate": "2026-10-31",
    "publicationLanguages": [
-    "FR"
+    "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP0NK-647/6139/SLGH/2026.045_003"
+    "PPP04G-1251/6492/1251 VITO BIB_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "7575ab87-0b8a-4440-be68-9a4d002e6310",
+   "publicationWorkspaceId": "cf37b99a-6888-4e25-8a19-0aad7e55b5a9",
    "publishedAt": [
-    "2026-10-30T08:37:45.015597"
+    "2026-10-31T00:00:45.06051"
    ],
-   "referenceNumber": "PPP0NK-647/6139/SLGH/2026.045_003",
+   "referenceNumber": "PPP04G-1251/6492/1251 VITO BIB_002",
    "sentAt": [
-    "2026-10-30T08:37:45.015597"
+    "2026-10-31T00:00:45.06051"
    ],
    "tedPublished": false
   }

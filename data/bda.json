@@ -1,13 +1,11 @@
 {
- "updated": "2026-10-30T21:42:12Z",
+ "updated": "2026-10-30T23:01:51Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 971,
+ "received": 973,
  "kept": 455,
  "count": 2604,
- "new_ids": [
-  "bda-3ca7f65c-67c9-495e-848b-d1d1636b9fb1"
- ],
+ "new_ids": [],
  "records": [
   {
    "id": "bda-5b7006c1-baaa-4081-88b1-80f8d887b7ab",
@@ -252,7 +250,7 @@
    "verif_date": "2026-10-30",
    "preuve": "Bulletin des Adjudications, réf. ATE-26-0006 (avis de marché, sous-type eForms 16), publié le 2026-10-30.",
    "date_publication": "2026-10-30",
-   "cpv": "45315100,38651100,32234000,32333300,32231000,32333100,32323500,48730000,45262300,38651000,34928510,32223000,32323400,50343000,32323100,32323000",
+   "cpv": "45315100,38651100,32234000,32333300,32333100,32231000,32323500,48730000,45262300,38651000,34928510,32223000,32323400,50343000,32323100,32323000",
    "ted_ref": "ATE-26-0006_pub01",
    "notes": "Het voorwerp van de opdracht is de verdere uitrol van CCTV-systemen incl. VMS, het onderhoud en beheer van CCTV-(deel)systemen in het ambtsgebied van De Vlaamse Waterweg nv.",
    "first_seen": "2026-10-07T23:29:15Z",
@@ -1010,7 +1008,7 @@
    "verif_date": "2026-10-30",
    "preuve": "Bulletin des Adjudications, réf. PPP0BC-1291/6117/ Co-accueil de Boeur (avis de marché, sous-type eForms 16), publié le 2026-10-30.",
    "date_publication": "2026-10-30",
-   "cpv": "45000000,45400000,45262700",
+   "cpv": "45000000,45262700,45400000",
    "ted_ref": "",
    "notes": "Travaux de transformation du Co-accueil de Boeur - Phase A",
    "procedure": "61376725-408a-485d-a930-b05f99ff8168",
@@ -5357,7 +5355,7 @@
    "verif_date": "2026-10-30",
    "preuve": "Bulletin des Adjudications, réf. ARW-26-004 (attribution, sous-type eForms 29), publié le 2026-10-28.",
    "date_publication": "2026-10-28",
-   "cpv": "77310000,77211300,77211400,77211500,77312100,77315000,77312000,77341000,45233229,77314100",
+   "cpv": "77310000,77211300,77211400,77211500,77312000,77315000,77312100,77341000,45233229,77314100",
    "ted_ref": "ARW-26-004_pub02",
    "notes": "Het voorwerp van de opdracht is het uitvoeren van het groen- en netheidsonderhoud in district 2: Boven-Schelde.",
    "procedure": "938729b2-2c16-4d05-9f28-2a5a752ca502",
@@ -5378,7 +5376,7 @@
    "verif_date": "2026-10-30",
    "preuve": "Bulletin des Adjudications, réf. ARW-26-005 (attribution, sous-type eForms 29), publié le 2026-10-28.",
    "date_publication": "2026-10-28",
-   "cpv": "77310000,77211300,77211400,77211500,77312100,77315000,77312000,77341000,45233229,77314100",
+   "cpv": "77310000,77211300,77211400,77211500,77312000,77315000,77312100,77341000,45233229,77314100",
    "ted_ref": "ARW-26-005_pub02",
    "notes": "Het voorwerp van de opdracht is het uitvoeren van het groen- en netheidsonderhoud in district 3: Leie.",
    "procedure": "4b6a9607-d03a-43a8-8e16-d74b09af07ff",
