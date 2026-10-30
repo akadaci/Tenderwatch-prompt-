@@ -1,27 +1,11 @@
 {
- "updated": "2026-10-30T05:01:44Z",
+ "updated": "2026-10-30T07:01:44Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
  "received": 841,
  "kept": 380,
  "count": 2538,
- "new_ids": [
-  "bda-640e44d9-d37e-4789-bae2-4e8a0ba8c8c0",
-  "bda-fce50429-aea4-41aa-af64-e0823b1a5fdd",
-  "bda-1be747a6-7af5-457c-bf13-07c3126a17db",
-  "bda-c1a378d4-12d2-4297-bfab-1529fca82d90",
-  "bda-78cfe5d8-2e60-43e4-8847-88e48e0b506f",
-  "bda-ddcbb942-96dd-4c04-a805-f8ff2a7075ac",
-  "bda-b1cae139-7689-4ef7-b8a8-5ea3e267361f",
-  "bda-7fb95596-0eb3-49f0-8b28-8cffb15ab15e",
-  "bda-b136e56c-9df7-4b35-a4f4-b331bdd0d841",
-  "bda-dec3a256-abd7-493a-8215-f18f3cd5451c",
-  "bda-13a328cb-8f06-4920-90c8-f01d239a3844",
-  "bda-e54aaf91-c2cd-4760-a6c4-73a378ef8c74",
-  "bda-1ef19eb3-0367-4db3-aa36-82d6967cd88f",
-  "bda-76feb6a0-9915-493e-884b-7880b172b0f2",
-  "bda-85671d24-7c36-42e7-8214-031b472079f5"
- ],
+ "new_ids": [],
  "records": [
   {
    "id": "bda-5b7006c1-baaa-4081-88b1-80f8d887b7ab",
@@ -3670,7 +3654,7 @@
    "verif_date": "2026-10-30",
    "preuve": "Bulletin des Adjudications, réf. ARW-26-004 (attribution, sous-type eForms 29), publié le 2026-10-28.",
    "date_publication": "2026-10-28",
-   "cpv": "77310000,77211300,77211400,77211500,77312000,77315000,77312100,77341000,45233229,77314100",
+   "cpv": "77310000,77211300,77211400,77211500,77312100,77315000,77312000,77341000,45233229,77314100",
    "ted_ref": "ARW-26-004_pub02",
    "notes": "Het voorwerp van de opdracht is het uitvoeren van het groen- en netheidsonderhoud in district 2: Boven-Schelde.",
    "procedure": "938729b2-2c16-4d05-9f28-2a5a752ca502",
