@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-30T19:02:17Z",
+ "updated": "2026-10-30T21:01:49Z",
  "source": "urban.brussels NOVA (WFS)",
  "days_back": 3,
- "received": 51,
- "kept": 11,
+ "received": 48,
+ "kept": 10,
  "count": 153,
  "new_ids": [],
  "records": [
