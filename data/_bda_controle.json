@@ -349,83 +349,88 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "71200000-0",
+     "code": "79311000-7",
      "descriptions": [
       {
-       "language": "DE",
-       "text": "Dienstleistungen von Architekturbüros"
-      },
-      {
        "language": "EN",
-       "text": "Architectural and related services"
+       "text": "Survey services"
       },
       {
        "language": "FR",
-       "text": "Services d'architecture"
+       "text": "Services d'études"
       },
       {
        "language": "NL",
-       "text": "Dienstverlening op het gebied van architectuur en dergelijke"
+       "text": "Uitvoeren van studies"
+      },
+      {
+       "language": "DE",
+       "text": "Umfragen"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "71200000-0",
+    "code": "79311000-7",
     "descriptions": [
      {
-      "language": "DE",
-      "text": "Dienstleistungen von Architekturbüros"
-     },
-     {
       "language": "EN",
-      "text": "Architectural and related services"
+      "text": "Survey services"
      },
      {
       "language": "FR",
-      "text": "Services d'architecture"
+      "text": "Services d'études"
      },
      {
       "language": "NL",
-      "text": "Dienstverlening op het gebied van architectuur en dergelijke"
+      "text": "Uitvoeren van studies"
+     },
+     {
+      "language": "DE",
+      "text": "Umfragen"
      }
     ]
    },
-   "dispatchDate": "2026-10-30",
+   "dispatchDate": "2026-10-31",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
-      "language": "FR",
-      "text": "MARCHE DE SERVICES POUR LA MISE A JOUR DU CADASTRE DES LOGEMENTS DE LA S.L.G.H."
+      "language": "NL",
+      "text": "De opdracht betreft het uitvoeren van een ecohydrologische studie n.a.v. sterke en structurele verdroging in Wijnendalebos, gelegen te Torhout. Doel van de opdracht is om grondig inzicht te krijgen in de hydrografische, hydrologische en ecologische werking van het watersysteem in het studiegebied, met specifieke aandacht voor de impact van een actieve verlaging van de grondwatertafel d.m.v. drainage en vergunde en niet-vergunde grondwateronttrekkingen in de ruime omgeving van het studiegebied op het watersysteem. De resultaten van deze opdracht zullen worden gebruikt voor de ecohydrologische onderbouwing van inrichtingskeuzes die gemaakt worden rond waterbeheer en de ondersteuning van het vergunningen- en handhavingsbeleid m.b.t. grondwateronttrekkingen binnen het studiegebied."
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP0NK-647/6139/SLGH/2026.045",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP0NK-647/6139/SLGH/2026.045",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "number": "ANB-GP-2026-233",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "ANB-GP-2026-233",
     "titles": [
      {
-      "language": "FR",
-      "text": "MARCHE DE SERVICES POUR LA MISE A JOUR DU CADASTRE DES LOGEMENTS DE LA S.L.G.H."
+      "language": "NL",
+      "text": "Ecohydrologische studie n.a.v. structurele verdroging van Wijnendalebos (Torhout)"
      }
     ]
    },
-   "insertionDate": "2026-10-30",
+   "insertionDate": "2026-10-19",
    "lots": [
     {
      "descriptions": [
       {
-       "language": "FR",
-       "text": "MARCHE DE SERVICES POUR LA MISE A JOUR DU CADASTRE DES LOGEMENTS DE LA S.L.G.H."
+       "language": "NL",
+       "text": "De opdracht betreft het uitvoeren van een ecohydrologische studie n.a.v. sterke en structurele verdroging in Wijnendalebos, gelegen te Torhout. Doel van de opdracht is om grondig inzicht te krijgen in de hydrografische, hydrologische en ecologische werking van het watersysteem in het studiegebied, met specifieke aandacht voor de impact van een actieve verlaging van de grondwatertafel d.m.v. drainage en vergunde en niet-vergunde grondwateronttrekkingen in de ruime omgeving van het studiegebied op het watersysteem. De resultaten van deze opdracht zullen worden gebruikt voor de ecohydrologische onderbouwing van inrichtingskeuzes die gemaakt worden rond waterbeheer en de ondersteuning van het vergunningen- en handhavingsbeleid m.b.t. grondwateronttrekkingen binnen het studiegebied."
       }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
      ],
      "titles": [
       {
-       "language": "FR",
-       "text": "MARCHE DE SERVICES POUR LA MISE A JOUR DU CADASTRE DES LOGEMENTS DE LA S.L.G.H."
+       "language": "NL",
+       "text": "ANB-GP-2026-233 - 1"
       }
      ]
     }
@@ -434,53 +439,57 @@
     "SERVICES"
    ],
    "noticeIds": [
-    "8ca17cf7-744f-4246-9cd8-d1027792a050"
+    "ff662814-7827-478d-aaeb-a36237089214",
+    "0c229382-8a1d-442f-b9e6-c0d7797daba1"
    ],
-   "noticeSubType": "E4",
+   "noticeSubType": "16",
    "nutsCodes": [
-    "BE332"
+    "BE251"
    ],
    "organisation": {
-    "organisationId": 1097,
+    "organisationId": 5717,
     "organisationNames": [
      {
-      "language": "NL",
-      "text": "Société du Logement de Grâce-Hollogne scrl"
+      "language": "DE",
+      "text": "Agentschap voor Natuur en Bos"
      },
      {
-      "language": "EN",
-      "text": "Société du Logement de Grâce-Hollogne scrl"
+      "language": "NL",
+      "text": "Agentschap voor Natuur en Bos"
      },
      {
       "language": "FR",
-      "text": "Société du Logement de Grâce-Hollogne SRL"
+      "text": "Agentschap voor Natuur en Bos"
      },
      {
-      "language": "DE",
-      "text": "Société du Logement de Grâce-Hollogne SC"
+      "language": "EN",
+      "text": "Agentschap voor Natuur en Bos"
      }
     ],
-    "tree": "200004.200028.1097"
+    "tree": "200003.200015.73.4646.5717"
    },
-   "procedureId": "9f37b114-3e9d-4c92-82f7-51a88af961bf",
-   "publicationDate": "2026-10-30",
+   "procedureId": "54d3a5d7-c71b-4617-94a3-da9744b34c33",
+   "publicationDate": "2026-10-31",
    "publicationLanguages": [
-    "FR"
+    "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP0NK-647/6139/SLGH/2026.045_003"
+    "ANB-GP-2026-233_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "7575ab87-0b8a-4440-be68-9a4d002e6310",
+   "publicationWorkspaceId": "d677cc68-8a7c-4bb9-bf55-2250c6450f4c",
    "publishedAt": [
-    "2026-10-30T08:37:45.015597"
+    "2026-10-31T08:41:45.038911",
+    "2026-10-19T21:10:45.017633"
    ],
-   "referenceNumber": "PPP0NK-647/6139/SLGH/2026.045_003",
+   "referenceNumber": "ANB-GP-2026-233_pub01",
    "sentAt": [
-    "2026-10-30T08:37:45.015597"
+    "2026-10-31T08:41:45.038911",
+    "2026-10-19T21:10:45.017633"
    ],
-   "tedPublished": false
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-11-19T13:00:00"
   }
  ],
  "exemple_attribution": [
