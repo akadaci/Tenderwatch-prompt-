@@ -1,10 +1,9 @@
 {
  "meta": {
-  "totalCount": 294232
+  "totalCount": 294233
  },
  "types": [
   "ACTIVE|10|['SERVICES', 'WORKS']",
-  "ACTIVE|10|['SERVICES']",
   "ACTIVE|11|['WORKS']",
   "ACTIVE|14|['SERVICES']",
   "ACTIVE|15|['SUPPLIES']",
@@ -28,18 +27,14 @@
   "ACTIVE|29|['SERVICES']",
   "ACTIVE|29|['SUPPLIES']",
   "ACTIVE|29|['WORKS']",
-  "ACTIVE|30|['SERVICES', 'SUPPLIES']",
   "ACTIVE|30|['SERVICES']",
   "ACTIVE|30|['SUPPLIES']",
   "ACTIVE|30|['WORKS']",
-  "ACTIVE|32|['SERVICES']",
-  "ACTIVE|32|['WORKS']",
   "ACTIVE|33|['SERVICES', 'SUPPLIES']",
   "ACTIVE|33|['SERVICES']",
   "ACTIVE|33|['SUPPLIES', 'WORKS']",
   "ACTIVE|33|['SUPPLIES']",
   "ACTIVE|33|['WORKS']",
-  "ACTIVE|38|['SERVICES']",
   "ACTIVE|6|['SERVICES']",
   "ACTIVE|E1|['SERVICES']",
   "ACTIVE|E1|['SUPPLIES']",
@@ -203,6 +198,157 @@
   {
    "cpvAdditionalCodes": [
     {
+     "code": "45331000-6",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Heating, ventilation and air-conditioning installation work"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux d'installation de matériel de chauffage, de ventilation et de climatisation"
+      },
+      {
+       "language": "NL",
+       "text": "Installeren van verwarming, ventilatie en airconditioning"
+      },
+      {
+       "language": "DE",
+       "text": "Installation von Heizungs-, Lüftungs- und Klimaanlagen"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45300000-0",
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Travaux d'équipement du bâtiment"
+     },
+     {
+      "language": "EN",
+      "text": "Building installation work"
+     },
+     {
+      "language": "NL",
+      "text": "Installatiewerkzaamheden in de bouw"
+     },
+     {
+      "language": "DE",
+      "text": "Bauinstallationsarbeiten"
+     }
+    ]
+   },
+   "dispatchDate": "2026-10-31",
+   "dossier": {
+    "accreditations": {
+     "D17": 2
+    },
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Il s'agit de la fourniture et de l'installation de 2 chaudières à pellets de bois et de la création d'un réseau de chaleur pour alimenter 3 bâtiments appartenant à la Ville de Walcourt."
+     }
+    ],
+    "enterpriseCategories": [
+     {
+      "categoryCode": "D17",
+      "levels": [
+       1,
+       2
+      ]
+     }
+    ],
+    "legalBasis": "D24",
+    "number": "2026/1655 - 90759-WAL-CHAUFFERIE BIOMASSE",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "2026/1655 - 90759-WAL-CHAUFFERIE BIOMASSE",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Fourniture et installation d’une chaufferie biomasse et d’un réseau de chaleur pour l’Administration communale de Walcourt"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-31",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Il s'agit de la fourniture et de l'installation de 2 chaudières à pellets de bois et de la création d'un réseau de chaleur pour alimenter 3 bâtiments appartenant à la Ville de Walcourt."
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "2026/1655 - 90759-WAL-CHAUFFERIE BIOMASSE - 1"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "badc2937-b735-41f1-8b65-1f5a7367ff52"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE353"
+   ],
+   "organisation": {
+    "organisationId": 817,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "Walcourt"
+     },
+     {
+      "language": "NL",
+      "text": "Walcourt"
+     },
+     {
+      "language": "FR",
+      "text": "Walcourt"
+     },
+     {
+      "language": "EN",
+      "text": "Walcourt"
+     }
+    ],
+    "tree": "200004.200021.817"
+   },
+   "procedureId": "aa74df80-5068-4619-8e71-9e24b0e95858",
+   "publicationDate": "2026-10-31",
+   "publicationLanguages": [
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "2026/1655 - 90759-WAL-CHAUFFERIE BIOMASSE_pub02"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "f3ceac38-7c97-433c-a8aa-f449f005d71e",
+   "publishedAt": [
+    "2026-10-31T00:11:45.015589"
+   ],
+   "referenceNumber": "2026/1655 - 90759-WAL-CHAUFFERIE BIOMASSE_pub02",
+   "sentAt": [
+    "2026-10-31T00:11:45.015589"
+   ],
+   "tedPublished": false
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
      "code": "71200000-0",
      "descriptions": [
       {
@@ -335,161 +481,6 @@
     "2026-10-30T08:37:45.015597"
    ],
    "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "45333000-0",
-     "descriptions": [
-      {
-       "language": "DE",
-       "text": "Installation von Gasanlagen"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux d'installation du gaz"
-      },
-      {
-       "language": "NL",
-       "text": "Installeren van gasfittings"
-      },
-      {
-       "language": "EN",
-       "text": "Gas-fitting installation work"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "45333000-0",
-    "descriptions": [
-     {
-      "language": "DE",
-      "text": "Installation von Gasanlagen"
-     },
-     {
-      "language": "FR",
-      "text": "Travaux d'installation du gaz"
-     },
-     {
-      "language": "NL",
-      "text": "Installeren van gasfittings"
-     },
-     {
-      "language": "EN",
-      "text": "Gas-fitting installation work"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-30",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Accord-cadre - Mise en conformité des installations gaz"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP1SC-257/6146/2026-010",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "PPP1SC-257/6146/2026-010",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "Accord-cadre - Mise en conformité des installations gaz"
-     }
-    ]
-   },
-   "insertionDate": "2026-09-21",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Accord-cadre - Mise en conformité des installations gaz"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Accord-cadre - Mise en conformité des installations gaz"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "WORKS"
-   ],
-   "noticeIds": [
-    "ebe00b23-0478-4ec3-8716-788ca604360f",
-    "118050c4-3773-44db-8470-06ff24f6a1a1",
-    "83affeec-49f4-469e-8225-640c16d7d3dd",
-    "41561367-5295-490b-b998-f91fd98792a6",
-    "b1f34b4b-eb31-4baf-b32f-64a6d58e368d"
-   ],
-   "noticeSubType": "16",
-   "nutsCodes": [
-    "BE332"
-   ],
-   "organisation": {
-    "organisationId": 2414,
-    "organisationNames": [
-     {
-      "language": "EN",
-      "text": "LA MAISON SERESIENNE"
-     },
-     {
-      "language": "FR",
-      "text": "LA MAISON SERESIENNE"
-     },
-     {
-      "language": "DE",
-      "text": "LA MAISON SERESIENNE"
-     },
-     {
-      "language": "NL",
-      "text": "LA MAISON SERESIENNE"
-     }
-    ],
-    "tree": "200004.200028.2414"
-   },
-   "procedureId": "9a68f606-a1fa-4b9b-96f0-da430572cf59",
-   "publicationDate": "2026-10-30",
-   "publicationLanguages": [
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP1SC-257/6146/2026-010_001"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "da61aa47-6f9c-4195-865f-c01b2804167f",
-   "publishedAt": [
-    "2026-10-30T08:10:45.016337",
-    "2026-10-20T13:41:45.026931",
-    "2026-10-02T08:34:45.017598",
-    "2026-10-30T08:32:45.050294",
-    "2026-09-21T14:46:46.013873"
-   ],
-   "referenceNumber": "PPP1SC-257/6146/2026-010_001",
-   "sentAt": [
-    "2026-10-30T08:10:45.016337",
-    "2026-10-20T13:41:45.026931",
-    "2026-10-02T08:34:45.017598",
-    "2026-10-30T08:32:45.050294",
-    "2026-09-21T14:46:46.013873"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-12T11:00:00"
   }
  ],
  "exemple_attribution": [
