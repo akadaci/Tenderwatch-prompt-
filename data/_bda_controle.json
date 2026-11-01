@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 294235
+  "totalCount": 294236
  },
  "types": [
   "ACTIVE|10|['SERVICES', 'WORKS']",
@@ -42,6 +42,170 @@
   "ACTIVE|E4|['WORKS']"
  ],
  "exemples": [
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "66000000-0",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Financial and insurance services"
+      },
+      {
+       "language": "NL",
+       "text": "Financiële en verzekeringsdiensten"
+      },
+      {
+       "language": "DE",
+       "text": "Finanz- und Versicherungsdienstleistungen"
+      },
+      {
+       "language": "FR",
+       "text": "Services financiers et d'assurance"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "66000000-0",
+    "descriptions": [
+     {
+      "language": "EN",
+      "text": "Financial and insurance services"
+     },
+     {
+      "language": "NL",
+      "text": "Financiële en verzekeringsdiensten"
+     },
+     {
+      "language": "DE",
+      "text": "Finanz- und Versicherungsdienstleistungen"
+     },
+     {
+      "language": "FR",
+      "text": "Services financiers et d'assurance"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-01",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Het voorwerp van de opdracht betreft het afsluiten van aansprakelijkheid gerelateerde polis voor het Agentschap voor Natuur en Bos, met name: - Burgerlijke aansprakelijkheid als eigenaar en/of beheerder van toegankelijke bossen en natuurreservaten in Vlaanderen. Voor verdere toelichting van de opdracht: zie deel Technische Bepalingen. "
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "ANB-MO-2026-247",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "ANB-MO-2026-247",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Afsluiten van een verzekering burgerlijke aansprakelijkheid voor de toegankelijkheid van Vlaamse Bossen en natuurreservaten"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-01",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Het voorwerp van de opdracht betreft het afsluiten van aansprakelijkheid gerelateerde polis voor het Agentschap voor Natuur en Bos, met name: - Burgerlijke aansprakelijkheid als eigenaar en/of beheerder van toegankelijke bossen en natuurreservaten in Vlaanderen. Voor verdere toelichting van de opdracht: zie deel Technische Bepalingen. "
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "ANB-MO-2026-247 - 1"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SERVICES"
+   ],
+   "noticeIds": [
+    "21424439-644b-4670-9915-540839579464"
+   ],
+   "noticeSubType": "16",
+   "nutsCodes": [
+    "BE212",
+    "BE242",
+    "BE241",
+    "BE211",
+    "BE224",
+    "BE257",
+    "BE223",
+    "BE258",
+    "BE256",
+    "BE225",
+    "BE255",
+    "BE254",
+    "BE253",
+    "BE252",
+    "BE251",
+    "BE235",
+    "BE236",
+    "BE234",
+    "BE100",
+    "BE233",
+    "BE232",
+    "BE231",
+    "BE213"
+   ],
+   "organisation": {
+    "organisationId": 5717,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "Agentschap voor Natuur en Bos"
+     },
+     {
+      "language": "NL",
+      "text": "Agentschap voor Natuur en Bos"
+     },
+     {
+      "language": "FR",
+      "text": "Agentschap voor Natuur en Bos"
+     },
+     {
+      "language": "EN",
+      "text": "Agentschap voor Natuur en Bos"
+     }
+    ],
+    "tree": "200003.200015.73.4646.5717"
+   },
+   "procedureId": "3a103731-459c-4024-88a0-8190a4399bac",
+   "publicationDate": "2026-11-01",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "ANB-MO-2026-247_pub01"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "aa0d0ab4-d9d1-41a4-83db-107d1d5a26ba",
+   "publishedAt": [
+    "2026-11-01T18:43:45.016438"
+   ],
+   "referenceNumber": "ANB-MO-2026-247_pub01",
+   "sentAt": [
+    "2026-11-01T18:43:45.016438"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-12-02T11:00:00"
+  },
   {
    "cpvAdditionalCodes": [
     {
@@ -334,151 +498,6 @@
     "2026-10-31T00:11:45.015589"
    ],
    "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "79311000-7",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Survey services"
-      },
-      {
-       "language": "FR",
-       "text": "Services d'études"
-      },
-      {
-       "language": "NL",
-       "text": "Uitvoeren van studies"
-      },
-      {
-       "language": "DE",
-       "text": "Umfragen"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "79311000-7",
-    "descriptions": [
-     {
-      "language": "EN",
-      "text": "Survey services"
-     },
-     {
-      "language": "FR",
-      "text": "Services d'études"
-     },
-     {
-      "language": "NL",
-      "text": "Uitvoeren van studies"
-     },
-     {
-      "language": "DE",
-      "text": "Umfragen"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-31",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "De opdracht betreft het uitvoeren van een ecohydrologische studie n.a.v. sterke en structurele verdroging in Wijnendalebos, gelegen te Torhout. Doel van de opdracht is om grondig inzicht te krijgen in de hydrografische, hydrologische en ecologische werking van het watersysteem in het studiegebied, met specifieke aandacht voor de impact van een actieve verlaging van de grondwatertafel d.m.v. drainage en vergunde en niet-vergunde grondwateronttrekkingen in de ruime omgeving van het studiegebied op het watersysteem. De resultaten van deze opdracht zullen worden gebruikt voor de ecohydrologische onderbouwing van inrichtingskeuzes die gemaakt worden rond waterbeheer en de ondersteuning van het vergunningen- en handhavingsbeleid m.b.t. grondwateronttrekkingen binnen het studiegebied."
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "ANB-GP-2026-233",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "ANB-GP-2026-233",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Ecohydrologische studie n.a.v. structurele verdroging van Wijnendalebos (Torhout)"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-19",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "De opdracht betreft het uitvoeren van een ecohydrologische studie n.a.v. sterke en structurele verdroging in Wijnendalebos, gelegen te Torhout. Doel van de opdracht is om grondig inzicht te krijgen in de hydrografische, hydrologische en ecologische werking van het watersysteem in het studiegebied, met specifieke aandacht voor de impact van een actieve verlaging van de grondwatertafel d.m.v. drainage en vergunde en niet-vergunde grondwateronttrekkingen in de ruime omgeving van het studiegebied op het watersysteem. De resultaten van deze opdracht zullen worden gebruikt voor de ecohydrologische onderbouwing van inrichtingskeuzes die gemaakt worden rond waterbeheer en de ondersteuning van het vergunningen- en handhavingsbeleid m.b.t. grondwateronttrekkingen binnen het studiegebied."
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "ANB-GP-2026-233 - 1"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SERVICES"
-   ],
-   "noticeIds": [
-    "ff662814-7827-478d-aaeb-a36237089214",
-    "0c229382-8a1d-442f-b9e6-c0d7797daba1"
-   ],
-   "noticeSubType": "16",
-   "nutsCodes": [
-    "BE251"
-   ],
-   "organisation": {
-    "organisationId": 5717,
-    "organisationNames": [
-     {
-      "language": "DE",
-      "text": "Agentschap voor Natuur en Bos"
-     },
-     {
-      "language": "NL",
-      "text": "Agentschap voor Natuur en Bos"
-     },
-     {
-      "language": "FR",
-      "text": "Agentschap voor Natuur en Bos"
-     },
-     {
-      "language": "EN",
-      "text": "Agentschap voor Natuur en Bos"
-     }
-    ],
-    "tree": "200003.200015.73.4646.5717"
-   },
-   "procedureId": "54d3a5d7-c71b-4617-94a3-da9744b34c33",
-   "publicationDate": "2026-10-31",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "ANB-GP-2026-233_pub01"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "d677cc68-8a7c-4bb9-bf55-2250c6450f4c",
-   "publishedAt": [
-    "2026-10-31T08:41:45.038911",
-    "2026-10-19T21:10:45.017633"
-   ],
-   "referenceNumber": "ANB-GP-2026-233_pub01",
-   "sentAt": [
-    "2026-10-31T08:41:45.038911",
-    "2026-10-19T21:10:45.017633"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-19T13:00:00"
   }
  ],
  "exemple_attribution": [
