@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 294236
+  "totalCount": 294243
  },
  "types": [
   "ACTIVE|10|['SERVICES', 'WORKS']",
@@ -45,392 +45,118 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "66000000-0",
+     "code": "45210000-2",
      "descriptions": [
       {
        "language": "EN",
-       "text": "Financial and insurance services"
-      },
-      {
-       "language": "NL",
-       "text": "Financiële en verzekeringsdiensten"
+       "text": "Building construction work"
       },
       {
        "language": "DE",
-       "text": "Finanz- und Versicherungsdienstleistungen"
+       "text": "Bauleistungen im Hochbau"
       },
       {
        "language": "FR",
-       "text": "Services financiers et d'assurance"
+       "text": "Travaux de construction de bâtiments"
+      },
+      {
+       "language": "NL",
+       "text": "Bouwen van gebouwen"
       }
      ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "66000000-0",
-    "descriptions": [
-     {
-      "language": "EN",
-      "text": "Financial and insurance services"
-     },
-     {
-      "language": "NL",
-      "text": "Financiële en verzekeringsdiensten"
-     },
-     {
-      "language": "DE",
-      "text": "Finanz- und Versicherungsdienstleistungen"
-     },
-     {
-      "language": "FR",
-      "text": "Services financiers et d'assurance"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-01",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Het voorwerp van de opdracht betreft het afsluiten van aansprakelijkheid gerelateerde polis voor het Agentschap voor Natuur en Bos, met name: - Burgerlijke aansprakelijkheid als eigenaar en/of beheerder van toegankelijke bossen en natuurreservaten in Vlaanderen. Voor verdere toelichting van de opdracht: zie deel Technische Bepalingen. "
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "ANB-MO-2026-247",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "ANB-MO-2026-247",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Afsluiten van een verzekering burgerlijke aansprakelijkheid voor de toegankelijkheid van Vlaamse Bossen en natuurreservaten"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-01",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Het voorwerp van de opdracht betreft het afsluiten van aansprakelijkheid gerelateerde polis voor het Agentschap voor Natuur en Bos, met name: - Burgerlijke aansprakelijkheid als eigenaar en/of beheerder van toegankelijke bossen en natuurreservaten in Vlaanderen. Voor verdere toelichting van de opdracht: zie deel Technische Bepalingen. "
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "ANB-MO-2026-247 - 1"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SERVICES"
-   ],
-   "noticeIds": [
-    "21424439-644b-4670-9915-540839579464"
-   ],
-   "noticeSubType": "16",
-   "nutsCodes": [
-    "BE212",
-    "BE242",
-    "BE241",
-    "BE211",
-    "BE224",
-    "BE257",
-    "BE223",
-    "BE258",
-    "BE256",
-    "BE225",
-    "BE255",
-    "BE254",
-    "BE253",
-    "BE252",
-    "BE251",
-    "BE235",
-    "BE236",
-    "BE234",
-    "BE100",
-    "BE233",
-    "BE232",
-    "BE231",
-    "BE213"
-   ],
-   "organisation": {
-    "organisationId": 5717,
-    "organisationNames": [
-     {
-      "language": "DE",
-      "text": "Agentschap voor Natuur en Bos"
-     },
-     {
-      "language": "NL",
-      "text": "Agentschap voor Natuur en Bos"
-     },
-     {
-      "language": "FR",
-      "text": "Agentschap voor Natuur en Bos"
-     },
-     {
-      "language": "EN",
-      "text": "Agentschap voor Natuur en Bos"
-     }
-    ],
-    "tree": "200003.200015.73.4646.5717"
-   },
-   "procedureId": "3a103731-459c-4024-88a0-8190a4399bac",
-   "publicationDate": "2026-11-01",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "ANB-MO-2026-247_pub01"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "aa0d0ab4-d9d1-41a4-83db-107d1d5a26ba",
-   "publishedAt": [
-    "2026-11-01T18:43:45.016438"
-   ],
-   "referenceNumber": "ANB-MO-2026-247_pub01",
-   "sentAt": [
-    "2026-11-01T18:43:45.016438"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-12-02T11:00:00"
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "79980000-7",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Services d'abonnement"
-      },
-      {
-       "language": "NL",
-       "text": "Abonnementsdiensten"
-      },
-      {
-       "language": "DE",
-       "text": "Abonnementdienste"
-      },
-      {
-       "language": "EN",
-       "text": "Subscription services"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "79980000-7",
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Services d'abonnement"
-     },
-     {
-      "language": "NL",
-      "text": "Abonnementsdiensten"
-     },
-     {
-      "language": "DE",
-      "text": "Abonnementdienste"
-     },
-     {
-      "language": "EN",
-      "text": "Subscription services"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-31",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "VITO wenst als technologisch onderzoeksinstelling het beheer van tijdschriftabonnementen te laten  optimaliseren en beheren door een dienstverlener. Het gaat voornamelijk over  wetenschappelijk gerelateerde informatie, bij voorkeur in digitale vorm."
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP04G-1251/6492/1251 VITO BIB",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "PPP04G-1251/6492/1251 VITO BIB",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Raamovereenkomst voor abonnementenbeheer"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-31",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "[aan te vullen samen met eindgebruiker]"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Raamovereenkomst voor abonnementenbeheer"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SERVICES"
-   ],
-   "noticeIds": [
-    "5a8add02-2d71-4841-89d8-20221066ba96"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE213"
-   ],
-   "organisation": {
-    "organisationId": 5690,
-    "organisationNames": [
-     {
-      "language": "DE",
-      "text": "VITO"
-     },
-     {
-      "language": "NL",
-      "text": "VITO"
-     },
-     {
-      "language": "FR",
-      "text": "VITO"
-     },
-     {
-      "language": "EN",
-      "text": "VITO"
-     }
-    ],
-    "tree": "200003.200015.73.4641.5690"
-   },
-   "procedureId": "fe5d84b8-6929-42b0-94db-2d2918337e1f",
-   "publicationDate": "2026-10-31",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP04G-1251/6492/1251 VITO BIB_002"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "cf37b99a-6888-4e25-8a19-0aad7e55b5a9",
-   "publishedAt": [
-    "2026-10-31T00:00:45.06051"
-   ],
-   "referenceNumber": "PPP04G-1251/6492/1251 VITO BIB_002",
-   "sentAt": [
-    "2026-10-31T00:00:45.06051"
-   ],
-   "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "45331000-6",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Heating, ventilation and air-conditioning installation work"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux d'installation de matériel de chauffage, de ventilation et de climatisation"
-      },
-      {
-       "language": "NL",
-       "text": "Installeren van verwarming, ventilatie en airconditioning"
-      },
-      {
-       "language": "DE",
-       "text": "Installation von Heizungs-, Lüftungs- und Klimaanlagen"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "45300000-0",
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Travaux d'équipement du bâtiment"
-     },
-     {
-      "language": "EN",
-      "text": "Building installation work"
-     },
-     {
-      "language": "NL",
-      "text": "Installatiewerkzaamheden in de bouw"
-     },
-     {
-      "language": "DE",
-      "text": "Bauinstallationsarbeiten"
-     }
-    ]
-   },
-   "dispatchDate": "2026-10-31",
-   "dossier": {
-    "accreditations": {
-     "D17": 2
     },
+    {
+     "code": "45211000-9",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Travaux de construction d'immeubles collectifs et de maisons individuelles"
+      },
+      {
+       "language": "EN",
+       "text": "Construction work for multi-dwelling buildings and individual houses"
+      },
+      {
+       "language": "NL",
+       "text": "Bouwwerkzaamheden voor meergezins- en eengezinswoningen"
+      },
+      {
+       "language": "DE",
+       "text": "Bauarbeiten für Mehrfamilienhäuser und Einfamilienhäuser"
+      }
+     ]
+    },
+    {
+     "code": "45000000-7",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Bauarbeiten"
+      },
+      {
+       "language": "NL",
+       "text": "Bouwwerkzaamheden"
+      },
+      {
+       "language": "EN",
+       "text": "Construction work"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de construction"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45000000-7",
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Il s'agit de la fourniture et de l'installation de 2 chaudières à pellets de bois et de la création d'un réseau de chaleur pour alimenter 3 bâtiments appartenant à la Ville de Walcourt."
-     }
-    ],
-    "enterpriseCategories": [
+      "language": "DE",
+      "text": "Bauarbeiten"
+     },
      {
-      "categoryCode": "D17",
-      "levels": [
-       1,
-       2
-      ]
-     }
-    ],
-    "legalBasis": "D24",
-    "number": "2026/1655 - 90759-WAL-CHAUFFERIE BIOMASSE",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "2026/1655 - 90759-WAL-CHAUFFERIE BIOMASSE",
-    "titles": [
+      "language": "NL",
+      "text": "Bouwwerkzaamheden"
+     },
+     {
+      "language": "EN",
+      "text": "Construction work"
+     },
      {
       "language": "FR",
-      "text": "Fourniture et installation d’une chaufferie biomasse et d’un réseau de chaleur pour l’Administration communale de Walcourt"
+      "text": "Travaux de construction"
      }
     ]
    },
-   "insertionDate": "2026-10-31",
+   "dispatchDate": "2026-11-02",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "De opdracht(en) gaat/gaan over de nieuwbouw van 8 sociale woningen /appartementen.   Plaats van uitvoering: straat/wijk: Pastoor Dergentstraat 1 bus 1 tem 5 en Thomas De Backerstraat 12, 14, 16, Geel. "
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP203-1176/6298/2026-1176",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "PPP203-1176/6298/2026-1176",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "PJ: Geel, Thomas De Backerstraat - nieuwbouw van 8 woningen"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-02",
    "lots": [
     {
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Il s'agit de la fourniture et de l'installation de 2 chaudières à pellets de bois et de la création d'un réseau de chaleur pour alimenter 3 bâtiments appartenant à la Ville de Walcourt."
+       "language": "NL",
+       "text": "De opdracht(en) gaat/gaan over de nieuwbouw van 8 sociale woningen /appartementen.   Plaats van uitvoering: straat/wijk: Pastoor Dergentstraat 1 bus 1 tem 5 en Thomas De Backerstraat 12, 14, 16, Geel. "
       }
      ],
      "reservedExecution": [
@@ -441,8 +167,8 @@
      ],
      "titles": [
       {
-       "language": "FR",
-       "text": "2026/1655 - 90759-WAL-CHAUFFERIE BIOMASSE - 1"
+       "language": "NL",
+       "text": "PJ: Geel, Thomas De Backerstraat - nieuwbouw van 8 woningen"
       }
      ]
     }
@@ -451,130 +177,128 @@
     "WORKS"
    ],
    "noticeIds": [
-    "badc2937-b735-41f1-8b65-1f5a7367ff52"
+    "374a6fdd-b009-4678-a3c3-94674feb2330"
    ],
-   "noticeSubType": "E4",
+   "noticeSubType": "16",
    "nutsCodes": [
-    "BE353"
+    "BE213"
    ],
    "organisation": {
-    "organisationId": 817,
+    "organisationId": 786,
     "organisationNames": [
      {
-      "language": "DE",
-      "text": "Walcourt"
+      "language": "EN",
+      "text": "Geelse Huisvesting C.V.B.A."
      },
      {
       "language": "NL",
-      "text": "Walcourt"
+      "text": "LeefGoed"
+     },
+     {
+      "language": "DE",
+      "text": "Geelse Huisvesting C.V.B.A."
      },
      {
       "language": "FR",
-      "text": "Walcourt"
-     },
-     {
-      "language": "EN",
-      "text": "Walcourt"
+      "text": "Geelse Huisvesting C.V.B.A."
      }
     ],
-    "tree": "200004.200021.817"
+    "tree": "200004.200028.786"
    },
-   "procedureId": "aa74df80-5068-4619-8e71-9e24b0e95858",
-   "publicationDate": "2026-10-31",
+   "procedureId": "21af7aff-3181-42e3-ab63-a019cb5a4dbe",
+   "publicationDate": "2026-11-02",
    "publicationLanguages": [
-    "FR"
+    "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "2026/1655 - 90759-WAL-CHAUFFERIE BIOMASSE_pub02"
+    "PPP203-1176/6298/2026-1176_001"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "f3ceac38-7c97-433c-a8aa-f449f005d71e",
+   "publicationWorkspaceId": "73362901-30f7-47a1-bd1f-4d29b31b5e32",
    "publishedAt": [
-    "2026-10-31T00:11:45.015589"
+    "2026-11-02T00:00:45.023492"
    ],
-   "referenceNumber": "2026/1655 - 90759-WAL-CHAUFFERIE BIOMASSE_pub02",
+   "referenceNumber": "PPP203-1176/6298/2026-1176_001",
    "sentAt": [
-    "2026-10-31T00:11:45.015589"
+    "2026-11-02T00:00:45.023492"
    ],
-   "tedPublished": false
-  }
- ],
- "exemple_attribution": [
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-12-04T13:00:00"
+  },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "79980000-7",
+     "code": "45261100-5",
      "descriptions": [
       {
+       "language": "DE",
+       "text": "Errichtung von Dachstühlen"
+      },
+      {
        "language": "FR",
-       "text": "Services d'abonnement"
+       "text": "Travaux de charpente"
       },
       {
        "language": "NL",
-       "text": "Abonnementsdiensten"
-      },
-      {
-       "language": "DE",
-       "text": "Abonnementdienste"
+       "text": "Dakconstructiewerkzaamheden"
       },
       {
        "language": "EN",
-       "text": "Subscription services"
+       "text": "Roof-framing work"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "79980000-7",
+    "code": "45261000-4",
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Services d'abonnement"
-     },
-     {
       "language": "NL",
-      "text": "Abonnementsdiensten"
+      "text": "Installatie- en aanverwante werkzaamheden voor dakconstructies en -bedekking"
      },
      {
-      "language": "DE",
-      "text": "Abonnementdienste"
+      "language": "FR",
+      "text": "Travaux de charpente et de couverture et travaux connexes"
      },
      {
       "language": "EN",
-      "text": "Subscription services"
+      "text": "Erection and related works of roof frames and coverings"
+     },
+     {
+      "language": "DE",
+      "text": "Errichtung von Dachstühlen sowie Dachdeckarbeiten und zugehörige Arbeiten"
      }
     ]
    },
-   "dispatchDate": "2026-10-31",
+   "dispatchDate": "2026-11-02",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
       "language": "NL",
-      "text": "VITO wenst als technologisch onderzoeksinstelling het beheer van tijdschriftabonnementen te laten  optimaliseren en beheren door een dienstverlener. Het gaat voornamelijk over  wetenschappelijk gerelateerde informatie, bij voorkeur in digitale vorm."
+      "text": "het vernieuwen van het dak van de kapel van Don Bosco Hechtel"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP04G-1251/6492/1251 VITO BIB",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "PPP04G-1251/6492/1251 VITO BIB",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "number": "DBOC-2026-09-DBHECH-KAPEL",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "DBOC-2026-09-DBHECH-KAPEL",
     "titles": [
      {
       "language": "NL",
-      "text": "Raamovereenkomst voor abonnementenbeheer"
+      "text": "Vernieuwen dak van de kapel van Don Bosco Hechtel"
      }
     ]
    },
-   "insertionDate": "2026-10-31",
+   "insertionDate": "2026-11-02",
    "lots": [
     {
      "descriptions": [
       {
        "language": "NL",
-       "text": "[aan te vullen samen met eindgebruiker]"
+       "text": "Vernieuwen van het dak van de kapel DB Hechtel"
       }
      ],
      "reservedExecution": [
@@ -586,60 +310,345 @@
      "titles": [
       {
        "language": "NL",
-       "text": "Raamovereenkomst voor abonnementenbeheer"
+       "text": "DBOC-2026-09-DBHECH-KAPEL - 1"
       }
      ]
     }
    ],
    "natures": [
-    "SERVICES"
+    "WORKS"
    ],
    "noticeIds": [
-    "5a8add02-2d71-4841-89d8-20221066ba96"
+    "10cc4dd1-0e1c-4e92-a45d-56ff12df1915"
    ],
-   "noticeSubType": "E4",
+   "noticeSubType": "16",
    "nutsCodes": [
-    "BE213"
+    "BE224"
    ],
    "organisation": {
-    "organisationId": 5690,
+    "organisationId": 1633,
     "organisationNames": [
      {
+      "language": "EN",
+      "text": "Don Boscoonderwijscentrum"
+     },
+     {
       "language": "DE",
-      "text": "VITO"
+      "text": "Don Bosco Onderwijscentrum"
      },
      {
       "language": "NL",
-      "text": "VITO"
+      "text": "Don Bosco Onderwijscentrum"
      },
      {
       "language": "FR",
-      "text": "VITO"
-     },
-     {
-      "language": "EN",
-      "text": "VITO"
+      "text": "Don Boscoonderwijscentrum"
      }
     ],
-    "tree": "200003.200015.73.4641.5690"
+    "tree": "200004.200026.1633"
    },
-   "procedureId": "fe5d84b8-6929-42b0-94db-2d2918337e1f",
-   "publicationDate": "2026-10-31",
+   "procedureId": "a1a7ccd3-fd61-44c0-9aa2-787291b83e25",
+   "publicationDate": "2026-11-02",
    "publicationLanguages": [
     "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP04G-1251/6492/1251 VITO BIB_002"
+    "DBOC-2026-09-DBHECH-KAPEL_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "cf37b99a-6888-4e25-8a19-0aad7e55b5a9",
+   "publicationWorkspaceId": "ad5e9b60-ca2d-4840-ad7a-28091fdb6ead",
    "publishedAt": [
-    "2026-10-31T00:00:45.06051"
+    "2026-11-02T00:00:46.084269"
    ],
-   "referenceNumber": "PPP04G-1251/6492/1251 VITO BIB_002",
+   "referenceNumber": "DBOC-2026-09-DBHECH-KAPEL_pub01",
    "sentAt": [
-    "2026-10-31T00:00:45.06051"
+    "2026-11-02T00:00:46.084269"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-12-02T10:00:00"
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45262660-5",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Verwijderen van asbest"
+      },
+      {
+       "language": "DE",
+       "text": "Asbestbeseitigungsarbeiten"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de désamiantage"
+      },
+      {
+       "language": "EN",
+       "text": "Asbestos-removal work"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45262660-5",
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Verwijderen van asbest"
+     },
+     {
+      "language": "DE",
+      "text": "Asbestbeseitigungsarbeiten"
+     },
+     {
+      "language": "FR",
+      "text": "Travaux de désamiantage"
+     },
+     {
+      "language": "EN",
+      "text": "Asbestos-removal work"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-02",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Als voorbereidende werken op de totaalrenovatie Technicum blok 4 (T4) en de Technicumtoren dienen de caniveaus rondom T4 gesaneerd te worden. Deze caniveaus bevatten een aantal leidingen met asbesthoudende isolatie en door de slechte staat van de leidingisolatie zijn de caniveaus gecontamineerd met asbest. Later wil men deze caniveaus opnieuw gebruiken om nieuwe leidingen in te leggen. De uitvoering verloopt in twee fasen :  - Tussen T4 en Therminal : tussen 1 juni en 31 juli 2027 (ongeveer 3 weken)  - Tussen T4 en De Brug + Engelse koer : tussen 1 februari 2027 en 31 maart 2027 (ongeveer 8 weken)  De exacte timing is later af te spreken in functie van de grote renovatiewerkzaamheden aan T4.  "
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP01G-3562/6698/WA116372",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "PPP01G-3562/6698/WA116372",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Sanering van caniveaus en asbestverwijdering"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-02",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Als voorbereidende werken op de totaalrenovatie Technicum blok 4 (T4) en de Technicumtoren dienen de caniveaus rondom T4 gesaneerd te worden. Deze caniveaus bevatten een aantal leidingen met asbesthoudende isolatie en door de slechte staat van de leidingisolatie zijn de caniveaus gecontamineerd met asbest. Later wil men deze caniveaus opnieuw gebruiken om nieuwe leidingen in te leggen. De uitvoering verloopt in twee fasen :  - Tussen T4 en Therminal : tussen 1 juni en 31 juli 2027 (ongeveer 3 weken)  - Tussen T4 en De Brug + Engelse koer : tussen 1 februari 2027 en 31 maart 2027 (ongeveer 8 weken)  De exacte timing is later af te spreken in functie van de grote renovatiewerkzaamheden aan T4.  "
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Sanering van caniveaus en asbestverwijdering"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "941bae0a-e195-408a-988b-37853ff3ff09"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE234"
+   ],
+   "organisation": {
+    "organisationId": 160,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "Universiteit Gent"
+     },
+     {
+      "language": "NL",
+      "text": "Universiteit Gent"
+     },
+     {
+      "language": "FR",
+      "text": "Universiteit Gent"
+     },
+     {
+      "language": "EN",
+      "text": "Universiteit Gent"
+     }
+    ],
+    "tree": "200004.200026.160"
+   },
+   "procedureId": "05fe50fd-dbd5-4ad5-ae26-18af87c0319a",
+   "publicationDate": "2026-11-02",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP01G-3562/6698/WA116372_002"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "53bd34d3-81b6-4bbb-9484-dd4036a192fa",
+   "publishedAt": [
+    "2026-11-02T00:00:47.586491"
+   ],
+   "referenceNumber": "PPP01G-3562/6698/WA116372_002",
+   "sentAt": [
+    "2026-11-02T00:00:47.586491"
+   ],
+   "tedPublished": false
+  }
+ ],
+ "exemple_attribution": [
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45262660-5",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Verwijderen van asbest"
+      },
+      {
+       "language": "DE",
+       "text": "Asbestbeseitigungsarbeiten"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de désamiantage"
+      },
+      {
+       "language": "EN",
+       "text": "Asbestos-removal work"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45262660-5",
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Verwijderen van asbest"
+     },
+     {
+      "language": "DE",
+      "text": "Asbestbeseitigungsarbeiten"
+     },
+     {
+      "language": "FR",
+      "text": "Travaux de désamiantage"
+     },
+     {
+      "language": "EN",
+      "text": "Asbestos-removal work"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-02",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Als voorbereidende werken op de totaalrenovatie Technicum blok 4 (T4) en de Technicumtoren dienen de caniveaus rondom T4 gesaneerd te worden. Deze caniveaus bevatten een aantal leidingen met asbesthoudende isolatie en door de slechte staat van de leidingisolatie zijn de caniveaus gecontamineerd met asbest. Later wil men deze caniveaus opnieuw gebruiken om nieuwe leidingen in te leggen. De uitvoering verloopt in twee fasen :  - Tussen T4 en Therminal : tussen 1 juni en 31 juli 2027 (ongeveer 3 weken)  - Tussen T4 en De Brug + Engelse koer : tussen 1 februari 2027 en 31 maart 2027 (ongeveer 8 weken)  De exacte timing is later af te spreken in functie van de grote renovatiewerkzaamheden aan T4.  "
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP01G-3562/6698/WA116372",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "PPP01G-3562/6698/WA116372",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Sanering van caniveaus en asbestverwijdering"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-02",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Als voorbereidende werken op de totaalrenovatie Technicum blok 4 (T4) en de Technicumtoren dienen de caniveaus rondom T4 gesaneerd te worden. Deze caniveaus bevatten een aantal leidingen met asbesthoudende isolatie en door de slechte staat van de leidingisolatie zijn de caniveaus gecontamineerd met asbest. Later wil men deze caniveaus opnieuw gebruiken om nieuwe leidingen in te leggen. De uitvoering verloopt in twee fasen :  - Tussen T4 en Therminal : tussen 1 juni en 31 juli 2027 (ongeveer 3 weken)  - Tussen T4 en De Brug + Engelse koer : tussen 1 februari 2027 en 31 maart 2027 (ongeveer 8 weken)  De exacte timing is later af te spreken in functie van de grote renovatiewerkzaamheden aan T4.  "
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Sanering van caniveaus en asbestverwijdering"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "941bae0a-e195-408a-988b-37853ff3ff09"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE234"
+   ],
+   "organisation": {
+    "organisationId": 160,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "Universiteit Gent"
+     },
+     {
+      "language": "NL",
+      "text": "Universiteit Gent"
+     },
+     {
+      "language": "FR",
+      "text": "Universiteit Gent"
+     },
+     {
+      "language": "EN",
+      "text": "Universiteit Gent"
+     }
+    ],
+    "tree": "200004.200026.160"
+   },
+   "procedureId": "05fe50fd-dbd5-4ad5-ae26-18af87c0319a",
+   "publicationDate": "2026-11-02",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP01G-3562/6698/WA116372_002"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "53bd34d3-81b6-4bbb-9484-dd4036a192fa",
+   "publishedAt": [
+    "2026-11-02T00:00:47.586491"
+   ],
+   "referenceNumber": "PPP01G-3562/6698/WA116372_002",
+   "sentAt": [
+    "2026-11-02T00:00:47.586491"
    ],
    "tedPublished": false
   }
