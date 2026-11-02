@@ -1,10 +1,11 @@
 {
  "meta": {
-  "totalCount": 294312
+  "totalCount": 294326
  },
  "types": [
   "ACTIVE|10|['SERVICES', 'WORKS']",
   "ACTIVE|10|['SERVICES']",
+  "ACTIVE|10|['WORKS']",
   "ACTIVE|16|['SERVICES', 'SUPPLIES']",
   "ACTIVE|16|['SERVICES', 'WORKS']",
   "ACTIVE|16|['SERVICES']",
@@ -22,9 +23,11 @@
   "ACTIVE|29|['SUPPLIES']",
   "ACTIVE|29|['WORKS']",
   "ACTIVE|30|['SERVICES']",
+  "ACTIVE|33|['SERVICES', 'SUPPLIES']",
   "ACTIVE|33|['SERVICES']",
   "ACTIVE|33|['SUPPLIES']",
   "ACTIVE|33|['WORKS']",
+  "ACTIVE|34|['SUPPLIES']",
   "ACTIVE|E1|['SERVICES']",
   "ACTIVE|E3|['SERVICES', 'SUPPLIES']",
   "ACTIVE|E3|['SERVICES', 'WORKS']",
@@ -40,45 +43,45 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "30232100-5",
+     "code": "71000000-8",
      "descriptions": [
       {
-       "language": "DE",
-       "text": "Drucker und Plotter"
-      },
-      {
-       "language": "EN",
-       "text": "Printers and plotters"
+       "language": "NL",
+       "text": "Dienstverlening op het gebied van architectuur, bouwkunde, civiele techniek en inspectie"
       },
       {
        "language": "FR",
-       "text": "Imprimantes et traceurs"
+       "text": "Services d'architecture, services de construction, services d'ingénierie et services d'inspection"
       },
       {
-       "language": "NL",
-       "text": "Printers en plotters"
+       "language": "DE",
+       "text": "Dienstleistungen von Architektur-, Konstruktions- und Ingenieurbüros und Prüfstellen"
+      },
+      {
+       "language": "EN",
+       "text": "Architectural, construction, engineering and inspection services"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "30232100-5",
+    "code": "71000000-8",
     "descriptions": [
      {
-      "language": "DE",
-      "text": "Drucker und Plotter"
-     },
-     {
-      "language": "EN",
-      "text": "Printers and plotters"
+      "language": "NL",
+      "text": "Dienstverlening op het gebied van architectuur, bouwkunde, civiele techniek en inspectie"
      },
      {
       "language": "FR",
-      "text": "Imprimantes et traceurs"
+      "text": "Services d'architecture, services de construction, services d'ingénierie et services d'inspection"
      },
      {
-      "language": "NL",
-      "text": "Printers en plotters"
+      "language": "DE",
+      "text": "Dienstleistungen von Architektur-, Konstruktions- und Ingenieurbüros und Prüfstellen"
+     },
+     {
+      "language": "EN",
+      "text": "Architectural, construction, engineering and inspection services"
      }
     ]
    },
@@ -88,28 +91,28 @@
     "descriptions": [
      {
       "language": "FR",
-      "text": "Le marché a pour objet la fourniture d’imprimantes de bureau ainsi que des consommables correspondants à celles-ci.  Ce marché concerne l’ensemble des sites d’ISoSL. "
+      "text": "Il s'agit d'un marché conjoint (IDELUX Projets publics - Commune de Florenville) portant sur la désignation d'un auteur de projet dans le cadre d'une importante rénovation énergétique du bâtiment de l'Administration communale de Florenville et de son \"Espace Florenville\" (rue du Château, 5 à 6820 Florenville) dans le cadre de la programmation « FEDER 2021-2027 – Mesure 8 ».       Le soumissionnaire a l’obligation de visiter les lieux concernés afin d’appréhender toutes les conditions particulières d’exécution du présent marché.  Les dates de visite sont fixées :   • Jeudi 5 novembre 2026 à 13h30  • Jeudi 12 novembre 2026 à 13h30  • Mardi 17 novembre 2026 à 13h30    Ces dates pourraient être amenées à évoluer selon les besoins.      Dans tous les cas, pour la bonne organisation des visites, chaque soumissionnaire doit obligatoirement prendre rendez-vous par mail ou par téléphone avec Richard CONSTANT – 0496 549 516 – richard.constant@idelux.be "
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "CSCH_IT-2026-05",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "CSCH_IT-2026-05",
+    "number": "022-2026 PO",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "022-2026 PO",
     "titles": [
      {
       "language": "FR",
-      "text": "Imprimantes de bureaux et consommables"
+      "text": "FEDER - Florenville - Rénovation énergétique - Désignation AP"
      }
     ]
    },
-   "insertionDate": "2026-11-02",
+   "insertionDate": "2026-10-20",
    "lots": [
     {
      "descriptions": [
       {
        "language": "FR",
-       "text": "Le marché a pour objet la fourniture d’imprimantes de bureau ainsi que des consommables correspondants à celles-ci.  Ce marché concerne l’ensemble des sites d’ISoSL. "
+       "text": "Il s'agit d'un marché conjoint (IDELUX Projets publics - Commune de Florenville) portant sur la désignation d'un auteur de projet dans le cadre d'une importante rénovation énergétique du bâtiment de l'Administration communale de Florenville et de son \"Espace Florenville\" (rue du Château, 5 à 6820 Florenville) dans le cadre de la programmation « FEDER 2021-2027 – Mesure 8 ».      Le soumissionnaire a l’obligation de visiter les lieux concernés afin d’appréhender toutes les conditions particulières d’exécution du présent marché.  Les dates de visite sont fixées :  • Jeudi 5 novembre 2026 à 13h30 • Jeudi 12 novembre 2026 à 13h30 • Mardi 17 novembre 2026 à 13h30  Ces dates pourraient être amenées à évoluer selon les besoins.     Dans tous les cas, pour la bonne organisation des visites, chaque soumissionnaire doit obligatoirement prendre rendez-vous par mail ou par téléphone avec Richard CONSTANT – 0496 549 516 – richard.constant@idelux.be "
       }
      ],
      "reservedExecution": [
@@ -121,105 +124,150 @@
      "titles": [
       {
        "language": "FR",
-       "text": "CSCH_IT-2026-05 - 1"
+       "text": "022-2026 PO - 1"
       }
      ]
     }
    ],
    "natures": [
-    "SUPPLIES"
+    "SERVICES"
    ],
    "noticeIds": [
-    "ab50b57e-5dba-41b5-b254-2bea73a17103"
+    "1129f6eb-3cbd-426b-9b69-7b1e716a2dee",
+    "3eedeaf0-9600-466c-ae28-f592aec2336e"
    ],
    "noticeSubType": "16",
    "nutsCodes": [
-    "BE332"
+    "BE345"
    ],
    "organisation": {
-    "organisationId": 739,
+    "organisationId": 2134,
     "organisationNames": [
      {
       "language": "DE",
-      "text": "Intercommunale de Soins Spécialisés de Liège  "
+      "text": "Association Intercommunale Idelux Projets publics"
      },
      {
       "language": "NL",
-      "text": "Intercommunale de Soins Spécialisés de Liège  "
-     },
-     {
-      "language": "FR",
-      "text": "Intercommunale de Soins Spécialisés de Liège  "
+      "text": "Association Intercommunale Idelux Projets publics"
      },
      {
       "language": "EN",
-      "text": "Intercommunale de Soins Spécialisés de Liège  "
+      "text": "Association Intercommunale Idelux Projets publics"
+     },
+     {
+      "language": "FR",
+      "text": "IDELUX Projets publics"
      }
     ],
-    "tree": "200004.200023.739"
+    "tree": "200004.200023.2134"
    },
-   "procedureId": "3319058c-8ce1-4446-a928-56b86f443091",
+   "procedureId": "94220a6b-c8be-456e-a510-585fcec0e160",
    "publicationDate": "2026-11-02",
    "publicationLanguages": [
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "CSCH_IT-2026-05_pub01"
+    "022-2026 PO_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "d1f288ea-6700-4a6e-b07c-d9e631af8ad5",
+   "publicationWorkspaceId": "aa503fa1-8c7e-4bf4-aca0-7b78c0b36369",
    "publishedAt": [
-    "2026-11-02T00:00:45.754919"
+    "2026-11-02T07:46:45.015297",
+    "2026-10-20T07:58:45.043749"
    ],
-   "referenceNumber": "CSCH_IT-2026-05_pub01",
+   "referenceNumber": "022-2026 PO_pub01",
    "sentAt": [
-    "2026-11-02T00:00:45.754919"
+    "2026-11-02T07:46:45.015297",
+    "2026-10-20T07:58:45.043749"
    ],
    "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-20T17:00:00"
+   "vaultSubmissionDeadline": "2026-12-02T11:00:00"
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45210000-2",
+     "code": "45331000-6",
      "descriptions": [
       {
        "language": "EN",
-       "text": "Building construction work"
-      },
-      {
-       "language": "DE",
-       "text": "Bauleistungen im Hochbau"
+       "text": "Heating, ventilation and air-conditioning installation work"
       },
       {
        "language": "FR",
-       "text": "Travaux de construction de bâtiments"
+       "text": "Travaux d'installation de matériel de chauffage, de ventilation et de climatisation"
       },
       {
        "language": "NL",
-       "text": "Bouwen van gebouwen"
+       "text": "Installeren van verwarming, ventilatie en airconditioning"
+      },
+      {
+       "language": "DE",
+       "text": "Installation von Heizungs-, Lüftungs- und Klimaanlagen"
       }
      ]
     },
     {
-     "code": "45211000-9",
+     "code": "45420000-7",
      "descriptions": [
       {
        "language": "FR",
-       "text": "Travaux de construction d'immeubles collectifs et de maisons individuelles"
-      },
-      {
-       "language": "EN",
-       "text": "Construction work for multi-dwelling buildings and individual houses"
-      },
-      {
-       "language": "NL",
-       "text": "Bouwwerkzaamheden voor meergezins- en eengezinswoningen"
+       "text": "Travaux de menuiserie et de charpenterie"
       },
       {
        "language": "DE",
-       "text": "Bauarbeiten für Mehrfamilienhäuser und Einfamilienhäuser"
+       "text": "Bautischlerei-Einbauarbeiten"
+      },
+      {
+       "language": "NL",
+       "text": "Bouwtimmerwerk en plaatsen van schrijnwerk"
+      },
+      {
+       "language": "EN",
+       "text": "Joinery and carpentry installation work"
+      }
+     ]
+    },
+    {
+     "code": "45310000-3",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Installation von elektrischen Leitungen"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux d'équipement électrique"
+      },
+      {
+       "language": "EN",
+       "text": "Electrical installation work"
+      },
+      {
+       "language": "NL",
+       "text": "Aanleg van elektriciteit"
+      }
+     ]
+    },
+    {
+     "code": "45261000-4",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Installatie- en aanverwante werkzaamheden voor dakconstructies en -bedekking"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de charpente et de couverture et travaux connexes"
+      },
+      {
+       "language": "EN",
+       "text": "Erection and related works of roof frames and coverings"
+      },
+      {
+       "language": "DE",
+       "text": "Errichtung von Dachstühlen sowie Dachdeckarbeiten und zugehörige Arbeiten"
       }
      ]
     },
@@ -241,6 +289,27 @@
       {
        "language": "FR",
        "text": "Travaux de construction"
+      }
+     ]
+    },
+    {
+     "code": "45421000-4",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Travaux de menuiserie"
+      },
+      {
+       "language": "NL",
+       "text": "Bouwtimmerwerk"
+      },
+      {
+       "language": "EN",
+       "text": "Joinery work"
+      },
+      {
+       "language": "DE",
+       "text": "Bautischlerarbeiten"
       }
      ]
     }
@@ -271,19 +340,19 @@
     "accreditations": {},
     "descriptions": [
      {
-      "language": "NL",
-      "text": "De opdracht(en) gaat/gaan over de nieuwbouw van 8 sociale woningen /appartementen.   Plaats van uitvoering: straat/wijk: Pastoor Dergentstraat 1 bus 1 tem 5 en Thomas De Backerstraat 12, 14, 16, Geel. "
+      "language": "FR",
+      "text": "Voir cahier des charges administratif"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP203-1176/6298/2026-1176",
+    "number": "T-2025-05",
     "procurementProcedureType": "OPEN",
-    "referenceNumber": "PPP203-1176/6298/2026-1176",
+    "referenceNumber": "T-2025-05",
     "titles": [
      {
-      "language": "NL",
-      "text": "PJ: Geel, Thomas De Backerstraat - nieuwbouw van 8 woningen"
+      "language": "FR",
+      "text": "Rénovation électricité & toitures"
      }
     ]
    },
@@ -292,20 +361,140 @@
     {
      "descriptions": [
       {
-       "language": "NL",
-       "text": "De opdracht(en) gaat/gaan over de nieuwbouw van 8 sociale woningen /appartementen.   Plaats van uitvoering: straat/wijk: Pastoor Dergentstraat 1 bus 1 tem 5 en Thomas De Backerstraat 12, 14, 16, Geel. "
+       "language": "FR",
+       "text": "Voir cahier des charges administratif"
       }
      ],
      "reservedExecution": [
-      "NO"
+      "YES"
      ],
      "reservedParticipation": [
       "NONE"
      ],
      "titles": [
       {
-       "language": "NL",
-       "text": "PJ: Geel, Thomas De Backerstraat - nieuwbouw van 8 woningen"
+       "language": "FR",
+       "text": "Gros œuvre"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Voir cahier des charges administratif"
+      }
+     ],
+     "reservedExecution": [
+      "YES"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Électricité"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Voir cahier des charges administratif"
+      }
+     ],
+     "reservedExecution": [
+      "YES"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Toitures"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Voir cahier spécial des charges administratif"
+      }
+     ],
+     "reservedExecution": [
+      "YES"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Menuiseries intérieures"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Voir cahier spécial des charges administratif"
+      }
+     ],
+     "reservedExecution": [
+      "YES"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Chauffage"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Voir cahier spécial des charges administratif"
+      }
+     ],
+     "reservedExecution": [
+      "YES"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Ferronnerie"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "voir cahier spécial des charges administratif"
+      }
+     ],
+     "reservedExecution": [
+      "YES"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Menuiseries extérieures"
       }
      ]
     }
@@ -314,97 +503,85 @@
     "WORKS"
    ],
    "noticeIds": [
-    "374a6fdd-b009-4678-a3c3-94674feb2330"
+    "582fa58e-29dc-4307-b123-9bf0bfcc3254"
    ],
    "noticeSubType": "16",
    "nutsCodes": [
-    "BE213"
+    "BE353"
    ],
    "organisation": {
-    "organisationId": 786,
+    "organisationId": 22661,
     "organisationNames": [
      {
-      "language": "EN",
-      "text": "Geelse Huisvesting C.V.B.A."
-     },
-     {
-      "language": "DE",
-      "text": "Geelse Huisvesting C.V.B.A."
-     },
-     {
-      "language": "NL",
-      "text": "LeefGoed"
-     },
-     {
       "language": "FR",
-      "text": "Geelse Huisvesting C.V.B.A."
+      "text": "Ecole libre des 3 vallées ASBL"
      }
     ],
-    "tree": "200004.200028.786"
+    "tree": "200004.200032.22661"
    },
-   "procedureId": "21af7aff-3181-42e3-ab63-a019cb5a4dbe",
+   "procedureId": "8e095205-de3f-48ea-9597-81c616bf9113",
    "publicationDate": "2026-11-02",
    "publicationLanguages": [
-    "NL"
+    "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP203-1176/6298/2026-1176_001"
+    "T-2025-05_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "73362901-30f7-47a1-bd1f-4d29b31b5e32",
+   "publicationWorkspaceId": "7ee96e36-e82e-45cd-a62c-e8417d5706d5",
    "publishedAt": [
-    "2026-11-02T00:00:45.023492"
+    "2026-11-02T09:01:45.023129"
    ],
-   "referenceNumber": "PPP203-1176/6298/2026-1176_001",
+   "referenceNumber": "T-2025-05_pub01",
    "sentAt": [
-    "2026-11-02T00:00:45.023492"
+    "2026-11-02T09:01:45.023129"
    ],
    "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-12-04T13:00:00"
+   "vaultSubmissionDeadline": "2026-12-08T10:20:00"
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45261100-5",
+     "code": "71317210-8",
      "descriptions": [
       {
        "language": "DE",
-       "text": "Errichtung von Dachstühlen"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de charpente"
+       "text": "Beratung im Bereich Gesundheit und Sicherheit"
       },
       {
        "language": "NL",
-       "text": "Dakconstructiewerkzaamheden"
+       "text": "Advies inzake gezondheid en veiligheid"
+      },
+      {
+       "language": "FR",
+       "text": "Services de conseil en matière de santé et de sécurité"
       },
       {
        "language": "EN",
-       "text": "Roof-framing work"
+       "text": "Health and safety consultancy services"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45261000-4",
+    "code": "71317210-8",
     "descriptions": [
      {
+      "language": "DE",
+      "text": "Beratung im Bereich Gesundheit und Sicherheit"
+     },
+     {
       "language": "NL",
-      "text": "Installatie- en aanverwante werkzaamheden voor dakconstructies en -bedekking"
+      "text": "Advies inzake gezondheid en veiligheid"
      },
      {
       "language": "FR",
-      "text": "Travaux de charpente et de couverture et travaux connexes"
+      "text": "Services de conseil en matière de santé et de sécurité"
      },
      {
       "language": "EN",
-      "text": "Erection and related works of roof frames and coverings"
-     },
-     {
-      "language": "DE",
-      "text": "Errichtung von Dachstühlen sowie Dachdeckarbeiten und zugehörige Arbeiten"
+      "text": "Health and safety consultancy services"
      }
     ]
    },
@@ -413,19 +590,20 @@
     "accreditations": {},
     "descriptions": [
      {
-      "language": "NL",
-      "text": "het vernieuwen van het dak van de kapel van Don Bosco Hechtel"
+      "language": "FR",
+      "text": "Désignation d'un coordinateur sécurité-santé sur les chantiers temporaires ou mobile suivant l'arrêté royal du 25 janvier 2001.  Le présent marché est un marché de services sens de l’article 2, 21° de la loi du 17/06/2016 relative aux marchés publics.  Son objet consiste en la mise à la disposition du pouvoir adjudicateur :  1°) d’un coordinateur aux fins de coordonner la sécurité et la santé pendant l’élaboration du projet de l’ouvrage conformément aux dispositions du présent cahier spécial des charges, dit ci-après coordinateur-projet ; 2°) d’un coordinateur aux fins de coordonner la sécurité et la santé pendant la réalisation de l’ouvrage conformément aux dispositions du présent cahier spécial des charges, dit ci-après coordinateur-réalisation.   L’ouvrage à réaliser consiste en des travaux de rénovation « légère » de notre patrimoine (maisons et appartements) à l’occasion des états des lieux de nos logements mis en locations.  A titre indicatif voici le type d’interventions, réalisées par entreprises séparées : • Rénovation complète d’une salle-de-bains : démolition des installations existantes, remplacement des alimentations et évacuations d’eau, réalisation d’une liaison équipotentielle et adaptation de l’installation électrique, réparation des enduits, pose de nouveaux appareils sanitaires, pose d’un nouveau revêtement de sol (carrelage ou vinyle), pose de nouvelles faïences                            (estimation des travaux : 6.200€) ; • Rénovation d’une installation électrique, couplée au remplacement des revêtements de sol : démolition des installations existantes, pose d’une nouvelle installation électrique encastrée, réparation des enduits, pose d’une nouvelle chape et d’un nouveau carrelage (estimation des travaux : 11.800€) • Complémentairement à ces travaux, d’autres interventions peuvent s’ajouter : • Réparation des trottoirs et chemins d’accès ; • Démolition d’aménagements apportés par le locataire, voire d’annexes ; • Remplacement d’un ou de plusieurs châssis de portes et fenêtres ; • Réparation d’une corniche ; • Réalisation d’une installation gaz (apparente) ; • Etc. • Les chantiers les plus importants entrepris consécutivement à des états des lieux représentent une dépense pouvant atteindre 25.000€. La plupart des chantiers qui seront concernés par ce marché de services seront valorisés entre 10.000 et 15.000€   Nous procédons à environ 160 états des lieux de sortie par an ; nous estimons que 25% d’entre eux demandent une rénovation relativement importante, qui nécessite la réalisation d’un PSS.  Les prescriptions techniques auxquelles doivent répondre les services sont reprises au point III du cahier spécial des charges.  Par son offre, le soumissionnaire retenu s’engage à réaliser les prestations de services en conformité avec ces prescriptions.  Lieu(x) de prestations : Ensemble de notre patrimoine, composé 2.920 logements mis en location, répartis sur 7 communes :    • Fléron  • Beyne-Heusay • Soumagne • Chaudfontaine  • Blegny • Trooz • Olne   Les prestations devront être exécutées dans le respect strict des dispositions de l’arrêté royal du 25 janvier 2001 relatif aux chantiers temporaires ou mobiles, ainsi que de l’ensemble de la législation applicable en matière de sécurité et de santé au travail."
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "DBOC-2026-09-DBHECH-KAPEL",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "DBOC-2026-09-DBHECH-KAPEL",
+    "number": "PPP0NN-413/6067/413/Coord. SS",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP0NN-413/6067/413/Coord. SS",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
-      "language": "NL",
-      "text": "Vernieuwen dak van de kapel van Don Bosco Hechtel"
+      "language": "FR",
+      "text": "Accord-cadre : Désignation d'un coordinateur sécurité-santé pour les chantiers temporaires ou mobiles 2026-2030"
      }
     ]
    },
@@ -434,121 +612,114 @@
     {
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Vernieuwen van het dak van de kapel DB Hechtel"
+       "language": "FR",
+       "text": "Accord-cadre : Désignation d'un coordinateur sécurité-santé pour les chantiers temporaires ou mobiles 2026-2030"
       }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
      ],
      "titles": [
       {
-       "language": "NL",
-       "text": "DBOC-2026-09-DBHECH-KAPEL - 1"
+       "language": "FR",
+       "text": "Accord-cadre : Désignation d'un coordinateur sécurité-santé pour les chantiers temporaires ou mobiles 2026-2030"
       }
      ]
     }
    ],
    "natures": [
-    "WORKS"
+    "SERVICES"
    ],
    "noticeIds": [
-    "10cc4dd1-0e1c-4e92-a45d-56ff12df1915"
+    "3f02c3c4-9202-4f25-839f-2a4da1d059d4"
    ],
-   "noticeSubType": "16",
+   "noticeSubType": "E4",
    "nutsCodes": [
-    "BE224"
+    "BE332"
    ],
    "organisation": {
-    "organisationId": 1633,
+    "organisationId": 1047,
     "organisationNames": [
      {
-      "language": "EN",
-      "text": "Don Boscoonderwijscentrum"
-     },
-     {
       "language": "DE",
-      "text": "Don Bosco Onderwijscentrum"
+      "text": "Foyer de la région de Fléron Scrl"
      },
      {
       "language": "NL",
-      "text": "Don Bosco Onderwijscentrum"
+      "text": "Foyer de la région de Fléron Scrl"
      },
      {
       "language": "FR",
-      "text": "Don Boscoonderwijscentrum"
+      "text": "Foyer de la région de Fléron Scrl"
+     },
+     {
+      "language": "EN",
+      "text": "Foyer de la région de Fléron Scrl"
      }
     ],
-    "tree": "200004.200026.1633"
+    "tree": "200004.200028.1047"
    },
-   "procedureId": "a1a7ccd3-fd61-44c0-9aa2-787291b83e25",
+   "procedureId": "dadff607-7234-4923-8814-2bfa31ef8b53",
    "publicationDate": "2026-11-02",
    "publicationLanguages": [
-    "NL"
+    "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "DBOC-2026-09-DBHECH-KAPEL_pub01"
+    "PPP0NN-413/6067/413/Coord. SS_003"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "ad5e9b60-ca2d-4840-ad7a-28091fdb6ead",
+   "publicationWorkspaceId": "3919bcdf-bca0-4c1c-aa29-aca46225b04b",
    "publishedAt": [
-    "2026-11-02T00:00:46.084269"
+    "2026-11-02T10:21:45.016433"
    ],
-   "referenceNumber": "DBOC-2026-09-DBHECH-KAPEL_pub01",
+   "referenceNumber": "PPP0NN-413/6067/413/Coord. SS_003",
    "sentAt": [
-    "2026-11-02T00:00:46.084269"
+    "2026-11-02T10:21:45.016433"
    ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-12-02T10:00:00"
+   "tedPublished": false
   }
  ],
  "exemple_attribution": [
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45262660-5",
+     "code": "71317210-8",
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Verwijderen van asbest"
+       "language": "DE",
+       "text": "Beratung im Bereich Gesundheit und Sicherheit"
       },
       {
-       "language": "DE",
-       "text": "Asbestbeseitigungsarbeiten"
+       "language": "NL",
+       "text": "Advies inzake gezondheid en veiligheid"
       },
       {
        "language": "FR",
-       "text": "Travaux de désamiantage"
+       "text": "Services de conseil en matière de santé et de sécurité"
       },
       {
        "language": "EN",
-       "text": "Asbestos-removal work"
+       "text": "Health and safety consultancy services"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45262660-5",
+    "code": "71317210-8",
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Verwijderen van asbest"
+      "language": "DE",
+      "text": "Beratung im Bereich Gesundheit und Sicherheit"
      },
      {
-      "language": "DE",
-      "text": "Asbestbeseitigungsarbeiten"
+      "language": "NL",
+      "text": "Advies inzake gezondheid en veiligheid"
      },
      {
       "language": "FR",
-      "text": "Travaux de désamiantage"
+      "text": "Services de conseil en matière de santé et de sécurité"
      },
      {
       "language": "EN",
-      "text": "Asbestos-removal work"
+      "text": "Health and safety consultancy services"
      }
     ]
    },
@@ -557,19 +728,20 @@
     "accreditations": {},
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Als voorbereidende werken op de totaalrenovatie Technicum blok 4 (T4) en de Technicumtoren dienen de caniveaus rondom T4 gesaneerd te worden. Deze caniveaus bevatten een aantal leidingen met asbesthoudende isolatie en door de slechte staat van de leidingisolatie zijn de caniveaus gecontamineerd met asbest. Later wil men deze caniveaus opnieuw gebruiken om nieuwe leidingen in te leggen. De uitvoering verloopt in twee fasen :  - Tussen T4 en Therminal : tussen 1 juni en 31 juli 2027 (ongeveer 3 weken)  - Tussen T4 en De Brug + Engelse koer : tussen 1 februari 2027 en 31 maart 2027 (ongeveer 8 weken)  De exacte timing is later af te spreken in functie van de grote renovatiewerkzaamheden aan T4.  "
+      "language": "FR",
+      "text": "Désignation d'un coordinateur sécurité-santé sur les chantiers temporaires ou mobile suivant l'arrêté royal du 25 janvier 2001.  Le présent marché est un marché de services sens de l’article 2, 21° de la loi du 17/06/2016 relative aux marchés publics.  Son objet consiste en la mise à la disposition du pouvoir adjudicateur :  1°) d’un coordinateur aux fins de coordonner la sécurité et la santé pendant l’élaboration du projet de l’ouvrage conformément aux dispositions du présent cahier spécial des charges, dit ci-après coordinateur-projet ; 2°) d’un coordinateur aux fins de coordonner la sécurité et la santé pendant la réalisation de l’ouvrage conformément aux dispositions du présent cahier spécial des charges, dit ci-après coordinateur-réalisation.   L’ouvrage à réaliser consiste en des travaux de rénovation « légère » de notre patrimoine (maisons et appartements) à l’occasion des états des lieux de nos logements mis en locations.  A titre indicatif voici le type d’interventions, réalisées par entreprises séparées : • Rénovation complète d’une salle-de-bains : démolition des installations existantes, remplacement des alimentations et évacuations d’eau, réalisation d’une liaison équipotentielle et adaptation de l’installation électrique, réparation des enduits, pose de nouveaux appareils sanitaires, pose d’un nouveau revêtement de sol (carrelage ou vinyle), pose de nouvelles faïences                            (estimation des travaux : 6.200€) ; • Rénovation d’une installation électrique, couplée au remplacement des revêtements de sol : démolition des installations existantes, pose d’une nouvelle installation électrique encastrée, réparation des enduits, pose d’une nouvelle chape et d’un nouveau carrelage (estimation des travaux : 11.800€) • Complémentairement à ces travaux, d’autres interventions peuvent s’ajouter : • Réparation des trottoirs et chemins d’accès ; • Démolition d’aménagements apportés par le locataire, voire d’annexes ; • Remplacement d’un ou de plusieurs châssis de portes et fenêtres ; • Réparation d’une corniche ; • Réalisation d’une installation gaz (apparente) ; • Etc. • Les chantiers les plus importants entrepris consécutivement à des états des lieux représentent une dépense pouvant atteindre 25.000€. La plupart des chantiers qui seront concernés par ce marché de services seront valorisés entre 10.000 et 15.000€   Nous procédons à environ 160 états des lieux de sortie par an ; nous estimons que 25% d’entre eux demandent une rénovation relativement importante, qui nécessite la réalisation d’un PSS.  Les prescriptions techniques auxquelles doivent répondre les services sont reprises au point III du cahier spécial des charges.  Par son offre, le soumissionnaire retenu s’engage à réaliser les prestations de services en conformité avec ces prescriptions.  Lieu(x) de prestations : Ensemble de notre patrimoine, composé 2.920 logements mis en location, répartis sur 7 communes :    • Fléron  • Beyne-Heusay • Soumagne • Chaudfontaine  • Blegny • Trooz • Olne   Les prestations devront être exécutées dans le respect strict des dispositions de l’arrêté royal du 25 janvier 2001 relatif aux chantiers temporaires ou mobiles, ainsi que de l’ensemble de la législation applicable en matière de sécurité et de santé au travail."
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP01G-3562/6698/WA116372",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "PPP01G-3562/6698/WA116372",
+    "number": "PPP0NN-413/6067/413/Coord. SS",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP0NN-413/6067/413/Coord. SS",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
-      "language": "NL",
-      "text": "Sanering van caniveaus en asbestverwijdering"
+      "language": "FR",
+      "text": "Accord-cadre : Désignation d'un coordinateur sécurité-santé pour les chantiers temporaires ou mobiles 2026-2030"
      }
     ]
    },
@@ -578,73 +750,67 @@
     {
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Als voorbereidende werken op de totaalrenovatie Technicum blok 4 (T4) en de Technicumtoren dienen de caniveaus rondom T4 gesaneerd te worden. Deze caniveaus bevatten een aantal leidingen met asbesthoudende isolatie en door de slechte staat van de leidingisolatie zijn de caniveaus gecontamineerd met asbest. Later wil men deze caniveaus opnieuw gebruiken om nieuwe leidingen in te leggen. De uitvoering verloopt in twee fasen :  - Tussen T4 en Therminal : tussen 1 juni en 31 juli 2027 (ongeveer 3 weken)  - Tussen T4 en De Brug + Engelse koer : tussen 1 februari 2027 en 31 maart 2027 (ongeveer 8 weken)  De exacte timing is later af te spreken in functie van de grote renovatiewerkzaamheden aan T4.  "
+       "language": "FR",
+       "text": "Accord-cadre : Désignation d'un coordinateur sécurité-santé pour les chantiers temporaires ou mobiles 2026-2030"
       }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
      ],
      "titles": [
       {
-       "language": "NL",
-       "text": "Sanering van caniveaus en asbestverwijdering"
+       "language": "FR",
+       "text": "Accord-cadre : Désignation d'un coordinateur sécurité-santé pour les chantiers temporaires ou mobiles 2026-2030"
       }
      ]
     }
    ],
    "natures": [
-    "WORKS"
+    "SERVICES"
    ],
    "noticeIds": [
-    "941bae0a-e195-408a-988b-37853ff3ff09"
+    "3f02c3c4-9202-4f25-839f-2a4da1d059d4"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE234"
+    "BE332"
    ],
    "organisation": {
-    "organisationId": 160,
+    "organisationId": 1047,
     "organisationNames": [
      {
       "language": "DE",
-      "text": "Universiteit Gent"
+      "text": "Foyer de la région de Fléron Scrl"
      },
      {
       "language": "NL",
-      "text": "Universiteit Gent"
+      "text": "Foyer de la région de Fléron Scrl"
      },
      {
       "language": "FR",
-      "text": "Universiteit Gent"
+      "text": "Foyer de la région de Fléron Scrl"
      },
      {
       "language": "EN",
-      "text": "Universiteit Gent"
+      "text": "Foyer de la région de Fléron Scrl"
      }
     ],
-    "tree": "200004.200026.160"
+    "tree": "200004.200028.1047"
    },
-   "procedureId": "05fe50fd-dbd5-4ad5-ae26-18af87c0319a",
+   "procedureId": "dadff607-7234-4923-8814-2bfa31ef8b53",
    "publicationDate": "2026-11-02",
    "publicationLanguages": [
-    "NL"
+    "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP01G-3562/6698/WA116372_002"
+    "PPP0NN-413/6067/413/Coord. SS_003"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "53bd34d3-81b6-4bbb-9484-dd4036a192fa",
+   "publicationWorkspaceId": "3919bcdf-bca0-4c1c-aa29-aca46225b04b",
    "publishedAt": [
-    "2026-11-02T00:00:47.586491"
+    "2026-11-02T10:21:45.016433"
    ],
-   "referenceNumber": "PPP01G-3562/6698/WA116372_002",
+   "referenceNumber": "PPP0NN-413/6067/413/Coord. SS_003",
    "sentAt": [
-    "2026-11-02T00:00:47.586491"
+    "2026-11-02T10:21:45.016433"
    ],
    "tedPublished": false
   }
