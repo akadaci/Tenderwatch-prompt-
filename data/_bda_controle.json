@@ -1,18 +1,23 @@
 {
  "meta": {
-  "totalCount": 294243
+  "totalCount": 294306
  },
  "types": [
   "ACTIVE|10|['SERVICES', 'WORKS']",
+  "ACTIVE|10|['SERVICES']",
+  "ACTIVE|16|['SERVICES', 'SUPPLIES']",
+  "ACTIVE|16|['SERVICES', 'WORKS']",
   "ACTIVE|16|['SERVICES']",
   "ACTIVE|16|['SUPPLIES']",
   "ACTIVE|16|['WORKS']",
   "ACTIVE|17|['SERVICES']",
   "ACTIVE|17|['SUPPLIES']",
   "ACTIVE|17|['WORKS']",
+  "ACTIVE|19|['SERVICES', 'WORKS']",
   "ACTIVE|19|['SERVICES']",
   "ACTIVE|20|['SERVICES']",
   "ACTIVE|20|['SUPPLIES']",
+  "ACTIVE|21|['SUPPLIES']",
   "ACTIVE|29|['SERVICES']",
   "ACTIVE|29|['SUPPLIES']",
   "ACTIVE|29|['WORKS']",
@@ -33,6 +38,148 @@
   "ACTIVE|E4|['WORKS']"
  ],
  "exemples": [
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "30232100-5",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Drucker und Plotter"
+      },
+      {
+       "language": "EN",
+       "text": "Printers and plotters"
+      },
+      {
+       "language": "FR",
+       "text": "Imprimantes et traceurs"
+      },
+      {
+       "language": "NL",
+       "text": "Printers en plotters"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "30232100-5",
+    "descriptions": [
+     {
+      "language": "DE",
+      "text": "Drucker und Plotter"
+     },
+     {
+      "language": "EN",
+      "text": "Printers and plotters"
+     },
+     {
+      "language": "FR",
+      "text": "Imprimantes et traceurs"
+     },
+     {
+      "language": "NL",
+      "text": "Printers en plotters"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-02",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Le marché a pour objet la fourniture d’imprimantes de bureau ainsi que des consommables correspondants à celles-ci.  Ce marché concerne l’ensemble des sites d’ISoSL. "
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "CSCH_IT-2026-05",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "CSCH_IT-2026-05",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Imprimantes de bureaux et consommables"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-02",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Le marché a pour objet la fourniture d’imprimantes de bureau ainsi que des consommables correspondants à celles-ci.  Ce marché concerne l’ensemble des sites d’ISoSL. "
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "CSCH_IT-2026-05 - 1"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SUPPLIES"
+   ],
+   "noticeIds": [
+    "ab50b57e-5dba-41b5-b254-2bea73a17103"
+   ],
+   "noticeSubType": "16",
+   "nutsCodes": [
+    "BE332"
+   ],
+   "organisation": {
+    "organisationId": 739,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "Intercommunale de Soins Spécialisés de Liège  "
+     },
+     {
+      "language": "NL",
+      "text": "Intercommunale de Soins Spécialisés de Liège  "
+     },
+     {
+      "language": "FR",
+      "text": "Intercommunale de Soins Spécialisés de Liège  "
+     },
+     {
+      "language": "EN",
+      "text": "Intercommunale de Soins Spécialisés de Liège  "
+     }
+    ],
+    "tree": "200004.200023.739"
+   },
+   "procedureId": "3319058c-8ce1-4446-a928-56b86f443091",
+   "publicationDate": "2026-11-02",
+   "publicationLanguages": [
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "CSCH_IT-2026-05_pub01"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "d1f288ea-6700-4a6e-b07c-d9e631af8ad5",
+   "publishedAt": [
+    "2026-11-02T00:00:45.754919"
+   ],
+   "referenceNumber": "CSCH_IT-2026-05_pub01",
+   "sentAt": [
+    "2026-11-02T00:00:45.754919"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-11-20T17:00:00"
+  },
   {
    "cpvAdditionalCodes": [
     {
@@ -182,12 +329,12 @@
       "text": "Geelse Huisvesting C.V.B.A."
      },
      {
-      "language": "NL",
-      "text": "LeefGoed"
-     },
-     {
       "language": "DE",
       "text": "Geelse Huisvesting C.V.B.A."
+     },
+     {
+      "language": "NL",
+      "text": "LeefGoed"
      },
      {
       "language": "FR",
@@ -358,147 +505,6 @@
    ],
    "tedPublished": false,
    "vaultSubmissionDeadline": "2026-12-02T10:00:00"
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "45262660-5",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Verwijderen van asbest"
-      },
-      {
-       "language": "DE",
-       "text": "Asbestbeseitigungsarbeiten"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de désamiantage"
-      },
-      {
-       "language": "EN",
-       "text": "Asbestos-removal work"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "45262660-5",
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Verwijderen van asbest"
-     },
-     {
-      "language": "DE",
-      "text": "Asbestbeseitigungsarbeiten"
-     },
-     {
-      "language": "FR",
-      "text": "Travaux de désamiantage"
-     },
-     {
-      "language": "EN",
-      "text": "Asbestos-removal work"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-02",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Als voorbereidende werken op de totaalrenovatie Technicum blok 4 (T4) en de Technicumtoren dienen de caniveaus rondom T4 gesaneerd te worden. Deze caniveaus bevatten een aantal leidingen met asbesthoudende isolatie en door de slechte staat van de leidingisolatie zijn de caniveaus gecontamineerd met asbest. Later wil men deze caniveaus opnieuw gebruiken om nieuwe leidingen in te leggen. De uitvoering verloopt in twee fasen :  - Tussen T4 en Therminal : tussen 1 juni en 31 juli 2027 (ongeveer 3 weken)  - Tussen T4 en De Brug + Engelse koer : tussen 1 februari 2027 en 31 maart 2027 (ongeveer 8 weken)  De exacte timing is later af te spreken in functie van de grote renovatiewerkzaamheden aan T4.  "
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP01G-3562/6698/WA116372",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "PPP01G-3562/6698/WA116372",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Sanering van caniveaus en asbestverwijdering"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-02",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Als voorbereidende werken op de totaalrenovatie Technicum blok 4 (T4) en de Technicumtoren dienen de caniveaus rondom T4 gesaneerd te worden. Deze caniveaus bevatten een aantal leidingen met asbesthoudende isolatie en door de slechte staat van de leidingisolatie zijn de caniveaus gecontamineerd met asbest. Later wil men deze caniveaus opnieuw gebruiken om nieuwe leidingen in te leggen. De uitvoering verloopt in twee fasen :  - Tussen T4 en Therminal : tussen 1 juni en 31 juli 2027 (ongeveer 3 weken)  - Tussen T4 en De Brug + Engelse koer : tussen 1 februari 2027 en 31 maart 2027 (ongeveer 8 weken)  De exacte timing is later af te spreken in functie van de grote renovatiewerkzaamheden aan T4.  "
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Sanering van caniveaus en asbestverwijdering"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "WORKS"
-   ],
-   "noticeIds": [
-    "941bae0a-e195-408a-988b-37853ff3ff09"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE234"
-   ],
-   "organisation": {
-    "organisationId": 160,
-    "organisationNames": [
-     {
-      "language": "DE",
-      "text": "Universiteit Gent"
-     },
-     {
-      "language": "NL",
-      "text": "Universiteit Gent"
-     },
-     {
-      "language": "FR",
-      "text": "Universiteit Gent"
-     },
-     {
-      "language": "EN",
-      "text": "Universiteit Gent"
-     }
-    ],
-    "tree": "200004.200026.160"
-   },
-   "procedureId": "05fe50fd-dbd5-4ad5-ae26-18af87c0319a",
-   "publicationDate": "2026-11-02",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP01G-3562/6698/WA116372_002"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "53bd34d3-81b6-4bbb-9484-dd4036a192fa",
-   "publishedAt": [
-    "2026-11-02T00:00:47.586491"
-   ],
-   "referenceNumber": "PPP01G-3562/6698/WA116372_002",
-   "sentAt": [
-    "2026-11-02T00:00:47.586491"
-   ],
-   "tedPublished": false
   }
  ],
  "exemple_attribution": [
