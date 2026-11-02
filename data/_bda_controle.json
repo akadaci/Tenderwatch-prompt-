@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 294326
+  "totalCount": 294328
  },
  "types": [
   "ACTIVE|10|['SERVICES', 'WORKS']",
@@ -72,16 +72,16 @@
       "text": "Dienstverlening op het gebied van architectuur, bouwkunde, civiele techniek en inspectie"
      },
      {
-      "language": "FR",
-      "text": "Services d'architecture, services de construction, services d'ingénierie et services d'inspection"
+      "language": "EN",
+      "text": "Architectural, construction, engineering and inspection services"
      },
      {
       "language": "DE",
       "text": "Dienstleistungen von Architektur-, Konstruktions- und Ingenieurbüros und Prüfstellen"
      },
      {
-      "language": "EN",
-      "text": "Architectural, construction, engineering and inspection services"
+      "language": "FR",
+      "text": "Services d'architecture, services de construction, services d'ingénierie et services d'inspection"
      }
     ]
    },
