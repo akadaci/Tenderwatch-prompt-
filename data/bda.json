@@ -1,11 +1,13 @@
 {
- "updated": "2026-11-02T07:01:36Z",
+ "updated": "2026-11-02T08:19:35Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
  "received": 295,
- "kept": 132,
- "count": 2620,
- "new_ids": [],
+ "kept": 133,
+ "count": 2621,
+ "new_ids": [
+  "bda-7ee96e36-e82e-45cd-a62c-e8417d5706d5"
+ ],
  "records": [
   {
    "id": "bda-73362901-30f7-47a1-bd1f-4d29b31b5e32",
@@ -659,6 +661,27 @@
    "first_seen": "2026-10-20T06:01:41Z"
   },
   {
+   "id": "bda-7ee96e36-e82e-45cd-a62c-e8417d5706d5",
+   "source_type": "BDA",
+   "nom": "Rénovation électricité & toitures",
+   "lieu": "Namur",
+   "province": "Namur",
+   "mo": "Ecole libre des 3 vallées ASBL",
+   "etape": 4,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/7ee96e36-e82e-45cd-a62c-e8417d5706d5",
+   "verif": "vérifié",
+   "verif_date": "2026-11-02",
+   "preuve": "Bulletin des Adjudications, réf. T-2025-05 (avis de marché, sous-type eForms 16), publié le 2026-11-02.",
+   "date_publication": "2026-11-02",
+   "cpv": "45000000,45331000,45420000,45310000,45261000,45421000",
+   "ted_ref": "",
+   "notes": "Voir cahier des charges administratif",
+   "procedure": "8e095205-de3f-48ea-9597-81c616bf9113",
+   "dossier": "T-2025-05",
+   "first_seen": "2026-11-02T08:19:35Z"
+  },
+  {
    "id": "bda-f3ceac38-7c97-433c-a8aa-f449f005d71e",
    "source_type": "BDA",
    "nom": "Fourniture et installation d’une chaufferie biomasse et d’un réseau de chaleur pour l’Administration communale de Walcourt",
@@ -1197,7 +1220,7 @@
    "verif_date": "2026-11-02",
    "preuve": "Bulletin des Adjudications, réf. FLU26W063 (avis de marché, sous-type eForms 10), publié le 2026-10-30.",
    "date_publication": "2026-10-30",
-   "cpv": "45232452,90470000,90400000,45232451,90513600",
+   "cpv": "45232452,90400000,90470000,45232451,90513600",
    "ted_ref": "FLU26W063_AO",
    "notes": "De aanbesteder wenst een raamovereenkomst te sluiten voor “het machinaal ruimen van baangrachten”. • Het ruimen van slib uit baangrachten. Grachten die makkelijk bereikbaar zijn, gelegen langs de openbare weg. • Het vervoeren van slib naar een erkend verwerkingsbedrijf. • Instaan voor de verwerking ",
    "procedure": "56719a12-534c-42c8-8fdc-5f20064237ae",
@@ -1701,7 +1724,7 @@
    "verif_date": "2026-11-02",
    "preuve": "Bulletin des Adjudications, réf. PPP0BC-1291/6117/ Co-accueil de Boeur (avis de marché, sous-type eForms 16), publié le 2026-10-30.",
    "date_publication": "2026-10-30",
-   "cpv": "45000000,45400000,45262700",
+   "cpv": "45000000,45262700,45400000",
    "ted_ref": "",
    "notes": "Travaux de transformation du Co-accueil de Boeur - Phase A",
    "procedure": "61376725-408a-485d-a930-b05f99ff8168",
@@ -3066,7 +3089,7 @@
    "verif_date": "2026-11-02",
    "preuve": "Bulletin des Adjudications, réf. 2026_KRAK_RENOVATIE TOILETTEN (attribution, sous-type eForms E4), publié le 2026-10-30.",
    "date_publication": "2026-10-30",
-   "cpv": "45000000,45330000,45422000,45332000",
+   "cpv": "45000000,45332000,45422000,45330000",
    "ted_ref": "",
    "notes": "Deze opdracht betreft de renovatie van de sanitaire ruimtes (toiletten) in het gebouw van vzw Krak, gelegen Scheldelaan 6A te 8580 Avelgem. De opdracht is opgesplitst in twee percelen: Perceel 1: Binnenschrijnwerk Perceel 2: Sanitair De inschrijver kan een offerte indienen voor één perceel of voor b",
    "procedure": "ce72166b-3afd-4952-841a-e9bbdef4dc76",
