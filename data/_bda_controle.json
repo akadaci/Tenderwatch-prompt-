@@ -1,20 +1,14 @@
 {
  "meta": {
-  "totalCount": 294431
+  "totalCount": 294455
  },
  "types": [
-  "ACTIVE|10|['SERVICES']",
   "ACTIVE|10|['WORKS']",
-  "ACTIVE|16|['SERVICES', 'SUPPLIES']",
   "ACTIVE|16|['SERVICES']",
   "ACTIVE|16|['SUPPLIES']",
   "ACTIVE|16|['WORKS']",
-  "ACTIVE|17|['SERVICES']",
   "ACTIVE|17|['WORKS']",
-  "ACTIVE|19|['SERVICES', 'WORKS']",
   "ACTIVE|19|['SERVICES']",
-  "ACTIVE|20|['SERVICES']",
-  "ACTIVE|21|['SUPPLIES']",
   "ACTIVE|29|['SERVICES']",
   "ACTIVE|29|['SUPPLIES']",
   "ACTIVE|29|['WORKS']",
@@ -34,161 +28,67 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45262400-5",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Travaux d'assemblage d'ossatures métalliques"
-      },
-      {
-       "language": "DE",
-       "text": "Baustahlmontagearbeiten"
-      },
-      {
-       "language": "EN",
-       "text": "Structural steel erection work"
-      },
-      {
-       "language": "NL",
-       "text": "Optrekken van staalconstructies"
-      }
-     ]
-    },
-    {
-     "code": "45262300-4",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Betonwerk"
-      },
-      {
-       "language": "EN",
-       "text": "Concrete work"
-      },
-      {
-       "language": "DE",
-       "text": "Betonarbeiten"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de bétonnage"
-      }
-     ]
-    },
-    {
-     "code": "45262410-8",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Structural steel erection work for buildings"
-      },
-      {
-       "language": "NL",
-       "text": "Optrekken van staalconstructies voor gebouwen"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux d'assemblage d'ossatures métalliques de bâtiment"
-      },
-      {
-       "language": "DE",
-       "text": "Baustahlmontagearbeiten für Gebäude"
-      }
-     ]
-    },
-    {
-     "code": "45262210-6",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Travaux de fondation"
-      },
-      {
-       "language": "DE",
-       "text": "Fundamentierungsarbeiten"
-      },
-      {
-       "language": "EN",
-       "text": "Foundation work"
-      },
-      {
-       "language": "NL",
-       "text": "Funderingswerkzaamheden"
-      }
-     ]
-    },
-    {
-     "code": "45310000-3",
+     "code": "30192000-1",
      "descriptions": [
       {
        "language": "DE",
-       "text": "Installation von elektrischen Leitungen"
+       "text": "Bürobedarf"
       },
       {
        "language": "FR",
-       "text": "Travaux d'équipement électrique"
+       "text": "Fournitures de bureau"
       },
       {
        "language": "EN",
-       "text": "Electrical installation work"
+       "text": "Office supplies"
       },
       {
        "language": "NL",
-       "text": "Aanleg van elektriciteit"
+       "text": "Kantoorbenodigdheden"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45262400-5",
+    "code": "30192000-1",
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Optrekken van staalconstructies"
-     },
-     {
       "language": "DE",
-      "text": "Baustahlmontagearbeiten"
-     },
-     {
-      "language": "EN",
-      "text": "Structural steel erection work"
+      "text": "Bürobedarf"
      },
      {
       "language": "FR",
-      "text": "Travaux d'assemblage d'ossatures métalliques"
+      "text": "Fournitures de bureau"
+     },
+     {
+      "language": "EN",
+      "text": "Office supplies"
+     },
+     {
+      "language": "NL",
+      "text": "Kantoorbenodigdheden"
      }
     ]
    },
    "dispatchDate": "2026-11-03",
    "dossier": {
-    "accreditations": {
-     "D7": 3
-    },
+    "accreditations": {},
     "descriptions": [
      {
       "language": "NL",
-      "text": "De opdracht omvat het vervangen van de bestaande metalen brandtrap tussen blok D en blok E van de schoolsite Dames van Maria htb in Aalst. De werken bestaan uit:  de afbraak van de bestaande trap en het dubbele hek de funderingswerken op micropalen met een funderingsbalk, inclusief aanpassingen aan de riolering het plaatsen van een nieuwe stalen evacuatietrap met portiek, bordessen, gelakte borstweringen en handgrepen, verankerd in de bestaande gevels de bijhorende aanpassingen aan gevelmetselwerk, bakgoot en binnenafwerking nieuwe houten binnentrapjes aan de vluchtdeuren een nieuw schoolhek met elektronische toegangscontrole, gekoppeld aan de brandmeldcentrale de elektriciteitswerken: noodverlichting, aarding, kabelgoten en sturing  De werken worden uitgevoerd in een schoolgebouw dat in gebruik blijft. Veiligheid, evacuatiemogelijkheden en fasering verdienen daarom bijzondere aandacht. Er is een tijdelijke traptoren voor evacuatie voorzien als optie."
+      "text": "Deze raamovereenkomst betreft het leveren van kantoormateriaal via deelbestellingen aan provincie Limburg (provinciale diensten en instellingen) alsook IVA's en EVA's.   Het doel van deze raamovereenkomst is om een betrouwbare en efficiënte bevoorrading van alle noodzakelijke kantoorbenodigdheden te waarborgen gedurende een vooraf bepaalde periode. De raamovereenkomst zal een gestandaardiseerde, flexibele en kostenefficiënte oplossing bieden voor het verkrijgen van kantoormateriaal.  Deze opdracht is bedoeld om de bevoorrading van kantoormateriaal op lange termijn te optimaliseren, zodat de dagelijkse werking van de organisatie niet wordt belemmerd door onvoorziene tekorten of administratieve vertragingen. "
      }
     ],
-    "enterpriseCategories": [
-     {
-      "categoryCode": "D7",
-      "levels": [
-       3,
-       2,
-       1
-      ]
-     }
-    ],
+    "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "044B",
+    "number": "PPP0SG-25027/6476/2026N169404",
     "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "044B",
+    "referenceNumber": "PPP0SG-25027/6476/2026N169404",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
       "language": "NL",
-      "text": "Vervangen brandtrap DvM htb Aalst"
+      "text": "Provincie Limburg - Raamovereenkomst leveren van kantoorbenodigdheden"
      }
     ]
    },
@@ -198,7 +98,7 @@
      "descriptions": [
       {
        "language": "NL",
-       "text": "De opdracht omvat het vervangen van de bestaande metalen brandtrap tussen blok D en blok E van de schoolsite Dames van Maria htb in Aalst. De werken bestaan uit:  de afbraak van de bestaande trap en het dubbele hek de funderingswerken op micropalen met een funderingsbalk, inclusief aanpassingen aan de riolering het plaatsen van een nieuwe stalen evacuatietrap met portiek, bordessen, gelakte borstweringen en handgrepen, verankerd in de bestaande gevels de bijhorende aanpassingen aan gevelmetselwerk, bakgoot en binnenafwerking nieuwe houten binnentrapjes aan de vluchtdeuren een nieuw schoolhek met elektronische toegangscontrole, gekoppeld aan de brandmeldcentrale de elektriciteitswerken: noodverlichting, aarding, kabelgoten en sturing  De werken worden uitgevoerd in een schoolgebouw dat in gebruik blijft. Veiligheid, evacuatiemogelijkheden en fasering verdienen daarom bijzondere aandacht. Er is een tijdelijke traptoren voor evacuatie voorzien als optie."
+       "text": "Deze raamovereenkomst betreft het leveren van kantoormateriaal via deelbestellingen aan provincie Limburg (provinciale diensten en instellingen) alsook IVA's en EVA's.   Het doel van deze raamovereenkomst is om een betrouwbare en efficiënte bevoorrading van alle noodzakelijke kantoorbenodigdheden te waarborgen gedurende een vooraf bepaalde periode. De raamovereenkomst zal een gestandaardiseerde, flexibele en kostenefficiënte oplossing bieden voor het verkrijgen van kantoormateriaal.  Deze opdracht is bedoeld om de bevoorrading van kantoormateriaal op lange termijn te optimaliseren, zodat de dagelijkse werking van de organisatie niet wordt belemmerd door onvoorziene tekorten of administratieve vertragingen. "
       }
      ],
      "reservedExecution": [
@@ -210,144 +110,7 @@
      "titles": [
       {
        "language": "NL",
-       "text": "044B - 1"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "WORKS"
-   ],
-   "noticeIds": [
-    "ef0f67bd-6457-4cf6-8dcf-b68b158d02f8"
-   ],
-   "noticeSubType": "16",
-   "nutsCodes": [
-    "BE231"
-   ],
-   "organisation": {
-    "organisationId": 2380,
-    "organisationNames": [
-     {
-      "language": "FR",
-      "text": "AITarchitecten"
-     },
-     {
-      "language": "DE",
-      "text": "AITarchitecten"
-     },
-     {
-      "language": "NL",
-      "text": "AITarchitecten"
-     },
-     {
-      "language": "EN",
-      "text": "AITarchitecten"
-     }
-    ],
-    "tree": "200004.200035.2380"
-   },
-   "procedureId": "95792f59-b2c4-4341-bc54-f218962c5a4e",
-   "publicationDate": "2026-11-03",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "044B_pub01"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "448abdc3-d5fb-49c1-abb0-e7cbad2ce0ce",
-   "publishedAt": [
-    "2026-11-03T00:00:45.790004"
-   ],
-   "referenceNumber": "044B_pub01",
-   "sentAt": [
-    "2026-11-03T00:00:45.790004"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-12-07T15:00:00"
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "24400000-8",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Engrais et composés azotés"
-      },
-      {
-       "language": "EN",
-       "text": "Fertilisers and nitrogen compounds"
-      },
-      {
-       "language": "DE",
-       "text": "Düngemittel und Stickstoffverbindungen"
-      },
-      {
-       "language": "NL",
-       "text": "Meststoffen en stikstofverbindingen"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "24400000-8",
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Engrais et composés azotés"
-     },
-     {
-      "language": "EN",
-      "text": "Fertilisers and nitrogen compounds"
-     },
-     {
-      "language": "DE",
-      "text": "Düngemittel und Stickstoffverbindungen"
-     },
-     {
-      "language": "NL",
-      "text": "Meststoffen en stikstofverbindingen"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-03",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Leveren meststoffen / bodemverbetering - sproeistoffen - graszaden voor de Koksijde Golf ter Hille 2027"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP00T-4155/6715/2026138",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP00T-4155/6715/2026138",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Leveren meststoffen / bodemverbetering - sproeistoffen - graszaden voor de Koksijde Golf ter Hille 2027"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-03",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Leveren meststoffen / bodemverbetering - sproeistoffen - graszaden voor de Koksijde Golf ter Hille 2027 + twee eventuele verlengingen"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Leveren meststoffen / bodemverbetering - sproeistoffen - graszaden voor de Koksijde Golf ter Hille 2027 + twee eventuele verlengingen"
+       "text": "Provincie Limburg - Raamovereenkomst leveren van kantoorbenodigdheden"
       }
      ]
     }
@@ -356,96 +119,96 @@
     "SUPPLIES"
    ],
    "noticeIds": [
-    "55043b83-7c9a-41d1-a3da-cacbf0b7fcd5"
+    "8d740d2d-8533-4f97-8381-229679b4cb9c"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE258"
+    "BE224"
    ],
    "organisation": {
-    "organisationId": 260,
+    "organisationId": 112,
     "organisationNames": [
      {
       "language": "DE",
-      "text": "Koksijde"
+      "text": "Provincie Limburg"
      },
      {
       "language": "NL",
-      "text": "Koksijde"
+      "text": "Provincie Limburg"
      },
      {
       "language": "FR",
-      "text": "Koksijde"
+      "text": "Provincie Limburg"
      },
      {
       "language": "EN",
-      "text": "Koksijde"
+      "text": "Provincie Limburg"
      }
     ],
-    "tree": "200004.200021.260"
+    "tree": "200004.200020.112"
    },
-   "procedureId": "91e8579c-c595-4768-b94d-c899251002cb",
+   "procedureId": "644587be-ec76-4ec5-871e-f2b3f78f8703",
    "publicationDate": "2026-11-03",
    "publicationLanguages": [
     "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP00T-4155/6715/2026138_002"
+    "PPP0SG-25027/6476/2026N169404_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "89171137-ce5d-46a6-b245-249736155722",
+   "publicationWorkspaceId": "0a760cf7-ec95-4738-bf25-b3c1ac164e71",
    "publishedAt": [
-    "2026-11-03T00:00:46.0926"
+    "2026-11-03T08:04:45.033761"
    ],
-   "referenceNumber": "PPP00T-4155/6715/2026138_002",
+   "referenceNumber": "PPP0SG-25027/6476/2026N169404_002",
    "sentAt": [
-    "2026-11-03T00:00:46.0926"
+    "2026-11-03T08:04:45.033761"
    ],
    "tedPublished": false
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "79820000-8",
+     "code": "79952000-2",
      "descriptions": [
       {
        "language": "EN",
-       "text": "Services related to printing"
-      },
-      {
-       "language": "DE",
-       "text": "Dienstleistungen des Druckgewerbes"
-      },
-      {
-       "language": "NL",
-       "text": "Diensten in verband met het drukken"
+       "text": "Event services"
       },
       {
        "language": "FR",
-       "text": "Services relatifs à l'impression"
+       "text": "Services d'organisation d'événements"
+      },
+      {
+       "language": "NL",
+       "text": "Diensten voor het organiseren van evenementen"
+      },
+      {
+       "language": "DE",
+       "text": "Event-Organisation"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "79820000-8",
+    "code": "79952000-2",
     "descriptions": [
      {
       "language": "EN",
-      "text": "Services related to printing"
-     },
-     {
-      "language": "DE",
-      "text": "Dienstleistungen des Druckgewerbes"
-     },
-     {
-      "language": "NL",
-      "text": "Diensten in verband met het drukken"
+      "text": "Event services"
      },
      {
       "language": "FR",
-      "text": "Services relatifs à l'impression"
+      "text": "Services d'organisation d'événements"
+     },
+     {
+      "language": "NL",
+      "text": "Diensten voor het organiseren van evenementen"
+     },
+     {
+      "language": "DE",
+      "text": "Event-Organisation"
      }
     ]
    },
@@ -455,19 +218,26 @@
     "descriptions": [
      {
       "language": "NL",
-      "text": "De aanneming heeft tot doel het ontwerpen & drukken van een kinderkrant voor de gemeente Koksijde voor het jaar 2027. Het is de bedoeling dat de krant 4x/jaar verschijnt (1 lente editie, 1 zomer editie - inclusief posterkalender, 1 herfst editie, 1 winter editie). Het aantal edities, de aantallen per editie, alsook de periodes, kunnen wijzigen. Ook dan blijven de in de offerte aangeboden eenheidsprijzen geldig.  "
+      "text": "Overheidsopdracht voor diensten met het doel het organiseren, gedurende 24 maanden, van de jaarlijkse ceremonie voor de overhandiging van de Nationale Trofee voor Sportverdienste"
+     },
+     {
+      "language": "FR",
+      "text": "Marché public de services ayant pour but l'organisation, pendant 24 mois, de la cérémonie annuelle de remise du Trophée National du Mérite Sportif"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP00T-4154/6684/2026137",
+    "number": "AFA/014226/MGG",
     "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP00T-4154/6684/2026137",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "referenceNumber": "AFA/014226/MGG",
     "titles": [
      {
       "language": "NL",
-      "text": "Ontwerpen en drukken van de kinderkrant \"PleZand\" - editie 2027"
+      "text": "Overheidsopdracht voor diensten met het doel het organiseren, gedurende 24 maanden, van de jaarlijkse ceremonie voor de overhandiging van de Nationale Trofee voor Sportverdienste"
+     },
+     {
+      "language": "FR",
+      "text": "Marché public de services ayant pour but l'organisation, pendant 24 mois, de la cérémonie annuelle de remise du Trophée National du Mérite Sportif"
      }
     ]
    },
@@ -477,13 +247,21 @@
      "descriptions": [
       {
        "language": "NL",
-       "text": "De aanneming heeft tot doel het ontwerpen & drukken van een kinderkrant voor de gemeente Koksijde voor het jaar 2027. Het is de bedoeling dat de krant 4x/jaar verschijnt (1 lente editie, 1 zomer editie - inclusief posterkalender, 1 herfst editie, 1 winter editie). Het aantal edities, de aantallen per editie, alsook de periodes, kunnen wijzigen. Ook dan blijven de in de offerte aangeboden eenheidsprijzen geldig.  "
+       "text": "Overheidsopdracht voor diensten met het doel het organiseren, gedurende 24 maanden, van de jaarlijkse ceremonie voor de overhandiging van de Nationale Trofee voor Sportverdienste"
+      },
+      {
+       "language": "FR",
+       "text": "Marché public de services ayant pour but l'organisation, pendant 24 mois, de la cérémonie annuelle de remise du Trophée National du Mérite Sportif"
       }
      ],
      "titles": [
       {
+       "language": "FR",
+       "text": "AFA/014226/MGG - 1"
+      },
+      {
        "language": "NL",
-       "text": "Ontwerpen en drukken van de kinderkrant \"PleZand\" - editie 2027"
+       "text": "AFA/014226/MGG - 1"
       }
      ]
     }
@@ -492,98 +270,97 @@
     "SERVICES"
    ],
    "noticeIds": [
-    "8cf09efa-2348-4a38-9af4-e4eb1b9c4a79"
+    "ae45ba55-890a-4676-a420-1ff7addf4118"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
     "BE100"
    ],
    "organisation": {
-    "organisationId": 260,
+    "organisationId": 4620,
     "organisationNames": [
      {
-      "language": "DE",
-      "text": "Koksijde"
+      "language": "EN",
+      "text": "Ville de Bruxelles - Achats & Facilities"
      },
      {
-      "language": "NL",
-      "text": "Koksijde"
+      "language": "DE",
+      "text": "Ville de Bruxelles - Aankopen & Facilities"
      },
      {
       "language": "FR",
-      "text": "Koksijde"
+      "text": "Ville de Bruxelles - Achats & Facilities"
      },
      {
-      "language": "EN",
-      "text": "Koksijde"
+      "language": "NL",
+      "text": "Stad Brussel - Aankopen & Facilities"
      }
     ],
-    "tree": "200004.200021.260"
+    "tree": "200004.200021.48.4620"
    },
-   "procedureId": "161bda30-17ae-46b5-abb6-ea57601bcfeb",
+   "procedureId": "9752a793-f51c-49a5-8a81-594095af0642",
    "publicationDate": "2026-11-03",
    "publicationLanguages": [
-    "NL"
+    "NL",
+    "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP00T-4154/6684/2026137_002"
+    "AFA/014226/MGG_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "6923f662-e4f1-44e6-b0c6-38f97501b61a",
+   "publicationWorkspaceId": "15ff82e2-7f1e-4d6c-820b-275d85241a7f",
    "publishedAt": [
-    "2026-11-03T00:00:45.016054"
+    "2026-11-03T08:54:45.01466"
    ],
-   "referenceNumber": "PPP00T-4154/6684/2026137_002",
+   "referenceNumber": "AFA/014226/MGG_pub01",
    "sentAt": [
-    "2026-11-03T00:00:45.016054"
+    "2026-11-03T08:54:45.01466"
    ],
    "tedPublished": false
-  }
- ],
- "exemple_attribution": [
+  },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "24400000-8",
+     "code": "66170000-2",
      "descriptions": [
       {
        "language": "FR",
-       "text": "Engrais et composés azotés"
+       "text": "Services de conseils financiers, services de traitement des transactions financières et services de chambres de compensation"
       },
       {
        "language": "EN",
-       "text": "Fertilisers and nitrogen compounds"
-      },
-      {
-       "language": "DE",
-       "text": "Düngemittel und Stickstoffverbindungen"
+       "text": "Financial consultancy, financial transaction processing and clearing-house services"
       },
       {
        "language": "NL",
-       "text": "Meststoffen en stikstofverbindingen"
+       "text": "Diensten op het gebied van financiële consultancy, financiële transacties en clearing"
+      },
+      {
+       "language": "DE",
+       "text": "Finanzberatung, Bearbeitung und Clearing von Finanzgeschäften"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "24400000-8",
+    "code": "66170000-2",
     "descriptions": [
      {
       "language": "FR",
-      "text": "Engrais et composés azotés"
+      "text": "Services de conseils financiers, services de traitement des transactions financières et services de chambres de compensation"
      },
      {
       "language": "EN",
-      "text": "Fertilisers and nitrogen compounds"
-     },
-     {
-      "language": "DE",
-      "text": "Düngemittel und Stickstoffverbindungen"
+      "text": "Financial consultancy, financial transaction processing and clearing-house services"
      },
      {
       "language": "NL",
-      "text": "Meststoffen en stikstofverbindingen"
+      "text": "Diensten op het gebied van financiële consultancy, financiële transacties en clearing"
+     },
+     {
+      "language": "DE",
+      "text": "Finanzberatung, Bearbeitung und Clearing von Finanzgeschäften"
      }
     ]
    },
@@ -593,19 +370,19 @@
     "descriptions": [
      {
       "language": "NL",
-      "text": "Leveren meststoffen / bodemverbetering - sproeistoffen - graszaden voor de Koksijde Golf ter Hille 2027"
+      "text": "Raamovereenkomst met één dienstverlener voor het inhuren van een senior Financial Controller"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP00T-4155/6715/2026138",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP00T-4155/6715/2026138",
+    "number": "District09-G001202",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "District09-G001202",
     "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
       "language": "NL",
-      "text": "Leveren meststoffen / bodemverbetering - sproeistoffen - graszaden voor de Koksijde Golf ter Hille 2027"
+      "text": "Senior Financial Controller"
      }
     ]
    },
@@ -615,13 +392,164 @@
      "descriptions": [
       {
        "language": "NL",
-       "text": "Leveren meststoffen / bodemverbetering - sproeistoffen - graszaden voor de Koksijde Golf ter Hille 2027 + twee eventuele verlengingen"
+       "text": "Raamovereenkomst met één dienstverlener voor het inhuren van een Senior Financial Controller"
       }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
      ],
      "titles": [
       {
        "language": "NL",
-       "text": "Leveren meststoffen / bodemverbetering - sproeistoffen - graszaden voor de Koksijde Golf ter Hille 2027 + twee eventuele verlengingen"
+       "text": "District09-G001202 - 1"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SERVICES"
+   ],
+   "noticeIds": [
+    "3840dcf8-1b58-495f-9df0-75a82c701263"
+   ],
+   "noticeSubType": "E3",
+   "nutsCodes": [
+    "BE234"
+   ],
+   "organisation": {
+    "organisationId": 3935,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "District09"
+     },
+     {
+      "language": "NL",
+      "text": "District09"
+     },
+     {
+      "language": "EN",
+      "text": "District09"
+     },
+     {
+      "language": "FR",
+      "text": "District09"
+     }
+    ],
+    "tree": "200004.200036.3935"
+   },
+   "procedureId": "06a45e06-2b65-48b9-8d2e-ebb4691339bd",
+   "publicationDate": "2026-11-03",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "District09-G001202_pub01"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "5107a365-8b96-4e46-abb1-c78a643df851",
+   "publishedAt": [
+    "2026-11-03T07:56:45.023554"
+   ],
+   "referenceNumber": "District09-G001202_pub01",
+   "sentAt": [
+    "2026-11-03T07:56:45.023554"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-11-16T09:00:00"
+  }
+ ],
+ "exemple_attribution": [
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "30192000-1",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Bürobedarf"
+      },
+      {
+       "language": "FR",
+       "text": "Fournitures de bureau"
+      },
+      {
+       "language": "EN",
+       "text": "Office supplies"
+      },
+      {
+       "language": "NL",
+       "text": "Kantoorbenodigdheden"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "30192000-1",
+    "descriptions": [
+     {
+      "language": "DE",
+      "text": "Bürobedarf"
+     },
+     {
+      "language": "FR",
+      "text": "Fournitures de bureau"
+     },
+     {
+      "language": "EN",
+      "text": "Office supplies"
+     },
+     {
+      "language": "NL",
+      "text": "Kantoorbenodigdheden"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-03",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Deze raamovereenkomst betreft het leveren van kantoormateriaal via deelbestellingen aan provincie Limburg (provinciale diensten en instellingen) alsook IVA's en EVA's.   Het doel van deze raamovereenkomst is om een betrouwbare en efficiënte bevoorrading van alle noodzakelijke kantoorbenodigdheden te waarborgen gedurende een vooraf bepaalde periode. De raamovereenkomst zal een gestandaardiseerde, flexibele en kostenefficiënte oplossing bieden voor het verkrijgen van kantoormateriaal.  Deze opdracht is bedoeld om de bevoorrading van kantoormateriaal op lange termijn te optimaliseren, zodat de dagelijkse werking van de organisatie niet wordt belemmerd door onvoorziene tekorten of administratieve vertragingen. "
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP0SG-25027/6476/2026N169404",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "PPP0SG-25027/6476/2026N169404",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Provincie Limburg - Raamovereenkomst leveren van kantoorbenodigdheden"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-03",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Deze raamovereenkomst betreft het leveren van kantoormateriaal via deelbestellingen aan provincie Limburg (provinciale diensten en instellingen) alsook IVA's en EVA's.   Het doel van deze raamovereenkomst is om een betrouwbare en efficiënte bevoorrading van alle noodzakelijke kantoorbenodigdheden te waarborgen gedurende een vooraf bepaalde periode. De raamovereenkomst zal een gestandaardiseerde, flexibele en kostenefficiënte oplossing bieden voor het verkrijgen van kantoormateriaal.  Deze opdracht is bedoeld om de bevoorrading van kantoormateriaal op lange termijn te optimaliseren, zodat de dagelijkse werking van de organisatie niet wordt belemmerd door onvoorziene tekorten of administratieve vertragingen. "
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Provincie Limburg - Raamovereenkomst leveren van kantoorbenodigdheden"
       }
      ]
     }
@@ -630,51 +558,51 @@
     "SUPPLIES"
    ],
    "noticeIds": [
-    "55043b83-7c9a-41d1-a3da-cacbf0b7fcd5"
+    "8d740d2d-8533-4f97-8381-229679b4cb9c"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE258"
+    "BE224"
    ],
    "organisation": {
-    "organisationId": 260,
+    "organisationId": 112,
     "organisationNames": [
      {
       "language": "DE",
-      "text": "Koksijde"
+      "text": "Provincie Limburg"
      },
      {
       "language": "NL",
-      "text": "Koksijde"
+      "text": "Provincie Limburg"
      },
      {
       "language": "FR",
-      "text": "Koksijde"
+      "text": "Provincie Limburg"
      },
      {
       "language": "EN",
-      "text": "Koksijde"
+      "text": "Provincie Limburg"
      }
     ],
-    "tree": "200004.200021.260"
+    "tree": "200004.200020.112"
    },
-   "procedureId": "91e8579c-c595-4768-b94d-c899251002cb",
+   "procedureId": "644587be-ec76-4ec5-871e-f2b3f78f8703",
    "publicationDate": "2026-11-03",
    "publicationLanguages": [
     "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP00T-4155/6715/2026138_002"
+    "PPP0SG-25027/6476/2026N169404_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "89171137-ce5d-46a6-b245-249736155722",
+   "publicationWorkspaceId": "0a760cf7-ec95-4738-bf25-b3c1ac164e71",
    "publishedAt": [
-    "2026-11-03T00:00:46.0926"
+    "2026-11-03T08:04:45.033761"
    ],
-   "referenceNumber": "PPP00T-4155/6715/2026138_002",
+   "referenceNumber": "PPP0SG-25027/6476/2026N169404_002",
    "sentAt": [
-    "2026-11-03T00:00:46.0926"
+    "2026-11-03T08:04:45.033761"
    ],
    "tedPublished": false
   }

@@ -1,11 +1,13 @@
 {
- "updated": "2026-11-03T11:01:47Z",
+ "updated": "2026-11-03T13:01:57Z",
  "source": "urban.brussels NOVA (WFS)",
  "days_back": 3,
- "received": 29,
- "kept": 2,
- "count": 159,
- "new_ids": [],
+ "received": 33,
+ "kept": 3,
+ "count": 160,
+ "new_ids": [
+  "nova-04/PFU/2051360"
+ ],
  "records": [
   {
    "id": "nova-18/PU/2051310",
@@ -38,6 +40,22 @@
    "date_publication": "2026-11-02",
    "notes": "Autorité : Ixelles",
    "first_seen": "2026-11-03T05:02:11Z"
+  },
+  {
+   "id": "nova-04/PFU/2051360",
+   "source_type": "Permis",
+   "nom": "Adapter et ajouter un garde-corps extérieurs identiques aux existants, la modification de la finition de la dalle de l’atrium et l’amélioration des raccords des panneaux des portes restaurées ou resti",
+   "lieu": "Quai des Usines 155, 1000 Bruxelles",
+   "type": "Permis d'urbanisme unique délivré par le FD",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='04/PFU/2051360'",
+   "verif": "vérifié",
+   "verif_date": "2026-11-03",
+   "preuve": "Demande de permis 04/PFU/2051360 reçue le 2026-11-02 (urban.brussels, service NOVA).",
+   "date_publication": "2026-11-02",
+   "notes": "Autorité : BUP",
+   "first_seen": "2026-11-03T13:01:57Z"
   },
   {
    "id": "nova-16/PU/2051207",
