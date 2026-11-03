@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 294386
+  "totalCount": 294398
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -12,6 +12,7 @@
   "ACTIVE|17|['SERVICES']",
   "ACTIVE|17|['WORKS']",
   "ACTIVE|19|['SERVICES', 'WORKS']",
+  "ACTIVE|19|['SERVICES']",
   "ACTIVE|20|['SERVICES']",
   "ACTIVE|21|['SUPPLIES']",
   "ACTIVE|29|['SERVICES']",
@@ -19,6 +20,7 @@
   "ACTIVE|29|['WORKS']",
   "ACTIVE|30|['SERVICES']",
   "ACTIVE|30|['SUPPLIES']",
+  "ACTIVE|33|['SERVICES']",
   "ACTIVE|34|['SUPPLIES']",
   "ACTIVE|E1|['SERVICES']",
   "ACTIVE|E3|['SERVICES']",
@@ -35,8 +37,8 @@
      "code": "45262400-5",
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Optrekken van staalconstructies"
+       "language": "FR",
+       "text": "Travaux d'assemblage d'ossatures métalliques"
       },
       {
        "language": "DE",
@@ -47,8 +49,8 @@
        "text": "Structural steel erection work"
       },
       {
-       "language": "FR",
-       "text": "Travaux d'assemblage d'ossatures métalliques"
+       "language": "NL",
+       "text": "Optrekken van staalconstructies"
       }
      ]
     },
