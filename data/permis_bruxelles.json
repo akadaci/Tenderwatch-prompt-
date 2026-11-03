@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T23:01:41Z",
+ "updated": "2026-11-03T01:01:41Z",
  "source": "urban.brussels NOVA (WFS)",
  "days_back": 3,
  "received": 9,
@@ -17,7 +17,7 @@
    "etape": 1,
    "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='18/PU/2051310'",
    "verif": "vérifié",
-   "verif_date": "2026-11-02",
+   "verif_date": "2026-11-03",
    "preuve": "Demande de permis 18/PU/2051310 reçue le 2026-11-02 (urban.brussels, service NOVA), surface projetée 2027 m².",
    "date_publication": "2026-11-02",
    "notes": "Autorité : Woluwe-Saint-Lambert",
