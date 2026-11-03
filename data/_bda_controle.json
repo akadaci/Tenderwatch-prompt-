@@ -1,13 +1,12 @@
 {
  "meta": {
-  "totalCount": 294503
+  "totalCount": 294508
  },
  "types": [
   "ACTIVE|10|['WORKS']",
   "ACTIVE|16|['SERVICES']",
   "ACTIVE|16|['SUPPLIES']",
   "ACTIVE|16|['WORKS']",
-  "ACTIVE|17|['SERVICES']",
   "ACTIVE|17|['WORKS']",
   "ACTIVE|19|['SERVICES']",
   "ACTIVE|29|['SERVICES']",
@@ -32,77 +31,76 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "30192000-1",
+     "code": "45210000-2",
      "descriptions": [
       {
+       "language": "EN",
+       "text": "Building construction work"
+      },
+      {
        "language": "DE",
-       "text": "Bürobedarf"
+       "text": "Bauleistungen im Hochbau"
       },
       {
        "language": "FR",
-       "text": "Fournitures de bureau"
-      },
-      {
-       "language": "EN",
-       "text": "Office supplies"
+       "text": "Travaux de construction de bâtiments"
       },
       {
        "language": "NL",
-       "text": "Kantoorbenodigdheden"
+       "text": "Bouwen van gebouwen"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "30192000-1",
+    "code": "45210000-2",
     "descriptions": [
      {
+      "language": "EN",
+      "text": "Building construction work"
+     },
+     {
       "language": "DE",
-      "text": "Bürobedarf"
+      "text": "Bauleistungen im Hochbau"
      },
      {
       "language": "FR",
-      "text": "Fournitures de bureau"
-     },
-     {
-      "language": "EN",
-      "text": "Office supplies"
+      "text": "Travaux de construction de bâtiments"
      },
      {
       "language": "NL",
-      "text": "Kantoorbenodigdheden"
+      "text": "Bouwen van gebouwen"
      }
     ]
    },
-   "dispatchDate": "2026-11-03",
+   "dispatchDate": "2026-11-04",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Deze raamovereenkomst betreft het leveren van kantoormateriaal via deelbestellingen aan provincie Limburg (provinciale diensten en instellingen) alsook IVA's en EVA's.   Het doel van deze raamovereenkomst is om een betrouwbare en efficiënte bevoorrading van alle noodzakelijke kantoorbenodigdheden te waarborgen gedurende een vooraf bepaalde periode. De raamovereenkomst zal een gestandaardiseerde, flexibele en kostenefficiënte oplossing bieden voor het verkrijgen van kantoormateriaal.  Deze opdracht is bedoeld om de bevoorrading van kantoormateriaal op lange termijn te optimaliseren, zodat de dagelijkse werking van de organisatie niet wordt belemmerd door onvoorziene tekorten of administratieve vertragingen. "
+      "language": "FR",
+      "text": "Aménagements sportifs multi-disciplinaires au Complexe Sportif d'Ellezelles - Lot 3 : Cafétaria - gros-oeuvre et parachèvements"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP0SG-25027/6476/2026N169404",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "PPP0SG-25027/6476/2026N169404",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "number": "PPP0B1-613/6032/T. EXT. : 2026-011",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "PPP0B1-613/6032/T. EXT. : 2026-011",
     "titles": [
      {
-      "language": "NL",
-      "text": "Provincie Limburg - Raamovereenkomst leveren van kantoorbenodigdheden"
+      "language": "FR",
+      "text": "Aménagements sportifs multi-disciplinaires au Complexe Sportif d'Ellezelles - Lot 3 : Cafétaria - gros-oeuvre et parachèvements"
      }
     ]
    },
-   "insertionDate": "2026-11-03",
+   "insertionDate": "2026-11-04",
    "lots": [
     {
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Deze raamovereenkomst betreft het leveren van kantoormateriaal via deelbestellingen aan provincie Limburg (provinciale diensten en instellingen) alsook IVA's en EVA's.   Het doel van deze raamovereenkomst is om een betrouwbare en efficiënte bevoorrading van alle noodzakelijke kantoorbenodigdheden te waarborgen gedurende een vooraf bepaalde periode. De raamovereenkomst zal een gestandaardiseerde, flexibele en kostenefficiënte oplossing bieden voor het verkrijgen van kantoormateriaal.  Deze opdracht is bedoeld om de bevoorrading van kantoormateriaal op lange termijn te optimaliseren, zodat de dagelijkse werking van de organisatie niet wordt belemmerd door onvoorziene tekorten of administratieve vertragingen. "
+       "language": "FR",
+       "text": "Aménagements sportifs multi-disciplinaires au Complexe Sportif d'Ellezelles - Lot 3 : Cafétaria - gros-oeuvre et parachèvements"
       }
      ],
      "reservedExecution": [
@@ -113,290 +111,149 @@
      ],
      "titles": [
       {
-       "language": "NL",
-       "text": "Provincie Limburg - Raamovereenkomst leveren van kantoorbenodigdheden"
+       "language": "FR",
+       "text": "Aménagements sportifs multi-disciplinaires au Complexe Sportif d'Ellezelles - Lot 3 : Cafétaria - gros-oeuvre et parachèvements"
       }
      ]
     }
    ],
    "natures": [
-    "SUPPLIES"
+    "WORKS"
    ],
    "noticeIds": [
-    "8d740d2d-8533-4f97-8381-229679b4cb9c"
+    "52b9fe02-3882-45b3-ac61-85b290724074"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE224"
+    "BE32A"
    ],
    "organisation": {
-    "organisationId": 112,
+    "organisationId": 330,
     "organisationNames": [
      {
       "language": "DE",
-      "text": "Provincie Limburg"
+      "text": "Ellezelles"
      },
      {
       "language": "NL",
-      "text": "Provincie Limburg"
+      "text": "Ellezelles"
      },
      {
       "language": "FR",
-      "text": "Provincie Limburg"
+      "text": "Ellezelles"
      },
      {
       "language": "EN",
-      "text": "Provincie Limburg"
+      "text": "Ellezelles"
      }
     ],
-    "tree": "200004.200020.112"
+    "tree": "200004.200021.330"
    },
-   "procedureId": "644587be-ec76-4ec5-871e-f2b3f78f8703",
-   "publicationDate": "2026-11-03",
+   "procedureId": "3605ed80-0bce-4784-be60-282c1def88a8",
+   "publicationDate": "2026-11-04",
    "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP0SG-25027/6476/2026N169404_002"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "0a760cf7-ec95-4738-bf25-b3c1ac164e71",
-   "publishedAt": [
-    "2026-11-03T08:04:45.033761"
-   ],
-   "referenceNumber": "PPP0SG-25027/6476/2026N169404_002",
-   "sentAt": [
-    "2026-11-03T08:04:45.033761"
-   ],
-   "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "79952000-2",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Event services"
-      },
-      {
-       "language": "FR",
-       "text": "Services d'organisation d'événements"
-      },
-      {
-       "language": "NL",
-       "text": "Diensten voor het organiseren van evenementen"
-      },
-      {
-       "language": "DE",
-       "text": "Event-Organisation"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "79952000-2",
-    "descriptions": [
-     {
-      "language": "EN",
-      "text": "Event services"
-     },
-     {
-      "language": "FR",
-      "text": "Services d'organisation d'événements"
-     },
-     {
-      "language": "NL",
-      "text": "Diensten voor het organiseren van evenementen"
-     },
-     {
-      "language": "DE",
-      "text": "Event-Organisation"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-03",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Overheidsopdracht voor diensten met het doel het organiseren, gedurende 24 maanden, van de jaarlijkse ceremonie voor de overhandiging van de Nationale Trofee voor Sportverdienste"
-     },
-     {
-      "language": "FR",
-      "text": "Marché public de services ayant pour but l'organisation, pendant 24 mois, de la cérémonie annuelle de remise du Trophée National du Mérite Sportif"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "AFA/014226/MGG",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "AFA/014226/MGG",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Overheidsopdracht voor diensten met het doel het organiseren, gedurende 24 maanden, van de jaarlijkse ceremonie voor de overhandiging van de Nationale Trofee voor Sportverdienste"
-     },
-     {
-      "language": "FR",
-      "text": "Marché public de services ayant pour but l'organisation, pendant 24 mois, de la cérémonie annuelle de remise du Trophée National du Mérite Sportif"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-03",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Overheidsopdracht voor diensten met het doel het organiseren, gedurende 24 maanden, van de jaarlijkse ceremonie voor de overhandiging van de Nationale Trofee voor Sportverdienste"
-      },
-      {
-       "language": "FR",
-       "text": "Marché public de services ayant pour but l'organisation, pendant 24 mois, de la cérémonie annuelle de remise du Trophée National du Mérite Sportif"
-      }
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "AFA/014226/MGG - 1"
-      },
-      {
-       "language": "NL",
-       "text": "AFA/014226/MGG - 1"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SERVICES"
-   ],
-   "noticeIds": [
-    "ae45ba55-890a-4676-a420-1ff7addf4118"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE100"
-   ],
-   "organisation": {
-    "organisationId": 4620,
-    "organisationNames": [
-     {
-      "language": "EN",
-      "text": "Ville de Bruxelles - Achats & Facilities"
-     },
-     {
-      "language": "DE",
-      "text": "Ville de Bruxelles - Aankopen & Facilities"
-     },
-     {
-      "language": "FR",
-      "text": "Ville de Bruxelles - Achats & Facilities"
-     },
-     {
-      "language": "NL",
-      "text": "Stad Brussel - Aankopen & Facilities"
-     }
-    ],
-    "tree": "200004.200021.48.4620"
-   },
-   "procedureId": "9752a793-f51c-49a5-8a81-594095af0642",
-   "publicationDate": "2026-11-03",
-   "publicationLanguages": [
-    "NL",
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "AFA/014226/MGG_pub01"
+    "PPP0B1-613/6032/T. EXT. : 2026-011_004"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "15ff82e2-7f1e-4d6c-820b-275d85241a7f",
+   "publicationWorkspaceId": "43114ede-3db7-4e7d-8716-b44b7809b6d7",
    "publishedAt": [
-    "2026-11-03T08:54:45.01466"
+    "2026-11-04T00:00:48.4798"
    ],
-   "referenceNumber": "AFA/014226/MGG_pub01",
+   "referenceNumber": "PPP0B1-613/6032/T. EXT. : 2026-011_004",
    "sentAt": [
-    "2026-11-03T08:54:45.01466"
+    "2026-11-04T00:00:48.4798"
    ],
    "tedPublished": false
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "66170000-2",
+     "code": "45262660-5",
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Services de conseils financiers, services de traitement des transactions financières et services de chambres de compensation"
-      },
-      {
-       "language": "EN",
-       "text": "Financial consultancy, financial transaction processing and clearing-house services"
-      },
-      {
        "language": "NL",
-       "text": "Diensten op het gebied van financiële consultancy, financiële transacties en clearing"
+       "text": "Verwijderen van asbest"
       },
       {
        "language": "DE",
-       "text": "Finanzberatung, Bearbeitung und Clearing von Finanzgeschäften"
+       "text": "Asbestbeseitigungsarbeiten"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de désamiantage"
+      },
+      {
+       "language": "EN",
+       "text": "Asbestos-removal work"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "66170000-2",
+    "code": "45262660-5",
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Services de conseils financiers, services de traitement des transactions financières et services de chambres de compensation"
-     },
-     {
-      "language": "EN",
-      "text": "Financial consultancy, financial transaction processing and clearing-house services"
-     },
-     {
       "language": "NL",
-      "text": "Diensten op het gebied van financiële consultancy, financiële transacties en clearing"
+      "text": "Verwijderen van asbest"
      },
      {
       "language": "DE",
-      "text": "Finanzberatung, Bearbeitung und Clearing von Finanzgeschäften"
+      "text": "Asbestbeseitigungsarbeiten"
+     },
+     {
+      "language": "FR",
+      "text": "Travaux de désamiantage"
+     },
+     {
+      "language": "EN",
+      "text": "Asbestos-removal work"
      }
     ]
    },
-   "dispatchDate": "2026-11-03",
+   "dispatchDate": "2026-11-04",
    "dossier": {
-    "accreditations": {},
+    "accreditations": {
+     "H2": 4
+    },
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Raamovereenkomst met één dienstverlener voor het inhuren van een senior Financial Controller"
+      "language": "FR",
+      "text": "L’objet du marché porte sur le désamiantage par décapage chimique de la peinture sur les pieds de poteaux caténaire. La zone de travail est située ligne 125 entre Bas-Oha et Namur et sur la ligne 144 entre Gembloux – Jemeppe-sur-Sambre."
      }
     ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "District09-G001202",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "District09-G001202",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "enterpriseCategories": [
+     {
+      "categoryCode": "H2",
+      "levels": [
+       4,
+       3,
+       2,
+       1
+      ]
+     }
+    ],
+    "legalBasis": "D25",
+    "number": "5742426029",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "5742426029",
     "titles": [
      {
-      "language": "NL",
-      "text": "Senior Financial Controller"
+      "language": "FR",
+      "text": "CSC N°57/42/4/26/029 - Ligne 125 - Bas-Oha – Namur et Ligne 144 – Gembloux – Jemeppe-sur-Sambre - Désamiantage de pieds de poteaux caténaires"
      }
     ]
    },
-   "insertionDate": "2026-11-03",
+   "insertionDate": "2026-11-04",
    "lots": [
     {
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Raamovereenkomst met één dienstverlener voor het inhuren van een Senior Financial Controller"
+       "language": "FR",
+       "text": "L’objet du marché porte sur le désamiantage par décapage chimique de la peinture sur les pieds de poteaux caténaire. La zone de travail est située ligne 125 entre Bas-Oha et Namur et sur la ligne 144 entre Gembloux – Jemeppe-sur-Sambre."
       }
      ],
      "reservedExecution": [
@@ -407,141 +264,282 @@
      ],
      "titles": [
       {
-       "language": "NL",
-       "text": "District09-G001202 - 1"
+       "language": "FR",
+       "text": "CSC N°57/42/4/26/029 - Ligne 125 - Bas-Oha – Namur et Ligne 144 – Gembloux – Jemeppe-sur-Sambre - Désamiantage de pieds de poteaux caténaires"
       }
      ]
     }
    ],
    "natures": [
-    "SERVICES"
+    "WORKS"
    ],
    "noticeIds": [
-    "3840dcf8-1b58-495f-9df0-75a82c701263"
+    "482a8067-c593-40a6-9d43-85063b78f4b6"
    ],
-   "noticeSubType": "E3",
+   "noticeSubType": "17",
    "nutsCodes": [
-    "BE234"
+    "BE352"
    ],
    "organisation": {
-    "organisationId": 3935,
+    "organisationId": 17122,
     "organisationNames": [
      {
       "language": "DE",
-      "text": "District09"
+      "text": "Infrabel Projects South"
      },
      {
       "language": "NL",
-      "text": "District09"
-     },
-     {
-      "language": "EN",
-      "text": "District09"
+      "text": "Infrabel Projects South"
      },
      {
       "language": "FR",
-      "text": "District09"
+      "text": "Infrabel Projects South"
+     },
+     {
+      "language": "EN",
+      "text": "Infrabel Projects South"
      }
     ],
-    "tree": "200004.200036.3935"
+    "tree": "200002.200014.4784.17122"
    },
-   "procedureId": "06a45e06-2b65-48b9-8d2e-ebb4691339bd",
-   "publicationDate": "2026-11-03",
+   "procedureId": "215d76ba-65b3-4424-873d-e576df28986c",
+   "publicationDate": "2026-11-04",
    "publicationLanguages": [
-    "NL"
+    "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "District09-G001202_pub01"
+    "5742426029_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "5107a365-8b96-4e46-abb1-c78a643df851",
+   "publicationWorkspaceId": "6ae4ab56-6168-4662-a91a-3c7e3524d8cd",
    "publishedAt": [
-    "2026-11-03T07:56:45.023554"
+    "2026-11-04T00:00:46.982083"
    ],
-   "referenceNumber": "District09-G001202_pub01",
+   "referenceNumber": "5742426029_pub01",
    "sentAt": [
-    "2026-11-03T07:56:45.023554"
+    "2026-11-04T00:00:46.982083"
    ],
    "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-16T09:00:00"
+   "vaultSubmissionDeadline": "2026-12-08T14:00:00"
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45233220-7",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Oberbauarbeiten für Landstraßen"
+      },
+      {
+       "language": "NL",
+       "text": "Wegdekwerkzaamheden voor wegen"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de revêtement de routes"
+      },
+      {
+       "language": "EN",
+       "text": "Surface work for roads"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45233220-7",
+    "descriptions": [
+     {
+      "language": "DE",
+      "text": "Oberbauarbeiten für Landstraßen"
+     },
+     {
+      "language": "NL",
+      "text": "Wegdekwerkzaamheden voor wegen"
+     },
+     {
+      "language": "FR",
+      "text": "Travaux de revêtement de routes"
+     },
+     {
+      "language": "EN",
+      "text": "Surface work for roads"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-04",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Réfection de la rue de la Résistance"
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP08L-438/6089/3522026",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "PPP08L-438/6089/3522026",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Réfection de la rue de la Résistance"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-04",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Réfection de la rue de la Résistance"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Réfection de la rue de la Résistance"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "919c8e5e-b627-4bd1-940c-602d8e6fcd11"
+   ],
+   "noticeSubType": "16",
+   "nutsCodes": [
+    "BE334"
+   ],
+   "organisation": {
+    "organisationId": 275,
+    "organisationNames": [
+     {
+      "language": "EN",
+      "text": "Remicourt"
+     },
+     {
+      "language": "FR",
+      "text": "Remicourt"
+     },
+     {
+      "language": "DE",
+      "text": "Remicourt"
+     },
+     {
+      "language": "NL",
+      "text": "Remicourt"
+     }
+    ],
+    "tree": "200004.200021.275"
+   },
+   "procedureId": "03eac181-5eeb-4b20-8d42-195392da6281",
+   "publicationDate": "2026-11-04",
+   "publicationLanguages": [
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP08L-438/6089/3522026_001"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "ac31eff1-e459-41b1-91e5-8ed036bbdf62",
+   "publishedAt": [
+    "2026-11-04T00:00:46.020472"
+   ],
+   "referenceNumber": "PPP08L-438/6089/3522026_001",
+   "sentAt": [
+    "2026-11-04T00:00:46.020472"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-12-07T10:00:00"
   }
  ],
  "exemple_attribution": [
   {
    "cpvAdditionalCodes": [
     {
-     "code": "30192000-1",
+     "code": "45210000-2",
      "descriptions": [
       {
+       "language": "EN",
+       "text": "Building construction work"
+      },
+      {
        "language": "DE",
-       "text": "Bürobedarf"
+       "text": "Bauleistungen im Hochbau"
       },
       {
        "language": "FR",
-       "text": "Fournitures de bureau"
-      },
-      {
-       "language": "EN",
-       "text": "Office supplies"
+       "text": "Travaux de construction de bâtiments"
       },
       {
        "language": "NL",
-       "text": "Kantoorbenodigdheden"
+       "text": "Bouwen van gebouwen"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "30192000-1",
+    "code": "45210000-2",
     "descriptions": [
      {
+      "language": "EN",
+      "text": "Building construction work"
+     },
+     {
       "language": "DE",
-      "text": "Bürobedarf"
+      "text": "Bauleistungen im Hochbau"
      },
      {
       "language": "FR",
-      "text": "Fournitures de bureau"
-     },
-     {
-      "language": "EN",
-      "text": "Office supplies"
+      "text": "Travaux de construction de bâtiments"
      },
      {
       "language": "NL",
-      "text": "Kantoorbenodigdheden"
+      "text": "Bouwen van gebouwen"
      }
     ]
    },
-   "dispatchDate": "2026-11-03",
+   "dispatchDate": "2026-11-04",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Deze raamovereenkomst betreft het leveren van kantoormateriaal via deelbestellingen aan provincie Limburg (provinciale diensten en instellingen) alsook IVA's en EVA's.   Het doel van deze raamovereenkomst is om een betrouwbare en efficiënte bevoorrading van alle noodzakelijke kantoorbenodigdheden te waarborgen gedurende een vooraf bepaalde periode. De raamovereenkomst zal een gestandaardiseerde, flexibele en kostenefficiënte oplossing bieden voor het verkrijgen van kantoormateriaal.  Deze opdracht is bedoeld om de bevoorrading van kantoormateriaal op lange termijn te optimaliseren, zodat de dagelijkse werking van de organisatie niet wordt belemmerd door onvoorziene tekorten of administratieve vertragingen. "
+      "language": "FR",
+      "text": "Aménagements sportifs multi-disciplinaires au Complexe Sportif d'Ellezelles - Lot 3 : Cafétaria - gros-oeuvre et parachèvements"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP0SG-25027/6476/2026N169404",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "PPP0SG-25027/6476/2026N169404",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "number": "PPP0B1-613/6032/T. EXT. : 2026-011",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "PPP0B1-613/6032/T. EXT. : 2026-011",
     "titles": [
      {
-      "language": "NL",
-      "text": "Provincie Limburg - Raamovereenkomst leveren van kantoorbenodigdheden"
+      "language": "FR",
+      "text": "Aménagements sportifs multi-disciplinaires au Complexe Sportif d'Ellezelles - Lot 3 : Cafétaria - gros-oeuvre et parachèvements"
      }
     ]
    },
-   "insertionDate": "2026-11-03",
+   "insertionDate": "2026-11-04",
    "lots": [
     {
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Deze raamovereenkomst betreft het leveren van kantoormateriaal via deelbestellingen aan provincie Limburg (provinciale diensten en instellingen) alsook IVA's en EVA's.   Het doel van deze raamovereenkomst is om een betrouwbare en efficiënte bevoorrading van alle noodzakelijke kantoorbenodigdheden te waarborgen gedurende een vooraf bepaalde periode. De raamovereenkomst zal een gestandaardiseerde, flexibele en kostenefficiënte oplossing bieden voor het verkrijgen van kantoormateriaal.  Deze opdracht is bedoeld om de bevoorrading van kantoormateriaal op lange termijn te optimaliseren, zodat de dagelijkse werking van de organisatie niet wordt belemmerd door onvoorziene tekorten of administratieve vertragingen. "
+       "language": "FR",
+       "text": "Aménagements sportifs multi-disciplinaires au Complexe Sportif d'Ellezelles - Lot 3 : Cafétaria - gros-oeuvre et parachèvements"
       }
      ],
      "reservedExecution": [
@@ -552,61 +550,61 @@
      ],
      "titles": [
       {
-       "language": "NL",
-       "text": "Provincie Limburg - Raamovereenkomst leveren van kantoorbenodigdheden"
+       "language": "FR",
+       "text": "Aménagements sportifs multi-disciplinaires au Complexe Sportif d'Ellezelles - Lot 3 : Cafétaria - gros-oeuvre et parachèvements"
       }
      ]
     }
    ],
    "natures": [
-    "SUPPLIES"
+    "WORKS"
    ],
    "noticeIds": [
-    "8d740d2d-8533-4f97-8381-229679b4cb9c"
+    "52b9fe02-3882-45b3-ac61-85b290724074"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE224"
+    "BE32A"
    ],
    "organisation": {
-    "organisationId": 112,
+    "organisationId": 330,
     "organisationNames": [
      {
       "language": "DE",
-      "text": "Provincie Limburg"
+      "text": "Ellezelles"
      },
      {
       "language": "NL",
-      "text": "Provincie Limburg"
+      "text": "Ellezelles"
      },
      {
       "language": "FR",
-      "text": "Provincie Limburg"
+      "text": "Ellezelles"
      },
      {
       "language": "EN",
-      "text": "Provincie Limburg"
+      "text": "Ellezelles"
      }
     ],
-    "tree": "200004.200020.112"
+    "tree": "200004.200021.330"
    },
-   "procedureId": "644587be-ec76-4ec5-871e-f2b3f78f8703",
-   "publicationDate": "2026-11-03",
+   "procedureId": "3605ed80-0bce-4784-be60-282c1def88a8",
+   "publicationDate": "2026-11-04",
    "publicationLanguages": [
-    "NL"
+    "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP0SG-25027/6476/2026N169404_002"
+    "PPP0B1-613/6032/T. EXT. : 2026-011_004"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "0a760cf7-ec95-4738-bf25-b3c1ac164e71",
+   "publicationWorkspaceId": "43114ede-3db7-4e7d-8716-b44b7809b6d7",
    "publishedAt": [
-    "2026-11-03T08:04:45.033761"
+    "2026-11-04T00:00:48.4798"
    ],
-   "referenceNumber": "PPP0SG-25027/6476/2026N169404_002",
+   "referenceNumber": "PPP0B1-613/6032/T. EXT. : 2026-011_004",
    "sentAt": [
-    "2026-11-03T08:04:45.033761"
+    "2026-11-04T00:00:48.4798"
    ],
    "tedPublished": false
   }
