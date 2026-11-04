@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 294549
+  "totalCount": 294552
  },
  "types": [
   "ACTIVE|10|['WORKS']",
@@ -41,20 +41,20 @@
      "code": "45221220-0",
      "descriptions": [
       {
-       "language": "DE",
-       "text": "Durchlässe"
-      },
-      {
        "language": "FR",
        "text": "Ponceaux"
       },
       {
-       "language": "EN",
-       "text": "Culverts"
+       "language": "DE",
+       "text": "Durchlässe"
       },
       {
        "language": "NL",
        "text": "Duikers"
+      },
+      {
+       "language": "EN",
+       "text": "Culverts"
       }
      ]
     }
@@ -63,20 +63,20 @@
     "code": "45221220-0",
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Ponceaux"
-     },
-     {
       "language": "DE",
       "text": "Durchlässe"
      },
      {
-      "language": "EN",
-      "text": "Culverts"
+      "language": "FR",
+      "text": "Ponceaux"
      },
      {
       "language": "NL",
       "text": "Duikers"
+     },
+     {
+      "language": "EN",
+      "text": "Culverts"
      }
     ]
    },
@@ -308,45 +308,45 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45210000-2",
+     "code": "71311210-6",
      "descriptions": [
       {
-       "language": "EN",
-       "text": "Building construction work"
-      },
-      {
        "language": "DE",
-       "text": "Bauleistungen im Hochbau"
+       "text": "Beratung im Bereich Straßenbau"
       },
       {
        "language": "FR",
-       "text": "Travaux de construction de bâtiments"
+       "text": "Services de conseil en matière d'autoroutes"
       },
       {
        "language": "NL",
-       "text": "Bouwen van gebouwen"
+       "text": "Adviezen inzake wegenbouw"
+      },
+      {
+       "language": "EN",
+       "text": "Highways consultancy services"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45210000-2",
+    "code": "71311210-6",
     "descriptions": [
      {
-      "language": "EN",
-      "text": "Building construction work"
-     },
-     {
       "language": "DE",
-      "text": "Bauleistungen im Hochbau"
+      "text": "Beratung im Bereich Straßenbau"
      },
      {
       "language": "FR",
-      "text": "Travaux de construction de bâtiments"
+      "text": "Services de conseil en matière d'autoroutes"
      },
      {
       "language": "NL",
-      "text": "Bouwen van gebouwen"
+      "text": "Adviezen inzake wegenbouw"
+     },
+     {
+      "language": "EN",
+      "text": "Highways consultancy services"
      }
     ]
    },
@@ -355,19 +355,19 @@
     "accreditations": {},
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Aménagements sportifs multi-disciplinaires au Complexe Sportif d'Ellezelles - Lot 3 : Cafétaria - gros-oeuvre et parachèvements"
+      "language": "NL",
+      "text": "Aanleg publieke ruimte voor het project 'Frans Provoostplein' te Bredene"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP0B1-613/6032/T. EXT. : 2026-011",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "PPP0B1-613/6032/T. EXT. : 2026-011",
+    "number": "0E424F2D",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "0E424F2D",
     "titles": [
      {
-      "language": "FR",
-      "text": "Aménagements sportifs multi-disciplinaires au Complexe Sportif d'Ellezelles - Lot 3 : Cafétaria - gros-oeuvre et parachèvements"
+      "language": "NL",
+      "text": "Aanleg publieke ruimte voor het project 'Frans Provoostplein' te Bredene"
      }
     ]
    },
@@ -376,73 +376,67 @@
     {
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Aménagements sportifs multi-disciplinaires au Complexe Sportif d'Ellezelles - Lot 3 : Cafétaria - gros-oeuvre et parachèvements"
+       "language": "NL",
+       "text": "Aanleg publieke ruimte voor het project 'Frans Provoostplein' te Bredene"
       }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
      ],
      "titles": [
       {
-       "language": "FR",
-       "text": "Aménagements sportifs multi-disciplinaires au Complexe Sportif d'Ellezelles - Lot 3 : Cafétaria - gros-oeuvre et parachèvements"
+       "language": "NL",
+       "text": "0E424F2D - 1"
       }
      ]
     }
    ],
    "natures": [
-    "WORKS"
+    "SERVICES"
    ],
    "noticeIds": [
-    "52b9fe02-3882-45b3-ac61-85b290724074"
+    "f9fa819d-337f-40e5-a719-6ea785b83d6d"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE32A"
+    "BE255"
    ],
    "organisation": {
-    "organisationId": 330,
+    "organisationId": 5754,
     "organisationNames": [
      {
-      "language": "DE",
-      "text": "Ellezelles"
-     },
-     {
       "language": "NL",
-      "text": "Ellezelles"
-     },
-     {
-      "language": "FR",
-      "text": "Ellezelles"
+      "text": "Vlaamse Maatschappij voor Sociaal Wonen"
      },
      {
       "language": "EN",
-      "text": "Ellezelles"
+      "text": "Vlaamse Maatschappij voor Sociaal Wonen"
+     },
+     {
+      "language": "FR",
+      "text": "Vlaamse Maatschappij voor Sociaal Wonen"
+     },
+     {
+      "language": "DE",
+      "text": "Vlaamse Maatschappij voor Sociaal Wonen"
      }
     ],
-    "tree": "200004.200021.330"
+    "tree": "200003.200015.73.4649.5754"
    },
-   "procedureId": "3605ed80-0bce-4784-be60-282c1def88a8",
+   "procedureId": "181ec324-9998-43fa-83d8-b62d1324eb78",
    "publicationDate": "2026-11-04",
    "publicationLanguages": [
-    "FR"
+    "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP0B1-613/6032/T. EXT. : 2026-011_004"
+    "0E424F2D_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "43114ede-3db7-4e7d-8716-b44b7809b6d7",
+   "publicationWorkspaceId": "58d71561-c705-4337-8074-f08a188fb56f",
    "publishedAt": [
-    "2026-11-04T00:00:48.4798"
+    "2026-11-04T06:38:45.303303"
    ],
-   "referenceNumber": "PPP0B1-613/6032/T. EXT. : 2026-011_004",
+   "referenceNumber": "0E424F2D_pub01",
    "sentAt": [
-    "2026-11-04T00:00:48.4798"
+    "2026-11-04T06:38:45.303303"
    ],
    "tedPublished": false
   }
@@ -454,20 +448,20 @@
      "code": "45221220-0",
      "descriptions": [
       {
-       "language": "DE",
-       "text": "Durchlässe"
-      },
-      {
        "language": "FR",
        "text": "Ponceaux"
       },
       {
-       "language": "EN",
-       "text": "Culverts"
+       "language": "DE",
+       "text": "Durchlässe"
       },
       {
        "language": "NL",
        "text": "Duikers"
+      },
+      {
+       "language": "EN",
+       "text": "Culverts"
       }
      ]
     }
@@ -476,20 +470,20 @@
     "code": "45221220-0",
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Ponceaux"
-     },
-     {
       "language": "DE",
       "text": "Durchlässe"
      },
      {
-      "language": "EN",
-      "text": "Culverts"
+      "language": "FR",
+      "text": "Ponceaux"
      },
      {
       "language": "NL",
       "text": "Duikers"
+     },
+     {
+      "language": "EN",
+      "text": "Culverts"
      }
     ]
    },
