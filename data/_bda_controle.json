@@ -1,23 +1,30 @@
 {
  "meta": {
-  "totalCount": 294508
+  "totalCount": 294549
  },
  "types": [
   "ACTIVE|10|['WORKS']",
   "ACTIVE|16|['SERVICES']",
+  "ACTIVE|16|['SUPPLIES', 'WORKS']",
   "ACTIVE|16|['SUPPLIES']",
   "ACTIVE|16|['WORKS']",
+  "ACTIVE|17|['SERVICES']",
   "ACTIVE|17|['WORKS']",
   "ACTIVE|19|['SERVICES']",
+  "ACTIVE|20|['SERVICES']",
+  "ACTIVE|23|['SUPPLIES']",
   "ACTIVE|29|['SERVICES']",
   "ACTIVE|29|['SUPPLIES']",
   "ACTIVE|29|['WORKS']",
+  "ACTIVE|30|['SERVICES', 'SUPPLIES']",
   "ACTIVE|30|['SERVICES']",
   "ACTIVE|30|['SUPPLIES']",
   "ACTIVE|30|['WORKS']",
   "ACTIVE|33|['SERVICES']",
   "ACTIVE|33|['WORKS']",
   "ACTIVE|34|['SUPPLIES']",
+  "ACTIVE|38|['SERVICES']",
+  "ACTIVE|4|['SUPPLIES']",
   "ACTIVE|E1|['SERVICES']",
   "ACTIVE|E3|['SERVICES']",
   "ACTIVE|E3|['SUPPLIES', 'WORKS']",
@@ -28,6 +35,276 @@
   "ACTIVE|E4|['WORKS']"
  ],
  "exemples": [
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45221220-0",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Durchlässe"
+      },
+      {
+       "language": "FR",
+       "text": "Ponceaux"
+      },
+      {
+       "language": "EN",
+       "text": "Culverts"
+      },
+      {
+       "language": "NL",
+       "text": "Duikers"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45221220-0",
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Ponceaux"
+     },
+     {
+      "language": "DE",
+      "text": "Durchlässe"
+     },
+     {
+      "language": "EN",
+      "text": "Culverts"
+     },
+     {
+      "language": "NL",
+      "text": "Duikers"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-04",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "-  Dérivation des eaux du cours d'eau ; -  Travaux préparatoires de démolition sélective diverses ; -  Déblais / Remblais ; -  Mise en centre de traitement ; -  Mise en site autorisé ; -  Fondation en béton  ; -  Revêtement en béton ; -  Petits ouvrages d'art en béton armé ; -  Protection de berges ; - …     "
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP0I0-900/6044/AC/1165/2026/0002",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP0I0-900/6044/AC/1165/2026/0002",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Travaux de remplacement d'un pont surplombant le rieu du Billemont à la rue Bois de Chin."
+     }
+    ]
+   },
+   "insertionDate": "2026-11-04",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "-  Dérivation des eaux du cours d'eau ; -  Travaux préparatoires de démolition sélective diverses ; -  Déblais / Remblais ; -  Mise en centre de traitement ; -  Mise en site autorisé ; -  Fondation en béton  ; -  Revêtement en béton ; -  Petits ouvrages d'art en béton armé ; -  Protection de berges ; - …     "
+      }
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Travaux de remplacement d'un pont surplombant le rieu du Billemont à la rue Bois de Chin."
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "a538adcd-28d5-4161-bda0-f98adfdc31b6"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE328"
+   ],
+   "organisation": {
+    "organisationId": 540,
+    "organisationNames": [
+     {
+      "language": "FR",
+      "text": "Administration communale de Celles"
+     },
+     {
+      "language": "DE",
+      "text": "Celles"
+     },
+     {
+      "language": "NL",
+      "text": "Celles"
+     },
+     {
+      "language": "EN",
+      "text": "Celles"
+     }
+    ],
+    "tree": "200004.200021.540"
+   },
+   "procedureId": "b8e5f504-cb73-4275-a526-c8712e09dad2",
+   "publicationDate": "2026-11-04",
+   "publicationLanguages": [
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP0I0-900/6044/AC/1165/2026/0002_002"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "0dda3035-7520-4de4-9faf-340cdc1c7071",
+   "publishedAt": [
+    "2026-11-04T00:00:47.724205"
+   ],
+   "referenceNumber": "PPP0I0-900/6044/AC/1165/2026/0002_002",
+   "sentAt": [
+    "2026-11-04T00:00:47.724205"
+   ],
+   "tedPublished": false
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45215400-1",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Cemetery works"
+      },
+      {
+       "language": "NL",
+       "text": "Werkzaamheden voor begraafplaats"
+      },
+      {
+       "language": "DE",
+       "text": "Friedhof"
+      },
+      {
+       "language": "FR",
+       "text": "Cimetière"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45215400-1",
+    "descriptions": [
+     {
+      "language": "EN",
+      "text": "Cemetery works"
+     },
+     {
+      "language": "NL",
+      "text": "Werkzaamheden voor begraafplaats"
+     },
+     {
+      "language": "DE",
+      "text": "Friedhof"
+     },
+     {
+      "language": "FR",
+      "text": "Cimetière"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-04",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Exhumation de corps dans les pelouses du cimetière communal Ste-Anne."
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP0EC-2262/6292/572.1/3P-2262/FB",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP0EC-2262/6292/572.1/3P-2262/FB",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Service Cimetières - Exhumation de corps dans le cimetière Sainte-Anne"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-04",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Exhumation de corps dans les pelouses du cimetière communal Ste-Anne."
+      }
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Service Cimetières - Exhumation de corps dans le cimetière Sainte-Anne"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "75aca9f2-5b39-43af-90dc-b92b8a73df79"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE310"
+   ],
+   "organisation": {
+    "organisationId": 345,
+    "organisationNames": [
+     {
+      "language": "NL",
+      "text": "Waterloo"
+     },
+     {
+      "language": "FR",
+      "text": "Waterloo"
+     },
+     {
+      "language": "EN",
+      "text": "Waterloo"
+     },
+     {
+      "language": "DE",
+      "text": "Waterloo"
+     }
+    ],
+    "tree": "200004.200021.345"
+   },
+   "procedureId": "9e00c5de-949b-4378-a501-8ecc0a6f2058",
+   "publicationDate": "2026-11-04",
+   "publicationLanguages": [
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP0EC-2262/6292/572.1/3P-2262/FB_002"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "2ee31f75-0038-40db-8d88-f565d94c2556",
+   "publishedAt": [
+    "2026-11-04T00:00:48.806867"
+   ],
+   "referenceNumber": "PPP0EC-2262/6292/572.1/3P-2262/FB_002",
+   "sentAt": [
+    "2026-11-04T00:00:48.806867"
+   ],
+   "tedPublished": false
+  },
   {
    "cpvAdditionalCodes": [
     {
@@ -168,347 +445,51 @@
     "2026-11-04T00:00:48.4798"
    ],
    "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "45262660-5",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Verwijderen van asbest"
-      },
-      {
-       "language": "DE",
-       "text": "Asbestbeseitigungsarbeiten"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de désamiantage"
-      },
-      {
-       "language": "EN",
-       "text": "Asbestos-removal work"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "45262660-5",
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Verwijderen van asbest"
-     },
-     {
-      "language": "DE",
-      "text": "Asbestbeseitigungsarbeiten"
-     },
-     {
-      "language": "FR",
-      "text": "Travaux de désamiantage"
-     },
-     {
-      "language": "EN",
-      "text": "Asbestos-removal work"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-04",
-   "dossier": {
-    "accreditations": {
-     "H2": 4
-    },
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "L’objet du marché porte sur le désamiantage par décapage chimique de la peinture sur les pieds de poteaux caténaire. La zone de travail est située ligne 125 entre Bas-Oha et Namur et sur la ligne 144 entre Gembloux – Jemeppe-sur-Sambre."
-     }
-    ],
-    "enterpriseCategories": [
-     {
-      "categoryCode": "H2",
-      "levels": [
-       4,
-       3,
-       2,
-       1
-      ]
-     }
-    ],
-    "legalBasis": "D25",
-    "number": "5742426029",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "5742426029",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "CSC N°57/42/4/26/029 - Ligne 125 - Bas-Oha – Namur et Ligne 144 – Gembloux – Jemeppe-sur-Sambre - Désamiantage de pieds de poteaux caténaires"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-04",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "L’objet du marché porte sur le désamiantage par décapage chimique de la peinture sur les pieds de poteaux caténaire. La zone de travail est située ligne 125 entre Bas-Oha et Namur et sur la ligne 144 entre Gembloux – Jemeppe-sur-Sambre."
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "CSC N°57/42/4/26/029 - Ligne 125 - Bas-Oha – Namur et Ligne 144 – Gembloux – Jemeppe-sur-Sambre - Désamiantage de pieds de poteaux caténaires"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "WORKS"
-   ],
-   "noticeIds": [
-    "482a8067-c593-40a6-9d43-85063b78f4b6"
-   ],
-   "noticeSubType": "17",
-   "nutsCodes": [
-    "BE352"
-   ],
-   "organisation": {
-    "organisationId": 17122,
-    "organisationNames": [
-     {
-      "language": "DE",
-      "text": "Infrabel Projects South"
-     },
-     {
-      "language": "NL",
-      "text": "Infrabel Projects South"
-     },
-     {
-      "language": "FR",
-      "text": "Infrabel Projects South"
-     },
-     {
-      "language": "EN",
-      "text": "Infrabel Projects South"
-     }
-    ],
-    "tree": "200002.200014.4784.17122"
-   },
-   "procedureId": "215d76ba-65b3-4424-873d-e576df28986c",
-   "publicationDate": "2026-11-04",
-   "publicationLanguages": [
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "5742426029_pub01"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "6ae4ab56-6168-4662-a91a-3c7e3524d8cd",
-   "publishedAt": [
-    "2026-11-04T00:00:46.982083"
-   ],
-   "referenceNumber": "5742426029_pub01",
-   "sentAt": [
-    "2026-11-04T00:00:46.982083"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-12-08T14:00:00"
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "45233220-7",
-     "descriptions": [
-      {
-       "language": "DE",
-       "text": "Oberbauarbeiten für Landstraßen"
-      },
-      {
-       "language": "NL",
-       "text": "Wegdekwerkzaamheden voor wegen"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de revêtement de routes"
-      },
-      {
-       "language": "EN",
-       "text": "Surface work for roads"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "45233220-7",
-    "descriptions": [
-     {
-      "language": "DE",
-      "text": "Oberbauarbeiten für Landstraßen"
-     },
-     {
-      "language": "NL",
-      "text": "Wegdekwerkzaamheden voor wegen"
-     },
-     {
-      "language": "FR",
-      "text": "Travaux de revêtement de routes"
-     },
-     {
-      "language": "EN",
-      "text": "Surface work for roads"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-04",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Réfection de la rue de la Résistance"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP08L-438/6089/3522026",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "PPP08L-438/6089/3522026",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "Réfection de la rue de la Résistance"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-04",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Réfection de la rue de la Résistance"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Réfection de la rue de la Résistance"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "WORKS"
-   ],
-   "noticeIds": [
-    "919c8e5e-b627-4bd1-940c-602d8e6fcd11"
-   ],
-   "noticeSubType": "16",
-   "nutsCodes": [
-    "BE334"
-   ],
-   "organisation": {
-    "organisationId": 275,
-    "organisationNames": [
-     {
-      "language": "EN",
-      "text": "Remicourt"
-     },
-     {
-      "language": "FR",
-      "text": "Remicourt"
-     },
-     {
-      "language": "DE",
-      "text": "Remicourt"
-     },
-     {
-      "language": "NL",
-      "text": "Remicourt"
-     }
-    ],
-    "tree": "200004.200021.275"
-   },
-   "procedureId": "03eac181-5eeb-4b20-8d42-195392da6281",
-   "publicationDate": "2026-11-04",
-   "publicationLanguages": [
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP08L-438/6089/3522026_001"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "ac31eff1-e459-41b1-91e5-8ed036bbdf62",
-   "publishedAt": [
-    "2026-11-04T00:00:46.020472"
-   ],
-   "referenceNumber": "PPP08L-438/6089/3522026_001",
-   "sentAt": [
-    "2026-11-04T00:00:46.020472"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-12-07T10:00:00"
   }
  ],
  "exemple_attribution": [
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45210000-2",
+     "code": "45221220-0",
      "descriptions": [
       {
-       "language": "EN",
-       "text": "Building construction work"
-      },
-      {
        "language": "DE",
-       "text": "Bauleistungen im Hochbau"
+       "text": "Durchlässe"
       },
       {
        "language": "FR",
-       "text": "Travaux de construction de bâtiments"
+       "text": "Ponceaux"
+      },
+      {
+       "language": "EN",
+       "text": "Culverts"
       },
       {
        "language": "NL",
-       "text": "Bouwen van gebouwen"
+       "text": "Duikers"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45210000-2",
+    "code": "45221220-0",
     "descriptions": [
      {
-      "language": "EN",
-      "text": "Building construction work"
+      "language": "FR",
+      "text": "Ponceaux"
      },
      {
       "language": "DE",
-      "text": "Bauleistungen im Hochbau"
+      "text": "Durchlässe"
      },
      {
-      "language": "FR",
-      "text": "Travaux de construction de bâtiments"
+      "language": "EN",
+      "text": "Culverts"
      },
      {
       "language": "NL",
-      "text": "Bouwen van gebouwen"
+      "text": "Duikers"
      }
     ]
    },
@@ -518,18 +499,18 @@
     "descriptions": [
      {
       "language": "FR",
-      "text": "Aménagements sportifs multi-disciplinaires au Complexe Sportif d'Ellezelles - Lot 3 : Cafétaria - gros-oeuvre et parachèvements"
+      "text": "-  Dérivation des eaux du cours d'eau ; -  Travaux préparatoires de démolition sélective diverses ; -  Déblais / Remblais ; -  Mise en centre de traitement ; -  Mise en site autorisé ; -  Fondation en béton  ; -  Revêtement en béton ; -  Petits ouvrages d'art en béton armé ; -  Protection de berges ; - …     "
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP0B1-613/6032/T. EXT. : 2026-011",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "PPP0B1-613/6032/T. EXT. : 2026-011",
+    "number": "PPP0I0-900/6044/AC/1165/2026/0002",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP0I0-900/6044/AC/1165/2026/0002",
     "titles": [
      {
       "language": "FR",
-      "text": "Aménagements sportifs multi-disciplinaires au Complexe Sportif d'Ellezelles - Lot 3 : Cafétaria - gros-oeuvre et parachèvements"
+      "text": "Travaux de remplacement d'un pont surplombant le rieu du Billemont à la rue Bois de Chin."
      }
     ]
    },
@@ -539,19 +520,13 @@
      "descriptions": [
       {
        "language": "FR",
-       "text": "Aménagements sportifs multi-disciplinaires au Complexe Sportif d'Ellezelles - Lot 3 : Cafétaria - gros-oeuvre et parachèvements"
+       "text": "-  Dérivation des eaux du cours d'eau ; -  Travaux préparatoires de démolition sélective diverses ; -  Déblais / Remblais ; -  Mise en centre de traitement ; -  Mise en site autorisé ; -  Fondation en béton  ; -  Revêtement en béton ; -  Petits ouvrages d'art en béton armé ; -  Protection de berges ; - …     "
       }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
      ],
      "titles": [
       {
        "language": "FR",
-       "text": "Aménagements sportifs multi-disciplinaires au Complexe Sportif d'Ellezelles - Lot 3 : Cafétaria - gros-oeuvre et parachèvements"
+       "text": "Travaux de remplacement d'un pont surplombant le rieu du Billemont à la rue Bois de Chin."
       }
      ]
     }
@@ -560,51 +535,51 @@
     "WORKS"
    ],
    "noticeIds": [
-    "52b9fe02-3882-45b3-ac61-85b290724074"
+    "a538adcd-28d5-4161-bda0-f98adfdc31b6"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE32A"
+    "BE328"
    ],
    "organisation": {
-    "organisationId": 330,
+    "organisationId": 540,
     "organisationNames": [
      {
+      "language": "FR",
+      "text": "Administration communale de Celles"
+     },
+     {
       "language": "DE",
-      "text": "Ellezelles"
+      "text": "Celles"
      },
      {
       "language": "NL",
-      "text": "Ellezelles"
-     },
-     {
-      "language": "FR",
-      "text": "Ellezelles"
+      "text": "Celles"
      },
      {
       "language": "EN",
-      "text": "Ellezelles"
+      "text": "Celles"
      }
     ],
-    "tree": "200004.200021.330"
+    "tree": "200004.200021.540"
    },
-   "procedureId": "3605ed80-0bce-4784-be60-282c1def88a8",
+   "procedureId": "b8e5f504-cb73-4275-a526-c8712e09dad2",
    "publicationDate": "2026-11-04",
    "publicationLanguages": [
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP0B1-613/6032/T. EXT. : 2026-011_004"
+    "PPP0I0-900/6044/AC/1165/2026/0002_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "43114ede-3db7-4e7d-8716-b44b7809b6d7",
+   "publicationWorkspaceId": "0dda3035-7520-4de4-9faf-340cdc1c7071",
    "publishedAt": [
-    "2026-11-04T00:00:48.4798"
+    "2026-11-04T00:00:47.724205"
    ],
-   "referenceNumber": "PPP0B1-613/6032/T. EXT. : 2026-011_004",
+   "referenceNumber": "PPP0I0-900/6044/AC/1165/2026/0002_002",
    "sentAt": [
-    "2026-11-04T00:00:48.4798"
+    "2026-11-04T00:00:47.724205"
    ],
    "tedPublished": false
   }
