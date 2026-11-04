@@ -1,12 +1,32 @@
 {
- "updated": "2026-11-04T11:01:44Z",
+ "updated": "2026-11-04T11:35:21Z",
  "source": "urban.brussels NOVA (WFS)",
  "days_back": 3,
- "received": 46,
- "kept": 3,
- "count": 160,
- "new_ids": [],
+ "received": 59,
+ "kept": 6,
+ "count": 163,
+ "new_ids": [
+  "nova-18/SFD/2051588",
+  "nova-12/PU/2051357",
+  "nova-16/PU/2051344"
+ ],
  "records": [
+  {
+   "id": "nova-18/SFD/2051588",
+   "source_type": "Permis",
+   "nom": "régulariser et isoler la façade avant de l'immeuble",
+   "lieu": "Rue Montagne des Cerisiers 37, 1200 Woluwe-Saint-Lambert",
+   "type": "",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='18/SFD/2051588'",
+   "verif": "vérifié",
+   "verif_date": "2026-11-04",
+   "preuve": "Demande de permis 18/SFD/2051588 reçue le 2026-11-04 (urban.brussels, service NOVA).",
+   "date_publication": "2026-11-04",
+   "notes": "Autorité : BUP",
+   "first_seen": "2026-11-04T11:35:21Z"
+  },
   {
    "id": "nova-18/PU/2051310",
    "source_type": "Permis",
@@ -54,6 +74,38 @@
    "date_publication": "2026-11-02",
    "notes": "Autorité : BUP",
    "first_seen": "2026-11-03T13:01:57Z"
+  },
+  {
+   "id": "nova-12/PU/2051357",
+   "source_type": "Permis",
+   "nom": "Régularisation du changement d'affectation d'une salle d'exposition et d'un entrepôt en deux commerces et de la modification de l'aspect architectural de la façade du rez-de-chaussée (n°79)",
+   "lieu": "Chaussée de Ninove 79, 1080 Molenbeek-Saint-Jean",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='12/PU/2051357'",
+   "verif": "vérifié",
+   "verif_date": "2026-11-04",
+   "preuve": "Demande de permis 12/PU/2051357 reçue le 2026-11-02 (urban.brussels, service NOVA), surface projetée 580 m².",
+   "date_publication": "2026-11-02",
+   "notes": "Autorité : Molenbeek-Saint-Jean",
+   "first_seen": "2026-11-04T11:35:21Z"
+  },
+  {
+   "id": "nova-16/PU/2051344",
+   "source_type": "Permis",
+   "nom": "régulariser un immeuble à appartements",
+   "lieu": "Rue Zwartebeek 11, 1180 Uccle",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='16/PU/2051344'",
+   "verif": "vérifié",
+   "verif_date": "2026-11-04",
+   "preuve": "Demande de permis 16/PU/2051344 reçue le 2026-11-02 (urban.brussels, service NOVA).",
+   "date_publication": "2026-11-02",
+   "notes": "Autorité : Uccle",
+   "first_seen": "2026-11-04T11:35:21Z"
   },
   {
    "id": "nova-16/PU/2051207",
