@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T21:01:32Z",
+ "updated": "2026-11-04T23:01:19Z",
  "days_back": 3,
  "sources": {
   "TED": {
@@ -9,7 +9,7 @@
   },
   "Bulletin des Adjudications": {
    "ok": true,
-   "new": 0,
+   "new": 4,
    "echecs_suite": 0
   },
   "Permis Bruxelles": {
@@ -18,5 +18,5 @@
    "echecs_suite": 0
   }
  },
- "radar_public": 3654
+ "radar_public": 3658
 }
