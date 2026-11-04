@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 294618
+  "totalCount": 294646
  },
  "types": [
   "ACTIVE|10|['WORKS']",
@@ -38,45 +38,45 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45221220-0",
+     "code": "34144700-5",
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Ponceaux"
-      },
-      {
        "language": "DE",
-       "text": "Durchlässe"
+       "text": "Nutzfahrzeuge"
       },
       {
        "language": "EN",
-       "text": "Culverts"
+       "text": "Utility vehicles"
+      },
+      {
+       "language": "FR",
+       "text": "Véhicules utilitaires"
       },
       {
        "language": "NL",
-       "text": "Duikers"
+       "text": "Bedrijfswagens"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45221220-0",
+    "code": "34144700-5",
     "descriptions": [
      {
       "language": "DE",
-      "text": "Durchlässe"
-     },
-     {
-      "language": "FR",
-      "text": "Ponceaux"
-     },
-     {
-      "language": "NL",
-      "text": "Duikers"
+      "text": "Nutzfahrzeuge"
      },
      {
       "language": "EN",
-      "text": "Culverts"
+      "text": "Utility vehicles"
+     },
+     {
+      "language": "FR",
+      "text": "Véhicules utilitaires"
+     },
+     {
+      "language": "NL",
+      "text": "Bedrijfswagens"
      }
     ]
    },
@@ -86,18 +86,18 @@
     "descriptions": [
      {
       "language": "FR",
-      "text": "-  Dérivation des eaux du cours d'eau ; -  Travaux préparatoires de démolition sélective diverses ; -  Déblais / Remblais ; -  Mise en centre de traitement ; -  Mise en site autorisé ; -  Fondation en béton  ; -  Revêtement en béton ; -  Petits ouvrages d'art en béton armé ; -  Protection de berges ; - …     "
+      "text": "Remplacement de deux véhicules pour le service voirie de la Ville de Virton. Lot 1 : Véhicule châssis simple cabine - Tribenne. Lot 2 : Véhicule châssis simple cabine - Tribenne.  Reprise de deux véhicules existants:  1. IVECO Daily 35 C15 2. FORD Transit double cabine Les véhicules qui doivent être repris peuvent être vus par le soumissionnaire avant la remise de son offre, au service technique - Val d'Away 35 à 6760 Virton, sur rendez-vous entre 7h30 et 15h30."
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP0I0-900/6044/AC/1165/2026/0002",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP0I0-900/6044/AC/1165/2026/0002",
+    "number": "PPP0BW-1203/6102/2026-873",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "PPP0BW-1203/6102/2026-873",
     "titles": [
      {
       "language": "FR",
-      "text": "Travaux de remplacement d'un pont surplombant le rieu du Billemont à la rue Bois de Chin."
+      "text": "Remplacement de deux véhicules pour le service voirie de la Ville de Virton"
      }
     ]
    },
@@ -107,111 +107,137 @@
      "descriptions": [
       {
        "language": "FR",
-       "text": "-  Dérivation des eaux du cours d'eau ; -  Travaux préparatoires de démolition sélective diverses ; -  Déblais / Remblais ; -  Mise en centre de traitement ; -  Mise en site autorisé ; -  Fondation en béton  ; -  Revêtement en béton ; -  Petits ouvrages d'art en béton armé ; -  Protection de berges ; - …     "
+       "text": "Véhicule châssis simple cabine - Tribenne"
       }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
      ],
      "titles": [
       {
        "language": "FR",
-       "text": "Travaux de remplacement d'un pont surplombant le rieu du Billemont à la rue Bois de Chin."
+       "text": "Véhicule châssis simple cabine - Tribenne"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Moteur : - Cylindrée : minimum 2000 cm³ - Turbo Diesel - Norme pollution : minimum Euro 6 - Puissance : minimum 161 ch - Couple : minimum 380 Nm   Charge : - MMA : 3500 kg homologué (MMA supérieur tarée à 3500 kg non admissible) - Charge remorquable freinée : 3500 kg - Charge remorquable non freinée : 750 kg - PTRA : 7000 kg - Charge utile du châssis cabine nu sans chauffeur : minimum  1400 kg Transmission : - Propulsion - Rapport de pont adapté pour des petits trajets avec une charge remorquable élevée - Manuelle, minimum 5 vitesses et marche arrière Roue : - Roues jumelées arrière - Pneus M+S  - Roue de secours complète avec clés de démontage et cric Dimensions du châssis cabine sans la benne et sans équipements : - Empattement : entre 3450mm et 4100mm    - Longueur totale : maximum 6000mm Véhicule : - Couleur : blanc - Direction à gauche - 3 places - Sièges cuir ou similicuir - Revêtement de sol caoutchouc facile à nettoyer - En + du revêtement caoutchouc, tapis de sol en caoutchouc facile à enlever pour permettre un nettoyage simple - Vitre arrière - Rétroviseur intérieur - Rétroviseurs extérieurs avec surveillance d’angles morts - Climatisation - Autoradio FM/DAB, kit main libre Bluetooth intégré pour téléphone mobile commandé via l’écran du système d’info divertissement, port USB. Ajout d’autoradio avec Bluetooth interdit. - Direction assistée - Colonne de direction réglable en hauteur et en profondeur - Vitres à commande électrique - Détecteur de pluie avec allumage automatique des phares et des essuie-glaces - 2 feux flash à LED sur le toit de la cabine avec commande depuis le poste de pilotage - Alternateur minimum 180 A - Batterie à capacité augmentée - Coupe batterie - Ceintures de sécurité 3 points - Airbags avant conducteur et passagers - Extincteur - Trousse de secours - Triangle avertisseur - 3 gilets fluorescents - Verrouillage centralisé à distance avec minimum 2 clés à télécommande - Crochets de remorquage avant - Avertisseur sonore de recul - Documentation de bord en français Equipements : - Attelage renforcé avec attache de remorque de type « Rockinger » avec levier et point de graissage pour remorque à anneau de 3500kg. Attache à boule facilement adaptable sur l’ensemble pour remorque de 750kg. L’ensemble sera agrée par l’inspection automobile pour une charge remorquable freinée de 3500 kg et 750 kg non freinée - 2 lampes clignotantes orange LED placées dans la calandre avant - Marquage rouge et blanc réfléchissant sur le capot avant conforme à la législation actuelle. - Protections des feux arrière - Protection du connecteur de la prise remorque - Bavettes gardes boues avant et arrière Caractéristiques de la benne : - Tri benne basculante - Longueur totale : entre 3400 et 3720 mm - Largeur totale : entre 2050 et 2250 mm - Hauteur ridelles : minimum 400 mm - Ridelles aluminium en une partie, double paroi - Plancher en aluminium ou acier pré galvanisé - Vérin télescopique central unique en chrome durci avec technique de levage élevé de minimum 5T. - Groupe électropompe avec réservoir intégré réglé pour une capacité de levage de minimum 1T500. - Faux châssis en acier pré galvanisé - Sécurité électrique de fin de course et sécurité mécanique au moyen d’un câble d’acier - Système de sécurité de calage de la benne en position levée à l’aide d’une tige d’acier escamotable pouvant supporter le poids de la benne - Boitier portatif de commande à distance placé dans la cabine avec un cordon spirale. Commande de montée, descente et bouton d’arrêt d’urgence - Coupe circuit - Fusible - Fermeture des ridelles latérales - Ridelle arrière rabattable manuellement avec déverrouillage automatique et articulé. Ouverture possible vers le bas pour le chargement - Poteaux arrière amovibles - Anneaux de fixation dans les rebords du plancher - Ailes arrière - Protège cabine avec porte échelle grillagé permettant la visibilité depuis la vitre arrière de la cabine - Protections latérales pare-cycliste - Marquage rouge et blanc réfléchissant sur le panneau arrière conforme à la législation actuelle. - Panneaux de signalisation plat en aluminium D1 et A31 rétro-réfléchissant dimension 400mm fixé sur la ridelle arrière. - Coffre à outils PVC Divers : - Premier passage à l’inspection automobile avec l’attache de remorque à charge du fournisseur avant la livraison. - Premier entretien fournitures et main d’œuvre compris dans le prix de l’offre. - Formation de deux personnes sur le fonctionnement du véhicule et des accessoires. - Supports plaques d’immatriculation. "
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Véhicule châssis simple cabine - Tribenne"
       }
      ]
     }
    ],
    "natures": [
-    "WORKS"
+    "SUPPLIES"
    ],
    "noticeIds": [
-    "a538adcd-28d5-4161-bda0-f98adfdc31b6"
+    "35e65c79-300a-4597-a7d5-cb5a8f8fbef6"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE328"
+    "BE345"
    ],
    "organisation": {
-    "organisationId": 540,
+    "organisationId": 666,
     "organisationNames": [
      {
+      "language": "EN",
+      "text": "Virton"
+     },
+     {
       "language": "FR",
-      "text": "Administration communale de Celles"
+      "text": "Virton"
      },
      {
       "language": "DE",
-      "text": "Celles"
+      "text": "Virton"
      },
      {
       "language": "NL",
-      "text": "Celles"
-     },
-     {
-      "language": "EN",
-      "text": "Celles"
+      "text": "Virton"
      }
     ],
-    "tree": "200004.200021.540"
+    "tree": "200004.200021.666"
    },
-   "procedureId": "b8e5f504-cb73-4275-a526-c8712e09dad2",
+   "procedureId": "d3d477bc-629c-4b88-808d-84b2e4c69f5f",
    "publicationDate": "2026-11-04",
    "publicationLanguages": [
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP0I0-900/6044/AC/1165/2026/0002_002"
+    "PPP0BW-1203/6102/2026-873_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "0dda3035-7520-4de4-9faf-340cdc1c7071",
+   "publicationWorkspaceId": "b05407d4-7243-4849-917e-773bafe0114d",
    "publishedAt": [
-    "2026-11-04T00:00:47.724205"
+    "2026-11-04T14:23:45.014011"
    ],
-   "referenceNumber": "PPP0I0-900/6044/AC/1165/2026/0002_002",
+   "referenceNumber": "PPP0BW-1203/6102/2026-873_002",
    "sentAt": [
-    "2026-11-04T00:00:47.724205"
+    "2026-11-04T14:23:45.014011"
    ],
    "tedPublished": false
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45215400-1",
+     "code": "71351810-4",
      "descriptions": [
       {
        "language": "EN",
-       "text": "Cemetery works"
-      },
-      {
-       "language": "NL",
-       "text": "Werkzaamheden voor begraafplaats"
+       "text": "Topographical services"
       },
       {
        "language": "DE",
-       "text": "Friedhof"
+       "text": "Topografische Dienste"
       },
       {
        "language": "FR",
-       "text": "Cimetière"
+       "text": "Services topographiques"
+      },
+      {
+       "language": "NL",
+       "text": "Topografische diensten"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45215400-1",
+    "code": "71354100-5",
     "descriptions": [
      {
-      "language": "EN",
-      "text": "Cemetery works"
+      "language": "FR",
+      "text": "Services de cartographie numérique"
      },
      {
       "language": "NL",
-      "text": "Werkzaamheden voor begraafplaats"
+      "text": "Digitale kartering"
      },
      {
       "language": "DE",
-      "text": "Friedhof"
+      "text": "Digitalisierte Kartenerstellung"
      },
      {
-      "language": "FR",
-      "text": "Cimetière"
+      "language": "EN",
+      "text": "Digital mapping services"
      }
     ]
    },
@@ -221,18 +247,18 @@
     "descriptions": [
      {
       "language": "FR",
-      "text": "Exhumation de corps dans les pelouses du cimetière communal Ste-Anne."
+      "text": "L’objet du marché est la prestation de services relatifs à a réalisation de la mise à jour de la cartographie par digitalisation manuelle des éléments structurants du paysage ligneux sur base des orthophotoplans 2025. Cette cartographie des éléments structurants du paysage ligneux pour l’année 2025 permettra de mettre à jour le référentiel des éléments datant de 2021 et de détecter les changements intervenus sur l’ensemble de la Wallonie pour accomplir ses missions d’intérêt général. Ces missions d’intérêt général sont entre autres : o Mise en évidence de la politique de plantation liée à l’opération « Yes We Plant » du Gouvernement wallon ; o Contribution au système d'identification des parcelles agricoles dans le cadre de la Politique Agricole Commune ; o Mise en place d’une infrastructure wallonne d’information géographique qui comprend les géodonnées et les services de géodonnées correspondant aux thèmes figurant aux Annexes de la Directive Inspire 2007/2/CE du Parlement européen et du Conseil du 14 mars 2007, établissant une infrastructure d'information géographique dans la Communauté européenne (INSPIRE), et de son décret de transposition du 22 décembre 2010 relatif à l’infrastructure d’information géographique wallonne. Description des services à exécuter : Mise à jour de la cartographie par digitalisation manuelle des éléments structurants du paysage ligneux sur base des orthophotoplans 2025."
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP0EC-2262/6292/572.1/3P-2262/FB",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP0EC-2262/6292/572.1/3P-2262/FB",
+    "number": "2026-S2300000-078",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "2026-S2300000-078",
     "titles": [
      {
       "language": "FR",
-      "text": "Service Cimetières - Exhumation de corps dans le cimetière Sainte-Anne"
+      "text": "M175 - Marché de services visant à la mise à jour par digitalisation manuelle des éléments structurants du paysage ligneux 2025"
      }
     ]
    },
@@ -242,148 +268,19 @@
      "descriptions": [
       {
        "language": "FR",
-       "text": "Exhumation de corps dans les pelouses du cimetière communal Ste-Anne."
+       "text": "L’objet du marché est la prestation de services relatifs à la réalisation de la mise à jour de la cartographie par digitalisation manuelle des éléments structurants du paysage ligneux sur base des orthophotoplans 2025. Cette cartographie des éléments structurants du paysage ligneux pour l’année 2025 permettra de mettre à jour le référentiel des éléments datant de 2021 et de détecter les changements intervenus sur l’ensemble de la Wallonie. La durée du marché est d'un an à compter de la conclusion du marché. Le marché n'est pas reconductible."
       }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
      ],
      "titles": [
       {
        "language": "FR",
-       "text": "Service Cimetières - Exhumation de corps dans le cimetière Sainte-Anne"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "WORKS"
-   ],
-   "noticeIds": [
-    "75aca9f2-5b39-43af-90dc-b92b8a73df79"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE310"
-   ],
-   "organisation": {
-    "organisationId": 345,
-    "organisationNames": [
-     {
-      "language": "NL",
-      "text": "Waterloo"
-     },
-     {
-      "language": "FR",
-      "text": "Waterloo"
-     },
-     {
-      "language": "EN",
-      "text": "Waterloo"
-     },
-     {
-      "language": "DE",
-      "text": "Waterloo"
-     }
-    ],
-    "tree": "200004.200021.345"
-   },
-   "procedureId": "9e00c5de-949b-4378-a501-8ecc0a6f2058",
-   "publicationDate": "2026-11-04",
-   "publicationLanguages": [
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP0EC-2262/6292/572.1/3P-2262/FB_002"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "2ee31f75-0038-40db-8d88-f565d94c2556",
-   "publishedAt": [
-    "2026-11-04T00:00:48.806867"
-   ],
-   "referenceNumber": "PPP0EC-2262/6292/572.1/3P-2262/FB_002",
-   "sentAt": [
-    "2026-11-04T00:00:48.806867"
-   ],
-   "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "71311210-6",
-     "descriptions": [
-      {
-       "language": "DE",
-       "text": "Beratung im Bereich Straßenbau"
-      },
-      {
-       "language": "FR",
-       "text": "Services de conseil en matière d'autoroutes"
-      },
-      {
-       "language": "NL",
-       "text": "Adviezen inzake wegenbouw"
-      },
-      {
-       "language": "EN",
-       "text": "Highways consultancy services"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "71311210-6",
-    "descriptions": [
-     {
-      "language": "DE",
-      "text": "Beratung im Bereich Straßenbau"
-     },
-     {
-      "language": "FR",
-      "text": "Services de conseil en matière d'autoroutes"
-     },
-     {
-      "language": "NL",
-      "text": "Adviezen inzake wegenbouw"
-     },
-     {
-      "language": "EN",
-      "text": "Highways consultancy services"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-04",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Aanleg publieke ruimte voor het project 'Frans Provoostplein' te Bredene"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "0E424F2D",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "0E424F2D",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Aanleg publieke ruimte voor het project 'Frans Provoostplein' te Bredene"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-04",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Aanleg publieke ruimte voor het project 'Frans Provoostplein' te Bredene"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "0E424F2D - 1"
+       "text": "2026-S2300000-078 - 1"
       }
      ]
     }
@@ -392,98 +289,246 @@
     "SERVICES"
    ],
    "noticeIds": [
-    "f9fa819d-337f-40e5-a719-6ea785b83d6d"
+    "16d91137-88d8-4baa-b0f5-6110af4e641f"
    ],
-   "noticeSubType": "E4",
+   "noticeSubType": "16",
    "nutsCodes": [
-    "BE255"
+    "BE352"
    ],
    "organisation": {
-    "organisationId": 5754,
+    "organisationId": 6068,
     "organisationNames": [
      {
       "language": "NL",
-      "text": "Vlaamse Maatschappij voor Sociaal Wonen"
+      "text": "Direction des Solutions logicielles et des Projets"
      },
      {
       "language": "EN",
-      "text": "Vlaamse Maatschappij voor Sociaal Wonen"
+      "text": "Direction des Solutions logicielles et des Projets"
      },
      {
       "language": "FR",
-      "text": "Vlaamse Maatschappij voor Sociaal Wonen"
+      "text": "S2.22.03 - Direction des Solutions logicielles et des Projets"
      },
      {
       "language": "DE",
-      "text": "Vlaamse Maatschappij voor Sociaal Wonen"
+      "text": "Direction des Solutions logicielles et des Projets"
      }
     ],
-    "tree": "200003.200015.73.4649.5754"
+    "tree": "200003.200016.123.5101.6068"
    },
-   "procedureId": "181ec324-9998-43fa-83d8-b62d1324eb78",
+   "procedureId": "87eae18d-9a31-4c14-bc5c-8ffa6f2cba5c",
    "publicationDate": "2026-11-04",
    "publicationLanguages": [
-    "NL"
+    "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "0E424F2D_pub01"
+    "2026-S2300000-078_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "58d71561-c705-4337-8074-f08a188fb56f",
+   "publicationWorkspaceId": "2a9f763d-cdda-499e-abe0-4d64d60ade4e",
    "publishedAt": [
-    "2026-11-04T06:38:45.303303"
+    "2026-11-04T14:36:45.22653"
    ],
-   "referenceNumber": "0E424F2D_pub01",
+   "referenceNumber": "2026-S2300000-078_pub01",
    "sentAt": [
-    "2026-11-04T06:38:45.303303"
+    "2026-11-04T14:36:45.22653"
    ],
-   "tedPublished": false
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-11-24T12:00:00"
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "79311400-1",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Wirtschaftsforschung"
+      },
+      {
+       "language": "NL",
+       "text": "Economisch onderzoek"
+      },
+      {
+       "language": "EN",
+       "text": "Economic research services"
+      },
+      {
+       "language": "FR",
+       "text": "Services de recherche économique"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "79311400-1",
+    "descriptions": [
+     {
+      "language": "DE",
+      "text": "Wirtschaftsforschung"
+     },
+     {
+      "language": "NL",
+      "text": "Economisch onderzoek"
+     },
+     {
+      "language": "EN",
+      "text": "Economic research services"
+     },
+     {
+      "language": "FR",
+      "text": "Services de recherche économique"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-04",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "De onderhavige opdracht betreft de realisatie van een studie naar de stand van zaken van de economische fietssector in België. Het fietsgebruik neemt in België toe. Om inzicht te krijgen in de verschillende aspecten die verband houden met het fietsgebruik en de mobiliteit in het algemeen, is het belangrijk om te beschikken over de ontwikkeling van objectieve cijfers voor alle betrokken domeinen, inclusief het economische aspect. "
+     },
+     {
+      "language": "FR",
+      "text": "Le présent marché porte sur la réalisation d’une étude sur l’état des lieux du secteur économique du vélo en Belgique. Les déplacements à vélo augmentent en Belgique. Afin de connaître les différents aspects liés à son utilisation et à la mobilité en général, il est important de disposer de l’évolution des chiffres objectifs pour tous les champs concernés y compris pour l’aspect économique. "
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "ESM24092600325",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "ESM24092600325",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Realisatie van een studie naar de stand van zaken van de economische fietssector in België"
+     },
+     {
+      "language": "FR",
+      "text": "Réalisation d’une étude sur l’état des lieux du secteur économique du vélo en Belgique"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-04",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "De onderhavige opdracht betreft de realisatie van een studie naar de stand van zaken van de economische fietssector in België. Het fietsgebruik neemt in België toe. Om inzicht te krijgen in de verschillende aspecten die verband houden met het fietsgebruik en de mobiliteit in het algemeen, is het belangrijk om te beschikken over de ontwikkeling van objectieve cijfers voor alle betrokken domeinen, inclusief het economische aspect. "
+      },
+      {
+       "language": "FR",
+       "text": "Le présent marché porte sur la réalisation d’une étude sur l’état des lieux du secteur économique du vélo en Belgique. Les déplacements à vélo augmentent en Belgique. Afin de connaître les différents aspects liés à son utilisation et à la mobilité en général, il est important de disposer de l’évolution des chiffres objectifs pour tous les champs concernés y compris pour l’aspect économique.  "
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "ESM24092600325 - 1_Réalisation d’une étude sur l’état des lieux du secteur économique du vélo en Belgique"
+      },
+      {
+       "language": "NL",
+       "text": "ESM24092600325 - 1_Realisatie van een studie naar de stand van zaken van de economische fietssector in België"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SERVICES"
+   ],
+   "noticeIds": [
+    "453af82e-1d35-44c8-bc6b-6f7345f8cac3"
+   ],
+   "noticeSubType": "16",
+   "nutsCodes": [
+    "BE"
+   ],
+   "organisation": {
+    "organisationId": 7983,
+    "organisationNames": [
+     {
+      "language": "FR",
+      "text": "Direction Générale Politique de Mobilité durable et ferroviaire"
+     }
+    ],
+    "tree": "200002.200008.17.7983"
+   },
+   "procedureId": "517d960c-7435-4d47-a34d-1f4baee2b222",
+   "publicationDate": "2026-11-04",
+   "publicationLanguages": [
+    "NL",
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "ESM24092600325_pub01"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "7ce44178-6fce-4aff-a70c-453d129e7c0b",
+   "publishedAt": [
+    "2026-11-04T14:34:45.043345"
+   ],
+   "referenceNumber": "ESM24092600325_pub01",
+   "sentAt": [
+    "2026-11-04T14:34:45.043345"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-11-23T12:00:00"
   }
  ],
  "exemple_attribution": [
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45221220-0",
+     "code": "34144700-5",
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Ponceaux"
-      },
-      {
        "language": "DE",
-       "text": "Durchlässe"
+       "text": "Nutzfahrzeuge"
       },
       {
        "language": "EN",
-       "text": "Culverts"
+       "text": "Utility vehicles"
+      },
+      {
+       "language": "FR",
+       "text": "Véhicules utilitaires"
       },
       {
        "language": "NL",
-       "text": "Duikers"
+       "text": "Bedrijfswagens"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45221220-0",
+    "code": "34144700-5",
     "descriptions": [
      {
       "language": "DE",
-      "text": "Durchlässe"
-     },
-     {
-      "language": "FR",
-      "text": "Ponceaux"
-     },
-     {
-      "language": "NL",
-      "text": "Duikers"
+      "text": "Nutzfahrzeuge"
      },
      {
       "language": "EN",
-      "text": "Culverts"
+      "text": "Utility vehicles"
+     },
+     {
+      "language": "FR",
+      "text": "Véhicules utilitaires"
+     },
+     {
+      "language": "NL",
+      "text": "Bedrijfswagens"
      }
     ]
    },
@@ -493,18 +538,18 @@
     "descriptions": [
      {
       "language": "FR",
-      "text": "-  Dérivation des eaux du cours d'eau ; -  Travaux préparatoires de démolition sélective diverses ; -  Déblais / Remblais ; -  Mise en centre de traitement ; -  Mise en site autorisé ; -  Fondation en béton  ; -  Revêtement en béton ; -  Petits ouvrages d'art en béton armé ; -  Protection de berges ; - …     "
+      "text": "Remplacement de deux véhicules pour le service voirie de la Ville de Virton. Lot 1 : Véhicule châssis simple cabine - Tribenne. Lot 2 : Véhicule châssis simple cabine - Tribenne.  Reprise de deux véhicules existants:  1. IVECO Daily 35 C15 2. FORD Transit double cabine Les véhicules qui doivent être repris peuvent être vus par le soumissionnaire avant la remise de son offre, au service technique - Val d'Away 35 à 6760 Virton, sur rendez-vous entre 7h30 et 15h30."
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP0I0-900/6044/AC/1165/2026/0002",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP0I0-900/6044/AC/1165/2026/0002",
+    "number": "PPP0BW-1203/6102/2026-873",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "PPP0BW-1203/6102/2026-873",
     "titles": [
      {
       "language": "FR",
-      "text": "Travaux de remplacement d'un pont surplombant le rieu du Billemont à la rue Bois de Chin."
+      "text": "Remplacement de deux véhicules pour le service voirie de la Ville de Virton"
      }
     ]
    },
@@ -514,66 +559,92 @@
      "descriptions": [
       {
        "language": "FR",
-       "text": "-  Dérivation des eaux du cours d'eau ; -  Travaux préparatoires de démolition sélective diverses ; -  Déblais / Remblais ; -  Mise en centre de traitement ; -  Mise en site autorisé ; -  Fondation en béton  ; -  Revêtement en béton ; -  Petits ouvrages d'art en béton armé ; -  Protection de berges ; - …     "
+       "text": "Véhicule châssis simple cabine - Tribenne"
       }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
      ],
      "titles": [
       {
        "language": "FR",
-       "text": "Travaux de remplacement d'un pont surplombant le rieu du Billemont à la rue Bois de Chin."
+       "text": "Véhicule châssis simple cabine - Tribenne"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Moteur : - Cylindrée : minimum 2000 cm³ - Turbo Diesel - Norme pollution : minimum Euro 6 - Puissance : minimum 161 ch - Couple : minimum 380 Nm   Charge : - MMA : 3500 kg homologué (MMA supérieur tarée à 3500 kg non admissible) - Charge remorquable freinée : 3500 kg - Charge remorquable non freinée : 750 kg - PTRA : 7000 kg - Charge utile du châssis cabine nu sans chauffeur : minimum  1400 kg Transmission : - Propulsion - Rapport de pont adapté pour des petits trajets avec une charge remorquable élevée - Manuelle, minimum 5 vitesses et marche arrière Roue : - Roues jumelées arrière - Pneus M+S  - Roue de secours complète avec clés de démontage et cric Dimensions du châssis cabine sans la benne et sans équipements : - Empattement : entre 3450mm et 4100mm    - Longueur totale : maximum 6000mm Véhicule : - Couleur : blanc - Direction à gauche - 3 places - Sièges cuir ou similicuir - Revêtement de sol caoutchouc facile à nettoyer - En + du revêtement caoutchouc, tapis de sol en caoutchouc facile à enlever pour permettre un nettoyage simple - Vitre arrière - Rétroviseur intérieur - Rétroviseurs extérieurs avec surveillance d’angles morts - Climatisation - Autoradio FM/DAB, kit main libre Bluetooth intégré pour téléphone mobile commandé via l’écran du système d’info divertissement, port USB. Ajout d’autoradio avec Bluetooth interdit. - Direction assistée - Colonne de direction réglable en hauteur et en profondeur - Vitres à commande électrique - Détecteur de pluie avec allumage automatique des phares et des essuie-glaces - 2 feux flash à LED sur le toit de la cabine avec commande depuis le poste de pilotage - Alternateur minimum 180 A - Batterie à capacité augmentée - Coupe batterie - Ceintures de sécurité 3 points - Airbags avant conducteur et passagers - Extincteur - Trousse de secours - Triangle avertisseur - 3 gilets fluorescents - Verrouillage centralisé à distance avec minimum 2 clés à télécommande - Crochets de remorquage avant - Avertisseur sonore de recul - Documentation de bord en français Equipements : - Attelage renforcé avec attache de remorque de type « Rockinger » avec levier et point de graissage pour remorque à anneau de 3500kg. Attache à boule facilement adaptable sur l’ensemble pour remorque de 750kg. L’ensemble sera agrée par l’inspection automobile pour une charge remorquable freinée de 3500 kg et 750 kg non freinée - 2 lampes clignotantes orange LED placées dans la calandre avant - Marquage rouge et blanc réfléchissant sur le capot avant conforme à la législation actuelle. - Protections des feux arrière - Protection du connecteur de la prise remorque - Bavettes gardes boues avant et arrière Caractéristiques de la benne : - Tri benne basculante - Longueur totale : entre 3400 et 3720 mm - Largeur totale : entre 2050 et 2250 mm - Hauteur ridelles : minimum 400 mm - Ridelles aluminium en une partie, double paroi - Plancher en aluminium ou acier pré galvanisé - Vérin télescopique central unique en chrome durci avec technique de levage élevé de minimum 5T. - Groupe électropompe avec réservoir intégré réglé pour une capacité de levage de minimum 1T500. - Faux châssis en acier pré galvanisé - Sécurité électrique de fin de course et sécurité mécanique au moyen d’un câble d’acier - Système de sécurité de calage de la benne en position levée à l’aide d’une tige d’acier escamotable pouvant supporter le poids de la benne - Boitier portatif de commande à distance placé dans la cabine avec un cordon spirale. Commande de montée, descente et bouton d’arrêt d’urgence - Coupe circuit - Fusible - Fermeture des ridelles latérales - Ridelle arrière rabattable manuellement avec déverrouillage automatique et articulé. Ouverture possible vers le bas pour le chargement - Poteaux arrière amovibles - Anneaux de fixation dans les rebords du plancher - Ailes arrière - Protège cabine avec porte échelle grillagé permettant la visibilité depuis la vitre arrière de la cabine - Protections latérales pare-cycliste - Marquage rouge et blanc réfléchissant sur le panneau arrière conforme à la législation actuelle. - Panneaux de signalisation plat en aluminium D1 et A31 rétro-réfléchissant dimension 400mm fixé sur la ridelle arrière. - Coffre à outils PVC Divers : - Premier passage à l’inspection automobile avec l’attache de remorque à charge du fournisseur avant la livraison. - Premier entretien fournitures et main d’œuvre compris dans le prix de l’offre. - Formation de deux personnes sur le fonctionnement du véhicule et des accessoires. - Supports plaques d’immatriculation. "
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Véhicule châssis simple cabine - Tribenne"
       }
      ]
     }
    ],
    "natures": [
-    "WORKS"
+    "SUPPLIES"
    ],
    "noticeIds": [
-    "a538adcd-28d5-4161-bda0-f98adfdc31b6"
+    "35e65c79-300a-4597-a7d5-cb5a8f8fbef6"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE328"
+    "BE345"
    ],
    "organisation": {
-    "organisationId": 540,
+    "organisationId": 666,
     "organisationNames": [
      {
+      "language": "EN",
+      "text": "Virton"
+     },
+     {
       "language": "FR",
-      "text": "Administration communale de Celles"
+      "text": "Virton"
      },
      {
       "language": "DE",
-      "text": "Celles"
+      "text": "Virton"
      },
      {
       "language": "NL",
-      "text": "Celles"
-     },
-     {
-      "language": "EN",
-      "text": "Celles"
+      "text": "Virton"
      }
     ],
-    "tree": "200004.200021.540"
+    "tree": "200004.200021.666"
    },
-   "procedureId": "b8e5f504-cb73-4275-a526-c8712e09dad2",
+   "procedureId": "d3d477bc-629c-4b88-808d-84b2e4c69f5f",
    "publicationDate": "2026-11-04",
    "publicationLanguages": [
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP0I0-900/6044/AC/1165/2026/0002_002"
+    "PPP0BW-1203/6102/2026-873_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "0dda3035-7520-4de4-9faf-340cdc1c7071",
+   "publicationWorkspaceId": "b05407d4-7243-4849-917e-773bafe0114d",
    "publishedAt": [
-    "2026-11-04T00:00:47.724205"
+    "2026-11-04T14:23:45.014011"
    ],
-   "referenceNumber": "PPP0I0-900/6044/AC/1165/2026/0002_002",
+   "referenceNumber": "PPP0BW-1203/6102/2026-873_002",
    "sentAt": [
-    "2026-11-04T00:00:47.724205"
+    "2026-11-04T14:23:45.014011"
    ],
    "tedPublished": false
   }
