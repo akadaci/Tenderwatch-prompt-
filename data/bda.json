@@ -1,25 +1,11 @@
 {
- "updated": "2026-11-05T05:01:36Z",
+ "updated": "2026-11-05T07:01:33Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
  "received": 539,
  "kept": 253,
  "count": 2792,
- "new_ids": [
-  "bda-e71a7eec-a620-4bc8-b244-d8f74836c20c",
-  "bda-5fee2fa3-520e-4403-8297-34473924991c",
-  "bda-c9692199-de13-4233-b35e-b79cd78b6c11",
-  "bda-b2ef1021-74fe-412c-88e0-9ea90462ab1b",
-  "bda-a5172c37-f513-4936-ac52-5f327887be25",
-  "bda-ba01ff41-f99d-4327-af79-1c6b695b81d9",
-  "bda-11dac6f5-c6b0-446b-9370-9e08c169141b",
-  "bda-65f97a7b-5f22-4776-9d27-50c12110c7ea",
-  "bda-8b3b2815-e105-4bf5-892f-8dbaba58d458",
-  "bda-212b235a-8989-417f-adc3-416bea9bfe9e",
-  "bda-0dd0349a-6dd8-4d7d-806e-f80021f3eb7e",
-  "bda-2f7bbc5f-333b-435f-95a9-acd864a96af8",
-  "bda-bc5a3945-9786-4f22-9b10-c8151f4f3fe9"
- ],
+ "new_ids": [],
  "records": [
   {
    "id": "bda-697f0e7f-4cad-4191-9969-bd28e8a99c7a",
@@ -461,6 +447,27 @@
    "procedure": "5e592919-40bb-4641-a4e8-f40d6d54ef97",
    "dossier": "PPP0T3-408/6178/RF/25/PO/999",
    "first_seen": "2026-11-05T05:01:36Z"
+  },
+  {
+   "id": "bda-ea5e3d87-9188-407b-b565-c39d51005c58",
+   "source_type": "BDA",
+   "nom": "Nieuwbouw dagverzorging en zorginfrastructuur op de site Rustenhove te Ledegem - Technieken Perceel ELEKTRICITEIT",
+   "lieu": "Flandre-Occidentale",
+   "province": "Flandre-Occidentale",
+   "mo": "Groep Zorg Heilige Familie",
+   "etape": 4,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/ea5e3d87-9188-407b-b565-c39d51005c58",
+   "verif": "vérifié",
+   "verif_date": "2026-11-05",
+   "preuve": "Bulletin des Adjudications, réf. 2098_DVC_GAW_Ledegem_ELEK (avis de marché, sous-type eForms 16), publié le 2026-11-05.",
+   "date_publication": "2026-11-05",
+   "cpv": "45310000",
+   "ted_ref": "",
+   "notes": "Nieuwbouw dagverzorging en zorginfrastructuur op de site Rustenhove, Rollegemstraat 17 te 8880 Ledegem - Technieken Perceel ELEKTRICITEIT",
+   "procedure": "d7d6c768-9105-422d-a65f-5c041fa43a23",
+   "dossier": "2098_DVC_GAW_Ledegem_ELEK",
+   "first_seen": "2026-10-24T22:01:49Z"
   },
   {
    "id": "bda-43114ede-3db7-4e7d-8716-b44b7809b6d7",
@@ -17408,27 +17415,6 @@
    "sur_ted": false,
    "procedure": "5f6e5e2d-5af3-4955-96a9-a1449eaf7e75",
    "dossier": "L 4625 I 0021 G"
-  },
-  {
-   "id": "bda-ea5e3d87-9188-407b-b565-c39d51005c58",
-   "source_type": "BDA",
-   "nom": "Nieuwbouw dagverzorging en zorginfrastructuur op de site Rustenhove te Ledegem - Technieken Perceel ELEKTRICITEIT",
-   "lieu": "Flandre-Occidentale",
-   "province": "Flandre-Occidentale",
-   "mo": "Groep Zorg Heilige Familie",
-   "etape": 4,
-   "sur_ted": false,
-   "source": "https://www.publicprocurement.be/publication-workspaces/ea5e3d87-9188-407b-b565-c39d51005c58",
-   "verif": "vérifié",
-   "verif_date": "2026-10-27",
-   "preuve": "Bulletin des Adjudications, réf. 2098_DVC_GAW_Ledegem_ELEK (avis de marché, sous-type eForms 16), publié le 2026-10-24.",
-   "date_publication": "2026-10-24",
-   "cpv": "45310000",
-   "ted_ref": "",
-   "notes": "Nieuwbouw dagverzorging en zorginfrastructuur op de site Rustenhove, Rollegemstraat 17 te 8880 Ledegem - Technieken Perceel ELEKTRICITEIT",
-   "procedure": "d7d6c768-9105-422d-a65f-5c041fa43a23",
-   "dossier": "2098_DVC_GAW_Ledegem_ELEK",
-   "first_seen": "2026-10-24T22:01:49Z"
   },
   {
    "id": "bda-0f952e7c-560a-448b-896a-2d80205d19e5",
