@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-05T17:01:42Z",
+ "updated": "2026-11-05T19:02:06Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 660,
- "kept": 327,
- "count": 2856,
+ "received": 664,
+ "kept": 329,
+ "count": 2857,
  "new_ids": [
-  "bda-0a63caad-87ca-4e3f-8164-459325e962b1"
+  "bda-e5f97606-433b-4493-aa32-d4f5429ab5a8"
  ],
  "records": [
   {
@@ -2297,6 +2297,48 @@
    "procedure": "7061f634-8fcc-4826-a35f-9976bcf64f37",
    "dossier": "WS3322849638",
    "first_seen": "2026-11-05T17:01:42Z"
+  },
+  {
+   "id": "bda-5283830e-7b93-470e-b35f-6d6a4775c255",
+   "source_type": "BDA",
+   "nom": "Colfontaine -Réaménagement de la place Elisée Fauviaux",
+   "lieu": "Bruxelles",
+   "mo": "Colfontaine",
+   "etape": 4,
+   "source": "https://www.publicprocurement.be/publication-workspaces/5283830e-7b93-470e-b35f-6d6a4775c255",
+   "verif": "vérifié",
+   "verif_date": "2026-11-05",
+   "preuve": "Bulletin des Adjudications, réf. PPP0A2-1064/6125/20260011 (avis de marché, sous-type eForms 16), publié le 2026-11-05.",
+   "date_publication": "2026-11-05",
+   "cpv": "45233140",
+   "ted_ref": "",
+   "notes": "Colfontaine -Réaménagement de la place Elisée Fauviaux",
+   "first_seen": "2026-10-07T23:29:15Z",
+   "province": "Bruxelles",
+   "sur_ted": false,
+   "procedure": "62c8c0dd-b986-4cab-810b-042df68a5e4d",
+   "dossier": "PPP0A2-1064/6125/20260011"
+  },
+  {
+   "id": "bda-e5f97606-433b-4493-aa32-d4f5429ab5a8",
+   "source_type": "BDA",
+   "nom": "rvk Molenbeersel: kavelwerken deel 1 _ Winkeldervenloop",
+   "lieu": "Limbourg",
+   "province": "Limbourg",
+   "mo": "Vlaamse Landmaatschappij",
+   "etape": 5,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/e5f97606-433b-4493-aa32-d4f5429ab5a8",
+   "verif": "vérifié",
+   "verif_date": "2026-11-05",
+   "preuve": "Bulletin des Adjudications, réf. PPP08P-2091/6316/LIM/2026/RVK10034_009 (attribution, sous-type eForms E4), publié le 2026-11-05.",
+   "date_publication": "2026-11-05",
+   "cpv": "45112000",
+   "ted_ref": "",
+   "notes": "Kavelinrichtingswerken: - agrarisch grondverzet: herprofileren en aanvullen landbouwpercelen - dempen en graven grachten - renovatie pominstallatie - plaatsen stuwconstructies - groenaanleg",
+   "procedure": "178af346-04f0-4790-893f-118d193d1c7a",
+   "dossier": "PPP08P-2091/6316/LIM/2026/RVK10034_009",
+   "first_seen": "2026-11-05T19:02:06Z"
   },
   {
    "id": "bda-43114ede-3db7-4e7d-8716-b44b7809b6d7",
@@ -43310,27 +43352,6 @@
    "sur_ted": false,
    "procedure": "a5d06597-d53a-45a8-97a2-efa1523b0d56",
    "dossier": "PPP0A2-1051/6122/20260013"
-  },
-  {
-   "id": "bda-5283830e-7b93-470e-b35f-6d6a4775c255",
-   "source_type": "BDA",
-   "nom": "Colfontaine -Réaménagement de la place Elisée Fauviaux",
-   "lieu": "Bruxelles",
-   "mo": "Colfontaine",
-   "etape": 4,
-   "source": "https://www.publicprocurement.be/publication-workspaces/5283830e-7b93-470e-b35f-6d6a4775c255",
-   "verif": "vérifié",
-   "verif_date": "2026-10-09",
-   "preuve": "Bulletin des Adjudications, réf. PPP0A2-1064/6125/20260011 (avis de marché, sous-type eForms 16), publié le 2026-10-06.",
-   "date_publication": "2026-10-06",
-   "cpv": "45233140",
-   "ted_ref": "",
-   "notes": "Colfontaine -Réaménagement de la place Elisée Fauviaux",
-   "first_seen": "2026-10-07T23:29:15Z",
-   "province": "Bruxelles",
-   "sur_ted": false,
-   "procedure": "62c8c0dd-b986-4cab-810b-042df68a5e4d",
-   "dossier": "PPP0A2-1064/6125/20260011"
   },
   {
    "id": "bda-a33a8aa5-96e1-4e91-b252-d62cf2b76cf8",
