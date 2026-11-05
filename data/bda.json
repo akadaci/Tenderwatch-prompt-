@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-05T19:02:06Z",
+ "updated": "2026-11-05T21:01:44Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 664,
- "kept": 329,
- "count": 2857,
+ "received": 665,
+ "kept": 330,
+ "count": 2858,
  "new_ids": [
-  "bda-e5f97606-433b-4493-aa32-d4f5429ab5a8"
+  "bda-779f0046-1480-4393-bcc8-53d9ee896c70"
  ],
  "records": [
   {
@@ -2339,6 +2339,27 @@
    "procedure": "178af346-04f0-4790-893f-118d193d1c7a",
    "dossier": "PPP08P-2091/6316/LIM/2026/RVK10034_009",
    "first_seen": "2026-11-05T19:02:06Z"
+  },
+  {
+   "id": "bda-779f0046-1480-4393-bcc8-53d9ee896c70",
+   "source_type": "BDA",
+   "nom": "Amerikalei Kruisingen - Vernieuwen kruising 116K1 & 116K2",
+   "lieu": "Anvers",
+   "province": "Anvers",
+   "mo": "VVM De Lijn - Techniek",
+   "etape": 4,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/779f0046-1480-4393-bcc8-53d9ee896c70",
+   "verif": "vérifié",
+   "verif_date": "2026-11-05",
+   "preuve": "Bulletin des Adjudications, réf. PG2151 103731 (avis de marché, sous-type eForms 17), publié le 2026-11-05.",
+   "date_publication": "2026-11-05",
+   "cpv": "45234120",
+   "ted_ref": "",
+   "notes": "zie opdrachtdocumenten",
+   "procedure": "ffa1a5b2-3095-49b8-a3d6-0e4ead7753b5",
+   "dossier": "PG2151 103731",
+   "first_seen": "2026-11-05T21:01:44Z"
   },
   {
    "id": "bda-43114ede-3db7-4e7d-8716-b44b7809b6d7",
