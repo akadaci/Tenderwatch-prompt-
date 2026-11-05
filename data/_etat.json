@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-05T00:32:01Z",
+ "updated": "2026-11-05T01:01:17Z",
  "days_back": 3,
  "sources": {
   "TED": {
    "ok": true,
-   "new": 23,
+   "new": 0,
    "echecs_suite": 0
   },
   "Bulletin des Adjudications": {
