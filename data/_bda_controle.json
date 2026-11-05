@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 294840
+  "totalCount": 294846
  },
  "types": [
   "ACTIVE|10|['WORKS']",
@@ -47,88 +47,99 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "79957000-7",
+     "code": "79100000-5",
      "descriptions": [
       {
        "language": "NL",
-       "text": "Diensten voor het organiseren van veilingen"
-      },
-      {
-       "language": "EN",
-       "text": "Auction organisation services"
-      },
-      {
-       "language": "DE",
-       "text": "Organisation von Auktionen"
+       "text": "Juridische dienstverlening"
       },
       {
        "language": "FR",
-       "text": "Services d'organisation de ventes aux enchères"
+       "text": "Services juridiques"
+      },
+      {
+       "language": "EN",
+       "text": "Legal services"
+      },
+      {
+       "language": "DE",
+       "text": "Dienstleistungen im juristischen Bereich"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "79957000-7",
+    "code": "79110000-8",
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Diensten voor het organiseren van veilingen"
-     },
-     {
-      "language": "EN",
-      "text": "Auction organisation services"
+      "language": "FR",
+      "text": "Services de conseils et de représentation juridiques"
      },
      {
       "language": "DE",
-      "text": "Organisation von Auktionen"
+      "text": "Juristische Beratung und Vertretung"
      },
      {
-      "language": "FR",
-      "text": "Services d'organisation de ventes aux enchères"
+      "language": "NL",
+      "text": "Juridisch advies en juridische vertegenwoordiging"
+     },
+     {
+      "language": "EN",
+      "text": "Legal advisory and representation services"
      }
     ]
    },
-   "dispatchDate": "2026-11-05",
+   "dispatchDate": "2026-11-06",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
+      "language": "FR",
+      "text": "Conseil et contentieux en matière  d'attribution de marchés public"
+     },
+     {
       "language": "NL",
-      "text": "Op regelmatige basis beschikt de Gemeente Grimbergen over diverse machines, voertuigen en verbruiksgoederen die voor de dagelijkse werking afgeschreven of overbodig zijn geworden maar wel een financiële waarde hebben.  Gemeente Grimbergen wenst een veilinghuis aan te stellen om deze zaken te verkopen aan marktconforme prijzen.  Gezien de variatie in items en tijdstippen zal hiervoor een raamovereenkomst worden gesloten, waarbij de te verkopen goederen hoofdzakelijk worden onderverdeeld in de volgende classificaties:  • Deel 1: Voertuigen o.a. (wagens, kranen,...) • Deel 2: Technische- en verbruiksmaterialen, o.a. (aanhangwagens, veegmachines, stoommachines, ...) • Deel 3: Meubilair o.a. (kasten, tafels, schoolbanken,...) Deze opsomming is niet limitatief.  De overeenkomst wordt gesloten voor een termijn van 4 jaar, jaarlijks opzegbaar. Een gedetailleerde beschrijving is terug te vinden in III. Technische bepalingen. Deze overheidsopdracht beoogt het sluiten van een raamovereenkomst met één deelnemer.  De sluiting van deze overeenkomst doet ten aanzien van de opdrachtnemer geen exclusiviteitsrecht ontstaan  voor  het  uitvoeren  van  opdrachten  zoals  omschreven  in  het  bestek. De aanbestedende overheid kan zowel afzien van het gunnen of het sluiten van de opdracht als de procedure herbeginnen, desnoods op een andere wijze.  De  opdracht  is  een  opdracht  voor  diensten  in de  zin van artikel  2,  21°  van de  Wet Overheidsopdrachten.   Voortijdige beëindiging:  De opdrachtgever kan de overeenkomst geheel of gedeeltelijke voortijdig beëindigen indien - de uitvoering van de opdracht niet in overeenstemming is met het bestek of met de van toepassing zijnde voorschriften, wetten, decreten, richtlijnen of elke van hogerhand opgelegde verplichtingen; - de opdrachtnemer niet meer in de mogelijkheid is om de opdracht uit te voeren (bv. faillissement).  De opdrachtgever kan in voorkomend geval de overeenkomst beëindigen: - mits een opzegging van 1 maand; - via aan aangetekend schrijven aan de opdrachtnemer.  Plaats van dienstverlening: Gemeente Grimbergen, Prinsenstraat 3, 1850 Grimbergen "
+      "text": "Juridische dienstverlening inzake overheidsopdrachten  –  Geschillen en advies inzake gunning"
      }
     ],
     "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP06I-1350/6269/2026/1264",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "PPP06I-1350/6269/2026/1264",
+    "legalBasis": "D25",
+    "number": "0000802830 BIS JPA",
+    "procurementProcedureType": "NEG_WO_CALL_25",
+    "referenceNumber": "0000802830 BIS JPA",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
+      "language": "FR",
+      "text": "Conseil et contentieux en matière  d'attribution de marchés public"
+     },
+     {
       "language": "NL",
-      "text": "Raamovereenkomst voor de aanstelling van een veilinghuis  voor de periode 2027 2031"
+      "text": "uridische dienstverlening inzake overheidsopdrachten  –  Geschillen en advies inzake gunning"
      }
     ]
    },
-   "insertionDate": "2026-11-05",
+   "insertionDate": "2026-11-06",
    "lots": [
     {
      "descriptions": [
       {
+       "language": "FR",
+       "text": "Accord-cadre et Accord Cadre Cascade -  Services juridiques - Conseil et contentieux en matière  d'attribution de marchés public"
+      },
+      {
        "language": "NL",
-       "text": "Op regelmatige basis beschikt de Gemeente Grimbergen over diverse machines, voertuigen en verbruiksgoederen die voor de dagelijkse werking afgeschreven of overbodig zijn geworden maar wel een financiële waarde hebben.  Gemeente Grimbergen wenst een veilinghuis aan te stellen om deze zaken te verkopen aan marktconforme prijzen.  Gezien de variatie in items en tijdstippen zal hiervoor een raamovereenkomst worden gesloten, waarbij de te verkopen goederen hoofdzakelijk worden onderverdeeld in de volgende classificaties:  • Deel 1: Voertuigen o.a. (wagens, kranen,...) • Deel 2: Technische- en verbruiksmaterialen, o.a. (aanhangwagens, veegmachines, stoommachines, ...) • Deel 3: Meubilair o.a. (kasten, tafels, schoolbanken,...) Deze opsomming is niet limitatief.  De overeenkomst wordt gesloten voor een termijn van 4 jaar, jaarlijks opzegbaar. Een gedetailleerde beschrijving is terug te vinden in III. Technische bepalingen. Deze overheidsopdracht beoogt het sluiten van een raamovereenkomst met één deelnemer.  De sluiting van deze overeenkomst doet ten aanzien van de opdrachtnemer geen exclusiviteitsrecht ontstaan  voor  het  uitvoeren  van  opdrachten  zoals  omschreven  in  het  bestek. De aanbestedende overheid kan zowel afzien van het gunnen of het sluiten van de opdracht als de procedure herbeginnen, desnoods op een andere wijze.  De  opdracht  is  een  opdracht  voor  diensten  in de  zin van artikel  2,  21°  van de  Wet Overheidsopdrachten.   Voortijdige beëindiging:  De opdrachtgever kan de overeenkomst geheel of gedeeltelijke voortijdig beëindigen indien - de uitvoering van de opdracht niet in overeenstemming is met het bestek of met de van toepassing zijnde voorschriften, wetten, decreten, richtlijnen of elke van hogerhand opgelegde verplichtingen; - de opdrachtnemer niet meer in de mogelijkheid is om de opdracht uit te voeren (bv. faillissement).  De opdrachtgever kan in voorkomend geval de overeenkomst beëindigen: - mits een opzegging van 1 maand; - via aan aangetekend schrijven aan de opdrachtnemer.  Plaats van dienstverlening: Gemeente Grimbergen, Prinsenstraat 3, 1850 Grimbergen "
+       "text": "Raamovereenkomst en Raamovereenkomst Cascade - Juridische dienstverlening inzake overheidsopdrachten  – Geschillen en advies inzake gunning "
       }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
      ],
      "titles": [
       {
+       "language": "FR",
+       "text": "0000802830 BIS JPA - 1"
+      },
+      {
        "language": "NL",
-       "text": "Raamovereenkomst voor de aanstelling van een veilinghuis  voor de periode 2027 2031"
+       "text": "0000802830 BIS JPA - 1"
       }
      ]
     }
@@ -137,284 +148,134 @@
     "SERVICES"
    ],
    "noticeIds": [
-    "27a37cbe-a1ee-406a-a8b7-9dfcd32a700c"
-   ],
-   "noticeSubType": "16",
-   "nutsCodes": [
-    "BE241"
-   ],
-   "organisation": {
-    "organisationId": 235,
-    "organisationNames": [
-     {
-      "language": "DE",
-      "text": "Grimbergen"
-     },
-     {
-      "language": "NL",
-      "text": "Grimbergen"
-     },
-     {
-      "language": "FR",
-      "text": "Grimbergen"
-     },
-     {
-      "language": "EN",
-      "text": "Grimbergen"
-     }
-    ],
-    "tree": "200004.200021.235"
-   },
-   "procedureId": "ae42bb6e-d969-4407-aca2-d30da846f2fd",
-   "publicationDate": "2026-11-05",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP06I-1350/6269/2026/1264_001"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "0ac5730c-6907-430d-b00c-77419bbd90df",
-   "publishedAt": [
-    "2026-11-05T00:00:47.68141"
-   ],
-   "referenceNumber": "PPP06I-1350/6269/2026/1264_001",
-   "sentAt": [
-    "2026-11-05T00:00:47.68141"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-12-03T11:00:00"
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "45400000-1",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Travaux de parachèvement de bâtiment"
-      },
-      {
-       "language": "DE",
-       "text": "Baufertigstellung"
-      },
-      {
-       "language": "NL",
-       "text": "Afwerking van gebouwen"
-      },
-      {
-       "language": "EN",
-       "text": "Building completion work"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "45400000-1",
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Travaux de parachèvement de bâtiment"
-     },
-     {
-      "language": "DE",
-      "text": "Baufertigstellung"
-     },
-     {
-      "language": "NL",
-      "text": "Afwerking van gebouwen"
-     },
-     {
-      "language": "EN",
-      "text": "Building completion work"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-05",
-   "dossier": {
-    "accreditations": {
-     "D": 1
-    },
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Ce dossier a pour but de sécuriser au maximum le bâtiment de type CHAVILLE. Etant donné la structure en acier du bâtiment, le compartimentage conforme de ce bâtiment n’est pas possible sans une reconfiguration totale des cloisons et plafonds. Les travaux envisagés dans le cadre de ce dossier ne sont pas une mise en conformité aux normes mais sont réalisés afin de permettre une évacuation rapide des occupants en cas d’incendie. Ils comprennent : · Le remplacement des portes des cages d’escalier, réfectoire et cuisine par des portes EI1 30 ; · Le déplacement du local vestiaire pour faciliter l’évacuation du réfectoire ; · La levée d’infractions de l’infrastructure de la cabine HT située dans le bâtiment de type RTG."
-     }
-    ],
-    "enterpriseCategories": [
-     {
-      "categoryCode": "D",
-      "levels": [
-       1
-      ]
-     }
-    ],
-    "legalBasis": "D24",
-    "number": "AF 264 49747-11",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "AF 264 49747-11",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "Athénée Royal Lucie Dejardin: Travaux de prévention incendie – CHAVILE (Lot1 : Gros-oeuvre et parachèvements)"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-05",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Ce dossier a pour but de sécuriser au maximum le bâtiment de type CHAVILLE. Etant donné la structure en acier du bâtiment, le compartimentage conforme de ce bâtiment n’est pas possible sans une reconfiguration totale des cloisons et plafonds. Les travaux envisagés dans le cadre de ce dossier ne sont pas une mise en conformité aux normes mais sont réalisés afin de permettre une évacuation rapide des occupants en cas d’incendie. Ils comprennent : · Le remplacement des portes des cages d’escalier, réfectoire et cuisine par des portes EI1 30 ; · Le déplacement du local vestiaire pour faciliter l’évacuation du réfectoire ; · La levée d’infractions de l’infrastructure de la cabine HT située dans le bâtiment de type RTG."
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Athénée Royal Lucie Dejardin: Travaux de prévention incendie – CHAVILE (Lot1 : Gros-oeuvre et parachèvements)"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "WORKS"
-   ],
-   "noticeIds": [
-    "6f3e8a6f-b86c-4d26-b5ee-0c74bebc172e"
+    "492a0b62-31f9-4f60-b86f-7453995b9b43"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE332"
+    "BE"
    ],
    "organisation": {
-    "organisationId": 7122,
+    "organisationId": 5863,
     "organisationNames": [
      {
-      "language": "DE",
-      "text": "Direction régionale de Liège"
-     },
-     {
-      "language": "NL",
-      "text": "Direction régionale de Liège"
-     },
-     {
       "language": "FR",
-      "text": "Direction régionale de Liège"
+      "text": "Infrabel - Goods & Services"
      },
      {
       "language": "EN",
-      "text": "Direction régionale de Liège"
+      "text": "Infrabel - Goods & Services"
+     },
+     {
+      "language": "DE",
+      "text": "Infrabel - Goods & Services"
+     },
+     {
+      "language": "NL",
+      "text": "Infrabel - Goods & Services"
      }
     ],
-    "tree": "200003.200018.2560.5245.6216.6699.7122"
+    "tree": "200002.200014.4784.5863"
    },
-   "procedureId": "61d62862-069b-4b51-9f3c-32586bb67af2",
-   "publicationDate": "2026-11-05",
+   "procedureId": "ea5c262c-1f15-496e-9e36-b2fa78b8d8d0",
+   "publicationDate": "2026-11-06",
    "publicationLanguages": [
+    "NL",
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "AF 264 49747-11_pub02"
+    "0000802830 BIS JPA_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "697f0e7f-4cad-4191-9969-bd28e8a99c7a",
+   "publicationWorkspaceId": "990abc7f-c6a2-409e-9391-142da8c5b731",
    "publishedAt": [
-    "2026-11-05T00:00:47.039979"
+    "2026-11-06T00:00:48.062253"
    ],
-   "referenceNumber": "AF 264 49747-11_pub02",
+   "referenceNumber": "0000802830 BIS JPA_pub01",
    "sentAt": [
-    "2026-11-05T00:00:47.039979"
+    "2026-11-06T00:00:48.062253"
    ],
    "tedPublished": false
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "15300000-1",
+     "code": "39130000-2",
      "descriptions": [
       {
-       "language": "DE",
-       "text": "Obst, Gemüse und zugehörige Erzeugnisse"
-      },
-      {
        "language": "FR",
-       "text": "Fruits, légumes et produits connexes"
+       "text": "Mobilier de bureau"
       },
       {
-       "language": "NL",
-       "text": "Groenten, fruit en aanverwante producten"
+       "language": "DE",
+       "text": "Büromöbel"
       },
       {
        "language": "EN",
-       "text": "Fruit, vegetables and related products"
+       "text": "Office furniture"
+      },
+      {
+       "language": "NL",
+       "text": "Kantoormeubilair"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "15300000-1",
+    "code": "39130000-2",
     "descriptions": [
      {
-      "language": "DE",
-      "text": "Obst, Gemüse und zugehörige Erzeugnisse"
-     },
-     {
       "language": "FR",
-      "text": "Fruits, légumes et produits connexes"
+      "text": "Mobilier de bureau"
      },
      {
-      "language": "NL",
-      "text": "Groenten, fruit en aanverwante producten"
+      "language": "DE",
+      "text": "Büromöbel"
      },
      {
       "language": "EN",
-      "text": "Fruit, vegetables and related products"
+      "text": "Office furniture"
+     },
+     {
+      "language": "NL",
+      "text": "Kantoormeubilair"
      }
     ]
    },
-   "dispatchDate": "2026-11-05",
+   "dispatchDate": "2026-11-06",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
       "language": "FR",
-      "text": "Achat de fruits et légumes frais pour l'Accueil Extrascolaire et pour le Service Communal d'Accueil de la Petite Enfance de la Ville d'Arlon 2027 (2028)"
+      "text": "Le présent marché concerne l'ameublement, la livraison et  l'installation pour Mecalys"
      }
     ],
     "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP093-3332/6298/MF-PNSPP/26-3332",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP093-3332/6298/MF-PNSPP/26-3332",
+    "legalBasis": "D25",
+    "number": "NL-TECH-2026-06",
+    "procurementProcedureType": "NEG_WO_CALL_25",
+    "referenceNumber": "NL-TECH-2026-06",
     "titles": [
      {
       "language": "FR",
-      "text": "Achat de fruits et légumes frais pour l'Accueil Extrascolaire et pour le Service Communal d'Accueil de la Petite Enfance de la Ville d'Arlon 2027 (2028)"
+      "text": "Mobilier livraison et installation Mecalys"
      }
     ]
    },
-   "insertionDate": "2026-11-05",
+   "insertionDate": "2026-11-06",
    "lots": [
     {
      "descriptions": [
       {
        "language": "FR",
-       "text": "Achat de fruits et légumes frais pour l'Accueil Extrascolaire et pour le Service Communal d'Accueil de la Petite Enfance de la Ville d'Arlon 2027 (2028)"
+       "text": "Le présent marché concerne l'ameublement de Mecalys"
       }
      ],
      "titles": [
       {
        "language": "FR",
-       "text": "Achat de fruits et légumes frais pour l'Accueil Extrascolaire et pour le Service Communal d'Accueil de la Petite Enfance de la Ville d'Arlon 2027 (2028)"
+       "text": "NL-TECH-2026-06 - 1"
       }
      ]
     }
@@ -423,138 +284,136 @@
     "SUPPLIES"
    ],
    "noticeIds": [
-    "d3dc582c-8da8-459d-8555-4f38b3d10369"
+    "6c9bc52f-fa67-4b1a-a60d-dba857a3d480"
    ],
-   "noticeSubType": "E4",
+   "noticeSubType": "34",
    "nutsCodes": [
-    "BE341"
+    "BEZZZ"
    ],
    "organisation": {
-    "organisationId": 5462,
+    "organisationId": 615,
     "organisationNames": [
      {
       "language": "DE",
-      "text": "Administration Communale de la Ville d'Arlon"
+      "text": "Opérateur de Transport de Wallonie"
      },
      {
       "language": "NL",
-      "text": "Administration Communale de la Ville d'Arlon"
+      "text": "Opérateur de Transport de Wallonie"
      },
      {
       "language": "EN",
-      "text": "Administration Communale de la Ville d'Arlon"
+      "text": "Opérateur de Transport de Wallonie"
      },
      {
       "language": "FR",
-      "text": "Administration Communale de la Ville d'Arlon"
+      "text": "Opérateur de Transport de Wallonie"
      }
     ],
-    "tree": "200004.200021.272.5462"
+    "tree": "200003.200016.615"
    },
-   "procedureId": "fdad6284-1cdf-4dc2-a475-a79c890479c8",
-   "publicationDate": "2026-11-05",
+   "procedureId": "ece6f493-4bf2-4db9-ba1f-89d11ae77208",
+   "publicationDate": "2026-11-06",
    "publicationLanguages": [
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP093-3332/6298/MF-PNSPP/26-3332_002"
+    "NL-TECH-2026-06_Attribution"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "420fd18d-9a5b-47a7-b40f-332c4fad6547",
+   "publicationWorkspaceId": "f1835e2c-f006-40f5-b17a-c7abb0ce91eb",
    "publishedAt": [
-    "2026-11-05T00:00:46.014907"
+    "2026-11-06T00:00:48.793445"
    ],
-   "referenceNumber": "PPP093-3332/6298/MF-PNSPP/26-3332_002",
+   "referenceNumber": "NL-TECH-2026-06_Attribution",
    "sentAt": [
-    "2026-11-05T00:00:46.014907"
+    "2026-11-06T00:00:48.793445"
    ],
    "tedPublished": false
-  }
- ],
- "exemple_attribution": [
+  },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45400000-1",
+     "code": "45220000-5",
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Travaux de parachèvement de bâtiment"
+       "language": "DE",
+       "text": "Ingenieur- und Hochbauarbeiten"
       },
       {
-       "language": "DE",
-       "text": "Baufertigstellung"
+       "language": "FR",
+       "text": "Ouvrages d'art et de génie civil"
       },
       {
        "language": "NL",
-       "text": "Afwerking van gebouwen"
+       "text": "Civieltechnische en bouwwerkzaamheden"
       },
       {
        "language": "EN",
-       "text": "Building completion work"
+       "text": "Engineering works and construction works"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45400000-1",
+    "code": "45220000-5",
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Travaux de parachèvement de bâtiment"
+      "language": "DE",
+      "text": "Ingenieur- und Hochbauarbeiten"
      },
      {
-      "language": "DE",
-      "text": "Baufertigstellung"
+      "language": "FR",
+      "text": "Ouvrages d'art et de génie civil"
      },
      {
       "language": "NL",
-      "text": "Afwerking van gebouwen"
+      "text": "Civieltechnische en bouwwerkzaamheden"
      },
      {
       "language": "EN",
-      "text": "Building completion work"
+      "text": "Engineering works and construction works"
      }
     ]
    },
-   "dispatchDate": "2026-11-05",
+   "dispatchDate": "2026-11-06",
    "dossier": {
     "accreditations": {
-     "D": 1
+     "E": 1
     },
     "descriptions": [
      {
       "language": "FR",
-      "text": "Ce dossier a pour but de sécuriser au maximum le bâtiment de type CHAVILLE. Etant donné la structure en acier du bâtiment, le compartimentage conforme de ce bâtiment n’est pas possible sans une reconfiguration totale des cloisons et plafonds. Les travaux envisagés dans le cadre de ce dossier ne sont pas une mise en conformité aux normes mais sont réalisés afin de permettre une évacuation rapide des occupants en cas d’incendie. Ils comprennent : · Le remplacement des portes des cages d’escalier, réfectoire et cuisine par des portes EI1 30 ; · Le déplacement du local vestiaire pour faciliter l’évacuation du réfectoire ; · La levée d’infractions de l’infrastructure de la cabine HT située dans le bâtiment de type RTG."
+      "text": "Ce marché concerne des travaux d’entretien courant des ouvrages d’art à réaliser à la demande d’Infrabel et pour pallier à des circonstances imprévisibles et nécessitant une intervention rapide."
      }
     ],
     "enterpriseCategories": [
      {
-      "categoryCode": "D",
+      "categoryCode": "E",
       "levels": [
        1
       ]
      }
     ],
-    "legalBasis": "D24",
-    "number": "AF 264 49747-11",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "AF 264 49747-11",
+    "legalBasis": "D25",
+    "number": "5753426083",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "5753426083",
     "titles": [
      {
       "language": "FR",
-      "text": "Athénée Royal Lucie Dejardin: Travaux de prévention incendie – CHAVILE (Lot1 : Gros-oeuvre et parachèvements)"
+      "text": "Cahier Spécial des Charges n°57/53/4/26/083 - Ligne 43 : Rivage / Bomal - Maintenance des ouvrages d’art, des murs et des parois rocheuses"
      }
     ]
    },
-   "insertionDate": "2026-11-05",
+   "insertionDate": "2026-11-06",
    "lots": [
     {
      "descriptions": [
       {
        "language": "FR",
-       "text": "Ce dossier a pour but de sécuriser au maximum le bâtiment de type CHAVILLE. Etant donné la structure en acier du bâtiment, le compartimentage conforme de ce bâtiment n’est pas possible sans une reconfiguration totale des cloisons et plafonds. Les travaux envisagés dans le cadre de ce dossier ne sont pas une mise en conformité aux normes mais sont réalisés afin de permettre une évacuation rapide des occupants en cas d’incendie. Ils comprennent : · Le remplacement des portes des cages d’escalier, réfectoire et cuisine par des portes EI1 30 ; · Le déplacement du local vestiaire pour faciliter l’évacuation du réfectoire ; · La levée d’infractions de l’infrastructure de la cabine HT située dans le bâtiment de type RTG."
+       "text": "Ce marché concerne des travaux d’entretien courant des ouvrages d’art à réaliser à la demande d’Infrabel et pour pallier à des circonstances imprévisibles et nécessitant une intervention rapide."
       }
      ],
      "reservedExecution": [
@@ -566,7 +425,7 @@
      "titles": [
       {
        "language": "FR",
-       "text": "Athénée Royal Lucie Dejardin: Travaux de prévention incendie – CHAVILE (Lot1 : Gros-oeuvre et parachèvements)"
+       "text": "Cahier Spécial des Charges n°57/53/4/26/083 Ligne 43 : Rivage / Bomal - Maintenance des ouvrages d’art, des murs et des parois rocheuses."
       }
      ]
     }
@@ -575,51 +434,207 @@
     "WORKS"
    ],
    "noticeIds": [
-    "6f3e8a6f-b86c-4d26-b5ee-0c74bebc172e"
+    "92b04c1b-b450-4dc8-9559-e114fdfaf93a"
    ],
-   "noticeSubType": "E4",
+   "noticeSubType": "17",
    "nutsCodes": [
     "BE332"
    ],
    "organisation": {
-    "organisationId": 7122,
+    "organisationId": 17122,
     "organisationNames": [
      {
       "language": "DE",
-      "text": "Direction régionale de Liège"
+      "text": "Infrabel Projects South"
      },
      {
       "language": "NL",
-      "text": "Direction régionale de Liège"
+      "text": "Infrabel Projects South"
      },
      {
       "language": "FR",
-      "text": "Direction régionale de Liège"
+      "text": "Infrabel Projects South"
      },
      {
       "language": "EN",
-      "text": "Direction régionale de Liège"
+      "text": "Infrabel Projects South"
      }
     ],
-    "tree": "200003.200018.2560.5245.6216.6699.7122"
+    "tree": "200002.200014.4784.17122"
    },
-   "procedureId": "61d62862-069b-4b51-9f3c-32586bb67af2",
-   "publicationDate": "2026-11-05",
+   "procedureId": "7b7285fc-58f5-4a21-8cdf-b0cbcd0cb41f",
+   "publicationDate": "2026-11-06",
    "publicationLanguages": [
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "AF 264 49747-11_pub02"
+    "5753426083_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "697f0e7f-4cad-4191-9969-bd28e8a99c7a",
+   "publicationWorkspaceId": "46fa7ef2-35cd-4749-8bf5-947022aecc77",
    "publishedAt": [
-    "2026-11-05T00:00:47.039979"
+    "2026-11-06T00:00:46.01869"
    ],
-   "referenceNumber": "AF 264 49747-11_pub02",
+   "referenceNumber": "5753426083_pub01",
    "sentAt": [
-    "2026-11-05T00:00:47.039979"
+    "2026-11-06T00:00:46.01869"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-12-10T14:00:00"
+  }
+ ],
+ "exemple_attribution": [
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "79100000-5",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Juridische dienstverlening"
+      },
+      {
+       "language": "FR",
+       "text": "Services juridiques"
+      },
+      {
+       "language": "EN",
+       "text": "Legal services"
+      },
+      {
+       "language": "DE",
+       "text": "Dienstleistungen im juristischen Bereich"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "79110000-8",
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Services de conseils et de représentation juridiques"
+     },
+     {
+      "language": "DE",
+      "text": "Juristische Beratung und Vertretung"
+     },
+     {
+      "language": "NL",
+      "text": "Juridisch advies en juridische vertegenwoordiging"
+     },
+     {
+      "language": "EN",
+      "text": "Legal advisory and representation services"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-06",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Conseil et contentieux en matière  d'attribution de marchés public"
+     },
+     {
+      "language": "NL",
+      "text": "Juridische dienstverlening inzake overheidsopdrachten  –  Geschillen en advies inzake gunning"
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D25",
+    "number": "0000802830 BIS JPA",
+    "procurementProcedureType": "NEG_WO_CALL_25",
+    "referenceNumber": "0000802830 BIS JPA",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Conseil et contentieux en matière  d'attribution de marchés public"
+     },
+     {
+      "language": "NL",
+      "text": "uridische dienstverlening inzake overheidsopdrachten  –  Geschillen en advies inzake gunning"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-06",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Accord-cadre et Accord Cadre Cascade -  Services juridiques - Conseil et contentieux en matière  d'attribution de marchés public"
+      },
+      {
+       "language": "NL",
+       "text": "Raamovereenkomst en Raamovereenkomst Cascade - Juridische dienstverlening inzake overheidsopdrachten  – Geschillen en advies inzake gunning "
+      }
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "0000802830 BIS JPA - 1"
+      },
+      {
+       "language": "NL",
+       "text": "0000802830 BIS JPA - 1"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SERVICES"
+   ],
+   "noticeIds": [
+    "492a0b62-31f9-4f60-b86f-7453995b9b43"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE"
+   ],
+   "organisation": {
+    "organisationId": 5863,
+    "organisationNames": [
+     {
+      "language": "FR",
+      "text": "Infrabel - Goods & Services"
+     },
+     {
+      "language": "EN",
+      "text": "Infrabel - Goods & Services"
+     },
+     {
+      "language": "DE",
+      "text": "Infrabel - Goods & Services"
+     },
+     {
+      "language": "NL",
+      "text": "Infrabel - Goods & Services"
+     }
+    ],
+    "tree": "200002.200014.4784.5863"
+   },
+   "procedureId": "ea5c262c-1f15-496e-9e36-b2fa78b8d8d0",
+   "publicationDate": "2026-11-06",
+   "publicationLanguages": [
+    "NL",
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "0000802830 BIS JPA_pub01"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "990abc7f-c6a2-409e-9391-142da8c5b731",
+   "publishedAt": [
+    "2026-11-06T00:00:48.062253"
+   ],
+   "referenceNumber": "0000802830 BIS JPA_pub01",
+   "sentAt": [
+    "2026-11-06T00:00:48.062253"
    ],
    "tedPublished": false
   }
