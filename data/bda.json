@@ -1,25 +1,12 @@
 {
- "updated": "2026-11-06T11:01:38Z",
+ "updated": "2026-11-06T11:30:13Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 732,
- "kept": 344,
- "count": 2888,
+ "received": 733,
+ "kept": 345,
+ "count": 2889,
  "new_ids": [
-  "bda-7ecf3e9d-495f-4008-a3da-13b20ba0d82c",
-  "bda-3e8452a6-975c-4661-a0c4-c17d3510af9e",
-  "bda-19d2a6cf-3978-4100-8c75-42b1b6756d47",
-  "bda-52ccceb7-e1ad-428a-95c4-f4629adaffb6",
-  "bda-dd141421-d256-4122-953c-13b3b824c852",
-  "bda-fa843307-2b4f-4daf-be74-946e031c9ed7",
-  "bda-0e55883a-e125-4a33-93f8-26682f060f70",
-  "bda-e605a4e8-fc1a-4203-932f-6347b8666ab8",
-  "bda-98bd2416-31b5-4228-a319-46e07375c22b",
-  "bda-bd8299c9-47d8-411f-89d1-46c76bb55f04",
-  "bda-1c26144f-5858-4ece-9561-116e5256aa5b",
-  "bda-c60ad25f-9892-4d29-a24e-d0539c528429",
-  "bda-ec9a5a8d-efef-4f5b-93ef-af2d7d2cc9e2",
-  "bda-c8804793-c0dd-416e-a1bf-cdb9bee8f445"
+  "bda-07b93279-f467-415d-82bb-3b371f06f961"
  ],
  "records": [
   {
@@ -882,6 +869,27 @@
    "procedure": "d7324175-d485-493a-973c-d569ab299daa",
    "dossier": "DOS 17186 - BN2605002",
    "first_seen": "2026-11-06T11:01:38Z"
+  },
+  {
+   "id": "bda-07b93279-f467-415d-82bb-3b371f06f961",
+   "source_type": "BDA",
+   "nom": "Rénovation d'un ouvrage d'Art sur la Wampe à Goegnies-Chaussée",
+   "lieu": "Bruxelles",
+   "province": "Bruxelles",
+   "mo": "Quévy",
+   "etape": 5,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/07b93279-f467-415d-82bb-3b371f06f961",
+   "verif": "vérifié",
+   "verif_date": "2026-11-06",
+   "preuve": "Bulletin des Adjudications, réf. PPP08X-1119/6068/2026934 (attribution, sous-type eForms E4), publié le 2026-11-06.",
+   "date_publication": "2026-11-06",
+   "cpv": "45220000",
+   "ted_ref": "",
+   "notes": "Rénovation d'un ouvrage d'Art sur la Wampe à Quévy. Description des travaux : - Enlèvement du revêtement hydrocarboné - Enlèvement des éléments linéaires - Démolition du mur en maçonnerie aval - Mise en oeuvre d’un nouveau mur en maçonnerie comblé au béton - Mise en oeuvre de nouveau éléments linéai",
+   "procedure": "ad0902d6-97a4-4c78-9be8-24e1cb345c3e",
+   "dossier": "PPP08X-1119/6068/2026934",
+   "first_seen": "2026-11-06T11:30:13Z"
   },
   {
    "id": "bda-697f0e7f-4cad-4191-9969-bd28e8a99c7a",

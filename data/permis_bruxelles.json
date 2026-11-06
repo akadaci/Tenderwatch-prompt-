@@ -1,12 +1,48 @@
 {
- "updated": "2026-11-06T11:01:43Z",
+ "updated": "2026-11-06T11:30:18Z",
  "source": "urban.brussels NOVA (WFS)",
  "days_back": 3,
- "received": 72,
- "kept": 17,
- "count": 180,
- "new_ids": [],
+ "received": 79,
+ "kept": 20,
+ "count": 183,
+ "new_ids": [
+  "nova-16/PFD/2051900",
+  "nova-09/PU/2051891",
+  "nova-16/PU/2051832"
+ ],
  "records": [
+  {
+   "id": "nova-16/PFD/2051900",
+   "source_type": "Permis",
+   "nom": "Permis d'urbanisme délivré par le FD",
+   "lieu": "Rue Beeckman 26, 1180 Uccle",
+   "type": "Permis d'urbanisme délivré par le FD",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='16/PFD/2051900'",
+   "verif": "vérifié",
+   "verif_date": "2026-11-06",
+   "preuve": "Demande de permis 16/PFD/2051900 reçue le 2026-11-06 (urban.brussels, service NOVA), surface projetée 4758 m².",
+   "date_publication": "2026-11-06",
+   "notes": "Autorité : BUP",
+   "first_seen": "2026-11-06T11:30:18Z"
+  },
+  {
+   "id": "nova-09/PU/2051891",
+   "source_type": "Permis",
+   "nom": "Division d’une maison unifamiliale avec logement accessoire (appartement « kangourou » à usage familial) en maison de rapport de 2 appartements (le logement kangourou devient un appartement séparé).",
+   "lieu": "Rue Washington 129, 1050 Ixelles",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='09/PU/2051891'",
+   "verif": "vérifié",
+   "verif_date": "2026-11-06",
+   "preuve": "Demande de permis 09/PU/2051891 reçue le 2026-11-06 (urban.brussels, service NOVA).",
+   "date_publication": "2026-11-06",
+   "notes": "Autorité : Ixelles",
+   "first_seen": "2026-11-06T11:30:18Z"
+  },
   {
    "id": "nova-07/PFD/2051762",
    "source_type": "Permis",
@@ -90,7 +126,7 @@
   {
    "id": "nova-04/PU/2051847",
    "source_type": "Permis",
-   "nom": "Permis d'urbanisme privé",
+   "nom": "La demande a pour objet la construction d'un atelier sur une parcelle en intérieur d'ilot.",
    "lieu": "Rue du Witloof 77, 1130 Bruxelles",
    "type": "Permis d'urbanisme privé",
    "mo": "",
@@ -102,6 +138,22 @@
    "date_publication": "2026-11-05",
    "notes": "Autorité : Bruxelles",
    "first_seen": "2026-11-06T05:01:40Z"
+  },
+  {
+   "id": "nova-16/PU/2051832",
+   "source_type": "Permis",
+   "nom": "modifier le permis de lotir n°229 pour ce qui concerne le lot 2 situé avenue du Prince d'Orange à 1180 Uccle. La modification sollicitée a pour seul objet d'autoriser la réalisation de deux logements ",
+   "lieu": "Avenue du Prince d'Orange 231, 1180 Uccle",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='16/PU/2051832'",
+   "verif": "vérifié",
+   "verif_date": "2026-11-06",
+   "preuve": "Demande de permis 16/PU/2051832 reçue le 2026-11-05 (urban.brussels, service NOVA).",
+   "date_publication": "2026-11-05",
+   "notes": "Autorité : Uccle",
+   "first_seen": "2026-11-06T11:30:18Z"
   },
   {
    "id": "nova-18/SFD/2051588",
