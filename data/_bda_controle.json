@@ -3,7 +3,6 @@
   "totalCount": 294846
  },
  "types": [
-  "ACTIVE|10|['WORKS']",
   "ACTIVE|16|['SERVICES', 'SUPPLIES']",
   "ACTIVE|16|['SERVICES', 'WORKS']",
   "ACTIVE|16|['SERVICES']",
@@ -33,7 +32,6 @@
   "ACTIVE|38|['SERVICES']",
   "ACTIVE|4|['SUPPLIES']",
   "ACTIVE|5|['WORKS']",
-  "ACTIVE|E1|['SERVICES']",
   "ACTIVE|E1|['SUPPLIES']",
   "ACTIVE|E3|['SERVICES']",
   "ACTIVE|E3|['SUPPLIES', 'WORKS']",
@@ -134,11 +132,11 @@
      ],
      "titles": [
       {
-       "language": "FR",
+       "language": "NL",
        "text": "0000802830 BIS JPA - 1"
       },
       {
-       "language": "NL",
+       "language": "FR",
        "text": "0000802830 BIS JPA - 1"
       }
      ]
@@ -575,11 +573,11 @@
      ],
      "titles": [
       {
-       "language": "FR",
+       "language": "NL",
        "text": "0000802830 BIS JPA - 1"
       },
       {
-       "language": "NL",
+       "language": "FR",
        "text": "0000802830 BIS JPA - 1"
       }
      ]
