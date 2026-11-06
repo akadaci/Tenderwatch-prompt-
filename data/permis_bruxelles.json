@@ -1,11 +1,15 @@
 {
- "updated": "2026-11-06T03:01:36Z",
+ "updated": "2026-11-06T05:01:40Z",
  "source": "urban.brussels NOVA (WFS)",
  "days_back": 3,
- "received": 61,
- "kept": 14,
- "count": 177,
- "new_ids": [],
+ "received": 75,
+ "kept": 17,
+ "count": 180,
+ "new_ids": [
+  "nova-01/PU/2051867",
+  "nova-15/PFD/2051862",
+  "nova-04/PU/2051847"
+ ],
  "records": [
   {
    "id": "nova-07/PFD/2051762",
@@ -54,6 +58,54 @@
    "date_publication": "2026-11-05",
    "notes": "Autorité : Ixelles",
    "first_seen": "2026-11-05T13:01:39Z"
+  },
+  {
+   "id": "nova-01/PU/2051867",
+   "source_type": "Permis",
+   "nom": "Permis d'urbanisme privé",
+   "lieu": "Avenue Claeterbosch 20, 1070 Anderlecht",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='01/PU/2051867'",
+   "verif": "vérifié",
+   "verif_date": "2026-11-06",
+   "preuve": "Demande de permis 01/PU/2051867 reçue le 2026-11-05 (urban.brussels, service NOVA), surface projetée 4451 m².",
+   "date_publication": "2026-11-05",
+   "notes": "Autorité : Anderlecht",
+   "first_seen": "2026-11-06T05:01:40Z"
+  },
+  {
+   "id": "nova-15/PFD/2051862",
+   "source_type": "Permis",
+   "nom": "Permis d'urbanisme délivré par le FD",
+   "lieu": "Chaussée de Louvain 662, 1030 Schaerbeek",
+   "type": "Permis d'urbanisme délivré par le FD",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='15/PFD/2051862'",
+   "verif": "vérifié",
+   "verif_date": "2026-11-06",
+   "preuve": "Demande de permis 15/PFD/2051862 reçue le 2026-11-05 (urban.brussels, service NOVA), surface projetée 7454 m².",
+   "date_publication": "2026-11-05",
+   "notes": "Autorité : BUP",
+   "first_seen": "2026-11-06T05:01:40Z"
+  },
+  {
+   "id": "nova-04/PU/2051847",
+   "source_type": "Permis",
+   "nom": "Permis d'urbanisme privé",
+   "lieu": "Rue du Witloof 77, 1130 Bruxelles",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='04/PU/2051847'",
+   "verif": "vérifié",
+   "verif_date": "2026-11-06",
+   "preuve": "Demande de permis 04/PU/2051847 reçue le 2026-11-05 (urban.brussels, service NOVA), surface projetée 1040 m².",
+   "date_publication": "2026-11-05",
+   "notes": "Autorité : Bruxelles",
+   "first_seen": "2026-11-06T05:01:40Z"
   },
   {
    "id": "nova-18/SFD/2051588",

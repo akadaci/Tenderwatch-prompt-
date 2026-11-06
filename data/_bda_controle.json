@@ -1,14 +1,16 @@
 {
  "meta": {
-  "totalCount": 294846
+  "totalCount": 294887
  },
  "types": [
+  "ACTIVE|10|['SERVICES']",
   "ACTIVE|16|['SERVICES', 'SUPPLIES']",
   "ACTIVE|16|['SERVICES', 'WORKS']",
   "ACTIVE|16|['SERVICES']",
   "ACTIVE|16|['SUPPLIES', 'WORKS']",
   "ACTIVE|16|['SUPPLIES']",
   "ACTIVE|16|['WORKS']",
+  "ACTIVE|17|['SERVICES', 'SUPPLIES']",
   "ACTIVE|17|['SERVICES']",
   "ACTIVE|17|['WORKS']",
   "ACTIVE|19|['SERVICES']",
@@ -132,11 +134,11 @@
      ],
      "titles": [
       {
-       "language": "NL",
+       "language": "FR",
        "text": "0000802830 BIS JPA - 1"
       },
       {
-       "language": "FR",
+       "language": "NL",
        "text": "0000802830 BIS JPA - 1"
       }
      ]
@@ -198,45 +200,66 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "39130000-2",
+     "code": "44100000-1",
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Mobilier de bureau"
-      },
-      {
        "language": "DE",
-       "text": "Büromöbel"
+       "text": "Baustoffe und Zubehör"
       },
       {
-       "language": "EN",
-       "text": "Office furniture"
+       "language": "FR",
+       "text": "Matériaux de construction et articles connexes"
       },
       {
        "language": "NL",
-       "text": "Kantoormeubilair"
+       "text": "Bouwmaterialen en aanverwante artikelen"
+      },
+      {
+       "language": "EN",
+       "text": "Construction materials and associated items"
+      }
+     ]
+    },
+    {
+     "code": "44000000-0",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Structuren en materialen voor de bouw, ondersteunende producten voor de bouw (uitgezonderd elektrische apparatuur)"
+      },
+      {
+       "language": "EN",
+       "text": "Construction structures and materials, auxiliary products to construction (except electric apparatus)"
+      },
+      {
+       "language": "DE",
+       "text": "Baukonstruktionen und Baustoffe, Bauhilfsprodukte (elektrische Apparate ausgenommen)"
+      },
+      {
+       "language": "FR",
+       "text": "Matériaux et structures de construction, produits auxiliaires pour la construction (à l'exception des appareils électriques)"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "39130000-2",
+    "code": "44100000-1",
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Mobilier de bureau"
-     },
-     {
       "language": "DE",
-      "text": "Büromöbel"
+      "text": "Baustoffe und Zubehör"
      },
      {
-      "language": "EN",
-      "text": "Office furniture"
+      "language": "FR",
+      "text": "Matériaux de construction et articles connexes"
      },
      {
       "language": "NL",
-      "text": "Kantoormeubilair"
+      "text": "Bouwmaterialen en aanverwante artikelen"
+     },
+     {
+      "language": "EN",
+      "text": "Construction materials and associated items"
      }
     ]
    },
@@ -246,18 +269,19 @@
     "descriptions": [
      {
       "language": "FR",
-      "text": "Le présent marché concerne l'ameublement, la livraison et  l'installation pour Mecalys"
+      "text": "Services ouvriers communaux - Achat de matériaux pour travaux divers - Accord-cadre"
      }
     ],
     "enterpriseCategories": [],
-    "legalBasis": "D25",
-    "number": "NL-TECH-2026-06",
-    "procurementProcedureType": "NEG_WO_CALL_25",
-    "referenceNumber": "NL-TECH-2026-06",
+    "legalBasis": "D24",
+    "number": "PPP0M0-1238/6069/2026-633",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP0M0-1238/6069/2026-633",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
       "language": "FR",
-      "text": "Mobilier livraison et installation Mecalys"
+      "text": "Services ouvriers communaux - Achat de matériaux pour travaux divers - Accord-cadre"
      }
     ]
    },
@@ -267,13 +291,55 @@
      "descriptions": [
       {
        "language": "FR",
-       "text": "Le présent marché concerne l'ameublement de Mecalys"
+       "text": "matériaux divers"
       }
      ],
      "titles": [
       {
        "language": "FR",
-       "text": "NL-TECH-2026-06 - 1"
+       "text": "matériaux divers"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "enrobés"
+      }
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "enrobés"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "béton et stabilisé"
+      }
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "béton et stabilisé"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "empierrement"
+      }
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "empierrement"
       }
      ]
     }
@@ -282,51 +348,51 @@
     "SUPPLIES"
    ],
    "noticeIds": [
-    "6c9bc52f-fa67-4b1a-a60d-dba857a3d480"
+    "8064c758-b78f-4ed8-bc02-690ffdcc2090"
    ],
-   "noticeSubType": "34",
+   "noticeSubType": "E4",
    "nutsCodes": [
-    "BEZZZ"
+    "BE342"
    ],
    "organisation": {
-    "organisationId": 615,
+    "organisationId": 1005,
     "organisationNames": [
      {
       "language": "DE",
-      "text": "Opérateur de Transport de Wallonie"
+      "text": "Vielsalm"
      },
      {
       "language": "NL",
-      "text": "Opérateur de Transport de Wallonie"
-     },
-     {
-      "language": "EN",
-      "text": "Opérateur de Transport de Wallonie"
+      "text": "Vielsalm"
      },
      {
       "language": "FR",
-      "text": "Opérateur de Transport de Wallonie"
+      "text": "Vielsalm"
+     },
+     {
+      "language": "EN",
+      "text": "Vielsalm"
      }
     ],
-    "tree": "200003.200016.615"
+    "tree": "200004.200021.1005"
    },
-   "procedureId": "ece6f493-4bf2-4db9-ba1f-89d11ae77208",
+   "procedureId": "d070fbdc-0dc9-4c3c-ab55-108006c09b22",
    "publicationDate": "2026-11-06",
    "publicationLanguages": [
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "NL-TECH-2026-06_Attribution"
+    "PPP0M0-1238/6069/2026-633_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "f1835e2c-f006-40f5-b17a-c7abb0ce91eb",
+   "publicationWorkspaceId": "ef879798-db18-438f-9f63-283bffc1fae7",
    "publishedAt": [
-    "2026-11-06T00:00:48.793445"
+    "2026-11-06T00:00:46.830375"
    ],
-   "referenceNumber": "NL-TECH-2026-06_Attribution",
+   "referenceNumber": "PPP0M0-1238/6069/2026-633_002",
    "sentAt": [
-    "2026-11-06T00:00:48.793445"
+    "2026-11-06T00:00:46.830375"
    ],
    "tedPublished": false
   },
@@ -573,11 +639,11 @@
      ],
      "titles": [
       {
-       "language": "NL",
+       "language": "FR",
        "text": "0000802830 BIS JPA - 1"
       },
       {
-       "language": "FR",
+       "language": "NL",
        "text": "0000802830 BIS JPA - 1"
       }
      ]
