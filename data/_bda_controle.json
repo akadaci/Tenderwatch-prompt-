@@ -7,38 +7,30 @@
   "ACTIVE|16|['SERVICES', 'SUPPLIES']",
   "ACTIVE|16|['SERVICES', 'WORKS']",
   "ACTIVE|16|['SERVICES']",
-  "ACTIVE|16|['SUPPLIES', 'WORKS']",
   "ACTIVE|16|['SUPPLIES']",
   "ACTIVE|16|['WORKS']",
   "ACTIVE|17|['SERVICES', 'SUPPLIES']",
   "ACTIVE|17|['SERVICES']",
   "ACTIVE|17|['SUPPLIES']",
   "ACTIVE|17|['WORKS']",
-  "ACTIVE|19|['SERVICES']",
   "ACTIVE|20|['SERVICES']",
   "ACTIVE|20|['SUPPLIES']",
   "ACTIVE|20|['WORKS']",
-  "ACTIVE|23|['SUPPLIES']",
   "ACTIVE|25|['SUPPLIES']",
   "ACTIVE|29|['SERVICES']",
   "ACTIVE|29|['SUPPLIES']",
   "ACTIVE|29|['WORKS']",
-  "ACTIVE|30|['SERVICES', 'SUPPLIES']",
   "ACTIVE|30|['SERVICES']",
   "ACTIVE|30|['SUPPLIES']",
   "ACTIVE|30|['WORKS']",
   "ACTIVE|33|['SERVICES']",
   "ACTIVE|33|['SUPPLIES']",
-  "ACTIVE|33|['WORKS']",
   "ACTIVE|34|['SERVICES']",
   "ACTIVE|34|['SUPPLIES']",
   "ACTIVE|34|['WORKS']",
-  "ACTIVE|38|['SERVICES']",
-  "ACTIVE|4|['SUPPLIES']",
   "ACTIVE|5|['WORKS']",
   "ACTIVE|E1|['SUPPLIES']",
   "ACTIVE|E3|['SERVICES']",
-  "ACTIVE|E3|['SUPPLIES', 'WORKS']",
   "ACTIVE|E3|['SUPPLIES']",
   "ACTIVE|E3|['WORKS']",
   "ACTIVE|E4|['SERVICES', 'WORKS']",
@@ -137,11 +129,11 @@
      ],
      "titles": [
       {
-       "language": "NL",
+       "language": "FR",
        "text": "0000802830 BIS JPA - 1"
       },
       {
-       "language": "FR",
+       "language": "NL",
        "text": "0000802830 BIS JPA - 1"
       }
      ]
@@ -642,11 +634,11 @@
      ],
      "titles": [
       {
-       "language": "NL",
+       "language": "FR",
        "text": "0000802830 BIS JPA - 1"
       },
       {
-       "language": "FR",
+       "language": "NL",
        "text": "0000802830 BIS JPA - 1"
       }
      ]
