@@ -42,6 +42,367 @@
   {
    "cpvAdditionalCodes": [
     {
+     "code": "45331000-6",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Heating, ventilation and air-conditioning installation work"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux d'installation de matériel de chauffage, de ventilation et de climatisation"
+      },
+      {
+       "language": "NL",
+       "text": "Installeren van verwarming, ventilatie en airconditioning"
+      },
+      {
+       "language": "DE",
+       "text": "Installation von Heizungs-, Lüftungs- und Klimaanlagen"
+      }
+     ]
+    },
+    {
+     "code": "45420000-7",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Travaux de menuiserie et de charpenterie"
+      },
+      {
+       "language": "DE",
+       "text": "Bautischlerei-Einbauarbeiten"
+      },
+      {
+       "language": "NL",
+       "text": "Bouwtimmerwerk en plaatsen van schrijnwerk"
+      },
+      {
+       "language": "EN",
+       "text": "Joinery and carpentry installation work"
+      }
+     ]
+    },
+    {
+     "code": "45310000-3",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Installation von elektrischen Leitungen"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux d'équipement électrique"
+      },
+      {
+       "language": "EN",
+       "text": "Electrical installation work"
+      },
+      {
+       "language": "NL",
+       "text": "Aanleg van elektriciteit"
+      }
+     ]
+    },
+    {
+     "code": "45261000-4",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Installatie- en aanverwante werkzaamheden voor dakconstructies en -bedekking"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de charpente et de couverture et travaux connexes"
+      },
+      {
+       "language": "EN",
+       "text": "Erection and related works of roof frames and coverings"
+      },
+      {
+       "language": "DE",
+       "text": "Errichtung von Dachstühlen sowie Dachdeckarbeiten und zugehörige Arbeiten"
+      }
+     ]
+    },
+    {
+     "code": "45000000-7",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Bauarbeiten"
+      },
+      {
+       "language": "NL",
+       "text": "Bouwwerkzaamheden"
+      },
+      {
+       "language": "EN",
+       "text": "Construction work"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de construction"
+      }
+     ]
+    },
+    {
+     "code": "45421000-4",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Travaux de menuiserie"
+      },
+      {
+       "language": "NL",
+       "text": "Bouwtimmerwerk"
+      },
+      {
+       "language": "EN",
+       "text": "Joinery work"
+      },
+      {
+       "language": "DE",
+       "text": "Bautischlerarbeiten"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45000000-7",
+    "descriptions": [
+     {
+      "language": "DE",
+      "text": "Bauarbeiten"
+     },
+     {
+      "language": "NL",
+      "text": "Bouwwerkzaamheden"
+     },
+     {
+      "language": "EN",
+      "text": "Construction work"
+     },
+     {
+      "language": "FR",
+      "text": "Travaux de construction"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-07",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Voir cahier des charges administratif"
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "T-2025-05",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "T-2025-05",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Rénovation électricité & toitures"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-02",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Voir cahier des charges administratif"
+      }
+     ],
+     "reservedExecution": [
+      "YES"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Gros œuvre"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Voir cahier des charges administratif"
+      }
+     ],
+     "reservedExecution": [
+      "YES"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Électricité"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Voir cahier des charges administratif"
+      }
+     ],
+     "reservedExecution": [
+      "YES"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Toitures"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Voir cahier spécial des charges administratif"
+      }
+     ],
+     "reservedExecution": [
+      "YES"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Menuiseries intérieures"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Voir cahier spécial des charges administratif"
+      }
+     ],
+     "reservedExecution": [
+      "YES"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Chauffage"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Voir cahier spécial des charges administratif"
+      }
+     ],
+     "reservedExecution": [
+      "YES"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Ferronnerie"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "voir cahier spécial des charges administratif"
+      }
+     ],
+     "reservedExecution": [
+      "YES"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Menuiseries extérieures"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "bd45f662-e5a4-473d-9d2f-df68d39489db",
+    "582fa58e-29dc-4307-b123-9bf0bfcc3254",
+    "e6efc036-0d6c-46ec-a962-2712824c291d"
+   ],
+   "noticeSubType": "16",
+   "nutsCodes": [
+    "BE353"
+   ],
+   "organisation": {
+    "organisationId": 22661,
+    "organisationNames": [
+     {
+      "language": "FR",
+      "text": "Ecole libre des 3 vallées ASBL"
+     }
+    ],
+    "tree": "200004.200032.22661"
+   },
+   "procedureId": "8e095205-de3f-48ea-9597-81c616bf9113",
+   "publicationDate": "2026-11-07",
+   "publicationLanguages": [
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "T-2025-05_pub01"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "7ee96e36-e82e-45cd-a62c-e8417d5706d5",
+   "publishedAt": [
+    "2026-11-04T14:04:45.017296",
+    "2026-11-07T10:06:46.016227",
+    "2026-11-02T09:01:45.023129"
+   ],
+   "referenceNumber": "T-2025-05_pub01",
+   "sentAt": [
+    "2026-11-04T14:04:45.017296",
+    "2026-11-07T10:06:46.016227",
+    "2026-11-02T09:01:45.023129"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-12-08T10:20:00"
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
      "code": "79100000-5",
      "descriptions": [
       {
@@ -390,157 +751,6 @@
     "2026-11-06T00:00:46.830375"
    ],
    "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "45220000-5",
-     "descriptions": [
-      {
-       "language": "DE",
-       "text": "Ingenieur- und Hochbauarbeiten"
-      },
-      {
-       "language": "FR",
-       "text": "Ouvrages d'art et de génie civil"
-      },
-      {
-       "language": "NL",
-       "text": "Civieltechnische en bouwwerkzaamheden"
-      },
-      {
-       "language": "EN",
-       "text": "Engineering works and construction works"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "45220000-5",
-    "descriptions": [
-     {
-      "language": "DE",
-      "text": "Ingenieur- und Hochbauarbeiten"
-     },
-     {
-      "language": "FR",
-      "text": "Ouvrages d'art et de génie civil"
-     },
-     {
-      "language": "NL",
-      "text": "Civieltechnische en bouwwerkzaamheden"
-     },
-     {
-      "language": "EN",
-      "text": "Engineering works and construction works"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-06",
-   "dossier": {
-    "accreditations": {
-     "E": 1
-    },
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Ce marché concerne des travaux d’entretien courant des ouvrages d’art à réaliser à la demande d’Infrabel et pour pallier à des circonstances imprévisibles et nécessitant une intervention rapide."
-     }
-    ],
-    "enterpriseCategories": [
-     {
-      "categoryCode": "E",
-      "levels": [
-       1
-      ]
-     }
-    ],
-    "legalBasis": "D25",
-    "number": "5753426083",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "5753426083",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "Cahier Spécial des Charges n°57/53/4/26/083 - Ligne 43 : Rivage / Bomal - Maintenance des ouvrages d’art, des murs et des parois rocheuses"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-06",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Ce marché concerne des travaux d’entretien courant des ouvrages d’art à réaliser à la demande d’Infrabel et pour pallier à des circonstances imprévisibles et nécessitant une intervention rapide."
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Cahier Spécial des Charges n°57/53/4/26/083 Ligne 43 : Rivage / Bomal - Maintenance des ouvrages d’art, des murs et des parois rocheuses."
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "WORKS"
-   ],
-   "noticeIds": [
-    "92b04c1b-b450-4dc8-9559-e114fdfaf93a"
-   ],
-   "noticeSubType": "17",
-   "nutsCodes": [
-    "BE332"
-   ],
-   "organisation": {
-    "organisationId": 17122,
-    "organisationNames": [
-     {
-      "language": "DE",
-      "text": "Infrabel Projects South"
-     },
-     {
-      "language": "NL",
-      "text": "Infrabel Projects South"
-     },
-     {
-      "language": "FR",
-      "text": "Infrabel Projects South"
-     },
-     {
-      "language": "EN",
-      "text": "Infrabel Projects South"
-     }
-    ],
-    "tree": "200002.200014.4784.17122"
-   },
-   "procedureId": "7b7285fc-58f5-4a21-8cdf-b0cbcd0cb41f",
-   "publicationDate": "2026-11-06",
-   "publicationLanguages": [
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "5753426083_pub01"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "46fa7ef2-35cd-4749-8bf5-947022aecc77",
-   "publishedAt": [
-    "2026-11-06T00:00:46.01869"
-   ],
-   "referenceNumber": "5753426083_pub01",
-   "sentAt": [
-    "2026-11-06T00:00:46.01869"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-12-10T14:00:00"
   }
  ],
  "exemple_attribution": [
