@@ -1,16 +1,18 @@
 {
- "updated": "2026-11-07T03:01:29Z",
+ "updated": "2026-11-07T05:01:39Z",
  "source": "urban.brussels NOVA (WFS)",
  "days_back": 3,
- "received": 62,
- "kept": 18,
- "count": 183,
- "new_ids": [],
+ "received": 76,
+ "kept": 19,
+ "count": 184,
+ "new_ids": [
+  "nova-04/PFD/2051916"
+ ],
  "records": [
   {
    "id": "nova-16/PFD/2051900",
    "source_type": "Permis",
-   "nom": "Permis d'urbanisme délivré par le FD",
+   "nom": "Modifier la destination du bâtiment existant comme centre d’hébergement collectif, en lieu et place de son exploitation comme maison de repos ; La rehausse ponctuelle de certaines limites mitoyennes d",
    "lieu": "Rue Beeckman 26, 1180 Uccle",
    "type": "Permis d'urbanisme délivré par le FD",
    "mo": "",
@@ -38,6 +40,22 @@
    "date_publication": "2026-11-06",
    "notes": "Autorité : Ixelles",
    "first_seen": "2026-11-06T11:30:18Z"
+  },
+  {
+   "id": "nova-04/PFD/2051916",
+   "source_type": "Permis",
+   "nom": "Rénover et étendre une tour de bureaux existant - IT Tower",
+   "lieu": "Avenue Louise 480, 1000 Bruxelles",
+   "type": "Permis d'urbanisme délivré par le FD",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='04/PFD/2051916'",
+   "verif": "vérifié",
+   "verif_date": "2026-11-07",
+   "preuve": "Demande de permis 04/PFD/2051916 reçue le 2026-11-06 (urban.brussels, service NOVA), surface projetée 32499 m².",
+   "date_publication": "2026-11-06",
+   "notes": "Autorité : BUP",
+   "first_seen": "2026-11-07T05:01:39Z"
   },
   {
    "id": "nova-07/PFD/2051762",
@@ -106,7 +124,7 @@
   {
    "id": "nova-15/PFD/2051862",
    "source_type": "Permis",
-   "nom": "Permis d'urbanisme délivré par le FD",
+   "nom": "Transformer un concessionnaire automobile en locaux de stockage et commerce de proximité. Cela implique : - Changement d’affectation partielle - Modification de façades - Pose d’enseignes - Pose d’esc",
    "lieu": "Chaussée de Louvain 662, 1030 Schaerbeek",
    "type": "Permis d'urbanisme délivré par le FD",
    "mo": "",
