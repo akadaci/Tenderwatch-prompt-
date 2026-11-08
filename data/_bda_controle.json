@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 294960
+  "totalCount": 294966
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -40,76 +40,90 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45262660-5",
+     "code": "45220000-5",
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Verwijderen van asbest"
-      },
-      {
        "language": "DE",
-       "text": "Asbestbeseitigungsarbeiten"
+       "text": "Ingenieur- und Hochbauarbeiten"
       },
       {
        "language": "FR",
-       "text": "Travaux de désamiantage"
+       "text": "Ouvrages d'art et de génie civil"
+      },
+      {
+       "language": "NL",
+       "text": "Civieltechnische en bouwwerkzaamheden"
       },
       {
        "language": "EN",
-       "text": "Asbestos-removal work"
+       "text": "Engineering works and construction works"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45262660-5",
+    "code": "45340000-2",
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Verwijderen van asbest"
-     },
-     {
-      "language": "DE",
-      "text": "Asbestbeseitigungsarbeiten"
+      "language": "EN",
+      "text": "Fencing, railing and safety equipment installation work"
      },
      {
       "language": "FR",
-      "text": "Travaux de désamiantage"
+      "text": "Travaux d'installation de clôtures, de garde-corps et de dispositifs de sécurité"
      },
      {
-      "language": "EN",
-      "text": "Asbestos-removal work"
+      "language": "DE",
+      "text": "Installation von Zäunen, Geländern und Sicherheitseinrichtungen"
+     },
+     {
+      "language": "NL",
+      "text": "Plaatsen van hekken en leuningen en beveiligingsuitrusting"
      }
     ]
    },
-   "dispatchDate": "2026-11-08",
+   "dispatchDate": "2026-11-09",
    "dossier": {
-    "accreditations": {},
+    "accreditations": {
+     "E": 6
+    },
     "descriptions": [
      {
-      "language": "NL",
-      "text": "De opdracht heeft betrekking op het uitvoeren van asbestsanerings-, reinigings- en decontaminatiewerken in de gebouwen S.B. en S.A. van de Universiteit Antwerpen, met inbegrip van de noodzakelijke veiligheidsmaatregelen, de afvoer en verwerking van afvalstoffen, de controle en vrijgave van de behandelde zones en alle werkzaamheden die noodzakelijk zijn voor een veilige en conforme oplevering."
+      "language": "FR",
+      "text": "Le présent marché est un marché de travaux. Ce marché concerne: - du débroussaillage ;  - des réparations et protections de béton ;  - du bétonnage ;  - des travaux aux garde-corps (remplacements, adaptations, peintures, …) ;  - des parachèvements de sécurisation (enrochements, clôtures, …)."
      }
     ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP0IA-831/6669/26136",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "PPP0IA-831/6669/26136",
+    "enterpriseCategories": [
+     {
+      "categoryCode": "E",
+      "levels": [
+       6,
+       5,
+       4,
+       3,
+       2,
+       1
+      ]
+     }
+    ],
+    "legalBasis": "D25",
+    "number": "5753426114",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "5753426114",
     "titles": [
      {
-      "language": "NL",
-      "text": "Asbestsanering en decontaminatiewerken in gebouwen S.A.,S.B. en S.ABC."
+      "language": "FR",
+      "text": "Ligne 24 : Tronçon Bif Glons – Visé Haut Sécurisation et entretien d’ouvrages d’art, communes de Bassenge et Visé"
      }
     ]
    },
-   "insertionDate": "2026-11-08",
+   "insertionDate": "2026-11-09",
    "lots": [
     {
      "descriptions": [
       {
-       "language": "NL",
-       "text": "De opdracht heeft betrekking op het uitvoeren van asbestsanerings-, reinigings- en decontaminatiewerken in de gebouwen S.B. en S.A. van de Universiteit Antwerpen, met inbegrip van de noodzakelijke veiligheidsmaatregelen, de afvoer en verwerking van afvalstoffen, de controle en vrijgave van de behandelde zones en alle werkzaamheden die noodzakelijk zijn voor een veilige en conforme oplevering."
+       "language": "FR",
+       "text": "Le présent marché est un marché de travaux. Ce marché concerne: - du débroussaillage ;  - des réparations et protections de béton ;  - du bétonnage ;  - des travaux aux garde-corps (remplacements, adaptations, peintures, …) ;  - des parachèvements de sécurisation (enrochements, clôtures, …)."
       }
      ],
      "reservedExecution": [
@@ -120,8 +134,8 @@
      ],
      "titles": [
       {
-       "language": "NL",
-       "text": "Asbestsanering en decontaminatiewerken in gebouwen S.A.,S.B. en S.ABC."
+       "language": "FR",
+       "text": "5753426114 - 1 Ligne 24 : Tronçon Bif Glons – Visé Haut Sécurisation et entretien d’ouvrages d’art, communes de Bassenge et Visé"
       }
      ]
     }
@@ -130,512 +144,161 @@
     "WORKS"
    ],
    "noticeIds": [
-    "9849622d-b15c-44ac-bf63-723ebadf8f23"
+    "79fb6cb0-341d-4e66-9165-94750e518a12"
    ],
-   "noticeSubType": "16",
+   "noticeSubType": "17",
    "nutsCodes": [
-    "BE100"
+    "BE332"
    ],
    "organisation": {
-    "organisationId": 790,
+    "organisationId": 17122,
     "organisationNames": [
      {
       "language": "DE",
-      "text": "Universiteit Antwerpen"
+      "text": "Infrabel Projects South"
      },
      {
       "language": "NL",
-      "text": "Universiteit Antwerpen"
+      "text": "Infrabel Projects South"
      },
      {
       "language": "FR",
-      "text": "Universiteit Antwerpen"
-     },
-     {
-      "language": "EN",
-      "text": "Universiteit Antwerpen"
-     }
-    ],
-    "tree": "200004.200026.790"
-   },
-   "procedureId": "d2d9ad05-9dcb-4cdb-a89e-c49e673566d9",
-   "publicationDate": "2026-11-08",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP0IA-831/6669/26136_001"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "0bcb5c65-558f-48d1-b3e5-10b0daaa0841",
-   "publishedAt": [
-    "2026-11-08T13:58:46.025101"
-   ],
-   "referenceNumber": "PPP0IA-831/6669/26136_001",
-   "sentAt": [
-    "2026-11-08T13:58:46.025101"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-26T11:00:00"
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "45331000-6",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Heating, ventilation and air-conditioning installation work"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux d'installation de matériel de chauffage, de ventilation et de climatisation"
-      },
-      {
-       "language": "NL",
-       "text": "Installeren van verwarming, ventilatie en airconditioning"
-      },
-      {
-       "language": "DE",
-       "text": "Installation von Heizungs-, Lüftungs- und Klimaanlagen"
-      }
-     ]
-    },
-    {
-     "code": "45420000-7",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Travaux de menuiserie et de charpenterie"
-      },
-      {
-       "language": "DE",
-       "text": "Bautischlerei-Einbauarbeiten"
-      },
-      {
-       "language": "NL",
-       "text": "Bouwtimmerwerk en plaatsen van schrijnwerk"
-      },
-      {
-       "language": "EN",
-       "text": "Joinery and carpentry installation work"
-      }
-     ]
-    },
-    {
-     "code": "45310000-3",
-     "descriptions": [
-      {
-       "language": "DE",
-       "text": "Installation von elektrischen Leitungen"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux d'équipement électrique"
-      },
-      {
-       "language": "EN",
-       "text": "Electrical installation work"
-      },
-      {
-       "language": "NL",
-       "text": "Aanleg van elektriciteit"
-      }
-     ]
-    },
-    {
-     "code": "45261000-4",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Installatie- en aanverwante werkzaamheden voor dakconstructies en -bedekking"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de charpente et de couverture et travaux connexes"
-      },
-      {
-       "language": "EN",
-       "text": "Erection and related works of roof frames and coverings"
-      },
-      {
-       "language": "DE",
-       "text": "Errichtung von Dachstühlen sowie Dachdeckarbeiten und zugehörige Arbeiten"
-      }
-     ]
-    },
-    {
-     "code": "45000000-7",
-     "descriptions": [
-      {
-       "language": "DE",
-       "text": "Bauarbeiten"
-      },
-      {
-       "language": "NL",
-       "text": "Bouwwerkzaamheden"
-      },
-      {
-       "language": "EN",
-       "text": "Construction work"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de construction"
-      }
-     ]
-    },
-    {
-     "code": "45421000-4",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Travaux de menuiserie"
-      },
-      {
-       "language": "NL",
-       "text": "Bouwtimmerwerk"
-      },
-      {
-       "language": "EN",
-       "text": "Joinery work"
-      },
-      {
-       "language": "DE",
-       "text": "Bautischlerarbeiten"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "45000000-7",
-    "descriptions": [
-     {
-      "language": "DE",
-      "text": "Bauarbeiten"
-     },
-     {
-      "language": "NL",
-      "text": "Bouwwerkzaamheden"
+      "text": "Infrabel Projects South"
      },
      {
       "language": "EN",
-      "text": "Construction work"
-     },
-     {
-      "language": "FR",
-      "text": "Travaux de construction"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-07",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Voir cahier des charges administratif"
+      "text": "Infrabel Projects South"
      }
     ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "T-2025-05",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "T-2025-05",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "Rénovation électricité & toitures"
-     }
-    ]
+    "tree": "200002.200014.4784.17122"
    },
-   "insertionDate": "2026-11-02",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Voir cahier des charges administratif"
-      }
-     ],
-     "reservedExecution": [
-      "YES"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Gros œuvre"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Voir cahier des charges administratif"
-      }
-     ],
-     "reservedExecution": [
-      "YES"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Électricité"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Voir cahier des charges administratif"
-      }
-     ],
-     "reservedExecution": [
-      "YES"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Toitures"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Voir cahier spécial des charges administratif"
-      }
-     ],
-     "reservedExecution": [
-      "YES"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Menuiseries intérieures"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Voir cahier spécial des charges administratif"
-      }
-     ],
-     "reservedExecution": [
-      "YES"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Chauffage"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Voir cahier spécial des charges administratif"
-      }
-     ],
-     "reservedExecution": [
-      "YES"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Ferronnerie"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "voir cahier spécial des charges administratif"
-      }
-     ],
-     "reservedExecution": [
-      "YES"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Menuiseries extérieures"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "WORKS"
-   ],
-   "noticeIds": [
-    "bd45f662-e5a4-473d-9d2f-df68d39489db",
-    "582fa58e-29dc-4307-b123-9bf0bfcc3254",
-    "e6efc036-0d6c-46ec-a962-2712824c291d"
-   ],
-   "noticeSubType": "16",
-   "nutsCodes": [
-    "BE353"
-   ],
-   "organisation": {
-    "organisationId": 22661,
-    "organisationNames": [
-     {
-      "language": "FR",
-      "text": "Ecole libre des 3 vallées ASBL"
-     }
-    ],
-    "tree": "200004.200032.22661"
-   },
-   "procedureId": "8e095205-de3f-48ea-9597-81c616bf9113",
-   "publicationDate": "2026-11-07",
+   "procedureId": "e235cec4-b84b-488e-970d-b6727cbf1e4f",
+   "publicationDate": "2026-11-09",
    "publicationLanguages": [
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "T-2025-05_pub01"
+    "5753426114_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "7ee96e36-e82e-45cd-a62c-e8417d5706d5",
+   "publicationWorkspaceId": "2e484b27-92af-4fb4-b8fc-ec41bde524ca",
    "publishedAt": [
-    "2026-11-04T14:04:45.017296",
-    "2026-11-07T10:06:46.016227",
-    "2026-11-02T09:01:45.023129"
+    "2026-11-09T00:00:46.980163"
    ],
-   "referenceNumber": "T-2025-05_pub01",
+   "referenceNumber": "5753426114_pub01",
    "sentAt": [
-    "2026-11-04T14:04:45.017296",
-    "2026-11-07T10:06:46.016227",
-    "2026-11-02T09:01:45.023129"
+    "2026-11-09T00:00:46.980163"
    ],
    "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-12-08T10:20:00"
+   "vaultSubmissionDeadline": "2026-12-15T14:00:00"
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "79100000-5",
+     "code": "85147000-1",
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Juridische dienstverlening"
-      },
-      {
        "language": "FR",
-       "text": "Services juridiques"
+       "text": "Services de médecine du travail"
       },
       {
-       "language": "EN",
-       "text": "Legal services"
+       "language": "NL",
+       "text": "Diensten voor bedrijfsgeneeskunde"
       },
       {
        "language": "DE",
-       "text": "Dienstleistungen im juristischen Bereich"
+       "text": "Betriebliche Gesundheitsfürsorge"
+      },
+      {
+       "language": "EN",
+       "text": "Company health services"
+      }
+     ]
+    },
+    {
+     "code": "71317200-5",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Services de santé et de sécurité"
+      },
+      {
+       "language": "NL",
+       "text": "Gezondheids- en veiligheidsdiensten"
+      },
+      {
+       "language": "EN",
+       "text": "Health and safety services"
+      },
+      {
+       "language": "DE",
+       "text": "Dienstleistungen im Bereich Gesundheitsschutz und Sicherheit"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "79110000-8",
+    "code": "85147000-1",
     "descriptions": [
      {
       "language": "FR",
-      "text": "Services de conseils et de représentation juridiques"
-     },
-     {
-      "language": "DE",
-      "text": "Juristische Beratung und Vertretung"
+      "text": "Services de médecine du travail"
      },
      {
       "language": "NL",
-      "text": "Juridisch advies en juridische vertegenwoordiging"
+      "text": "Diensten voor bedrijfsgeneeskunde"
+     },
+     {
+      "language": "DE",
+      "text": "Betriebliche Gesundheitsfürsorge"
      },
      {
       "language": "EN",
-      "text": "Legal advisory and representation services"
+      "text": "Company health services"
      }
     ]
    },
-   "dispatchDate": "2026-11-06",
+   "dispatchDate": "2026-11-09",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
       "language": "FR",
-      "text": "Conseil et contentieux en matière  d'attribution de marchés public"
-     },
-     {
-      "language": "NL",
-      "text": "Juridische dienstverlening inzake overheidsopdrachten  –  Geschillen en advies inzake gunning"
+      "text": "Le marché a pour objet la désignation d’un service externe pour la prévention et la protection au travail (SEPPT), agréé conformément au Livre II, Titre 3 du Code du bien-être au travail, chargé d’assister le COF, son service interne pour la prévention et la protection au travail (SIPPT) et son Comité pour la prévention et la protection au travail (CPPT) dans l’ensemble des missions légales et réglementaires : surveillance de la santé des travailleurs et des stagiaires, gestion des risques, aspects psychosociaux, sécurité du travail, ergonomie et hygiène du travail. Le marché fait l’objet d’un lot unique. "
      }
     ],
     "enterpriseCategories": [],
-    "legalBasis": "D25",
-    "number": "0000802830 BIS JPA",
-    "procurementProcedureType": "NEG_WO_CALL_25",
-    "referenceNumber": "0000802830 BIS JPA",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "legalBasis": "D24",
+    "number": "COF-SEPPT-2026-01",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "COF-SEPPT-2026-01",
     "titles": [
      {
       "language": "FR",
-      "text": "Conseil et contentieux en matière  d'attribution de marchés public"
-     },
-     {
-      "language": "NL",
-      "text": "uridische dienstverlening inzake overheidsopdrachten  –  Geschillen en advies inzake gunning"
+      "text": "Marché public de services relatif à la désignation d'un Service Externe de Prévention et de Protection au Travail (SEPPT)"
      }
     ]
    },
-   "insertionDate": "2026-11-06",
+   "insertionDate": "2026-11-09",
    "lots": [
     {
      "descriptions": [
       {
        "language": "FR",
-       "text": "Accord-cadre et Accord Cadre Cascade -  Services juridiques - Conseil et contentieux en matière  d'attribution de marchés public"
-      },
-      {
-       "language": "NL",
-       "text": "Raamovereenkomst en Raamovereenkomst Cascade - Juridische dienstverlening inzake overheidsopdrachten  – Geschillen en advies inzake gunning "
+       "text": "Marché public de services relatif à la désignation d'un Service Externe de Prévention et de Protection au Travail (SEPPT) "
       }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
      ],
      "titles": [
       {
        "language": "FR",
-       "text": "0000802830 BIS JPA - 1"
-      },
-      {
-       "language": "NL",
-       "text": "0000802830 BIS JPA - 1"
+       "text": "COF-SEPPT-2026-01 - 1"
       }
      ]
     }
@@ -644,52 +307,192 @@
     "SERVICES"
    ],
    "noticeIds": [
-    "492a0b62-31f9-4f60-b86f-7453995b9b43"
+    "936ecc74-2f51-41e8-8a23-6e0735370e7d"
    ],
-   "noticeSubType": "E4",
+   "noticeSubType": "E3",
    "nutsCodes": [
     "BE"
    ],
    "organisation": {
-    "organisationId": 5863,
+    "organisationId": 28661,
     "organisationNames": [
      {
       "language": "FR",
-      "text": "Infrabel - Goods & Services"
+      "text": "Centre d'Orientation et de Formation "
+     }
+    ],
+    "tree": "200004.200032.28661"
+   },
+   "procedureId": "e6b64dd1-836b-4e77-a830-47307f9db837",
+   "publicationDate": "2026-11-09",
+   "publicationLanguages": [
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "COF-SEPPT-2026-01_pub01"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "190f5cfe-1224-4b9f-857d-8ab69996a56d",
+   "publishedAt": [
+    "2026-11-09T00:00:46.609654"
+   ],
+   "referenceNumber": "COF-SEPPT-2026-01_pub01",
+   "sentAt": [
+    "2026-11-09T00:00:46.609654"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-11-23T12:00:00"
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "55300000-3",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Bereiden en serveren van maaltijden"
+      },
+      {
+       "language": "EN",
+       "text": "Restaurant and food-serving services"
+      },
+      {
+       "language": "FR",
+       "text": "Services de restaurant et services de personnel en salle"
+      },
+      {
+       "language": "DE",
+       "text": "Restaurant- und Bewirtungsdienste"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "55300000-3",
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Bereiden en serveren van maaltijden"
      },
      {
       "language": "EN",
-      "text": "Infrabel - Goods & Services"
+      "text": "Restaurant and food-serving services"
+     },
+     {
+      "language": "FR",
+      "text": "Services de restaurant et services de personnel en salle"
      },
      {
       "language": "DE",
-      "text": "Infrabel - Goods & Services"
+      "text": "Restaurant- und Bewirtungsdienste"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-09",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Le présent marché porte sur le service catering organisé le 18 décembre 2026 par l’AFMPS dans la salle de réception au Kinepolis de Bruxelles."
      },
      {
       "language": "NL",
-      "text": "Infrabel - Goods & Services"
+      "text": "De onderhavige opdracht betreft de cateringdiensten voor de receptie georganiseerd op 18 december 2026 door het FAGG in de receptieruimte van Kinepolis Brussel."
      }
     ],
-    "tree": "200002.200014.4784.5863"
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "2026.12.18-FDA",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "2026.12.18-FDA",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "DE DIENSTEN VAN EEN RECEPTIE IN DE RECEPTIERUIMTE VAN KINEPOLIS OP 18 DECEMBER 2026"
+     },
+     {
+      "language": "FR",
+      "text": "SERVICES DE COCKTAIL DINATOIRE DANS L’ESPACE DE RECEPTION DU KINEPOLIS EN DATE DU 18 DECEMBRE 2026"
+     }
+    ]
    },
-   "procedureId": "ea5c262c-1f15-496e-9e36-b2fa78b8d8d0",
-   "publicationDate": "2026-11-06",
+   "insertionDate": "2026-11-09",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Le présent marché porte sur le service catering organisé le 18 décembre 2026 par l’AFMPS dans la salle de réception au Kinepolis de Bruxelles."
+      },
+      {
+       "language": "NL",
+       "text": "De onderhavige opdracht betreft de cateringdiensten voor de receptie georganiseerd op 18 december 2026 door het FAGG in de receptieruimte van Kinepolis Brussel."
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "2026.12.18-FDA - 1"
+      },
+      {
+       "language": "FR",
+       "text": "2026.12.18-FDA - 1"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SERVICES"
+   ],
+   "noticeIds": [
+    "55c50bff-9554-4418-9394-c9c46959d8f3"
+   ],
+   "noticeSubType": "33",
+   "nutsCodes": [
+    "BE100"
+   ],
+   "organisation": {
+    "organisationId": 94,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "Agence Fédérale des Médicaments et des Produits de santé"
+     },
+     {
+      "language": "EN",
+      "text": "Agence Fédérale des Médicaments et des Produits de santé"
+     },
+     {
+      "language": "NL",
+      "text": "Federaal Agentschap voor Geneesmiddelen en Gezondheidsproducten"
+     },
+     {
+      "language": "FR",
+      "text": "Agence Fédérale des Médicaments et des Produits de santé"
+     }
+    ],
+    "tree": "200002.200010.94"
+   },
+   "procedureId": "3cd0f4eb-5a6f-4b5d-b026-8bfa2bef9590",
+   "publicationDate": "2026-11-09",
    "publicationLanguages": [
     "NL",
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "0000802830 BIS JPA_pub01"
+    "2026.12.18-FDA_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "990abc7f-c6a2-409e-9391-142da8c5b731",
+   "publicationWorkspaceId": "5e93a0f2-c346-4b85-810a-199d5ce3d177",
    "publishedAt": [
-    "2026-11-06T00:00:48.062253"
+    "2026-11-09T00:00:47.364396"
    ],
-   "referenceNumber": "0000802830 BIS JPA_pub01",
+   "referenceNumber": "2026.12.18-FDA_pub01",
    "sentAt": [
-    "2026-11-06T00:00:48.062253"
+    "2026-11-09T00:00:47.364396"
    ],
    "tedPublished": false
   }
@@ -698,99 +501,98 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "79100000-5",
+     "code": "55300000-3",
      "descriptions": [
       {
        "language": "NL",
-       "text": "Juridische dienstverlening"
-      },
-      {
-       "language": "FR",
-       "text": "Services juridiques"
+       "text": "Bereiden en serveren van maaltijden"
       },
       {
        "language": "EN",
-       "text": "Legal services"
+       "text": "Restaurant and food-serving services"
+      },
+      {
+       "language": "FR",
+       "text": "Services de restaurant et services de personnel en salle"
       },
       {
        "language": "DE",
-       "text": "Dienstleistungen im juristischen Bereich"
+       "text": "Restaurant- und Bewirtungsdienste"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "79110000-8",
+    "code": "55300000-3",
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Services de conseils et de représentation juridiques"
-     },
-     {
-      "language": "DE",
-      "text": "Juristische Beratung und Vertretung"
-     },
-     {
       "language": "NL",
-      "text": "Juridisch advies en juridische vertegenwoordiging"
+      "text": "Bereiden en serveren van maaltijden"
      },
      {
       "language": "EN",
-      "text": "Legal advisory and representation services"
+      "text": "Restaurant and food-serving services"
+     },
+     {
+      "language": "FR",
+      "text": "Services de restaurant et services de personnel en salle"
+     },
+     {
+      "language": "DE",
+      "text": "Restaurant- und Bewirtungsdienste"
      }
     ]
    },
-   "dispatchDate": "2026-11-06",
+   "dispatchDate": "2026-11-09",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
       "language": "FR",
-      "text": "Conseil et contentieux en matière  d'attribution de marchés public"
+      "text": "Le présent marché porte sur le service catering organisé le 18 décembre 2026 par l’AFMPS dans la salle de réception au Kinepolis de Bruxelles."
      },
      {
       "language": "NL",
-      "text": "Juridische dienstverlening inzake overheidsopdrachten  –  Geschillen en advies inzake gunning"
+      "text": "De onderhavige opdracht betreft de cateringdiensten voor de receptie georganiseerd op 18 december 2026 door het FAGG in de receptieruimte van Kinepolis Brussel."
      }
     ],
     "enterpriseCategories": [],
-    "legalBasis": "D25",
-    "number": "0000802830 BIS JPA",
-    "procurementProcedureType": "NEG_WO_CALL_25",
-    "referenceNumber": "0000802830 BIS JPA",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "legalBasis": "D24",
+    "number": "2026.12.18-FDA",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "2026.12.18-FDA",
     "titles": [
      {
-      "language": "FR",
-      "text": "Conseil et contentieux en matière  d'attribution de marchés public"
+      "language": "NL",
+      "text": "DE DIENSTEN VAN EEN RECEPTIE IN DE RECEPTIERUIMTE VAN KINEPOLIS OP 18 DECEMBER 2026"
      },
      {
-      "language": "NL",
-      "text": "uridische dienstverlening inzake overheidsopdrachten  –  Geschillen en advies inzake gunning"
+      "language": "FR",
+      "text": "SERVICES DE COCKTAIL DINATOIRE DANS L’ESPACE DE RECEPTION DU KINEPOLIS EN DATE DU 18 DECEMBRE 2026"
      }
     ]
    },
-   "insertionDate": "2026-11-06",
+   "insertionDate": "2026-11-09",
    "lots": [
     {
      "descriptions": [
       {
        "language": "FR",
-       "text": "Accord-cadre et Accord Cadre Cascade -  Services juridiques - Conseil et contentieux en matière  d'attribution de marchés public"
+       "text": "Le présent marché porte sur le service catering organisé le 18 décembre 2026 par l’AFMPS dans la salle de réception au Kinepolis de Bruxelles."
       },
       {
        "language": "NL",
-       "text": "Raamovereenkomst en Raamovereenkomst Cascade - Juridische dienstverlening inzake overheidsopdrachten  – Geschillen en advies inzake gunning "
+       "text": "De onderhavige opdracht betreft de cateringdiensten voor de receptie georganiseerd op 18 december 2026 door het FAGG in de receptieruimte van Kinepolis Brussel."
       }
      ],
      "titles": [
       {
-       "language": "FR",
-       "text": "0000802830 BIS JPA - 1"
+       "language": "NL",
+       "text": "2026.12.18-FDA - 1"
       },
       {
-       "language": "NL",
-       "text": "0000802830 BIS JPA - 1"
+       "language": "FR",
+       "text": "2026.12.18-FDA - 1"
       }
      ]
     }
@@ -799,52 +601,52 @@
     "SERVICES"
    ],
    "noticeIds": [
-    "492a0b62-31f9-4f60-b86f-7453995b9b43"
+    "55c50bff-9554-4418-9394-c9c46959d8f3"
    ],
-   "noticeSubType": "E4",
+   "noticeSubType": "33",
    "nutsCodes": [
-    "BE"
+    "BE100"
    ],
    "organisation": {
-    "organisationId": 5863,
+    "organisationId": 94,
     "organisationNames": [
      {
-      "language": "FR",
-      "text": "Infrabel - Goods & Services"
+      "language": "DE",
+      "text": "Agence Fédérale des Médicaments et des Produits de santé"
      },
      {
       "language": "EN",
-      "text": "Infrabel - Goods & Services"
-     },
-     {
-      "language": "DE",
-      "text": "Infrabel - Goods & Services"
+      "text": "Agence Fédérale des Médicaments et des Produits de santé"
      },
      {
       "language": "NL",
-      "text": "Infrabel - Goods & Services"
+      "text": "Federaal Agentschap voor Geneesmiddelen en Gezondheidsproducten"
+     },
+     {
+      "language": "FR",
+      "text": "Agence Fédérale des Médicaments et des Produits de santé"
      }
     ],
-    "tree": "200002.200014.4784.5863"
+    "tree": "200002.200010.94"
    },
-   "procedureId": "ea5c262c-1f15-496e-9e36-b2fa78b8d8d0",
-   "publicationDate": "2026-11-06",
+   "procedureId": "3cd0f4eb-5a6f-4b5d-b026-8bfa2bef9590",
+   "publicationDate": "2026-11-09",
    "publicationLanguages": [
     "NL",
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "0000802830 BIS JPA_pub01"
+    "2026.12.18-FDA_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "990abc7f-c6a2-409e-9391-142da8c5b731",
+   "publicationWorkspaceId": "5e93a0f2-c346-4b85-810a-199d5ce3d177",
    "publishedAt": [
-    "2026-11-06T00:00:48.062253"
+    "2026-11-09T00:00:47.364396"
    ],
-   "referenceNumber": "0000802830 BIS JPA_pub01",
+   "referenceNumber": "2026.12.18-FDA_pub01",
    "sentAt": [
-    "2026-11-06T00:00:48.062253"
+    "2026-11-09T00:00:47.364396"
    ],
    "tedPublished": false
   }
