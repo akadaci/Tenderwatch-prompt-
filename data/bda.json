@@ -1,17 +1,11 @@
 {
- "updated": "2026-11-08T23:01:46Z",
+ "updated": "2026-11-08T23:08:42Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
  "received": 321,
  "kept": 165,
  "count": 2917,
- "new_ids": [
-  "bda-2e484b27-92af-4fb4-b8fc-ec41bde524ca",
-  "bda-190f5cfe-1224-4b9f-857d-8ab69996a56d",
-  "bda-054c5d3f-7ec7-4ab3-bdd3-e17696eb52a2",
-  "bda-f59190c8-e0f0-4b36-a9c3-408d8e4f7d69",
-  "bda-7d4a80ec-a71c-473b-95ff-1300f120e93e"
- ],
+ "new_ids": [],
  "records": [
   {
    "id": "bda-2e484b27-92af-4fb4-b8fc-ec41bde524ca",
@@ -426,7 +420,7 @@
    "verif_date": "2026-11-08",
    "preuve": "Bulletin des Adjudications, réf. FIN/PRO/2025/43 (attribution, sous-type eForms 29), publié le 2026-11-06.",
    "date_publication": "2026-11-06",
-   "cpv": "39174000,31523100,31523000,22462000,45316100,39294100",
+   "cpv": "39174000,31523000,31523100,22462000,45316100,39294100",
    "ted_ref": "FIN/PRO/2025/43_pub02",
    "notes": "Par ce marché, la Loterie Nationale souhaite conclure un accord-cadre pour maximum quatre (4) années avec un seul adjudicataire pour la (re)production d'enseignes publicitaires lumineuses et non lumineuses ainsi que pour la réalisation d'interventions (installation, retrait, entretien, nettoyage) su",
    "procedure": "5becda69-2b4e-4aa6-b48f-dfd82de9e0d7",
@@ -594,7 +588,7 @@
    "verif_date": "2026-11-08",
    "preuve": "Bulletin des Adjudications, réf. 013/009 (avis de marché, sous-type eForms 16), publié le 2026-11-06.",
    "date_publication": "2026-11-06",
-   "cpv": "45232400,45233120,45000000",
+   "cpv": "45232400,45000000,45233120",
    "ted_ref": "",
    "notes": "De aanneming heeft tot doel het uitvoeren van riolerings- en wegeniswerken in de Vijgenstraat te Lokeren. Deze opdracht omvat in het bijzonder: - Voorbereidende op- en/of afbraakwerken van rijwegen, voetpaden, van plaatselijke en lijnvormige elementen - Al de grondwerken nodig voor de uitvoering van",
    "procedure": "11445a82-1421-44b8-bc44-af3f35a44be7",
