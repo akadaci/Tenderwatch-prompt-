@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 294959
+  "totalCount": 294960
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -37,6 +37,148 @@
   "ACTIVE|E4|['WORKS']"
  ],
  "exemples": [
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45262660-5",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Verwijderen van asbest"
+      },
+      {
+       "language": "DE",
+       "text": "Asbestbeseitigungsarbeiten"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de désamiantage"
+      },
+      {
+       "language": "EN",
+       "text": "Asbestos-removal work"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45262660-5",
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Verwijderen van asbest"
+     },
+     {
+      "language": "DE",
+      "text": "Asbestbeseitigungsarbeiten"
+     },
+     {
+      "language": "FR",
+      "text": "Travaux de désamiantage"
+     },
+     {
+      "language": "EN",
+      "text": "Asbestos-removal work"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-08",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "De opdracht heeft betrekking op het uitvoeren van asbestsanerings-, reinigings- en decontaminatiewerken in de gebouwen S.B. en S.A. van de Universiteit Antwerpen, met inbegrip van de noodzakelijke veiligheidsmaatregelen, de afvoer en verwerking van afvalstoffen, de controle en vrijgave van de behandelde zones en alle werkzaamheden die noodzakelijk zijn voor een veilige en conforme oplevering."
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP0IA-831/6669/26136",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "PPP0IA-831/6669/26136",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Asbestsanering en decontaminatiewerken in gebouwen S.A.,S.B. en S.ABC."
+     }
+    ]
+   },
+   "insertionDate": "2026-11-08",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "De opdracht heeft betrekking op het uitvoeren van asbestsanerings-, reinigings- en decontaminatiewerken in de gebouwen S.B. en S.A. van de Universiteit Antwerpen, met inbegrip van de noodzakelijke veiligheidsmaatregelen, de afvoer en verwerking van afvalstoffen, de controle en vrijgave van de behandelde zones en alle werkzaamheden die noodzakelijk zijn voor een veilige en conforme oplevering."
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Asbestsanering en decontaminatiewerken in gebouwen S.A.,S.B. en S.ABC."
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "9849622d-b15c-44ac-bf63-723ebadf8f23"
+   ],
+   "noticeSubType": "16",
+   "nutsCodes": [
+    "BE100"
+   ],
+   "organisation": {
+    "organisationId": 790,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "Universiteit Antwerpen"
+     },
+     {
+      "language": "NL",
+      "text": "Universiteit Antwerpen"
+     },
+     {
+      "language": "FR",
+      "text": "Universiteit Antwerpen"
+     },
+     {
+      "language": "EN",
+      "text": "Universiteit Antwerpen"
+     }
+    ],
+    "tree": "200004.200026.790"
+   },
+   "procedureId": "d2d9ad05-9dcb-4cdb-a89e-c49e673566d9",
+   "publicationDate": "2026-11-08",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP0IA-831/6669/26136_001"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "0bcb5c65-558f-48d1-b3e5-10b0daaa0841",
+   "publishedAt": [
+    "2026-11-08T13:58:46.025101"
+   ],
+   "referenceNumber": "PPP0IA-831/6669/26136_001",
+   "sentAt": [
+    "2026-11-08T13:58:46.025101"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-11-26T11:00:00"
+  },
   {
    "cpvAdditionalCodes": [
     {
@@ -488,11 +630,11 @@
      ],
      "titles": [
       {
-       "language": "FR",
+       "language": "NL",
        "text": "0000802830 BIS JPA - 1"
       },
       {
-       "language": "NL",
+       "language": "FR",
        "text": "0000802830 BIS JPA - 1"
       }
      ]
@@ -548,205 +690,6 @@
    "referenceNumber": "0000802830 BIS JPA_pub01",
    "sentAt": [
     "2026-11-06T00:00:48.062253"
-   ],
-   "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "44100000-1",
-     "descriptions": [
-      {
-       "language": "DE",
-       "text": "Baustoffe und Zubehör"
-      },
-      {
-       "language": "FR",
-       "text": "Matériaux de construction et articles connexes"
-      },
-      {
-       "language": "NL",
-       "text": "Bouwmaterialen en aanverwante artikelen"
-      },
-      {
-       "language": "EN",
-       "text": "Construction materials and associated items"
-      }
-     ]
-    },
-    {
-     "code": "44000000-0",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Structuren en materialen voor de bouw, ondersteunende producten voor de bouw (uitgezonderd elektrische apparatuur)"
-      },
-      {
-       "language": "EN",
-       "text": "Construction structures and materials, auxiliary products to construction (except electric apparatus)"
-      },
-      {
-       "language": "DE",
-       "text": "Baukonstruktionen und Baustoffe, Bauhilfsprodukte (elektrische Apparate ausgenommen)"
-      },
-      {
-       "language": "FR",
-       "text": "Matériaux et structures de construction, produits auxiliaires pour la construction (à l'exception des appareils électriques)"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "44100000-1",
-    "descriptions": [
-     {
-      "language": "DE",
-      "text": "Baustoffe und Zubehör"
-     },
-     {
-      "language": "FR",
-      "text": "Matériaux de construction et articles connexes"
-     },
-     {
-      "language": "NL",
-      "text": "Bouwmaterialen en aanverwante artikelen"
-     },
-     {
-      "language": "EN",
-      "text": "Construction materials and associated items"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-06",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Services ouvriers communaux - Achat de matériaux pour travaux divers - Accord-cadre"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP0M0-1238/6069/2026-633",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP0M0-1238/6069/2026-633",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "Services ouvriers communaux - Achat de matériaux pour travaux divers - Accord-cadre"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-06",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "matériaux divers"
-      }
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "matériaux divers"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "enrobés"
-      }
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "enrobés"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "béton et stabilisé"
-      }
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "béton et stabilisé"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "empierrement"
-      }
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "empierrement"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SUPPLIES"
-   ],
-   "noticeIds": [
-    "8064c758-b78f-4ed8-bc02-690ffdcc2090"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE342"
-   ],
-   "organisation": {
-    "organisationId": 1005,
-    "organisationNames": [
-     {
-      "language": "DE",
-      "text": "Vielsalm"
-     },
-     {
-      "language": "NL",
-      "text": "Vielsalm"
-     },
-     {
-      "language": "FR",
-      "text": "Vielsalm"
-     },
-     {
-      "language": "EN",
-      "text": "Vielsalm"
-     }
-    ],
-    "tree": "200004.200021.1005"
-   },
-   "procedureId": "d070fbdc-0dc9-4c3c-ab55-108006c09b22",
-   "publicationDate": "2026-11-06",
-   "publicationLanguages": [
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP0M0-1238/6069/2026-633_002"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "ef879798-db18-438f-9f63-283bffc1fae7",
-   "publishedAt": [
-    "2026-11-06T00:00:46.830375"
-   ],
-   "referenceNumber": "PPP0M0-1238/6069/2026-633_002",
-   "sentAt": [
-    "2026-11-06T00:00:46.830375"
    ],
    "tedPublished": false
   }
@@ -842,11 +785,11 @@
      ],
      "titles": [
       {
-       "language": "FR",
+       "language": "NL",
        "text": "0000802830 BIS JPA - 1"
       },
       {
-       "language": "NL",
+       "language": "FR",
        "text": "0000802830 BIS JPA - 1"
       }
      ]
