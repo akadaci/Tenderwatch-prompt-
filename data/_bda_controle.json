@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 295025
+  "totalCount": 295062
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -8,6 +8,7 @@
   "ACTIVE|16|['SUPPLIES']",
   "ACTIVE|16|['WORKS', 'SUPPLIES']",
   "ACTIVE|16|['WORKS']",
+  "ACTIVE|17|['SERVICES']",
   "ACTIVE|17|['SUPPLIES']",
   "ACTIVE|17|['WORKS']",
   "ACTIVE|20|['SERVICES']",
@@ -23,7 +24,9 @@
   "ACTIVE|34|['SERVICES']",
   "ACTIVE|34|['SUPPLIES']",
   "ACTIVE|E3|['SERVICES']",
+  "ACTIVE|E3|['SUPPLIES']",
   "ACTIVE|E3|['WORKS']",
+  "ACTIVE|E4|['SERVICES', 'SUPPLIES']",
   "ACTIVE|E4|['SERVICES', 'WORKS']",
   "ACTIVE|E4|['SERVICES']",
   "ACTIVE|E4|['SUPPLIES']",
@@ -213,8 +216,8 @@
      "code": "71317200-5",
      "descriptions": [
       {
-       "language": "DE",
-       "text": "Dienstleistungen im Bereich Gesundheitsschutz und Sicherheit"
+       "language": "FR",
+       "text": "Services de santé et de sécurité"
       },
       {
        "language": "NL",
@@ -225,8 +228,8 @@
        "text": "Health and safety services"
       },
       {
-       "language": "FR",
-       "text": "Services de santé et de sécurité"
+       "language": "DE",
+       "text": "Dienstleistungen im Bereich Gesundheitsschutz und Sicherheit"
       }
      ]
     }
