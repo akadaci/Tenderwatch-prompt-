@@ -1,11 +1,14 @@
 {
- "updated": "2026-11-09T21:01:33Z",
+ "updated": "2026-11-09T22:42:28Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
  "received": 282,
- "kept": 144,
- "count": 2969,
- "new_ids": [],
+ "kept": 146,
+ "count": 2971,
+ "new_ids": [
+  "bda-49369d9b-23fe-4650-815c-689e3bf59291",
+  "bda-50ae391e-4376-4987-8c73-558394e77ce2"
+ ],
  "records": [
   {
    "id": "bda-2e484b27-92af-4fb4-b8fc-ec41bde524ca",
@@ -1959,6 +1962,48 @@
    "procedure": "ba217e68-be3e-46d3-b0b9-11008d221a2a",
    "dossier": "CS2025-AND148",
    "first_seen": "2026-10-19T10:01:33Z"
+  },
+  {
+   "id": "bda-49369d9b-23fe-4650-815c-689e3bf59291",
+   "source_type": "BDA",
+   "nom": "Bochtvernieuwing Zwijndrecht",
+   "lieu": "Anvers",
+   "province": "Anvers",
+   "mo": "VVM De Lijn - Techniek",
+   "etape": 4,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/49369d9b-23fe-4650-815c-689e3bf59291",
+   "verif": "vérifié",
+   "verif_date": "2026-11-09",
+   "preuve": "Bulletin des Adjudications, réf. PG1935 103219 (avis de marché, sous-type eForms 17), publié le 2026-11-09.",
+   "date_publication": "2026-11-09",
+   "cpv": "45234120",
+   "ted_ref": "",
+   "notes": "zie opdrachtdocumenten",
+   "procedure": "3930340b-7e06-4db6-9816-010b1c663448",
+   "dossier": "PG1935 103219",
+   "first_seen": "2026-11-09T22:42:28Z"
+  },
+  {
+   "id": "bda-50ae391e-4376-4987-8c73-558394e77ce2",
+   "source_type": "BDA",
+   "nom": "TEN EENHOVELEI / GRIJSPEERSTRAAT VERNIEUWEN WISSELS EN KRUISING 128M201 & 128M202 & 128M203 & 128K1",
+   "lieu": "Anvers",
+   "province": "Anvers",
+   "mo": "VVM De Lijn - Techniek",
+   "etape": 4,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/50ae391e-4376-4987-8c73-558394e77ce2",
+   "verif": "vérifié",
+   "verif_date": "2026-11-09",
+   "preuve": "Bulletin des Adjudications, réf. PG2151 103222 (avis de marché, sous-type eForms 17), publié le 2026-11-09.",
+   "date_publication": "2026-11-09",
+   "cpv": "45234120",
+   "ted_ref": "",
+   "notes": "zie opdrachtdocumenten",
+   "procedure": "b7808d6c-0d6b-4e7f-8c17-22cbfb8e9679",
+   "dossier": "PG2151 103222",
+   "first_seen": "2026-11-09T22:42:28Z"
   },
   {
    "id": "bda-0bcb5c65-558f-48d1-b3e5-10b0daaa0841",
