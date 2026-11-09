@@ -1,12 +1,48 @@
 {
- "updated": "2026-11-09T11:02:00Z",
+ "updated": "2026-11-09T12:07:54Z",
  "source": "urban.brussels NOVA (WFS)",
  "days_back": 3,
- "received": 20,
- "kept": 1,
- "count": 184,
- "new_ids": [],
+ "received": 24,
+ "kept": 3,
+ "count": 187,
+ "new_ids": [
+  "nova-07/PU/2052068",
+  "nova-10/PU/2052007",
+  "nova-16/PU/2052002"
+ ],
  "records": [
+  {
+   "id": "nova-07/PU/2052068",
+   "source_type": "Permis",
+   "nom": "Permis d'urbanisme privé",
+   "lieu": "Chaussée de Bruxelles 72, 1190 Forest",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='07/PU/2052068'",
+   "verif": "vérifié",
+   "verif_date": "2026-11-09",
+   "preuve": "Demande de permis 07/PU/2052068 reçue le 2026-11-09 (urban.brussels, service NOVA), surface projetée 3622 m².",
+   "date_publication": "2026-11-09",
+   "notes": "Autorité : Forest",
+   "first_seen": "2026-11-09T12:07:54Z"
+  },
+  {
+   "id": "nova-10/PU/2052007",
+   "source_type": "Permis",
+   "nom": "Demande de permis modificatif, concernant un immeuble de logements et commerce. Voir note explicative pour plus de détails.",
+   "lieu": "Rue Ferdinand Lenoir 122, 1090 Jette",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='10/PU/2052007'",
+   "verif": "vérifié",
+   "verif_date": "2026-11-09",
+   "preuve": "Demande de permis 10/PU/2052007 reçue le 2026-11-07 (urban.brussels, service NOVA), surface projetée 229 m².",
+   "date_publication": "2026-11-07",
+   "notes": "Autorité : Jette",
+   "first_seen": "2026-11-09T12:07:54Z"
+  },
   {
    "id": "nova-16/PFD/2051900",
    "source_type": "Permis",
@@ -54,6 +90,22 @@
    "date_publication": "2026-11-06",
    "notes": "Autorité : BUP",
    "first_seen": "2026-11-07T05:01:39Z"
+  },
+  {
+   "id": "nova-16/PU/2052002",
+   "source_type": "Permis",
+   "nom": "construire une piscine et un local technique",
+   "lieu": "Clos de Wagram 5, 1180 Uccle",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='16/PU/2052002'",
+   "verif": "vérifié",
+   "verif_date": "2026-11-09",
+   "preuve": "Demande de permis 16/PU/2052002 reçue le 2026-11-06 (urban.brussels, service NOVA), surface projetée 487 m².",
+   "date_publication": "2026-11-06",
+   "notes": "Autorité : Uccle",
+   "first_seen": "2026-11-09T12:07:54Z"
   },
   {
    "id": "nova-07/PFD/2051762",
