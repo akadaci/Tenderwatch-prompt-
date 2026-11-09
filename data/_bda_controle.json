@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 295116
+  "totalCount": 295120
  },
  "types": [
   "ACTIVE|11|['WORKS']",
@@ -37,90 +37,381 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45220000-5",
+     "code": "09111400-4",
      "descriptions": [
       {
-       "language": "DE",
-       "text": "Ingenieur- und Hochbauarbeiten"
+       "language": "EN",
+       "text": "Wood fuels"
       },
       {
        "language": "FR",
-       "text": "Ouvrages d'art et de génie civil"
+       "text": "Combustibles à base de bois"
+      },
+      {
+       "language": "DE",
+       "text": "Brennstoffe auf Holzbasis"
       },
       {
        "language": "NL",
-       "text": "Civieltechnische en bouwwerkzaamheden"
-      },
-      {
-       "language": "EN",
-       "text": "Engineering works and construction works"
+       "text": "Brandstoffen op basis van hout"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45340000-2",
+    "code": "09111400-4",
     "descriptions": [
      {
       "language": "EN",
-      "text": "Fencing, railing and safety equipment installation work"
+      "text": "Wood fuels"
      },
      {
       "language": "FR",
-      "text": "Travaux d'installation de clôtures, de garde-corps et de dispositifs de sécurité"
+      "text": "Combustibles à base de bois"
      },
      {
       "language": "DE",
-      "text": "Installation von Zäunen, Geländern und Sicherheitseinrichtungen"
+      "text": "Brennstoffe auf Holzbasis"
      },
      {
       "language": "NL",
-      "text": "Plaatsen van hekken en leuningen en beveiligingsuitrusting"
+      "text": "Brandstoffen op basis van hout"
      }
     ]
    },
-   "dispatchDate": "2026-11-09",
+   "dispatchDate": "2026-11-10",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Raamovereenkomst voor houtpellets"
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP24H-55/6223/2026-BZA-0079",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP24H-55/6223/2026-BZA-0079",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Raamovereenkomst voor houtpellets"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-10",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Raamovereenkomst voor houtpellets"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Raamovereenkomst voor houtpellets"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SUPPLIES"
+   ],
+   "noticeIds": [
+    "2109afea-a995-4be6-a664-195cf41de4f5"
+   ],
+   "noticeSubType": "E3",
+   "nutsCodes": [
+    "BE211"
+   ],
+   "organisation": {
+    "organisationId": 2353,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "Brandweer Zone Antwerpen"
+     },
+     {
+      "language": "NL",
+      "text": "Brandweer Zone Antwerpen"
+     },
+     {
+      "language": "EN",
+      "text": "Brandweer Zone Antwerpen"
+     },
+     {
+      "language": "FR",
+      "text": "Brandweer Zone Antwerpen"
+     }
+    ],
+    "tree": "200004.200025.2353"
+   },
+   "procedureId": "36be3c4d-2bcd-409f-92c2-977e579c2eee",
+   "publicationDate": "2026-11-10",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP24H-55/6223/2026-BZA-0079_001"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "2704fdb8-ca8f-4690-92c0-25a8bf6d4752",
+   "publishedAt": [
+    "2026-11-10T00:00:46.380939"
+   ],
+   "referenceNumber": "PPP24H-55/6223/2026-BZA-0079_001",
+   "sentAt": [
+    "2026-11-10T00:00:46.380939"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2027-01-13T09:00:00"
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "44114200-4",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Produits en béton"
+      },
+      {
+       "language": "DE",
+       "text": "Betonerzeugnisse"
+      },
+      {
+       "language": "NL",
+       "text": "Betonproducten"
+      },
+      {
+       "language": "EN",
+       "text": "Concrete products"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "44114000-2",
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Beton"
+     },
+     {
+      "language": "DE",
+      "text": "Beton"
+     },
+     {
+      "language": "FR",
+      "text": "Béton"
+     },
+     {
+      "language": "EN",
+      "text": "Concrete"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-10",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Commande d'essai Harmelen qualification Prefer (Y15 N°I-98); Application de l'art 124 §1-3° de la loi du 17 juin 2016 relative aux marchés publics"
+     },
+     {
+      "language": "NL",
+      "text": "Testbestelling Harmelen kwalificatie Prefer (Y15 N°I-98); Toepassing van art 124 §1-3° van de wet van 17 juni 2016 inzake overheidsopdrachten"
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D25",
+    "number": "0000836845",
+    "procurementProcedureType": "NEG_WO_CALL_25",
+    "referenceNumber": "0000836845",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Testbestelling Harmelen kwalificatie Prefer (Y15 N°I-98)"
+     },
+     {
+      "language": "FR",
+      "text": "Commande d'essai Harmelen qualification Prefer (Y15 N°I-98)"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-10",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Testbestelling Harmelen kwalificatie Prefer"
+      },
+      {
+       "language": "FR",
+       "text": "Commande d'essai qualification Prefer"
+      }
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "0000836845 - 1"
+      },
+      {
+       "language": "NL",
+       "text": "0000836845 - 1"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SUPPLIES"
+   ],
+   "noticeIds": [
+    "b8984675-f41e-4919-aeee-7c32d1e10e99"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BEZZZ"
+   ],
+   "organisation": {
+    "organisationId": 5863,
+    "organisationNames": [
+     {
+      "language": "FR",
+      "text": "Infrabel - Goods & Services"
+     },
+     {
+      "language": "EN",
+      "text": "Infrabel - Goods & Services"
+     },
+     {
+      "language": "DE",
+      "text": "Infrabel - Goods & Services"
+     },
+     {
+      "language": "NL",
+      "text": "Infrabel - Goods & Services"
+     }
+    ],
+    "tree": "200002.200014.4784.5863"
+   },
+   "procedureId": "e7c19941-6618-4d73-99fc-e41215c1df91",
+   "publicationDate": "2026-11-10",
+   "publicationLanguages": [
+    "NL",
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "0000836845_Publicatie gunning"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "d0baaa93-9e95-4d53-831e-6b6209000698",
+   "publishedAt": [
+    "2026-11-10T00:00:47.199469"
+   ],
+   "referenceNumber": "0000836845_Publicatie gunning",
+   "sentAt": [
+    "2026-11-10T00:00:47.199469"
+   ],
+   "tedPublished": false
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45234115-5",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Railway signalling works"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de signalisation ferroviaire"
+      },
+      {
+       "language": "NL",
+       "text": "Werkzaamheden voor spoorseinen"
+      },
+      {
+       "language": "DE",
+       "text": "Arbeiten für Eisenbahnsignalanlagen"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45234115-5",
+    "descriptions": [
+     {
+      "language": "EN",
+      "text": "Railway signalling works"
+     },
+     {
+      "language": "FR",
+      "text": "Travaux de signalisation ferroviaire"
+     },
+     {
+      "language": "NL",
+      "text": "Werkzaamheden voor spoorseinen"
+     },
+     {
+      "language": "DE",
+      "text": "Arbeiten für Eisenbahnsignalanlagen"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-10",
    "dossier": {
     "accreditations": {
-     "E": 6
+     "P2": 2
     },
     "descriptions": [
      {
       "language": "FR",
-      "text": "Le présent marché est un marché de travaux. Ce marché concerne: - du débroussaillage ;  - des réparations et protections de béton ;  - du bétonnage ;  - des travaux aux garde-corps (remplacements, adaptations, peintures, …) ;  - des parachèvements de sécurisation (enrochements, clôtures, …)."
+      "text": "Travaux correctifs TRAM requis entre Y Glons à Montzen Est."
      }
     ],
     "enterpriseCategories": [
      {
-      "categoryCode": "E",
+      "categoryCode": "P2",
       "levels": [
-       6,
-       5,
-       4,
-       3,
-       2,
-       1
+       1,
+       2
       ]
      }
     ],
     "legalBasis": "D25",
-    "number": "5753426114",
+    "number": "5733426117",
     "procurementProcedureType": "OPEN",
-    "referenceNumber": "5753426114",
+    "referenceNumber": "5733426117",
     "titles": [
      {
       "language": "FR",
-      "text": "Ligne 24 : Tronçon Bif Glons – Visé Haut Sécurisation et entretien d’ouvrages d’art, communes de Bassenge et Visé"
+      "text": "L 24 travaux correctifs TRAM (Y Glons à Montzen Est)"
      }
     ]
    },
-   "insertionDate": "2026-11-09",
+   "insertionDate": "2026-11-10",
    "lots": [
     {
      "descriptions": [
       {
        "language": "FR",
-       "text": "Le présent marché est un marché de travaux. Ce marché concerne: - du débroussaillage ;  - des réparations et protections de béton ;  - du bétonnage ;  - des travaux aux garde-corps (remplacements, adaptations, peintures, …) ;  - des parachèvements de sécurisation (enrochements, clôtures, …)."
+       "text": "L 24 travaux correctifs TRAM (Y Glons à Montzen Est)"
       }
      ],
      "reservedExecution": [
@@ -132,7 +423,7 @@
      "titles": [
       {
        "language": "FR",
-       "text": "5753426114 - 1 Ligne 24 : Tronçon Bif Glons – Visé Haut Sécurisation et entretien d’ouvrages d’art, communes de Bassenge et Visé"
+       "text": "5733426117 - 1"
       }
      ]
     }
@@ -141,7 +432,7 @@
     "WORKS"
    ],
    "noticeIds": [
-    "79fb6cb0-341d-4e66-9165-94750e518a12"
+    "c715ddb4-ae1b-400a-b6a6-4196b5f04eb0"
    ],
    "noticeSubType": "17",
    "nutsCodes": [
@@ -169,481 +460,178 @@
     ],
     "tree": "200002.200014.4784.17122"
    },
-   "procedureId": "e235cec4-b84b-488e-970d-b6727cbf1e4f",
-   "publicationDate": "2026-11-09",
+   "procedureId": "e9d2aad6-568c-4e9b-8dc5-45f974913f82",
+   "publicationDate": "2026-11-10",
    "publicationLanguages": [
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "5753426114_pub01"
+    "5733426117_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "2e484b27-92af-4fb4-b8fc-ec41bde524ca",
+   "publicationWorkspaceId": "b74e284e-d633-437c-aec1-f30cd328a5d6",
    "publishedAt": [
-    "2026-11-09T00:00:46.980163"
+    "2026-11-10T00:00:46.70365"
    ],
-   "referenceNumber": "5753426114_pub01",
+   "referenceNumber": "5733426117_pub01",
    "sentAt": [
-    "2026-11-09T00:00:46.980163"
+    "2026-11-10T00:00:46.70365"
    ],
    "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-12-15T14:00:00"
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "85147000-1",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Services de médecine du travail"
-      },
-      {
-       "language": "NL",
-       "text": "Diensten voor bedrijfsgeneeskunde"
-      },
-      {
-       "language": "DE",
-       "text": "Betriebliche Gesundheitsfürsorge"
-      },
-      {
-       "language": "EN",
-       "text": "Company health services"
-      }
-     ]
-    },
-    {
-     "code": "71317200-5",
-     "descriptions": [
-      {
-       "language": "DE",
-       "text": "Dienstleistungen im Bereich Gesundheitsschutz und Sicherheit"
-      },
-      {
-       "language": "NL",
-       "text": "Gezondheids- en veiligheidsdiensten"
-      },
-      {
-       "language": "EN",
-       "text": "Health and safety services"
-      },
-      {
-       "language": "FR",
-       "text": "Services de santé et de sécurité"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "85147000-1",
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Services de médecine du travail"
-     },
-     {
-      "language": "NL",
-      "text": "Diensten voor bedrijfsgeneeskunde"
-     },
-     {
-      "language": "DE",
-      "text": "Betriebliche Gesundheitsfürsorge"
-     },
-     {
-      "language": "EN",
-      "text": "Company health services"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-09",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Le marché a pour objet la désignation d’un service externe pour la prévention et la protection au travail (SEPPT), agréé conformément au Livre II, Titre 3 du Code du bien-être au travail, chargé d’assister le COF, son service interne pour la prévention et la protection au travail (SIPPT) et son Comité pour la prévention et la protection au travail (CPPT) dans l’ensemble des missions légales et réglementaires : surveillance de la santé des travailleurs et des stagiaires, gestion des risques, aspects psychosociaux, sécurité du travail, ergonomie et hygiène du travail. Le marché fait l’objet d’un lot unique. "
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "COF-SEPPT-2026-01",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "COF-SEPPT-2026-01",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "Marché public de services relatif à la désignation d'un Service Externe de Prévention et de Protection au Travail (SEPPT)"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-09",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Marché public de services relatif à la désignation d'un Service Externe de Prévention et de Protection au Travail (SEPPT) "
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "COF-SEPPT-2026-01 - 1"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SERVICES"
-   ],
-   "noticeIds": [
-    "936ecc74-2f51-41e8-8a23-6e0735370e7d"
-   ],
-   "noticeSubType": "E3",
-   "nutsCodes": [
-    "BE"
-   ],
-   "organisation": {
-    "organisationId": 28661,
-    "organisationNames": [
-     {
-      "language": "FR",
-      "text": "Centre d'Orientation et de Formation "
-     }
-    ],
-    "tree": "200004.200032.28661"
-   },
-   "procedureId": "e6b64dd1-836b-4e77-a830-47307f9db837",
-   "publicationDate": "2026-11-09",
-   "publicationLanguages": [
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "COF-SEPPT-2026-01_pub01"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "190f5cfe-1224-4b9f-857d-8ab69996a56d",
-   "publishedAt": [
-    "2026-11-09T00:00:46.609654"
-   ],
-   "referenceNumber": "COF-SEPPT-2026-01_pub01",
-   "sentAt": [
-    "2026-11-09T00:00:46.609654"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-23T12:00:00"
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "55300000-3",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Bereiden en serveren van maaltijden"
-      },
-      {
-       "language": "EN",
-       "text": "Restaurant and food-serving services"
-      },
-      {
-       "language": "FR",
-       "text": "Services de restaurant et services de personnel en salle"
-      },
-      {
-       "language": "DE",
-       "text": "Restaurant- und Bewirtungsdienste"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "55300000-3",
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Bereiden en serveren van maaltijden"
-     },
-     {
-      "language": "EN",
-      "text": "Restaurant and food-serving services"
-     },
-     {
-      "language": "FR",
-      "text": "Services de restaurant et services de personnel en salle"
-     },
-     {
-      "language": "DE",
-      "text": "Restaurant- und Bewirtungsdienste"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-09",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Le présent marché porte sur le service catering organisé le 18 décembre 2026 par l’AFMPS dans la salle de réception au Kinepolis de Bruxelles."
-     },
-     {
-      "language": "NL",
-      "text": "De onderhavige opdracht betreft de cateringdiensten voor de receptie georganiseerd op 18 december 2026 door het FAGG in de receptieruimte van Kinepolis Brussel."
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "2026.12.18-FDA",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "2026.12.18-FDA",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "DE DIENSTEN VAN EEN RECEPTIE IN DE RECEPTIERUIMTE VAN KINEPOLIS OP 18 DECEMBER 2026"
-     },
-     {
-      "language": "FR",
-      "text": "SERVICES DE COCKTAIL DINATOIRE DANS L’ESPACE DE RECEPTION DU KINEPOLIS EN DATE DU 18 DECEMBRE 2026"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-09",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Le présent marché porte sur le service catering organisé le 18 décembre 2026 par l’AFMPS dans la salle de réception au Kinepolis de Bruxelles."
-      },
-      {
-       "language": "NL",
-       "text": "De onderhavige opdracht betreft de cateringdiensten voor de receptie georganiseerd op 18 december 2026 door het FAGG in de receptieruimte van Kinepolis Brussel."
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "2026.12.18-FDA - 1"
-      },
-      {
-       "language": "FR",
-       "text": "2026.12.18-FDA - 1"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SERVICES"
-   ],
-   "noticeIds": [
-    "55c50bff-9554-4418-9394-c9c46959d8f3"
-   ],
-   "noticeSubType": "33",
-   "nutsCodes": [
-    "BE100"
-   ],
-   "organisation": {
-    "organisationId": 94,
-    "organisationNames": [
-     {
-      "language": "DE",
-      "text": "Agence Fédérale des Médicaments et des Produits de santé"
-     },
-     {
-      "language": "EN",
-      "text": "Agence Fédérale des Médicaments et des Produits de santé"
-     },
-     {
-      "language": "NL",
-      "text": "Federaal Agentschap voor Geneesmiddelen en Gezondheidsproducten"
-     },
-     {
-      "language": "FR",
-      "text": "Agence Fédérale des Médicaments et des Produits de santé"
-     }
-    ],
-    "tree": "200002.200010.94"
-   },
-   "procedureId": "3cd0f4eb-5a6f-4b5d-b026-8bfa2bef9590",
-   "publicationDate": "2026-11-09",
-   "publicationLanguages": [
-    "NL",
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "2026.12.18-FDA_pub01"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "5e93a0f2-c346-4b85-810a-199d5ce3d177",
-   "publishedAt": [
-    "2026-11-09T00:00:47.364396"
-   ],
-   "referenceNumber": "2026.12.18-FDA_pub01",
-   "sentAt": [
-    "2026-11-09T00:00:47.364396"
-   ],
-   "tedPublished": false
+   "vaultSubmissionDeadline": "2026-12-10T14:00:00"
   }
  ],
  "exemple_attribution": [
   {
    "cpvAdditionalCodes": [
     {
-     "code": "55300000-3",
+     "code": "44114200-4",
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Bereiden en serveren van maaltijden"
-      },
-      {
-       "language": "EN",
-       "text": "Restaurant and food-serving services"
-      },
-      {
        "language": "FR",
-       "text": "Services de restaurant et services de personnel en salle"
+       "text": "Produits en béton"
       },
       {
        "language": "DE",
-       "text": "Restaurant- und Bewirtungsdienste"
+       "text": "Betonerzeugnisse"
+      },
+      {
+       "language": "NL",
+       "text": "Betonproducten"
+      },
+      {
+       "language": "EN",
+       "text": "Concrete products"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "55300000-3",
+    "code": "44114000-2",
     "descriptions": [
      {
       "language": "NL",
-      "text": "Bereiden en serveren van maaltijden"
-     },
-     {
-      "language": "EN",
-      "text": "Restaurant and food-serving services"
-     },
-     {
-      "language": "FR",
-      "text": "Services de restaurant et services de personnel en salle"
+      "text": "Beton"
      },
      {
       "language": "DE",
-      "text": "Restaurant- und Bewirtungsdienste"
+      "text": "Beton"
+     },
+     {
+      "language": "FR",
+      "text": "Béton"
+     },
+     {
+      "language": "EN",
+      "text": "Concrete"
      }
     ]
    },
-   "dispatchDate": "2026-11-09",
+   "dispatchDate": "2026-11-10",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
       "language": "FR",
-      "text": "Le présent marché porte sur le service catering organisé le 18 décembre 2026 par l’AFMPS dans la salle de réception au Kinepolis de Bruxelles."
+      "text": "Commande d'essai Harmelen qualification Prefer (Y15 N°I-98); Application de l'art 124 §1-3° de la loi du 17 juin 2016 relative aux marchés publics"
      },
      {
       "language": "NL",
-      "text": "De onderhavige opdracht betreft de cateringdiensten voor de receptie georganiseerd op 18 december 2026 door het FAGG in de receptieruimte van Kinepolis Brussel."
+      "text": "Testbestelling Harmelen kwalificatie Prefer (Y15 N°I-98); Toepassing van art 124 §1-3° van de wet van 17 juni 2016 inzake overheidsopdrachten"
      }
     ],
     "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "2026.12.18-FDA",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "2026.12.18-FDA",
+    "legalBasis": "D25",
+    "number": "0000836845",
+    "procurementProcedureType": "NEG_WO_CALL_25",
+    "referenceNumber": "0000836845",
     "titles": [
      {
       "language": "NL",
-      "text": "DE DIENSTEN VAN EEN RECEPTIE IN DE RECEPTIERUIMTE VAN KINEPOLIS OP 18 DECEMBER 2026"
+      "text": "Testbestelling Harmelen kwalificatie Prefer (Y15 N°I-98)"
      },
      {
       "language": "FR",
-      "text": "SERVICES DE COCKTAIL DINATOIRE DANS L’ESPACE DE RECEPTION DU KINEPOLIS EN DATE DU 18 DECEMBRE 2026"
+      "text": "Commande d'essai Harmelen qualification Prefer (Y15 N°I-98)"
      }
     ]
    },
-   "insertionDate": "2026-11-09",
+   "insertionDate": "2026-11-10",
    "lots": [
     {
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Le présent marché porte sur le service catering organisé le 18 décembre 2026 par l’AFMPS dans la salle de réception au Kinepolis de Bruxelles."
+       "language": "NL",
+       "text": "Testbestelling Harmelen kwalificatie Prefer"
       },
       {
-       "language": "NL",
-       "text": "De onderhavige opdracht betreft de cateringdiensten voor de receptie georganiseerd op 18 december 2026 door het FAGG in de receptieruimte van Kinepolis Brussel."
+       "language": "FR",
+       "text": "Commande d'essai qualification Prefer"
       }
      ],
      "titles": [
       {
-       "language": "NL",
-       "text": "2026.12.18-FDA - 1"
+       "language": "FR",
+       "text": "0000836845 - 1"
       },
       {
-       "language": "FR",
-       "text": "2026.12.18-FDA - 1"
+       "language": "NL",
+       "text": "0000836845 - 1"
       }
      ]
     }
    ],
    "natures": [
-    "SERVICES"
+    "SUPPLIES"
    ],
    "noticeIds": [
-    "55c50bff-9554-4418-9394-c9c46959d8f3"
+    "b8984675-f41e-4919-aeee-7c32d1e10e99"
    ],
-   "noticeSubType": "33",
+   "noticeSubType": "E4",
    "nutsCodes": [
-    "BE100"
+    "BEZZZ"
    ],
    "organisation": {
-    "organisationId": 94,
+    "organisationId": 5863,
     "organisationNames": [
      {
-      "language": "DE",
-      "text": "Agence Fédérale des Médicaments et des Produits de santé"
+      "language": "FR",
+      "text": "Infrabel - Goods & Services"
      },
      {
       "language": "EN",
-      "text": "Agence Fédérale des Médicaments et des Produits de santé"
+      "text": "Infrabel - Goods & Services"
+     },
+     {
+      "language": "DE",
+      "text": "Infrabel - Goods & Services"
      },
      {
       "language": "NL",
-      "text": "Federaal Agentschap voor Geneesmiddelen en Gezondheidsproducten"
-     },
-     {
-      "language": "FR",
-      "text": "Agence Fédérale des Médicaments et des Produits de santé"
+      "text": "Infrabel - Goods & Services"
      }
     ],
-    "tree": "200002.200010.94"
+    "tree": "200002.200014.4784.5863"
    },
-   "procedureId": "3cd0f4eb-5a6f-4b5d-b026-8bfa2bef9590",
-   "publicationDate": "2026-11-09",
+   "procedureId": "e7c19941-6618-4d73-99fc-e41215c1df91",
+   "publicationDate": "2026-11-10",
    "publicationLanguages": [
     "NL",
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "2026.12.18-FDA_pub01"
+    "0000836845_Publicatie gunning"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "5e93a0f2-c346-4b85-810a-199d5ce3d177",
+   "publicationWorkspaceId": "d0baaa93-9e95-4d53-831e-6b6209000698",
    "publishedAt": [
-    "2026-11-09T00:00:47.364396"
+    "2026-11-10T00:00:47.199469"
    ],
-   "referenceNumber": "2026.12.18-FDA_pub01",
+   "referenceNumber": "0000836845_Publicatie gunning",
    "sentAt": [
-    "2026-11-09T00:00:47.364396"
+    "2026-11-10T00:00:47.199469"
    ],
    "tedPublished": false
   }
