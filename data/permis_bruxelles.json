@@ -1,16 +1,19 @@
 {
- "updated": "2026-11-10T11:01:33Z",
+ "updated": "2026-11-10T12:59:30Z",
  "source": "urban.brussels NOVA (WFS)",
  "days_back": 3,
- "received": 29,
- "kept": 4,
- "count": 189,
- "new_ids": [],
+ "received": 39,
+ "kept": 6,
+ "count": 191,
+ "new_ids": [
+  "nova-12/PU/2052212",
+  "nova-10/PU/2052221"
+ ],
  "records": [
   {
    "id": "nova-07/PU/2052068",
    "source_type": "Permis",
-   "nom": "Permis d'urbanisme privé",
+   "nom": "Régularisation des modifications structurelles et esthétiques du projet situé à l'angle de la chaussée de Bruxelles 72/74/78 et la rue Marguerite Bervoets 6/4 suite à l'execution du permis d'urbanisme",
    "lieu": "Chaussée de Bruxelles 72, 1190 Forest",
    "type": "Permis d'urbanisme privé",
    "mo": "",
@@ -54,6 +57,38 @@
    "date_publication": "2026-11-09",
    "notes": "Autorité : BUP",
    "first_seen": "2026-11-10T04:21:24Z"
+  },
+  {
+   "id": "nova-12/PU/2052212",
+   "source_type": "Permis",
+   "nom": "La demande concerne le changement d’affectation du rez-de-chaussée de bureau vers commerce ainsi que la remise en occupation des 2 étages en logements.",
+   "lieu": "Chaussée de Ninove 1050, 1080 Molenbeek-Saint-Jean",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='12/PU/2052212'",
+   "verif": "vérifié",
+   "verif_date": "2026-11-10",
+   "preuve": "Demande de permis 12/PU/2052212 reçue le 2026-11-09 (urban.brussels, service NOVA), surface projetée 862 m².",
+   "date_publication": "2026-11-09",
+   "notes": "Autorité : Molenbeek-Saint-Jean",
+   "first_seen": "2026-11-10T12:59:30Z"
+  },
+  {
+   "id": "nova-10/PU/2052221",
+   "source_type": "Permis",
+   "nom": "Transformation d'un appartement 2 chambres + bureau en studio et magasin d'alimentation générale au rez-de-chaussée d'un immeuble de rapport",
+   "lieu": "Avenue Firmin Lecharlier 96, 1090 Jette",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='10/PU/2052221'",
+   "verif": "vérifié",
+   "verif_date": "2026-11-10",
+   "preuve": "Demande de permis 10/PU/2052221 reçue le 2026-11-09 (urban.brussels, service NOVA).",
+   "date_publication": "2026-11-09",
+   "notes": "Autorité : Jette",
+   "first_seen": "2026-11-10T12:59:30Z"
   },
   {
    "id": "nova-10/PU/2052007",
