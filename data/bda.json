@@ -1,14 +1,13 @@
 {
- "updated": "2026-11-10T19:01:35Z",
+ "updated": "2026-11-10T20:37:03Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 389,
- "kept": 178,
- "count": 3046,
+ "received": 391,
+ "kept": 180,
+ "count": 3048,
  "new_ids": [
-  "bda-69f71857-5d9d-4ab0-a429-b465ac6cf59c",
-  "bda-11fcf496-ff21-4e22-98ee-b0e1338f51de",
-  "bda-4a9e479a-5f6a-48f8-b68d-d47a1fb3818d"
+  "bda-ef7cce46-b5a3-4a2a-859e-56eac338eb79",
+  "bda-23faad3e-c569-44fd-aaf7-6578ad112b18"
  ],
  "records": [
   {
@@ -2047,6 +2046,48 @@
    "procedure": "4a232796-611f-442b-9edd-9003dee69e2a",
    "dossier": "DN25363",
    "first_seen": "2026-11-10T19:01:35Z"
+  },
+  {
+   "id": "bda-ef7cce46-b5a3-4a2a-859e-56eac338eb79",
+   "source_type": "BDA",
+   "nom": "DILSEN-STOKKEM_Freinet Op Stelten_veiligheidscoördinator",
+   "lieu": "Limbourg",
+   "province": "Limbourg",
+   "mo": "GO! onderwijs van de Vlaamse Gemeenschap",
+   "etape": 2,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/ef7cce46-b5a3-4a2a-859e-56eac338eb79",
+   "verif": "vérifié",
+   "verif_date": "2026-11-10",
+   "preuve": "Bulletin des Adjudications, réf. PPP095-7367/6515/GO/40902/144030011/2026/7367/TD (attribution, sous-type eForms E4), publié le 2026-11-10.",
+   "date_publication": "2026-11-10",
+   "cpv": "71317200",
+   "ted_ref": "",
+   "notes": "Aanstelling van een veiligheidscoördinator – ontwerp en verwezenlijking.",
+   "procedure": "164b0644-02f3-46c5-a723-a51b51a5ef98",
+   "dossier": "PPP095-7367/6515/GO/40902/144030011/2026/7367/TD",
+   "first_seen": "2026-11-10T20:37:03Z"
+  },
+  {
+   "id": "bda-23faad3e-c569-44fd-aaf7-6578ad112b18",
+   "source_type": "BDA",
+   "nom": "RUMBEKE MPI Sterrebos - Opmaak masterplan en volumestudie site MPI Sterrebos",
+   "lieu": "Flandre-Occidentale",
+   "province": "Flandre-Occidentale",
+   "mo": "GO! onderwijs van de Vlaamse Gemeenschap",
+   "etape": 2,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/23faad3e-c569-44fd-aaf7-6578ad112b18",
+   "verif": "vérifié",
+   "verif_date": "2026-11-10",
+   "preuve": "Bulletin des Adjudications, réf. PPP095-7323/6426/GO/14803/26403001/2026/7323/SDL (attribution, sous-type eForms E4), publié le 2026-11-10.",
+   "date_publication": "2026-11-10",
+   "cpv": "71400000",
+   "ted_ref": "",
+   "notes": "Opmaak masterplan en volumestudie site MPI Sterrebos te Rumbeke",
+   "procedure": "e6104f57-5127-4510-a0d8-ee24cbf1b917",
+   "dossier": "PPP095-7323/6426/GO/14803/26403001/2026/7323/SDL",
+   "first_seen": "2026-11-10T20:37:03Z"
   },
   {
    "id": "bda-2e484b27-92af-4fb4-b8fc-ec41bde524ca",
