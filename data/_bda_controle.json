@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 295316
+  "totalCount": 295319
  },
  "types": [
   "ACTIVE|10|['SUPPLIES']",
@@ -41,393 +41,101 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "09111400-4",
+     "code": "45214000-0",
      "descriptions": [
       {
-       "language": "EN",
-       "text": "Wood fuels"
+       "language": "DE",
+       "text": "Bauarbeiten für Schulen oder Forschungsanstalten"
       },
       {
        "language": "FR",
-       "text": "Combustibles à base de bois"
+       "text": "Travaux de construction d'établissements d'enseignement et de centres de recherche"
       },
       {
-       "language": "DE",
-       "text": "Brennstoffe auf Holzbasis"
+       "language": "EN",
+       "text": "Construction work for buildings relating to education and research"
       },
       {
        "language": "NL",
-       "text": "Brandstoffen op basis van hout"
+       "text": "Gebouwen voor onderwijs en onderzoek"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "09111400-4",
+    "code": "45000000-7",
     "descriptions": [
      {
-      "language": "EN",
-      "text": "Wood fuels"
-     },
-     {
-      "language": "FR",
-      "text": "Combustibles à base de bois"
-     },
-     {
       "language": "DE",
-      "text": "Brennstoffe auf Holzbasis"
+      "text": "Bauarbeiten"
      },
      {
       "language": "NL",
-      "text": "Brandstoffen op basis van hout"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-10",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Raamovereenkomst voor houtpellets"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP24H-55/6223/2026-BZA-0079",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP24H-55/6223/2026-BZA-0079",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Raamovereenkomst voor houtpellets"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-10",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Raamovereenkomst voor houtpellets"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Raamovereenkomst voor houtpellets"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SUPPLIES"
-   ],
-   "noticeIds": [
-    "2109afea-a995-4be6-a664-195cf41de4f5"
-   ],
-   "noticeSubType": "E3",
-   "nutsCodes": [
-    "BE211"
-   ],
-   "organisation": {
-    "organisationId": 2353,
-    "organisationNames": [
-     {
-      "language": "DE",
-      "text": "Brandweer Zone Antwerpen"
-     },
-     {
-      "language": "NL",
-      "text": "Brandweer Zone Antwerpen"
+      "text": "Bouwwerkzaamheden"
      },
      {
       "language": "EN",
-      "text": "Brandweer Zone Antwerpen"
+      "text": "Construction work"
      },
      {
       "language": "FR",
-      "text": "Brandweer Zone Antwerpen"
-     }
-    ],
-    "tree": "200004.200025.2353"
-   },
-   "procedureId": "36be3c4d-2bcd-409f-92c2-977e579c2eee",
-   "publicationDate": "2026-11-10",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP24H-55/6223/2026-BZA-0079_001"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "2704fdb8-ca8f-4690-92c0-25a8bf6d4752",
-   "publishedAt": [
-    "2026-11-10T00:00:46.380939"
-   ],
-   "referenceNumber": "PPP24H-55/6223/2026-BZA-0079_001",
-   "sentAt": [
-    "2026-11-10T00:00:46.380939"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2027-01-13T09:00:00"
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "44114200-4",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Produits en béton"
-      },
-      {
-       "language": "DE",
-       "text": "Betonerzeugnisse"
-      },
-      {
-       "language": "NL",
-       "text": "Betonproducten"
-      },
-      {
-       "language": "EN",
-       "text": "Concrete products"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "44114000-2",
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Beton"
-     },
-     {
-      "language": "DE",
-      "text": "Beton"
-     },
-     {
-      "language": "FR",
-      "text": "Béton"
-     },
-     {
-      "language": "EN",
-      "text": "Concrete"
+      "text": "Travaux de construction"
      }
     ]
    },
-   "dispatchDate": "2026-11-10",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Commande d'essai Harmelen qualification Prefer (Y15 N°I-98); Application de l'art 124 §1-3° de la loi du 17 juin 2016 relative aux marchés publics"
-     },
-     {
-      "language": "NL",
-      "text": "Testbestelling Harmelen kwalificatie Prefer (Y15 N°I-98); Toepassing van art 124 §1-3° van de wet van 17 juni 2016 inzake overheidsopdrachten"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D25",
-    "number": "0000836845",
-    "procurementProcedureType": "NEG_WO_CALL_25",
-    "referenceNumber": "0000836845",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Testbestelling Harmelen kwalificatie Prefer (Y15 N°I-98)"
-     },
-     {
-      "language": "FR",
-      "text": "Commande d'essai Harmelen qualification Prefer (Y15 N°I-98)"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-10",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Testbestelling Harmelen kwalificatie Prefer"
-      },
-      {
-       "language": "FR",
-       "text": "Commande d'essai qualification Prefer"
-      }
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "0000836845 - 1"
-      },
-      {
-       "language": "NL",
-       "text": "0000836845 - 1"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SUPPLIES"
-   ],
-   "noticeIds": [
-    "b8984675-f41e-4919-aeee-7c32d1e10e99"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BEZZZ"
-   ],
-   "organisation": {
-    "organisationId": 5863,
-    "organisationNames": [
-     {
-      "language": "FR",
-      "text": "Infrabel - Goods & Services"
-     },
-     {
-      "language": "EN",
-      "text": "Infrabel - Goods & Services"
-     },
-     {
-      "language": "DE",
-      "text": "Infrabel - Goods & Services"
-     },
-     {
-      "language": "NL",
-      "text": "Infrabel - Goods & Services"
-     }
-    ],
-    "tree": "200002.200014.4784.5863"
-   },
-   "procedureId": "e7c19941-6618-4d73-99fc-e41215c1df91",
-   "publicationDate": "2026-11-10",
-   "publicationLanguages": [
-    "NL",
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "0000836845_Publicatie gunning"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "d0baaa93-9e95-4d53-831e-6b6209000698",
-   "publishedAt": [
-    "2026-11-10T00:00:47.199469"
-   ],
-   "referenceNumber": "0000836845_Publicatie gunning",
-   "sentAt": [
-    "2026-11-10T00:00:47.199469"
-   ],
-   "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "45234115-5",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Railway signalling works"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de signalisation ferroviaire"
-      },
-      {
-       "language": "NL",
-       "text": "Werkzaamheden voor spoorseinen"
-      },
-      {
-       "language": "DE",
-       "text": "Arbeiten für Eisenbahnsignalanlagen"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "45234115-5",
-    "descriptions": [
-     {
-      "language": "EN",
-      "text": "Railway signalling works"
-     },
-     {
-      "language": "FR",
-      "text": "Travaux de signalisation ferroviaire"
-     },
-     {
-      "language": "NL",
-      "text": "Werkzaamheden voor spoorseinen"
-     },
-     {
-      "language": "DE",
-      "text": "Arbeiten für Eisenbahnsignalanlagen"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-10",
+   "dispatchDate": "2026-11-11",
    "dossier": {
     "accreditations": {
-     "P2": 2
+     "D": 5
     },
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Travaux correctifs TRAM requis entre Y Glons à Montzen Est."
+      "language": "NL",
+      "text": "renovatie kleuterschool met ca. 5 lokalen, zorglokaal en eetruimte te 2400 Mol"
      }
     ],
     "enterpriseCategories": [
      {
-      "categoryCode": "P2",
+      "categoryCode": "D",
       "levels": [
-       1,
-       2
+       5,
+       4,
+       3,
+       2,
+       1
       ]
      }
     ],
-    "legalBasis": "D25",
-    "number": "5733426117",
+    "legalBasis": "D24",
+    "number": "ROZ2_I_2024_11_12",
     "procurementProcedureType": "OPEN",
-    "referenceNumber": "5733426117",
+    "referenceNumber": "ROZ2_I_2024_11_12",
     "titles": [
      {
-      "language": "FR",
-      "text": "L 24 travaux correctifs TRAM (Y Glons à Montzen Est)"
+      "language": "NL",
+      "text": "Blok I kleuterschool Rozenberg"
      }
     ]
    },
-   "insertionDate": "2026-11-10",
+   "insertionDate": "2026-11-11",
    "lots": [
     {
      "descriptions": [
       {
-       "language": "FR",
-       "text": "L 24 travaux correctifs TRAM (Y Glons à Montzen Est)"
+       "language": "NL",
+       "text": "renovatie kleuterschool met ca. 5 lokalen, zorglokaal en eetruimte te 2400 Mol"
       }
      ],
      "reservedExecution": [
-      "NO"
+      "UNKNOWN"
      ],
      "reservedParticipation": [
       "NONE"
      ],
      "titles": [
       {
-       "language": "FR",
-       "text": "5733426117 - 1"
+       "language": "NL",
+       "text": "ROZ2_I_2024_11_12"
       }
      ]
     }
@@ -436,206 +144,574 @@
     "WORKS"
    ],
    "noticeIds": [
-    "c715ddb4-ae1b-400a-b6a6-4196b5f04eb0"
+    "29f3d0d6-ee8c-4ab6-90ab-06d51f44f094"
    ],
-   "noticeSubType": "17",
+   "noticeSubType": "16",
    "nutsCodes": [
-    "BE332"
+    "BE213"
    ],
    "organisation": {
-    "organisationId": 17122,
+    "organisationId": 2230,
     "organisationNames": [
      {
+      "language": "FR",
+      "text": "Katholiek Onderwijs Mol vzw"
+     },
+     {
       "language": "DE",
-      "text": "Infrabel Projects South"
+      "text": "Katholiek Onderwijs Mol vzw"
      },
      {
       "language": "NL",
-      "text": "Infrabel Projects South"
-     },
-     {
-      "language": "FR",
-      "text": "Infrabel Projects South"
+      "text": "Katholiek Onderwijs Mol vzw"
      },
      {
       "language": "EN",
-      "text": "Infrabel Projects South"
+      "text": "Katholiek Onderwijs Mol vzw"
      }
     ],
-    "tree": "200002.200014.4784.17122"
+    "tree": "200004.200026.2230"
    },
-   "procedureId": "e9d2aad6-568c-4e9b-8dc5-45f974913f82",
-   "publicationDate": "2026-11-10",
+   "procedureId": "6f411419-37c1-4e05-81dd-45f69342c962",
+   "publicationDate": "2026-11-11",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "ROZ2_I_2024_11_12_pub01"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "845e5fc6-18ac-4af6-b3de-3b2d49ab4f82",
+   "publishedAt": [
+    "2026-11-11T00:00:45.731066"
+   ],
+   "referenceNumber": "ROZ2_I_2024_11_12_pub01",
+   "sentAt": [
+    "2026-11-11T00:00:45.731066"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2027-01-07T10:00:00"
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45261210-9",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Dakdekkerswerkzaamheden"
+      },
+      {
+       "language": "EN",
+       "text": "Roof-covering work"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de couverture"
+      },
+      {
+       "language": "DE",
+       "text": "Dachdeckarbeiten"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45261210-9",
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Dakdekkerswerkzaamheden"
+     },
+     {
+      "language": "EN",
+      "text": "Roof-covering work"
+     },
+     {
+      "language": "FR",
+      "text": "Travaux de couverture"
+     },
+     {
+      "language": "DE",
+      "text": "Dachdeckarbeiten"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-11",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Réfection de la toiture plate de la Maison de la Poterie"
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP05W-3561/6132/2026/0118",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP05W-3561/6132/2026/0118",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Réfection de la toiture plate de la Maison de la Poterie"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-11",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Réfection de la toiture plate de la Maison de la Poterie"
+      }
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Réfection de la toiture plate de la Maison de la Poterie"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "d1cec263-ecbb-4323-bdc2-f5bc95d0ac9b"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE32B"
+   ],
+   "organisation": {
+    "organisationId": 171,
+    "organisationNames": [
+     {
+      "language": "EN",
+      "text": "Châtelet "
+     },
+     {
+      "language": "FR",
+      "text": "Châtelet "
+     },
+     {
+      "language": "DE",
+      "text": "Châtelet "
+     },
+     {
+      "language": "NL",
+      "text": "Châtelet "
+     }
+    ],
+    "tree": "200004.200021.171"
+   },
+   "procedureId": "af7db967-a931-4af9-8382-2ccfa91e4f22",
+   "publicationDate": "2026-11-11",
    "publicationLanguages": [
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "5733426117_pub01"
+    "PPP05W-3561/6132/2026/0118_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "b74e284e-d633-437c-aec1-f30cd328a5d6",
+   "publicationWorkspaceId": "873b01d6-7496-4dac-8ec8-a39d5ecfafff",
    "publishedAt": [
-    "2026-11-10T00:00:46.70365"
+    "2026-11-11T00:00:45.021438"
    ],
-   "referenceNumber": "5733426117_pub01",
+   "referenceNumber": "PPP05W-3561/6132/2026/0118_002",
    "sentAt": [
-    "2026-11-10T00:00:46.70365"
+    "2026-11-11T00:00:45.021438"
+   ],
+   "tedPublished": false
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45331210-1",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Travaux d'installation de ventilation"
+      },
+      {
+       "language": "EN",
+       "text": "Ventilation installation work"
+      },
+      {
+       "language": "DE",
+       "text": "Installation von Lüftungsanlagen"
+      },
+      {
+       "language": "NL",
+       "text": "Installeren van ventilatiesystemen"
+      }
+     ]
+    },
+    {
+     "code": "45321000-3",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Warmte-isolatiewerkzaamheden"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux d'isolation thermique"
+      },
+      {
+       "language": "EN",
+       "text": "Thermal insulation work"
+      },
+      {
+       "language": "DE",
+       "text": "Wärmedämmarbeiten"
+      }
+     ]
+    },
+    {
+     "code": "45421000-4",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Travaux de menuiserie"
+      },
+      {
+       "language": "NL",
+       "text": "Bouwtimmerwerk"
+      },
+      {
+       "language": "EN",
+       "text": "Joinery work"
+      },
+      {
+       "language": "DE",
+       "text": "Bautischlerarbeiten"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45420000-7",
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Travaux de menuiserie et de charpenterie"
+     },
+     {
+      "language": "DE",
+      "text": "Bautischlerei-Einbauarbeiten"
+     },
+     {
+      "language": "NL",
+      "text": "Bouwtimmerwerk en plaatsen van schrijnwerk"
+     },
+     {
+      "language": "EN",
+      "text": "Joinery and carpentry installation work"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-11",
+   "dossier": {
+    "accreditations": {
+     "D4": 1,
+     "D5": 4,
+     "D18": 1
+    },
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Le présent marché est un marché de travaux qui s’étend sur des travaux portant sur la rénovation énergétique de l’Espace citoyen. Les travaux comprennent notamment le remplacement des châssis, la remise en service des installations de ventilation ainsi que l’isolation des vides ventilés."
+     }
+    ],
+    "enterpriseCategories": [
+     {
+      "categoryCode": "D5",
+      "levels": [
+       4,
+       3,
+       2,
+       1
+      ]
+     },
+     {
+      "categoryCode": "D4",
+      "levels": [
+       1
+      ]
+     },
+     {
+      "categoryCode": "D18",
+      "levels": [
+       1
+      ]
+     }
+    ],
+    "legalBasis": "D24",
+    "number": "FCO-001",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "FCO-001",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Rénovation énergétique \"Espace citoyen\""
+     }
+    ]
+   },
+   "insertionDate": "2026-11-11",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Remplacement des menuiseries extérieures"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "FCO-001 - 1"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Remise en service de la ventilation "
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "FCO-001 - 2"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Isolation des vides ventilés"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "FCO-001 - 3"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "707a48d3-0e40-411a-aed8-c330471ad6da"
+   ],
+   "noticeSubType": "16",
+   "nutsCodes": [
+    "BE342"
+   ],
+   "organisation": {
+    "organisationId": 1005,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "Vielsalm"
+     },
+     {
+      "language": "NL",
+      "text": "Vielsalm"
+     },
+     {
+      "language": "FR",
+      "text": "Vielsalm"
+     },
+     {
+      "language": "EN",
+      "text": "Vielsalm"
+     }
+    ],
+    "tree": "200004.200021.1005"
+   },
+   "procedureId": "582461d7-f908-4709-a213-7e67c60ebc40",
+   "publicationDate": "2026-11-11",
+   "publicationLanguages": [
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "FCO-001_pub01"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "488bc737-434c-45c7-958d-637fe63290df",
+   "publishedAt": [
+    "2026-11-11T00:00:45.229685"
+   ],
+   "referenceNumber": "FCO-001_pub01",
+   "sentAt": [
+    "2026-11-11T00:00:45.229685"
    ],
    "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-12-10T14:00:00"
+   "vaultSubmissionDeadline": "2026-12-03T13:00:00"
   }
  ],
  "exemple_attribution": [
   {
    "cpvAdditionalCodes": [
     {
-     "code": "44114200-4",
+     "code": "45261210-9",
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Produits en béton"
-      },
-      {
-       "language": "DE",
-       "text": "Betonerzeugnisse"
-      },
-      {
        "language": "NL",
-       "text": "Betonproducten"
+       "text": "Dakdekkerswerkzaamheden"
       },
       {
        "language": "EN",
-       "text": "Concrete products"
+       "text": "Roof-covering work"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de couverture"
+      },
+      {
+       "language": "DE",
+       "text": "Dachdeckarbeiten"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "44114000-2",
+    "code": "45261210-9",
     "descriptions": [
      {
       "language": "NL",
-      "text": "Beton"
-     },
-     {
-      "language": "DE",
-      "text": "Beton"
-     },
-     {
-      "language": "FR",
-      "text": "Béton"
+      "text": "Dakdekkerswerkzaamheden"
      },
      {
       "language": "EN",
-      "text": "Concrete"
+      "text": "Roof-covering work"
+     },
+     {
+      "language": "FR",
+      "text": "Travaux de couverture"
+     },
+     {
+      "language": "DE",
+      "text": "Dachdeckarbeiten"
      }
     ]
    },
-   "dispatchDate": "2026-11-10",
+   "dispatchDate": "2026-11-11",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
       "language": "FR",
-      "text": "Commande d'essai Harmelen qualification Prefer (Y15 N°I-98); Application de l'art 124 §1-3° de la loi du 17 juin 2016 relative aux marchés publics"
-     },
-     {
-      "language": "NL",
-      "text": "Testbestelling Harmelen kwalificatie Prefer (Y15 N°I-98); Toepassing van art 124 §1-3° van de wet van 17 juni 2016 inzake overheidsopdrachten"
+      "text": "Réfection de la toiture plate de la Maison de la Poterie"
      }
     ],
     "enterpriseCategories": [],
-    "legalBasis": "D25",
-    "number": "0000836845",
-    "procurementProcedureType": "NEG_WO_CALL_25",
-    "referenceNumber": "0000836845",
+    "legalBasis": "D24",
+    "number": "PPP05W-3561/6132/2026/0118",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP05W-3561/6132/2026/0118",
     "titles": [
      {
-      "language": "NL",
-      "text": "Testbestelling Harmelen kwalificatie Prefer (Y15 N°I-98)"
-     },
-     {
       "language": "FR",
-      "text": "Commande d'essai Harmelen qualification Prefer (Y15 N°I-98)"
+      "text": "Réfection de la toiture plate de la Maison de la Poterie"
      }
     ]
    },
-   "insertionDate": "2026-11-10",
+   "insertionDate": "2026-11-11",
    "lots": [
     {
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Testbestelling Harmelen kwalificatie Prefer"
-      },
-      {
        "language": "FR",
-       "text": "Commande d'essai qualification Prefer"
+       "text": "Réfection de la toiture plate de la Maison de la Poterie"
       }
      ],
      "titles": [
       {
        "language": "FR",
-       "text": "0000836845 - 1"
-      },
-      {
-       "language": "NL",
-       "text": "0000836845 - 1"
+       "text": "Réfection de la toiture plate de la Maison de la Poterie"
       }
      ]
     }
    ],
    "natures": [
-    "SUPPLIES"
+    "WORKS"
    ],
    "noticeIds": [
-    "b8984675-f41e-4919-aeee-7c32d1e10e99"
+    "d1cec263-ecbb-4323-bdc2-f5bc95d0ac9b"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BEZZZ"
+    "BE32B"
    ],
    "organisation": {
-    "organisationId": 5863,
+    "organisationId": 171,
     "organisationNames": [
      {
-      "language": "FR",
-      "text": "Infrabel - Goods & Services"
+      "language": "EN",
+      "text": "Châtelet "
      },
      {
-      "language": "EN",
-      "text": "Infrabel - Goods & Services"
+      "language": "FR",
+      "text": "Châtelet "
      },
      {
       "language": "DE",
-      "text": "Infrabel - Goods & Services"
+      "text": "Châtelet "
      },
      {
       "language": "NL",
-      "text": "Infrabel - Goods & Services"
+      "text": "Châtelet "
      }
     ],
-    "tree": "200002.200014.4784.5863"
+    "tree": "200004.200021.171"
    },
-   "procedureId": "e7c19941-6618-4d73-99fc-e41215c1df91",
-   "publicationDate": "2026-11-10",
+   "procedureId": "af7db967-a931-4af9-8382-2ccfa91e4f22",
+   "publicationDate": "2026-11-11",
    "publicationLanguages": [
-    "NL",
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "0000836845_Publicatie gunning"
+    "PPP05W-3561/6132/2026/0118_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "d0baaa93-9e95-4d53-831e-6b6209000698",
+   "publicationWorkspaceId": "873b01d6-7496-4dac-8ec8-a39d5ecfafff",
    "publishedAt": [
-    "2026-11-10T00:00:47.199469"
+    "2026-11-11T00:00:45.021438"
    ],
-   "referenceNumber": "0000836845_Publicatie gunning",
+   "referenceNumber": "PPP05W-3561/6132/2026/0118_002",
    "sentAt": [
-    "2026-11-10T00:00:47.199469"
+    "2026-11-11T00:00:45.021438"
    ],
    "tedPublished": false
   }
