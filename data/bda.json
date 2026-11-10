@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-10T05:01:28Z",
+ "updated": "2026-11-10T07:01:28Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 263,
- "kept": 109,
+ "received": 264,
+ "kept": 110,
  "count": 2983,
  "new_ids": [],
  "records": [
@@ -342,6 +342,27 @@
    "procedure": "9a21128a-556b-4d13-812c-93692fdda080",
    "dossier": "12236 - MAM",
    "first_seen": "2026-11-10T04:21:19Z"
+  },
+  {
+   "id": "bda-fbea2b5f-d320-4a02-ac0f-3c808e7024be",
+   "source_type": "BDA",
+   "nom": "A0474004 - Lummen, PS-PL naar ZVG Halen via Veldstraat",
+   "lieu": "Limbourg",
+   "mo": "Aquafin NV - Directie Projectmanagement",
+   "etape": 4,
+   "source": "https://www.publicprocurement.be/publication-workspaces/fbea2b5f-d320-4a02-ac0f-3c808e7024be",
+   "verif": "vérifié",
+   "verif_date": "2026-11-10",
+   "preuve": "Bulletin des Adjudications, réf. A0474004 (avis de marché, sous-type eForms 16), publié le 2026-11-10.",
+   "date_publication": "2026-11-10",
+   "cpv": "45232411",
+   "ted_ref": "",
+   "notes": "A0474004 - Lummen, PS-PL naar ZVG Halen via Veldstraat. - Grondwerken - Aanleg DWA riolering - Aanleg van prefab pompstation (incl. EM) - Buitendienststelling van bestaand RWZI - Omvormen van bestaand gewapende betonnen RWZI naar bufferconstructie - Aanleg van persleiding d.m.v. horizontaal gestuurd",
+   "first_seen": "2026-10-07T23:29:15Z",
+   "province": "Limbourg",
+   "sur_ted": false,
+   "procedure": "c95bd67c-0060-4e79-8ea5-1f666ee121b6",
+   "dossier": "A0474004"
   },
   {
    "id": "bda-2e484b27-92af-4fb4-b8fc-ec41bde524ca",
@@ -40347,27 +40368,6 @@
    "procedure": "9a856727-4c13-4a60-b68c-b7e341ee8186",
    "dossier": "PPP0Q4-2247/6207/CMP/AD/2247-26",
    "first_seen": "2026-10-12T08:02:09Z"
-  },
-  {
-   "id": "bda-fbea2b5f-d320-4a02-ac0f-3c808e7024be",
-   "source_type": "BDA",
-   "nom": "A0474004 - Lummen, PS-PL naar ZVG Halen via Veldstraat",
-   "lieu": "Limbourg",
-   "mo": "Aquafin NV - Directie Projectmanagement",
-   "etape": 4,
-   "source": "https://www.publicprocurement.be/publication-workspaces/fbea2b5f-d320-4a02-ac0f-3c808e7024be",
-   "verif": "vérifié",
-   "verif_date": "2026-10-15",
-   "preuve": "Bulletin des Adjudications, réf. A0474004 (avis de marché, sous-type eForms 16), publié le 2026-10-12.",
-   "date_publication": "2026-10-12",
-   "cpv": "45232411",
-   "ted_ref": "",
-   "notes": "A0474004 - Lummen, PS-PL naar ZVG Halen via Veldstraat. - Grondwerken - Aanleg DWA riolering - Aanleg van prefab pompstation (incl. EM) - Buitendienststelling van bestaand RWZI - Omvormen van bestaand gewapende betonnen RWZI naar bufferconstructie - Aanleg van persleiding d.m.v. horizontaal gestuurd",
-   "first_seen": "2026-10-07T23:29:15Z",
-   "province": "Limbourg",
-   "sur_ted": false,
-   "procedure": "c95bd67c-0060-4e79-8ea5-1f666ee121b6",
-   "dossier": "A0474004"
   },
   {
    "id": "bda-f875c6e0-d3a8-47fb-820f-2db20872d289",
