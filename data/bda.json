@@ -1,11 +1,13 @@
 {
- "updated": "2026-11-10T01:01:28Z",
+ "updated": "2026-11-10T03:01:35Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
  "received": 189,
  "kept": 96,
- "count": 2974,
- "new_ids": [],
+ "count": 2975,
+ "new_ids": [
+  "bda-72d622b0-06b2-4218-9566-d178f7a7f818"
+ ],
  "records": [
   {
    "id": "bda-d0baaa93-9e95-4d53-831e-6b6209000698",
@@ -69,6 +71,27 @@
    "procedure": "20797632-4781-44ab-b495-8cbb726ec546",
    "dossier": "PPP027-3022/6165/2026/27",
    "first_seen": "2026-11-09T23:01:29Z"
+  },
+  {
+   "id": "bda-72d622b0-06b2-4218-9566-d178f7a7f818",
+   "source_type": "BDA",
+   "nom": "Entretien Extraordinaire de Voirie - Exercice - 2026 -- Réfection Rue de la Grattière à SAINT-REMY",
+   "lieu": "Hainaut",
+   "province": "Hainaut",
+   "mo": "Chimay",
+   "etape": 4,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/72d622b0-06b2-4218-9566-d178f7a7f818",
+   "verif": "vérifié",
+   "verif_date": "2026-11-10",
+   "preuve": "Bulletin des Adjudications, réf. PPP09F-2317/6118/2026-090 (avis de marché, sous-type eForms 16), publié le 2026-11-10.",
+   "date_publication": "2026-11-10",
+   "cpv": "45233142",
+   "ted_ref": "",
+   "notes": "Les travaux portent sur l’amélioration de la rue de la Grattière à 6460 St Remy (Commune de CHIMAY). Le revêtement est abimé. Le travail consiste à remanier le revêtement en place, procéder à un reprofilage de l’ensemble de la voirie et à la pose d’un nouveau revêtement en hydrocarboné. La pose d’un",
+   "procedure": "c5613704-87d7-4ab6-a312-a5c51a8975e1",
+   "dossier": "PPP09F-2317/6118/2026-090",
+   "first_seen": "2026-11-10T03:01:35Z"
   },
   {
    "id": "bda-2e484b27-92af-4fb4-b8fc-ec41bde524ca",
