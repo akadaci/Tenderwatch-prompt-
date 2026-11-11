@@ -1,11 +1,13 @@
 {
- "updated": "2026-11-11T13:01:39Z",
+ "updated": "2026-11-11T15:58:57Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 469,
- "kept": 207,
- "count": 3067,
- "new_ids": [],
+ "received": 470,
+ "kept": 208,
+ "count": 3068,
+ "new_ids": [
+  "bda-d5cdefeb-0894-4a2e-a36e-219729a2b026"
+ ],
  "records": [
   {
    "id": "bda-845e5fc6-18ac-4af6-b3de-3b2d49ab4f82",
@@ -588,7 +590,7 @@
    "verif_date": "2026-11-11",
    "preuve": "Bulletin des Adjudications, réf. PPP01G-3570/6191/CG/2026/012 (avis de marché, sous-type eForms 16), publié le 2026-11-11.",
    "date_publication": "2026-11-11",
-   "cpv": "39224340,34928480,19520000,44613800",
+   "cpv": "39224340,34928480,44613800,19520000",
    "ted_ref": "PPP01G-3570/6191/CG/2026/012_001",
    "notes": "Universiteit Gent - Raamovereenkomst voor het leveren van afvalrecipiënten aan het Centraal Magazijn",
    "procedure": "ce682d41-bc8b-4813-994d-7644fc74f366",
@@ -636,6 +638,27 @@
    "procedure": "8e095205-de3f-48ea-9597-81c616bf9113",
    "dossier": "T-2025-05",
    "first_seen": "2026-11-02T08:19:35Z"
+  },
+  {
+   "id": "bda-d5cdefeb-0894-4a2e-a36e-219729a2b026",
+   "source_type": "BDA",
+   "nom": "Marché public de travaux relatif à “Construction d’une base vie sur l’Aire Marine Protégée de Donaten et des salles d’application et de simulation à l'Institut de Formation en Soins Infirmiers et Obst",
+   "lieu": "",
+   "province": "",
+   "mo": "Enabel",
+   "etape": 4,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/d5cdefeb-0894-4a2e-a36e-219729a2b026",
+   "verif": "vérifié",
+   "verif_date": "2026-11-11",
+   "preuve": "Bulletin des Adjudications, réf. 2204BEN-10412 (avis de marché, sous-type eForms 16), publié le 2026-11-11.",
+   "date_publication": "2026-11-11",
+   "cpv": "45000000",
+   "ted_ref": "",
+   "notes": "Marché public de travaux relatif à “Construction d’une base vie sur l’Aire Marine Protégée de Donaten et des salles d’application et de simulation à l'Institut de Formation en Soins Infirmiers et Obstétricaux”",
+   "procedure": "bb123081-415f-4932-87d8-e3c5ac77f226",
+   "dossier": "2204BEN-10412",
+   "first_seen": "2026-11-11T15:58:57Z"
   },
   {
    "id": "bda-d0baaa93-9e95-4d53-831e-6b6209000698",
