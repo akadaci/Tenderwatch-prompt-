@@ -1,10 +1,10 @@
 {
  "meta": {
-  "totalCount": 295319
+  "totalCount": 295377
  },
  "types": [
-  "ACTIVE|10|['SUPPLIES']",
   "ACTIVE|11|['WORKS']",
+  "ACTIVE|15|['SUPPLIES']",
   "ACTIVE|16|['SERVICES', 'SUPPLIES']",
   "ACTIVE|16|['SERVICES', 'WORKS']",
   "ACTIVE|16|['SERVICES']",
@@ -12,19 +12,25 @@
   "ACTIVE|16|['WORKS', 'SUPPLIES']",
   "ACTIVE|16|['WORKS']",
   "ACTIVE|17|['SERVICES']",
+  "ACTIVE|17|['SUPPLIES']",
   "ACTIVE|17|['WORKS']",
   "ACTIVE|19|['SERVICES']",
   "ACTIVE|20|['SERVICES']",
   "ACTIVE|23|['SERVICES']",
   "ACTIVE|23|['WORKS']",
+  "ACTIVE|25|['SUPPLIES']",
   "ACTIVE|29|['SERVICES', 'SUPPLIES']",
   "ACTIVE|29|['SERVICES']",
   "ACTIVE|29|['SUPPLIES']",
   "ACTIVE|29|['WORKS']",
   "ACTIVE|30|['SERVICES']",
   "ACTIVE|30|['SUPPLIES']",
+  "ACTIVE|32|['SERVICES']",
   "ACTIVE|33|['SERVICES']",
   "ACTIVE|34|['SERVICES']",
+  "ACTIVE|38|['SERVICES']",
+  "ACTIVE|38|['SUPPLIES']",
+  "ACTIVE|4|['SERVICES']",
   "ACTIVE|E1|['SERVICES']",
   "ACTIVE|E1|['WORKS']",
   "ACTIVE|E3|['SERVICES', 'SUPPLIES']",
@@ -38,6 +44,256 @@
   "ACTIVE|E4|['WORKS']"
  ],
  "exemples": [
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45331210-1",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Travaux d'installation de ventilation"
+      },
+      {
+       "language": "EN",
+       "text": "Ventilation installation work"
+      },
+      {
+       "language": "DE",
+       "text": "Installation von Lüftungsanlagen"
+      },
+      {
+       "language": "NL",
+       "text": "Installeren van ventilatiesystemen"
+      }
+     ]
+    },
+    {
+     "code": "45321000-3",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Warmte-isolatiewerkzaamheden"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux d'isolation thermique"
+      },
+      {
+       "language": "EN",
+       "text": "Thermal insulation work"
+      },
+      {
+       "language": "DE",
+       "text": "Wärmedämmarbeiten"
+      }
+     ]
+    },
+    {
+     "code": "45421000-4",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Travaux de menuiserie"
+      },
+      {
+       "language": "NL",
+       "text": "Bouwtimmerwerk"
+      },
+      {
+       "language": "EN",
+       "text": "Joinery work"
+      },
+      {
+       "language": "DE",
+       "text": "Bautischlerarbeiten"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45420000-7",
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Travaux de menuiserie et de charpenterie"
+     },
+     {
+      "language": "DE",
+      "text": "Bautischlerei-Einbauarbeiten"
+     },
+     {
+      "language": "NL",
+      "text": "Bouwtimmerwerk en plaatsen van schrijnwerk"
+     },
+     {
+      "language": "EN",
+      "text": "Joinery and carpentry installation work"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-11",
+   "dossier": {
+    "accreditations": {
+     "D4": 1,
+     "D5": 4,
+     "D18": 1
+    },
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Le présent marché est un marché de travaux qui s’étend sur des travaux portant sur la rénovation énergétique de l’Espace citoyen. Les travaux comprennent notamment le remplacement des châssis, la remise en service des installations de ventilation ainsi que l’isolation des vides ventilés."
+     }
+    ],
+    "enterpriseCategories": [
+     {
+      "categoryCode": "D5",
+      "levels": [
+       4,
+       3,
+       2,
+       1
+      ]
+     },
+     {
+      "categoryCode": "D4",
+      "levels": [
+       1
+      ]
+     },
+     {
+      "categoryCode": "D18",
+      "levels": [
+       1
+      ]
+     }
+    ],
+    "legalBasis": "D24",
+    "number": "FCO-001",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "FCO-001",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Rénovation énergétique \"Espace citoyen\""
+     }
+    ]
+   },
+   "insertionDate": "2026-11-11",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Remplacement des menuiseries extérieures"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "FCO-001 - 1"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Remise en service de la ventilation "
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "FCO-001 - 2"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Isolation des vides ventilés"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "FCO-001 - 3"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "707a48d3-0e40-411a-aed8-c330471ad6da"
+   ],
+   "noticeSubType": "16",
+   "nutsCodes": [
+    "BE342"
+   ],
+   "organisation": {
+    "organisationId": 1005,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "Vielsalm"
+     },
+     {
+      "language": "NL",
+      "text": "Vielsalm"
+     },
+     {
+      "language": "FR",
+      "text": "Vielsalm"
+     },
+     {
+      "language": "EN",
+      "text": "Vielsalm"
+     }
+    ],
+    "tree": "200004.200021.1005"
+   },
+   "procedureId": "582461d7-f908-4709-a213-7e67c60ebc40",
+   "publicationDate": "2026-11-11",
+   "publicationLanguages": [
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "FCO-001_pub01"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "488bc737-434c-45c7-958d-637fe63290df",
+   "publishedAt": [
+    "2026-11-11T00:00:45.229685"
+   ],
+   "referenceNumber": "FCO-001_pub01",
+   "sentAt": [
+    "2026-11-11T00:00:45.229685"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-12-03T13:00:00"
+  },
   {
    "cpvAdditionalCodes": [
     {
@@ -327,256 +583,6 @@
     "2026-11-11T00:00:45.021438"
    ],
    "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "45331210-1",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Travaux d'installation de ventilation"
-      },
-      {
-       "language": "EN",
-       "text": "Ventilation installation work"
-      },
-      {
-       "language": "DE",
-       "text": "Installation von Lüftungsanlagen"
-      },
-      {
-       "language": "NL",
-       "text": "Installeren van ventilatiesystemen"
-      }
-     ]
-    },
-    {
-     "code": "45321000-3",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Warmte-isolatiewerkzaamheden"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux d'isolation thermique"
-      },
-      {
-       "language": "EN",
-       "text": "Thermal insulation work"
-      },
-      {
-       "language": "DE",
-       "text": "Wärmedämmarbeiten"
-      }
-     ]
-    },
-    {
-     "code": "45421000-4",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Travaux de menuiserie"
-      },
-      {
-       "language": "NL",
-       "text": "Bouwtimmerwerk"
-      },
-      {
-       "language": "EN",
-       "text": "Joinery work"
-      },
-      {
-       "language": "DE",
-       "text": "Bautischlerarbeiten"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "45420000-7",
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Travaux de menuiserie et de charpenterie"
-     },
-     {
-      "language": "DE",
-      "text": "Bautischlerei-Einbauarbeiten"
-     },
-     {
-      "language": "NL",
-      "text": "Bouwtimmerwerk en plaatsen van schrijnwerk"
-     },
-     {
-      "language": "EN",
-      "text": "Joinery and carpentry installation work"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-11",
-   "dossier": {
-    "accreditations": {
-     "D4": 1,
-     "D5": 4,
-     "D18": 1
-    },
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Le présent marché est un marché de travaux qui s’étend sur des travaux portant sur la rénovation énergétique de l’Espace citoyen. Les travaux comprennent notamment le remplacement des châssis, la remise en service des installations de ventilation ainsi que l’isolation des vides ventilés."
-     }
-    ],
-    "enterpriseCategories": [
-     {
-      "categoryCode": "D5",
-      "levels": [
-       4,
-       3,
-       2,
-       1
-      ]
-     },
-     {
-      "categoryCode": "D4",
-      "levels": [
-       1
-      ]
-     },
-     {
-      "categoryCode": "D18",
-      "levels": [
-       1
-      ]
-     }
-    ],
-    "legalBasis": "D24",
-    "number": "FCO-001",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "FCO-001",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "Rénovation énergétique \"Espace citoyen\""
-     }
-    ]
-   },
-   "insertionDate": "2026-11-11",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Remplacement des menuiseries extérieures"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "FCO-001 - 1"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Remise en service de la ventilation "
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "FCO-001 - 2"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Isolation des vides ventilés"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "FCO-001 - 3"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "WORKS"
-   ],
-   "noticeIds": [
-    "707a48d3-0e40-411a-aed8-c330471ad6da"
-   ],
-   "noticeSubType": "16",
-   "nutsCodes": [
-    "BE342"
-   ],
-   "organisation": {
-    "organisationId": 1005,
-    "organisationNames": [
-     {
-      "language": "DE",
-      "text": "Vielsalm"
-     },
-     {
-      "language": "NL",
-      "text": "Vielsalm"
-     },
-     {
-      "language": "FR",
-      "text": "Vielsalm"
-     },
-     {
-      "language": "EN",
-      "text": "Vielsalm"
-     }
-    ],
-    "tree": "200004.200021.1005"
-   },
-   "procedureId": "582461d7-f908-4709-a213-7e67c60ebc40",
-   "publicationDate": "2026-11-11",
-   "publicationLanguages": [
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "FCO-001_pub01"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "488bc737-434c-45c7-958d-637fe63290df",
-   "publishedAt": [
-    "2026-11-11T00:00:45.229685"
-   ],
-   "referenceNumber": "FCO-001_pub01",
-   "sentAt": [
-    "2026-11-11T00:00:45.229685"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-12-03T13:00:00"
   }
  ],
  "exemple_attribution": [
