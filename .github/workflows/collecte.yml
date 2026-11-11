@@ -21,7 +21,11 @@ jobs:
         with: {ref: main}            # dernière version, pas celle du déclenchement
       - uses: actions/setup-python@v5
         with: {python-version: "3.11"}
-      - run: pip install -r requirements.txt && python -m playwright install --with-deps chromium
+      - name: Installer Python et le navigateur (résiste aux pannes des serveurs Ubuntu)
+        run: |
+          pip install --retries 10 -r requirements.txt
+          for i in 1 2 3; do python -m playwright install chromium && break; echo "téléchargement du navigateur raté ($i/3)"; sleep 30; done
+          timeout 420 python -m playwright install-deps chromium || echo "::warning::Serveurs Ubuntu injoignables : on continue avec les bibliothèques déjà présentes sur la machine GitHub"
       - name: Tests
         run: python -m pytest -q tests
       - name: Collecte
