@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-12T19:01:36Z",
+ "updated": "2026-11-12T21:01:41Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
  "received": 647,
  "kept": 297,
- "count": 3135,
+ "count": 3136,
  "new_ids": [
-  "bda-50292a1c-9bce-445d-8e7a-e4aafd1e0221"
+  "bda-31d99651-89a4-420e-beeb-d91d44443bd3"
  ],
  "records": [
   {
@@ -1921,6 +1921,27 @@
    "first_seen": "2026-11-12T19:01:36Z"
   },
   {
+   "id": "bda-31d99651-89a4-420e-beeb-d91d44443bd3",
+   "source_type": "BDA",
+   "nom": "Construction de salles de classes y compris latrines institutionnelles inclusives dans les régions du Nakambé et du Oubri au Burkina Faso",
+   "lieu": "",
+   "province": "",
+   "mo": "Enabel",
+   "etape": 4,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/31d99651-89a4-420e-beeb-d91d44443bd3",
+   "verif": "vérifié",
+   "verif_date": "2026-11-12",
+   "preuve": "Bulletin des Adjudications, réf. BFA23004-10684 (avis de marché, sous-type eForms 10), publié le 2026-11-12.",
+   "date_publication": "2026-11-12",
+   "cpv": "45200000",
+   "ted_ref": "",
+   "notes": "Construction de salles de classes y compris latrines institutionnelles inclusives dans les régions du Nakambé et du Oubri au Burkina Faso",
+   "procedure": "8b374eab-52b1-44cb-b5ed-319e0adeb34a",
+   "dossier": "BFA23004-10684",
+   "first_seen": "2026-11-12T21:01:41Z"
+  },
+  {
    "id": "bda-845e5fc6-18ac-4af6-b3de-3b2d49ab4f82",
    "source_type": "BDA",
    "nom": "Blok I kleuterschool Rozenberg",
@@ -2501,7 +2522,7 @@
    "verif_date": "2026-11-12",
    "preuve": "Bulletin des Adjudications, réf. PPP01G-3570/6191/CG/2026/012 (avis de marché, sous-type eForms 16), publié le 2026-11-11.",
    "date_publication": "2026-11-11",
-   "cpv": "39224340,34928480,44613800,19520000",
+   "cpv": "39224340,34928480,19520000,44613800",
    "ted_ref": "PPP01G-3570/6191/CG/2026/012_001",
    "notes": "Universiteit Gent - Raamovereenkomst voor het leveren van afvalrecipiënten aan het Centraal Magazijn",
    "procedure": "ce682d41-bc8b-4813-994d-7644fc74f366",
