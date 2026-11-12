@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 295496
+  "totalCount": 295510
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -51,27 +51,6 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45262660-5",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Verwijderen van asbest"
-      },
-      {
-       "language": "DE",
-       "text": "Asbestbeseitigungsarbeiten"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de désamiantage"
-      },
-      {
-       "language": "EN",
-       "text": "Asbestos-removal work"
-      }
-     ]
-    },
-    {
      "code": "45261210-9",
      "descriptions": [
       {
@@ -89,6 +68,27 @@
       {
        "language": "DE",
        "text": "Dachdeckarbeiten"
+      }
+     ]
+    },
+    {
+     "code": "45262660-5",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Verwijderen van asbest"
+      },
+      {
+       "language": "DE",
+       "text": "Asbestbeseitigungsarbeiten"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de désamiantage"
+      },
+      {
+       "language": "EN",
+       "text": "Asbestos-removal work"
       }
      ]
     }
@@ -556,27 +556,6 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45262660-5",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Verwijderen van asbest"
-      },
-      {
-       "language": "DE",
-       "text": "Asbestbeseitigungsarbeiten"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de désamiantage"
-      },
-      {
-       "language": "EN",
-       "text": "Asbestos-removal work"
-      }
-     ]
-    },
-    {
      "code": "45261210-9",
      "descriptions": [
       {
@@ -594,6 +573,27 @@
       {
        "language": "DE",
        "text": "Dachdeckarbeiten"
+      }
+     ]
+    },
+    {
+     "code": "45262660-5",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Verwijderen van asbest"
+      },
+      {
+       "language": "DE",
+       "text": "Asbestbeseitigungsarbeiten"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de désamiantage"
+      },
+      {
+       "language": "EN",
+       "text": "Asbestos-removal work"
       }
      ]
     }
