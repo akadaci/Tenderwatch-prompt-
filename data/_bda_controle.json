@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 295396
+  "totalCount": 295398
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -46,6 +46,351 @@
   "ACTIVE|E4|['WORKS']"
  ],
  "exemples": [
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45262660-5",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Verwijderen van asbest"
+      },
+      {
+       "language": "DE",
+       "text": "Asbestbeseitigungsarbeiten"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de désamiantage"
+      },
+      {
+       "language": "EN",
+       "text": "Asbestos-removal work"
+      }
+     ]
+    },
+    {
+     "code": "45261210-9",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Dakdekkerswerkzaamheden"
+      },
+      {
+       "language": "EN",
+       "text": "Roof-covering work"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de couverture"
+      },
+      {
+       "language": "DE",
+       "text": "Dachdeckarbeiten"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45262660-5",
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Verwijderen van asbest"
+     },
+     {
+      "language": "DE",
+      "text": "Asbestbeseitigungsarbeiten"
+     },
+     {
+      "language": "FR",
+      "text": "Travaux de désamiantage"
+     },
+     {
+      "language": "EN",
+      "text": "Asbestos-removal work"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-12",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Gebouwen. Basisschool en kleuterschool. Vervangen asbesthoudende dakbedekking."
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP0C2-1762/6119/2026/018",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "PPP0C2-1762/6119/2026/018",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Gebouwen. Basisschool en kleuterschool. Vervangen asbesthoudende dakbedekking."
+     }
+    ]
+   },
+   "insertionDate": "2026-11-12",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Gebouwen. Basisschool en kleuterschool. Vervangen asbesthoudende dakbedekking."
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Gebouwen. Basisschool en kleuterschool. Vervangen asbesthoudende dakbedekking."
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "92d82a9e-be15-4003-ab5c-d6cbc8ed0f9c"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE235"
+   ],
+   "organisation": {
+    "organisationId": 107,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "Brakel"
+     },
+     {
+      "language": "NL",
+      "text": "Brakel"
+     },
+     {
+      "language": "EN",
+      "text": "Brakel"
+     },
+     {
+      "language": "FR",
+      "text": "Brakel"
+     }
+    ],
+    "tree": "200004.200021.107"
+   },
+   "procedureId": "018650f5-27c5-470b-9df3-7921e741f5e7",
+   "publicationDate": "2026-11-12",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP0C2-1762/6119/2026/018_002"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "de92462d-7f13-453b-8d7b-ae2b7b718f63",
+   "publishedAt": [
+    "2026-11-12T08:00:46.015927"
+   ],
+   "referenceNumber": "PPP0C2-1762/6119/2026/018_002",
+   "sentAt": [
+    "2026-11-12T08:00:46.015927"
+   ],
+   "tedPublished": false
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "09134000-7",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Gasoils"
+      },
+      {
+       "language": "NL",
+       "text": "Gasolie"
+      },
+      {
+       "language": "EN",
+       "text": "Gas oils"
+      },
+      {
+       "language": "DE",
+       "text": "Gasöle"
+      }
+     ]
+    },
+    {
+     "code": "09134200-9",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Dieselbrandstof"
+      },
+      {
+       "language": "EN",
+       "text": "Diesel fuel"
+      },
+      {
+       "language": "DE",
+       "text": "Dieselkraftstoff"
+      },
+      {
+       "language": "FR",
+       "text": "Carburant diesel"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "09134000-7",
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Gasoils"
+     },
+     {
+      "language": "NL",
+      "text": "Gasolie"
+     },
+     {
+      "language": "EN",
+      "text": "Gas oils"
+     },
+     {
+      "language": "DE",
+      "text": "Gasöle"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-12",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Fourniture de carburants pour la commune et le CPAS de Bertrix en 2027"
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP082-979/6165/2027 - Carburants",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "PPP082-979/6165/2027 - Carburants",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Fourniture de carburants pour la commune et le CPAS de Bertrix en 2027"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-12",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Quantité estimée : +/- 18.000 litres"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Lot 2 (Diesel routier B7)"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Quantité estimée à titre indicatif : +/- 150.000 litres"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Lot 1 (Gasoil de chauffage extra)"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SUPPLIES"
+   ],
+   "noticeIds": [
+    "968054c2-0b19-4b74-bc5a-2ff64aabbe87"
+   ],
+   "noticeSubType": "16",
+   "nutsCodes": [
+    "BE344"
+   ],
+   "organisation": {
+    "organisationId": 337,
+    "organisationNames": [
+     {
+      "language": "FR",
+      "text": "Bertrix"
+     },
+     {
+      "language": "EN",
+      "text": "Bertrix"
+     },
+     {
+      "language": "DE",
+      "text": "Bertrix"
+     },
+     {
+      "language": "NL",
+      "text": "Bertrix"
+     }
+    ],
+    "tree": "200004.200021.337"
+   },
+   "procedureId": "1041f67a-301a-4956-8e67-d75837905acf",
+   "publicationDate": "2026-11-12",
+   "publicationLanguages": [
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP082-979/6165/2027 - Carburants_001"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "3986e511-4b60-4cd9-8d6a-f89a751a8a0b",
+   "publishedAt": [
+    "2026-11-12T07:58:46.029474"
+   ],
+   "referenceNumber": "PPP082-979/6165/2027 - Carburants_001",
+   "sentAt": [
+    "2026-11-12T07:58:46.029474"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-11-30T10:00:00"
+  },
   {
    "cpvAdditionalCodes": [
     {
@@ -295,97 +640,107 @@
    ],
    "tedPublished": false,
    "vaultSubmissionDeadline": "2026-12-03T13:00:00"
-  },
+  }
+ ],
+ "exemple_attribution": [
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45214000-0",
+     "code": "45262660-5",
      "descriptions": [
       {
+       "language": "NL",
+       "text": "Verwijderen van asbest"
+      },
+      {
        "language": "DE",
-       "text": "Bauarbeiten für Schulen oder Forschungsanstalten"
+       "text": "Asbestbeseitigungsarbeiten"
       },
       {
        "language": "FR",
-       "text": "Travaux de construction d'établissements d'enseignement et de centres de recherche"
+       "text": "Travaux de désamiantage"
       },
       {
        "language": "EN",
-       "text": "Construction work for buildings relating to education and research"
-      },
+       "text": "Asbestos-removal work"
+      }
+     ]
+    },
+    {
+     "code": "45261210-9",
+     "descriptions": [
       {
        "language": "NL",
-       "text": "Gebouwen voor onderwijs en onderzoek"
+       "text": "Dakdekkerswerkzaamheden"
+      },
+      {
+       "language": "EN",
+       "text": "Roof-covering work"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de couverture"
+      },
+      {
+       "language": "DE",
+       "text": "Dachdeckarbeiten"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45000000-7",
+    "code": "45262660-5",
     "descriptions": [
      {
-      "language": "DE",
-      "text": "Bauarbeiten"
-     },
-     {
       "language": "NL",
-      "text": "Bouwwerkzaamheden"
+      "text": "Verwijderen van asbest"
      },
      {
-      "language": "EN",
-      "text": "Construction work"
+      "language": "DE",
+      "text": "Asbestbeseitigungsarbeiten"
      },
      {
       "language": "FR",
-      "text": "Travaux de construction"
+      "text": "Travaux de désamiantage"
+     },
+     {
+      "language": "EN",
+      "text": "Asbestos-removal work"
      }
     ]
    },
-   "dispatchDate": "2026-11-11",
+   "dispatchDate": "2026-11-12",
    "dossier": {
-    "accreditations": {
-     "D": 5
-    },
+    "accreditations": {},
     "descriptions": [
      {
       "language": "NL",
-      "text": "renovatie kleuterschool met ca. 5 lokalen, zorglokaal en eetruimte te 2400 Mol"
+      "text": "Gebouwen. Basisschool en kleuterschool. Vervangen asbesthoudende dakbedekking."
      }
     ],
-    "enterpriseCategories": [
-     {
-      "categoryCode": "D",
-      "levels": [
-       5,
-       4,
-       3,
-       2,
-       1
-      ]
-     }
-    ],
+    "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "ROZ2_I_2024_11_12",
+    "number": "PPP0C2-1762/6119/2026/018",
     "procurementProcedureType": "OPEN",
-    "referenceNumber": "ROZ2_I_2024_11_12",
+    "referenceNumber": "PPP0C2-1762/6119/2026/018",
     "titles": [
      {
       "language": "NL",
-      "text": "Blok I kleuterschool Rozenberg"
+      "text": "Gebouwen. Basisschool en kleuterschool. Vervangen asbesthoudende dakbedekking."
      }
     ]
    },
-   "insertionDate": "2026-11-11",
+   "insertionDate": "2026-11-12",
    "lots": [
     {
      "descriptions": [
       {
        "language": "NL",
-       "text": "renovatie kleuterschool met ca. 5 lokalen, zorglokaal en eetruimte te 2400 Mol"
+       "text": "Gebouwen. Basisschool en kleuterschool. Vervangen asbesthoudende dakbedekking."
       }
      ],
      "reservedExecution": [
-      "UNKNOWN"
+      "NO"
      ],
      "reservedParticipation": [
       "NONE"
@@ -393,7 +748,7 @@
      "titles": [
       {
        "language": "NL",
-       "text": "ROZ2_I_2024_11_12"
+       "text": "Gebouwen. Basisschool en kleuterschool. Vervangen asbesthoudende dakbedekking."
       }
      ]
     }
@@ -402,324 +757,51 @@
     "WORKS"
    ],
    "noticeIds": [
-    "29f3d0d6-ee8c-4ab6-90ab-06d51f44f094"
+    "92d82a9e-be15-4003-ab5c-d6cbc8ed0f9c"
    ],
-   "noticeSubType": "16",
+   "noticeSubType": "E4",
    "nutsCodes": [
-    "BE213"
+    "BE235"
    ],
    "organisation": {
-    "organisationId": 2230,
+    "organisationId": 107,
     "organisationNames": [
      {
-      "language": "FR",
-      "text": "Katholiek Onderwijs Mol vzw"
-     },
-     {
       "language": "DE",
-      "text": "Katholiek Onderwijs Mol vzw"
+      "text": "Brakel"
      },
      {
       "language": "NL",
-      "text": "Katholiek Onderwijs Mol vzw"
+      "text": "Brakel"
      },
      {
       "language": "EN",
-      "text": "Katholiek Onderwijs Mol vzw"
+      "text": "Brakel"
+     },
+     {
+      "language": "FR",
+      "text": "Brakel"
      }
     ],
-    "tree": "200004.200026.2230"
+    "tree": "200004.200021.107"
    },
-   "procedureId": "6f411419-37c1-4e05-81dd-45f69342c962",
-   "publicationDate": "2026-11-11",
+   "procedureId": "018650f5-27c5-470b-9df3-7921e741f5e7",
+   "publicationDate": "2026-11-12",
    "publicationLanguages": [
     "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "ROZ2_I_2024_11_12_pub01"
+    "PPP0C2-1762/6119/2026/018_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "845e5fc6-18ac-4af6-b3de-3b2d49ab4f82",
+   "publicationWorkspaceId": "de92462d-7f13-453b-8d7b-ae2b7b718f63",
    "publishedAt": [
-    "2026-11-11T00:00:45.731066"
+    "2026-11-12T08:00:46.015927"
    ],
-   "referenceNumber": "ROZ2_I_2024_11_12_pub01",
+   "referenceNumber": "PPP0C2-1762/6119/2026/018_002",
    "sentAt": [
-    "2026-11-11T00:00:45.731066"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2027-01-07T10:00:00"
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "45261210-9",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Dakdekkerswerkzaamheden"
-      },
-      {
-       "language": "EN",
-       "text": "Roof-covering work"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de couverture"
-      },
-      {
-       "language": "DE",
-       "text": "Dachdeckarbeiten"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "45261210-9",
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Dakdekkerswerkzaamheden"
-     },
-     {
-      "language": "EN",
-      "text": "Roof-covering work"
-     },
-     {
-      "language": "FR",
-      "text": "Travaux de couverture"
-     },
-     {
-      "language": "DE",
-      "text": "Dachdeckarbeiten"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-11",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Réfection de la toiture plate de la Maison de la Poterie"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP05W-3561/6132/2026/0118",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP05W-3561/6132/2026/0118",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "Réfection de la toiture plate de la Maison de la Poterie"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-11",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Réfection de la toiture plate de la Maison de la Poterie"
-      }
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Réfection de la toiture plate de la Maison de la Poterie"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "WORKS"
-   ],
-   "noticeIds": [
-    "d1cec263-ecbb-4323-bdc2-f5bc95d0ac9b"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE32B"
-   ],
-   "organisation": {
-    "organisationId": 171,
-    "organisationNames": [
-     {
-      "language": "EN",
-      "text": "Châtelet "
-     },
-     {
-      "language": "FR",
-      "text": "Châtelet "
-     },
-     {
-      "language": "DE",
-      "text": "Châtelet "
-     },
-     {
-      "language": "NL",
-      "text": "Châtelet "
-     }
-    ],
-    "tree": "200004.200021.171"
-   },
-   "procedureId": "af7db967-a931-4af9-8382-2ccfa91e4f22",
-   "publicationDate": "2026-11-11",
-   "publicationLanguages": [
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP05W-3561/6132/2026/0118_002"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "873b01d6-7496-4dac-8ec8-a39d5ecfafff",
-   "publishedAt": [
-    "2026-11-11T00:00:45.021438"
-   ],
-   "referenceNumber": "PPP05W-3561/6132/2026/0118_002",
-   "sentAt": [
-    "2026-11-11T00:00:45.021438"
-   ],
-   "tedPublished": false
-  }
- ],
- "exemple_attribution": [
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "45261210-9",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Dakdekkerswerkzaamheden"
-      },
-      {
-       "language": "EN",
-       "text": "Roof-covering work"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de couverture"
-      },
-      {
-       "language": "DE",
-       "text": "Dachdeckarbeiten"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "45261210-9",
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Dakdekkerswerkzaamheden"
-     },
-     {
-      "language": "EN",
-      "text": "Roof-covering work"
-     },
-     {
-      "language": "FR",
-      "text": "Travaux de couverture"
-     },
-     {
-      "language": "DE",
-      "text": "Dachdeckarbeiten"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-11",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Réfection de la toiture plate de la Maison de la Poterie"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP05W-3561/6132/2026/0118",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP05W-3561/6132/2026/0118",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "Réfection de la toiture plate de la Maison de la Poterie"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-11",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Réfection de la toiture plate de la Maison de la Poterie"
-      }
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Réfection de la toiture plate de la Maison de la Poterie"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "WORKS"
-   ],
-   "noticeIds": [
-    "d1cec263-ecbb-4323-bdc2-f5bc95d0ac9b"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE32B"
-   ],
-   "organisation": {
-    "organisationId": 171,
-    "organisationNames": [
-     {
-      "language": "EN",
-      "text": "Châtelet "
-     },
-     {
-      "language": "FR",
-      "text": "Châtelet "
-     },
-     {
-      "language": "DE",
-      "text": "Châtelet "
-     },
-     {
-      "language": "NL",
-      "text": "Châtelet "
-     }
-    ],
-    "tree": "200004.200021.171"
-   },
-   "procedureId": "af7db967-a931-4af9-8382-2ccfa91e4f22",
-   "publicationDate": "2026-11-11",
-   "publicationLanguages": [
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP05W-3561/6132/2026/0118_002"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "873b01d6-7496-4dac-8ec8-a39d5ecfafff",
-   "publishedAt": [
-    "2026-11-11T00:00:45.021438"
-   ],
-   "referenceNumber": "PPP05W-3561/6132/2026/0118_002",
-   "sentAt": [
-    "2026-11-11T00:00:45.021438"
+    "2026-11-12T08:00:46.015927"
    ],
    "tedPublished": false
   }

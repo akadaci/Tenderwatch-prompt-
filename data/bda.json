@@ -1,11 +1,13 @@
 {
- "updated": "2026-11-12T05:01:34Z",
+ "updated": "2026-11-12T07:01:26Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 497,
- "kept": 215,
- "count": 3072,
- "new_ids": [],
+ "received": 499,
+ "kept": 216,
+ "count": 3073,
+ "new_ids": [
+  "bda-de92462d-7f13-453b-8d7b-ae2b7b718f63"
+ ],
  "records": [
   {
    "id": "bda-d39dd441-d097-40bb-9a4e-e0d2f9404eec",
@@ -174,6 +176,27 @@
    "procedure": "a20e846e-8110-4a36-b03a-bf108172b64a",
    "dossier": "TR 083471",
    "first_seen": "2026-11-12T04:15:33Z"
+  },
+  {
+   "id": "bda-de92462d-7f13-453b-8d7b-ae2b7b718f63",
+   "source_type": "BDA",
+   "nom": "Gebouwen. Basisschool en kleuterschool. Vervangen asbesthoudende dakbedekking.",
+   "lieu": "Flandre-Orientale",
+   "province": "Flandre-Orientale",
+   "mo": "Brakel",
+   "etape": 5,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/de92462d-7f13-453b-8d7b-ae2b7b718f63",
+   "verif": "vérifié",
+   "verif_date": "2026-11-12",
+   "preuve": "Bulletin des Adjudications, réf. PPP0C2-1762/6119/2026/018 (attribution, sous-type eForms E4), publié le 2026-11-12.",
+   "date_publication": "2026-11-12",
+   "cpv": "45262660,45261210",
+   "ted_ref": "",
+   "notes": "Gebouwen. Basisschool en kleuterschool. Vervangen asbesthoudende dakbedekking.",
+   "procedure": "018650f5-27c5-470b-9df3-7921e741f5e7",
+   "dossier": "PPP0C2-1762/6119/2026/018",
+   "first_seen": "2026-11-12T07:01:26Z"
   },
   {
    "id": "bda-845e5fc6-18ac-4af6-b3de-3b2d49ab4f82",
@@ -756,7 +779,7 @@
    "verif_date": "2026-11-12",
    "preuve": "Bulletin des Adjudications, réf. PPP01G-3570/6191/CG/2026/012 (avis de marché, sous-type eForms 16), publié le 2026-11-11.",
    "date_publication": "2026-11-11",
-   "cpv": "39224340,34928480,44613800,19520000",
+   "cpv": "39224340,34928480,19520000,44613800",
    "ted_ref": "PPP01G-3570/6191/CG/2026/012_001",
    "notes": "Universiteit Gent - Raamovereenkomst voor het leveren van afvalrecipiënten aan het Centraal Magazijn",
    "procedure": "ce682d41-bc8b-4813-994d-7644fc74f366",
