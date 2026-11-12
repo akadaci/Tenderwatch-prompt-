@@ -1,9 +1,10 @@
 {
  "meta": {
-  "totalCount": 295468
+  "totalCount": 295496
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
+  "ACTIVE|10|['SUPPLIES']",
   "ACTIVE|11|['WORKS']",
   "ACTIVE|15|['SUPPLIES']",
   "ACTIVE|16|['SERVICES', 'SUPPLIES']",
@@ -50,27 +51,6 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45261210-9",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Dakdekkerswerkzaamheden"
-      },
-      {
-       "language": "EN",
-       "text": "Roof-covering work"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de couverture"
-      },
-      {
-       "language": "DE",
-       "text": "Dachdeckarbeiten"
-      }
-     ]
-    },
-    {
      "code": "45262660-5",
      "descriptions": [
       {
@@ -88,6 +68,27 @@
       {
        "language": "EN",
        "text": "Asbestos-removal work"
+      }
+     ]
+    },
+    {
+     "code": "45261210-9",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Dakdekkerswerkzaamheden"
+      },
+      {
+       "language": "EN",
+       "text": "Roof-covering work"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de couverture"
+      },
+      {
+       "language": "DE",
+       "text": "Dachdeckarbeiten"
       }
      ]
     }
@@ -555,27 +556,6 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45261210-9",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Dakdekkerswerkzaamheden"
-      },
-      {
-       "language": "EN",
-       "text": "Roof-covering work"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de couverture"
-      },
-      {
-       "language": "DE",
-       "text": "Dachdeckarbeiten"
-      }
-     ]
-    },
-    {
      "code": "45262660-5",
      "descriptions": [
       {
@@ -593,6 +573,27 @@
       {
        "language": "EN",
        "text": "Asbestos-removal work"
+      }
+     ]
+    },
+    {
+     "code": "45261210-9",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Dakdekkerswerkzaamheden"
+      },
+      {
+       "language": "EN",
+       "text": "Roof-covering work"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de couverture"
+      },
+      {
+       "language": "DE",
+       "text": "Dachdeckarbeiten"
       }
      ]
     }
