@@ -1,16 +1,11 @@
 {
- "updated": "2026-11-12T04:15:33Z",
+ "updated": "2026-11-12T05:01:34Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
  "received": 497,
  "kept": 215,
  "count": 3072,
- "new_ids": [
-  "bda-023bc908-b015-46c7-b986-7eb0fa5cefb8",
-  "bda-9b363b13-627d-4645-9a4c-d40ccea2e066",
-  "bda-5fd9ff53-d220-45a6-a397-fad418559a83",
-  "bda-40c3b448-753e-47c2-b360-ed5540100859"
- ],
+ "new_ids": [],
  "records": [
   {
    "id": "bda-d39dd441-d097-40bb-9a4e-e0d2f9404eec",
@@ -761,7 +756,7 @@
    "verif_date": "2026-11-12",
    "preuve": "Bulletin des Adjudications, réf. PPP01G-3570/6191/CG/2026/012 (avis de marché, sous-type eForms 16), publié le 2026-11-11.",
    "date_publication": "2026-11-11",
-   "cpv": "39224340,34928480,19520000,44613800",
+   "cpv": "39224340,34928480,44613800,19520000",
    "ted_ref": "PPP01G-3570/6191/CG/2026/012_001",
    "notes": "Universiteit Gent - Raamovereenkomst voor het leveren van afvalrecipiënten aan het Centraal Magazijn",
    "procedure": "ce682d41-bc8b-4813-994d-7644fc74f366",
