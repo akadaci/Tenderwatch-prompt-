@@ -1,9 +1,10 @@
 {
  "meta": {
-  "totalCount": 295398
+  "totalCount": 295417
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
+  "ACTIVE|10|['SUPPLIES']",
   "ACTIVE|11|['WORKS']",
   "ACTIVE|15|['SUPPLIES']",
   "ACTIVE|16|['SERVICES', 'SUPPLIES']",
@@ -23,6 +24,7 @@
   "ACTIVE|25|['SUPPLIES']",
   "ACTIVE|29|['SERVICES', 'SUPPLIES']",
   "ACTIVE|29|['SERVICES']",
+  "ACTIVE|29|['SUPPLIES', 'WORKS']",
   "ACTIVE|29|['SUPPLIES']",
   "ACTIVE|29|['WORKS']",
   "ACTIVE|30|['SERVICES']",
@@ -49,27 +51,6 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45262660-5",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Verwijderen van asbest"
-      },
-      {
-       "language": "DE",
-       "text": "Asbestbeseitigungsarbeiten"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de désamiantage"
-      },
-      {
-       "language": "EN",
-       "text": "Asbestos-removal work"
-      }
-     ]
-    },
-    {
      "code": "45261210-9",
      "descriptions": [
       {
@@ -87,6 +68,27 @@
       {
        "language": "DE",
        "text": "Dachdeckarbeiten"
+      }
+     ]
+    },
+    {
+     "code": "45262660-5",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Verwijderen van asbest"
+      },
+      {
+       "language": "DE",
+       "text": "Asbestbeseitigungsarbeiten"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de désamiantage"
+      },
+      {
+       "language": "EN",
+       "text": "Asbestos-removal work"
       }
      ]
     }
@@ -394,144 +396,86 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45331210-1",
+     "code": "45112714-3",
      "descriptions": [
       {
        "language": "FR",
-       "text": "Travaux d'installation de ventilation"
-      },
-      {
-       "language": "EN",
-       "text": "Ventilation installation work"
-      },
-      {
-       "language": "DE",
-       "text": "Installation von Lüftungsanlagen"
+       "text": "Travaux d'aménagement paysager de cimetières"
       },
       {
        "language": "NL",
-       "text": "Installeren van ventilatiesystemen"
-      }
-     ]
-    },
-    {
-     "code": "45321000-3",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Warmte-isolatiewerkzaamheden"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux d'isolation thermique"
+       "text": "Landschappelijk ontwerp voor begraafplaatsen"
       },
       {
        "language": "EN",
-       "text": "Thermal insulation work"
+       "text": "Landscaping work for cemeteries"
       },
       {
        "language": "DE",
-       "text": "Wärmedämmarbeiten"
-      }
-     ]
-    },
-    {
-     "code": "45421000-4",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Travaux de menuiserie"
-      },
-      {
-       "language": "NL",
-       "text": "Bouwtimmerwerk"
-      },
-      {
-       "language": "EN",
-       "text": "Joinery work"
-      },
-      {
-       "language": "DE",
-       "text": "Bautischlerarbeiten"
+       "text": "Landschaftsgärtnerische Bauleistungen für Friedhöfe"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45420000-7",
+    "code": "45112714-3",
     "descriptions": [
      {
       "language": "FR",
-      "text": "Travaux de menuiserie et de charpenterie"
-     },
-     {
-      "language": "DE",
-      "text": "Bautischlerei-Einbauarbeiten"
+      "text": "Travaux d'aménagement paysager de cimetières"
      },
      {
       "language": "NL",
-      "text": "Bouwtimmerwerk en plaatsen van schrijnwerk"
+      "text": "Landschappelijk ontwerp voor begraafplaatsen"
      },
      {
       "language": "EN",
-      "text": "Joinery and carpentry installation work"
+      "text": "Landscaping work for cemeteries"
+     },
+     {
+      "language": "DE",
+      "text": "Landschaftsgärtnerische Bauleistungen für Friedhöfe"
      }
     ]
    },
-   "dispatchDate": "2026-11-11",
+   "dispatchDate": "2026-11-12",
    "dossier": {
     "accreditations": {
-     "D4": 1,
-     "D5": 4,
-     "D18": 1
+     "G3": 2
     },
     "descriptions": [
      {
       "language": "FR",
-      "text": "Le présent marché est un marché de travaux qui s’étend sur des travaux portant sur la rénovation énergétique de l’Espace citoyen. Les travaux comprennent notamment le remplacement des châssis, la remise en service des installations de ventilation ainsi que l’isolation des vides ventilés."
+      "text": "Le présent marché est un marché de travaux. Il porte sur l’aménagement d’un cimetière funéraire à Fexhe-le-Haut-Clocher.   Le présent marché comprend l’exécution des travaux suivants : 1. Terrassement, reprofilage du terrains et création de deux merlons ; 2. Aménagements divers du cimetière : a. Aménagement d’un parvis ; b. Aire de dispersion ; c. Zone de mémoire ; d. Stèle mémorielles ; e. Chemin dalle gazon ; f. Pairies fleuries ; g. Merlons arbustifs ; h. Bandes fleuries ; i. Pergolas et coin poubelle ; j. Zone mémorielle ; k. Cavurnes phase 1 ; l. Stèle mémorielle ; m. Plantation sur le reste du terrain 3. Rénovation de la morgue en colombarium.  Les travaux décrits ci-dessus ne sont pas exhaustifs, le détail des travaux est repris dans les clauses techniques et le métré récapitulatif annexés au présent cahier spécial des charges. "
      }
     ],
     "enterpriseCategories": [
      {
-      "categoryCode": "D5",
+      "categoryCode": "G3",
       "levels": [
-       4,
-       3,
-       2,
-       1
-      ]
-     },
-     {
-      "categoryCode": "D4",
-      "levels": [
-       1
-      ]
-     },
-     {
-      "categoryCode": "D18",
-      "levels": [
-       1
+       1,
+       2
       ]
      }
     ],
     "legalBasis": "D24",
-    "number": "FCO-001",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "FCO-001",
+    "number": "MT/2024-214/Aménagement cimetière de Fexhe",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "MT/2024-214/Aménagement cimetière de Fexhe",
     "titles": [
      {
       "language": "FR",
-      "text": "Rénovation énergétique \"Espace citoyen\""
+      "text": "Aménagement d'un cimetière cinéraire à Fexhe-le-Haut-Clocher"
      }
     ]
    },
-   "insertionDate": "2026-11-11",
+   "insertionDate": "2026-10-08",
    "lots": [
     {
      "descriptions": [
       {
        "language": "FR",
-       "text": "Remplacement des menuiseries extérieures"
+       "text": "Le présent marché est un marché de travaux. Il porte sur l’aménagement d’un cimetière funéraire à Fexhe-le-Haut-Clocher.   Le présent marché comprend l’exécution des travaux suivants : 1. Terrassement, reprofilage du terrains et création de deux merlons ; 2. Aménagements divers du cimetière : a. Aménagement d’un parvis ; b. Aire de dispersion ; c. Zone de mémoire ; d. Stèle mémorielles ; e. Chemin dalle gazon ; f. Pairies fleuries ; g. Merlons arbustifs ; h. Bandes fleuries ; i. Pergolas et coin poubelle ; j. Zone mémorielle ; k. Cavurnes phase 1 ; l. Stèle mémorielle ; m. Plantation sur le reste du terrain 3. Rénovation de la morgue en colombarium.  Les travaux décrits ci-dessus ne sont pas exhaustifs, le détail des travaux est repris dans les clauses techniques et le métré récapitulatif annexés au présent cahier spécial des charges. "
       }
      ],
      "reservedExecution": [
@@ -543,47 +487,7 @@
      "titles": [
       {
        "language": "FR",
-       "text": "FCO-001 - 1"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Remise en service de la ventilation "
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "FCO-001 - 2"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Isolation des vides ventilés"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "FCO-001 - 3"
+       "text": "MT/2024-214/Aménagement cimetière de Fexhe - 1"
       }
      ]
     }
@@ -592,80 +496,65 @@
     "WORKS"
    ],
    "noticeIds": [
-    "707a48d3-0e40-411a-aed8-c330471ad6da"
+    "a5102ea0-f71c-470b-92bd-702b31c19203",
+    "d5733129-7630-4eb6-b98e-b34caabfbc7b",
+    "edab1d06-9548-4d83-adfa-843c4918309d"
    ],
    "noticeSubType": "16",
    "nutsCodes": [
-    "BE342"
+    "BE334"
    ],
    "organisation": {
-    "organisationId": 1005,
+    "organisationId": 467,
     "organisationNames": [
      {
       "language": "DE",
-      "text": "Vielsalm"
+      "text": "Fexhe-Le-Haut-Clocher"
      },
      {
       "language": "NL",
-      "text": "Vielsalm"
+      "text": "Fexhe-Le-Haut-Clocher"
      },
      {
       "language": "FR",
-      "text": "Vielsalm"
+      "text": "Fexhe-Le-Haut-Clocher"
      },
      {
       "language": "EN",
-      "text": "Vielsalm"
+      "text": "Fexhe-Le-Haut-Clocher"
      }
     ],
-    "tree": "200004.200021.1005"
+    "tree": "200004.200021.467"
    },
-   "procedureId": "582461d7-f908-4709-a213-7e67c60ebc40",
-   "publicationDate": "2026-11-11",
+   "procedureId": "aae8abb5-cad5-455c-a1a9-ed5c8db94971",
+   "publicationDate": "2026-11-12",
    "publicationLanguages": [
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "FCO-001_pub01"
+    "MT/2024-214/Aménagement cimetière de Fexhe_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "488bc737-434c-45c7-958d-637fe63290df",
+   "publicationWorkspaceId": "ddbf4f22-a711-4df6-9b02-d6b55e5cdf0b",
    "publishedAt": [
-    "2026-11-11T00:00:45.229685"
+    "2026-11-12T09:57:46.022636",
+    "2026-10-08T11:39:45.109978",
+    "2026-10-08T11:25:45.166448"
    ],
-   "referenceNumber": "FCO-001_pub01",
+   "referenceNumber": "MT/2024-214/Aménagement cimetière de Fexhe_pub01",
    "sentAt": [
-    "2026-11-11T00:00:45.229685"
+    "2026-11-12T09:57:46.022636",
+    "2026-10-08T11:39:45.109978",
+    "2026-10-08T11:25:45.166448"
    ],
    "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-12-03T13:00:00"
+   "vaultSubmissionDeadline": "2026-11-24T11:00:00"
   }
  ],
  "exemple_attribution": [
   {
    "cpvAdditionalCodes": [
-    {
-     "code": "45262660-5",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Verwijderen van asbest"
-      },
-      {
-       "language": "DE",
-       "text": "Asbestbeseitigungsarbeiten"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de désamiantage"
-      },
-      {
-       "language": "EN",
-       "text": "Asbestos-removal work"
-      }
-     ]
-    },
     {
      "code": "45261210-9",
      "descriptions": [
@@ -684,6 +573,27 @@
       {
        "language": "DE",
        "text": "Dachdeckarbeiten"
+      }
+     ]
+    },
+    {
+     "code": "45262660-5",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Verwijderen van asbest"
+      },
+      {
+       "language": "DE",
+       "text": "Asbestbeseitigungsarbeiten"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de désamiantage"
+      },
+      {
+       "language": "EN",
+       "text": "Asbestos-removal work"
       }
      ]
     }
