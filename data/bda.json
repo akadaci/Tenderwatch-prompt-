@@ -1,15 +1,12 @@
 {
- "updated": "2026-11-12T17:02:03Z",
+ "updated": "2026-11-12T19:01:36Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
  "received": 647,
- "kept": 296,
- "count": 3134,
+ "kept": 297,
+ "count": 3135,
  "new_ids": [
-  "bda-81b741a7-eeaa-4fae-b599-db2286e5f946",
-  "bda-a2ee126c-e6ee-463a-8b98-e4f66b866984",
-  "bda-3ff65171-d1c9-4e5f-9122-15217de9f7cd",
-  "bda-eccb7a74-6684-45d4-9de1-2a5f962a9375"
+  "bda-50292a1c-9bce-445d-8e7a-e4aafd1e0221"
  ],
  "records": [
   {
@@ -1901,6 +1898,27 @@
    "procedure": "48c9a846-a8eb-4908-9b6e-b14384b40026",
    "dossier": "DAMAST_2026-07: Renovatie Interieur G- & M-blok",
    "first_seen": "2026-11-12T17:02:03Z"
+  },
+  {
+   "id": "bda-50292a1c-9bce-445d-8e7a-e4aafd1e0221",
+   "source_type": "BDA",
+   "nom": "Alimentation en électricité, fibre optique et eau du hall sportif et de la piscine de la RCA-Sport pour Tous en Centre-Ardenne",
+   "lieu": "Luxembourg (prov.)",
+   "province": "Luxembourg (prov.)",
+   "mo": "Paliseul",
+   "etape": 4,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/50292a1c-9bce-445d-8e7a-e4aafd1e0221",
+   "verif": "vérifié",
+   "verif_date": "2026-11-12",
+   "preuve": "Bulletin des Adjudications, réf. PPP0AS-1795/6111/2026-001 (avis de marché, sous-type eForms 16), publié le 2026-11-12.",
+   "date_publication": "2026-11-12",
+   "cpv": "45311000",
+   "ted_ref": "",
+   "notes": "Alimentation en électricité, fibre optique et eau du hall sportif et de la piscine de la RCA-Sport pour Tous en Centre-Ardenne",
+   "procedure": "8da4a617-671c-4e3c-8ad4-ab460d9e5191",
+   "dossier": "PPP0AS-1795/6111/2026-001",
+   "first_seen": "2026-11-12T19:01:36Z"
   },
   {
    "id": "bda-845e5fc6-18ac-4af6-b3de-3b2d49ab4f82",
