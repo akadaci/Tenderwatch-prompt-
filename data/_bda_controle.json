@@ -388,27 +388,6 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45262700-8",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Travaux de transformation de bâtiments"
-      },
-      {
-       "language": "NL",
-       "text": "Verbouwingswerkzaamheden"
-      },
-      {
-       "language": "DE",
-       "text": "Umbau von Gebäuden"
-      },
-      {
-       "language": "EN",
-       "text": "Building alteration work"
-      }
-     ]
-    },
-    {
      "code": "71315400-3",
      "descriptions": [
       {
@@ -426,6 +405,27 @@
       {
        "language": "FR",
        "text": "Services d'inspection et de vérification de bâtiment"
+      }
+     ]
+    },
+    {
+     "code": "45262700-8",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Travaux de transformation de bâtiments"
+      },
+      {
+       "language": "NL",
+       "text": "Verbouwingswerkzaamheden"
+      },
+      {
+       "language": "DE",
+       "text": "Umbau von Gebäuden"
+      },
+      {
+       "language": "EN",
+       "text": "Building alteration work"
       }
      ]
     },
