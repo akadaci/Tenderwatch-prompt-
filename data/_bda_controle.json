@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 295607
+  "totalCount": 295619
  },
  "types": [
   "ACTIVE|10|['SERVICES', 'SUPPLIES']",
@@ -55,20 +55,20 @@
      "code": "71631000-0",
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Technische inspectiediensten"
-      },
-      {
        "language": "EN",
        "text": "Technical inspection services"
+      },
+      {
+       "language": "FR",
+       "text": "Services d'inspection technique"
       },
       {
        "language": "DE",
        "text": "Technische Kontrolle"
       },
       {
-       "language": "FR",
-       "text": "Services d'inspection technique"
+       "language": "NL",
+       "text": "Technische inspectiediensten"
       }
      ]
     }
@@ -77,20 +77,20 @@
     "code": "71631000-0",
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Technische inspectiediensten"
-     },
-     {
       "language": "EN",
       "text": "Technical inspection services"
+     },
+     {
+      "language": "FR",
+      "text": "Services d'inspection technique"
      },
      {
       "language": "DE",
       "text": "Technische Kontrolle"
      },
      {
-      "language": "FR",
-      "text": "Services d'inspection technique"
+      "language": "NL",
+      "text": "Technische inspectiediensten"
      }
     ]
    },
@@ -203,11 +203,11 @@
     "organisationId": 398,
     "organisationNames": [
      {
-      "language": "FR",
+      "language": "NL",
       "text": "Opwijk"
      },
      {
-      "language": "EN",
+      "language": "FR",
       "text": "Opwijk"
      },
      {
@@ -215,7 +215,7 @@
       "text": "Opwijk"
      },
      {
-      "language": "NL",
+      "language": "EN",
       "text": "Opwijk"
      }
     ],
@@ -251,16 +251,16 @@
        "text": "IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung"
       },
       {
-       "language": "FR",
-       "text": "Services de technologies de l'information, conseil, développement de logiciels, internet et appui"
-      },
-      {
        "language": "NL",
        "text": "IT-diensten: adviezen, softwareontwikkeling, internet en ondersteuning"
       },
       {
        "language": "EN",
        "text": "IT services: consulting, software development, Internet and support"
+      },
+      {
+       "language": "FR",
+       "text": "Services de technologies de l'information, conseil, développement de logiciels, internet et appui"
       }
      ]
     }
@@ -273,16 +273,16 @@
       "text": "IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung"
      },
      {
-      "language": "FR",
-      "text": "Services de technologies de l'information, conseil, développement de logiciels, internet et appui"
-     },
-     {
       "language": "NL",
       "text": "IT-diensten: adviezen, softwareontwikkeling, internet en ondersteuning"
      },
      {
       "language": "EN",
       "text": "IT services: consulting, software development, Internet and support"
+     },
+     {
+      "language": "FR",
+      "text": "Services de technologies de l'information, conseil, développement de logiciels, internet et appui"
      }
     ]
    },
@@ -345,19 +345,19 @@
     "organisationId": 5674,
     "organisationNames": [
      {
-      "language": "NL",
-      "text": "Beheersmaatschappij Antwerpen Mobiel"
-     },
-     {
-      "language": "EN",
-      "text": "Beheersmaatschappij Antwerpen Mobiel"
-     },
-     {
       "language": "FR",
       "text": "Beheersmaatschappij Antwerpen Mobiel"
      },
      {
       "language": "DE",
+      "text": "Beheersmaatschappij Antwerpen Mobiel"
+     },
+     {
+      "language": "NL",
+      "text": "Beheersmaatschappij Antwerpen Mobiel"
+     },
+     {
+      "language": "EN",
       "text": "Beheersmaatschappij Antwerpen Mobiel"
      }
     ],
@@ -387,6 +387,48 @@
   {
    "cpvAdditionalCodes": [
     {
+     "code": "45262700-8",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Travaux de transformation de bâtiments"
+      },
+      {
+       "language": "NL",
+       "text": "Verbouwingswerkzaamheden"
+      },
+      {
+       "language": "DE",
+       "text": "Umbau von Gebäuden"
+      },
+      {
+       "language": "EN",
+       "text": "Building alteration work"
+      }
+     ]
+    },
+    {
+     "code": "71315400-3",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Building-inspection services"
+      },
+      {
+       "language": "DE",
+       "text": "Gebäudeinspektion"
+      },
+      {
+       "language": "NL",
+       "text": "Gebouwinspectiediensten"
+      },
+      {
+       "language": "FR",
+       "text": "Services d'inspection et de vérification de bâtiment"
+      }
+     ]
+    },
+    {
      "code": "50000000-5",
      "descriptions": [
       {
@@ -404,48 +446,6 @@
       {
        "language": "FR",
        "text": "Services de réparation et d'entretien"
-      }
-     ]
-    },
-    {
-     "code": "45262700-8",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Building alteration work"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de transformation de bâtiments"
-      },
-      {
-       "language": "NL",
-       "text": "Verbouwingswerkzaamheden"
-      },
-      {
-       "language": "DE",
-       "text": "Umbau von Gebäuden"
-      }
-     ]
-    },
-    {
-     "code": "71315400-3",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Services d'inspection et de vérification de bâtiment"
-      },
-      {
-       "language": "DE",
-       "text": "Gebäudeinspektion"
-      },
-      {
-       "language": "NL",
-       "text": "Gebouwinspectiediensten"
-      },
-      {
-       "language": "EN",
-       "text": "Building-inspection services"
       }
      ]
     }
@@ -530,7 +530,7 @@
     "organisationId": 711,
     "organisationNames": [
      {
-      "language": "EN",
+      "language": "NL",
       "text": "Antwerpen "
      },
      {
@@ -542,7 +542,7 @@
       "text": "Antwerpen "
      },
      {
-      "language": "NL",
+      "language": "EN",
       "text": "Antwerpen "
      }
     ],
@@ -576,20 +576,20 @@
      "code": "71631000-0",
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Technische inspectiediensten"
-      },
-      {
        "language": "EN",
        "text": "Technical inspection services"
+      },
+      {
+       "language": "FR",
+       "text": "Services d'inspection technique"
       },
       {
        "language": "DE",
        "text": "Technische Kontrolle"
       },
       {
-       "language": "FR",
-       "text": "Services d'inspection technique"
+       "language": "NL",
+       "text": "Technische inspectiediensten"
       }
      ]
     }
@@ -598,20 +598,20 @@
     "code": "71631000-0",
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Technische inspectiediensten"
-     },
-     {
       "language": "EN",
       "text": "Technical inspection services"
+     },
+     {
+      "language": "FR",
+      "text": "Services d'inspection technique"
      },
      {
       "language": "DE",
       "text": "Technische Kontrolle"
      },
      {
-      "language": "FR",
-      "text": "Services d'inspection technique"
+      "language": "NL",
+      "text": "Technische inspectiediensten"
      }
     ]
    },
@@ -724,11 +724,11 @@
     "organisationId": 398,
     "organisationNames": [
      {
-      "language": "FR",
+      "language": "NL",
       "text": "Opwijk"
      },
      {
-      "language": "EN",
+      "language": "FR",
       "text": "Opwijk"
      },
      {
@@ -736,7 +736,7 @@
       "text": "Opwijk"
      },
      {
-      "language": "NL",
+      "language": "EN",
       "text": "Opwijk"
      }
     ],
