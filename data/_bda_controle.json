@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 295644
+  "totalCount": 295645
  },
  "types": [
   "ACTIVE|10|['SERVICES', 'SUPPLIES']",
@@ -50,6 +50,141 @@
   "ACTIVE|E4|['WORKS']"
  ],
  "exemples": [
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "16311100-9",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Maaimachines voor gazons, parken of sportvelden"
+      },
+      {
+       "language": "DE",
+       "text": "Mäher für Rasenflächen, Parkanlagen oder Sportplätze"
+      },
+      {
+       "language": "FR",
+       "text": "Tondeuses à gazon pour pelouses, parcs ou terrains de sports"
+      },
+      {
+       "language": "EN",
+       "text": "Lawn, park or sports-ground mowers"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "16311100-9",
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Maaimachines voor gazons, parken of sportvelden"
+     },
+     {
+      "language": "DE",
+      "text": "Mäher für Rasenflächen, Parkanlagen oder Sportplätze"
+     },
+     {
+      "language": "FR",
+      "text": "Tondeuses à gazon pour pelouses, parcs ou terrains de sports"
+     },
+     {
+      "language": "EN",
+      "text": "Lawn, park or sports-ground mowers"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-14",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Acquisition d'un robot tondeuse"
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP06C-2062/6092/2026-066",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP06C-2062/6092/2026-066",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Acquisition d'un robot tondeuse"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-14",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Acquisition d'un robot tondeuse"
+      }
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Acquisition d'un robot tondeuse"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SUPPLIES"
+   ],
+   "noticeIds": [
+    "76c3609e-5a2b-40fe-8c9a-97e2911b4d5f"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE332"
+   ],
+   "organisation": {
+    "organisationId": 174,
+    "organisationNames": [
+     {
+      "language": "FR",
+      "text": "Commune de Sprimont"
+     },
+     {
+      "language": "DE",
+      "text": "Commune de Sprimont"
+     },
+     {
+      "language": "NL",
+      "text": "Sprimont"
+     },
+     {
+      "language": "EN",
+      "text": "Sprimont"
+     }
+    ],
+    "tree": "200004.200021.174"
+   },
+   "procedureId": "d1b717f0-23e7-4328-a2ff-1824385244c2",
+   "publicationDate": "2026-11-14",
+   "publicationLanguages": [
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP06C-2062/6092/2026-066_002"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "42fcd5f3-1426-48f8-96ec-ba2c81c1fdb1",
+   "publishedAt": [
+    "2026-11-14T00:00:45.020828"
+   ],
+   "referenceNumber": "PPP06C-2062/6092/2026-066_002",
+   "sentAt": [
+    "2026-11-14T00:00:45.020828"
+   ],
+   "tedPublished": false
+  },
   {
    "cpvAdditionalCodes": [
     {
@@ -384,382 +519,141 @@
    ],
    "tedPublished": false,
    "vaultSubmissionDeadline": "2026-12-14T10:00:00"
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "71315400-3",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Building-inspection services"
-      },
-      {
-       "language": "DE",
-       "text": "Gebäudeinspektion"
-      },
-      {
-       "language": "NL",
-       "text": "Gebouwinspectiediensten"
-      },
-      {
-       "language": "FR",
-       "text": "Services d'inspection et de vérification de bâtiment"
-      }
-     ]
-    },
-    {
-     "code": "45262700-8",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Travaux de transformation de bâtiments"
-      },
-      {
-       "language": "NL",
-       "text": "Verbouwingswerkzaamheden"
-      },
-      {
-       "language": "DE",
-       "text": "Umbau von Gebäuden"
-      },
-      {
-       "language": "EN",
-       "text": "Building alteration work"
-      }
-     ]
-    },
-    {
-     "code": "50000000-5",
-     "descriptions": [
-      {
-       "language": "DE",
-       "text": "Reparatur- und Wartungsdienste"
-      },
-      {
-       "language": "EN",
-       "text": "Repair and maintenance services"
-      },
-      {
-       "language": "NL",
-       "text": "Reparatie- en onderhoudsdiensten"
-      },
-      {
-       "language": "FR",
-       "text": "Services de réparation et d'entretien"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "50000000-5",
-    "descriptions": [
-     {
-      "language": "DE",
-      "text": "Reparatur- und Wartungsdienste"
-     },
-     {
-      "language": "EN",
-      "text": "Repair and maintenance services"
-     },
-     {
-      "language": "NL",
-      "text": "Reparatie- en onderhoudsdiensten"
-     },
-     {
-      "language": "FR",
-      "text": "Services de réparation et d'entretien"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-13",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Deze raamovereenkomst betreft het uitvoeren van noodzakelijke onderhouds-, herstellings-, verbeterings- en vervangingswerken aan het Stadhuis van Antwerpen (bruto-oppervlakte 10.171m² - netto-oppervlakte 6.524m²)  inclusief aanleveren van materieel en materiaal voor deze herstellingen. De overeenkomst omvat zowel technische als bouwkundige werkzaamheden.  Deze overeenkomst betreft een tijdelijke opdracht ( negen maanden, twee maal telkens verlengbaar met 3 maanden) voor het  noodzakelijke onderhoud van het gebouw in afwachting van de gunning van een grotere allesomvattende opdracht die later dit jaar openbaar zal worden aanbesteed.    Essentiële vereisten voor deze opdracht zijn professionele samenwerking, , stipte uitvoering, hoge kwaliteitsstandaard, efficiënt technisch beheer, duidelijke & correcte administratie, tijdige & volledige rapportage,  proactief probleembeheer, organisatie van een helpdesk 24/7 en optimaal digitaal samenwerken. Het onderhoud is op afroep en omvat (niet limitatief): • Operationeel houden van alle technische en bouwkundige elementen mits naleven van wettelijke verplichtingen en volgen van richtlijnen van fabrikanten en leveranciers. Opnemen van de verplichte en/of specifieke (wettelijke) controles die door een EDTC of door een erkend technicus uit te voeren zijn. • Minimaliseren van veiligheidsrisico’s voor gebruikers, personeel en infrastructuur. • Maximaliseren van de levensduur van installaties, met aandacht voor economische en technische duurzaamheid. • Het herstellen van de functionaliteit door defecten snel en efficiënt op te lossen. • De aankoop, levering en vervanging van noodzakelijke onderdelen en wisselstukken. • Uitvoeren van preventief, curatief en projectmatig onderhouds-, herstellings-, verbeterings- en vervangingswerken. • Het voorzien van een 24/7 dienstverlening en tussenkomst bij calamiteiten. • Voorkomen van storingen door proactieve en regelmatige inspectierondes, uitvoeren van preventief onderhoud en tijdige interventie(s). • Voldoen aan comforteisen, waaronder: temperatuur, luchtvochtigheid, luchtkwaliteit, luchtsnelheid, luchtverversing, … Temperatuurregeling beheren binnen de mogelijkheden van de aanwezige installaties, conform de richtlijnen van de opdrachtgever. • Optimaliseren van energieverbruik, conform de principes van rationeel energiegebruik en geldende normen.     INFO GEBOUW Het stadhuis is opgenomen op de lijst van UNESCO wereldcultuurerfgoed als onderdeel van de groepsinschrijving Belforten in België en Frankrijk. Het stadhuis werd gebouwd tussen 1561 en 1564, ontworpen door architect Cornelis Floris De Vriendt, overwegend in renaissancestijl. Na de verwoesting in 1576, werd het reeds in 1580 grotendeels hersteld. Van 1853 tot 1898 werd het grondig gerestaureerd, zowel exterieur als interieur. Van 2018 tot 2022 werd een laatste grondige restauratie en ook aanpassing naar huidige ruimte- energetische noden uitgevoerd.     AG VESPA is het autonoom gemeentebedrijf voor vastgoedbeheer en stadsprojecten voor de stad Antwerpen. AG VESPA beheert het stadspatrimonium en geeft uitvoering aan het stadsontwikkelingsbeleid zoals bepaald door het college van burgemeester en schepenen en de  gemeenteraad. Met dit autonoom gemeentebedrijf beschikt het stadbestuur over een instrument om de stadsvernieuwing te concretiseren en realiseren. AG VESPA is operationeel sinds 1 maart 2003.   De aanbestedende overheid beoogt met deze plaatsingsprocedure een raamovereenkomst met een looptijd van negen maanden, twee maal telkens verlengbaar met 3 maanden betreffende het – hierna nader toegelichte – onderhoud van stedelijk patrimonium. Het betreft meer bepaald het onderhoud van het volgende onroerend goed:  Het Stadhuis, Grote Markt 1, 2000 Antwerpen.   Deze opdracht heeft betrekking op de volgende diensten , zoals opgenomen in de Common Procurement Vocabulary (CPV):  • 45262700-8 (Verbouwingswerkzaamheden); • 50000000-5 (Reparatie- en onderhoudsdiensten); • 50700000-2 (Reparatie en onderhoud van uitrusting in gebouwen); • 71315400-3 (Gebouwinspectiediensten). Meer details leest u in de technische bepalingen.  Deze overheidsopdracht beoogt het sluiten van een raamovereenkomst met één deelnemer. De sluiting van deze overeenkomst doet ten aanzien van de opdrachtnemer geen exclusiviteitsrecht ontstaan voor het uitvoeren van opdrachten zoals omschreven in dit bestek. "
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "GAC_2026_03958",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "GAC_2026_03958",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Raamovereenkomst voor  het waarborgen van het noodzakelijk onderhoud, de inspecties, herstellingen, verbeteringswerken en vervangingswerken aan Stadhuis"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-13",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Raamovereenkomst voor  het waarborgen van het noodzakelijk onderhoud, de inspecties, herstellingen, verbeteringswerken en vervangingswerken aan Stadhuis"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "GAC_2026_03958 - 1"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SERVICES"
-   ],
-   "noticeIds": [
-    "52b889d1-4293-4bc1-8e3a-0533bbc26a46"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE211"
-   ],
-   "organisation": {
-    "organisationId": 711,
-    "organisationNames": [
-     {
-      "language": "NL",
-      "text": "Antwerpen "
-     },
-     {
-      "language": "FR",
-      "text": "Antwerpen "
-     },
-     {
-      "language": "DE",
-      "text": "Antwerpen "
-     },
-     {
-      "language": "EN",
-      "text": "Antwerpen "
-     }
-    ],
-    "tree": "200004.200021.711"
-   },
-   "procedureId": "b58e1a57-0f0b-42a7-9a91-d0d4a6f36fb8",
-   "publicationDate": "2026-11-13",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "GAC_2026_03958_pub02"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "cc4d560f-5e92-4ad6-9ef3-b271f3b60e71",
-   "publishedAt": [
-    "2026-11-13T09:06:46.015353"
-   ],
-   "referenceNumber": "GAC_2026_03958_pub02",
-   "sentAt": [
-    "2026-11-13T09:06:46.015353"
-   ],
-   "tedPublished": false
   }
  ],
  "exemple_attribution": [
   {
    "cpvAdditionalCodes": [
     {
-     "code": "71631000-0",
+     "code": "16311100-9",
      "descriptions": [
       {
-       "language": "EN",
-       "text": "Technical inspection services"
-      },
-      {
-       "language": "FR",
-       "text": "Services d'inspection technique"
+       "language": "NL",
+       "text": "Maaimachines voor gazons, parken of sportvelden"
       },
       {
        "language": "DE",
-       "text": "Technische Kontrolle"
+       "text": "Mäher für Rasenflächen, Parkanlagen oder Sportplätze"
       },
       {
-       "language": "NL",
-       "text": "Technische inspectiediensten"
+       "language": "FR",
+       "text": "Tondeuses à gazon pour pelouses, parcs ou terrains de sports"
+      },
+      {
+       "language": "EN",
+       "text": "Lawn, park or sports-ground mowers"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "71631000-0",
+    "code": "16311100-9",
     "descriptions": [
      {
-      "language": "EN",
-      "text": "Technical inspection services"
-     },
-     {
-      "language": "FR",
-      "text": "Services d'inspection technique"
+      "language": "NL",
+      "text": "Maaimachines voor gazons, parken of sportvelden"
      },
      {
       "language": "DE",
-      "text": "Technische Kontrolle"
+      "text": "Mäher für Rasenflächen, Parkanlagen oder Sportplätze"
      },
      {
-      "language": "NL",
-      "text": "Technische inspectiediensten"
+      "language": "FR",
+      "text": "Tondeuses à gazon pour pelouses, parcs ou terrains de sports"
+     },
+     {
+      "language": "EN",
+      "text": "Lawn, park or sports-ground mowers"
      }
     ]
    },
-   "dispatchDate": "2026-11-13",
+   "dispatchDate": "2026-11-14",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Periodieke keuringen en controles van diverse technische installaties van gemeente/OCMW Opwijk en zorgvereniging OPcura volgens de wettelijke reglementering en volgens de interne regels van de aanbestedende overheid."
+      "language": "FR",
+      "text": "Acquisition d'un robot tondeuse"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP01X-1675/6094/Prev_2027_001",
+    "number": "PPP06C-2062/6092/2026-066",
     "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP01X-1675/6094/Prev_2027_001",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "referenceNumber": "PPP06C-2062/6092/2026-066",
     "titles": [
      {
-      "language": "NL",
-      "text": "Uitvoeren van periodieke keuringen en controles van diverse technische installaties van Gemeente en OCMW Opwijk en Zorgvereniging OPcura voor de periode van 1 januari 2027 t.e.m. 31 december 2031"
+      "language": "FR",
+      "text": "Acquisition d'un robot tondeuse"
      }
     ]
    },
-   "insertionDate": "2026-11-13",
+   "insertionDate": "2026-11-14",
    "lots": [
     {
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Periodieke keuring van laag- en hoogspanningsinstallaties"
+       "language": "FR",
+       "text": "Acquisition d'un robot tondeuse"
       }
      ],
      "titles": [
       {
-       "language": "NL",
-       "text": "Periodieke keuring van laag- en hoogspanningsinstallaties"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Periodieke keuring van liften, hef-en hijstoestellen en veiligheidsmaterialen"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Periodieke keuring van liften, hef-en hijstoestellen en veiligheidsmaterialen"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Periodiek nazicht andere arbeidsmiddelen"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Periodiek nazicht andere arbeidsmiddelen"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Periodieke keuring van gasdichtheid van binneninstallaties gas"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Periodieke keuring van gasdichtheid van binneninstallaties gas"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Periodiek nazicht van stellingen en tribunes, sport-en spelmaterialen"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Periodiek nazicht van stellingen en tribunes, sport-en spelmaterialen"
+       "language": "FR",
+       "text": "Acquisition d'un robot tondeuse"
       }
      ]
     }
    ],
    "natures": [
-    "SERVICES"
+    "SUPPLIES"
    ],
    "noticeIds": [
-    "abc44832-1614-40e2-b714-ae64c97b029d"
+    "76c3609e-5a2b-40fe-8c9a-97e2911b4d5f"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE241"
+    "BE332"
    ],
    "organisation": {
-    "organisationId": 398,
+    "organisationId": 174,
     "organisationNames": [
      {
-      "language": "NL",
-      "text": "Opwijk"
-     },
-     {
       "language": "FR",
-      "text": "Opwijk"
+      "text": "Commune de Sprimont"
      },
      {
       "language": "DE",
-      "text": "Opwijk"
+      "text": "Commune de Sprimont"
+     },
+     {
+      "language": "NL",
+      "text": "Sprimont"
      },
      {
       "language": "EN",
-      "text": "Opwijk"
+      "text": "Sprimont"
      }
     ],
-    "tree": "200004.200021.398"
+    "tree": "200004.200021.174"
    },
-   "procedureId": "fc8573f3-5bc9-46bf-b673-1aebefb97da5",
-   "publicationDate": "2026-11-13",
+   "procedureId": "d1b717f0-23e7-4328-a2ff-1824385244c2",
+   "publicationDate": "2026-11-14",
    "publicationLanguages": [
-    "NL"
+    "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP01X-1675/6094/Prev_2027_001_002"
+    "PPP06C-2062/6092/2026-066_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "92947c27-1b99-400b-b5ad-b960901d0fe0",
+   "publicationWorkspaceId": "42fcd5f3-1426-48f8-96ec-ba2c81c1fdb1",
    "publishedAt": [
-    "2026-11-13T08:46:46.014112"
+    "2026-11-14T00:00:45.020828"
    ],
-   "referenceNumber": "PPP01X-1675/6094/Prev_2027_001_002",
+   "referenceNumber": "PPP06C-2062/6092/2026-066_002",
    "sentAt": [
-    "2026-11-13T08:46:46.014112"
+    "2026-11-14T00:00:45.020828"
    ],
    "tedPublished": false
   }
