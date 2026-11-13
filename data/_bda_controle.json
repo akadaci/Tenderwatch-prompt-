@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 295591
+  "totalCount": 295607
  },
  "types": [
   "ACTIVE|10|['SERVICES', 'SUPPLIES']",
@@ -10,6 +10,7 @@
   "ACTIVE|16|['SERVICES', 'SUPPLIES']",
   "ACTIVE|16|['SERVICES', 'WORKS']",
   "ACTIVE|16|['SERVICES']",
+  "ACTIVE|16|['SUPPLIES', 'WORKS']",
   "ACTIVE|16|['SUPPLIES']",
   "ACTIVE|16|['WORKS']",
   "ACTIVE|17|['SERVICES', 'SUPPLIES']",
@@ -51,45 +52,45 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45000000-7",
+     "code": "71631000-0",
      "descriptions": [
       {
-       "language": "DE",
-       "text": "Bauarbeiten"
-      },
-      {
        "language": "NL",
-       "text": "Bouwwerkzaamheden"
+       "text": "Technische inspectiediensten"
       },
       {
        "language": "EN",
-       "text": "Construction work"
+       "text": "Technical inspection services"
+      },
+      {
+       "language": "DE",
+       "text": "Technische Kontrolle"
       },
       {
        "language": "FR",
-       "text": "Travaux de construction"
+       "text": "Services d'inspection technique"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45000000-7",
+    "code": "71631000-0",
     "descriptions": [
      {
-      "language": "DE",
-      "text": "Bauarbeiten"
-     },
-     {
       "language": "NL",
-      "text": "Bouwwerkzaamheden"
+      "text": "Technische inspectiediensten"
      },
      {
       "language": "EN",
-      "text": "Construction work"
+      "text": "Technical inspection services"
+     },
+     {
+      "language": "DE",
+      "text": "Technische Kontrolle"
      },
      {
       "language": "FR",
-      "text": "Travaux de construction"
+      "text": "Services d'inspection technique"
      }
     ]
    },
@@ -98,20 +99,20 @@
     "accreditations": {},
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Mise à niveau de trappillons et d'avaloirs"
+      "language": "NL",
+      "text": "Periodieke keuringen en controles van diverse technische installaties van gemeente/OCMW Opwijk en zorgvereniging OPcura volgens de wettelijke reglementering en volgens de interne regels van de aanbestedende overheid."
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP05W-3554/6136/2026/0031 - Trappillons et avaloirs",
+    "number": "PPP01X-1675/6094/Prev_2027_001",
     "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP05W-3554/6136/2026/0031 - Trappillons et avaloirs",
+    "referenceNumber": "PPP01X-1675/6094/Prev_2027_001",
     "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
-      "language": "FR",
-      "text": "Mise à niveau de trappillons et d'avaloirs"
+      "language": "NL",
+      "text": "Uitvoeren van periodieke keuringen en controles van diverse technische installaties van Gemeente en OCMW Opwijk en Zorgvereniging OPcura voor de periode van 1 januari 2027 t.e.m. 31 december 2031"
      }
     ]
    },
@@ -120,112 +121,168 @@
     {
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Mise à niveau de trappillons et d'avaloirs"
+       "language": "NL",
+       "text": "Periodieke keuring van laag- en hoogspanningsinstallaties"
       }
      ],
      "titles": [
       {
-       "language": "FR",
-       "text": "Mise à niveau de trappillons et d'avaloirs"
+       "language": "NL",
+       "text": "Periodieke keuring van laag- en hoogspanningsinstallaties"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Periodieke keuring van liften, hef-en hijstoestellen en veiligheidsmaterialen"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Periodieke keuring van liften, hef-en hijstoestellen en veiligheidsmaterialen"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Periodiek nazicht andere arbeidsmiddelen"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Periodiek nazicht andere arbeidsmiddelen"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Periodieke keuring van gasdichtheid van binneninstallaties gas"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Periodieke keuring van gasdichtheid van binneninstallaties gas"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Periodiek nazicht van stellingen en tribunes, sport-en spelmaterialen"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Periodiek nazicht van stellingen en tribunes, sport-en spelmaterialen"
       }
      ]
     }
    ],
    "natures": [
-    "WORKS"
+    "SERVICES"
    ],
    "noticeIds": [
-    "ad92ecd7-3b6d-46e1-899a-597f045e5e9e"
+    "abc44832-1614-40e2-b714-ae64c97b029d"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE32B"
+    "BE241"
    ],
    "organisation": {
-    "organisationId": 171,
+    "organisationId": 398,
     "organisationNames": [
      {
-      "language": "EN",
-      "text": "Châtelet "
+      "language": "FR",
+      "text": "Opwijk"
      },
      {
-      "language": "FR",
-      "text": "Châtelet "
+      "language": "EN",
+      "text": "Opwijk"
      },
      {
       "language": "DE",
-      "text": "Châtelet "
+      "text": "Opwijk"
      },
      {
       "language": "NL",
-      "text": "Châtelet "
+      "text": "Opwijk"
      }
     ],
-    "tree": "200004.200021.171"
+    "tree": "200004.200021.398"
    },
-   "procedureId": "af11d16a-3637-4a92-9863-01f13ca24ab9",
+   "procedureId": "fc8573f3-5bc9-46bf-b673-1aebefb97da5",
    "publicationDate": "2026-11-13",
    "publicationLanguages": [
-    "FR"
+    "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP05W-3554/6136/2026/0031 - Trappillons et avaloirs_002"
+    "PPP01X-1675/6094/Prev_2027_001_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "9c04c515-8bb7-47a1-86ec-2fbbebc8bcbb",
+   "publicationWorkspaceId": "92947c27-1b99-400b-b5ad-b960901d0fe0",
    "publishedAt": [
-    "2026-11-13T00:00:50.034544"
+    "2026-11-13T08:46:46.014112"
    ],
-   "referenceNumber": "PPP05W-3554/6136/2026/0031 - Trappillons et avaloirs_002",
+   "referenceNumber": "PPP01X-1675/6094/Prev_2027_001_002",
    "sentAt": [
-    "2026-11-13T00:00:50.034544"
+    "2026-11-13T08:46:46.014112"
    ],
    "tedPublished": false
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45320000-6",
+     "code": "72000000-5",
      "descriptions": [
       {
        "language": "DE",
-       "text": "Abdichtungs- und Dämmarbeiten"
+       "text": "IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung"
       },
       {
        "language": "FR",
-       "text": "Travaux d'isolation"
+       "text": "Services de technologies de l'information, conseil, développement de logiciels, internet et appui"
       },
       {
        "language": "NL",
-       "text": "Isolatiewerkzaamheden"
+       "text": "IT-diensten: adviezen, softwareontwikkeling, internet en ondersteuning"
       },
       {
        "language": "EN",
-       "text": "Insulation work"
+       "text": "IT services: consulting, software development, Internet and support"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45320000-6",
+    "code": "72000000-5",
     "descriptions": [
      {
       "language": "DE",
-      "text": "Abdichtungs- und Dämmarbeiten"
+      "text": "IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung"
      },
      {
       "language": "FR",
-      "text": "Travaux d'isolation"
+      "text": "Services de technologies de l'information, conseil, développement de logiciels, internet et appui"
      },
      {
       "language": "NL",
-      "text": "Isolatiewerkzaamheden"
+      "text": "IT-diensten: adviezen, softwareontwikkeling, internet en ondersteuning"
      },
      {
       "language": "EN",
-      "text": "Insulation work"
+      "text": "IT services: consulting, software development, Internet and support"
      }
     ]
    },
@@ -234,19 +291,20 @@
     "accreditations": {},
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Isolation de la conciergerie et des locaux du personnel au dépôt communal - BIS"
+      "language": "NL",
+      "text": "Floating Car Data"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP0B5-2636/6155/2026/519",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP0B5-2636/6155/2026/519",
+    "number": "PPP1HI-435/6148/BAM 2026-435",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "PPP1HI-435/6148/BAM 2026-435",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
-      "language": "FR",
-      "text": "Isolation de la conciergerie et des locaux du personnel au dépôt communal - BIS"
+      "language": "NL",
+      "text": "Floating Car Data"
      }
     ]
    },
@@ -255,112 +313,161 @@
     {
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Isolation de la conciergerie et des locaux du personnel au dépôt communal - BIS"
+       "language": "NL",
+       "text": "Floating Car Data"
       }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
      ],
      "titles": [
       {
-       "language": "FR",
-       "text": "Isolation de la conciergerie et des locaux du personnel au dépôt communal - BIS"
+       "language": "NL",
+       "text": "Floating Car Data"
       }
      ]
     }
    ],
    "natures": [
-    "WORKS"
+    "SERVICES"
    ],
    "noticeIds": [
-    "ebf89846-03a9-4b4b-8ea4-f3656d83098c"
+    "01816a03-feae-4573-9d53-892e9bb0ed04"
    ],
-   "noticeSubType": "E4",
+   "noticeSubType": "16",
    "nutsCodes": [
-    "BE334"
+    "BE211"
    ],
    "organisation": {
-    "organisationId": 407,
+    "organisationId": 5674,
     "organisationNames": [
      {
-      "language": "DE",
-      "text": "Hannut"
-     },
-     {
       "language": "NL",
-      "text": "Hannut"
-     },
-     {
-      "language": "FR",
-      "text": "Hannut"
+      "text": "Beheersmaatschappij Antwerpen Mobiel"
      },
      {
       "language": "EN",
-      "text": "Hannut"
+      "text": "Beheersmaatschappij Antwerpen Mobiel"
+     },
+     {
+      "language": "FR",
+      "text": "Beheersmaatschappij Antwerpen Mobiel"
+     },
+     {
+      "language": "DE",
+      "text": "Beheersmaatschappij Antwerpen Mobiel"
      }
     ],
-    "tree": "200004.200021.407"
+    "tree": "200003.200015.73.4638.5674"
    },
-   "procedureId": "c7fcd4e7-1374-41c1-aa6b-d116bbe2f22e",
+   "procedureId": "d01ee754-8807-4eb7-b59f-c3466d023e6f",
    "publicationDate": "2026-11-13",
    "publicationLanguages": [
-    "FR"
+    "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP0B5-2636/6155/2026/519_002"
+    "PPP1HI-435/6148/BAM 2026-435_001"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "4a086132-0298-4222-9e7e-7600df82381d",
+   "publicationWorkspaceId": "18de6dc9-2999-42b4-9c57-7d5e50a47221",
    "publishedAt": [
-    "2026-11-13T00:00:49.897599"
+    "2026-11-13T08:48:46.013069"
    ],
-   "referenceNumber": "PPP0B5-2636/6155/2026/519_002",
+   "referenceNumber": "PPP1HI-435/6148/BAM 2026-435_001",
    "sentAt": [
-    "2026-11-13T00:00:49.897599"
+    "2026-11-13T08:48:46.013069"
    ],
-   "tedPublished": false
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-12-14T10:00:00"
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45232400-6",
+     "code": "50000000-5",
      "descriptions": [
       {
-       "language": "EN",
-       "text": "Sewer construction work"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de construction d'égouts"
-      },
-      {
        "language": "DE",
-       "text": "Bauarbeiten für Abwasserkanäle"
+       "text": "Reparatur- und Wartungsdienste"
+      },
+      {
+       "language": "EN",
+       "text": "Repair and maintenance services"
       },
       {
        "language": "NL",
-       "text": "Bouwwerkzaamheden voor riool"
+       "text": "Reparatie- en onderhoudsdiensten"
+      },
+      {
+       "language": "FR",
+       "text": "Services de réparation et d'entretien"
+      }
+     ]
+    },
+    {
+     "code": "45262700-8",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Building alteration work"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de transformation de bâtiments"
+      },
+      {
+       "language": "NL",
+       "text": "Verbouwingswerkzaamheden"
+      },
+      {
+       "language": "DE",
+       "text": "Umbau von Gebäuden"
+      }
+     ]
+    },
+    {
+     "code": "71315400-3",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Services d'inspection et de vérification de bâtiment"
+      },
+      {
+       "language": "DE",
+       "text": "Gebäudeinspektion"
+      },
+      {
+       "language": "NL",
+       "text": "Gebouwinspectiediensten"
+      },
+      {
+       "language": "EN",
+       "text": "Building-inspection services"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45232400-6",
+    "code": "50000000-5",
     "descriptions": [
      {
-      "language": "EN",
-      "text": "Sewer construction work"
-     },
-     {
-      "language": "FR",
-      "text": "Travaux de construction d'égouts"
-     },
-     {
       "language": "DE",
-      "text": "Bauarbeiten für Abwasserkanäle"
+      "text": "Reparatur- und Wartungsdienste"
+     },
+     {
+      "language": "EN",
+      "text": "Repair and maintenance services"
      },
      {
       "language": "NL",
-      "text": "Bouwwerkzaamheden voor riool"
+      "text": "Reparatie- en onderhoudsdiensten"
+     },
+     {
+      "language": "FR",
+      "text": "Services de réparation et d'entretien"
      }
     ]
    },
@@ -369,19 +476,20 @@
     "accreditations": {},
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Travaux d'intervention en voirie et égouttage"
+      "language": "NL",
+      "text": "Deze raamovereenkomst betreft het uitvoeren van noodzakelijke onderhouds-, herstellings-, verbeterings- en vervangingswerken aan het Stadhuis van Antwerpen (bruto-oppervlakte 10.171m² - netto-oppervlakte 6.524m²)  inclusief aanleveren van materieel en materiaal voor deze herstellingen. De overeenkomst omvat zowel technische als bouwkundige werkzaamheden.  Deze overeenkomst betreft een tijdelijke opdracht ( negen maanden, twee maal telkens verlengbaar met 3 maanden) voor het  noodzakelijke onderhoud van het gebouw in afwachting van de gunning van een grotere allesomvattende opdracht die later dit jaar openbaar zal worden aanbesteed.    Essentiële vereisten voor deze opdracht zijn professionele samenwerking, , stipte uitvoering, hoge kwaliteitsstandaard, efficiënt technisch beheer, duidelijke & correcte administratie, tijdige & volledige rapportage,  proactief probleembeheer, organisatie van een helpdesk 24/7 en optimaal digitaal samenwerken. Het onderhoud is op afroep en omvat (niet limitatief): • Operationeel houden van alle technische en bouwkundige elementen mits naleven van wettelijke verplichtingen en volgen van richtlijnen van fabrikanten en leveranciers. Opnemen van de verplichte en/of specifieke (wettelijke) controles die door een EDTC of door een erkend technicus uit te voeren zijn. • Minimaliseren van veiligheidsrisico’s voor gebruikers, personeel en infrastructuur. • Maximaliseren van de levensduur van installaties, met aandacht voor economische en technische duurzaamheid. • Het herstellen van de functionaliteit door defecten snel en efficiënt op te lossen. • De aankoop, levering en vervanging van noodzakelijke onderdelen en wisselstukken. • Uitvoeren van preventief, curatief en projectmatig onderhouds-, herstellings-, verbeterings- en vervangingswerken. • Het voorzien van een 24/7 dienstverlening en tussenkomst bij calamiteiten. • Voorkomen van storingen door proactieve en regelmatige inspectierondes, uitvoeren van preventief onderhoud en tijdige interventie(s). • Voldoen aan comforteisen, waaronder: temperatuur, luchtvochtigheid, luchtkwaliteit, luchtsnelheid, luchtverversing, … Temperatuurregeling beheren binnen de mogelijkheden van de aanwezige installaties, conform de richtlijnen van de opdrachtgever. • Optimaliseren van energieverbruik, conform de principes van rationeel energiegebruik en geldende normen.     INFO GEBOUW Het stadhuis is opgenomen op de lijst van UNESCO wereldcultuurerfgoed als onderdeel van de groepsinschrijving Belforten in België en Frankrijk. Het stadhuis werd gebouwd tussen 1561 en 1564, ontworpen door architect Cornelis Floris De Vriendt, overwegend in renaissancestijl. Na de verwoesting in 1576, werd het reeds in 1580 grotendeels hersteld. Van 1853 tot 1898 werd het grondig gerestaureerd, zowel exterieur als interieur. Van 2018 tot 2022 werd een laatste grondige restauratie en ook aanpassing naar huidige ruimte- energetische noden uitgevoerd.     AG VESPA is het autonoom gemeentebedrijf voor vastgoedbeheer en stadsprojecten voor de stad Antwerpen. AG VESPA beheert het stadspatrimonium en geeft uitvoering aan het stadsontwikkelingsbeleid zoals bepaald door het college van burgemeester en schepenen en de  gemeenteraad. Met dit autonoom gemeentebedrijf beschikt het stadbestuur over een instrument om de stadsvernieuwing te concretiseren en realiseren. AG VESPA is operationeel sinds 1 maart 2003.   De aanbestedende overheid beoogt met deze plaatsingsprocedure een raamovereenkomst met een looptijd van negen maanden, twee maal telkens verlengbaar met 3 maanden betreffende het – hierna nader toegelichte – onderhoud van stedelijk patrimonium. Het betreft meer bepaald het onderhoud van het volgende onroerend goed:  Het Stadhuis, Grote Markt 1, 2000 Antwerpen.   Deze opdracht heeft betrekking op de volgende diensten , zoals opgenomen in de Common Procurement Vocabulary (CPV):  • 45262700-8 (Verbouwingswerkzaamheden); • 50000000-5 (Reparatie- en onderhoudsdiensten); • 50700000-2 (Reparatie en onderhoud van uitrusting in gebouwen); • 71315400-3 (Gebouwinspectiediensten). Meer details leest u in de technische bepalingen.  Deze overheidsopdracht beoogt het sluiten van een raamovereenkomst met één deelnemer. De sluiting van deze overeenkomst doet ten aanzien van de opdrachtnemer geen exclusiviteitsrecht ontstaan voor het uitvoeren van opdrachten zoals omschreven in dit bestek. "
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP05W-3560/6139/2026/0127",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP05W-3560/6139/2026/0127",
+    "number": "GAC_2026_03958",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "GAC_2026_03958",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
-      "language": "FR",
-      "text": "Travaux d'intervention en voirie et égouttage"
+      "language": "NL",
+      "text": "Raamovereenkomst voor  het waarborgen van het noodzakelijk onderhoud, de inspecties, herstellingen, verbeteringswerken en vervangingswerken aan Stadhuis"
      }
     ]
    },
@@ -390,67 +498,73 @@
     {
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Travaux d'intervention en voirie et égouttage"
+       "language": "NL",
+       "text": "Raamovereenkomst voor  het waarborgen van het noodzakelijk onderhoud, de inspecties, herstellingen, verbeteringswerken en vervangingswerken aan Stadhuis"
       }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
      ],
      "titles": [
       {
-       "language": "FR",
-       "text": "Travaux d'intervention en voirie et égouttage"
+       "language": "NL",
+       "text": "GAC_2026_03958 - 1"
       }
      ]
     }
    ],
    "natures": [
-    "WORKS"
+    "SERVICES"
    ],
    "noticeIds": [
-    "3ea7914a-af4c-4d5d-b7d1-e14bb92551e8"
+    "52b889d1-4293-4bc1-8e3a-0533bbc26a46"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE32B"
+    "BE211"
    ],
    "organisation": {
-    "organisationId": 171,
+    "organisationId": 711,
     "organisationNames": [
      {
       "language": "EN",
-      "text": "Châtelet "
+      "text": "Antwerpen "
      },
      {
       "language": "FR",
-      "text": "Châtelet "
+      "text": "Antwerpen "
      },
      {
       "language": "DE",
-      "text": "Châtelet "
+      "text": "Antwerpen "
      },
      {
       "language": "NL",
-      "text": "Châtelet "
+      "text": "Antwerpen "
      }
     ],
-    "tree": "200004.200021.171"
+    "tree": "200004.200021.711"
    },
-   "procedureId": "854bee48-b0bf-496b-9570-337c603dc3ef",
+   "procedureId": "b58e1a57-0f0b-42a7-9a91-d0d4a6f36fb8",
    "publicationDate": "2026-11-13",
    "publicationLanguages": [
-    "FR"
+    "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP05W-3560/6139/2026/0127_002"
+    "GAC_2026_03958_pub02"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "0320b403-1951-4df6-b9a2-abead93a5ba3",
+   "publicationWorkspaceId": "cc4d560f-5e92-4ad6-9ef3-b271f3b60e71",
    "publishedAt": [
-    "2026-11-13T00:00:47.477558"
+    "2026-11-13T09:06:46.015353"
    ],
-   "referenceNumber": "PPP05W-3560/6139/2026/0127_002",
+   "referenceNumber": "GAC_2026_03958_pub02",
    "sentAt": [
-    "2026-11-13T00:00:47.477558"
+    "2026-11-13T09:06:46.015353"
    ],
    "tedPublished": false
   }
@@ -459,45 +573,45 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45000000-7",
+     "code": "71631000-0",
      "descriptions": [
       {
-       "language": "DE",
-       "text": "Bauarbeiten"
-      },
-      {
        "language": "NL",
-       "text": "Bouwwerkzaamheden"
+       "text": "Technische inspectiediensten"
       },
       {
        "language": "EN",
-       "text": "Construction work"
+       "text": "Technical inspection services"
+      },
+      {
+       "language": "DE",
+       "text": "Technische Kontrolle"
       },
       {
        "language": "FR",
-       "text": "Travaux de construction"
+       "text": "Services d'inspection technique"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45000000-7",
+    "code": "71631000-0",
     "descriptions": [
      {
-      "language": "DE",
-      "text": "Bauarbeiten"
-     },
-     {
       "language": "NL",
-      "text": "Bouwwerkzaamheden"
+      "text": "Technische inspectiediensten"
      },
      {
       "language": "EN",
-      "text": "Construction work"
+      "text": "Technical inspection services"
+     },
+     {
+      "language": "DE",
+      "text": "Technische Kontrolle"
      },
      {
       "language": "FR",
-      "text": "Travaux de construction"
+      "text": "Services d'inspection technique"
      }
     ]
    },
@@ -506,20 +620,20 @@
     "accreditations": {},
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Mise à niveau de trappillons et d'avaloirs"
+      "language": "NL",
+      "text": "Periodieke keuringen en controles van diverse technische installaties van gemeente/OCMW Opwijk en zorgvereniging OPcura volgens de wettelijke reglementering en volgens de interne regels van de aanbestedende overheid."
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP05W-3554/6136/2026/0031 - Trappillons et avaloirs",
+    "number": "PPP01X-1675/6094/Prev_2027_001",
     "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP05W-3554/6136/2026/0031 - Trappillons et avaloirs",
+    "referenceNumber": "PPP01X-1675/6094/Prev_2027_001",
     "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
-      "language": "FR",
-      "text": "Mise à niveau de trappillons et d'avaloirs"
+      "language": "NL",
+      "text": "Uitvoeren van periodieke keuringen en controles van diverse technische installaties van Gemeente en OCMW Opwijk en Zorgvereniging OPcura voor de periode van 1 januari 2027 t.e.m. 31 december 2031"
      }
     ]
    },
@@ -528,67 +642,123 @@
     {
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Mise à niveau de trappillons et d'avaloirs"
+       "language": "NL",
+       "text": "Periodieke keuring van laag- en hoogspanningsinstallaties"
       }
      ],
      "titles": [
       {
-       "language": "FR",
-       "text": "Mise à niveau de trappillons et d'avaloirs"
+       "language": "NL",
+       "text": "Periodieke keuring van laag- en hoogspanningsinstallaties"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Periodieke keuring van liften, hef-en hijstoestellen en veiligheidsmaterialen"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Periodieke keuring van liften, hef-en hijstoestellen en veiligheidsmaterialen"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Periodiek nazicht andere arbeidsmiddelen"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Periodiek nazicht andere arbeidsmiddelen"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Periodieke keuring van gasdichtheid van binneninstallaties gas"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Periodieke keuring van gasdichtheid van binneninstallaties gas"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Periodiek nazicht van stellingen en tribunes, sport-en spelmaterialen"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Periodiek nazicht van stellingen en tribunes, sport-en spelmaterialen"
       }
      ]
     }
    ],
    "natures": [
-    "WORKS"
+    "SERVICES"
    ],
    "noticeIds": [
-    "ad92ecd7-3b6d-46e1-899a-597f045e5e9e"
+    "abc44832-1614-40e2-b714-ae64c97b029d"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE32B"
+    "BE241"
    ],
    "organisation": {
-    "organisationId": 171,
+    "organisationId": 398,
     "organisationNames": [
      {
-      "language": "EN",
-      "text": "Châtelet "
+      "language": "FR",
+      "text": "Opwijk"
      },
      {
-      "language": "FR",
-      "text": "Châtelet "
+      "language": "EN",
+      "text": "Opwijk"
      },
      {
       "language": "DE",
-      "text": "Châtelet "
+      "text": "Opwijk"
      },
      {
       "language": "NL",
-      "text": "Châtelet "
+      "text": "Opwijk"
      }
     ],
-    "tree": "200004.200021.171"
+    "tree": "200004.200021.398"
    },
-   "procedureId": "af11d16a-3637-4a92-9863-01f13ca24ab9",
+   "procedureId": "fc8573f3-5bc9-46bf-b673-1aebefb97da5",
    "publicationDate": "2026-11-13",
    "publicationLanguages": [
-    "FR"
+    "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP05W-3554/6136/2026/0031 - Trappillons et avaloirs_002"
+    "PPP01X-1675/6094/Prev_2027_001_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "9c04c515-8bb7-47a1-86ec-2fbbebc8bcbb",
+   "publicationWorkspaceId": "92947c27-1b99-400b-b5ad-b960901d0fe0",
    "publishedAt": [
-    "2026-11-13T00:00:50.034544"
+    "2026-11-13T08:46:46.014112"
    ],
-   "referenceNumber": "PPP05W-3554/6136/2026/0031 - Trappillons et avaloirs_002",
+   "referenceNumber": "PPP01X-1675/6094/Prev_2027_001_002",
    "sentAt": [
-    "2026-11-13T00:00:50.034544"
+    "2026-11-13T08:46:46.014112"
    ],
    "tedPublished": false
   }
