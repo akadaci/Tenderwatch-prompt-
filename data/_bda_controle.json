@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 295645
+  "totalCount": 295646
  },
  "types": [
   "ACTIVE|10|['SERVICES', 'SUPPLIES']",
@@ -182,6 +182,141 @@
    "referenceNumber": "PPP06C-2062/6092/2026-066_002",
    "sentAt": [
     "2026-11-14T00:00:45.020828"
+   ],
+   "tedPublished": false
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "55523100-3",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Services de restauration scolaire"
+      },
+      {
+       "language": "NL",
+       "text": "Verstrekken van schoolmaaltijden"
+      },
+      {
+       "language": "EN",
+       "text": "School-meal services"
+      },
+      {
+       "language": "DE",
+       "text": "Auslieferung von Schulmahlzeiten"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "55523100-3",
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Services de restauration scolaire"
+     },
+     {
+      "language": "NL",
+      "text": "Verstrekken van schoolmaaltijden"
+     },
+     {
+      "language": "EN",
+      "text": "School-meal services"
+     },
+     {
+      "language": "DE",
+      "text": "Auslieferung von Schulmahlzeiten"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-14",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Objet du service : Préparation et livraison de repas chauds pour les élèves des écoles communales (primaires et maternelles) de l’entité de Walcourt. Conformément à l’engagement de la Ville de Walcourt dans le cadre du « Green Deal Cantines durables Wallonie », le présent marché se situe dans une perspective d’alimentation durable telle que définie au point I.16 du présent cahier des charges. Le contenu du marché et son contexte général d’exécution sont développés dans la partie technique du présent cahier spécial des charges.  Lieux de livraison : écoles communales réparties sur l’entité de Walcourt, à savoir :  Ecole communale des Charmilles : - implantation de Thy-le-Château, rue des Marronniers, 29 à 5651 Thy-le-Château; - implantation de Clermont, rue du Cimetière, 10 à 5650 Clermont.  Ecole communale des Eoliennes : - implantation de Somzée, Grand’ Rue, 61 à 5651 Somzée; - implantation de Tarcienne, rue des Ecoles, 10 à 5651 Tarcienne; - implantation de Gourdinne (maternelles), rue Trou Margot, 10 à 5651 Gourdinne;  - implantation de Gourdinne (primaires), rue Estraulette, 4 à 5651 Gourdinne.  Ecole communale des Fontaines : - implantation de Laneffe, rue de la Cure, 4 à 5651 Laneffe; - implantation de Fraire, rue des Violettes, 5 à 5650 Fraire; - implantation de Berzée, rue Pont de Bois, 3 à 5651 Berzée; - implantation de Chastrès, rue Saint-Roch, 24 à 5650 Chastrès.  Durée du marché : le marché est conclu pour l’année scolaire 2026-2027. Il pourra être reconduit tacitement trois fois, par période d’une année scolaire, jusqu’au terme de l’année scolaire 2029-2030, sauf si l’une des parties n’entend pas poursuivre l’exécution des contrats, ce dont elle devra avertir l’autre partie par lettre recommandée, avec accusé de réception, au moins six mois avant la date d’échéance des contrats.  Dans l’hypothèse où le marché ne serait pas reconduit, l’adjudicataire ne peut réclamer aucun dédommagement."
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "ENS 2026/01",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "ENS 2026/01",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Préparation et livraison de repas chauds pour les élèves des écoles communales de l’entité de Walcourt"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-14",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Objet du service : Préparation et livraison de repas chauds pour les élèves des écoles communales (primaires et maternelles) de l’entité de Walcourt. Conformément à l’engagement de la Ville de Walcourt dans le cadre du « Green Deal Cantines durables Wallonie », le présent marché se situe dans une perspective d’alimentation durable telle que définie au point I.16 du présent cahier des charges. Le contenu du marché et son contexte général d’exécution sont développés dans la partie technique du présent cahier spécial des charges.  Lieux de livraison : écoles communales réparties sur l’entité de Walcourt, à savoir :  Ecole communale des Charmilles : - implantation de Thy-le-Château, rue des Marronniers, 29 à 5651 Thy-le-Château; - implantation de Clermont, rue du Cimetière, 10 à 5650 Clermont.  Ecole communale des Eoliennes : - implantation de Somzée, Grand’ Rue, 61 à 5651 Somzée; - implantation de Tarcienne, rue des Ecoles, 10 à 5651 Tarcienne; - implantation de Gourdinne (maternelles), rue Trou Margot, 10 à 5651 Gourdinne;  - implantation de Gourdinne (primaires), rue Estraulette, 4 à 5651 Gourdinne.  Ecole communale des Fontaines : - implantation de Laneffe, rue de la Cure, 4 à 5651 Laneffe; - implantation de Fraire, rue des Violettes, 5 à 5650 Fraire; - implantation de Berzée, rue Pont de Bois, 3 à 5651 Berzée; - implantation de Chastrès, rue Saint-Roch, 24 à 5650 Chastrès.  Durée du marché : le marché est conclu pour l’année scolaire 2026-2027. Il pourra être reconduit tacitement trois fois, par période d’une année scolaire, jusqu’au terme de l’année scolaire 2029-2030, sauf si l’une des parties n’entend pas poursuivre l’exécution des contrats, ce dont elle devra avertir l’autre partie par lettre recommandée, avec accusé de réception, au moins six mois avant la date d’échéance des contrats.  Dans l’hypothèse où le marché ne serait pas reconduit, l’adjudicataire ne peut réclamer aucun dédommagement."
+      }
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "ENS 2026/01 - 1"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SERVICES"
+   ],
+   "noticeIds": [
+    "684cd7f1-ae2a-47b8-b5e0-0871ffc9f9d0"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE353"
+   ],
+   "organisation": {
+    "organisationId": 817,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "Walcourt"
+     },
+     {
+      "language": "FR",
+      "text": "Walcourt"
+     },
+     {
+      "language": "NL",
+      "text": "Walcourt"
+     },
+     {
+      "language": "EN",
+      "text": "Walcourt"
+     }
+    ],
+    "tree": "200004.200021.817"
+   },
+   "procedureId": "9e9ac319-b8d8-4d7c-9708-12e7e08eab4e",
+   "publicationDate": "2026-11-14",
+   "publicationLanguages": [
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "ENS 2026/01_pub01"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "ed7f4e65-a359-439b-baae-e0b4efe03ffc",
+   "publishedAt": [
+    "2026-11-14T00:35:45.024727"
+   ],
+   "referenceNumber": "ENS 2026/01_pub01",
+   "sentAt": [
+    "2026-11-14T00:35:45.024727"
    ],
    "tedPublished": false
   },
@@ -376,149 +511,6 @@
     "2026-11-13T08:46:46.014112"
    ],
    "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "72000000-5",
-     "descriptions": [
-      {
-       "language": "DE",
-       "text": "IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung"
-      },
-      {
-       "language": "NL",
-       "text": "IT-diensten: adviezen, softwareontwikkeling, internet en ondersteuning"
-      },
-      {
-       "language": "EN",
-       "text": "IT services: consulting, software development, Internet and support"
-      },
-      {
-       "language": "FR",
-       "text": "Services de technologies de l'information, conseil, développement de logiciels, internet et appui"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "72000000-5",
-    "descriptions": [
-     {
-      "language": "DE",
-      "text": "IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung"
-     },
-     {
-      "language": "NL",
-      "text": "IT-diensten: adviezen, softwareontwikkeling, internet en ondersteuning"
-     },
-     {
-      "language": "EN",
-      "text": "IT services: consulting, software development, Internet and support"
-     },
-     {
-      "language": "FR",
-      "text": "Services de technologies de l'information, conseil, développement de logiciels, internet et appui"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-13",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Floating Car Data"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP1HI-435/6148/BAM 2026-435",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "PPP1HI-435/6148/BAM 2026-435",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Floating Car Data"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-13",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Floating Car Data"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Floating Car Data"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SERVICES"
-   ],
-   "noticeIds": [
-    "01816a03-feae-4573-9d53-892e9bb0ed04"
-   ],
-   "noticeSubType": "16",
-   "nutsCodes": [
-    "BE211"
-   ],
-   "organisation": {
-    "organisationId": 5674,
-    "organisationNames": [
-     {
-      "language": "FR",
-      "text": "Beheersmaatschappij Antwerpen Mobiel"
-     },
-     {
-      "language": "DE",
-      "text": "Beheersmaatschappij Antwerpen Mobiel"
-     },
-     {
-      "language": "NL",
-      "text": "Beheersmaatschappij Antwerpen Mobiel"
-     },
-     {
-      "language": "EN",
-      "text": "Beheersmaatschappij Antwerpen Mobiel"
-     }
-    ],
-    "tree": "200003.200015.73.4638.5674"
-   },
-   "procedureId": "d01ee754-8807-4eb7-b59f-c3466d023e6f",
-   "publicationDate": "2026-11-13",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP1HI-435/6148/BAM 2026-435_001"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "18de6dc9-2999-42b4-9c57-7d5e50a47221",
-   "publishedAt": [
-    "2026-11-13T08:48:46.013069"
-   ],
-   "referenceNumber": "PPP1HI-435/6148/BAM 2026-435_001",
-   "sentAt": [
-    "2026-11-13T08:48:46.013069"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-12-14T10:00:00"
   }
  ],
  "exemple_attribution": [
