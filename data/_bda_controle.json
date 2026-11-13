@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 295636
+  "totalCount": 295643
  },
  "types": [
   "ACTIVE|10|['SERVICES', 'SUPPLIES']",
@@ -32,6 +32,7 @@
   "ACTIVE|30|['WORKS']",
   "ACTIVE|32|['SERVICES']",
   "ACTIVE|33|['SERVICES']",
+  "ACTIVE|33|['SUPPLIES']",
   "ACTIVE|38|['SERVICES']",
   "ACTIVE|38|['SUPPLIES']",
   "ACTIVE|4|['SERVICES']",
@@ -387,27 +388,6 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "71315400-3",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Building-inspection services"
-      },
-      {
-       "language": "DE",
-       "text": "Gebäudeinspektion"
-      },
-      {
-       "language": "NL",
-       "text": "Gebouwinspectiediensten"
-      },
-      {
-       "language": "FR",
-       "text": "Services d'inspection et de vérification de bâtiment"
-      }
-     ]
-    },
-    {
      "code": "45262700-8",
      "descriptions": [
       {
@@ -425,6 +405,27 @@
       {
        "language": "EN",
        "text": "Building alteration work"
+      }
+     ]
+    },
+    {
+     "code": "71315400-3",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Building-inspection services"
+      },
+      {
+       "language": "DE",
+       "text": "Gebäudeinspektion"
+      },
+      {
+       "language": "NL",
+       "text": "Gebouwinspectiediensten"
+      },
+      {
+       "language": "FR",
+       "text": "Services d'inspection et de vérification de bâtiment"
       }
      ]
     },
