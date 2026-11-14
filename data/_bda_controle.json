@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 295646
+  "totalCount": 295647
  },
  "types": [
   "ACTIVE|10|['SERVICES', 'SUPPLIES']",
@@ -309,192 +309,135 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "71631000-0",
+     "code": "34390000-7",
      "descriptions": [
       {
        "language": "EN",
-       "text": "Technical inspection services"
-      },
-      {
-       "language": "FR",
-       "text": "Services d'inspection technique"
-      },
-      {
-       "language": "DE",
-       "text": "Technische Kontrolle"
+       "text": "Tractor accessories"
       },
       {
        "language": "NL",
-       "text": "Technische inspectiediensten"
+       "text": "Toebehoren voor trekkers"
+      },
+      {
+       "language": "DE",
+       "text": "Zubehör für Zugfahrzeuge"
+      },
+      {
+       "language": "FR",
+       "text": "Accessoires pour tracteurs"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "71631000-0",
+    "code": "34390000-7",
     "descriptions": [
      {
       "language": "EN",
-      "text": "Technical inspection services"
-     },
-     {
-      "language": "FR",
-      "text": "Services d'inspection technique"
-     },
-     {
-      "language": "DE",
-      "text": "Technische Kontrolle"
+      "text": "Tractor accessories"
      },
      {
       "language": "NL",
-      "text": "Technische inspectiediensten"
+      "text": "Toebehoren voor trekkers"
+     },
+     {
+      "language": "DE",
+      "text": "Zubehör für Zugfahrzeuge"
+     },
+     {
+      "language": "FR",
+      "text": "Accessoires pour tracteurs"
      }
     ]
    },
-   "dispatchDate": "2026-11-13",
+   "dispatchDate": "2026-11-14",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Periodieke keuringen en controles van diverse technische installaties van gemeente/OCMW Opwijk en zorgvereniging OPcura volgens de wettelijke reglementering en volgens de interne regels van de aanbestedende overheid."
+      "language": "FR",
+      "text": "Acquisition d'un broyeur d'accotement 130 cm pour débroussaillage léger pour le service Espaces Verts (année 2026)"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP01X-1675/6094/Prev_2027_001",
+    "number": "PPP05V-2688/6208/ID 2688 - JBFU/PDEL",
     "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP01X-1675/6094/Prev_2027_001",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "referenceNumber": "PPP05V-2688/6208/ID 2688 - JBFU/PDEL",
     "titles": [
      {
-      "language": "NL",
-      "text": "Uitvoeren van periodieke keuringen en controles van diverse technische installaties van Gemeente en OCMW Opwijk en Zorgvereniging OPcura voor de periode van 1 januari 2027 t.e.m. 31 december 2031"
+      "language": "FR",
+      "text": "Acquisition d'un broyeur d'accotement 130 cm pour débroussaillage léger pour le service Espaces Verts (année 2026)"
      }
     ]
    },
-   "insertionDate": "2026-11-13",
+   "insertionDate": "2026-11-14",
    "lots": [
     {
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Periodieke keuring van laag- en hoogspanningsinstallaties"
+       "language": "FR",
+       "text": "Acquisition d'un broyeur d'accotement 130 cm pour débroussaillage léger pour le service Espaces Verts (année 2026)"
       }
      ],
      "titles": [
       {
-       "language": "NL",
-       "text": "Periodieke keuring van laag- en hoogspanningsinstallaties"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Periodieke keuring van liften, hef-en hijstoestellen en veiligheidsmaterialen"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Periodieke keuring van liften, hef-en hijstoestellen en veiligheidsmaterialen"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Periodiek nazicht andere arbeidsmiddelen"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Periodiek nazicht andere arbeidsmiddelen"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Periodieke keuring van gasdichtheid van binneninstallaties gas"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Periodieke keuring van gasdichtheid van binneninstallaties gas"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Periodiek nazicht van stellingen en tribunes, sport-en spelmaterialen"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Periodiek nazicht van stellingen en tribunes, sport-en spelmaterialen"
+       "language": "FR",
+       "text": "Acquisition d'un broyeur d'accotement 130 cm pour débroussaillage léger pour le service Espaces Verts (année 2026)"
       }
      ]
     }
    ],
    "natures": [
-    "SERVICES"
+    "SUPPLIES"
    ],
    "noticeIds": [
-    "abc44832-1614-40e2-b714-ae64c97b029d"
+    "b2fae6ca-e650-4c6b-a714-b6278451aeab"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE241"
+    "BE352"
    ],
    "organisation": {
-    "organisationId": 398,
+    "organisationId": 266,
     "organisationNames": [
      {
-      "language": "NL",
-      "text": "Opwijk"
+      "language": "DE",
+      "text": "Gembloux"
      },
      {
       "language": "FR",
-      "text": "Opwijk"
+      "text": "Gembloux"
      },
      {
-      "language": "DE",
-      "text": "Opwijk"
+      "language": "NL",
+      "text": "Gembloux"
      },
      {
       "language": "EN",
-      "text": "Opwijk"
+      "text": "Gembloux"
      }
     ],
-    "tree": "200004.200021.398"
+    "tree": "200004.200021.266"
    },
-   "procedureId": "fc8573f3-5bc9-46bf-b673-1aebefb97da5",
-   "publicationDate": "2026-11-13",
+   "procedureId": "b2e3d9a6-6364-4882-83a8-0bb2eba12830",
+   "publicationDate": "2026-11-14",
    "publicationLanguages": [
-    "NL"
+    "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP01X-1675/6094/Prev_2027_001_002"
+    "PPP05V-2688/6208/ID 2688 - JBFU/PDEL_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "92947c27-1b99-400b-b5ad-b960901d0fe0",
+   "publicationWorkspaceId": "331477f8-7a4c-4ac1-ac65-05edc18de03f",
    "publishedAt": [
-    "2026-11-13T08:46:46.014112"
+    "2026-11-14T09:54:45.027889"
    ],
-   "referenceNumber": "PPP01X-1675/6094/Prev_2027_001_002",
+   "referenceNumber": "PPP05V-2688/6208/ID 2688 - JBFU/PDEL_002",
    "sentAt": [
-    "2026-11-13T08:46:46.014112"
+    "2026-11-14T09:54:45.027889"
    ],
    "tedPublished": false
   }
