@@ -1,12 +1,47 @@
 {
- "updated": "2026-11-14T03:01:42Z",
+ "updated": "2026-11-14T05:01:29Z",
  "source": "urban.brussels NOVA (WFS)",
  "days_back": 3,
- "received": 45,
- "kept": 4,
- "count": 198,
- "new_ids": [],
+ "received": 56,
+ "kept": 6,
+ "count": 200,
+ "new_ids": [
+  "nova-02/PU/2052585",
+  "nova-19/PU/2052541"
+ ],
  "records": [
+  {
+   "id": "nova-02/PU/2052585",
+   "source_type": "Permis",
+   "nom": "Permis d'urbanisme privé",
+   "lieu": "Chaussée de Wavre 1682, 1160 Auderghem",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='02/PU/2052585'",
+   "verif": "vérifié",
+   "verif_date": "2026-11-14",
+   "preuve": "Demande de permis 02/PU/2052585 reçue le 2026-11-13 (urban.brussels, service NOVA), surface projetée 1200 m².",
+   "date_publication": "2026-11-13",
+   "notes": "Autorité : Auderghem",
+   "first_seen": "2026-11-14T05:01:29Z"
+  },
+  {
+   "id": "nova-19/PU/2052541",
+   "source_type": "Permis",
+   "nom": "régulariser la division d’un appartement de trois chambres en deux logements d’une chambre, au 5ᵉ étage de l'immeuble",
+   "lieu": "Drève de Nivelles 172, 1150 Woluwe-Saint-Pierre",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='19/PU/2052541'",
+   "verif": "vérifié",
+   "verif_date": "2026-11-14",
+   "preuve": "Demande de permis 19/PU/2052541 reçue le 2026-11-13 (urban.brussels, service NOVA).",
+   "date_publication": "2026-11-13",
+   "notes": "Autorité : Woluwe-Saint-Pierre",
+   "first_seen": "2026-11-14T05:01:29Z"
+  },
   {
    "id": "nova-09/PU/2052410",
    "source_type": "Permis",
