@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 295648
+  "totalCount": 295653
  },
  "types": [
   "ACTIVE|10|['SERVICES', 'SUPPLIES']",
@@ -38,217 +38,239 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "16311100-9",
+     "code": "45233142-6",
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Maaimachines voor gazons, parken of sportvelden"
-      },
-      {
        "language": "DE",
-       "text": "Mäher für Rasenflächen, Parkanlagen oder Sportplätze"
+       "text": "Straßenausbesserungsarbeiten"
       },
       {
        "language": "FR",
-       "text": "Tondeuses à gazon pour pelouses, parcs ou terrains de sports"
+       "text": "Travaux de réparation de routes"
+      },
+      {
+       "language": "NL",
+       "text": "Herstellen van wegen"
       },
       {
        "language": "EN",
-       "text": "Lawn, park or sports-ground mowers"
+       "text": "Road-repair works"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "16311100-9",
+    "code": "45233142-6",
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Maaimachines voor gazons, parken of sportvelden"
-     },
-     {
       "language": "DE",
-      "text": "Mäher für Rasenflächen, Parkanlagen oder Sportplätze"
+      "text": "Straßenausbesserungsarbeiten"
      },
      {
       "language": "FR",
-      "text": "Tondeuses à gazon pour pelouses, parcs ou terrains de sports"
+      "text": "Travaux de réparation de routes"
+     },
+     {
+      "language": "NL",
+      "text": "Herstellen van wegen"
      },
      {
       "language": "EN",
-      "text": "Lawn, park or sports-ground mowers"
+      "text": "Road-repair works"
      }
     ]
    },
-   "dispatchDate": "2026-11-14",
+   "dispatchDate": "2026-11-16",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
       "language": "FR",
-      "text": "Acquisition d'un robot tondeuse"
+      "text": "Les voiries concernées par cet entretien extraordinaire 2026 – phase 2 sont les suivantes :    Entretien de voirie à Michamps Horitine =(carte I) Entretien de voirie à Flamisoul => Flamièrge =(carte II) Entretien de voirie à Flamisoul =>Rue des Mandurons =(carte III) Entretien de voirie à Lutremange =(carte IV)   Entretien de la voirie Michamps-Horitine-Al Hez (Carte I) • 1. Descriptions et état des lieux :  - Dégradations généralisées du revêtement de surface.  • 2. Travaux envisagés : - Réalisation d’un raclage de 4cm, - Rechargement généralisé en revêtement hydrocarboné, - Imperméabilisation du revêtement par un enduisage bicouche, - Rechargement des accotements avec du produit de fraisage provenant du chantier, - L’excédent de fraisage sera étendu dans un chemin communal situé dans un rayon de 10kms.   Entretien de la voirie Flamisoule vers Flamierge (Carte II) • 1. Descriptions et état des lieux :  - Fissuration généralisée du revêtement,  - Déformations importantes à plusieurs endroits indiquant la présence de défauts dans la fondation de la chaussée.   • 2. Travaux envisagés : - Réalisation de purges aux endroits présentant de fortes dégradations, - Imperméabilisation du revêtement par un enduisage bicouche.   Entretien de la voirie Flamisoule vers Mande-St-Etienne, rue des Mandurons (Carte III) • 1. Descriptions et état des lieux : - Fissuration et vieillesse généralisées du revêtement, - Affaissement des bords de chaussée présentant des dangers pour les usagers, - Déformations importantes à plusieurs endroits indiquant la présence de défauts dans la fondation de la chaussée.   • 2. Travaux envisagés : - Renforcement et sécurisation des bords, de part et d’autre de la chaussée, par la mise en place de bandes de contrebutage en béton coulées en place, de 30cm de large, - La voirie garde son gabarit,  - Réalisation de purges aux endroits présentant de fortes dégradations, - Remplacement complet du revêtement hydrocarboné,   - Rechargement des accotements avec du produit de fraisage provenant du chantier, - L’excédent de fraisage sera étendu dans un chemin communal situé dans un rayon de 10kms.   Entretien de la voirie à Lutremange, entre l’école et la rue principale du village (Carte IV) • 1. Descriptions et état des lieux : - Vieillesse, Fissuration et faïençage généralisés du revêtement, - Végétation présente dans les joints des filets d’eau en place, - Déformations importantes à plusieurs endroits indiquant la présence de défauts dans la fondation de la chaussée.   • 2. Travaux envisagés : - Réparation des joints des filets d’eau, - Fraisage du revêtement hydrocarboné,   - Réalisation de purges aux endroits présentant de fortes dégradations, - Remplacement complet du revêtement hydrocarboné.  - Le produit de fraisage sera étendu dans un chemin communal situé dans un rayon de 10kms. "
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP06C-2062/6092/2026-066",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP06C-2062/6092/2026-066",
+    "number": "PPP28A-3814/6443/2026-DT-10",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "PPP28A-3814/6443/2026-DT-10",
     "titles": [
      {
       "language": "FR",
-      "text": "Acquisition d'un robot tondeuse"
+      "text": "Entretien extraordinaire des voiries 2026 - Phase 2"
      }
     ]
    },
-   "insertionDate": "2026-11-14",
+   "insertionDate": "2026-11-16",
    "lots": [
     {
      "descriptions": [
       {
        "language": "FR",
-       "text": "Acquisition d'un robot tondeuse"
+       "text": "Les voiries concernées par cet entretien extraordinaire 2026 – phase 2 sont les suivantes :    Entretien de voirie à Michamps Horitine =(carte I) Entretien de voirie à Flamisoul => Flamièrge =(carte II) Entretien de voirie à Flamisoul =>Rue des Mandurons =(carte III) Entretien de voirie à Lutremange =(carte IV)   Entretien de la voirie Michamps-Horitine-Al Hez (Carte I) • 1. Descriptions et état des lieux :  - Dégradations généralisées du revêtement de surface.  • 2. Travaux envisagés : - Réalisation d’un raclage de 4cm, - Rechargement généralisé en revêtement hydrocarboné, - Imperméabilisation du revêtement par un enduisage bicouche, - Rechargement des accotements avec du produit de fraisage provenant du chantier, - L’excédent de fraisage sera étendu dans un chemin communal situé dans un rayon de 10kms.   Entretien de la voirie Flamisoule vers Flamierge (Carte II) • 1. Descriptions et état des lieux :  - Fissuration généralisée du revêtement,  - Déformations importantes à plusieurs endroits indiquant la présence de défauts dans la fondation de la chaussée.   • 2. Travaux envisagés : - Réalisation de purges aux endroits présentant de fortes dégradations, - Imperméabilisation du revêtement par un enduisage bicouche.   Entretien de la voirie Flamisoule vers Mande-St-Etienne, rue des Mandurons (Carte III) • 1. Descriptions et état des lieux : - Fissuration et vieillesse généralisées du revêtement, - Affaissement des bords de chaussée présentant des dangers pour les usagers, - Déformations importantes à plusieurs endroits indiquant la présence de défauts dans la fondation de la chaussée.   • 2. Travaux envisagés : - Renforcement et sécurisation des bords, de part et d’autre de la chaussée, par la mise en place de bandes de contrebutage en béton coulées en place, de 30cm de large, - La voirie garde son gabarit,  - Réalisation de purges aux endroits présentant de fortes dégradations, - Remplacement complet du revêtement hydrocarboné,   - Rechargement des accotements avec du produit de fraisage provenant du chantier, - L’excédent de fraisage sera étendu dans un chemin communal situé dans un rayon de 10kms.   Entretien de la voirie à Lutremange, entre l’école et la rue principale du village (Carte IV) • 1. Descriptions et état des lieux : - Vieillesse, Fissuration et faïençage généralisés du revêtement, - Végétation présente dans les joints des filets d’eau en place, - Déformations importantes à plusieurs endroits indiquant la présence de défauts dans la fondation de la chaussée.   • 2. Travaux envisagés : - Réparation des joints des filets d’eau, - Fraisage du revêtement hydrocarboné,   - Réalisation de purges aux endroits présentant de fortes dégradations, - Remplacement complet du revêtement hydrocarboné.  - Le produit de fraisage sera étendu dans un chemin communal situé dans un rayon de 10kms. "
       }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
      ],
      "titles": [
       {
        "language": "FR",
-       "text": "Acquisition d'un robot tondeuse"
+       "text": "Entretien extraordinaire des voiries 2026 - Phase 2"
       }
      ]
     }
    ],
    "natures": [
-    "SUPPLIES"
+    "WORKS"
    ],
    "noticeIds": [
-    "76c3609e-5a2b-40fe-8c9a-97e2911b4d5f"
+    "7f0ae484-8527-4cbb-8e40-fb3100d58b54"
    ],
-   "noticeSubType": "E4",
+   "noticeSubType": "16",
    "nutsCodes": [
-    "BE332"
+    "BE342"
    ],
    "organisation": {
-    "organisationId": 174,
+    "organisationId": 30481,
     "organisationNames": [
      {
       "language": "FR",
-      "text": "Commune de Sprimont"
-     },
-     {
-      "language": "DE",
-      "text": "Commune de Sprimont"
-     },
-     {
-      "language": "NL",
-      "text": "Sprimont"
-     },
-     {
-      "language": "EN",
-      "text": "Sprimont"
+      "text": "Ville de Bastogne"
      }
     ],
-    "tree": "200004.200021.174"
+    "tree": "200004.200021.30481"
    },
-   "procedureId": "d1b717f0-23e7-4328-a2ff-1824385244c2",
-   "publicationDate": "2026-11-14",
+   "procedureId": "ecb6aafd-d223-4cff-943b-bfc4a127af1f",
+   "publicationDate": "2026-11-16",
    "publicationLanguages": [
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP06C-2062/6092/2026-066_002"
+    "PPP28A-3814/6443/2026-DT-10_001"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "42fcd5f3-1426-48f8-96ec-ba2c81c1fdb1",
+   "publicationWorkspaceId": "34e06093-2508-43c1-888b-95d31d521121",
    "publishedAt": [
-    "2026-11-14T00:00:45.020828"
+    "2026-11-16T00:00:45.702773"
    ],
-   "referenceNumber": "PPP06C-2062/6092/2026-066_002",
+   "referenceNumber": "PPP28A-3814/6443/2026-DT-10_001",
    "sentAt": [
-    "2026-11-14T00:00:45.020828"
+    "2026-11-16T00:00:45.702773"
    ],
-   "tedPublished": false
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-12-22T08:00:00"
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "55523100-3",
+     "code": "79996000-2",
      "descriptions": [
       {
        "language": "FR",
-       "text": "Services de restauration scolaire"
-      },
-      {
-       "language": "NL",
-       "text": "Verstrekken van schoolmaaltijden"
-      },
-      {
-       "language": "EN",
-       "text": "School-meal services"
+       "text": "Services d'organisation économique"
       },
       {
        "language": "DE",
-       "text": "Auslieferung von Schulmahlzeiten"
+       "text": "Unternehmensorganisation"
+      },
+      {
+       "language": "NL",
+       "text": "Bedrijfsorganisatiediensten"
+      },
+      {
+       "language": "EN",
+       "text": "Business organisation services"
+      }
+     ]
+    },
+    {
+     "code": "79421000-1",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Projectbeheerdiensten, met uitzondering van projecten bij bouwwerkzaamheden"
+      },
+      {
+       "language": "FR",
+       "text": "Services de gestion de projets autres que pour les travaux de construction"
+      },
+      {
+       "language": "EN",
+       "text": "Project-management services other than for construction work"
+      },
+      {
+       "language": "DE",
+       "text": "Projektmanagement, außer Projektüberwachung von Bauarbeiten"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "55523100-3",
+    "code": "79996000-2",
     "descriptions": [
      {
       "language": "FR",
-      "text": "Services de restauration scolaire"
-     },
-     {
-      "language": "NL",
-      "text": "Verstrekken van schoolmaaltijden"
-     },
-     {
-      "language": "EN",
-      "text": "School-meal services"
+      "text": "Services d'organisation économique"
      },
      {
       "language": "DE",
-      "text": "Auslieferung von Schulmahlzeiten"
+      "text": "Unternehmensorganisation"
+     },
+     {
+      "language": "NL",
+      "text": "Bedrijfsorganisatiediensten"
+     },
+     {
+      "language": "EN",
+      "text": "Business organisation services"
      }
     ]
    },
-   "dispatchDate": "2026-11-14",
+   "dispatchDate": "2026-11-16",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Objet du service : Préparation et livraison de repas chauds pour les élèves des écoles communales (primaires et maternelles) de l’entité de Walcourt. Conformément à l’engagement de la Ville de Walcourt dans le cadre du « Green Deal Cantines durables Wallonie », le présent marché se situe dans une perspective d’alimentation durable telle que définie au point I.16 du présent cahier des charges. Le contenu du marché et son contexte général d’exécution sont développés dans la partie technique du présent cahier spécial des charges.  Lieux de livraison : écoles communales réparties sur l’entité de Walcourt, à savoir :  Ecole communale des Charmilles : - implantation de Thy-le-Château, rue des Marronniers, 29 à 5651 Thy-le-Château; - implantation de Clermont, rue du Cimetière, 10 à 5650 Clermont.  Ecole communale des Eoliennes : - implantation de Somzée, Grand’ Rue, 61 à 5651 Somzée; - implantation de Tarcienne, rue des Ecoles, 10 à 5651 Tarcienne; - implantation de Gourdinne (maternelles), rue Trou Margot, 10 à 5651 Gourdinne;  - implantation de Gourdinne (primaires), rue Estraulette, 4 à 5651 Gourdinne.  Ecole communale des Fontaines : - implantation de Laneffe, rue de la Cure, 4 à 5651 Laneffe; - implantation de Fraire, rue des Violettes, 5 à 5650 Fraire; - implantation de Berzée, rue Pont de Bois, 3 à 5651 Berzée; - implantation de Chastrès, rue Saint-Roch, 24 à 5650 Chastrès.  Durée du marché : le marché est conclu pour l’année scolaire 2026-2027. Il pourra être reconduit tacitement trois fois, par période d’une année scolaire, jusqu’au terme de l’année scolaire 2029-2030, sauf si l’une des parties n’entend pas poursuivre l’exécution des contrats, ce dont elle devra avertir l’autre partie par lettre recommandée, avec accusé de réception, au moins six mois avant la date d’échéance des contrats.  Dans l’hypothèse où le marché ne serait pas reconduit, l’adjudicataire ne peut réclamer aucun dédommagement."
+      "language": "NL",
+      "text": "De opdracht betreft de tijdelijke inzet van een externe projectleider die, binnen het Dilbeekse BOA-beleidskader, de leiding neemt over een aantal limitatief omschreven projecten inzake buitenschoolse opvang en activiteiten tijdens de periode van 1 februari 2027 tot en met 30 juni 2027."
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "ENS 2026/01",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "ENS 2026/01",
+    "number": "PPP07V-2176/6568/2026314",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "PPP07V-2176/6568/2026314",
     "titles": [
      {
-      "language": "FR",
-      "text": "Préparation et livraison de repas chauds pour les élèves des écoles communales de l’entité de Walcourt"
+      "language": "NL",
+      "text": "Consulent projectleider regierol buitenschoolse opvang en activiteiten"
      }
     ]
    },
-   "insertionDate": "2026-11-14",
+   "insertionDate": "2026-11-16",
    "lots": [
     {
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Objet du service : Préparation et livraison de repas chauds pour les élèves des écoles communales (primaires et maternelles) de l’entité de Walcourt. Conformément à l’engagement de la Ville de Walcourt dans le cadre du « Green Deal Cantines durables Wallonie », le présent marché se situe dans une perspective d’alimentation durable telle que définie au point I.16 du présent cahier des charges. Le contenu du marché et son contexte général d’exécution sont développés dans la partie technique du présent cahier spécial des charges.  Lieux de livraison : écoles communales réparties sur l’entité de Walcourt, à savoir :  Ecole communale des Charmilles : - implantation de Thy-le-Château, rue des Marronniers, 29 à 5651 Thy-le-Château; - implantation de Clermont, rue du Cimetière, 10 à 5650 Clermont.  Ecole communale des Eoliennes : - implantation de Somzée, Grand’ Rue, 61 à 5651 Somzée; - implantation de Tarcienne, rue des Ecoles, 10 à 5651 Tarcienne; - implantation de Gourdinne (maternelles), rue Trou Margot, 10 à 5651 Gourdinne;  - implantation de Gourdinne (primaires), rue Estraulette, 4 à 5651 Gourdinne.  Ecole communale des Fontaines : - implantation de Laneffe, rue de la Cure, 4 à 5651 Laneffe; - implantation de Fraire, rue des Violettes, 5 à 5650 Fraire; - implantation de Berzée, rue Pont de Bois, 3 à 5651 Berzée; - implantation de Chastrès, rue Saint-Roch, 24 à 5650 Chastrès.  Durée du marché : le marché est conclu pour l’année scolaire 2026-2027. Il pourra être reconduit tacitement trois fois, par période d’une année scolaire, jusqu’au terme de l’année scolaire 2029-2030, sauf si l’une des parties n’entend pas poursuivre l’exécution des contrats, ce dont elle devra avertir l’autre partie par lettre recommandée, avec accusé de réception, au moins six mois avant la date d’échéance des contrats.  Dans l’hypothèse où le marché ne serait pas reconduit, l’adjudicataire ne peut réclamer aucun dédommagement."
+       "language": "NL",
+       "text": "De opdracht betreft de tijdelijke inzet van een externe projectleider die, binnen het Dilbeekse BOA-beleidskader, de leiding neemt over een aantal limitatief omschreven projecten inzake buitenschoolse opvang en activiteiten tijdens de periode van 1 februari 2027 tot en met 30 juni 2027."
       }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
      ],
      "titles": [
       {
-       "language": "FR",
-       "text": "ENS 2026/01 - 1"
+       "language": "NL",
+       "text": "Consulent projectleider regierol buitenschoolse opvang en activiteiten"
       }
      ]
     }
@@ -257,186 +279,194 @@
     "SERVICES"
    ],
    "noticeIds": [
-    "684cd7f1-ae2a-47b8-b5e0-0871ffc9f9d0"
+    "a49673d0-e87f-4e9e-974a-715e93f3d8dc"
    ],
-   "noticeSubType": "E4",
+   "noticeSubType": "16",
    "nutsCodes": [
-    "BE353"
+    "BE241"
    ],
    "organisation": {
-    "organisationId": 817,
+    "organisationId": 207,
     "organisationNames": [
      {
       "language": "DE",
-      "text": "Walcourt"
-     },
-     {
-      "language": "FR",
-      "text": "Walcourt"
+      "text": "Dilbeek"
      },
      {
       "language": "NL",
-      "text": "Walcourt"
+      "text": "Dilbeek"
      },
      {
       "language": "EN",
-      "text": "Walcourt"
+      "text": "Dilbeek"
+     },
+     {
+      "language": "FR",
+      "text": "Dilbeek"
      }
     ],
-    "tree": "200004.200021.817"
+    "tree": "200004.200021.207"
    },
-   "procedureId": "9e9ac319-b8d8-4d7c-9708-12e7e08eab4e",
-   "publicationDate": "2026-11-14",
+   "procedureId": "b4cee1d3-edff-4375-81e3-8da6c24925b8",
+   "publicationDate": "2026-11-16",
    "publicationLanguages": [
-    "FR"
+    "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "ENS 2026/01_pub01"
+    "PPP07V-2176/6568/2026314_001"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "ed7f4e65-a359-439b-baae-e0b4efe03ffc",
+   "publicationWorkspaceId": "63cfbc7d-a0b9-4803-80fb-390d23f50bee",
    "publishedAt": [
-    "2026-11-14T00:35:45.024727"
+    "2026-11-16T00:00:46.344766"
    ],
-   "referenceNumber": "ENS 2026/01_pub01",
+   "referenceNumber": "PPP07V-2176/6568/2026314_001",
    "sentAt": [
-    "2026-11-14T00:35:45.024727"
+    "2026-11-16T00:00:46.344766"
    ],
-   "tedPublished": false
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-12-04T11:00:00"
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "34390000-7",
+     "code": "45221119-9",
      "descriptions": [
       {
-       "language": "EN",
-       "text": "Tractor accessories"
+       "language": "FR",
+       "text": "Travaux de rénovation de ponts"
       },
       {
-       "language": "NL",
-       "text": "Toebehoren voor trekkers"
+       "language": "EN",
+       "text": "Bridge renewal construction work"
       },
       {
        "language": "DE",
-       "text": "Zubehör für Zugfahrzeuge"
+       "text": "Bauarbeiten zur Erneuerung von Brücken"
       },
       {
-       "language": "FR",
-       "text": "Accessoires pour tracteurs"
+       "language": "NL",
+       "text": "Brugrenovatiebouw"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "34390000-7",
+    "code": "45221119-9",
     "descriptions": [
      {
-      "language": "EN",
-      "text": "Tractor accessories"
+      "language": "FR",
+      "text": "Travaux de rénovation de ponts"
      },
      {
-      "language": "NL",
-      "text": "Toebehoren voor trekkers"
+      "language": "EN",
+      "text": "Bridge renewal construction work"
      },
      {
       "language": "DE",
-      "text": "Zubehör für Zugfahrzeuge"
+      "text": "Bauarbeiten zur Erneuerung von Brücken"
      },
      {
-      "language": "FR",
-      "text": "Accessoires pour tracteurs"
+      "language": "NL",
+      "text": "Brugrenovatiebouw"
      }
     ]
    },
-   "dispatchDate": "2026-11-14",
+   "dispatchDate": "2026-11-16",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
       "language": "FR",
-      "text": "Acquisition d'un broyeur d'accotement 130 cm pour débroussaillage léger pour le service Espaces Verts (année 2026)"
+      "text": "Démolition et remise en état de l'ouvrage de Géronvillers. Cela comprend : La démolition de l'ouvrage existant ; La mise en place d'éléments de type pertuis préfabriqués avec système d'ajustage du niveau d'eau en amont ; La rénovation de la voirie localement (endroit de l'intervention) ; "
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP05V-2688/6208/ID 2688 - JBFU/PDEL",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP05V-2688/6208/ID 2688 - JBFU/PDEL",
+    "number": "PPP0DT-444/6103/2026/22",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "PPP0DT-444/6103/2026/22",
     "titles": [
      {
       "language": "FR",
-      "text": "Acquisition d'un broyeur d'accotement 130 cm pour débroussaillage léger pour le service Espaces Verts (année 2026)"
+      "text": "Rénovation du pont de Géronvillers"
      }
     ]
    },
-   "insertionDate": "2026-11-14",
+   "insertionDate": "2026-11-16",
    "lots": [
     {
      "descriptions": [
       {
        "language": "FR",
-       "text": "Acquisition d'un broyeur d'accotement 130 cm pour débroussaillage léger pour le service Espaces Verts (année 2026)"
+       "text": "Démolition et remise en état de l'ouvrage de Géronvillers. Cela comprend : La démolition de l'ouvrage existant ; La mise en place d'éléments de type pertuis préfabriqués avec système d'ajustage du niveau d'eau en amont ; La rénovation de la voirie localement (endroit de l'intervention) ; "
       }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
      ],
      "titles": [
       {
        "language": "FR",
-       "text": "Acquisition d'un broyeur d'accotement 130 cm pour débroussaillage léger pour le service Espaces Verts (année 2026)"
+       "text": "Rénovation du pont de Géronvillers"
       }
      ]
     }
    ],
    "natures": [
-    "SUPPLIES"
+    "WORKS"
    ],
    "noticeIds": [
-    "b2fae6ca-e650-4c6b-a714-b6278451aeab"
+    "3c18b8c4-1b2a-4d9f-b345-8ee42b2bf7e6"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
+    "BE310",
     "BE352"
    ],
    "organisation": {
-    "organisationId": 266,
+    "organisationId": 843,
     "organisationNames": [
      {
-      "language": "DE",
-      "text": "Gembloux"
-     },
-     {
       "language": "FR",
-      "text": "Gembloux"
+      "text": "Chastre"
      },
      {
-      "language": "NL",
-      "text": "Gembloux"
+      "language": "DE",
+      "text": "Chastre"
      },
      {
       "language": "EN",
-      "text": "Gembloux"
+      "text": "Chastre"
+     },
+     {
+      "language": "NL",
+      "text": "Chastre"
      }
     ],
-    "tree": "200004.200021.266"
+    "tree": "200004.200021.843"
    },
-   "procedureId": "b2e3d9a6-6364-4882-83a8-0bb2eba12830",
-   "publicationDate": "2026-11-14",
+   "procedureId": "3e3f207d-8830-49d0-9fd9-356c6b7402ea",
+   "publicationDate": "2026-11-16",
    "publicationLanguages": [
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP05V-2688/6208/ID 2688 - JBFU/PDEL_002"
+    "PPP0DT-444/6103/2026/22_003"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "331477f8-7a4c-4ac1-ac65-05edc18de03f",
+   "publicationWorkspaceId": "3f9d50e7-a357-4224-aa2a-cca2b535ba52",
    "publishedAt": [
-    "2026-11-14T09:54:45.027889"
+    "2026-11-16T00:00:46.12232"
    ],
-   "referenceNumber": "PPP05V-2688/6208/ID 2688 - JBFU/PDEL_002",
+   "referenceNumber": "PPP0DT-444/6103/2026/22_003",
    "sentAt": [
-    "2026-11-14T09:54:45.027889"
+    "2026-11-16T00:00:46.12232"
    ],
    "tedPublished": false
   }
@@ -445,135 +475,142 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "16311100-9",
+     "code": "45221119-9",
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Maaimachines voor gazons, parken of sportvelden"
-      },
-      {
-       "language": "DE",
-       "text": "Mäher für Rasenflächen, Parkanlagen oder Sportplätze"
-      },
-      {
        "language": "FR",
-       "text": "Tondeuses à gazon pour pelouses, parcs ou terrains de sports"
+       "text": "Travaux de rénovation de ponts"
       },
       {
        "language": "EN",
-       "text": "Lawn, park or sports-ground mowers"
+       "text": "Bridge renewal construction work"
+      },
+      {
+       "language": "DE",
+       "text": "Bauarbeiten zur Erneuerung von Brücken"
+      },
+      {
+       "language": "NL",
+       "text": "Brugrenovatiebouw"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "16311100-9",
+    "code": "45221119-9",
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Maaimachines voor gazons, parken of sportvelden"
-     },
-     {
-      "language": "DE",
-      "text": "Mäher für Rasenflächen, Parkanlagen oder Sportplätze"
-     },
-     {
       "language": "FR",
-      "text": "Tondeuses à gazon pour pelouses, parcs ou terrains de sports"
+      "text": "Travaux de rénovation de ponts"
      },
      {
       "language": "EN",
-      "text": "Lawn, park or sports-ground mowers"
+      "text": "Bridge renewal construction work"
+     },
+     {
+      "language": "DE",
+      "text": "Bauarbeiten zur Erneuerung von Brücken"
+     },
+     {
+      "language": "NL",
+      "text": "Brugrenovatiebouw"
      }
     ]
    },
-   "dispatchDate": "2026-11-14",
+   "dispatchDate": "2026-11-16",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
       "language": "FR",
-      "text": "Acquisition d'un robot tondeuse"
+      "text": "Démolition et remise en état de l'ouvrage de Géronvillers. Cela comprend : La démolition de l'ouvrage existant ; La mise en place d'éléments de type pertuis préfabriqués avec système d'ajustage du niveau d'eau en amont ; La rénovation de la voirie localement (endroit de l'intervention) ; "
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP06C-2062/6092/2026-066",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP06C-2062/6092/2026-066",
+    "number": "PPP0DT-444/6103/2026/22",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "PPP0DT-444/6103/2026/22",
     "titles": [
      {
       "language": "FR",
-      "text": "Acquisition d'un robot tondeuse"
+      "text": "Rénovation du pont de Géronvillers"
      }
     ]
    },
-   "insertionDate": "2026-11-14",
+   "insertionDate": "2026-11-16",
    "lots": [
     {
      "descriptions": [
       {
        "language": "FR",
-       "text": "Acquisition d'un robot tondeuse"
+       "text": "Démolition et remise en état de l'ouvrage de Géronvillers. Cela comprend : La démolition de l'ouvrage existant ; La mise en place d'éléments de type pertuis préfabriqués avec système d'ajustage du niveau d'eau en amont ; La rénovation de la voirie localement (endroit de l'intervention) ; "
       }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
      ],
      "titles": [
       {
        "language": "FR",
-       "text": "Acquisition d'un robot tondeuse"
+       "text": "Rénovation du pont de Géronvillers"
       }
      ]
     }
    ],
    "natures": [
-    "SUPPLIES"
+    "WORKS"
    ],
    "noticeIds": [
-    "76c3609e-5a2b-40fe-8c9a-97e2911b4d5f"
+    "3c18b8c4-1b2a-4d9f-b345-8ee42b2bf7e6"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE332"
+    "BE310",
+    "BE352"
    ],
    "organisation": {
-    "organisationId": 174,
+    "organisationId": 843,
     "organisationNames": [
      {
       "language": "FR",
-      "text": "Commune de Sprimont"
+      "text": "Chastre"
      },
      {
       "language": "DE",
-      "text": "Commune de Sprimont"
-     },
-     {
-      "language": "NL",
-      "text": "Sprimont"
+      "text": "Chastre"
      },
      {
       "language": "EN",
-      "text": "Sprimont"
+      "text": "Chastre"
+     },
+     {
+      "language": "NL",
+      "text": "Chastre"
      }
     ],
-    "tree": "200004.200021.174"
+    "tree": "200004.200021.843"
    },
-   "procedureId": "d1b717f0-23e7-4328-a2ff-1824385244c2",
-   "publicationDate": "2026-11-14",
+   "procedureId": "3e3f207d-8830-49d0-9fd9-356c6b7402ea",
+   "publicationDate": "2026-11-16",
    "publicationLanguages": [
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP06C-2062/6092/2026-066_002"
+    "PPP0DT-444/6103/2026/22_003"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "42fcd5f3-1426-48f8-96ec-ba2c81c1fdb1",
+   "publicationWorkspaceId": "3f9d50e7-a357-4224-aa2a-cca2b535ba52",
    "publishedAt": [
-    "2026-11-14T00:00:45.020828"
+    "2026-11-16T00:00:46.12232"
    ],
-   "referenceNumber": "PPP06C-2062/6092/2026-066_002",
+   "referenceNumber": "PPP0DT-444/6103/2026/22_003",
    "sentAt": [
-    "2026-11-14T00:00:45.020828"
+    "2026-11-16T00:00:46.12232"
    ],
    "tedPublished": false
   }
