@@ -49,12 +49,12 @@
        "text": "Travaux de réparation de routes"
       },
       {
-       "language": "NL",
-       "text": "Herstellen van wegen"
-      },
-      {
        "language": "EN",
        "text": "Road-repair works"
+      },
+      {
+       "language": "NL",
+       "text": "Herstellen van wegen"
       }
      ]
     }
@@ -71,12 +71,12 @@
       "text": "Travaux de réparation de routes"
      },
      {
-      "language": "NL",
-      "text": "Herstellen van wegen"
-     },
-     {
       "language": "EN",
       "text": "Road-repair works"
+     },
+     {
+      "language": "NL",
+      "text": "Herstellen van wegen"
      }
     ]
    },
