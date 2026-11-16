@@ -3,9 +3,6 @@
   "totalCount": 295653
  },
  "types": [
-  "ACTIVE|10|['SERVICES', 'SUPPLIES']",
-  "ACTIVE|10|['SERVICES']",
-  "ACTIVE|10|['WORKS']",
   "ACTIVE|16|['SERVICES', 'SUPPLIES']",
   "ACTIVE|16|['SERVICES']",
   "ACTIVE|16|['SUPPLIES', 'WORKS']",
@@ -15,18 +12,14 @@
   "ACTIVE|17|['WORKS']",
   "ACTIVE|19|['SERVICES']",
   "ACTIVE|20|['SERVICES']",
-  "ACTIVE|23|['WORKS']",
   "ACTIVE|29|['SERVICES']",
-  "ACTIVE|29|['SUPPLIES', 'WORKS']",
   "ACTIVE|29|['SUPPLIES']",
   "ACTIVE|29|['WORKS']",
-  "ACTIVE|30|['SERVICES']",
   "ACTIVE|30|['WORKS']",
   "ACTIVE|33|['SERVICES']",
   "ACTIVE|33|['SUPPLIES']",
   "ACTIVE|6|['SERVICES', 'SUPPLIES']",
   "ACTIVE|E1|['WORKS']",
-  "ACTIVE|E3|['SERVICES', 'SUPPLIES']",
   "ACTIVE|E3|['SERVICES']",
   "ACTIVE|E3|['SUPPLIES']",
   "ACTIVE|E3|['WORKS']",
@@ -49,12 +42,12 @@
        "text": "Travaux de réparation de routes"
       },
       {
-       "language": "EN",
-       "text": "Road-repair works"
-      },
-      {
        "language": "NL",
        "text": "Herstellen van wegen"
+      },
+      {
+       "language": "EN",
+       "text": "Road-repair works"
       }
      ]
     }
