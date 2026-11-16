@@ -1,14 +1,11 @@
 {
- "updated": "2026-11-16T21:01:24Z",
+ "updated": "2026-11-16T22:31:25Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
  "received": 461,
  "kept": 254,
  "count": 3299,
- "new_ids": [
-  "bda-880f0b72-8caf-4844-970b-b47282275f97",
-  "bda-60e6f33f-6ee8-40ac-a1ad-a5779c93b35f"
- ],
+ "new_ids": [],
  "records": [
   {
    "id": "bda-34e06093-2508-43c1-888b-95d31d521121",
@@ -255,7 +252,7 @@
    "verif_date": "2026-11-16",
    "preuve": "Bulletin des Adjudications, réf. GAC_2025_03662 (attribution, sous-type eForms 29), publié le 2026-11-16.",
    "date_publication": "2026-11-16",
-   "cpv": "71314000,71312000,71000000,79111000,90713000,66171000,71314310,71314300,79100000,71314200,71313000,71241000,71313400",
+   "cpv": "71314000,71312000,71000000,79111000,90713000,66171000,71314310,71314300,71314200,79100000,71313000,71241000,71313400",
    "ted_ref": "GAC_2025_03662_pub02",
    "notes": "Raamovereenkomst voor ad-hoc consultancy ter ondersteuning van het beleidsteam klimaatmitigatie van de stad Antwerpen. De opdracht omvat technische, financieel-economische, beleidsmatige, juridische eerstelijns- en gedragsmatige ondersteuning rond energiebeleid, met focus op hernieuwbare energie en ",
    "procedure": "fb903739-ee5c-4ee7-ab20-26515f91afdc",
@@ -318,7 +315,7 @@
    "verif_date": "2026-11-16",
    "preuve": "Bulletin des Adjudications, réf. GAC_2025_03663 (attribution, sous-type eForms 29), publié le 2026-11-16.",
    "date_publication": "2026-11-16",
-   "cpv": "71314000,71313000,09300000,79100000,71314310,66171000,71314300,71313400,09330000,71000000,71241000,71314200,71312000,90713000,79111000",
+   "cpv": "71314000,71313000,09300000,79100000,71314310,71314300,66171000,71313400,09330000,71000000,71241000,71314200,71312000,90713000,79111000",
    "ted_ref": "GAC_2025_03663_pub02",
    "notes": "Stad Antwerpen heeft het project Zon op Grote Daken’ (ZOGD) opgezet, met als doel een grote progressie te maken in het behalen van de doelstellingen rond zonne-energie. Stad Antwerpen heeft immers in zijn Klimaatplan 2030 de ambitie opgenomen om bijkomende fotovoltaïsche installaties op het hele gro",
    "procedure": "fb276319-b62f-421e-a98b-32d47e5c8082",
@@ -4119,7 +4116,7 @@
    "verif_date": "2026-11-16",
    "preuve": "Bulletin des Adjudications, réf. GAC_2026_03958 (attribution, sous-type eForms E4), publié le 2026-11-13.",
    "date_publication": "2026-11-13",
-   "cpv": "50000000,71315400,45262700",
+   "cpv": "50000000,45262700,71315400",
    "ted_ref": "",
    "notes": "Deze raamovereenkomst betreft het uitvoeren van noodzakelijke onderhouds-, herstellings-, verbeterings- en vervangingswerken aan het Stadhuis van Antwerpen (bruto-oppervlakte 10.171m² - netto-oppervlakte 6.524m²) inclusief aanleveren van materieel en materiaal voor deze herstellingen. De overeenkoms",
    "procedure": "b58e1a57-0f0b-42a7-9a91-d0d4a6f36fb8",
@@ -5043,7 +5040,7 @@
    "verif_date": "2026-11-16",
    "preuve": "Bulletin des Adjudications, réf. PPP0KI-1453/6129/FM/2026/065 (avis de marché, sous-type eForms 16), publié le 2026-11-13.",
    "date_publication": "2026-11-13",
-   "cpv": "71200000,71240000,71410000,71421000,71241000,71250000,71420000,71000000,71400000,71222000,79311000",
+   "cpv": "71200000,71240000,71241000,71410000,71421000,71250000,71420000,71000000,71400000,71222000,79311000",
    "ted_ref": "",
    "notes": "Campus Heiveld - Masterplan: studieopdracht",
    "procedure": "22579d74-b4b7-4402-a650-51f9970068a5",
