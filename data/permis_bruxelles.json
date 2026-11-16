@@ -1,12 +1,31 @@
 {
- "updated": "2026-11-16T11:01:47Z",
+ "updated": "2026-11-16T12:03:42Z",
  "source": "urban.brussels NOVA (WFS)",
  "days_back": 3,
- "received": 20,
- "kept": 1,
- "count": 200,
- "new_ids": [],
+ "received": 29,
+ "kept": 3,
+ "count": 202,
+ "new_ids": [
+  "nova-07/PU/2052622",
+  "nova-19/PU/2052594"
+ ],
  "records": [
+  {
+   "id": "nova-07/PU/2052622",
+   "source_type": "Permis",
+   "nom": "régularisation de l’appartement situé au rez-de-chaussée d’un immeuble à appartements",
+   "lieu": "Rue de Fierlant 78A, 1190 Forest",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='07/PU/2052622'",
+   "verif": "vérifié",
+   "verif_date": "2026-11-16",
+   "preuve": "Demande de permis 07/PU/2052622 reçue le 2026-11-15 (urban.brussels, service NOVA), surface projetée 85 m².",
+   "date_publication": "2026-11-15",
+   "notes": "Autorité : Forest",
+   "first_seen": "2026-11-16T12:03:42Z"
+  },
   {
    "id": "nova-02/PU/2052585",
    "source_type": "Permis",
@@ -38,6 +57,22 @@
    "date_publication": "2026-11-13",
    "notes": "Autorité : Woluwe-Saint-Pierre",
    "first_seen": "2026-11-14T05:01:29Z"
+  },
+  {
+   "id": "nova-19/PU/2052594",
+   "source_type": "Permis",
+   "nom": "adaptation de la largeur de la piscine à 3,60 m au lieu de 3 m (même longueur 12 m) : permis et plans approuvés par le Collège des Bourgmestre et Echevins le 14 octobre 2026 sous références: DB269/202",
+   "lieu": "Clos des Lauriers 33B, 1150 Woluwe-Saint-Pierre",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='19/PU/2052594'",
+   "verif": "vérifié",
+   "verif_date": "2026-11-16",
+   "preuve": "Demande de permis 19/PU/2052594 reçue le 2026-11-13 (urban.brussels, service NOVA), surface projetée 36 m².",
+   "date_publication": "2026-11-13",
+   "notes": "Autorité : Woluwe-Saint-Pierre",
+   "first_seen": "2026-11-16T12:03:42Z"
   },
   {
    "id": "nova-09/PU/2052410",
