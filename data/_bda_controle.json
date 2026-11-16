@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 295835
+  "totalCount": 295842
  },
  "types": [
   "ACTIVE|10|['WORKS']",
@@ -19,6 +19,7 @@
   "ACTIVE|29|['SERVICES']",
   "ACTIVE|29|['SUPPLIES']",
   "ACTIVE|29|['WORKS']",
+  "ACTIVE|30|['SERVICES']",
   "ACTIVE|30|['WORKS']",
   "ACTIVE|33|['SERVICES']",
   "ACTIVE|33|['SUPPLIES']",
@@ -40,227 +41,76 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45233142-6",
+     "code": "73300000-5",
      "descriptions": [
       {
-       "language": "DE",
-       "text": "Straßenausbesserungsarbeiten"
-      },
-      {
        "language": "FR",
-       "text": "Travaux de réparation de routes"
+       "text": "Conception et exécution dans le domaine de la recherche et du développement"
       },
       {
        "language": "NL",
-       "text": "Herstellen van wegen"
+       "text": "Planning en uitvoering van onderzoek en ontwikkeling"
       },
       {
        "language": "EN",
-       "text": "Road-repair works"
+       "text": "Design and execution of research and development"
+      },
+      {
+       "language": "DE",
+       "text": "Planung und Ausführung von Forschung und Entwicklung"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45233142-6",
+    "code": "73300000-5",
     "descriptions": [
      {
-      "language": "DE",
-      "text": "Straßenausbesserungsarbeiten"
-     },
-     {
       "language": "FR",
-      "text": "Travaux de réparation de routes"
+      "text": "Conception et exécution dans le domaine de la recherche et du développement"
      },
      {
       "language": "NL",
-      "text": "Herstellen van wegen"
+      "text": "Planning en uitvoering van onderzoek en ontwikkeling"
      },
      {
       "language": "EN",
-      "text": "Road-repair works"
+      "text": "Design and execution of research and development"
+     },
+     {
+      "language": "DE",
+      "text": "Planung und Ausführung von Forschung und Entwicklung"
      }
     ]
    },
-   "dispatchDate": "2026-11-16",
+   "dispatchDate": "2026-11-17",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Les voiries concernées par cet entretien extraordinaire 2026 – phase 2 sont les suivantes :    Entretien de voirie à Michamps Horitine =(carte I) Entretien de voirie à Flamisoul => Flamièrge =(carte II) Entretien de voirie à Flamisoul =>Rue des Mandurons =(carte III) Entretien de voirie à Lutremange =(carte IV)   Entretien de la voirie Michamps-Horitine-Al Hez (Carte I) • 1. Descriptions et état des lieux :  - Dégradations généralisées du revêtement de surface.  • 2. Travaux envisagés : - Réalisation d’un raclage de 4cm, - Rechargement généralisé en revêtement hydrocarboné, - Imperméabilisation du revêtement par un enduisage bicouche, - Rechargement des accotements avec du produit de fraisage provenant du chantier, - L’excédent de fraisage sera étendu dans un chemin communal situé dans un rayon de 10kms.   Entretien de la voirie Flamisoule vers Flamierge (Carte II) • 1. Descriptions et état des lieux :  - Fissuration généralisée du revêtement,  - Déformations importantes à plusieurs endroits indiquant la présence de défauts dans la fondation de la chaussée.   • 2. Travaux envisagés : - Réalisation de purges aux endroits présentant de fortes dégradations, - Imperméabilisation du revêtement par un enduisage bicouche.   Entretien de la voirie Flamisoule vers Mande-St-Etienne, rue des Mandurons (Carte III) • 1. Descriptions et état des lieux : - Fissuration et vieillesse généralisées du revêtement, - Affaissement des bords de chaussée présentant des dangers pour les usagers, - Déformations importantes à plusieurs endroits indiquant la présence de défauts dans la fondation de la chaussée.   • 2. Travaux envisagés : - Renforcement et sécurisation des bords, de part et d’autre de la chaussée, par la mise en place de bandes de contrebutage en béton coulées en place, de 30cm de large, - La voirie garde son gabarit,  - Réalisation de purges aux endroits présentant de fortes dégradations, - Remplacement complet du revêtement hydrocarboné,   - Rechargement des accotements avec du produit de fraisage provenant du chantier, - L’excédent de fraisage sera étendu dans un chemin communal situé dans un rayon de 10kms.   Entretien de la voirie à Lutremange, entre l’école et la rue principale du village (Carte IV) • 1. Descriptions et état des lieux : - Vieillesse, Fissuration et faïençage généralisés du revêtement, - Végétation présente dans les joints des filets d’eau en place, - Déformations importantes à plusieurs endroits indiquant la présence de défauts dans la fondation de la chaussée.   • 2. Travaux envisagés : - Réparation des joints des filets d’eau, - Fraisage du revêtement hydrocarboné,   - Réalisation de purges aux endroits présentant de fortes dégradations, - Remplacement complet du revêtement hydrocarboné.  - Le produit de fraisage sera étendu dans un chemin communal situé dans un rayon de 10kms. "
+      "language": "NL",
+      "text": "De opdracht omvat o.a. de opmaak van een procesnota, conceptnota, strategische visie, drie beleidskaders en een plan-MER. "
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP28A-3814/6443/2026-DT-10",
+    "number": "PPP00T-4096/6400/2026079",
     "procurementProcedureType": "OPEN",
-    "referenceNumber": "PPP28A-3814/6443/2026-DT-10",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "Entretien extraordinaire des voiries 2026 - Phase 2"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-16",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Les voiries concernées par cet entretien extraordinaire 2026 – phase 2 sont les suivantes :    Entretien de voirie à Michamps Horitine =(carte I) Entretien de voirie à Flamisoul => Flamièrge =(carte II) Entretien de voirie à Flamisoul =>Rue des Mandurons =(carte III) Entretien de voirie à Lutremange =(carte IV)   Entretien de la voirie Michamps-Horitine-Al Hez (Carte I) • 1. Descriptions et état des lieux :  - Dégradations généralisées du revêtement de surface.  • 2. Travaux envisagés : - Réalisation d’un raclage de 4cm, - Rechargement généralisé en revêtement hydrocarboné, - Imperméabilisation du revêtement par un enduisage bicouche, - Rechargement des accotements avec du produit de fraisage provenant du chantier, - L’excédent de fraisage sera étendu dans un chemin communal situé dans un rayon de 10kms.   Entretien de la voirie Flamisoule vers Flamierge (Carte II) • 1. Descriptions et état des lieux :  - Fissuration généralisée du revêtement,  - Déformations importantes à plusieurs endroits indiquant la présence de défauts dans la fondation de la chaussée.   • 2. Travaux envisagés : - Réalisation de purges aux endroits présentant de fortes dégradations, - Imperméabilisation du revêtement par un enduisage bicouche.   Entretien de la voirie Flamisoule vers Mande-St-Etienne, rue des Mandurons (Carte III) • 1. Descriptions et état des lieux : - Fissuration et vieillesse généralisées du revêtement, - Affaissement des bords de chaussée présentant des dangers pour les usagers, - Déformations importantes à plusieurs endroits indiquant la présence de défauts dans la fondation de la chaussée.   • 2. Travaux envisagés : - Renforcement et sécurisation des bords, de part et d’autre de la chaussée, par la mise en place de bandes de contrebutage en béton coulées en place, de 30cm de large, - La voirie garde son gabarit,  - Réalisation de purges aux endroits présentant de fortes dégradations, - Remplacement complet du revêtement hydrocarboné,   - Rechargement des accotements avec du produit de fraisage provenant du chantier, - L’excédent de fraisage sera étendu dans un chemin communal situé dans un rayon de 10kms.   Entretien de la voirie à Lutremange, entre l’école et la rue principale du village (Carte IV) • 1. Descriptions et état des lieux : - Vieillesse, Fissuration et faïençage généralisés du revêtement, - Végétation présente dans les joints des filets d’eau en place, - Déformations importantes à plusieurs endroits indiquant la présence de défauts dans la fondation de la chaussée.   • 2. Travaux envisagés : - Réparation des joints des filets d’eau, - Fraisage du revêtement hydrocarboné,   - Réalisation de purges aux endroits présentant de fortes dégradations, - Remplacement complet du revêtement hydrocarboné.  - Le produit de fraisage sera étendu dans un chemin communal situé dans un rayon de 10kms. "
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Entretien extraordinaire des voiries 2026 - Phase 2"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "WORKS"
-   ],
-   "noticeIds": [
-    "7f0ae484-8527-4cbb-8e40-fb3100d58b54"
-   ],
-   "noticeSubType": "16",
-   "nutsCodes": [
-    "BE342"
-   ],
-   "organisation": {
-    "organisationId": 30481,
-    "organisationNames": [
-     {
-      "language": "FR",
-      "text": "Ville de Bastogne"
-     }
-    ],
-    "tree": "200004.200021.30481"
-   },
-   "procedureId": "ecb6aafd-d223-4cff-943b-bfc4a127af1f",
-   "publicationDate": "2026-11-16",
-   "publicationLanguages": [
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP28A-3814/6443/2026-DT-10_001"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "34e06093-2508-43c1-888b-95d31d521121",
-   "publishedAt": [
-    "2026-11-16T00:00:45.702773"
-   ],
-   "referenceNumber": "PPP28A-3814/6443/2026-DT-10_001",
-   "sentAt": [
-    "2026-11-16T00:00:45.702773"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-12-22T08:00:00"
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "79996000-2",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Services d'organisation économique"
-      },
-      {
-       "language": "DE",
-       "text": "Unternehmensorganisation"
-      },
-      {
-       "language": "NL",
-       "text": "Bedrijfsorganisatiediensten"
-      },
-      {
-       "language": "EN",
-       "text": "Business organisation services"
-      }
-     ]
-    },
-    {
-     "code": "79421000-1",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Projectbeheerdiensten, met uitzondering van projecten bij bouwwerkzaamheden"
-      },
-      {
-       "language": "FR",
-       "text": "Services de gestion de projets autres que pour les travaux de construction"
-      },
-      {
-       "language": "EN",
-       "text": "Project-management services other than for construction work"
-      },
-      {
-       "language": "DE",
-       "text": "Projektmanagement, außer Projektüberwachung von Bauarbeiten"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "79996000-2",
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Services d'organisation économique"
-     },
-     {
-      "language": "DE",
-      "text": "Unternehmensorganisation"
-     },
-     {
-      "language": "NL",
-      "text": "Bedrijfsorganisatiediensten"
-     },
-     {
-      "language": "EN",
-      "text": "Business organisation services"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-16",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "De opdracht betreft de tijdelijke inzet van een externe projectleider die, binnen het Dilbeekse BOA-beleidskader, de leiding neemt over een aantal limitatief omschreven projecten inzake buitenschoolse opvang en activiteiten tijdens de periode van 1 februari 2027 tot en met 30 juni 2027."
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP07V-2176/6568/2026314",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "PPP07V-2176/6568/2026314",
+    "referenceNumber": "PPP00T-4096/6400/2026079",
     "titles": [
      {
       "language": "NL",
-      "text": "Consulent projectleider regierol buitenschoolse opvang en activiteiten"
+      "text": "Opmaak van een beleidsplan ruimte voor de gemeente Koksijde, inclusief PLAN-MER en 3 beleidskaders"
      }
     ]
    },
-   "insertionDate": "2026-11-16",
+   "insertionDate": "2026-11-17",
    "lots": [
     {
      "descriptions": [
       {
        "language": "NL",
-       "text": "De opdracht betreft de tijdelijke inzet van een externe projectleider die, binnen het Dilbeekse BOA-beleidskader, de leiding neemt over een aantal limitatief omschreven projecten inzake buitenschoolse opvang en activiteiten tijdens de periode van 1 februari 2027 tot en met 30 juni 2027."
+       "text": "De opdracht omvat o.a. de opmaak van een procesnota, conceptnota, strategische visie, drie beleidskaders en een plan-MER. "
       }
      ],
      "reservedExecution": [
@@ -272,7 +122,7 @@
      "titles": [
       {
        "language": "NL",
-       "text": "Consulent projectleider regierol buitenschoolse opvang en activiteiten"
+       "text": "Opmaak van een beleidsplan ruimte voor de gemeente Koksijde, inclusief PLAN-MER en 3 beleidskaders"
       }
      ]
     }
@@ -281,128 +131,277 @@
     "SERVICES"
    ],
    "noticeIds": [
-    "a49673d0-e87f-4e9e-974a-715e93f3d8dc"
+    "5a67b51a-84bb-4cb5-b988-756dc9a32dec"
    ],
-   "noticeSubType": "16",
+   "noticeSubType": "E4",
    "nutsCodes": [
-    "BE241"
+    "BE100"
    ],
    "organisation": {
-    "organisationId": 207,
+    "organisationId": 260,
     "organisationNames": [
      {
-      "language": "DE",
-      "text": "Dilbeek"
+      "language": "EN",
+      "text": "Koksijde"
      },
      {
       "language": "NL",
-      "text": "Dilbeek"
-     },
-     {
-      "language": "EN",
-      "text": "Dilbeek"
+      "text": "Koksijde"
      },
      {
       "language": "FR",
-      "text": "Dilbeek"
+      "text": "Koksijde"
+     },
+     {
+      "language": "DE",
+      "text": "Koksijde"
      }
     ],
-    "tree": "200004.200021.207"
+    "tree": "200004.200021.260"
    },
-   "procedureId": "b4cee1d3-edff-4375-81e3-8da6c24925b8",
-   "publicationDate": "2026-11-16",
+   "procedureId": "392769f0-8f1c-45f4-b908-64652768fac7",
+   "publicationDate": "2026-11-17",
    "publicationLanguages": [
     "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP07V-2176/6568/2026314_001"
+    "PPP00T-4096/6400/2026079_003"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "63cfbc7d-a0b9-4803-80fb-390d23f50bee",
+   "publicationWorkspaceId": "e0b28ec8-8c7d-473a-a0c8-02174b9603a4",
    "publishedAt": [
-    "2026-11-16T00:00:46.344766"
+    "2026-11-17T00:00:46.378094"
    ],
-   "referenceNumber": "PPP07V-2176/6568/2026314_001",
+   "referenceNumber": "PPP00T-4096/6400/2026079_003",
    "sentAt": [
-    "2026-11-16T00:00:46.344766"
+    "2026-11-17T00:00:46.378094"
    ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-12-04T11:00:00"
+   "tedPublished": false
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45221119-9",
+     "code": "90919200-4",
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Travaux de rénovation de ponts"
+       "language": "DE",
+       "text": "Büroreinigung"
       },
       {
        "language": "EN",
-       "text": "Bridge renewal construction work"
-      },
-      {
-       "language": "DE",
-       "text": "Bauarbeiten zur Erneuerung von Brücken"
+       "text": "Office cleaning services"
       },
       {
        "language": "NL",
-       "text": "Brugrenovatiebouw"
+       "text": "Schoonmaken van kantoren"
+      },
+      {
+       "language": "FR",
+       "text": "Services de nettoyage de bureaux"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45221119-9",
+    "code": "90919200-4",
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Travaux de rénovation de ponts"
+      "language": "DE",
+      "text": "Büroreinigung"
      },
      {
       "language": "EN",
-      "text": "Bridge renewal construction work"
-     },
-     {
-      "language": "DE",
-      "text": "Bauarbeiten zur Erneuerung von Brücken"
+      "text": "Office cleaning services"
      },
      {
       "language": "NL",
-      "text": "Brugrenovatiebouw"
+      "text": "Schoonmaken van kantoren"
+     },
+     {
+      "language": "FR",
+      "text": "Services de nettoyage de bureaux"
      }
     ]
    },
-   "dispatchDate": "2026-11-16",
+   "dispatchDate": "2026-11-17",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Démolition et remise en état de l'ouvrage de Géronvillers. Cela comprend : La démolition de l'ouvrage existant ; La mise en place d'éléments de type pertuis préfabriqués avec système d'ajustage du niveau d'eau en amont ; La rénovation de la voirie localement (endroit de l'intervention) ; "
+      "language": "NL",
+      "text": "Deze opdracht behelst het schoonmaken van het Annexgebouw, Zeelaan 42 te 8670 Koksijde. De volledige oplijsting is terug te vinden in het inventarisformulier opgenomen in het bestek.  Alle vermelde hoeveelheden zijn vermoedelijke hoeveelheden voor het volledige dienstjaar 2027. "
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP0DT-444/6103/2026/22",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "PPP0DT-444/6103/2026/22",
+    "number": "PPP00T-4156/6687/2026139",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP00T-4156/6687/2026139",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
-      "language": "FR",
-      "text": "Rénovation du pont de Géronvillers"
+      "language": "NL",
+      "text": "Schoonmaak annexgebouw - dienstjaar 2027"
      }
     ]
    },
-   "insertionDate": "2026-11-16",
+   "insertionDate": "2026-11-17",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Deze opdracht behelst het schoonmaken van het Annexgebouw, Zeelaan 42 te 8670 Koksijde. De volledige oplijsting is terug te vinden in het inventarisformulier opgenomen in het bestek.  Alle vermelde hoeveelheden zijn vermoedelijke hoeveelheden voor het volledige dienstjaar 2027. "
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Schoonmaak annexgebouw - dienstjaar 2027"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SERVICES"
+   ],
+   "noticeIds": [
+    "956cc75d-3f6b-4346-a231-dbb044e07ba4"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE258"
+   ],
+   "organisation": {
+    "organisationId": 260,
+    "organisationNames": [
+     {
+      "language": "EN",
+      "text": "Koksijde"
+     },
+     {
+      "language": "NL",
+      "text": "Koksijde"
+     },
+     {
+      "language": "FR",
+      "text": "Koksijde"
+     },
+     {
+      "language": "DE",
+      "text": "Koksijde"
+     }
+    ],
+    "tree": "200004.200021.260"
+   },
+   "procedureId": "31f5fd88-19a7-442b-8b63-57f39627cf9d",
+   "publicationDate": "2026-11-17",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP00T-4156/6687/2026139_002"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "26d01d64-8af3-45d3-b673-38f1b69dfb88",
+   "publishedAt": [
+    "2026-11-17T00:00:48.567601"
+   ],
+   "referenceNumber": "PPP00T-4156/6687/2026139_002",
+   "sentAt": [
+    "2026-11-17T00:00:48.567601"
+   ],
+   "tedPublished": false
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45220000-5",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Engineering works and construction works"
+      },
+      {
+       "language": "FR",
+       "text": "Ouvrages d'art et de génie civil"
+      },
+      {
+       "language": "NL",
+       "text": "Civieltechnische en bouwwerkzaamheden"
+      },
+      {
+       "language": "DE",
+       "text": "Ingenieur- und Hochbauarbeiten"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45000000-7",
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Bouwwerkzaamheden"
+     },
+     {
+      "language": "FR",
+      "text": "Travaux de construction"
+     },
+     {
+      "language": "EN",
+      "text": "Construction work"
+     },
+     {
+      "language": "DE",
+      "text": "Bauarbeiten"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-17",
+   "dossier": {
+    "accreditations": {
+     "E": 6
+    },
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Ce marché concerne: - pose d'enrochements ;  - reprofilage du talus ;  - création de redans dans les zones de glissement ; - entretien de l’aqueduc situé à la bk 106.756."
+     }
+    ],
+    "enterpriseCategories": [
+     {
+      "categoryCode": "E",
+      "levels": [
+       6,
+       5,
+       4,
+       3,
+       2,
+       1
+      ]
+     }
+    ],
+    "legalBasis": "D25",
+    "number": "5753426082",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "5753426082",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "L165 : Saint-Vincent et Virton : Commune de Tintigny - Stabilisation du talus en VB entre les bk 106.920 et 107.131"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-17",
    "lots": [
     {
      "descriptions": [
       {
        "language": "FR",
-       "text": "Démolition et remise en état de l'ouvrage de Géronvillers. Cela comprend : La démolition de l'ouvrage existant ; La mise en place d'éléments de type pertuis préfabriqués avec système d'ajustage du niveau d'eau en amont ; La rénovation de la voirie localement (endroit de l'intervention) ; "
+       "text": "Ce marché concerne: - pose d'enrochements ;  - reprofilage du talus ;  - création de redans dans les zones de glissement ; - entretien de l’aqueduc situé à la bk 106.756."
       }
      ],
      "reservedExecution": [
@@ -414,7 +413,7 @@
      "titles": [
       {
        "language": "FR",
-       "text": "Rénovation du pont de Géronvillers"
+       "text": "5753426082"
       }
      ]
     }
@@ -423,130 +422,130 @@
     "WORKS"
    ],
    "noticeIds": [
-    "3c18b8c4-1b2a-4d9f-b345-8ee42b2bf7e6"
+    "ca3fe9b2-f86f-473e-a1a6-e4865ab4f5cb"
    ],
-   "noticeSubType": "E4",
+   "noticeSubType": "17",
    "nutsCodes": [
-    "BE310",
-    "BE352"
+    "BE345"
    ],
    "organisation": {
-    "organisationId": 843,
+    "organisationId": 17122,
     "organisationNames": [
      {
-      "language": "FR",
-      "text": "Chastre"
-     },
-     {
-      "language": "DE",
-      "text": "Chastre"
-     },
-     {
       "language": "EN",
-      "text": "Chastre"
+      "text": "Infrabel Projects South"
      },
      {
       "language": "NL",
-      "text": "Chastre"
+      "text": "Infrabel Projects South"
+     },
+     {
+      "language": "FR",
+      "text": "Infrabel Projects South"
+     },
+     {
+      "language": "DE",
+      "text": "Infrabel Projects South"
      }
     ],
-    "tree": "200004.200021.843"
+    "tree": "200002.200014.4784.17122"
    },
-   "procedureId": "3e3f207d-8830-49d0-9fd9-356c6b7402ea",
-   "publicationDate": "2026-11-16",
+   "procedureId": "68f3d35a-109c-4b37-a551-6c93b764e485",
+   "publicationDate": "2026-11-17",
    "publicationLanguages": [
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP0DT-444/6103/2026/22_003"
+    "5753426082_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "3f9d50e7-a357-4224-aa2a-cca2b535ba52",
+   "publicationWorkspaceId": "24f442db-a472-45ce-82c3-f6556532e459",
    "publishedAt": [
-    "2026-11-16T00:00:46.12232"
+    "2026-11-17T00:00:48.954997"
    ],
-   "referenceNumber": "PPP0DT-444/6103/2026/22_003",
+   "referenceNumber": "5753426082_pub01",
    "sentAt": [
-    "2026-11-16T00:00:46.12232"
+    "2026-11-17T00:00:48.954997"
    ],
-   "tedPublished": false
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-12-17T14:00:00"
   }
  ],
  "exemple_attribution": [
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45221119-9",
+     "code": "73300000-5",
      "descriptions": [
       {
        "language": "FR",
-       "text": "Travaux de rénovation de ponts"
-      },
-      {
-       "language": "EN",
-       "text": "Bridge renewal construction work"
-      },
-      {
-       "language": "DE",
-       "text": "Bauarbeiten zur Erneuerung von Brücken"
+       "text": "Conception et exécution dans le domaine de la recherche et du développement"
       },
       {
        "language": "NL",
-       "text": "Brugrenovatiebouw"
+       "text": "Planning en uitvoering van onderzoek en ontwikkeling"
+      },
+      {
+       "language": "EN",
+       "text": "Design and execution of research and development"
+      },
+      {
+       "language": "DE",
+       "text": "Planung und Ausführung von Forschung und Entwicklung"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45221119-9",
+    "code": "73300000-5",
     "descriptions": [
      {
       "language": "FR",
-      "text": "Travaux de rénovation de ponts"
-     },
-     {
-      "language": "EN",
-      "text": "Bridge renewal construction work"
-     },
-     {
-      "language": "DE",
-      "text": "Bauarbeiten zur Erneuerung von Brücken"
+      "text": "Conception et exécution dans le domaine de la recherche et du développement"
      },
      {
       "language": "NL",
-      "text": "Brugrenovatiebouw"
+      "text": "Planning en uitvoering van onderzoek en ontwikkeling"
+     },
+     {
+      "language": "EN",
+      "text": "Design and execution of research and development"
+     },
+     {
+      "language": "DE",
+      "text": "Planung und Ausführung von Forschung und Entwicklung"
      }
     ]
    },
-   "dispatchDate": "2026-11-16",
+   "dispatchDate": "2026-11-17",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Démolition et remise en état de l'ouvrage de Géronvillers. Cela comprend : La démolition de l'ouvrage existant ; La mise en place d'éléments de type pertuis préfabriqués avec système d'ajustage du niveau d'eau en amont ; La rénovation de la voirie localement (endroit de l'intervention) ; "
+      "language": "NL",
+      "text": "De opdracht omvat o.a. de opmaak van een procesnota, conceptnota, strategische visie, drie beleidskaders en een plan-MER. "
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP0DT-444/6103/2026/22",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "PPP0DT-444/6103/2026/22",
+    "number": "PPP00T-4096/6400/2026079",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "PPP00T-4096/6400/2026079",
     "titles": [
      {
-      "language": "FR",
-      "text": "Rénovation du pont de Géronvillers"
+      "language": "NL",
+      "text": "Opmaak van een beleidsplan ruimte voor de gemeente Koksijde, inclusief PLAN-MER en 3 beleidskaders"
      }
     ]
    },
-   "insertionDate": "2026-11-16",
+   "insertionDate": "2026-11-17",
    "lots": [
     {
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Démolition et remise en état de l'ouvrage de Géronvillers. Cela comprend : La démolition de l'ouvrage existant ; La mise en place d'éléments de type pertuis préfabriqués avec système d'ajustage du niveau d'eau en amont ; La rénovation de la voirie localement (endroit de l'intervention) ; "
+       "language": "NL",
+       "text": "De opdracht omvat o.a. de opmaak van een procesnota, conceptnota, strategische visie, drie beleidskaders en een plan-MER. "
       }
      ],
      "reservedExecution": [
@@ -557,62 +556,61 @@
      ],
      "titles": [
       {
-       "language": "FR",
-       "text": "Rénovation du pont de Géronvillers"
+       "language": "NL",
+       "text": "Opmaak van een beleidsplan ruimte voor de gemeente Koksijde, inclusief PLAN-MER en 3 beleidskaders"
       }
      ]
     }
    ],
    "natures": [
-    "WORKS"
+    "SERVICES"
    ],
    "noticeIds": [
-    "3c18b8c4-1b2a-4d9f-b345-8ee42b2bf7e6"
+    "5a67b51a-84bb-4cb5-b988-756dc9a32dec"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE310",
-    "BE352"
+    "BE100"
    ],
    "organisation": {
-    "organisationId": 843,
+    "organisationId": 260,
     "organisationNames": [
      {
-      "language": "FR",
-      "text": "Chastre"
-     },
-     {
-      "language": "DE",
-      "text": "Chastre"
-     },
-     {
       "language": "EN",
-      "text": "Chastre"
+      "text": "Koksijde"
      },
      {
       "language": "NL",
-      "text": "Chastre"
+      "text": "Koksijde"
+     },
+     {
+      "language": "FR",
+      "text": "Koksijde"
+     },
+     {
+      "language": "DE",
+      "text": "Koksijde"
      }
     ],
-    "tree": "200004.200021.843"
+    "tree": "200004.200021.260"
    },
-   "procedureId": "3e3f207d-8830-49d0-9fd9-356c6b7402ea",
-   "publicationDate": "2026-11-16",
+   "procedureId": "392769f0-8f1c-45f4-b908-64652768fac7",
+   "publicationDate": "2026-11-17",
    "publicationLanguages": [
-    "FR"
+    "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP0DT-444/6103/2026/22_003"
+    "PPP00T-4096/6400/2026079_003"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "3f9d50e7-a357-4224-aa2a-cca2b535ba52",
+   "publicationWorkspaceId": "e0b28ec8-8c7d-473a-a0c8-02174b9603a4",
    "publishedAt": [
-    "2026-11-16T00:00:46.12232"
+    "2026-11-17T00:00:46.378094"
    ],
-   "referenceNumber": "PPP0DT-444/6103/2026/22_003",
+   "referenceNumber": "PPP00T-4096/6400/2026079_003",
    "sentAt": [
-    "2026-11-16T00:00:46.12232"
+    "2026-11-17T00:00:46.378094"
    ],
    "tedPublished": false
   }
