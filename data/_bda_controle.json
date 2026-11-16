@@ -1,9 +1,8 @@
 {
  "meta": {
-  "totalCount": 295755
+  "totalCount": 295767
  },
  "types": [
-  "ACTIVE|16|['SERVICES', 'SUPPLIES']",
   "ACTIVE|16|['SERVICES', 'WORKS']",
   "ACTIVE|16|['SERVICES']",
   "ACTIVE|16|['SUPPLIES', 'WORKS']",
@@ -48,12 +47,12 @@
        "text": "Travaux de réparation de routes"
       },
       {
-       "language": "NL",
-       "text": "Herstellen van wegen"
-      },
-      {
        "language": "EN",
        "text": "Road-repair works"
+      },
+      {
+       "language": "NL",
+       "text": "Herstellen van wegen"
       }
      ]
     }
@@ -70,12 +69,12 @@
       "text": "Travaux de réparation de routes"
      },
      {
-      "language": "EN",
-      "text": "Road-repair works"
-     },
-     {
       "language": "NL",
       "text": "Herstellen van wegen"
+     },
+     {
+      "language": "EN",
+      "text": "Road-repair works"
      }
     ]
    },
