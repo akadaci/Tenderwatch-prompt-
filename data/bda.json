@@ -1,20 +1,11 @@
 {
- "updated": "2026-11-17T04:46:54Z",
+ "updated": "2026-11-17T05:01:49Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
  "received": 373,
  "kept": 179,
  "count": 3309,
- "new_ids": [
-  "bda-03654f69-e088-44ca-9e03-81e76ff81262",
-  "bda-dae3a98b-6a67-4e22-9e94-b29284757793",
-  "bda-ee356cbc-9dbd-407f-8a40-bb91bb3e03e1",
-  "bda-93c90a4c-38c2-4372-8f0e-21cd87b18608",
-  "bda-5f265f8e-2da6-4012-be51-970798e7681d",
-  "bda-789b2ef7-e9d2-43a4-b244-c91128c79ab6",
-  "bda-bc2b1f2a-a01a-4925-b455-99bd8970e390",
-  "bda-18db70a3-5fe4-4917-b1fa-7e4fa1faff4a"
- ],
+ "new_ids": [],
  "records": [
   {
    "id": "bda-c4bd16a5-17fd-4449-b455-941fdd2db386",
