@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 295904
+  "totalCount": 295945
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -36,8 +36,10 @@
   "ACTIVE|E1|['SUPPLIES']",
   "ACTIVE|E3|['SERVICES', 'SUPPLIES', 'WORKS']",
   "ACTIVE|E3|['SERVICES']",
+  "ACTIVE|E3|['SUPPLIES', 'SERVICES']",
   "ACTIVE|E3|['SUPPLIES']",
   "ACTIVE|E3|['WORKS']",
+  "ACTIVE|E4|['SERVICES', 'WORKS']",
   "ACTIVE|E4|['SERVICES']",
   "ACTIVE|E4|['SUPPLIES']",
   "ACTIVE|E4|['WORKS']"
@@ -46,45 +48,45 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "79000000-4",
+     "code": "73300000-5",
      "descriptions": [
       {
-       "language": "DE",
-       "text": "Dienstleistungen für Unternehmen: Recht, Marketing, Consulting, Einstellungen, Druck und Sicherheit"
-      },
-      {
        "language": "FR",
-       "text": "Services aux entreprises: droit, marketing, conseil, recrutement, impression et sécurité"
-      },
-      {
-       "language": "EN",
-       "text": "Business services: law, marketing, consulting, recruitment, printing and security"
+       "text": "Conception et exécution dans le domaine de la recherche et du développement"
       },
       {
        "language": "NL",
-       "text": "Zakelijke dienstverlening: juridisch, marketing, consulting, drukkerij en beveiliging"
+       "text": "Planning en uitvoering van onderzoek en ontwikkeling"
+      },
+      {
+       "language": "EN",
+       "text": "Design and execution of research and development"
+      },
+      {
+       "language": "DE",
+       "text": "Planung und Ausführung von Forschung und Entwicklung"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "79000000-4",
+    "code": "73000000-2",
     "descriptions": [
      {
-      "language": "DE",
-      "text": "Dienstleistungen für Unternehmen: Recht, Marketing, Consulting, Einstellungen, Druck und Sicherheit"
+      "language": "NL",
+      "text": "Onderzoek en ontwikkeling, en aanverwante adviezen"
      },
      {
       "language": "FR",
-      "text": "Services aux entreprises: droit, marketing, conseil, recrutement, impression et sécurité"
+      "text": "Services de recherche et développement et services de conseil connexes"
+     },
+     {
+      "language": "DE",
+      "text": "Forschungs- und Entwicklungsdienste und zugehörige Beratung"
      },
      {
       "language": "EN",
-      "text": "Business services: law, marketing, consulting, recruitment, printing and security"
-     },
-     {
-      "language": "NL",
-      "text": "Zakelijke dienstverlening: juridisch, marketing, consulting, drukkerij en beveiliging"
+      "text": "Research and development services and related consultancy services"
      }
     ]
    },
@@ -94,73 +96,40 @@
     "descriptions": [
      {
       "language": "NL",
-      "text": "Raamovereenkomst voor het aanduiden van 2 ratingagentschappen."
-     },
-     {
-      "language": "FR",
-      "text": "Accord-cadre pour la désignation de 2 agences de notation."
+      "text": "Deze opdracht betreft de evaluatie van het ESF+ programma Leerecosystemen (LES) waarin momenteel 21 projecten worden ondersteund in Vlaanderen. Deze LES hebben als doel de leergoesting van Vlaamse burgers, jong en oud, te versterken en hun deelname aan levenslang leren te verhogen. De projecten realiseren dit door burgers in levensechte contexten te ondersteunen bij het ontdekken en ontwikkelen van hun talenten, het formuleren van toekomstperspectieven en het uittekenen van een persoonlijk leerpad. Bijzondere aandacht gaat naar personen die moeilijk tot leren komen binnen meer formele leercontexten. De LES-projecten verbinden daarbij verschillende formele, niet-formele en informele leercontexten met het oog op een betere afstemming op individuele leerdoelen en leerstijlen.   De evaluatie heeft twee doelstellingen: verantwoording en kennisopbouw bij strategische partners en betrokken actoren. De evaluatievraag die centraal staat voor deze opdracht is: In welke mate en op welke manier dragen de LES-projecten met hun leeraanbod bij aan het versterken van het leervermogen (‘learner agency’) bij burgers, in het bijzonder bij zij die moeilijk tot leren komen?   Om de overkoepelende evaluatievraag te beantwoorden gaat de opdrachtgever uit van een theorie-gebaseerde evaluatiebenadering met een drieledige evaluatiestrategie:   1. Formatieve evalueerbaarheidsstudie om het theoretisch en verklarend model over hoe projecten kunnen bijdragen aan de beoogde (en ongewenste) effecten verder uit te werken en verfijnen en op basis daarvan de gehanteerde strategieën en leerpaden te inventariseren/categoriseren;  2. Empirische effectevaluatie om de effecten van het aanbod van de LES projecten bij individuen te onderzoeken en verklaren via (vergelijkende) gevalstudies; 3. Kennisdelingsactiviteiten met het oog op het opbouwen en verspreiden van kennis bij actoren van binnen en buiten het ESF+ programma Leerecosystemen.   Inschrijvers moeten in hun projectvoorstel voor elk onderdeel van de evaluatieopdracht een aanpak en bijhorende onderzoeksmethoden voorstellen die afgestemd zijn op de evaluatievragen en doelstellingen.   De opdracht heeft een uitvoeringstermijn van 18 maanden. De uitvoering is voorzien van januari 2027 tot en met juni 2028. De opdracht hanteert een prijsvork van 125.000 tot 150.000 euro (inclusief BTW). De belangrijkste deliverables zijn het inceptierapport, het evaluatierapport en activiteiten/producten voor kennisdeling en capaciteitsopbouw van betrokken actoren.  Voor deze opdracht zijn we op zoek naar een gemotiveerd onderzoeksteam dat beschikt over relevante thematische kennis, ervaring met theorie-gebaseerde impactevaluatie en gevalstudie onderzoek. De opdracht wordt gegund op basis van de beste prijs-kwaliteitverhouding.  "
      }
     ],
     "enterpriseCategories": [],
-    "legalBasis": "D25",
-    "number": "0000825871_NS",
-    "procurementProcedureType": "NEG_WO_CALL_25",
-    "referenceNumber": "0000825871_NS",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "legalBasis": "D24",
+    "number": "LES_09102026",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "LES_09102026",
     "titles": [
      {
-      "language": "FR",
-      "text": "La désignation de 2 agences de notation."
-     },
-     {
       "language": "NL",
-      "text": "Aanduiden van 2 ratingagentschappen."
+      "text": "Impactevaluatie Leerecosystemen"
      }
     ]
    },
-   "insertionDate": "2026-11-17",
+   "insertionDate": "2026-10-09",
    "lots": [
     {
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Accord-cadre pour la désignation d'une agence de notation. Il sera attribué un maximum de 1 lot par soumissionnaire."
-      },
-      {
        "language": "NL",
-       "text": "Raamovereenkomst voor het aanduiden van een ratingagentschap. Er wordt maximaal 1 perceel per inschrijver toegewezen. "
+       "text": "Deze opdracht betreft de evaluatie van het ESF+ programma Leerecosystemen (LES) waarin momenteel 21 projecten worden ondersteund in Vlaanderen. Deze LES hebben als doel de leergoesting van Vlaamse burgers, jong en oud, te versterken en hun deelname aan levenslang leren te verhogen. De projecten realiseren dit door burgers in levensechte contexten te ondersteunen bij het ontdekken en ontwikkelen van hun talenten, het formuleren van toekomstperspectieven en het uittekenen van een persoonlijk leerpad. Bijzondere aandacht gaat naar personen die moeilijk tot leren komen binnen meer formele leercontexten. De LES-projecten verbinden daarbij verschillende formele, niet-formele en informele leercontexten met het oog op een betere afstemming op individuele leerdoelen en leerstijlen.   De evaluatie heeft twee doelstellingen: verantwoording en kennisopbouw bij strategische partners en betrokken actoren. De evaluatievraag die centraal staat voor deze opdracht is: In welke mate en op welke manier dragen de LES-projecten met hun leeraanbod bij aan het versterken van het leervermogen (‘learner agency’) bij burgers, in het bijzonder bij zij die moeilijk tot leren komen?   Om de overkoepelende evaluatievraag te beantwoorden gaat de opdrachtgever uit van een theorie-gebaseerde evaluatiebenadering met een drieledige evaluatiestrategie:  1. Formatieve evalueerbaarheidsstudie om het theoretisch en verklarend model over hoe projecten kunnen bijdragen aan de beoogde (en ongewenste) effecten verder uit te werken en verfijnen en op basis daarvan de gehanteerde strategieën en leerpaden te inventariseren/categoriseren;  2. Empirische effectevaluatie om de effecten van het aanbod van de LES projecten bij individuen te onderzoeken en verklaren via (vergelijkende) gevalstudies; 3. Kennisdelingsactiviteiten met het oog op het opbouwen en verspreiden van kennis bij actoren van binnen en buiten het ESF+ programma Leerecosystemen.   Inschrijvers moeten in hun projectvoorstel voor elk onderdeel van de evaluatieopdracht een aanpak en bijhorende onderzoeksmethoden voorstellen die afgestemd zijn op de evaluatievragen en doelstellingen.   De opdracht heeft een uitvoeringstermijn van 18 maanden. De uitvoering is voorzien van januari 2027 tot en met juni 2028. De opdracht hanteert een prijsvork van 125.000 tot 150.000 euro (inclusief BTW). De belangrijkste deliverables zijn het inceptierapport, het evaluatierapport en activiteiten/producten voor kennisdeling en capaciteitsopbouw van betrokken actoren.  Voor deze opdracht zijn we op zoek naar een gemotiveerd onderzoeksteam dat beschikt over relevante thematische kennis, ervaring met theorie-gebaseerde impactevaluatie en gevalstudie onderzoek. De opdracht wordt gegund op basis van de beste prijs-kwaliteitverhouding.  "
       }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
      ],
      "titles": [
       {
        "language": "NL",
-       "text": "0000825871_NS - 2"
-      },
-      {
-       "language": "FR",
-       "text": "0000825871_NS - 2"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Raamovereenkomst voor het aanduiden van een ratingagentschap. Er wordt maximaal 1 perceel per inschrijver toegewezen."
-      },
-      {
-       "language": "FR",
-       "text": "Accord-cadre pour la désignation d'une agence de notation. Il sera attribué un maximum de 1 lot par soumissionnaire. "
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "0000825871_NS - 1"
-      },
-      {
-       "language": "FR",
-       "text": "0000825871_NS - 1"
+       "text": "LES_09102026 - 1"
       }
      ]
     }
@@ -169,364 +138,103 @@
     "SERVICES"
    ],
    "noticeIds": [
-    "0c3bc7e6-a9e4-41ea-a9fc-442c9b0643cb"
-   ],
-   "noticeSubType": "30",
-   "nutsCodes": [
-    "BE100"
-   ],
-   "organisation": {
-    "organisationId": 5863,
-    "organisationNames": [
-     {
-      "language": "NL",
-      "text": "Infrabel - Goods & Services"
-     },
-     {
-      "language": "FR",
-      "text": "Infrabel - Goods & Services"
-     },
-     {
-      "language": "DE",
-      "text": "Infrabel - Goods & Services"
-     },
-     {
-      "language": "EN",
-      "text": "Infrabel - Goods & Services"
-     }
-    ],
-    "tree": "200002.200014.4784.5863"
-   },
-   "procedureId": "3c6d94b5-ab04-4069-b508-50e877ebbd7c",
-   "publicationDate": "2026-11-17",
-   "publicationLanguages": [
-    "NL",
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "0000825871_NS_pub01"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "5b4fcb71-a0b6-4a62-bbef-0db0e5abe7b1",
-   "publishedAt": [
-    "2026-11-17T00:00:45.033925"
-   ],
-   "referenceNumber": "0000825871_NS_pub01",
-   "sentAt": [
-    "2026-11-17T00:00:45.033925"
-   ],
-   "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "45000000-7",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Bouwwerkzaamheden"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de construction"
-      },
-      {
-       "language": "EN",
-       "text": "Construction work"
-      },
-      {
-       "language": "DE",
-       "text": "Bauarbeiten"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "45000000-7",
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Bouwwerkzaamheden"
-     },
-     {
-      "language": "FR",
-      "text": "Travaux de construction"
-     },
-     {
-      "language": "EN",
-      "text": "Construction work"
-     },
-     {
-      "language": "DE",
-      "text": "Bauarbeiten"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-17",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Divers travaux sur les ruisseaux de 2e et 3e catégories sur le territoire de la province de Namur "
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "STS - CE 2026/48",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "STS - CE 2026/48",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "STS - CE 2026/48 - Marché public de divers travaux sur les ruisseaux de 2e et 3e catégories sur le territoire de la province de Namur "
-     }
-    ]
-   },
-   "insertionDate": "2026-10-16",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "STS-CE  2026/48 - 5 - Rochefort (Rochefort)"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "STS-CE  2026/48 - 5 - Rochefort (Rochefort)"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Jemeppe-sur-Sambre - Onoz (lot 7)"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Jemeppe-sur-Sambre - Onoz (lot 7)"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Ohey (Ohey)"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Ohey (Ohey)"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "PHILIPPEVILLE (Neuville)"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "STS - CE 2026/48 - 1"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Gesves (Faulx-les-Tombes)"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Gesves (Faulx-les-Tombes)"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Travaux sur Floreffe"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "FLOREFFE (Floreffe)"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "VIROINVAL (Treignes)"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "STS - CE 2026/48 - 3"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "WORKS"
-   ],
-   "noticeIds": [
-    "4192519e-f150-48af-acb0-7703234acf9c",
-    "4f4e68fd-2914-43d7-a3ad-c51d71954b20"
+    "a5e39d55-18e7-48ea-9983-cb881496596e",
+    "3725680f-5ed0-4fbd-b129-d0bc5bdc49fa",
+    "41107ee9-d18c-4400-9897-84bde2f9449b"
    ],
    "noticeSubType": "16",
    "nutsCodes": [
-    "BE353",
-    "BE352",
-    "BE351"
+    "BE"
    ],
    "organisation": {
-    "organisationId": 5259,
+    "organisationId": 5712,
     "organisationNames": [
      {
-      "language": "DE",
-      "text": "Province de Namur - Service marchés publics"
-     },
-     {
-      "language": "FR",
-      "text": "Province de Namur - Service des marchés publics"
+      "language": "EN",
+      "text": "Departement Werk en Sociale Economie"
      },
      {
       "language": "NL",
-      "text": "Province de Namur - Service des marchés publics"
+      "text": "Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie"
      },
      {
-      "language": "EN",
-      "text": "Province de Namur - Service des marchés publics"
+      "language": "FR",
+      "text": "Departement Werk en Sociale Economie"
+     },
+     {
+      "language": "DE",
+      "text": "Departement Werk en Sociale Economie"
      }
     ],
-    "tree": "200004.200020.581.5259"
+    "tree": "200003.200015.73.4641.5683.5712"
    },
-   "procedureId": "8b6fb999-8fb7-47a3-81e5-ae10cde08a90",
+   "procedureId": "2b948d7a-4ba5-4d67-b957-0c0f09d59a9f",
    "publicationDate": "2026-11-17",
    "publicationLanguages": [
-    "FR"
+    "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "STS - CE 2026/48_pub01"
+    "LES_09102026_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "daafd0ed-84eb-44c8-ad12-e9bef76c5c8f",
+   "publicationWorkspaceId": "ec15440a-5ea6-4a95-bc26-3964bd7d0df9",
    "publishedAt": [
-    "2026-11-17T00:00:47.83948",
-    "2026-10-16T14:06:45.015889"
+    "2026-10-09T14:55:45.020074",
+    "2026-11-17T10:58:45.025397",
+    "2026-11-04T10:09:45.031115"
    ],
-   "referenceNumber": "STS - CE 2026/48_pub01",
+   "referenceNumber": "LES_09102026_pub01",
    "sentAt": [
-    "2026-11-17T00:00:47.83948",
-    "2026-10-16T14:06:45.015889"
+    "2026-10-09T14:55:45.020074",
+    "2026-11-17T10:58:45.025397",
+    "2026-11-04T10:09:45.031115"
    ],
    "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-17T14:00:00"
+   "vaultSubmissionDeadline": "2026-11-24T11:00:00"
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45233161-5",
+     "code": "60183000-4",
      "descriptions": [
       {
-       "language": "DE",
-       "text": "Bau von Fußwegen"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de construction de chemins piétonniers"
+       "language": "NL",
+       "text": "Bestelwagenverhuur met chauffeur"
       },
       {
        "language": "EN",
-       "text": "Footpath construction work"
+       "text": "Hire of vans with driver"
       },
       {
-       "language": "NL",
-       "text": "Aanleggen van trottoirs"
+       "language": "FR",
+       "text": "Location de camionnettes avec chauffeur"
+      },
+      {
+       "language": "DE",
+       "text": "Vermietung von Lieferwagen mit Fahrer"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45233161-5",
+    "code": "60180000-3",
     "descriptions": [
      {
-      "language": "DE",
-      "text": "Bau von Fußwegen"
+      "language": "NL",
+      "text": "Verhuur van voertuigen voor goederenvervoer met chauffeur"
      },
      {
-      "language": "FR",
-      "text": "Travaux de construction de chemins piétonniers"
+      "language": "DE",
+      "text": "Vermietung von Fahrzeugen für den Gütertransport mit Fahrer"
      },
      {
       "language": "EN",
-      "text": "Footpath construction work"
+      "text": "Hire of goods-transport vehicles with driver"
      },
      {
-      "language": "NL",
-      "text": "Aanleggen van trottoirs"
+      "language": "FR",
+      "text": "Location de véhicules de transport de marchandises avec chauffeur"
      }
     ]
    },
@@ -536,18 +244,27 @@
     "descriptions": [
      {
       "language": "NL",
-      "text": "De voetpaden in de Masteluinstraat zijn in slechte staat.  De voetpaden worden heraangelegd.  De werken omvatten de opbraak van de bestaande bovenbouw, het uitkofferen tot funderingsdiepte en de aanleg van een nieuw voetpad. "
+      "text": "Raamovereenkomst voor diensten voor de terbeschikkingstelling van voertuigen met chauffeur voor het vervoer van evenementenmateriaal van visit.brussels, in België en in het buitenland."
+     },
+     {
+      "language": "FR",
+      "text": "Accord-cadre de services pour la mise à disposition de véhicules avec chauffeur pour le transport de matériel événementiel de visit.brussels, en Belgique et à l'étranger. "
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP00J-10924/6140/865.12-A.2026/21",
+    "number": "2026-VB-AC-CLIENTEXPERIENCE-TRANSPORTMATERIELEVENT",
     "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP00J-10924/6140/865.12-A.2026/21",
+    "referenceNumber": "2026-VB-AC-CLIENTEXPERIENCE-TRANSPORTMATERIELEVENT",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
       "language": "NL",
-      "text": "Heraanleg voetpaden Masteluinstraat"
+      "text": "Overheidsopdracht voor het sluiten van een raamovereenkomst voor de terbeschikkingstelling van vervoermiddelen met chauffeur voor evenementenmateriaal"
+     },
+     {
+      "language": "FR",
+      "text": "Marché public relatif à la conclusion d'un accord-cadre portant sur la mise à disposition de moyens de transport avec chauffeur pour le matériel événementiel"
      }
     ]
    },
@@ -557,66 +274,210 @@
      "descriptions": [
       {
        "language": "NL",
-       "text": "De voetpaden in de Masteluinstraat zijn in slechte staat.  De voetpaden worden heraangelegd.  De werken omvatten de opbraak van de bestaande bovenbouw, het uitkofferen tot funderingsdiepte en de aanleg van een nieuw voetpad. "
+       "text": "OVERHEIDSOPDRACHT VOOR LEVERINGEN BETREFFENDE HET SLUITEN VAN EEN RAAMOVEREENKOMST VOOR DE TERBESCHIKKINGSTELLING VAN VERVOERMIDDELEN MET CHAUFFEUR VOOR EVENEMENTENMATERIAAL"
+      },
+      {
+       "language": "FR",
+       "text": "MARCHÉ PUBLIC DE FOURNITURES RELATIF À LA CONCLUSION D’UN ACCORD-CADRE PORTANT SUR LA MISE À DISPOSITION DE MOYENS DE TRANSPORT AVEC CHAUFFEUR POUR LE MATÉRIEL ÉVÉNEMENTIEL"
       }
      ],
      "titles": [
       {
        "language": "NL",
-       "text": "Heraanleg voetpaden Masteluinstraat"
+       "text": "2026-VB-AC-CLIENTEXPERIENCE-TRANSPORTMATERIELEVENT - 1"
+      },
+      {
+       "language": "FR",
+       "text": "2026-VB-AC-CLIENTEXPERIENCE-TRANSPORTMATERIELEVENT - 1"
       }
      ]
     }
    ],
    "natures": [
-    "WORKS"
+    "SERVICES"
    ],
    "noticeIds": [
-    "ad7c1498-6fa6-4b70-84aa-9cbb23ff1df4"
+    "c675e0c7-75c9-411a-b0e4-619d3e78ddb9"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE254"
+    "BE100"
    ],
    "organisation": {
-    "organisationId": 355,
+    "organisationId": 2305,
     "organisationNames": [
      {
-      "language": "NL",
-      "text": "Stad Harelbeke "
+      "language": "DE",
+      "text": "visit.brussels"
      },
      {
       "language": "FR",
-      "text": "Harelbeke "
+      "text": "visit.brussels"
      },
      {
-      "language": "DE",
-      "text": "Harelbeke "
+      "language": "NL",
+      "text": "visit.brussels"
      },
      {
       "language": "EN",
-      "text": "Harelbeke "
+      "text": "visit.brussels"
      }
     ],
-    "tree": "200004.200021.355"
+    "tree": "200004.200032.2305"
    },
-   "procedureId": "c7474855-e607-46c9-a6df-9c74ee3872cb",
+   "procedureId": "99a2f663-1142-4a40-9c89-e22458375a80",
+   "publicationDate": "2026-11-17",
+   "publicationLanguages": [
+    "NL",
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "2026-VB-AC-CLIENTEXPERIENCE-TRANSPORTMATERIELEVENT_pub01"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "aae85d11-6689-4ad0-b25f-ea992511703a",
+   "publishedAt": [
+    "2026-11-17T11:09:45.024182"
+   ],
+   "referenceNumber": "2026-VB-AC-CLIENTEXPERIENCE-TRANSPORTMATERIELEVENT_pub01",
+   "sentAt": [
+    "2026-11-17T11:09:45.024182"
+   ],
+   "tedPublished": false
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "73000000-2",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Onderzoek en ontwikkeling, en aanverwante adviezen"
+      },
+      {
+       "language": "FR",
+       "text": "Services de recherche et développement et services de conseil connexes"
+      },
+      {
+       "language": "DE",
+       "text": "Forschungs- und Entwicklungsdienste und zugehörige Beratung"
+      },
+      {
+       "language": "EN",
+       "text": "Research and development services and related consultancy services"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "73000000-2",
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Onderzoek en ontwikkeling, en aanverwante adviezen"
+     },
+     {
+      "language": "FR",
+      "text": "Services de recherche et développement et services de conseil connexes"
+     },
+     {
+      "language": "DE",
+      "text": "Forschungs- und Entwicklungsdienste und zugehörige Beratung"
+     },
+     {
+      "language": "EN",
+      "text": "Research and development services and related consultancy services"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-17",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "De consultant zal de Principal Investigator adviseren en bijstaan met betrekking tot de ontwikkeling van antilichamen tegen nieuwe therapeutische doelwitten die door de onderzoeksgroep van de Principal Investigator zijn geïdentificeerd en die op het plasmamembraan aanwezig zijn of ervan worden uitgescheiden. Deze ondersteuning heeft onder meer tot doel de selectie van de meest geschikte potentiële therapeutische doelwitten te ondersteunen en bij te dragen aan de ontwikkeling van het preklinisch onderzoek met het oog op de verdere ontwikkeling van dergelijke doelwitten. Van de consultant wordt ook verwacht dat de consultant de junior stafleden begeleidt en traint in de  specifieke vaardigheden nodig voor een transitie van 'Academisch' naar 'Developability' denken."
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP0VN-221/6530/2026/083",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP0VN-221/6530/2026/083",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Wetenschappelijke en strategische consultancy voor de ontwikkeling van proteïnen, antilichamen en nanobodies binnen een onderzoeksprogramma"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-17",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "De consultant zal de Principal Investigator adviseren en bijstaan met betrekking tot de ontwikkeling van antilichamen tegen nieuwe therapeutische doelwitten die door de onderzoeksgroep van de Principal Investigator zijn geïdentificeerd en die op het plasmamembraan aanwezig zijn of ervan worden uitgescheiden. Deze ondersteuning heeft onder meer tot doel de selectie van de meest geschikte potentiële therapeutische doelwitten te ondersteunen en bij te dragen aan de ontwikkeling van het preklinisch onderzoek met het oog op de verdere ontwikkeling van dergelijke doelwitten. Van de consultant wordt ook verwacht dat de consultant de junior stafleden begeleidt en traint in de  specifieke vaardigheden nodig voor een transitie van 'Academisch' naar 'Developability' denken."
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Wetenschappelijke en strategische consultancy voor de ontwikkeling van proteïnen, antilichamen en nanobodies binnen een onderzoeksprogramma"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SERVICES"
+   ],
+   "noticeIds": [
+    "44b567f3-c900-48f3-ae7a-55a6d1c2f009"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE242"
+   ],
+   "organisation": {
+    "organisationId": 5743,
+    "organisationNames": [
+     {
+      "language": "NL",
+      "text": "Vlaams Instituut voor Biotechnologie vzw"
+     },
+     {
+      "language": "EN",
+      "text": "Vlaams Instituut voor Biotechnologie vzw"
+     },
+     {
+      "language": "DE",
+      "text": "Vlaams Instituut voor Biotechnologie vzw"
+     },
+     {
+      "language": "FR",
+      "text": "Vlaams Instituut voor Biotechnologie vzw"
+     }
+    ],
+    "tree": "200003.200015.73.4648.5743"
+   },
+   "procedureId": "52e31fcc-57c5-49d9-a6ec-578cd0b09c9b",
    "publicationDate": "2026-11-17",
    "publicationLanguages": [
     "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP00J-10924/6140/865.12-A.2026/21_002"
+    "PPP0VN-221/6530/2026/083_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "6496947e-e78c-4eec-b918-c0759c526af4",
+   "publicationWorkspaceId": "eea4ebee-90fd-4591-a3ac-6e84dbd3a714",
    "publishedAt": [
-    "2026-11-17T00:00:47.067014"
+    "2026-11-17T10:59:45.015777"
    ],
-   "referenceNumber": "PPP00J-10924/6140/865.12-A.2026/21_002",
+   "referenceNumber": "PPP0VN-221/6530/2026/083_002",
    "sentAt": [
-    "2026-11-17T00:00:47.067014"
+    "2026-11-17T10:59:45.015777"
    ],
    "tedPublished": false
   }
@@ -625,45 +486,45 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "79000000-4",
+     "code": "60183000-4",
      "descriptions": [
       {
-       "language": "DE",
-       "text": "Dienstleistungen für Unternehmen: Recht, Marketing, Consulting, Einstellungen, Druck und Sicherheit"
-      },
-      {
-       "language": "FR",
-       "text": "Services aux entreprises: droit, marketing, conseil, recrutement, impression et sécurité"
+       "language": "NL",
+       "text": "Bestelwagenverhuur met chauffeur"
       },
       {
        "language": "EN",
-       "text": "Business services: law, marketing, consulting, recruitment, printing and security"
+       "text": "Hire of vans with driver"
       },
       {
-       "language": "NL",
-       "text": "Zakelijke dienstverlening: juridisch, marketing, consulting, drukkerij en beveiliging"
+       "language": "FR",
+       "text": "Location de camionnettes avec chauffeur"
+      },
+      {
+       "language": "DE",
+       "text": "Vermietung von Lieferwagen mit Fahrer"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "79000000-4",
+    "code": "60180000-3",
     "descriptions": [
      {
-      "language": "DE",
-      "text": "Dienstleistungen für Unternehmen: Recht, Marketing, Consulting, Einstellungen, Druck und Sicherheit"
+      "language": "NL",
+      "text": "Verhuur van voertuigen voor goederenvervoer met chauffeur"
      },
      {
-      "language": "FR",
-      "text": "Services aux entreprises: droit, marketing, conseil, recrutement, impression et sécurité"
+      "language": "DE",
+      "text": "Vermietung von Fahrzeugen für den Gütertransport mit Fahrer"
      },
      {
       "language": "EN",
-      "text": "Business services: law, marketing, consulting, recruitment, printing and security"
+      "text": "Hire of goods-transport vehicles with driver"
      },
      {
-      "language": "NL",
-      "text": "Zakelijke dienstverlening: juridisch, marketing, consulting, drukkerij en beveiliging"
+      "language": "FR",
+      "text": "Location de véhicules de transport de marchandises avec chauffeur"
      }
     ]
    },
@@ -673,27 +534,27 @@
     "descriptions": [
      {
       "language": "NL",
-      "text": "Raamovereenkomst voor het aanduiden van 2 ratingagentschappen."
+      "text": "Raamovereenkomst voor diensten voor de terbeschikkingstelling van voertuigen met chauffeur voor het vervoer van evenementenmateriaal van visit.brussels, in België en in het buitenland."
      },
      {
       "language": "FR",
-      "text": "Accord-cadre pour la désignation de 2 agences de notation."
+      "text": "Accord-cadre de services pour la mise à disposition de véhicules avec chauffeur pour le transport de matériel événementiel de visit.brussels, en Belgique et à l'étranger. "
      }
     ],
     "enterpriseCategories": [],
-    "legalBasis": "D25",
-    "number": "0000825871_NS",
-    "procurementProcedureType": "NEG_WO_CALL_25",
-    "referenceNumber": "0000825871_NS",
+    "legalBasis": "D24",
+    "number": "2026-VB-AC-CLIENTEXPERIENCE-TRANSPORTMATERIELEVENT",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "2026-VB-AC-CLIENTEXPERIENCE-TRANSPORTMATERIELEVENT",
     "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
-      "language": "FR",
-      "text": "La désignation de 2 agences de notation."
+      "language": "NL",
+      "text": "Overheidsopdracht voor het sluiten van een raamovereenkomst voor de terbeschikkingstelling van vervoermiddelen met chauffeur voor evenementenmateriaal"
      },
      {
-      "language": "NL",
-      "text": "Aanduiden van 2 ratingagentschappen."
+      "language": "FR",
+      "text": "Marché public relatif à la conclusion d'un accord-cadre portant sur la mise à disposition de moyens de transport avec chauffeur pour le matériel événementiel"
      }
     ]
    },
@@ -702,44 +563,22 @@
     {
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Accord-cadre pour la désignation d'une agence de notation. Il sera attribué un maximum de 1 lot par soumissionnaire."
+       "language": "NL",
+       "text": "OVERHEIDSOPDRACHT VOOR LEVERINGEN BETREFFENDE HET SLUITEN VAN EEN RAAMOVEREENKOMST VOOR DE TERBESCHIKKINGSTELLING VAN VERVOERMIDDELEN MET CHAUFFEUR VOOR EVENEMENTENMATERIAAL"
       },
       {
-       "language": "NL",
-       "text": "Raamovereenkomst voor het aanduiden van een ratingagentschap. Er wordt maximaal 1 perceel per inschrijver toegewezen. "
+       "language": "FR",
+       "text": "MARCHÉ PUBLIC DE FOURNITURES RELATIF À LA CONCLUSION D’UN ACCORD-CADRE PORTANT SUR LA MISE À DISPOSITION DE MOYENS DE TRANSPORT AVEC CHAUFFEUR POUR LE MATÉRIEL ÉVÉNEMENTIEL"
       }
      ],
      "titles": [
       {
        "language": "NL",
-       "text": "0000825871_NS - 2"
+       "text": "2026-VB-AC-CLIENTEXPERIENCE-TRANSPORTMATERIELEVENT - 1"
       },
       {
        "language": "FR",
-       "text": "0000825871_NS - 2"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Raamovereenkomst voor het aanduiden van een ratingagentschap. Er wordt maximaal 1 perceel per inschrijver toegewezen."
-      },
-      {
-       "language": "FR",
-       "text": "Accord-cadre pour la désignation d'une agence de notation. Il sera attribué un maximum de 1 lot par soumissionnaire. "
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "0000825871_NS - 1"
-      },
-      {
-       "language": "FR",
-       "text": "0000825871_NS - 1"
+       "text": "2026-VB-AC-CLIENTEXPERIENCE-TRANSPORTMATERIELEVENT - 1"
       }
      ]
     }
@@ -748,52 +587,52 @@
     "SERVICES"
    ],
    "noticeIds": [
-    "0c3bc7e6-a9e4-41ea-a9fc-442c9b0643cb"
+    "c675e0c7-75c9-411a-b0e4-619d3e78ddb9"
    ],
-   "noticeSubType": "30",
+   "noticeSubType": "E4",
    "nutsCodes": [
     "BE100"
    ],
    "organisation": {
-    "organisationId": 5863,
+    "organisationId": 2305,
     "organisationNames": [
      {
-      "language": "NL",
-      "text": "Infrabel - Goods & Services"
+      "language": "DE",
+      "text": "visit.brussels"
      },
      {
       "language": "FR",
-      "text": "Infrabel - Goods & Services"
+      "text": "visit.brussels"
      },
      {
-      "language": "DE",
-      "text": "Infrabel - Goods & Services"
+      "language": "NL",
+      "text": "visit.brussels"
      },
      {
       "language": "EN",
-      "text": "Infrabel - Goods & Services"
+      "text": "visit.brussels"
      }
     ],
-    "tree": "200002.200014.4784.5863"
+    "tree": "200004.200032.2305"
    },
-   "procedureId": "3c6d94b5-ab04-4069-b508-50e877ebbd7c",
+   "procedureId": "99a2f663-1142-4a40-9c89-e22458375a80",
    "publicationDate": "2026-11-17",
    "publicationLanguages": [
     "NL",
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "0000825871_NS_pub01"
+    "2026-VB-AC-CLIENTEXPERIENCE-TRANSPORTMATERIELEVENT_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "5b4fcb71-a0b6-4a62-bbef-0db0e5abe7b1",
+   "publicationWorkspaceId": "aae85d11-6689-4ad0-b25f-ea992511703a",
    "publishedAt": [
-    "2026-11-17T00:00:45.033925"
+    "2026-11-17T11:09:45.024182"
    ],
-   "referenceNumber": "0000825871_NS_pub01",
+   "referenceNumber": "2026-VB-AC-CLIENTEXPERIENCE-TRANSPORTMATERIELEVENT_pub01",
    "sentAt": [
-    "2026-11-17T00:00:45.033925"
+    "2026-11-17T11:09:45.024182"
    ],
    "tedPublished": false
   }
