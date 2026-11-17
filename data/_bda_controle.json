@@ -1,19 +1,29 @@
 {
  "meta": {
-  "totalCount": 295842
+  "totalCount": 295882
  },
  "types": [
+  "ACTIVE|10|['SERVICES']",
+  "ACTIVE|10|['SUPPLIES']",
   "ACTIVE|10|['WORKS']",
+  "ACTIVE|11|['WORKS']",
+  "ACTIVE|15|['SUPPLIES']",
+  "ACTIVE|16|['SERVICES', 'SUPPLIES', 'WORKS']",
   "ACTIVE|16|['SERVICES', 'WORKS']",
   "ACTIVE|16|['SERVICES']",
+  "ACTIVE|16|['SUPPLIES', 'WORKS']",
   "ACTIVE|16|['SUPPLIES']",
   "ACTIVE|16|['WORKS']",
+  "ACTIVE|17|['SERVICES']",
   "ACTIVE|17|['SUPPLIES']",
   "ACTIVE|17|['WORKS']",
+  "ACTIVE|18|['SERVICES']",
   "ACTIVE|19|['SERVICES']",
   "ACTIVE|20|['SERVICES']",
   "ACTIVE|20|['SUPPLIES']",
+  "ACTIVE|23|['SERVICES']",
   "ACTIVE|29|['SERVICES']",
+  "ACTIVE|29|['SUPPLIES', 'SERVICES']",
   "ACTIVE|29|['SUPPLIES']",
   "ACTIVE|29|['WORKS']",
   "ACTIVE|30|['SERVICES']",
@@ -35,45 +45,45 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "73300000-5",
+     "code": "79000000-4",
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Conception et exécution dans le domaine de la recherche et du développement"
+       "language": "DE",
+       "text": "Dienstleistungen für Unternehmen: Recht, Marketing, Consulting, Einstellungen, Druck und Sicherheit"
       },
       {
-       "language": "NL",
-       "text": "Planning en uitvoering van onderzoek en ontwikkeling"
+       "language": "FR",
+       "text": "Services aux entreprises: droit, marketing, conseil, recrutement, impression et sécurité"
       },
       {
        "language": "EN",
-       "text": "Design and execution of research and development"
+       "text": "Business services: law, marketing, consulting, recruitment, printing and security"
       },
       {
-       "language": "DE",
-       "text": "Planung und Ausführung von Forschung und Entwicklung"
+       "language": "NL",
+       "text": "Zakelijke dienstverlening: juridisch, marketing, consulting, drukkerij en beveiliging"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "73300000-5",
+    "code": "79000000-4",
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Conception et exécution dans le domaine de la recherche et du développement"
+      "language": "DE",
+      "text": "Dienstleistungen für Unternehmen: Recht, Marketing, Consulting, Einstellungen, Druck und Sicherheit"
      },
      {
-      "language": "NL",
-      "text": "Planning en uitvoering van onderzoek en ontwikkeling"
+      "language": "FR",
+      "text": "Services aux entreprises: droit, marketing, conseil, recrutement, impression et sécurité"
      },
      {
       "language": "EN",
-      "text": "Design and execution of research and development"
+      "text": "Business services: law, marketing, consulting, recruitment, printing and security"
      },
      {
-      "language": "DE",
-      "text": "Planung und Ausführung von Forschung und Entwicklung"
+      "language": "NL",
+      "text": "Zakelijke dienstverlening: juridisch, marketing, consulting, drukkerij en beveiliging"
      }
     ]
    },
@@ -83,18 +93,27 @@
     "descriptions": [
      {
       "language": "NL",
-      "text": "De opdracht omvat o.a. de opmaak van een procesnota, conceptnota, strategische visie, drie beleidskaders en een plan-MER. "
+      "text": "Raamovereenkomst voor het aanduiden van 2 ratingagentschappen."
+     },
+     {
+      "language": "FR",
+      "text": "Accord-cadre pour la désignation de 2 agences de notation."
      }
     ],
     "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP00T-4096/6400/2026079",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "PPP00T-4096/6400/2026079",
+    "legalBasis": "D25",
+    "number": "0000825871_NS",
+    "procurementProcedureType": "NEG_WO_CALL_25",
+    "referenceNumber": "0000825871_NS",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
+      "language": "FR",
+      "text": "La désignation de 2 agences de notation."
+     },
+     {
       "language": "NL",
-      "text": "Opmaak van een beleidsplan ruimte voor de gemeente Koksijde, inclusief PLAN-MER en 3 beleidskaders"
+      "text": "Aanduiden van 2 ratingagentschappen."
      }
     ]
    },
@@ -103,20 +122,44 @@
     {
      "descriptions": [
       {
+       "language": "FR",
+       "text": "Accord-cadre pour la désignation d'une agence de notation. Il sera attribué un maximum de 1 lot par soumissionnaire."
+      },
+      {
        "language": "NL",
-       "text": "De opdracht omvat o.a. de opmaak van een procesnota, conceptnota, strategische visie, drie beleidskaders en een plan-MER. "
+       "text": "Raamovereenkomst voor het aanduiden van een ratingagentschap. Er wordt maximaal 1 perceel per inschrijver toegewezen. "
       }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
      ],
      "titles": [
       {
        "language": "NL",
-       "text": "Opmaak van een beleidsplan ruimte voor de gemeente Koksijde, inclusief PLAN-MER en 3 beleidskaders"
+       "text": "0000825871_NS - 2"
+      },
+      {
+       "language": "FR",
+       "text": "0000825871_NS - 2"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Raamovereenkomst voor het aanduiden van een ratingagentschap. Er wordt maximaal 1 perceel per inschrijver toegewezen."
+      },
+      {
+       "language": "FR",
+       "text": "Accord-cadre pour la désignation d'une agence de notation. Il sera attribué un maximum de 1 lot par soumissionnaire. "
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "0000825871_NS - 1"
+      },
+      {
+       "language": "FR",
+       "text": "0000825871_NS - 1"
       }
      ]
     }
@@ -125,210 +168,75 @@
     "SERVICES"
    ],
    "noticeIds": [
-    "5a67b51a-84bb-4cb5-b988-756dc9a32dec"
+    "0c3bc7e6-a9e4-41ea-a9fc-442c9b0643cb"
    ],
-   "noticeSubType": "E4",
+   "noticeSubType": "30",
    "nutsCodes": [
     "BE100"
    ],
    "organisation": {
-    "organisationId": 260,
+    "organisationId": 5863,
     "organisationNames": [
      {
-      "language": "EN",
-      "text": "Koksijde"
-     },
-     {
       "language": "NL",
-      "text": "Koksijde"
+      "text": "Infrabel - Goods & Services"
      },
      {
       "language": "FR",
-      "text": "Koksijde"
+      "text": "Infrabel - Goods & Services"
      },
      {
       "language": "DE",
-      "text": "Koksijde"
+      "text": "Infrabel - Goods & Services"
+     },
+     {
+      "language": "EN",
+      "text": "Infrabel - Goods & Services"
      }
     ],
-    "tree": "200004.200021.260"
+    "tree": "200002.200014.4784.5863"
    },
-   "procedureId": "392769f0-8f1c-45f4-b908-64652768fac7",
+   "procedureId": "3c6d94b5-ab04-4069-b508-50e877ebbd7c",
    "publicationDate": "2026-11-17",
    "publicationLanguages": [
-    "NL"
+    "NL",
+    "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP00T-4096/6400/2026079_003"
+    "0000825871_NS_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "e0b28ec8-8c7d-473a-a0c8-02174b9603a4",
+   "publicationWorkspaceId": "5b4fcb71-a0b6-4a62-bbef-0db0e5abe7b1",
    "publishedAt": [
-    "2026-11-17T00:00:46.378094"
+    "2026-11-17T00:00:45.033925"
    ],
-   "referenceNumber": "PPP00T-4096/6400/2026079_003",
+   "referenceNumber": "0000825871_NS_pub01",
    "sentAt": [
-    "2026-11-17T00:00:46.378094"
+    "2026-11-17T00:00:45.033925"
    ],
    "tedPublished": false
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "90919200-4",
+     "code": "45000000-7",
      "descriptions": [
       {
-       "language": "DE",
-       "text": "Büroreinigung"
-      },
-      {
-       "language": "EN",
-       "text": "Office cleaning services"
-      },
-      {
        "language": "NL",
-       "text": "Schoonmaken van kantoren"
+       "text": "Bouwwerkzaamheden"
       },
       {
        "language": "FR",
-       "text": "Services de nettoyage de bureaux"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "90919200-4",
-    "descriptions": [
-     {
-      "language": "DE",
-      "text": "Büroreinigung"
-     },
-     {
-      "language": "EN",
-      "text": "Office cleaning services"
-     },
-     {
-      "language": "NL",
-      "text": "Schoonmaken van kantoren"
-     },
-     {
-      "language": "FR",
-      "text": "Services de nettoyage de bureaux"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-17",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Deze opdracht behelst het schoonmaken van het Annexgebouw, Zeelaan 42 te 8670 Koksijde. De volledige oplijsting is terug te vinden in het inventarisformulier opgenomen in het bestek.  Alle vermelde hoeveelheden zijn vermoedelijke hoeveelheden voor het volledige dienstjaar 2027. "
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP00T-4156/6687/2026139",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP00T-4156/6687/2026139",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Schoonmaak annexgebouw - dienstjaar 2027"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-17",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Deze opdracht behelst het schoonmaken van het Annexgebouw, Zeelaan 42 te 8670 Koksijde. De volledige oplijsting is terug te vinden in het inventarisformulier opgenomen in het bestek.  Alle vermelde hoeveelheden zijn vermoedelijke hoeveelheden voor het volledige dienstjaar 2027. "
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Schoonmaak annexgebouw - dienstjaar 2027"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SERVICES"
-   ],
-   "noticeIds": [
-    "956cc75d-3f6b-4346-a231-dbb044e07ba4"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE258"
-   ],
-   "organisation": {
-    "organisationId": 260,
-    "organisationNames": [
-     {
-      "language": "EN",
-      "text": "Koksijde"
-     },
-     {
-      "language": "NL",
-      "text": "Koksijde"
-     },
-     {
-      "language": "FR",
-      "text": "Koksijde"
-     },
-     {
-      "language": "DE",
-      "text": "Koksijde"
-     }
-    ],
-    "tree": "200004.200021.260"
-   },
-   "procedureId": "31f5fd88-19a7-442b-8b63-57f39627cf9d",
-   "publicationDate": "2026-11-17",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP00T-4156/6687/2026139_002"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "26d01d64-8af3-45d3-b673-38f1b69dfb88",
-   "publishedAt": [
-    "2026-11-17T00:00:48.567601"
-   ],
-   "referenceNumber": "PPP00T-4156/6687/2026139_002",
-   "sentAt": [
-    "2026-11-17T00:00:48.567601"
-   ],
-   "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "45220000-5",
-     "descriptions": [
+       "text": "Travaux de construction"
+      },
       {
        "language": "EN",
-       "text": "Engineering works and construction works"
-      },
-      {
-       "language": "FR",
-       "text": "Ouvrages d'art et de génie civil"
-      },
-      {
-       "language": "NL",
-       "text": "Civieltechnische en bouwwerkzaamheden"
+       "text": "Construction work"
       },
       {
        "language": "DE",
-       "text": "Ingenieur- und Hochbauarbeiten"
+       "text": "Bauarbeiten"
       }
      ]
     }
@@ -356,46 +264,32 @@
    },
    "dispatchDate": "2026-11-17",
    "dossier": {
-    "accreditations": {
-     "E": 6
-    },
+    "accreditations": {},
     "descriptions": [
      {
       "language": "FR",
-      "text": "Ce marché concerne: - pose d'enrochements ;  - reprofilage du talus ;  - création de redans dans les zones de glissement ; - entretien de l’aqueduc situé à la bk 106.756."
+      "text": "Divers travaux sur les ruisseaux de 2e et 3e catégories sur le territoire de la province de Namur "
      }
     ],
-    "enterpriseCategories": [
-     {
-      "categoryCode": "E",
-      "levels": [
-       6,
-       5,
-       4,
-       3,
-       2,
-       1
-      ]
-     }
-    ],
-    "legalBasis": "D25",
-    "number": "5753426082",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "5753426082",
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "STS - CE 2026/48",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "STS - CE 2026/48",
     "titles": [
      {
       "language": "FR",
-      "text": "L165 : Saint-Vincent et Virton : Commune de Tintigny - Stabilisation du talus en VB entre les bk 106.920 et 107.131"
+      "text": "STS - CE 2026/48 - Marché public de divers travaux sur les ruisseaux de 2e et 3e catégories sur le territoire de la province de Namur "
      }
     ]
    },
-   "insertionDate": "2026-11-17",
+   "insertionDate": "2026-10-16",
    "lots": [
     {
      "descriptions": [
       {
        "language": "FR",
-       "text": "Ce marché concerne: - pose d'enrochements ;  - reprofilage du talus ;  - création de redans dans les zones de glissement ; - entretien de l’aqueduc situé à la bk 106.756."
+       "text": "STS-CE  2026/48 - 5 - Rochefort (Rochefort)"
       }
      ],
      "reservedExecution": [
@@ -407,7 +301,127 @@
      "titles": [
       {
        "language": "FR",
-       "text": "5753426082"
+       "text": "STS-CE  2026/48 - 5 - Rochefort (Rochefort)"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Jemeppe-sur-Sambre - Onoz (lot 7)"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Jemeppe-sur-Sambre - Onoz (lot 7)"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Ohey (Ohey)"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Ohey (Ohey)"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "PHILIPPEVILLE (Neuville)"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "STS - CE 2026/48 - 1"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Gesves (Faulx-les-Tombes)"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Gesves (Faulx-les-Tombes)"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Travaux sur Floreffe"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "FLOREFFE (Floreffe)"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "VIROINVAL (Treignes)"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "STS - CE 2026/48 - 3"
       }
      ]
     }
@@ -416,99 +430,102 @@
     "WORKS"
    ],
    "noticeIds": [
-    "ca3fe9b2-f86f-473e-a1a6-e4865ab4f5cb"
+    "4192519e-f150-48af-acb0-7703234acf9c",
+    "4f4e68fd-2914-43d7-a3ad-c51d71954b20"
    ],
-   "noticeSubType": "17",
+   "noticeSubType": "16",
    "nutsCodes": [
-    "BE345"
+    "BE353",
+    "BE352",
+    "BE351"
    ],
    "organisation": {
-    "organisationId": 17122,
+    "organisationId": 5259,
     "organisationNames": [
      {
-      "language": "EN",
-      "text": "Infrabel Projects South"
-     },
-     {
-      "language": "NL",
-      "text": "Infrabel Projects South"
+      "language": "DE",
+      "text": "Province de Namur - Service marchés publics"
      },
      {
       "language": "FR",
-      "text": "Infrabel Projects South"
+      "text": "Province de Namur - Service des marchés publics"
      },
      {
-      "language": "DE",
-      "text": "Infrabel Projects South"
+      "language": "NL",
+      "text": "Province de Namur - Service des marchés publics"
+     },
+     {
+      "language": "EN",
+      "text": "Province de Namur - Service des marchés publics"
      }
     ],
-    "tree": "200002.200014.4784.17122"
+    "tree": "200004.200020.581.5259"
    },
-   "procedureId": "68f3d35a-109c-4b37-a551-6c93b764e485",
+   "procedureId": "8b6fb999-8fb7-47a3-81e5-ae10cde08a90",
    "publicationDate": "2026-11-17",
    "publicationLanguages": [
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "5753426082_pub01"
+    "STS - CE 2026/48_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "24f442db-a472-45ce-82c3-f6556532e459",
+   "publicationWorkspaceId": "daafd0ed-84eb-44c8-ad12-e9bef76c5c8f",
    "publishedAt": [
-    "2026-11-17T00:00:48.954997"
+    "2026-11-17T00:00:47.83948",
+    "2026-10-16T14:06:45.015889"
    ],
-   "referenceNumber": "5753426082_pub01",
+   "referenceNumber": "STS - CE 2026/48_pub01",
    "sentAt": [
-    "2026-11-17T00:00:48.954997"
+    "2026-11-17T00:00:47.83948",
+    "2026-10-16T14:06:45.015889"
    ],
    "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-12-17T14:00:00"
-  }
- ],
- "exemple_attribution": [
+   "vaultSubmissionDeadline": "2026-11-17T14:00:00"
+  },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "73300000-5",
+     "code": "45233161-5",
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Conception et exécution dans le domaine de la recherche et du développement"
+       "language": "DE",
+       "text": "Bau von Fußwegen"
       },
       {
-       "language": "NL",
-       "text": "Planning en uitvoering van onderzoek en ontwikkeling"
+       "language": "FR",
+       "text": "Travaux de construction de chemins piétonniers"
       },
       {
        "language": "EN",
-       "text": "Design and execution of research and development"
+       "text": "Footpath construction work"
       },
       {
-       "language": "DE",
-       "text": "Planung und Ausführung von Forschung und Entwicklung"
+       "language": "NL",
+       "text": "Aanleggen van trottoirs"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "73300000-5",
+    "code": "45233161-5",
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Conception et exécution dans le domaine de la recherche et du développement"
+      "language": "DE",
+      "text": "Bau von Fußwegen"
      },
      {
-      "language": "NL",
-      "text": "Planning en uitvoering van onderzoek en ontwikkeling"
+      "language": "FR",
+      "text": "Travaux de construction de chemins piétonniers"
      },
      {
       "language": "EN",
-      "text": "Design and execution of research and development"
+      "text": "Footpath construction work"
      },
      {
-      "language": "DE",
-      "text": "Planung und Ausführung von Forschung und Entwicklung"
+      "language": "NL",
+      "text": "Aanleggen van trottoirs"
      }
     ]
    },
@@ -518,18 +535,18 @@
     "descriptions": [
      {
       "language": "NL",
-      "text": "De opdracht omvat o.a. de opmaak van een procesnota, conceptnota, strategische visie, drie beleidskaders en een plan-MER. "
+      "text": "De voetpaden in de Masteluinstraat zijn in slechte staat.  De voetpaden worden heraangelegd.  De werken omvatten de opbraak van de bestaande bovenbouw, het uitkofferen tot funderingsdiepte en de aanleg van een nieuw voetpad. "
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP00T-4096/6400/2026079",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "PPP00T-4096/6400/2026079",
+    "number": "PPP00J-10924/6140/865.12-A.2026/21",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP00J-10924/6140/865.12-A.2026/21",
     "titles": [
      {
       "language": "NL",
-      "text": "Opmaak van een beleidsplan ruimte voor de gemeente Koksijde, inclusief PLAN-MER en 3 beleidskaders"
+      "text": "Heraanleg voetpaden Masteluinstraat"
      }
     ]
    },
@@ -539,19 +556,189 @@
      "descriptions": [
       {
        "language": "NL",
-       "text": "De opdracht omvat o.a. de opmaak van een procesnota, conceptnota, strategische visie, drie beleidskaders en een plan-MER. "
+       "text": "De voetpaden in de Masteluinstraat zijn in slechte staat.  De voetpaden worden heraangelegd.  De werken omvatten de opbraak van de bestaande bovenbouw, het uitkofferen tot funderingsdiepte en de aanleg van een nieuw voetpad. "
       }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
      ],
      "titles": [
       {
        "language": "NL",
-       "text": "Opmaak van een beleidsplan ruimte voor de gemeente Koksijde, inclusief PLAN-MER en 3 beleidskaders"
+       "text": "Heraanleg voetpaden Masteluinstraat"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "ad7c1498-6fa6-4b70-84aa-9cbb23ff1df4"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE254"
+   ],
+   "organisation": {
+    "organisationId": 355,
+    "organisationNames": [
+     {
+      "language": "NL",
+      "text": "Stad Harelbeke "
+     },
+     {
+      "language": "FR",
+      "text": "Harelbeke "
+     },
+     {
+      "language": "DE",
+      "text": "Harelbeke "
+     },
+     {
+      "language": "EN",
+      "text": "Harelbeke "
+     }
+    ],
+    "tree": "200004.200021.355"
+   },
+   "procedureId": "c7474855-e607-46c9-a6df-9c74ee3872cb",
+   "publicationDate": "2026-11-17",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP00J-10924/6140/865.12-A.2026/21_002"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "6496947e-e78c-4eec-b918-c0759c526af4",
+   "publishedAt": [
+    "2026-11-17T00:00:47.067014"
+   ],
+   "referenceNumber": "PPP00J-10924/6140/865.12-A.2026/21_002",
+   "sentAt": [
+    "2026-11-17T00:00:47.067014"
+   ],
+   "tedPublished": false
+  }
+ ],
+ "exemple_attribution": [
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "79000000-4",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Dienstleistungen für Unternehmen: Recht, Marketing, Consulting, Einstellungen, Druck und Sicherheit"
+      },
+      {
+       "language": "FR",
+       "text": "Services aux entreprises: droit, marketing, conseil, recrutement, impression et sécurité"
+      },
+      {
+       "language": "EN",
+       "text": "Business services: law, marketing, consulting, recruitment, printing and security"
+      },
+      {
+       "language": "NL",
+       "text": "Zakelijke dienstverlening: juridisch, marketing, consulting, drukkerij en beveiliging"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "79000000-4",
+    "descriptions": [
+     {
+      "language": "DE",
+      "text": "Dienstleistungen für Unternehmen: Recht, Marketing, Consulting, Einstellungen, Druck und Sicherheit"
+     },
+     {
+      "language": "FR",
+      "text": "Services aux entreprises: droit, marketing, conseil, recrutement, impression et sécurité"
+     },
+     {
+      "language": "EN",
+      "text": "Business services: law, marketing, consulting, recruitment, printing and security"
+     },
+     {
+      "language": "NL",
+      "text": "Zakelijke dienstverlening: juridisch, marketing, consulting, drukkerij en beveiliging"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-17",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Raamovereenkomst voor het aanduiden van 2 ratingagentschappen."
+     },
+     {
+      "language": "FR",
+      "text": "Accord-cadre pour la désignation de 2 agences de notation."
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D25",
+    "number": "0000825871_NS",
+    "procurementProcedureType": "NEG_WO_CALL_25",
+    "referenceNumber": "0000825871_NS",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "La désignation de 2 agences de notation."
+     },
+     {
+      "language": "NL",
+      "text": "Aanduiden van 2 ratingagentschappen."
+     }
+    ]
+   },
+   "insertionDate": "2026-11-17",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Accord-cadre pour la désignation d'une agence de notation. Il sera attribué un maximum de 1 lot par soumissionnaire."
+      },
+      {
+       "language": "NL",
+       "text": "Raamovereenkomst voor het aanduiden van een ratingagentschap. Er wordt maximaal 1 perceel per inschrijver toegewezen. "
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "0000825871_NS - 2"
+      },
+      {
+       "language": "FR",
+       "text": "0000825871_NS - 2"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Raamovereenkomst voor het aanduiden van een ratingagentschap. Er wordt maximaal 1 perceel per inschrijver toegewezen."
+      },
+      {
+       "language": "FR",
+       "text": "Accord-cadre pour la désignation d'une agence de notation. Il sera attribué un maximum de 1 lot par soumissionnaire. "
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "0000825871_NS - 1"
+      },
+      {
+       "language": "FR",
+       "text": "0000825871_NS - 1"
       }
      ]
     }
@@ -560,51 +747,52 @@
     "SERVICES"
    ],
    "noticeIds": [
-    "5a67b51a-84bb-4cb5-b988-756dc9a32dec"
+    "0c3bc7e6-a9e4-41ea-a9fc-442c9b0643cb"
    ],
-   "noticeSubType": "E4",
+   "noticeSubType": "30",
    "nutsCodes": [
     "BE100"
    ],
    "organisation": {
-    "organisationId": 260,
+    "organisationId": 5863,
     "organisationNames": [
      {
-      "language": "EN",
-      "text": "Koksijde"
-     },
-     {
       "language": "NL",
-      "text": "Koksijde"
+      "text": "Infrabel - Goods & Services"
      },
      {
       "language": "FR",
-      "text": "Koksijde"
+      "text": "Infrabel - Goods & Services"
      },
      {
       "language": "DE",
-      "text": "Koksijde"
+      "text": "Infrabel - Goods & Services"
+     },
+     {
+      "language": "EN",
+      "text": "Infrabel - Goods & Services"
      }
     ],
-    "tree": "200004.200021.260"
+    "tree": "200002.200014.4784.5863"
    },
-   "procedureId": "392769f0-8f1c-45f4-b908-64652768fac7",
+   "procedureId": "3c6d94b5-ab04-4069-b508-50e877ebbd7c",
    "publicationDate": "2026-11-17",
    "publicationLanguages": [
-    "NL"
+    "NL",
+    "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP00T-4096/6400/2026079_003"
+    "0000825871_NS_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "e0b28ec8-8c7d-473a-a0c8-02174b9603a4",
+   "publicationWorkspaceId": "5b4fcb71-a0b6-4a62-bbef-0db0e5abe7b1",
    "publishedAt": [
-    "2026-11-17T00:00:46.378094"
+    "2026-11-17T00:00:45.033925"
    ],
-   "referenceNumber": "PPP00T-4096/6400/2026079_003",
+   "referenceNumber": "0000825871_NS_pub01",
    "sentAt": [
-    "2026-11-17T00:00:46.378094"
+    "2026-11-17T00:00:45.033925"
    ],
    "tedPublished": false
   }

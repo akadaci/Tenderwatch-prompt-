@@ -1,11 +1,13 @@
 {
- "updated": "2026-11-17T03:01:45Z",
+ "updated": "2026-11-17T04:46:59Z",
  "source": "urban.brussels NOVA (WFS)",
  "days_back": 3,
- "received": 18,
- "kept": 1,
- "count": 202,
- "new_ids": [],
+ "received": 34,
+ "kept": 2,
+ "count": 203,
+ "new_ids": [
+  "nova-09/PU/2052615"
+ ],
  "records": [
   {
    "id": "nova-07/PU/2052622",
@@ -22,6 +24,22 @@
    "date_publication": "2026-11-15",
    "notes": "Autorité : Forest",
    "first_seen": "2026-11-16T12:03:42Z"
+  },
+  {
+   "id": "nova-09/PU/2052615",
+   "source_type": "Permis",
+   "nom": "changement d'affectation du rez de chaussée en commerce et création de 2 logements aux étages à la place d'une maison unifamiliale",
+   "lieu": "Place du Châtelain 46, 1050 Ixelles",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='09/PU/2052615'",
+   "verif": "vérifié",
+   "verif_date": "2026-11-17",
+   "preuve": "Demande de permis 09/PU/2052615 reçue le 2026-11-14 (urban.brussels, service NOVA), surface projetée 383 m².",
+   "date_publication": "2026-11-14",
+   "notes": "Autorité : Ixelles",
+   "first_seen": "2026-11-17T04:46:59Z"
   },
   {
    "id": "nova-02/PU/2052585",
