@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 296010
+  "totalCount": 296021
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -49,76 +49,212 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "73300000-5",
+     "code": "85147000-1",
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Conception et exécution dans le domaine de la recherche et du développement"
-      },
-      {
        "language": "NL",
-       "text": "Planning en uitvoering van onderzoek en ontwikkeling"
+       "text": "Diensten voor bedrijfsgeneeskunde"
       },
       {
        "language": "EN",
-       "text": "Design and execution of research and development"
+       "text": "Company health services"
+      },
+      {
+       "language": "FR",
+       "text": "Services de médecine du travail"
       },
       {
        "language": "DE",
-       "text": "Planung und Ausführung von Forschung und Entwicklung"
+       "text": "Betriebliche Gesundheitsfürsorge"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "73000000-2",
+    "code": "85147000-1",
     "descriptions": [
      {
       "language": "NL",
-      "text": "Onderzoek en ontwikkeling, en aanverwante adviezen"
-     },
-     {
-      "language": "FR",
-      "text": "Services de recherche et développement et services de conseil connexes"
-     },
-     {
-      "language": "DE",
-      "text": "Forschungs- und Entwicklungsdienste und zugehörige Beratung"
+      "text": "Diensten voor bedrijfsgeneeskunde"
      },
      {
       "language": "EN",
-      "text": "Research and development services and related consultancy services"
+      "text": "Company health services"
+     },
+     {
+      "language": "FR",
+      "text": "Services de médecine du travail"
+     },
+     {
+      "language": "DE",
+      "text": "Betriebliche Gesundheitsfürsorge"
      }
     ]
    },
-   "dispatchDate": "2026-11-17",
+   "dispatchDate": "2026-11-18",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Le présent marché vise à confier un service de médecine du travail pour l'Administration Communale de Chaudfontaine, le CPAS de Chaudfontaine, le Royal Syndicat d'Initiative de Chaudfontaine et la Régie Communale Autonome Chaudfontaine Développement, en application de l'article II 3-13 du code du bien-être au travail.  Le service SIPPT est commun à toutes les entités (conseiller en prévention de niveau 2).  Les missions et les tâches à exécuter par l’adjudicataire chargé des prestations de service externe de prévention et de protection sont, de façon synthétique et non exhaustive, les suivantes : - Surveillance de la santé ; - Gestion des risques ; - La collaboration avec le SIPP et le soutien apporté à celui-ci ; - La prise en charge des tâches et missions concernant les aspects psychosociaux et celles relatives à la violence et au harcèlement moral ou sexuel ainsi que l’alcoolisme sur les lieux de travail ; - Le soutien du SEPP en matière de formations ; - En action conjointe avec le SIPP, la mise à disposition des travailleurs des différents services et institutions, de documentations spécifiques à leurs tâches concernant la prévention et la protection du travail. -  Les missions et tâches à exécuter par l'adjudicataire sont reprises dans le descriptif technique du présent cahier des charges.  Le personnel visé sont tous les travailleurs des Pouvoirs Adjudicateurs et notamment, les employés administratifs effectuant un travail sur écran, ouvriers, personnels de soins, puériculture, enseignants, chauffeurs, etc...  "
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP07G-2980/6679/SIPP-2026-2980",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP07G-2980/6679/SIPP-2026-2980",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Désignation d'un service externe de prévention de protection au travail (SEPPT) - 2027-2030 - Marché conjoint"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-18",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Désignation d'un service externe de prévention de protection au travail (SEPPT) - 2027-2030 - Marché conjoint"
+      }
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Désignation d'un service externe de prévention de protection au travail (SEPPT) - 2027-2030 - Marché conjoint"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SERVICES"
+   ],
+   "noticeIds": [
+    "639d6c44-7e1c-4902-9788-32a9b737a77b"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE332"
+   ],
+   "organisation": {
+    "organisationId": 766,
+    "organisationNames": [
+     {
+      "language": "FR",
+      "text": "Commune de Chaudfontaine"
+     },
+     {
+      "language": "DE",
+      "text": "Chaudfontaine"
+     },
+     {
+      "language": "NL",
+      "text": "Chaudfontaine"
+     },
+     {
+      "language": "EN",
+      "text": "Chaudfontaine"
+     }
+    ],
+    "tree": "200004.200021.766"
+   },
+   "procedureId": "54fd6acf-907f-4e4f-a5d0-f114ed6e0898",
+   "publicationDate": "2026-11-18",
+   "publicationLanguages": [
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP07G-2980/6679/SIPP-2026-2980_002"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "88b81d13-97de-4707-ba48-8246d149cf57",
+   "publishedAt": [
+    "2026-11-18T00:00:50.077396"
+   ],
+   "referenceNumber": "PPP07G-2980/6679/SIPP-2026-2980_002",
+   "sentAt": [
+    "2026-11-18T00:00:50.077396"
+   ],
+   "tedPublished": false
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "71317210-8",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Beratung im Bereich Gesundheit und Sicherheit"
+      },
+      {
+       "language": "EN",
+       "text": "Health and safety consultancy services"
+      },
+      {
+       "language": "FR",
+       "text": "Services de conseil en matière de santé et de sécurité"
+      },
+      {
+       "language": "NL",
+       "text": "Advies inzake gezondheid en veiligheid"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "71317210-8",
+    "descriptions": [
+     {
+      "language": "DE",
+      "text": "Beratung im Bereich Gesundheit und Sicherheit"
+     },
+     {
+      "language": "EN",
+      "text": "Health and safety consultancy services"
+     },
+     {
+      "language": "FR",
+      "text": "Services de conseil en matière de santé et de sécurité"
+     },
+     {
+      "language": "NL",
+      "text": "Advies inzake gezondheid en veiligheid"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-18",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
       "language": "NL",
-      "text": "Deze opdracht betreft de evaluatie van het ESF+ programma Leerecosystemen (LES) waarin momenteel 21 projecten worden ondersteund in Vlaanderen. Deze LES hebben als doel de leergoesting van Vlaamse burgers, jong en oud, te versterken en hun deelname aan levenslang leren te verhogen. De projecten realiseren dit door burgers in levensechte contexten te ondersteunen bij het ontdekken en ontwikkelen van hun talenten, het formuleren van toekomstperspectieven en het uittekenen van een persoonlijk leerpad. Bijzondere aandacht gaat naar personen die moeilijk tot leren komen binnen meer formele leercontexten. De LES-projecten verbinden daarbij verschillende formele, niet-formele en informele leercontexten met het oog op een betere afstemming op individuele leerdoelen en leerstijlen.   De evaluatie heeft twee doelstellingen: verantwoording en kennisopbouw bij strategische partners en betrokken actoren. De evaluatievraag die centraal staat voor deze opdracht is: In welke mate en op welke manier dragen de LES-projecten met hun leeraanbod bij aan het versterken van het leervermogen (‘learner agency’) bij burgers, in het bijzonder bij zij die moeilijk tot leren komen?   Om de overkoepelende evaluatievraag te beantwoorden gaat de opdrachtgever uit van een theorie-gebaseerde evaluatiebenadering met een drieledige evaluatiestrategie:   1. Formatieve evalueerbaarheidsstudie om het theoretisch en verklarend model over hoe projecten kunnen bijdragen aan de beoogde (en ongewenste) effecten verder uit te werken en verfijnen en op basis daarvan de gehanteerde strategieën en leerpaden te inventariseren/categoriseren;  2. Empirische effectevaluatie om de effecten van het aanbod van de LES projecten bij individuen te onderzoeken en verklaren via (vergelijkende) gevalstudies; 3. Kennisdelingsactiviteiten met het oog op het opbouwen en verspreiden van kennis bij actoren van binnen en buiten het ESF+ programma Leerecosystemen.   Inschrijvers moeten in hun projectvoorstel voor elk onderdeel van de evaluatieopdracht een aanpak en bijhorende onderzoeksmethoden voorstellen die afgestemd zijn op de evaluatievragen en doelstellingen.   De opdracht heeft een uitvoeringstermijn van 18 maanden. De uitvoering is voorzien van januari 2027 tot en met juni 2028. De opdracht hanteert een prijsvork van 125.000 tot 150.000 euro (inclusief BTW). De belangrijkste deliverables zijn het inceptierapport, het evaluatierapport en activiteiten/producten voor kennisdeling en capaciteitsopbouw van betrokken actoren.  Voor deze opdracht zijn we op zoek naar een gemotiveerd onderzoeksteam dat beschikt over relevante thematische kennis, ervaring met theorie-gebaseerde impactevaluatie en gevalstudie onderzoek. De opdracht wordt gegund op basis van de beste prijs-kwaliteitverhouding.  "
+      "text": "De raamovereenkomst met één dienstverlener voor een externe veiligheidscoördinator ontwerp en/of verwezenlijking"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "LES_09102026",
+    "number": "AP/VOMB/2026-009",
     "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "LES_09102026",
+    "referenceNumber": "AP/VOMB/2026-009",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
       "language": "NL",
-      "text": "Impactevaluatie Leerecosystemen"
+      "text": "De raamovereenkomst met één deelnemer voor een externe veiligheidscoördinator ontwerp en/of verwezenlijking"
      }
     ]
    },
-   "insertionDate": "2026-10-09",
+   "insertionDate": "2026-11-18",
    "lots": [
     {
      "descriptions": [
       {
        "language": "NL",
-       "text": "Deze opdracht betreft de evaluatie van het ESF+ programma Leerecosystemen (LES) waarin momenteel 21 projecten worden ondersteund in Vlaanderen. Deze LES hebben als doel de leergoesting van Vlaamse burgers, jong en oud, te versterken en hun deelname aan levenslang leren te verhogen. De projecten realiseren dit door burgers in levensechte contexten te ondersteunen bij het ontdekken en ontwikkelen van hun talenten, het formuleren van toekomstperspectieven en het uittekenen van een persoonlijk leerpad. Bijzondere aandacht gaat naar personen die moeilijk tot leren komen binnen meer formele leercontexten. De LES-projecten verbinden daarbij verschillende formele, niet-formele en informele leercontexten met het oog op een betere afstemming op individuele leerdoelen en leerstijlen.   De evaluatie heeft twee doelstellingen: verantwoording en kennisopbouw bij strategische partners en betrokken actoren. De evaluatievraag die centraal staat voor deze opdracht is: In welke mate en op welke manier dragen de LES-projecten met hun leeraanbod bij aan het versterken van het leervermogen (‘learner agency’) bij burgers, in het bijzonder bij zij die moeilijk tot leren komen?   Om de overkoepelende evaluatievraag te beantwoorden gaat de opdrachtgever uit van een theorie-gebaseerde evaluatiebenadering met een drieledige evaluatiestrategie:  1. Formatieve evalueerbaarheidsstudie om het theoretisch en verklarend model over hoe projecten kunnen bijdragen aan de beoogde (en ongewenste) effecten verder uit te werken en verfijnen en op basis daarvan de gehanteerde strategieën en leerpaden te inventariseren/categoriseren;  2. Empirische effectevaluatie om de effecten van het aanbod van de LES projecten bij individuen te onderzoeken en verklaren via (vergelijkende) gevalstudies; 3. Kennisdelingsactiviteiten met het oog op het opbouwen en verspreiden van kennis bij actoren van binnen en buiten het ESF+ programma Leerecosystemen.   Inschrijvers moeten in hun projectvoorstel voor elk onderdeel van de evaluatieopdracht een aanpak en bijhorende onderzoeksmethoden voorstellen die afgestemd zijn op de evaluatievragen en doelstellingen.   De opdracht heeft een uitvoeringstermijn van 18 maanden. De uitvoering is voorzien van januari 2027 tot en met juni 2028. De opdracht hanteert een prijsvork van 125.000 tot 150.000 euro (inclusief BTW). De belangrijkste deliverables zijn het inceptierapport, het evaluatierapport en activiteiten/producten voor kennisdeling en capaciteitsopbouw van betrokken actoren.  Voor deze opdracht zijn we op zoek naar een gemotiveerd onderzoeksteam dat beschikt over relevante thematische kennis, ervaring met theorie-gebaseerde impactevaluatie en gevalstudie onderzoek. De opdracht wordt gegund op basis van de beste prijs-kwaliteitverhouding.  "
+       "text": "raamovereenkomst met één dienstverlener voor een externe veiligheidscoördinator ontwerp en/of verwezenlijking"
       }
      ],
      "reservedExecution": [
@@ -130,7 +266,7 @@
      "titles": [
       {
        "language": "NL",
-       "text": "LES_09102026 - 1"
+       "text": "AP/VOMB/2026-009 - 1"
       }
      ]
     }
@@ -139,447 +275,277 @@
     "SERVICES"
    ],
    "noticeIds": [
-    "a5e39d55-18e7-48ea-9983-cb881496596e",
-    "3725680f-5ed0-4fbd-b129-d0bc5bdc49fa",
-    "41107ee9-d18c-4400-9897-84bde2f9449b"
+    "06f6d059-b6c7-4a61-8c7d-73b57f38b95d"
+   ],
+   "noticeSubType": "29",
+   "nutsCodes": [
+    "BE211"
+   ],
+   "organisation": {
+    "organisationId": 1169,
+    "organisationNames": [
+     {
+      "language": "EN",
+      "text": "Artesis Plantijn Hogeschool Antwerpen"
+     },
+     {
+      "language": "DE",
+      "text": "Artesis Plantijn Hogeschool Antwerpen"
+     },
+     {
+      "language": "FR",
+      "text": "Artesis Plantijn Hogeschool Antwerpen"
+     },
+     {
+      "language": "NL",
+      "text": "Artesis Plantijn Hogeschool Antwerpen"
+     }
+    ],
+    "tree": "200004.200026.1169"
+   },
+   "procedureId": "a596afd2-0472-4284-9610-2f9c0e0d04a1",
+   "publicationDate": "2026-11-18",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "AP/VOMB/2026-009_publicatie sluiting opdracht"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "5a5ad957-f2cd-49ab-b747-fde5f619b071",
+   "publishedAt": [
+    "2026-11-18T00:00:48.345188"
+   ],
+   "referenceNumber": "AP/VOMB/2026-009_publicatie sluiting opdracht",
+   "sentAt": [
+    "2026-11-18T00:00:48.345188"
+   ],
+   "tedPublished": false
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45240000-1",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Wasserbauarbeiten"
+      },
+      {
+       "language": "NL",
+       "text": "Waterbouwwerkzaamheden"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de construction d'ouvrages hydrauliques"
+      },
+      {
+       "language": "EN",
+       "text": "Construction work for water projects"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45240000-1",
+    "descriptions": [
+     {
+      "language": "DE",
+      "text": "Wasserbauarbeiten"
+     },
+     {
+      "language": "NL",
+      "text": "Waterbouwwerkzaamheden"
+     },
+     {
+      "language": "FR",
+      "text": "Travaux de construction d'ouvrages hydrauliques"
+     },
+     {
+      "language": "EN",
+      "text": "Construction work for water projects"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-18",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Erosiebestrijding Gingelom - bufferbekken Beekstraat Montenaken"
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP063-1563/6145/2026-073",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "PPP063-1563/6145/2026-073",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Erosiebestrijding Gingelom - bufferbekken Beekstraat Montenaken"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-18",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Erosiebestrijding Gingelom - bufferbekken Beekstraat Montenaken"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Erosiebestrijding Gingelom - bufferbekken Beekstraat Montenaken"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "7759f1a0-982b-4918-a796-e59b863a46f6"
    ],
    "noticeSubType": "16",
    "nutsCodes": [
-    "BE"
+    "BE224"
    ],
    "organisation": {
-    "organisationId": 5712,
+    "organisationId": 523,
     "organisationNames": [
      {
-      "language": "EN",
-      "text": "Departement Werk en Sociale Economie"
-     },
-     {
-      "language": "NL",
-      "text": "Departement Werk, Economie, Wetenschap, Innovatie en Sociale Economie"
-     },
-     {
       "language": "FR",
-      "text": "Departement Werk en Sociale Economie"
+      "text": "Gingelom"
      },
      {
       "language": "DE",
-      "text": "Departement Werk en Sociale Economie"
+      "text": "Gingelom"
+     },
+     {
+      "language": "EN",
+      "text": "Gingelom"
+     },
+     {
+      "language": "NL",
+      "text": "Gingelom"
      }
     ],
-    "tree": "200003.200015.73.4641.5683.5712"
+    "tree": "200004.200021.523"
    },
-   "procedureId": "2b948d7a-4ba5-4d67-b957-0c0f09d59a9f",
-   "publicationDate": "2026-11-17",
+   "procedureId": "df2faf63-126a-4606-bc30-646302604bc1",
+   "publicationDate": "2026-11-18",
    "publicationLanguages": [
     "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "LES_09102026_pub01"
+    "PPP063-1563/6145/2026-073_001"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "ec15440a-5ea6-4a95-bc26-3964bd7d0df9",
+   "publicationWorkspaceId": "7e812f71-c217-403e-8be3-cf57b539de75",
    "publishedAt": [
-    "2026-10-09T14:55:45.020074",
-    "2026-11-17T10:58:45.025397",
-    "2026-11-04T10:09:45.031115"
+    "2026-11-18T00:00:49.005325"
    ],
-   "referenceNumber": "LES_09102026_pub01",
+   "referenceNumber": "PPP063-1563/6145/2026-073_001",
    "sentAt": [
-    "2026-10-09T14:55:45.020074",
-    "2026-11-17T10:58:45.025397",
-    "2026-11-04T10:09:45.031115"
+    "2026-11-18T00:00:49.005325"
    ],
    "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-24T11:00:00"
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "60183000-4",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Bestelwagenverhuur met chauffeur"
-      },
-      {
-       "language": "EN",
-       "text": "Hire of vans with driver"
-      },
-      {
-       "language": "FR",
-       "text": "Location de camionnettes avec chauffeur"
-      },
-      {
-       "language": "DE",
-       "text": "Vermietung von Lieferwagen mit Fahrer"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "60180000-3",
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Verhuur van voertuigen voor goederenvervoer met chauffeur"
-     },
-     {
-      "language": "DE",
-      "text": "Vermietung von Fahrzeugen für den Gütertransport mit Fahrer"
-     },
-     {
-      "language": "EN",
-      "text": "Hire of goods-transport vehicles with driver"
-     },
-     {
-      "language": "FR",
-      "text": "Location de véhicules de transport de marchandises avec chauffeur"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-17",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Raamovereenkomst voor diensten voor de terbeschikkingstelling van voertuigen met chauffeur voor het vervoer van evenementenmateriaal van visit.brussels, in België en in het buitenland."
-     },
-     {
-      "language": "FR",
-      "text": "Accord-cadre de services pour la mise à disposition de véhicules avec chauffeur pour le transport de matériel événementiel de visit.brussels, en Belgique et à l'étranger. "
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "2026-VB-AC-CLIENTEXPERIENCE-TRANSPORTMATERIELEVENT",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "2026-VB-AC-CLIENTEXPERIENCE-TRANSPORTMATERIELEVENT",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Overheidsopdracht voor het sluiten van een raamovereenkomst voor de terbeschikkingstelling van vervoermiddelen met chauffeur voor evenementenmateriaal"
-     },
-     {
-      "language": "FR",
-      "text": "Marché public relatif à la conclusion d'un accord-cadre portant sur la mise à disposition de moyens de transport avec chauffeur pour le matériel événementiel"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-17",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "OVERHEIDSOPDRACHT VOOR LEVERINGEN BETREFFENDE HET SLUITEN VAN EEN RAAMOVEREENKOMST VOOR DE TERBESCHIKKINGSTELLING VAN VERVOERMIDDELEN MET CHAUFFEUR VOOR EVENEMENTENMATERIAAL"
-      },
-      {
-       "language": "FR",
-       "text": "MARCHÉ PUBLIC DE FOURNITURES RELATIF À LA CONCLUSION D’UN ACCORD-CADRE PORTANT SUR LA MISE À DISPOSITION DE MOYENS DE TRANSPORT AVEC CHAUFFEUR POUR LE MATÉRIEL ÉVÉNEMENTIEL"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "2026-VB-AC-CLIENTEXPERIENCE-TRANSPORTMATERIELEVENT - 1"
-      },
-      {
-       "language": "FR",
-       "text": "2026-VB-AC-CLIENTEXPERIENCE-TRANSPORTMATERIELEVENT - 1"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SERVICES"
-   ],
-   "noticeIds": [
-    "c675e0c7-75c9-411a-b0e4-619d3e78ddb9"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE100"
-   ],
-   "organisation": {
-    "organisationId": 2305,
-    "organisationNames": [
-     {
-      "language": "DE",
-      "text": "visit.brussels"
-     },
-     {
-      "language": "FR",
-      "text": "visit.brussels"
-     },
-     {
-      "language": "NL",
-      "text": "visit.brussels"
-     },
-     {
-      "language": "EN",
-      "text": "visit.brussels"
-     }
-    ],
-    "tree": "200004.200032.2305"
-   },
-   "procedureId": "99a2f663-1142-4a40-9c89-e22458375a80",
-   "publicationDate": "2026-11-17",
-   "publicationLanguages": [
-    "NL",
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "2026-VB-AC-CLIENTEXPERIENCE-TRANSPORTMATERIELEVENT_pub01"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "aae85d11-6689-4ad0-b25f-ea992511703a",
-   "publishedAt": [
-    "2026-11-17T11:09:45.024182"
-   ],
-   "referenceNumber": "2026-VB-AC-CLIENTEXPERIENCE-TRANSPORTMATERIELEVENT_pub01",
-   "sentAt": [
-    "2026-11-17T11:09:45.024182"
-   ],
-   "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "73000000-2",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Onderzoek en ontwikkeling, en aanverwante adviezen"
-      },
-      {
-       "language": "FR",
-       "text": "Services de recherche et développement et services de conseil connexes"
-      },
-      {
-       "language": "DE",
-       "text": "Forschungs- und Entwicklungsdienste und zugehörige Beratung"
-      },
-      {
-       "language": "EN",
-       "text": "Research and development services and related consultancy services"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "73000000-2",
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Onderzoek en ontwikkeling, en aanverwante adviezen"
-     },
-     {
-      "language": "FR",
-      "text": "Services de recherche et développement et services de conseil connexes"
-     },
-     {
-      "language": "DE",
-      "text": "Forschungs- und Entwicklungsdienste und zugehörige Beratung"
-     },
-     {
-      "language": "EN",
-      "text": "Research and development services and related consultancy services"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-17",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "De consultant zal de Principal Investigator adviseren en bijstaan met betrekking tot de ontwikkeling van antilichamen tegen nieuwe therapeutische doelwitten die door de onderzoeksgroep van de Principal Investigator zijn geïdentificeerd en die op het plasmamembraan aanwezig zijn of ervan worden uitgescheiden. Deze ondersteuning heeft onder meer tot doel de selectie van de meest geschikte potentiële therapeutische doelwitten te ondersteunen en bij te dragen aan de ontwikkeling van het preklinisch onderzoek met het oog op de verdere ontwikkeling van dergelijke doelwitten. Van de consultant wordt ook verwacht dat de consultant de junior stafleden begeleidt en traint in de  specifieke vaardigheden nodig voor een transitie van 'Academisch' naar 'Developability' denken."
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP0VN-221/6530/2026/083",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP0VN-221/6530/2026/083",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Wetenschappelijke en strategische consultancy voor de ontwikkeling van proteïnen, antilichamen en nanobodies binnen een onderzoeksprogramma"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-17",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "De consultant zal de Principal Investigator adviseren en bijstaan met betrekking tot de ontwikkeling van antilichamen tegen nieuwe therapeutische doelwitten die door de onderzoeksgroep van de Principal Investigator zijn geïdentificeerd en die op het plasmamembraan aanwezig zijn of ervan worden uitgescheiden. Deze ondersteuning heeft onder meer tot doel de selectie van de meest geschikte potentiële therapeutische doelwitten te ondersteunen en bij te dragen aan de ontwikkeling van het preklinisch onderzoek met het oog op de verdere ontwikkeling van dergelijke doelwitten. Van de consultant wordt ook verwacht dat de consultant de junior stafleden begeleidt en traint in de  specifieke vaardigheden nodig voor een transitie van 'Academisch' naar 'Developability' denken."
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Wetenschappelijke en strategische consultancy voor de ontwikkeling van proteïnen, antilichamen en nanobodies binnen een onderzoeksprogramma"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SERVICES"
-   ],
-   "noticeIds": [
-    "44b567f3-c900-48f3-ae7a-55a6d1c2f009"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE242"
-   ],
-   "organisation": {
-    "organisationId": 5743,
-    "organisationNames": [
-     {
-      "language": "NL",
-      "text": "Vlaams Instituut voor Biotechnologie vzw"
-     },
-     {
-      "language": "EN",
-      "text": "Vlaams Instituut voor Biotechnologie vzw"
-     },
-     {
-      "language": "DE",
-      "text": "Vlaams Instituut voor Biotechnologie vzw"
-     },
-     {
-      "language": "FR",
-      "text": "Vlaams Instituut voor Biotechnologie vzw"
-     }
-    ],
-    "tree": "200003.200015.73.4648.5743"
-   },
-   "procedureId": "52e31fcc-57c5-49d9-a6ec-578cd0b09c9b",
-   "publicationDate": "2026-11-17",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP0VN-221/6530/2026/083_002"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "eea4ebee-90fd-4591-a3ac-6e84dbd3a714",
-   "publishedAt": [
-    "2026-11-17T10:59:45.015777"
-   ],
-   "referenceNumber": "PPP0VN-221/6530/2026/083_002",
-   "sentAt": [
-    "2026-11-17T10:59:45.015777"
-   ],
-   "tedPublished": false
+   "vaultSubmissionDeadline": "2026-12-23T09:00:00"
   }
  ],
  "exemple_attribution": [
   {
    "cpvAdditionalCodes": [
     {
-     "code": "60183000-4",
+     "code": "85147000-1",
      "descriptions": [
       {
        "language": "NL",
-       "text": "Bestelwagenverhuur met chauffeur"
+       "text": "Diensten voor bedrijfsgeneeskunde"
       },
       {
        "language": "EN",
-       "text": "Hire of vans with driver"
+       "text": "Company health services"
       },
       {
        "language": "FR",
-       "text": "Location de camionnettes avec chauffeur"
+       "text": "Services de médecine du travail"
       },
       {
        "language": "DE",
-       "text": "Vermietung von Lieferwagen mit Fahrer"
+       "text": "Betriebliche Gesundheitsfürsorge"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "60180000-3",
+    "code": "85147000-1",
     "descriptions": [
      {
       "language": "NL",
-      "text": "Verhuur van voertuigen voor goederenvervoer met chauffeur"
-     },
-     {
-      "language": "DE",
-      "text": "Vermietung von Fahrzeugen für den Gütertransport mit Fahrer"
+      "text": "Diensten voor bedrijfsgeneeskunde"
      },
      {
       "language": "EN",
-      "text": "Hire of goods-transport vehicles with driver"
+      "text": "Company health services"
      },
      {
       "language": "FR",
-      "text": "Location de véhicules de transport de marchandises avec chauffeur"
+      "text": "Services de médecine du travail"
+     },
+     {
+      "language": "DE",
+      "text": "Betriebliche Gesundheitsfürsorge"
      }
     ]
    },
-   "dispatchDate": "2026-11-17",
+   "dispatchDate": "2026-11-18",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Raamovereenkomst voor diensten voor de terbeschikkingstelling van voertuigen met chauffeur voor het vervoer van evenementenmateriaal van visit.brussels, in België en in het buitenland."
-     },
-     {
       "language": "FR",
-      "text": "Accord-cadre de services pour la mise à disposition de véhicules avec chauffeur pour le transport de matériel événementiel de visit.brussels, en Belgique et à l'étranger. "
+      "text": "Le présent marché vise à confier un service de médecine du travail pour l'Administration Communale de Chaudfontaine, le CPAS de Chaudfontaine, le Royal Syndicat d'Initiative de Chaudfontaine et la Régie Communale Autonome Chaudfontaine Développement, en application de l'article II 3-13 du code du bien-être au travail.  Le service SIPPT est commun à toutes les entités (conseiller en prévention de niveau 2).  Les missions et les tâches à exécuter par l’adjudicataire chargé des prestations de service externe de prévention et de protection sont, de façon synthétique et non exhaustive, les suivantes : - Surveillance de la santé ; - Gestion des risques ; - La collaboration avec le SIPP et le soutien apporté à celui-ci ; - La prise en charge des tâches et missions concernant les aspects psychosociaux et celles relatives à la violence et au harcèlement moral ou sexuel ainsi que l’alcoolisme sur les lieux de travail ; - Le soutien du SEPP en matière de formations ; - En action conjointe avec le SIPP, la mise à disposition des travailleurs des différents services et institutions, de documentations spécifiques à leurs tâches concernant la prévention et la protection du travail. -  Les missions et tâches à exécuter par l'adjudicataire sont reprises dans le descriptif technique du présent cahier des charges.  Le personnel visé sont tous les travailleurs des Pouvoirs Adjudicateurs et notamment, les employés administratifs effectuant un travail sur écran, ouvriers, personnels de soins, puériculture, enseignants, chauffeurs, etc...  "
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "2026-VB-AC-CLIENTEXPERIENCE-TRANSPORTMATERIELEVENT",
+    "number": "PPP07G-2980/6679/SIPP-2026-2980",
     "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "2026-VB-AC-CLIENTEXPERIENCE-TRANSPORTMATERIELEVENT",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "referenceNumber": "PPP07G-2980/6679/SIPP-2026-2980",
     "titles": [
      {
-      "language": "NL",
-      "text": "Overheidsopdracht voor het sluiten van een raamovereenkomst voor de terbeschikkingstelling van vervoermiddelen met chauffeur voor evenementenmateriaal"
-     },
-     {
       "language": "FR",
-      "text": "Marché public relatif à la conclusion d'un accord-cadre portant sur la mise à disposition de moyens de transport avec chauffeur pour le matériel événementiel"
+      "text": "Désignation d'un service externe de prévention de protection au travail (SEPPT) - 2027-2030 - Marché conjoint"
      }
     ]
    },
-   "insertionDate": "2026-11-17",
+   "insertionDate": "2026-11-18",
    "lots": [
     {
      "descriptions": [
       {
-       "language": "NL",
-       "text": "OVERHEIDSOPDRACHT VOOR LEVERINGEN BETREFFENDE HET SLUITEN VAN EEN RAAMOVEREENKOMST VOOR DE TERBESCHIKKINGSTELLING VAN VERVOERMIDDELEN MET CHAUFFEUR VOOR EVENEMENTENMATERIAAL"
-      },
-      {
        "language": "FR",
-       "text": "MARCHÉ PUBLIC DE FOURNITURES RELATIF À LA CONCLUSION D’UN ACCORD-CADRE PORTANT SUR LA MISE À DISPOSITION DE MOYENS DE TRANSPORT AVEC CHAUFFEUR POUR LE MATÉRIEL ÉVÉNEMENTIEL"
+       "text": "Désignation d'un service externe de prévention de protection au travail (SEPPT) - 2027-2030 - Marché conjoint"
       }
      ],
      "titles": [
       {
-       "language": "NL",
-       "text": "2026-VB-AC-CLIENTEXPERIENCE-TRANSPORTMATERIELEVENT - 1"
-      },
-      {
        "language": "FR",
-       "text": "2026-VB-AC-CLIENTEXPERIENCE-TRANSPORTMATERIELEVENT - 1"
+       "text": "Désignation d'un service externe de prévention de protection au travail (SEPPT) - 2027-2030 - Marché conjoint"
       }
      ]
     }
@@ -588,52 +554,51 @@
     "SERVICES"
    ],
    "noticeIds": [
-    "c675e0c7-75c9-411a-b0e4-619d3e78ddb9"
+    "639d6c44-7e1c-4902-9788-32a9b737a77b"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE100"
+    "BE332"
    ],
    "organisation": {
-    "organisationId": 2305,
+    "organisationId": 766,
     "organisationNames": [
      {
-      "language": "DE",
-      "text": "visit.brussels"
+      "language": "FR",
+      "text": "Commune de Chaudfontaine"
      },
      {
-      "language": "FR",
-      "text": "visit.brussels"
+      "language": "DE",
+      "text": "Chaudfontaine"
      },
      {
       "language": "NL",
-      "text": "visit.brussels"
+      "text": "Chaudfontaine"
      },
      {
       "language": "EN",
-      "text": "visit.brussels"
+      "text": "Chaudfontaine"
      }
     ],
-    "tree": "200004.200032.2305"
+    "tree": "200004.200021.766"
    },
-   "procedureId": "99a2f663-1142-4a40-9c89-e22458375a80",
-   "publicationDate": "2026-11-17",
+   "procedureId": "54fd6acf-907f-4e4f-a5d0-f114ed6e0898",
+   "publicationDate": "2026-11-18",
    "publicationLanguages": [
-    "NL",
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "2026-VB-AC-CLIENTEXPERIENCE-TRANSPORTMATERIELEVENT_pub01"
+    "PPP07G-2980/6679/SIPP-2026-2980_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "aae85d11-6689-4ad0-b25f-ea992511703a",
+   "publicationWorkspaceId": "88b81d13-97de-4707-ba48-8246d149cf57",
    "publishedAt": [
-    "2026-11-17T11:09:45.024182"
+    "2026-11-18T00:00:50.077396"
    ],
-   "referenceNumber": "2026-VB-AC-CLIENTEXPERIENCE-TRANSPORTMATERIELEVENT_pub01",
+   "referenceNumber": "PPP07G-2980/6679/SIPP-2026-2980_002",
    "sentAt": [
-    "2026-11-17T11:09:45.024182"
+    "2026-11-18T00:00:50.077396"
    ],
    "tedPublished": false
   }
