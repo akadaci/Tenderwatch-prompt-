@@ -1,16 +1,12 @@
 {
- "updated": "2026-11-17T17:02:14Z",
+ "updated": "2026-11-17T19:01:39Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 531,
- "kept": 251,
- "count": 3364,
+ "received": 535,
+ "kept": 252,
+ "count": 3365,
  "new_ids": [
-  "bda-fc256878-462b-4653-a876-00795eda71ad",
-  "bda-78d8d304-989d-4059-a7c4-4f0a518ebe9e",
-  "bda-872eb33e-2237-48af-8a1b-c92195b5672a",
-  "bda-69f0ed33-5ba8-4755-9a1e-0610b835a105",
-  "bda-e5bc2785-14fb-4a34-8666-f2fcadd6f5db"
+  "bda-60cd4173-c9ed-4290-b3d4-35700c171c6d"
  ],
  "records": [
   {
@@ -2112,6 +2108,27 @@
    "procedure": "df1b6029-3915-41d5-adf2-00cbd9b6529a",
    "dossier": "WS2859207123",
    "first_seen": "2026-11-17T17:02:14Z"
+  },
+  {
+   "id": "bda-60cd4173-c9ed-4290-b3d4-35700c171c6d",
+   "source_type": "BDA",
+   "nom": "Travaux de construction de complexes multifonctionnels au profit des unions / SCOOPS dans les communes de Tillabéri et Simiri (Région de Tillabéri)",
+   "lieu": "",
+   "province": "",
+   "mo": "Enabel",
+   "etape": 4,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/60cd4173-c9ed-4290-b3d4-35700c171c6d",
+   "verif": "vérifié",
+   "verif_date": "2026-11-17",
+   "preuve": "Bulletin des Adjudications, réf. NER21003-10129 (avis de marché, sous-type eForms 16), publié le 2026-11-17.",
+   "date_publication": "2026-11-17",
+   "cpv": "45210000,45262220,45000000",
+   "ted_ref": "",
+   "notes": "Travaux de construction de complexes multifonctionnels au profit des unions / SCOOPS dans les communes de Tillabéri et Simiri (Région de Tillabéri)”",
+   "procedure": "1e17c3dd-5628-4a61-bb9f-0a752e2f49ea",
+   "dossier": "NER21003-10129",
+   "first_seen": "2026-11-17T19:01:39Z"
   },
   {
    "id": "bda-34e06093-2508-43c1-888b-95d31d521121",
