@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-17T19:01:39Z",
+ "updated": "2026-11-17T21:01:46Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 535,
- "kept": 252,
- "count": 3365,
+ "received": 536,
+ "kept": 253,
+ "count": 3366,
  "new_ids": [
-  "bda-60cd4173-c9ed-4290-b3d4-35700c171c6d"
+  "bda-f714fa43-f7ca-4df7-a6d1-78d79f18419d"
  ],
  "records": [
   {
@@ -2129,6 +2129,27 @@
    "procedure": "1e17c3dd-5628-4a61-bb9f-0a752e2f49ea",
    "dossier": "NER21003-10129",
    "first_seen": "2026-11-17T19:01:39Z"
+  },
+  {
+   "id": "bda-f714fa43-f7ca-4df7-a6d1-78d79f18419d",
+   "source_type": "BDA",
+   "nom": "Travaux de préparation du terrain pour l’installation de bureaux modulaires provisoires du chantier B06A",
+   "lieu": "Hainaut",
+   "province": "Hainaut",
+   "mo": "Institut National des radioéléments",
+   "etape": 4,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/f714fa43-f7ca-4df7-a6d1-78d79f18419d",
+   "verif": "vérifié",
+   "verif_date": "2026-11-17",
+   "preuve": "Bulletin des Adjudications, réf. CT26-322 (avis de marché, sous-type eForms 16), publié le 2026-11-17.",
+   "date_publication": "2026-11-17",
+   "cpv": "45112500",
+   "ted_ref": "",
+   "notes": "Le terrain se situe dans le périmètre P1, à l’arrière du bâtiment B08. Le terrain est directement accessible depuis la voirie interne du site. Il s’agit d’un terrain meuble en pente légère descendante depuis la voirie vers le bâtiment B08. Les présents travaux consistent à aménager le terrain afin d",
+   "procedure": "0a1d4013-813e-487e-8896-7f8ae729796b",
+   "dossier": "CT26-322",
+   "first_seen": "2026-11-17T21:01:46Z"
   },
   {
    "id": "bda-34e06093-2508-43c1-888b-95d31d521121",
