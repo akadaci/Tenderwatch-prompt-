@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 296205
+  "totalCount": 296211
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -60,353 +60,76 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "85147000-1",
+     "code": "45211000-9",
      "descriptions": [
       {
+       "language": "FR",
+       "text": "Travaux de construction d'immeubles collectifs et de maisons individuelles"
+      },
+      {
        "language": "NL",
-       "text": "Diensten voor bedrijfsgeneeskunde"
+       "text": "Bouwwerkzaamheden voor meergezins- en eengezinswoningen"
       },
       {
        "language": "EN",
-       "text": "Company health services"
-      },
-      {
-       "language": "FR",
-       "text": "Services de médecine du travail"
+       "text": "Construction work for multi-dwelling buildings and individual houses"
       },
       {
        "language": "DE",
-       "text": "Betriebliche Gesundheitsfürsorge"
+       "text": "Bauarbeiten für Mehrfamilienhäuser und Einfamilienhäuser"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "85147000-1",
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Diensten voor bedrijfsgeneeskunde"
-     },
-     {
-      "language": "EN",
-      "text": "Company health services"
-     },
-     {
-      "language": "FR",
-      "text": "Services de médecine du travail"
-     },
-     {
-      "language": "DE",
-      "text": "Betriebliche Gesundheitsfürsorge"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-18",
-   "dossier": {
-    "accreditations": {},
+    "code": "45211000-9",
     "descriptions": [
      {
       "language": "FR",
-      "text": "Le présent marché vise à confier un service de médecine du travail pour l'Administration Communale de Chaudfontaine, le CPAS de Chaudfontaine, le Royal Syndicat d'Initiative de Chaudfontaine et la Régie Communale Autonome Chaudfontaine Développement, en application de l'article II 3-13 du code du bien-être au travail.  Le service SIPPT est commun à toutes les entités (conseiller en prévention de niveau 2).  Les missions et les tâches à exécuter par l’adjudicataire chargé des prestations de service externe de prévention et de protection sont, de façon synthétique et non exhaustive, les suivantes : - Surveillance de la santé ; - Gestion des risques ; - La collaboration avec le SIPP et le soutien apporté à celui-ci ; - La prise en charge des tâches et missions concernant les aspects psychosociaux et celles relatives à la violence et au harcèlement moral ou sexuel ainsi que l’alcoolisme sur les lieux de travail ; - Le soutien du SEPP en matière de formations ; - En action conjointe avec le SIPP, la mise à disposition des travailleurs des différents services et institutions, de documentations spécifiques à leurs tâches concernant la prévention et la protection du travail. -  Les missions et tâches à exécuter par l'adjudicataire sont reprises dans le descriptif technique du présent cahier des charges.  Le personnel visé sont tous les travailleurs des Pouvoirs Adjudicateurs et notamment, les employés administratifs effectuant un travail sur écran, ouvriers, personnels de soins, puériculture, enseignants, chauffeurs, etc...  "
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP07G-2980/6679/SIPP-2026-2980",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP07G-2980/6679/SIPP-2026-2980",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "Désignation d'un service externe de prévention de protection au travail (SEPPT) - 2027-2030 - Marché conjoint"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-18",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Désignation d'un service externe de prévention de protection au travail (SEPPT) - 2027-2030 - Marché conjoint"
-      }
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Désignation d'un service externe de prévention de protection au travail (SEPPT) - 2027-2030 - Marché conjoint"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SERVICES"
-   ],
-   "noticeIds": [
-    "639d6c44-7e1c-4902-9788-32a9b737a77b"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE332"
-   ],
-   "organisation": {
-    "organisationId": 766,
-    "organisationNames": [
-     {
-      "language": "FR",
-      "text": "Commune de Chaudfontaine"
-     },
-     {
-      "language": "DE",
-      "text": "Chaudfontaine"
+      "text": "Travaux de construction d'immeubles collectifs et de maisons individuelles"
      },
      {
       "language": "NL",
-      "text": "Chaudfontaine"
+      "text": "Bouwwerkzaamheden voor meergezins- en eengezinswoningen"
      },
      {
       "language": "EN",
-      "text": "Chaudfontaine"
-     }
-    ],
-    "tree": "200004.200021.766"
-   },
-   "procedureId": "54fd6acf-907f-4e4f-a5d0-f114ed6e0898",
-   "publicationDate": "2026-11-18",
-   "publicationLanguages": [
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP07G-2980/6679/SIPP-2026-2980_002"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "88b81d13-97de-4707-ba48-8246d149cf57",
-   "publishedAt": [
-    "2026-11-18T00:00:50.077396"
-   ],
-   "referenceNumber": "PPP07G-2980/6679/SIPP-2026-2980_002",
-   "sentAt": [
-    "2026-11-18T00:00:50.077396"
-   ],
-   "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "71317210-8",
-     "descriptions": [
-      {
-       "language": "DE",
-       "text": "Beratung im Bereich Gesundheit und Sicherheit"
-      },
-      {
-       "language": "EN",
-       "text": "Health and safety consultancy services"
-      },
-      {
-       "language": "FR",
-       "text": "Services de conseil en matière de santé et de sécurité"
-      },
-      {
-       "language": "NL",
-       "text": "Advies inzake gezondheid en veiligheid"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "71317210-8",
-    "descriptions": [
+      "text": "Construction work for multi-dwelling buildings and individual houses"
+     },
      {
       "language": "DE",
-      "text": "Beratung im Bereich Gesundheit und Sicherheit"
-     },
-     {
-      "language": "EN",
-      "text": "Health and safety consultancy services"
-     },
-     {
-      "language": "FR",
-      "text": "Services de conseil en matière de santé et de sécurité"
-     },
-     {
-      "language": "NL",
-      "text": "Advies inzake gezondheid en veiligheid"
+      "text": "Bauarbeiten für Mehrfamilienhäuser und Einfamilienhäuser"
      }
     ]
    },
-   "dispatchDate": "2026-11-18",
+   "dispatchDate": "2026-11-19",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
       "language": "NL",
-      "text": "De raamovereenkomst met één dienstverlener voor een externe veiligheidscoördinator ontwerp en/of verwezenlijking"
+      "text": "Houthalen 18: grondige renovatie 15 verdiepingswoningen"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "AP/VOMB/2026-009",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "AP/VOMB/2026-009",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "De raamovereenkomst met één deelnemer voor een externe veiligheidscoördinator ontwerp en/of verwezenlijking"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-18",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "raamovereenkomst met één dienstverlener voor een externe veiligheidscoördinator ontwerp en/of verwezenlijking"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "AP/VOMB/2026-009 - 1"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SERVICES"
-   ],
-   "noticeIds": [
-    "06f6d059-b6c7-4a61-8c7d-73b57f38b95d"
-   ],
-   "noticeSubType": "29",
-   "nutsCodes": [
-    "BE211"
-   ],
-   "organisation": {
-    "organisationId": 1169,
-    "organisationNames": [
-     {
-      "language": "EN",
-      "text": "Artesis Plantijn Hogeschool Antwerpen"
-     },
-     {
-      "language": "DE",
-      "text": "Artesis Plantijn Hogeschool Antwerpen"
-     },
-     {
-      "language": "FR",
-      "text": "Artesis Plantijn Hogeschool Antwerpen"
-     },
-     {
-      "language": "NL",
-      "text": "Artesis Plantijn Hogeschool Antwerpen"
-     }
-    ],
-    "tree": "200004.200026.1169"
-   },
-   "procedureId": "a596afd2-0472-4284-9610-2f9c0e0d04a1",
-   "publicationDate": "2026-11-18",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "AP/VOMB/2026-009_publicatie sluiting opdracht"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "5a5ad957-f2cd-49ab-b747-fde5f619b071",
-   "publishedAt": [
-    "2026-11-18T00:00:48.345188"
-   ],
-   "referenceNumber": "AP/VOMB/2026-009_publicatie sluiting opdracht",
-   "sentAt": [
-    "2026-11-18T00:00:48.345188"
-   ],
-   "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "45240000-1",
-     "descriptions": [
-      {
-       "language": "DE",
-       "text": "Wasserbauarbeiten"
-      },
-      {
-       "language": "NL",
-       "text": "Waterbouwwerkzaamheden"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de construction d'ouvrages hydrauliques"
-      },
-      {
-       "language": "EN",
-       "text": "Construction work for water projects"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "45240000-1",
-    "descriptions": [
-     {
-      "language": "DE",
-      "text": "Wasserbauarbeiten"
-     },
-     {
-      "language": "NL",
-      "text": "Waterbouwwerkzaamheden"
-     },
-     {
-      "language": "FR",
-      "text": "Travaux de construction d'ouvrages hydrauliques"
-     },
-     {
-      "language": "EN",
-      "text": "Construction work for water projects"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-18",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Erosiebestrijding Gingelom - bufferbekken Beekstraat Montenaken"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP063-1563/6145/2026-073",
+    "number": "PPP0OQ-2762/6616/2024/0519/01 - BW",
     "procurementProcedureType": "OPEN",
-    "referenceNumber": "PPP063-1563/6145/2026-073",
+    "referenceNumber": "PPP0OQ-2762/6616/2024/0519/01 - BW",
     "titles": [
      {
       "language": "NL",
-      "text": "Erosiebestrijding Gingelom - bufferbekken Beekstraat Montenaken"
+      "text": "Houthalen 18: grondige renovatie 15 verdiepingswoningen"
      }
     ]
    },
-   "insertionDate": "2026-11-18",
+   "insertionDate": "2026-11-19",
    "lots": [
     {
      "descriptions": [
       {
        "language": "NL",
-       "text": "Erosiebestrijding Gingelom - bufferbekken Beekstraat Montenaken"
+       "text": "Houthalen 18: grondige renovatie 15 verdiepingswoningen"
       }
      ],
      "reservedExecution": [
@@ -418,7 +141,7 @@
      "titles": [
       {
        "language": "NL",
-       "text": "Erosiebestrijding Gingelom - bufferbekken Beekstraat Montenaken"
+       "text": "Houthalen 18: grondige renovatie 15 verdiepingswoningen"
       }
      ]
     }
@@ -427,189 +150,517 @@
     "WORKS"
    ],
    "noticeIds": [
-    "7759f1a0-982b-4918-a796-e59b863a46f6"
+    "e4ac4193-aff4-4bbe-8d7d-f8bc9a417cda"
    ],
    "noticeSubType": "16",
    "nutsCodes": [
     "BE224"
    ],
    "organisation": {
-    "organisationId": 523,
+    "organisationId": 4569,
     "organisationNames": [
      {
-      "language": "FR",
-      "text": "Gingelom"
-     },
-     {
-      "language": "DE",
-      "text": "Gingelom"
-     },
-     {
       "language": "EN",
-      "text": "Gingelom"
+      "text": "Wonen in Limburg"
      },
      {
       "language": "NL",
-      "text": "Gingelom"
+      "text": "Wonen in Limburg"
+     },
+     {
+      "language": "FR",
+      "text": "Wonen in Limburg"
+     },
+     {
+      "language": "DE",
+      "text": "Wonen in Limburg"
      }
     ],
-    "tree": "200004.200021.523"
+    "tree": "200004.200028.4569"
    },
-   "procedureId": "df2faf63-126a-4606-bc30-646302604bc1",
-   "publicationDate": "2026-11-18",
+   "procedureId": "e401f8cd-52b5-47fb-ba4f-d2762d6f65b7",
+   "publicationDate": "2026-11-19",
    "publicationLanguages": [
     "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP063-1563/6145/2026-073_001"
+    "PPP0OQ-2762/6616/2024/0519/01 - BW_001"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "7e812f71-c217-403e-8be3-cf57b539de75",
+   "publicationWorkspaceId": "429dc3ee-b6bb-48b1-a802-89f5015e0237",
    "publishedAt": [
-    "2026-11-18T00:00:49.005325"
+    "2026-11-19T00:00:46.495035"
    ],
-   "referenceNumber": "PPP063-1563/6145/2026-073_001",
+   "referenceNumber": "PPP0OQ-2762/6616/2024/0519/01 - BW_001",
    "sentAt": [
-    "2026-11-18T00:00:49.005325"
+    "2026-11-19T00:00:46.495035"
    ],
    "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-12-23T09:00:00"
-  }
- ],
- "exemple_attribution": [
+   "vaultSubmissionDeadline": "2027-01-19T10:00:00"
+  },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "85147000-1",
+     "code": "45233120-6",
      "descriptions": [
       {
+       "language": "FR",
+       "text": "Travaux de construction de routes"
+      },
+      {
        "language": "NL",
-       "text": "Diensten voor bedrijfsgeneeskunde"
+       "text": "Wegenbouwwerken"
       },
       {
        "language": "EN",
-       "text": "Company health services"
-      },
-      {
-       "language": "FR",
-       "text": "Services de médecine du travail"
+       "text": "Road construction works"
       },
       {
        "language": "DE",
-       "text": "Betriebliche Gesundheitsfürsorge"
+       "text": "Straßenbauarbeiten"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "85147000-1",
+    "code": "45233120-6",
     "descriptions": [
      {
+      "language": "FR",
+      "text": "Travaux de construction de routes"
+     },
+     {
       "language": "NL",
-      "text": "Diensten voor bedrijfsgeneeskunde"
+      "text": "Wegenbouwwerken"
      },
      {
       "language": "EN",
-      "text": "Company health services"
-     },
-     {
-      "language": "FR",
-      "text": "Services de médecine du travail"
+      "text": "Road construction works"
      },
      {
       "language": "DE",
-      "text": "Betriebliche Gesundheitsfürsorge"
+      "text": "Straßenbauarbeiten"
      }
     ]
    },
-   "dispatchDate": "2026-11-18",
+   "dispatchDate": "2026-11-19",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
+      "language": "EN",
+      "text": "Public work contract for “The Construction of Al-Ain Street – Green Corridor Project in Al-Bireh”"
+     },
+     {
       "language": "FR",
-      "text": "Le présent marché vise à confier un service de médecine du travail pour l'Administration Communale de Chaudfontaine, le CPAS de Chaudfontaine, le Royal Syndicat d'Initiative de Chaudfontaine et la Régie Communale Autonome Chaudfontaine Développement, en application de l'article II 3-13 du code du bien-être au travail.  Le service SIPPT est commun à toutes les entités (conseiller en prévention de niveau 2).  Les missions et les tâches à exécuter par l’adjudicataire chargé des prestations de service externe de prévention et de protection sont, de façon synthétique et non exhaustive, les suivantes : - Surveillance de la santé ; - Gestion des risques ; - La collaboration avec le SIPP et le soutien apporté à celui-ci ; - La prise en charge des tâches et missions concernant les aspects psychosociaux et celles relatives à la violence et au harcèlement moral ou sexuel ainsi que l’alcoolisme sur les lieux de travail ; - Le soutien du SEPP en matière de formations ; - En action conjointe avec le SIPP, la mise à disposition des travailleurs des différents services et institutions, de documentations spécifiques à leurs tâches concernant la prévention et la protection du travail. -  Les missions et tâches à exécuter par l'adjudicataire sont reprises dans le descriptif technique du présent cahier des charges.  Le personnel visé sont tous les travailleurs des Pouvoirs Adjudicateurs et notamment, les employés administratifs effectuant un travail sur écran, ouvriers, personnels de soins, puériculture, enseignants, chauffeurs, etc...  "
+      "text": "Marché public relatif à « La construction de la rue Al-Ain – Projet de corridor vert à Al-Bireh »"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP07G-2980/6679/SIPP-2026-2980",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP07G-2980/6679/SIPP-2026-2980",
+    "number": "BEL22008-10027",
+    "procurementProcedureType": "NEG_W_CALL_24",
+    "referenceNumber": "BEL22008-10027",
     "titles": [
      {
+      "language": "EN",
+      "text": "Public work contract for “The Construction of Al-Ain Street – Green Corridor Project in Al-Bireh”"
+     },
+     {
       "language": "FR",
-      "text": "Désignation d'un service externe de prévention de protection au travail (SEPPT) - 2027-2030 - Marché conjoint"
+      "text": "Marché public relatif à « La construction de la rue Al-Ain – Projet de corridor vert à Al-Bireh »"
      }
     ]
    },
-   "insertionDate": "2026-11-18",
+   "insertionDate": "2026-11-02",
    "lots": [
     {
      "descriptions": [
       {
+       "language": "EN",
+       "text": "Public work contract for “The Construction of Al-Ain Street – Green Corridor Project in Al-Bireh”"
+      },
+      {
        "language": "FR",
-       "text": "Désignation d'un service externe de prévention de protection au travail (SEPPT) - 2027-2030 - Marché conjoint"
+       "text": "Marché public relatif à « La construction de la rue Al-Ain – Projet de corridor vert à Al-Bireh »"
       }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
      ],
      "titles": [
       {
+       "language": "EN",
+       "text": "BEL22008-10027 - 1"
+      },
+      {
        "language": "FR",
-       "text": "Désignation d'un service externe de prévention de protection au travail (SEPPT) - 2027-2030 - Marché conjoint"
+       "text": "BEL22008-10027 - 1"
       }
      ]
     }
    ],
    "natures": [
-    "SERVICES"
+    "WORKS"
    ],
    "noticeIds": [
-    "639d6c44-7e1c-4902-9788-32a9b737a77b"
+    "e65cb3eb-9a68-4775-9dd9-0d79371ea0a3",
+    "2d065b34-1d3e-45f1-aeec-fda4727fb456"
+   ],
+   "noticeSubType": "10",
+   "nutsCodes": [],
+   "organisation": {
+    "organisationId": 139,
+    "organisationNames": [
+     {
+      "language": "NL",
+      "text": "Enabel"
+     },
+     {
+      "language": "FR",
+      "text": "Enabel"
+     },
+     {
+      "language": "DE",
+      "text": "Enabel"
+     },
+     {
+      "language": "EN",
+      "text": "Enabel"
+     }
+    ],
+    "tree": "200002.200014.139"
+   },
+   "procedureId": "c182bdb6-22a0-49d8-95f9-9c7619a070b0",
+   "publicationDate": "2026-11-19",
+   "publicationLanguages": [
+    "EN",
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "BEL22008-10027_pub01"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "debb35d3-dfb7-419a-8d3e-60b25cc009f6",
+   "publishedAt": [
+    "2026-11-19T00:00:47.942568",
+    "2026-11-02T12:00:45.014278"
+   ],
+   "referenceNumber": "BEL22008-10027_pub01",
+   "sentAt": [
+    "2026-11-19T00:00:47.942568",
+    "2026-11-02T12:00:45.014278"
+   ],
+   "tedPublished": false
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45421000-4",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Bouwtimmerwerk"
+      },
+      {
+       "language": "EN",
+       "text": "Joinery work"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de menuiserie"
+      },
+      {
+       "language": "DE",
+       "text": "Bautischlerarbeiten"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45421000-4",
+    "descriptions": [
+     {
+      "language": "EN",
+      "text": "Joinery work"
+     },
+     {
+      "language": "NL",
+      "text": "Bouwtimmerwerk"
+     },
+     {
+      "language": "FR",
+      "text": "Travaux de menuiserie"
+     },
+     {
+      "language": "DE",
+      "text": "Bautischlerarbeiten"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-19",
+   "dossier": {
+    "accreditations": {
+     "D20": 3
+    },
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Remplacement des châssis du bâtiment 3434 et création de sorties de secours"
+     }
+    ],
+    "enterpriseCategories": [
+     {
+      "categoryCode": "D20",
+      "levels": [
+       3,
+       2,
+       1
+      ]
+     }
+    ],
+    "legalBasis": "D24",
+    "number": "AF 264 45569 11 et 21",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "AF 264 45569 11 et 21",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Athénée royal d'Ans (AF 264 45569 11 et 21) : remplacement des châssis du bâtiment 3434 et création de sorties de secours"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-19",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Plus en détail, les travaux comprennent : - Travaux de stabilité : modification de baie et pose d’un escalier de secours ; - Enlèvement de châssis PVC - Placement de nouveaux châssis Alu double vitrage - Ragréage intérieur et des abords direct"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "AF 264 45569 11 et 21 - 1"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "b44e0e3c-0320-4a2d-a5a4-97c943f47655"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
     "BE332"
    ],
    "organisation": {
-    "organisationId": 766,
+    "organisationId": 7122,
     "organisationNames": [
      {
-      "language": "FR",
-      "text": "Commune de Chaudfontaine"
+      "language": "DE",
+      "text": "Direction régionale de Liège"
      },
      {
-      "language": "DE",
-      "text": "Chaudfontaine"
+      "language": "FR",
+      "text": "Direction régionale de Liège"
      },
      {
       "language": "NL",
-      "text": "Chaudfontaine"
+      "text": "Direction régionale de Liège"
      },
      {
       "language": "EN",
-      "text": "Chaudfontaine"
+      "text": "Direction régionale de Liège"
      }
     ],
-    "tree": "200004.200021.766"
+    "tree": "200003.200018.2560.5245.6216.6699.7122"
    },
-   "procedureId": "54fd6acf-907f-4e4f-a5d0-f114ed6e0898",
-   "publicationDate": "2026-11-18",
+   "procedureId": "bf6c170f-2bdc-4faf-918b-b35709e45cd5",
+   "publicationDate": "2026-11-19",
    "publicationLanguages": [
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP07G-2980/6679/SIPP-2026-2980_002"
+    "AF 264 45569 11 et 21_pub02"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "88b81d13-97de-4707-ba48-8246d149cf57",
+   "publicationWorkspaceId": "62443079-f28f-4c8b-a778-255b62949fe1",
    "publishedAt": [
-    "2026-11-18T00:00:50.077396"
+    "2026-11-19T00:00:47.705283"
    ],
-   "referenceNumber": "PPP07G-2980/6679/SIPP-2026-2980_002",
+   "referenceNumber": "AF 264 45569 11 et 21_pub02",
    "sentAt": [
-    "2026-11-18T00:00:50.077396"
+    "2026-11-19T00:00:47.705283"
+   ],
+   "tedPublished": false
+  }
+ ],
+ "exemple_attribution": [
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45421000-4",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Bouwtimmerwerk"
+      },
+      {
+       "language": "EN",
+       "text": "Joinery work"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de menuiserie"
+      },
+      {
+       "language": "DE",
+       "text": "Bautischlerarbeiten"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45421000-4",
+    "descriptions": [
+     {
+      "language": "EN",
+      "text": "Joinery work"
+     },
+     {
+      "language": "NL",
+      "text": "Bouwtimmerwerk"
+     },
+     {
+      "language": "FR",
+      "text": "Travaux de menuiserie"
+     },
+     {
+      "language": "DE",
+      "text": "Bautischlerarbeiten"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-19",
+   "dossier": {
+    "accreditations": {
+     "D20": 3
+    },
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Remplacement des châssis du bâtiment 3434 et création de sorties de secours"
+     }
+    ],
+    "enterpriseCategories": [
+     {
+      "categoryCode": "D20",
+      "levels": [
+       3,
+       2,
+       1
+      ]
+     }
+    ],
+    "legalBasis": "D24",
+    "number": "AF 264 45569 11 et 21",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "AF 264 45569 11 et 21",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Athénée royal d'Ans (AF 264 45569 11 et 21) : remplacement des châssis du bâtiment 3434 et création de sorties de secours"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-19",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Plus en détail, les travaux comprennent : - Travaux de stabilité : modification de baie et pose d’un escalier de secours ; - Enlèvement de châssis PVC - Placement de nouveaux châssis Alu double vitrage - Ragréage intérieur et des abords direct"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "AF 264 45569 11 et 21 - 1"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "b44e0e3c-0320-4a2d-a5a4-97c943f47655"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE332"
+   ],
+   "organisation": {
+    "organisationId": 7122,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "Direction régionale de Liège"
+     },
+     {
+      "language": "FR",
+      "text": "Direction régionale de Liège"
+     },
+     {
+      "language": "NL",
+      "text": "Direction régionale de Liège"
+     },
+     {
+      "language": "EN",
+      "text": "Direction régionale de Liège"
+     }
+    ],
+    "tree": "200003.200018.2560.5245.6216.6699.7122"
+   },
+   "procedureId": "bf6c170f-2bdc-4faf-918b-b35709e45cd5",
+   "publicationDate": "2026-11-19",
+   "publicationLanguages": [
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "AF 264 45569 11 et 21_pub02"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "62443079-f28f-4c8b-a778-255b62949fe1",
+   "publishedAt": [
+    "2026-11-19T00:00:47.705283"
+   ],
+   "referenceNumber": "AF 264 45569 11 et 21_pub02",
+   "sentAt": [
+    "2026-11-19T00:00:47.705283"
    ],
    "tedPublished": false
   }
