@@ -1,12 +1,30 @@
 {
- "updated": "2026-11-18T11:01:46Z",
+ "updated": "2026-11-18T13:04:20Z",
  "source": "urban.brussels NOVA (WFS)",
  "days_back": 3,
- "received": 66,
- "kept": 9,
- "count": 212,
- "new_ids": [],
+ "received": 78,
+ "kept": 10,
+ "count": 213,
+ "new_ids": [
+  "nova-09/PU/2052987"
+ ],
  "records": [
+  {
+   "id": "nova-09/PU/2052987",
+   "source_type": "Permis",
+   "nom": "Le projet consiste d'une part à changer l'affectation d'un commerce situé au RDC d'un immeuble en un commerce et un appartement une chambre à l'arrière, et d'autre part à modifier la façade avant en s",
+   "lieu": "Chaussée de Vleurgat 31, 1050 Ixelles",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='09/PU/2052987'",
+   "verif": "vérifié",
+   "verif_date": "2026-11-18",
+   "preuve": "Demande de permis 09/PU/2052987 reçue le 2026-11-18 (urban.brussels, service NOVA), surface projetée 119 m².",
+   "date_publication": "2026-11-18",
+   "notes": "Autorité : Ixelles",
+   "first_seen": "2026-11-18T13:04:20Z"
+  },
   {
    "id": "nova-15/PFD/2052837",
    "source_type": "Permis",
