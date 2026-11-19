@@ -366,12 +366,12 @@
      "code": "45421000-4",
      "descriptions": [
       {
-       "language": "EN",
-       "text": "Joinery work"
-      },
-      {
        "language": "NL",
        "text": "Bouwtimmerwerk"
+      },
+      {
+       "language": "EN",
+       "text": "Joinery work"
       },
       {
        "language": "FR",
@@ -388,12 +388,12 @@
     "code": "45421000-4",
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Bouwtimmerwerk"
-     },
-     {
       "language": "EN",
       "text": "Joinery work"
+     },
+     {
+      "language": "NL",
+      "text": "Bouwtimmerwerk"
      },
      {
       "language": "FR",
@@ -520,12 +520,12 @@
      "code": "45421000-4",
      "descriptions": [
       {
-       "language": "EN",
-       "text": "Joinery work"
-      },
-      {
        "language": "NL",
        "text": "Bouwtimmerwerk"
+      },
+      {
+       "language": "EN",
+       "text": "Joinery work"
       },
       {
        "language": "FR",
@@ -542,12 +542,12 @@
     "code": "45421000-4",
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Bouwtimmerwerk"
-     },
-     {
       "language": "EN",
       "text": "Joinery work"
+     },
+     {
+      "language": "NL",
+      "text": "Bouwtimmerwerk"
      },
      {
       "language": "FR",
