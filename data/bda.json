@@ -1,20 +1,11 @@
 {
- "updated": "2026-11-19T17:01:52Z",
+ "updated": "2026-11-19T19:01:54Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 1018,
- "kept": 463,
+ "received": 1019,
+ "kept": 464,
  "count": 3513,
- "new_ids": [
-  "bda-2a4585c4-1106-4952-890f-1309a6376615",
-  "bda-b820cec3-f10d-4002-b5c0-b73cce4b8c68",
-  "bda-0edef7ed-aba5-49f7-9add-03ca5d8839f1",
-  "bda-1e55ec82-fa5e-41f6-8959-01d5e5b56831",
-  "bda-fbdb83c3-89a5-4733-82ba-56d1035c500e",
-  "bda-318abbba-2cbf-40a9-b80d-b76c0b86ff20",
-  "bda-a9fa3c8f-c9df-4de8-92f5-e4e68213901a",
-  "bda-6d948e1d-ebec-4157-8940-996bdc884b97"
- ],
+ "new_ids": [],
  "records": [
   {
    "id": "bda-debb35d3-dfb7-419a-8d3e-60b25cc009f6",
@@ -2514,6 +2505,27 @@
    "procedure": "83857c76-13d3-4df4-ade1-17fbbe127f9b",
    "dossier": "ASSESSE CV-24.020d",
    "first_seen": "2026-11-19T17:01:52Z"
+  },
+  {
+   "id": "bda-d68e8146-e54b-4338-8eaa-124ab6f19abc",
+   "source_type": "BDA",
+   "nom": "Sint- Michielskerk Butsel Restauratie daken en gewelven",
+   "lieu": "Brabant flamand",
+   "province": "Brabant flamand",
+   "mo": "Architecten Beeck & Hermans",
+   "etape": 4,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/d68e8146-e54b-4338-8eaa-124ab6f19abc",
+   "verif": "vérifié",
+   "verif_date": "2026-11-19",
+   "preuve": "Bulletin des Adjudications, réf. ARCH BE&HE SMK BU (avis de marché, sous-type eForms 16), publié le 2026-11-19.",
+   "date_publication": "2026-11-19",
+   "cpv": "45000000",
+   "ted_ref": "",
+   "notes": "Restauratie daken en gewelven",
+   "procedure": "39d9b317-b10a-47f6-a871-09c7a41c8c82",
+   "dossier": "ARCH BE&HE SMK BU",
+   "first_seen": "2026-10-20T12:01:42Z"
   },
   {
    "id": "bda-5a5ad957-f2cd-49ab-b747-fde5f619b071",
@@ -18117,27 +18129,6 @@
    "procedure": "24b9ae98-b2ed-4325-a15e-b2bbe139a8eb",
    "dossier": "PPP093-3364/6336/MT-PO/26-3364",
    "first_seen": "2026-10-21T08:02:27Z"
-  },
-  {
-   "id": "bda-d68e8146-e54b-4338-8eaa-124ab6f19abc",
-   "source_type": "BDA",
-   "nom": "Sint- Michielskerk Butsel Restauratie daken en gewelven",
-   "lieu": "Brabant flamand",
-   "province": "Brabant flamand",
-   "mo": "Architecten Beeck & Hermans",
-   "etape": 4,
-   "sur_ted": false,
-   "source": "https://www.publicprocurement.be/publication-workspaces/d68e8146-e54b-4338-8eaa-124ab6f19abc",
-   "verif": "vérifié",
-   "verif_date": "2026-11-09",
-   "preuve": "Bulletin des Adjudications, réf. ARCH BE&HE SMK BU (avis de marché, sous-type eForms 16), publié le 2026-11-06.",
-   "date_publication": "2026-11-06",
-   "cpv": "45000000",
-   "ted_ref": "",
-   "notes": "Restauratie daken en gewelven",
-   "procedure": "39d9b317-b10a-47f6-a871-09c7a41c8c82",
-   "dossier": "ARCH BE&HE SMK BU",
-   "first_seen": "2026-10-20T12:01:42Z"
   },
   {
    "id": "bda-4aa50a19-8bdc-4bef-8539-07b2a14a6a47",
