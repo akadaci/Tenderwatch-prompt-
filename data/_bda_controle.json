@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 296255
+  "totalCount": 296271
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -41,6 +41,7 @@
   "ACTIVE|33|['SUPPLIES']",
   "ACTIVE|33|['WORKS']",
   "ACTIVE|34|['SERVICES']",
+  "ACTIVE|34|['SUPPLIES']",
   "ACTIVE|36|['SERVICES']",
   "ACTIVE|38|['SUPPLIES']",
   "ACTIVE|4|['SERVICES']",
@@ -388,12 +389,12 @@
     "code": "45421000-4",
     "descriptions": [
      {
-      "language": "EN",
-      "text": "Joinery work"
-     },
-     {
       "language": "NL",
       "text": "Bouwtimmerwerk"
+     },
+     {
+      "language": "EN",
+      "text": "Joinery work"
      },
      {
       "language": "FR",
@@ -542,12 +543,12 @@
     "code": "45421000-4",
     "descriptions": [
      {
-      "language": "EN",
-      "text": "Joinery work"
-     },
-     {
       "language": "NL",
       "text": "Bouwtimmerwerk"
+     },
+     {
+      "language": "EN",
+      "text": "Joinery work"
      },
      {
       "language": "FR",
