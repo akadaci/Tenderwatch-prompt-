@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 296271
+  "totalCount": 296323
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -24,7 +24,9 @@
   "ACTIVE|19|['SERVICES']",
   "ACTIVE|20|['SERVICES']",
   "ACTIVE|20|['SUPPLIES']",
+  "ACTIVE|21|['SERVICES']",
   "ACTIVE|21|['SUPPLIES']",
+  "ACTIVE|21|['WORKS']",
   "ACTIVE|23|['SERVICES']",
   "ACTIVE|25|['SUPPLIES']",
   "ACTIVE|29|['SERVICES']",
@@ -54,6 +56,7 @@
   "ACTIVE|E3|['SUPPLIES', 'SERVICES']",
   "ACTIVE|E3|['SUPPLIES']",
   "ACTIVE|E3|['WORKS']",
+  "ACTIVE|E4|['SERVICES', 'SUPPLIES']",
   "ACTIVE|E4|['SERVICES', 'WORKS']",
   "ACTIVE|E4|['SERVICES']",
   "ACTIVE|E4|['SUPPLIES']",
@@ -63,388 +66,88 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45211000-9",
+     "code": "45220000-5",
      "descriptions": [
       {
+       "language": "EN",
+       "text": "Engineering works and construction works"
+      },
+      {
        "language": "FR",
-       "text": "Travaux de construction d'immeubles collectifs et de maisons individuelles"
+       "text": "Ouvrages d'art et de génie civil"
       },
       {
        "language": "NL",
-       "text": "Bouwwerkzaamheden voor meergezins- en eengezinswoningen"
-      },
-      {
-       "language": "EN",
-       "text": "Construction work for multi-dwelling buildings and individual houses"
+       "text": "Civieltechnische en bouwwerkzaamheden"
       },
       {
        "language": "DE",
-       "text": "Bauarbeiten für Mehrfamilienhäuser und Einfamilienhäuser"
+       "text": "Ingenieur- und Hochbauarbeiten"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45211000-9",
+    "code": "45200000-9",
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Travaux de construction d'immeubles collectifs et de maisons individuelles"
-     },
-     {
-      "language": "NL",
-      "text": "Bouwwerkzaamheden voor meergezins- en eengezinswoningen"
-     },
-     {
-      "language": "EN",
-      "text": "Construction work for multi-dwelling buildings and individual houses"
-     },
-     {
       "language": "DE",
-      "text": "Bauarbeiten für Mehrfamilienhäuser und Einfamilienhäuser"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-19",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Houthalen 18: grondige renovatie 15 verdiepingswoningen"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP0OQ-2762/6616/2024/0519/01 - BW",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "PPP0OQ-2762/6616/2024/0519/01 - BW",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Houthalen 18: grondige renovatie 15 verdiepingswoningen"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-19",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Houthalen 18: grondige renovatie 15 verdiepingswoningen"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Houthalen 18: grondige renovatie 15 verdiepingswoningen"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "WORKS"
-   ],
-   "noticeIds": [
-    "e4ac4193-aff4-4bbe-8d7d-f8bc9a417cda"
-   ],
-   "noticeSubType": "16",
-   "nutsCodes": [
-    "BE224"
-   ],
-   "organisation": {
-    "organisationId": 4569,
-    "organisationNames": [
-     {
-      "language": "EN",
-      "text": "Wonen in Limburg"
+      "text": "Komplett- oder Teilbauleistungen im Hochbau sowie Tiefbauarbeiten"
      },
      {
       "language": "NL",
-      "text": "Wonen in Limburg"
-     },
-     {
-      "language": "FR",
-      "text": "Wonen in Limburg"
-     },
-     {
-      "language": "DE",
-      "text": "Wonen in Limburg"
-     }
-    ],
-    "tree": "200004.200028.4569"
-   },
-   "procedureId": "e401f8cd-52b5-47fb-ba4f-d2762d6f65b7",
-   "publicationDate": "2026-11-19",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP0OQ-2762/6616/2024/0519/01 - BW_001"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "429dc3ee-b6bb-48b1-a802-89f5015e0237",
-   "publishedAt": [
-    "2026-11-19T00:00:46.495035"
-   ],
-   "referenceNumber": "PPP0OQ-2762/6616/2024/0519/01 - BW_001",
-   "sentAt": [
-    "2026-11-19T00:00:46.495035"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2027-01-19T10:00:00"
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "45233120-6",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Travaux de construction de routes"
-      },
-      {
-       "language": "NL",
-       "text": "Wegenbouwwerken"
-      },
-      {
-       "language": "EN",
-       "text": "Road construction works"
-      },
-      {
-       "language": "DE",
-       "text": "Straßenbauarbeiten"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "45233120-6",
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Travaux de construction de routes"
-     },
-     {
-      "language": "NL",
-      "text": "Wegenbouwwerken"
+      "text": "Volledige of gedeeltelijke bouw- en civieltechnische werkzaamheden"
      },
      {
       "language": "EN",
-      "text": "Road construction works"
-     },
-     {
-      "language": "DE",
-      "text": "Straßenbauarbeiten"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-19",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "EN",
-      "text": "Public work contract for “The Construction of Al-Ain Street – Green Corridor Project in Al-Bireh”"
+      "text": "Works for complete or part construction and civil engineering work"
      },
      {
       "language": "FR",
-      "text": "Marché public relatif à « La construction de la rue Al-Ain – Projet de corridor vert à Al-Bireh »"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "BEL22008-10027",
-    "procurementProcedureType": "NEG_W_CALL_24",
-    "referenceNumber": "BEL22008-10027",
-    "titles": [
-     {
-      "language": "EN",
-      "text": "Public work contract for “The Construction of Al-Ain Street – Green Corridor Project in Al-Bireh”"
-     },
-     {
-      "language": "FR",
-      "text": "Marché public relatif à « La construction de la rue Al-Ain – Projet de corridor vert à Al-Bireh »"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-02",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Public work contract for “The Construction of Al-Ain Street – Green Corridor Project in Al-Bireh”"
-      },
-      {
-       "language": "FR",
-       "text": "Marché public relatif à « La construction de la rue Al-Ain – Projet de corridor vert à Al-Bireh »"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "EN",
-       "text": "BEL22008-10027 - 1"
-      },
-      {
-       "language": "FR",
-       "text": "BEL22008-10027 - 1"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "WORKS"
-   ],
-   "noticeIds": [
-    "e65cb3eb-9a68-4775-9dd9-0d79371ea0a3",
-    "2d065b34-1d3e-45f1-aeec-fda4727fb456"
-   ],
-   "noticeSubType": "10",
-   "nutsCodes": [],
-   "organisation": {
-    "organisationId": 139,
-    "organisationNames": [
-     {
-      "language": "NL",
-      "text": "Enabel"
-     },
-     {
-      "language": "FR",
-      "text": "Enabel"
-     },
-     {
-      "language": "DE",
-      "text": "Enabel"
-     },
-     {
-      "language": "EN",
-      "text": "Enabel"
-     }
-    ],
-    "tree": "200002.200014.139"
-   },
-   "procedureId": "c182bdb6-22a0-49d8-95f9-9c7619a070b0",
-   "publicationDate": "2026-11-19",
-   "publicationLanguages": [
-    "EN",
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "BEL22008-10027_pub01"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "debb35d3-dfb7-419a-8d3e-60b25cc009f6",
-   "publishedAt": [
-    "2026-11-19T00:00:47.942568",
-    "2026-11-02T12:00:45.014278"
-   ],
-   "referenceNumber": "BEL22008-10027_pub01",
-   "sentAt": [
-    "2026-11-19T00:00:47.942568",
-    "2026-11-02T12:00:45.014278"
-   ],
-   "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "45421000-4",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Bouwtimmerwerk"
-      },
-      {
-       "language": "EN",
-       "text": "Joinery work"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de menuiserie"
-      },
-      {
-       "language": "DE",
-       "text": "Bautischlerarbeiten"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "45421000-4",
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Bouwtimmerwerk"
-     },
-     {
-      "language": "EN",
-      "text": "Joinery work"
-     },
-     {
-      "language": "FR",
-      "text": "Travaux de menuiserie"
-     },
-     {
-      "language": "DE",
-      "text": "Bautischlerarbeiten"
+      "text": "Travaux de construction complète ou partielle et travaux de génie civil"
      }
     ]
    },
    "dispatchDate": "2026-11-19",
    "dossier": {
     "accreditations": {
-     "D20": 3
+     "E": 4
     },
     "descriptions": [
      {
       "language": "FR",
-      "text": "Remplacement des châssis du bâtiment 3434 et création de sorties de secours"
+      "text": "L'entreprise comprend en ordre principal: Pour le PS 27.723 : - le renouvellement de la chape d’étanchéité (et de tous les travaux connexes) d’un passage supérieur à trois tabliers en béton armé ; - le renouvellement d’un joint de dilatation ; - la réalisation d’un système de drainage ; - l’entretien des bétons du passage supérieur ; - le renouvellement des protections caténaires du passage supérieur ; Pour le PI 31.144 : - La démolition d’une passerelle et de murs de soutènement en béton armé ; - La pose d’éléments de cadre et d’éléments empilables en béton/béton armé ; - Le remblai et reprofilage de talus ; - La réfection de maçonneries "
      }
     ],
     "enterpriseCategories": [
      {
-      "categoryCode": "D20",
+      "categoryCode": "E",
       "levels": [
+       4,
        3,
        2,
        1
       ]
      }
     ],
-    "legalBasis": "D24",
-    "number": "AF 264 45569 11 et 21",
+    "legalBasis": "D25",
+    "number": "5753526010",
     "procurementProcedureType": "OPEN",
-    "referenceNumber": "AF 264 45569 11 et 21",
+    "referenceNumber": "5753526010",
     "titles": [
      {
       "language": "FR",
-      "text": "Athénée royal d'Ans (AF 264 45569 11 et 21) : remplacement des châssis du bâtiment 3434 et création de sorties de secours"
+      "text": "Ligne 94 – Halle/Baisieux : Commune d’Enghien - Renouvellement de la chape d’étanchéité, des joints de dilatation et entretien du passage supérieur situé au km 27.723, rue Fontaine à Louche - Entretien du passage inférieur situé au km 31.144, à proximité de la rue de la Garenne"
      }
     ]
    },
-   "insertionDate": "2026-11-19",
+   "insertionDate": "2026-11-03",
    "lots": [
     {
      "descriptions": [
       {
        "language": "FR",
-       "text": "Plus en détail, les travaux comprennent : - Travaux de stabilité : modification de baie et pose d’un escalier de secours ; - Enlèvement de châssis PVC - Placement de nouveaux châssis Alu double vitrage - Ragréage intérieur et des abords direct"
+       "text": "L'entreprise comprend en ordre principal: Pour le PS 27.723 : - le renouvellement de la chape d’étanchéité (et de tous les travaux connexes) d’un passage supérieur à trois tabliers en béton armé ; - le renouvellement d’un joint de dilatation ; - la réalisation d’un système de drainage ; - l’entretien des bétons du passage supérieur ; - le renouvellement des protections caténaires du passage supérieur ; Pour le PI 31.144 : - La démolition d’une passerelle et de murs de soutènement en béton armé ; - La pose d’éléments de cadre et d’éléments empilables en béton/béton armé ; - Le remblai et reprofilage de talus ; - La réfection de maçonneries "
       }
      ],
      "reservedExecution": [
@@ -456,7 +159,7 @@
      "titles": [
       {
        "language": "FR",
-       "text": "AF 264 45569 11 et 21 - 1"
+       "text": "5753526010 - 1"
       }
      ]
     }
@@ -465,51 +168,333 @@
     "WORKS"
    ],
    "noticeIds": [
-    "b44e0e3c-0320-4a2d-a5a4-97c943f47655"
+    "69e11e9e-8ff2-4a86-a253-35537f609118",
+    "33f73e6c-c63a-4001-a0bd-60d83983be54",
+    "2c425641-57aa-402d-9c51-6490d0aa23d0",
+    "a189cfbe-8731-4af8-84ec-c34c61037423"
    ],
-   "noticeSubType": "E4",
+   "noticeSubType": "17",
    "nutsCodes": [
-    "BE332"
+    "BE323"
    ],
    "organisation": {
-    "organisationId": 7122,
+    "organisationId": 17122,
     "organisationNames": [
      {
-      "language": "DE",
-      "text": "Direction régionale de Liège"
-     },
-     {
-      "language": "FR",
-      "text": "Direction régionale de Liège"
+      "language": "EN",
+      "text": "Infrabel Projects South"
      },
      {
       "language": "NL",
-      "text": "Direction régionale de Liège"
+      "text": "Infrabel Projects South"
      },
      {
-      "language": "EN",
-      "text": "Direction régionale de Liège"
+      "language": "FR",
+      "text": "Infrabel Projects South"
+     },
+     {
+      "language": "DE",
+      "text": "Infrabel Projects South"
      }
     ],
-    "tree": "200003.200018.2560.5245.6216.6699.7122"
+    "tree": "200002.200014.4784.17122"
    },
-   "procedureId": "bf6c170f-2bdc-4faf-918b-b35709e45cd5",
+   "procedureId": "dea0e312-503d-4055-a099-5e5677177989",
    "publicationDate": "2026-11-19",
    "publicationLanguages": [
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "AF 264 45569 11 et 21_pub02"
+    "5753526010_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "62443079-f28f-4c8b-a778-255b62949fe1",
+   "publicationWorkspaceId": "7d8e9a15-ec99-4e24-9887-ad6b05b725d8",
    "publishedAt": [
-    "2026-11-19T00:00:47.705283"
+    "2026-11-12T11:39:46.01661",
+    "2026-11-05T15:43:46.032858",
+    "2026-11-19T08:07:45.027242",
+    "2026-11-03T09:14:45.024978"
    ],
-   "referenceNumber": "AF 264 45569 11 et 21_pub02",
+   "referenceNumber": "5753526010_pub01",
    "sentAt": [
-    "2026-11-19T00:00:47.705283"
+    "2026-11-12T11:39:46.01661",
+    "2026-11-05T15:43:46.032858",
+    "2026-11-19T08:07:45.027242",
+    "2026-11-03T09:14:45.024978"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-12-03T14:00:00"
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45316100-6",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Installation von Beleuchtungsanlagen im Freien"
+      },
+      {
+       "language": "NL",
+       "text": "Installeren van buitenverlichting"
+      },
+      {
+       "language": "FR",
+       "text": "Installation d'appareils d'éclairage extérieur"
+      },
+      {
+       "language": "EN",
+       "text": "Installation of outdoor illumination equipment"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45316100-6",
+    "descriptions": [
+     {
+      "language": "DE",
+      "text": "Installation von Beleuchtungsanlagen im Freien"
+     },
+     {
+      "language": "NL",
+      "text": "Installeren van buitenverlichting"
+     },
+     {
+      "language": "FR",
+      "text": "Installation d'appareils d'éclairage extérieur"
+     },
+     {
+      "language": "EN",
+      "text": "Installation of outdoor illumination equipment"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-19",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Fourniture, pose et raccordement d'un éclairage extérieur à la salle de Hampteau"
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP09X-2873/6143/2026101501",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP09X-2873/6143/2026101501",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Fourniture, pose et raccordement d'un éclairage extérieur à la salle de Hampteau"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-19",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Fourniture, pose et raccordement d'un éclairage extérieur à la salle de Hampteau"
+      }
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Fourniture, pose et raccordement d'un éclairage extérieur à la salle de Hampteau"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "8820afed-e676-4d26-994f-563d5d4c486e"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE343"
+   ],
+   "organisation": {
+    "organisationId": 477,
+    "organisationNames": [
+     {
+      "language": "EN",
+      "text": "Hotton"
+     },
+     {
+      "language": "FR",
+      "text": "Hotton"
+     },
+     {
+      "language": "DE",
+      "text": "Hotton"
+     },
+     {
+      "language": "NL",
+      "text": "Hotton"
+     }
+    ],
+    "tree": "200004.200021.477"
+   },
+   "procedureId": "3da30859-9cb6-4732-8b8c-005313651b64",
+   "publicationDate": "2026-11-19",
+   "publicationLanguages": [
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP09X-2873/6143/2026101501_001"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "4188f2c3-6bf6-4df2-b0e5-2b0019861b56",
+   "publishedAt": [
+    "2026-11-19T08:23:46.011644"
+   ],
+   "referenceNumber": "PPP09X-2873/6143/2026101501_001",
+   "sentAt": [
+    "2026-11-19T08:23:46.011644"
+   ],
+   "tedPublished": false
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45112700-2",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Landscaping work"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux d'aménagement paysager"
+      },
+      {
+       "language": "DE",
+       "text": "Landschaftsgärtnerische Arbeiten"
+      },
+      {
+       "language": "NL",
+       "text": "Werkzaamheden voor landschapsarchitectuur"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45112700-2",
+    "descriptions": [
+     {
+      "language": "EN",
+      "text": "Landscaping work"
+     },
+     {
+      "language": "FR",
+      "text": "Travaux d'aménagement paysager"
+     },
+     {
+      "language": "DE",
+      "text": "Landschaftsgärtnerische Arbeiten"
+     },
+     {
+      "language": "NL",
+      "text": "Werkzaamheden voor landschapsarchitectuur"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-19",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Travaux d’abattage d’arbres dangereux sur les cours d’eau non navigables classés en 2ème catégorie des sous-bassins hydrographiques de la Haine, de la Sambre, de la Meuse amont et de l’Oise - Exercice 2026"
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP0DX-5130/6153/CE/1180/2026/0015",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP0DX-5130/6153/CE/1180/2026/0015",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Travaux d’abattage d’arbres dangereux sur les cours d’eau non navigables classés en 2ème catégorie des sous-bassins hydrographiques de la Haine, de la Sambre, de la Meuse amont et de l’Oise - Exercice 2026"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-19",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Travaux d’abattage d’arbres dangereux sur les cours d’eau non navigables classés en 2ème catégorie des sous-bassins hydrographiques de la Haine, de la Sambre, de la Meuse amont et de l’Oise - Exercice 2026"
+      }
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Travaux d’abattage d’arbres dangereux sur les cours d’eau non navigables classés en 2ème catégorie des sous-bassins hydrographiques de la Haine, de la Sambre, de la Meuse amont et de l’Oise - Exercice 2026"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "393669b1-9c58-4b45-8694-beedc4ff55bc"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE329",
+    "BE32A"
+   ],
+   "organisation": {
+    "organisationId": 5318,
+    "organisationNames": [
+     {
+      "language": "FR",
+      "text": "Hainaut Ingénierie Technique"
+     },
+     {
+      "language": "DE",
+      "text": "Hainaut Ingénierie Technique"
+     },
+     {
+      "language": "NL",
+      "text": "Hainaut Ingénierie Technique"
+     },
+     {
+      "language": "EN",
+      "text": "Hainaut Ingénierie Technique"
+     }
+    ],
+    "tree": "200004.200020.572.5318"
+   },
+   "procedureId": "855b437a-a37e-47ee-822e-7d5e4b785edd",
+   "publicationDate": "2026-11-19",
+   "publicationLanguages": [
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP0DX-5130/6153/CE/1180/2026/0015_002"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "9c2145a9-bde4-49b4-b66f-08bb5d10035b",
+   "publishedAt": [
+    "2026-11-19T08:35:46.01386"
+   ],
+   "referenceNumber": "PPP0DX-5130/6153/CE/1180/2026/0015_002",
+   "sentAt": [
+    "2026-11-19T08:35:46.01386"
    ],
    "tedPublished": false
   }
@@ -518,77 +503,66 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45421000-4",
+     "code": "45316100-6",
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Bouwtimmerwerk"
+       "language": "DE",
+       "text": "Installation von Beleuchtungsanlagen im Freien"
       },
       {
-       "language": "EN",
-       "text": "Joinery work"
+       "language": "NL",
+       "text": "Installeren van buitenverlichting"
       },
       {
        "language": "FR",
-       "text": "Travaux de menuiserie"
+       "text": "Installation d'appareils d'éclairage extérieur"
       },
       {
-       "language": "DE",
-       "text": "Bautischlerarbeiten"
+       "language": "EN",
+       "text": "Installation of outdoor illumination equipment"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45421000-4",
+    "code": "45316100-6",
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Bouwtimmerwerk"
+      "language": "DE",
+      "text": "Installation von Beleuchtungsanlagen im Freien"
      },
      {
-      "language": "EN",
-      "text": "Joinery work"
+      "language": "NL",
+      "text": "Installeren van buitenverlichting"
      },
      {
       "language": "FR",
-      "text": "Travaux de menuiserie"
+      "text": "Installation d'appareils d'éclairage extérieur"
      },
      {
-      "language": "DE",
-      "text": "Bautischlerarbeiten"
+      "language": "EN",
+      "text": "Installation of outdoor illumination equipment"
      }
     ]
    },
    "dispatchDate": "2026-11-19",
    "dossier": {
-    "accreditations": {
-     "D20": 3
-    },
+    "accreditations": {},
     "descriptions": [
      {
       "language": "FR",
-      "text": "Remplacement des châssis du bâtiment 3434 et création de sorties de secours"
+      "text": "Fourniture, pose et raccordement d'un éclairage extérieur à la salle de Hampteau"
      }
     ],
-    "enterpriseCategories": [
-     {
-      "categoryCode": "D20",
-      "levels": [
-       3,
-       2,
-       1
-      ]
-     }
-    ],
+    "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "AF 264 45569 11 et 21",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "AF 264 45569 11 et 21",
+    "number": "PPP09X-2873/6143/2026101501",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP09X-2873/6143/2026101501",
     "titles": [
      {
       "language": "FR",
-      "text": "Athénée royal d'Ans (AF 264 45569 11 et 21) : remplacement des châssis du bâtiment 3434 et création de sorties de secours"
+      "text": "Fourniture, pose et raccordement d'un éclairage extérieur à la salle de Hampteau"
      }
     ]
    },
@@ -598,19 +572,13 @@
      "descriptions": [
       {
        "language": "FR",
-       "text": "Plus en détail, les travaux comprennent : - Travaux de stabilité : modification de baie et pose d’un escalier de secours ; - Enlèvement de châssis PVC - Placement de nouveaux châssis Alu double vitrage - Ragréage intérieur et des abords direct"
+       "text": "Fourniture, pose et raccordement d'un éclairage extérieur à la salle de Hampteau"
       }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
      ],
      "titles": [
       {
        "language": "FR",
-       "text": "AF 264 45569 11 et 21 - 1"
+       "text": "Fourniture, pose et raccordement d'un éclairage extérieur à la salle de Hampteau"
       }
      ]
     }
@@ -619,51 +587,51 @@
     "WORKS"
    ],
    "noticeIds": [
-    "b44e0e3c-0320-4a2d-a5a4-97c943f47655"
+    "8820afed-e676-4d26-994f-563d5d4c486e"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE332"
+    "BE343"
    ],
    "organisation": {
-    "organisationId": 7122,
+    "organisationId": 477,
     "organisationNames": [
      {
-      "language": "DE",
-      "text": "Direction régionale de Liège"
+      "language": "EN",
+      "text": "Hotton"
      },
      {
       "language": "FR",
-      "text": "Direction régionale de Liège"
+      "text": "Hotton"
+     },
+     {
+      "language": "DE",
+      "text": "Hotton"
      },
      {
       "language": "NL",
-      "text": "Direction régionale de Liège"
-     },
-     {
-      "language": "EN",
-      "text": "Direction régionale de Liège"
+      "text": "Hotton"
      }
     ],
-    "tree": "200003.200018.2560.5245.6216.6699.7122"
+    "tree": "200004.200021.477"
    },
-   "procedureId": "bf6c170f-2bdc-4faf-918b-b35709e45cd5",
+   "procedureId": "3da30859-9cb6-4732-8b8c-005313651b64",
    "publicationDate": "2026-11-19",
    "publicationLanguages": [
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "AF 264 45569 11 et 21_pub02"
+    "PPP09X-2873/6143/2026101501_001"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "62443079-f28f-4c8b-a778-255b62949fe1",
+   "publicationWorkspaceId": "4188f2c3-6bf6-4df2-b0e5-2b0019861b56",
    "publishedAt": [
-    "2026-11-19T00:00:47.705283"
+    "2026-11-19T08:23:46.011644"
    ],
-   "referenceNumber": "AF 264 45569 11 et 21_pub02",
+   "referenceNumber": "PPP09X-2873/6143/2026101501_001",
    "sentAt": [
-    "2026-11-19T00:00:47.705283"
+    "2026-11-19T08:23:46.011644"
    ],
    "tedPublished": false
   }
