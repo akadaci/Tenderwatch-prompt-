@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 296387
+  "totalCount": 296397
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -66,88 +66,211 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45220000-5",
+     "code": "85147000-1",
      "descriptions": [
       {
+       "language": "NL",
+       "text": "Diensten voor bedrijfsgeneeskunde"
+      },
+      {
        "language": "EN",
-       "text": "Engineering works and construction works"
+       "text": "Company health services"
       },
       {
        "language": "FR",
-       "text": "Ouvrages d'art et de génie civil"
-      },
-      {
-       "language": "NL",
-       "text": "Civieltechnische en bouwwerkzaamheden"
+       "text": "Services de médecine du travail"
       },
       {
        "language": "DE",
-       "text": "Ingenieur- und Hochbauarbeiten"
+       "text": "Betriebliche Gesundheitsfürsorge"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45200000-9",
+    "code": "85147000-1",
     "descriptions": [
      {
-      "language": "DE",
-      "text": "Komplett- oder Teilbauleistungen im Hochbau sowie Tiefbauarbeiten"
-     },
-     {
       "language": "NL",
-      "text": "Volledige of gedeeltelijke bouw- en civieltechnische werkzaamheden"
+      "text": "Diensten voor bedrijfsgeneeskunde"
      },
      {
       "language": "EN",
-      "text": "Works for complete or part construction and civil engineering work"
+      "text": "Company health services"
      },
      {
       "language": "FR",
-      "text": "Travaux de construction complète ou partielle et travaux de génie civil"
+      "text": "Services de médecine du travail"
+     },
+     {
+      "language": "DE",
+      "text": "Betriebliche Gesundheitsfürsorge"
      }
     ]
    },
-   "dispatchDate": "2026-11-19",
+   "dispatchDate": "2026-11-20",
    "dossier": {
-    "accreditations": {
-     "E": 4
-    },
+    "accreditations": {},
     "descriptions": [
      {
       "language": "FR",
-      "text": "L'entreprise comprend en ordre principal: Pour le PS 27.723 : - le renouvellement de la chape d’étanchéité (et de tous les travaux connexes) d’un passage supérieur à trois tabliers en béton armé ; - le renouvellement d’un joint de dilatation ; - la réalisation d’un système de drainage ; - l’entretien des bétons du passage supérieur ; - le renouvellement des protections caténaires du passage supérieur ; Pour le PI 31.144 : - La démolition d’une passerelle et de murs de soutènement en béton armé ; - La pose d’éléments de cadre et d’éléments empilables en béton/béton armé ; - Le remblai et reprofilage de talus ; - La réfection de maçonneries "
+      "text": "Désignation d'un service externe de prévention et de protection au travail"
      }
     ],
-    "enterpriseCategories": [
-     {
-      "categoryCode": "E",
-      "levels": [
-       4,
-       3,
-       2,
-       1
-      ]
-     }
-    ],
-    "legalBasis": "D25",
-    "number": "5753526010",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "5753526010",
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP13G-515/6056/2026-014",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP13G-515/6056/2026-014",
     "titles": [
      {
       "language": "FR",
-      "text": "Ligne 94 – Halle/Baisieux : Commune d’Enghien - Renouvellement de la chape d’étanchéité, des joints de dilatation et entretien du passage supérieur situé au km 27.723, rue Fontaine à Louche - Entretien du passage inférieur situé au km 31.144, à proximité de la rue de la Garenne"
+      "text": "Désignation d'un service externe de prévention et de protection au travail"
      }
     ]
    },
-   "insertionDate": "2026-11-03",
+   "insertionDate": "2026-11-20",
    "lots": [
     {
      "descriptions": [
       {
        "language": "FR",
-       "text": "L'entreprise comprend en ordre principal: Pour le PS 27.723 : - le renouvellement de la chape d’étanchéité (et de tous les travaux connexes) d’un passage supérieur à trois tabliers en béton armé ; - le renouvellement d’un joint de dilatation ; - la réalisation d’un système de drainage ; - l’entretien des bétons du passage supérieur ; - le renouvellement des protections caténaires du passage supérieur ; Pour le PI 31.144 : - La démolition d’une passerelle et de murs de soutènement en béton armé ; - La pose d’éléments de cadre et d’éléments empilables en béton/béton armé ; - Le remblai et reprofilage de talus ; - La réfection de maçonneries "
+       "text": "Désignation d'un service externe de prévention et de protection au travail"
+      }
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Désignation d'un service externe de prévention et de protection au travail"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SERVICES"
+   ],
+   "noticeIds": [
+    "007bac73-f52e-4b25-939e-6dea9bb34487"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE351"
+   ],
+   "organisation": {
+    "organisationId": 2071,
+    "organisationNames": [
+     {
+      "language": "NL",
+      "text": "Zone de Secours Namur Sud  DINAPHI"
+     },
+     {
+      "language": "EN",
+      "text": "Zone de Secours namur Sud  DINAPHI"
+     },
+     {
+      "language": "FR",
+      "text": "Zone de Secours DINAPHI"
+     },
+     {
+      "language": "DE",
+      "text": "Zone de Secours DINAPHI"
+     }
+    ],
+    "tree": "200004.200025.2071"
+   },
+   "procedureId": "3047d504-09aa-45ed-a252-a769228fc4ef",
+   "publicationDate": "2026-11-20",
+   "publicationLanguages": [
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP13G-515/6056/2026-014_002"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "8ba315e8-2a6f-4b1b-9607-c0cdcb41c96d",
+   "publishedAt": [
+    "2026-11-20T00:00:48.350226"
+   ],
+   "referenceNumber": "PPP13G-515/6056/2026-014_002",
+   "sentAt": [
+    "2026-11-20T00:00:48.350226"
+   ],
+   "tedPublished": false
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "71200000-0",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Services d'architecture"
+      },
+      {
+       "language": "EN",
+       "text": "Architectural and related services"
+      },
+      {
+       "language": "NL",
+       "text": "Dienstverlening op het gebied van architectuur en dergelijke"
+      },
+      {
+       "language": "DE",
+       "text": "Dienstleistungen von Architekturbüros"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "71200000-0",
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Services d'architecture"
+     },
+     {
+      "language": "EN",
+      "text": "Architectural and related services"
+     },
+     {
+      "language": "NL",
+      "text": "Dienstverlening op het gebied van architectuur en dergelijke"
+     },
+     {
+      "language": "DE",
+      "text": "Dienstleistungen von Architekturbüros"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-20",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Les services visés par le présent marché concernent le projet de de rénovation et réaménagement des annexes au bâtiment principal des Halles de Schaerbeek sises rue de la Constitution 20 et Chaussée de Haecht 159 à 1030 Bruxelles.     Il s’agit d’une maison unifamiliale occupée depuis des années par l’administration des Halles (appelée « maison de l’administration ») ainsi que d’annexes en intérieur d’îlot précédemment occupées par l’administration de Greenpeace. La première est, tout comme le bâtiment principal des Halles (salle de spectacle) propriété de la Cocof (Communauté française emphytéote) tandis que les secondes ont été acquises en 2024 par l’asbl Les Halles en raison de l’expansion de son activité. L’ensemble nécessite une rénovation, voire un réaménagement en vue de rafraîchir les lieux, les adapter aux besoins de leurs utilisateurs et créer les connexions utiles avec les zones existantes. Une optimisation fonctionnelle pourrait être menée (redistribution des fonctions entre les différents bâtiments). Au niveau de la maison unifamiliale, le focus devra cependant être porté sur la rénovation énergétique du bâtiment, dans le cadre du plan d’investissement énergétique de la Communauté française.  La surface brute totale bâtiments est d’environ 1120 m² caves incluses (maison de l’administration : 620 m² ; annexes « Greenpeace » 500 m²). Le programme inclut des fonctions de type bureaux, salle de répétition, stockage, conciergerie et logements pour artistes en résidence. L’approche envisagera également une requalification de l’unique espace ouvert exploitable : la toiture terrasse de la maison unifamiliale (60 m²). L’usage de la cour intérieure est en effet strictement limité au passage, conformément à son statut de servitude.  Les objectifs spécifiques de la mission, identifiés à ce stade par le maître d’ouvrage, sont les suivants :  réponse au type de fonctions visées par le programme et consolidation de cette programmation avec le maître d’ouvrage et les utilisateurs.  L’attention de l’auteur.e de projet est attirée sur le fait qu’au niveau du 159 chaussée de Haecht, le bâtiment à front de rue est classé, tandis que le reste de la parcelle (cour et annexes « Greenpeace ») sont repris dans la zone de protection patrimoniale attenante à ce monument. Bien que le projet ne concerne que les annexes, la conception et la mission devront être effectuées dans le cadre de cette contrainte.  Avant que la conception architecturale du projet à proprement parler soit entamée, le maître d’ouvrage estime nécessaire de préciser le cadre du projet et de l’inscrire dans une stratégie d’intervention. Cette stratégie sera éventuellement déclinée à court, moyen et long termes au cas où l’état des besoins nécessiterait un phasage des interventions au regard des moyens actuellement disponibles. Les travaux seraient alors programmés en tenant compte des priorités, des disponibilités sur fonds propres et des opportunités de subventions qui se présenteraient. Dans ce cadre, le présent marché a pour objet de désigner un auteur∙e de projet chargé d’accompagner le maître d’ouvrage dans la définition et la mise en œuvre de cette stratégie d’intervention à court, moyen et long terme.  La mission est, à ce titre, divisée en deux étapes :  une mission d’étude préalable; une mission complète d’étude et de suivi de l’exécution de tout ou partie des travaux tels qu’identifiés au terme de la stratégie. Pour plus de détails, il est renvoyé à la suite au cahier des charges."
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "2026-Auteur de projet Annexes Halles",
+    "procurementProcedureType": "NEG_W_CALL_24",
+    "referenceNumber": "2026-Auteur de projet Annexes Halles",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "SCHAERBEEK- Les Halles de Schaerbeek - Projet de rénovation et réaménagement des annexes - Marché conjoint de service pour la désignation d’un auteur de projet chargé des études et du suivi d’exécution des travaux"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-20",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Les services comprennent une tranche ferme d’étude préalable suivie de la conception et le suivi de l’exécution des travaux du projet précité. Les honoraires pour la tranche ferme font l’objet d’une offre de prix forfaire dans une fourchette de prix allant de 10.000 euros HTVA à 15.000 euros HTVA tandis que les honoraires pour le reste de la mission sont calculés sur base d'un pourcentage forfaitaire du montant total des travaux (décompte final), soit un taux de 13,5 %. Le budget des travaux est estimé à ce jour à 860.000 EUR, TVA et honoraires non compris. Sur cette base, le montant des honoraires est donc estimé à 116.100 euros HTVA.  _____________________________________________________________________________________________________  Les services s’articulent autour de 5 compétences requises, au minimum : architecture, stabilité, techniques spéciales, PEB et acoustique. L’identification des opérateurs économiques (dont les modalités d’agencement sont précisées dans le Guide de sélection en annexe) assumant ces compétences est fractionnée en 3 étapes :  _____________________________________________________________________________________________________ [Etape 1] : À l’étape des demandes de participation, seul(s) les opérateurs économiques assumant la compétence architecture doi(ven)t être identifié(s) et sera(ont) donc évalué(s).   _____________________________________________________________________________________________________ [Etape 2] : A l’étape de la production des offres, il s’agira d’identifier en outre les opérateurs économiques assumant la/les compétence(s) suivantes : stabilité, techniques spéciales et PEB. _____________________________________________________________________________________________________ [Etape 3] : A l’étape de l’exécution du marché, il s’agira enfin d’identifier, l'opérateur économique assumant la compétence :  acoustique. _____________________________________________________________________________________________________  Le marché est divisé en tranches : Tranche 0 : Diagnostic préalable;  Tranche 1 : Esquisse, Avant-projet et Demande de permis ;  Tranche 2 : Projet définitif et Assistance technique à la passation du ou des marché.s de travaux ;  Tranche 3 : Suivi de l’exécution des travaux. Seule la première tranche du marché (Diagnostic préalable) est ferme, les autres sont conditionnelles. Les modalités de levée des tranches conditionnelles sont détaillées au sein du Cahier des charges. "
       }
      ],
      "reservedExecution": [
@@ -159,152 +282,162 @@
      "titles": [
       {
        "language": "FR",
-       "text": "5753526010 - 1"
+       "text": "2026-Auteur de projet Annexes Halles - 1"
       }
      ]
     }
    ],
    "natures": [
-    "WORKS"
+    "SERVICES"
    ],
    "noticeIds": [
-    "69e11e9e-8ff2-4a86-a253-35537f609118",
-    "33f73e6c-c63a-4001-a0bd-60d83983be54",
-    "2c425641-57aa-402d-9c51-6490d0aa23d0",
-    "a189cfbe-8731-4af8-84ec-c34c61037423"
+    "15e13442-d9bd-4ded-8084-9cba7577b4a6"
    ],
-   "noticeSubType": "17",
+   "noticeSubType": "16",
    "nutsCodes": [
-    "BE323"
+    "BE100"
    ],
    "organisation": {
-    "organisationId": 17122,
+    "organisationId": 57469,
     "organisationNames": [
      {
-      "language": "EN",
-      "text": "Infrabel Projects South"
-     },
-     {
-      "language": "NL",
-      "text": "Infrabel Projects South"
-     },
-     {
       "language": "FR",
-      "text": "Infrabel Projects South"
-     },
-     {
-      "language": "DE",
-      "text": "Infrabel Projects South"
+      "text": "Halles de Schaerbeek"
      }
     ],
-    "tree": "200002.200014.4784.17122"
+    "tree": "200003.200018.57469"
    },
-   "procedureId": "dea0e312-503d-4055-a099-5e5677177989",
-   "publicationDate": "2026-11-19",
+   "procedureId": "cb2ba9ee-6992-48a4-bb91-cdde77217faa",
+   "publicationDate": "2026-11-20",
    "publicationLanguages": [
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "5753526010_pub01"
+    "2026-Auteur de projet Annexes Halles_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "7d8e9a15-ec99-4e24-9887-ad6b05b725d8",
+   "publicationWorkspaceId": "39a84539-4680-400a-8b15-7a5eeb08e870",
    "publishedAt": [
-    "2026-11-12T11:39:46.01661",
-    "2026-11-05T15:43:46.032858",
-    "2026-11-19T08:07:45.027242",
-    "2026-11-03T09:14:45.024978"
+    "2026-11-20T00:00:49.792929"
    ],
-   "referenceNumber": "5753526010_pub01",
+   "referenceNumber": "2026-Auteur de projet Annexes Halles_pub01",
    "sentAt": [
-    "2026-11-12T11:39:46.01661",
-    "2026-11-05T15:43:46.032858",
-    "2026-11-19T08:07:45.027242",
-    "2026-11-03T09:14:45.024978"
+    "2026-11-20T00:00:49.792929"
    ],
    "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-12-03T14:00:00"
+   "vaultSubmissionDeadline": "2026-12-21T12:00:00"
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45316100-6",
+     "code": "45313100-5",
      "descriptions": [
       {
-       "language": "DE",
-       "text": "Installation von Beleuchtungsanlagen im Freien"
-      },
-      {
        "language": "NL",
-       "text": "Installeren van buitenverlichting"
+       "text": "Installeren van liften"
       },
       {
        "language": "FR",
-       "text": "Installation d'appareils d'éclairage extérieur"
+       "text": "Travaux d'installation d'ascenseurs"
       },
       {
        "language": "EN",
-       "text": "Installation of outdoor illumination equipment"
+       "text": "Lift installation work"
+      },
+      {
+       "language": "DE",
+       "text": "Installation von Aufzügen"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45316100-6",
+    "code": "45313100-5",
     "descriptions": [
      {
-      "language": "DE",
-      "text": "Installation von Beleuchtungsanlagen im Freien"
-     },
-     {
       "language": "NL",
-      "text": "Installeren van buitenverlichting"
+      "text": "Installeren van liften"
      },
      {
       "language": "FR",
-      "text": "Installation d'appareils d'éclairage extérieur"
+      "text": "Travaux d'installation d'ascenseurs"
      },
      {
       "language": "EN",
-      "text": "Installation of outdoor illumination equipment"
+      "text": "Lift installation work"
+     },
+     {
+      "language": "DE",
+      "text": "Installation von Aufzügen"
      }
     ]
    },
-   "dispatchDate": "2026-11-19",
+   "dispatchDate": "2026-11-20",
    "dossier": {
-    "accreditations": {},
+    "accreditations": {
+     "N1": 1
+    },
     "descriptions": [
      {
       "language": "FR",
-      "text": "Fourniture, pose et raccordement d'un éclairage extérieur à la salle de Hampteau"
+      "text": " 1000 BRUXELLES : COUR DES COMPTES  - Modernisation d’un ascenseur hydraulique (n° 015)  "
+     },
+     {
+      "language": "NL",
+      "text": " 1000 BRUSSEL : REKENHOF  - Modernisatiewerken van 1 hydraulische lift (nr. 015)  "
      }
     ],
-    "enterpriseCategories": [],
+    "enterpriseCategories": [
+     {
+      "categoryCode": "N1",
+      "levels": [
+       1
+      ]
+     }
+    ],
     "legalBasis": "D24",
-    "number": "PPP09X-2873/6143/2026101501",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP09X-2873/6143/2026101501",
+    "number": "RDGB-BRU-2026-222246-1238",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "RDGB-BRU-2026-222246-1238",
     "titles": [
      {
       "language": "FR",
-      "text": "Fourniture, pose et raccordement d'un éclairage extérieur à la salle de Hampteau"
+      "text": " 1000 BRUXELLES : COUR DES COMPTES  - Modernisation d’un ascenseur hydraulique (n° 015) "
+     },
+     {
+      "language": "NL",
+      "text": " 1000 BRUSSEL : REKENHOF - Modernisatiewerken van 1 hydraulische lift (nr. 015) "
      }
     ]
    },
-   "insertionDate": "2026-11-19",
+   "insertionDate": "2026-11-20",
    "lots": [
     {
      "descriptions": [
       {
        "language": "FR",
-       "text": "Fourniture, pose et raccordement d'un éclairage extérieur à la salle de Hampteau"
+       "text": " 1000 BRUXELLES : COUR DES COMPTES - Modernisation d’un ascenseur hydraulique (n° 015)  "
+      },
+      {
+       "language": "NL",
+       "text": " 1000 BRUSSEL : REKENHOF  - Modernisatiewerken van 1 hydraulische lift (nr. 015)  "
       }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
      ],
      "titles": [
       {
        "language": "FR",
-       "text": "Fourniture, pose et raccordement d'un éclairage extérieur à la salle de Hampteau"
+       "text": "RDGB-BRU-2026-222246-1238 - 1"
+      },
+      {
+       "language": "NL",
+       "text": "RDGB-BRU-2026-222246-1238 - 1"
       }
      ]
     }
@@ -313,188 +446,52 @@
     "WORKS"
    ],
    "noticeIds": [
-    "8820afed-e676-4d26-994f-563d5d4c486e"
+    "9c5ce757-1bf9-450c-b661-3c4a480be345"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE343"
+    "BE100"
    ],
    "organisation": {
-    "organisationId": 477,
+    "organisationId": 5078,
     "organisationNames": [
      {
-      "language": "EN",
-      "text": "Hotton"
+      "language": "NL",
+      "text": "Regie der Gebouwen - Centrum voor technische expertise & innovatie"
      },
      {
-      "language": "DE",
-      "text": "Hotton"
+      "language": "EN",
+      "text": "Buildingsagency - Direction Electromechanical"
      },
      {
       "language": "FR",
-      "text": "Hotton"
+      "text": "Régie des Bâtiments - Centre d’expertise technique et d’innovation"
      },
      {
-      "language": "NL",
-      "text": "Hotton"
+      "language": "DE",
+      "text": "Regie der Gebouwen - Directie Elektromechanical"
      }
     ],
-    "tree": "200004.200021.477"
+    "tree": "200002.200010.5.5078"
    },
-   "procedureId": "3da30859-9cb6-4732-8b8c-005313651b64",
-   "publicationDate": "2026-11-19",
+   "procedureId": "dc2cd3ad-4d7e-4a39-b79e-ba165b70e589",
+   "publicationDate": "2026-11-20",
    "publicationLanguages": [
+    "NL",
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP09X-2873/6143/2026101501_001"
+    "RDGB-BRU-2026-222246-1238_pub02"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "4188f2c3-6bf6-4df2-b0e5-2b0019861b56",
+   "publicationWorkspaceId": "9cbbbbb6-f624-44bd-8e35-d43f2634c366",
    "publishedAt": [
-    "2026-11-19T08:23:46.011644"
+    "2026-11-20T00:00:47.999688"
    ],
-   "referenceNumber": "PPP09X-2873/6143/2026101501_001",
+   "referenceNumber": "RDGB-BRU-2026-222246-1238_pub02",
    "sentAt": [
-    "2026-11-19T08:23:46.011644"
-   ],
-   "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "45112700-2",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Landscaping work"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux d'aménagement paysager"
-      },
-      {
-       "language": "DE",
-       "text": "Landschaftsgärtnerische Arbeiten"
-      },
-      {
-       "language": "NL",
-       "text": "Werkzaamheden voor landschapsarchitectuur"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "45112700-2",
-    "descriptions": [
-     {
-      "language": "EN",
-      "text": "Landscaping work"
-     },
-     {
-      "language": "FR",
-      "text": "Travaux d'aménagement paysager"
-     },
-     {
-      "language": "DE",
-      "text": "Landschaftsgärtnerische Arbeiten"
-     },
-     {
-      "language": "NL",
-      "text": "Werkzaamheden voor landschapsarchitectuur"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-19",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Travaux d’abattage d’arbres dangereux sur les cours d’eau non navigables classés en 2ème catégorie des sous-bassins hydrographiques de la Haine, de la Sambre, de la Meuse amont et de l’Oise - Exercice 2026"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP0DX-5130/6153/CE/1180/2026/0015",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP0DX-5130/6153/CE/1180/2026/0015",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "Travaux d’abattage d’arbres dangereux sur les cours d’eau non navigables classés en 2ème catégorie des sous-bassins hydrographiques de la Haine, de la Sambre, de la Meuse amont et de l’Oise - Exercice 2026"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-19",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Travaux d’abattage d’arbres dangereux sur les cours d’eau non navigables classés en 2ème catégorie des sous-bassins hydrographiques de la Haine, de la Sambre, de la Meuse amont et de l’Oise - Exercice 2026"
-      }
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Travaux d’abattage d’arbres dangereux sur les cours d’eau non navigables classés en 2ème catégorie des sous-bassins hydrographiques de la Haine, de la Sambre, de la Meuse amont et de l’Oise - Exercice 2026"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "WORKS"
-   ],
-   "noticeIds": [
-    "393669b1-9c58-4b45-8694-beedc4ff55bc"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE329",
-    "BE32A"
-   ],
-   "organisation": {
-    "organisationId": 5318,
-    "organisationNames": [
-     {
-      "language": "FR",
-      "text": "Hainaut Ingénierie Technique"
-     },
-     {
-      "language": "DE",
-      "text": "Hainaut Ingénierie Technique"
-     },
-     {
-      "language": "NL",
-      "text": "Hainaut Ingénierie Technique"
-     },
-     {
-      "language": "EN",
-      "text": "Hainaut Ingénierie Technique"
-     }
-    ],
-    "tree": "200004.200020.572.5318"
-   },
-   "procedureId": "855b437a-a37e-47ee-822e-7d5e4b785edd",
-   "publicationDate": "2026-11-19",
-   "publicationLanguages": [
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP0DX-5130/6153/CE/1180/2026/0015_002"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "9c2145a9-bde4-49b4-b66f-08bb5d10035b",
-   "publishedAt": [
-    "2026-11-19T08:35:46.01386"
-   ],
-   "referenceNumber": "PPP0DX-5130/6153/CE/1180/2026/0015_002",
-   "sentAt": [
-    "2026-11-19T08:35:46.01386"
+    "2026-11-20T00:00:47.999688"
    ],
    "tedPublished": false
   }
@@ -503,135 +500,135 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45316100-6",
+     "code": "85147000-1",
      "descriptions": [
       {
-       "language": "DE",
-       "text": "Installation von Beleuchtungsanlagen im Freien"
-      },
-      {
        "language": "NL",
-       "text": "Installeren van buitenverlichting"
-      },
-      {
-       "language": "FR",
-       "text": "Installation d'appareils d'éclairage extérieur"
+       "text": "Diensten voor bedrijfsgeneeskunde"
       },
       {
        "language": "EN",
-       "text": "Installation of outdoor illumination equipment"
+       "text": "Company health services"
+      },
+      {
+       "language": "FR",
+       "text": "Services de médecine du travail"
+      },
+      {
+       "language": "DE",
+       "text": "Betriebliche Gesundheitsfürsorge"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45316100-6",
+    "code": "85147000-1",
     "descriptions": [
      {
-      "language": "DE",
-      "text": "Installation von Beleuchtungsanlagen im Freien"
-     },
-     {
       "language": "NL",
-      "text": "Installeren van buitenverlichting"
-     },
-     {
-      "language": "FR",
-      "text": "Installation d'appareils d'éclairage extérieur"
+      "text": "Diensten voor bedrijfsgeneeskunde"
      },
      {
       "language": "EN",
-      "text": "Installation of outdoor illumination equipment"
+      "text": "Company health services"
+     },
+     {
+      "language": "FR",
+      "text": "Services de médecine du travail"
+     },
+     {
+      "language": "DE",
+      "text": "Betriebliche Gesundheitsfürsorge"
      }
     ]
    },
-   "dispatchDate": "2026-11-19",
+   "dispatchDate": "2026-11-20",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
       "language": "FR",
-      "text": "Fourniture, pose et raccordement d'un éclairage extérieur à la salle de Hampteau"
+      "text": "Désignation d'un service externe de prévention et de protection au travail"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP09X-2873/6143/2026101501",
+    "number": "PPP13G-515/6056/2026-014",
     "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP09X-2873/6143/2026101501",
+    "referenceNumber": "PPP13G-515/6056/2026-014",
     "titles": [
      {
       "language": "FR",
-      "text": "Fourniture, pose et raccordement d'un éclairage extérieur à la salle de Hampteau"
+      "text": "Désignation d'un service externe de prévention et de protection au travail"
      }
     ]
    },
-   "insertionDate": "2026-11-19",
+   "insertionDate": "2026-11-20",
    "lots": [
     {
      "descriptions": [
       {
        "language": "FR",
-       "text": "Fourniture, pose et raccordement d'un éclairage extérieur à la salle de Hampteau"
+       "text": "Désignation d'un service externe de prévention et de protection au travail"
       }
      ],
      "titles": [
       {
        "language": "FR",
-       "text": "Fourniture, pose et raccordement d'un éclairage extérieur à la salle de Hampteau"
+       "text": "Désignation d'un service externe de prévention et de protection au travail"
       }
      ]
     }
    ],
    "natures": [
-    "WORKS"
+    "SERVICES"
    ],
    "noticeIds": [
-    "8820afed-e676-4d26-994f-563d5d4c486e"
+    "007bac73-f52e-4b25-939e-6dea9bb34487"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE343"
+    "BE351"
    ],
    "organisation": {
-    "organisationId": 477,
+    "organisationId": 2071,
     "organisationNames": [
      {
-      "language": "EN",
-      "text": "Hotton"
+      "language": "NL",
+      "text": "Zone de Secours Namur Sud  DINAPHI"
      },
      {
-      "language": "DE",
-      "text": "Hotton"
+      "language": "EN",
+      "text": "Zone de Secours namur Sud  DINAPHI"
      },
      {
       "language": "FR",
-      "text": "Hotton"
+      "text": "Zone de Secours DINAPHI"
      },
      {
-      "language": "NL",
-      "text": "Hotton"
+      "language": "DE",
+      "text": "Zone de Secours DINAPHI"
      }
     ],
-    "tree": "200004.200021.477"
+    "tree": "200004.200025.2071"
    },
-   "procedureId": "3da30859-9cb6-4732-8b8c-005313651b64",
-   "publicationDate": "2026-11-19",
+   "procedureId": "3047d504-09aa-45ed-a252-a769228fc4ef",
+   "publicationDate": "2026-11-20",
    "publicationLanguages": [
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP09X-2873/6143/2026101501_001"
+    "PPP13G-515/6056/2026-014_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "4188f2c3-6bf6-4df2-b0e5-2b0019861b56",
+   "publicationWorkspaceId": "8ba315e8-2a6f-4b1b-9607-c0cdcb41c96d",
    "publishedAt": [
-    "2026-11-19T08:23:46.011644"
+    "2026-11-20T00:00:48.350226"
    ],
-   "referenceNumber": "PPP09X-2873/6143/2026101501_001",
+   "referenceNumber": "PPP13G-515/6056/2026-014_002",
    "sentAt": [
-    "2026-11-19T08:23:46.011644"
+    "2026-11-20T00:00:48.350226"
    ],
    "tedPublished": false
   }
