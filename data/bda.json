@@ -1,11 +1,13 @@
 {
- "updated": "2026-11-19T19:01:54Z",
+ "updated": "2026-11-19T20:59:33Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 1019,
- "kept": 464,
- "count": 3513,
- "new_ids": [],
+ "received": 1021,
+ "kept": 465,
+ "count": 3514,
+ "new_ids": [
+  "bda-513b0851-766e-4aae-8465-d4103262ea1d"
+ ],
  "records": [
   {
    "id": "bda-debb35d3-dfb7-419a-8d3e-60b25cc009f6",
@@ -2526,6 +2528,27 @@
    "procedure": "39d9b317-b10a-47f6-a871-09c7a41c8c82",
    "dossier": "ARCH BE&HE SMK BU",
    "first_seen": "2026-10-20T12:01:42Z"
+  },
+  {
+   "id": "bda-513b0851-766e-4aae-8465-d4103262ea1d",
+   "source_type": "BDA",
+   "nom": "Herinrichting en ontharding Pastoor Pitetlaan en Professor Scharpélaan",
+   "lieu": "Brabant flamand",
+   "province": "Brabant flamand",
+   "mo": "Dienstverlenende vereniging voor de Ruimtelijke Ordening en de Economische-Sociale Expansie van het Arrondissement Leuven",
+   "etape": 4,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/513b0851-766e-4aae-8465-d4103262ea1d",
+   "verif": "vérifié",
+   "verif_date": "2026-11-19",
+   "preuve": "Bulletin des Adjudications, réf. PPP104-452/6108/325.209 (avis de marché, sous-type eForms 16), publié le 2026-11-19.",
+   "date_publication": "2026-11-19",
+   "cpv": "45233120",
+   "ted_ref": "",
+   "notes": "De opdracht betreft de heraanleg van Betekom Centrum. De bestaande verhardingen en inrichting worden volledig opgebroken en vervangen door een nieuwe bovenbouw. De werken omvatten onder meer: - de aanleg van nieuwe en veiligere fietspaden; - de aanleg van parkeerplaatsen in waterdoorlatende verhardi",
+   "procedure": "48180d24-6538-4dca-8c94-4bbc0feff628",
+   "dossier": "PPP104-452/6108/325.209",
+   "first_seen": "2026-11-19T20:59:33Z"
   },
   {
    "id": "bda-5a5ad957-f2cd-49ab-b747-fde5f619b071",
