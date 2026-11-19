@@ -1,11 +1,13 @@
 {
- "updated": "2026-11-19T03:05:25Z",
+ "updated": "2026-11-19T05:01:48Z",
  "source": "urban.brussels NOVA (WFS)",
  "days_back": 3,
- "received": 74,
- "kept": 9,
- "count": 213,
- "new_ids": [],
+ "received": 89,
+ "kept": 10,
+ "count": 214,
+ "new_ids": [
+  "nova-16/PU/2052788"
+ ],
  "records": [
   {
    "id": "nova-09/PU/2052987",
@@ -150,6 +152,22 @@
    "date_publication": "2026-11-16",
    "notes": "Autorité : Ixelles",
    "first_seen": "2026-11-17T13:01:34Z"
+  },
+  {
+   "id": "nova-16/PU/2052788",
+   "source_type": "Permis",
+   "nom": "diviser un logement en 2 logements",
+   "lieu": "Avenue de Mercure 15, 1180 Uccle",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='16/PU/2052788'",
+   "verif": "vérifié",
+   "verif_date": "2026-11-19",
+   "preuve": "Demande de permis 16/PU/2052788 reçue le 2026-11-16 (urban.brussels, service NOVA).",
+   "date_publication": "2026-11-16",
+   "notes": "Autorité : Uccle",
+   "first_seen": "2026-11-19T05:01:48Z"
   },
   {
    "id": "nova-07/PU/2052622",
