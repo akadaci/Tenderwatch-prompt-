@@ -1,11 +1,13 @@
 {
- "updated": "2026-11-20T03:01:47Z",
+ "updated": "2026-11-20T05:01:34Z",
  "source": "urban.brussels NOVA (WFS)",
  "days_back": 3,
- "received": 67,
- "kept": 12,
- "count": 220,
- "new_ids": [],
+ "received": 89,
+ "kept": 13,
+ "count": 221,
+ "new_ids": [
+  "nova-04/PU/2053257"
+ ],
  "records": [
   {
    "id": "nova-04/PU/2053191",
@@ -22,6 +24,22 @@
    "date_publication": "2026-11-19",
    "notes": "Autorité : Ixelles",
    "first_seen": "2026-11-19T12:10:00Z"
+  },
+  {
+   "id": "nova-04/PU/2053257",
+   "source_type": "Permis",
+   "nom": "Demande de permis de régularisation des modifications apportées à l’immeuble de bureaux sis boulevard du Régent 47-48 à Bruxelles, concernant: jardin avant, l’aménagement intérieur du rez-de-chaussée,",
+   "lieu": "Boulevard du Régent 47, 1000 Bruxelles",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='04/PU/2053257'",
+   "verif": "vérifié",
+   "verif_date": "2026-11-20",
+   "preuve": "Demande de permis 04/PU/2053257 reçue le 2026-11-19 (urban.brussels, service NOVA), surface projetée 5335 m².",
+   "date_publication": "2026-11-19",
+   "notes": "Autorité : Bruxelles",
+   "first_seen": "2026-11-20T05:01:34Z"
   },
   {
    "id": "nova-09/PU/2052987",
