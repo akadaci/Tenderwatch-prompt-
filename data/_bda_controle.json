@@ -1,15 +1,20 @@
 {
  "meta": {
-  "totalCount": 296397
+  "totalCount": 296451
  },
  "types": [
   "ACTIVE|10|['WORKS']",
+  "ACTIVE|15|['SUPPLIES']",
+  "ACTIVE|16|['SERVICES', 'SUPPLIES', 'WORKS']",
+  "ACTIVE|16|['SERVICES', 'SUPPLIES']",
   "ACTIVE|16|['SERVICES', 'WORKS']",
   "ACTIVE|16|['SERVICES']",
+  "ACTIVE|16|['SUPPLIES', 'SERVICES']",
   "ACTIVE|16|['SUPPLIES']",
   "ACTIVE|16|['WORKS']",
   "ACTIVE|17|['SERVICES']",
   "ACTIVE|17|['SUPPLIES', 'SERVICES']",
+  "ACTIVE|17|['SUPPLIES']",
   "ACTIVE|17|['WORKS']",
   "ACTIVE|19|['SERVICES', 'WORKS']",
   "ACTIVE|19|['SERVICES']",
@@ -19,6 +24,7 @@
   "ACTIVE|21|['WORKS']",
   "ACTIVE|25|['SUPPLIES']",
   "ACTIVE|29|['SERVICES']",
+  "ACTIVE|29|['SUPPLIES', 'SERVICES']",
   "ACTIVE|29|['SUPPLIES']",
   "ACTIVE|29|['WORKS']",
   "ACTIVE|30|['SERVICES']",
@@ -48,141 +54,6 @@
   "ACTIVE|E4|['WORKS']"
  ],
  "exemples": [
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "85147000-1",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Diensten voor bedrijfsgeneeskunde"
-      },
-      {
-       "language": "EN",
-       "text": "Company health services"
-      },
-      {
-       "language": "FR",
-       "text": "Services de médecine du travail"
-      },
-      {
-       "language": "DE",
-       "text": "Betriebliche Gesundheitsfürsorge"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "85147000-1",
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Diensten voor bedrijfsgeneeskunde"
-     },
-     {
-      "language": "EN",
-      "text": "Company health services"
-     },
-     {
-      "language": "FR",
-      "text": "Services de médecine du travail"
-     },
-     {
-      "language": "DE",
-      "text": "Betriebliche Gesundheitsfürsorge"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-20",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Désignation d'un service externe de prévention et de protection au travail"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP13G-515/6056/2026-014",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP13G-515/6056/2026-014",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "Désignation d'un service externe de prévention et de protection au travail"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-20",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Désignation d'un service externe de prévention et de protection au travail"
-      }
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Désignation d'un service externe de prévention et de protection au travail"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SERVICES"
-   ],
-   "noticeIds": [
-    "007bac73-f52e-4b25-939e-6dea9bb34487"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE351"
-   ],
-   "organisation": {
-    "organisationId": 2071,
-    "organisationNames": [
-     {
-      "language": "NL",
-      "text": "Zone de Secours Namur Sud  DINAPHI"
-     },
-     {
-      "language": "EN",
-      "text": "Zone de Secours namur Sud  DINAPHI"
-     },
-     {
-      "language": "FR",
-      "text": "Zone de Secours DINAPHI"
-     },
-     {
-      "language": "DE",
-      "text": "Zone de Secours DINAPHI"
-     }
-    ],
-    "tree": "200004.200025.2071"
-   },
-   "procedureId": "3047d504-09aa-45ed-a252-a769228fc4ef",
-   "publicationDate": "2026-11-20",
-   "publicationLanguages": [
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP13G-515/6056/2026-014_002"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "8ba315e8-2a6f-4b1b-9607-c0cdcb41c96d",
-   "publishedAt": [
-    "2026-11-20T00:00:48.350226"
-   ],
-   "referenceNumber": "PPP13G-515/6056/2026-014_002",
-   "sentAt": [
-    "2026-11-20T00:00:48.350226"
-   ],
-   "tedPublished": false
-  },
   {
    "cpvAdditionalCodes": [
     {
@@ -479,51 +350,49 @@
     "2026-11-20T00:00:47.999688"
    ],
    "tedPublished": false
-  }
- ],
- "exemple_attribution": [
+  },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "85147000-1",
+     "code": "45232460-4",
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Diensten voor bedrijfsgeneeskunde"
-      },
-      {
        "language": "EN",
-       "text": "Company health services"
-      },
-      {
-       "language": "FR",
-       "text": "Services de médecine du travail"
+       "text": "Sanitary works"
       },
       {
        "language": "DE",
-       "text": "Betriebliche Gesundheitsfürsorge"
+       "text": "Sanitäre Anlagen"
+      },
+      {
+       "language": "NL",
+       "text": "Sanitaire installaties"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux d'installations sanitaires"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "85147000-1",
+    "code": "45232460-4",
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Diensten voor bedrijfsgeneeskunde"
-     },
-     {
       "language": "EN",
-      "text": "Company health services"
-     },
-     {
-      "language": "FR",
-      "text": "Services de médecine du travail"
+      "text": "Sanitary works"
      },
      {
       "language": "DE",
-      "text": "Betriebliche Gesundheitsfürsorge"
+      "text": "Sanitäre Anlagen"
+     },
+     {
+      "language": "NL",
+      "text": "Sanitaire installaties"
+     },
+     {
+      "language": "FR",
+      "text": "Travaux d'installations sanitaires"
      }
     ]
    },
@@ -532,19 +401,179 @@
     "accreditations": {},
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Désignation d'un service externe de prévention et de protection au travail"
+      "language": "NL",
+      "text": "Herstellen lek waterleiding in tunnel naar Stanleypaviljoen"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP13G-515/6056/2026-014",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP13G-515/6056/2026-014",
+    "number": "RDGB-VRO-2026-210705-LUJA-FA13812",
+    "procurementProcedureType": "LOW_VALUE_T",
+    "referenceNumber": "RDGB-VRO-2026-210705-LUJA-FA13812",
     "titles": [
      {
+      "language": "NL",
+      "text": "Tervuren – POD Wetenschapsbeleid – Herstellen lek waterleiding in tunnel naar Stanleypaviljoen"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-20",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Herstellen lek waterleiding in tunnel naar Stanleypaviljoen"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "RDGB-VRO-2026-210705-LUJA-FA13812 - 1"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "5474fd01-be0a-4620-8190-dbc2073ecdd4"
+   ],
+   "noticeSubType": "E3",
+   "nutsCodes": [
+    "BE242"
+   ],
+   "organisation": {
+    "organisationId": 4894,
+    "organisationNames": [
+     {
+      "language": "EN",
+      "text": "Buildingsagency - Vlaanderen Regio Oost"
+     },
+     {
       "language": "FR",
-      "text": "Désignation d'un service externe de prévention et de protection au travail"
+      "text": "Regie der Gebouwen - Vlaanderen Regio Oost"
+     },
+     {
+      "language": "DE",
+      "text": "Regie der Gebouwen - Vlaanderen Regio Oost"
+     },
+     {
+      "language": "NL",
+      "text": "Regie der Gebouwen - Vlaanderen Regio Oost"
+     }
+    ],
+    "tree": "200002.200010.5.4894"
+   },
+   "procedureId": "af4ad7ee-5a44-4af1-ac02-0b9ff96161c3",
+   "publicationDate": "2026-11-20",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "RDGB-VRO-2026-210705-LUJA-FA13812_pub01"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "d816c42e-7ac0-43df-8f52-d47d0f71576b",
+   "publishedAt": [
+    "2026-11-20T00:00:48.603293"
+   ],
+   "referenceNumber": "RDGB-VRO-2026-210705-LUJA-FA13812_pub01",
+   "sentAt": [
+    "2026-11-20T00:00:48.603293"
+   ],
+   "tedPublished": false
+  }
+ ],
+ "exemple_attribution": [
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45313100-5",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Installeren van liften"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux d'installation d'ascenseurs"
+      },
+      {
+       "language": "EN",
+       "text": "Lift installation work"
+      },
+      {
+       "language": "DE",
+       "text": "Installation von Aufzügen"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45313100-5",
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Installeren van liften"
+     },
+     {
+      "language": "FR",
+      "text": "Travaux d'installation d'ascenseurs"
+     },
+     {
+      "language": "EN",
+      "text": "Lift installation work"
+     },
+     {
+      "language": "DE",
+      "text": "Installation von Aufzügen"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-20",
+   "dossier": {
+    "accreditations": {
+     "N1": 1
+    },
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": " 1000 BRUXELLES : COUR DES COMPTES  - Modernisation d’un ascenseur hydraulique (n° 015)  "
+     },
+     {
+      "language": "NL",
+      "text": " 1000 BRUSSEL : REKENHOF  - Modernisatiewerken van 1 hydraulische lift (nr. 015)  "
+     }
+    ],
+    "enterpriseCategories": [
+     {
+      "categoryCode": "N1",
+      "levels": [
+       1
+      ]
+     }
+    ],
+    "legalBasis": "D24",
+    "number": "RDGB-BRU-2026-222246-1238",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "RDGB-BRU-2026-222246-1238",
+    "titles": [
+     {
+      "language": "NL",
+      "text": " 1000 BRUSSEL : REKENHOF - Modernisatiewerken van 1 hydraulische lift (nr. 015) "
+     },
+     {
+      "language": "FR",
+      "text": " 1000 BRUXELLES : COUR DES COMPTES  - Modernisation d’un ascenseur hydraulique (n° 015) "
      }
     ]
    },
@@ -554,66 +583,81 @@
      "descriptions": [
       {
        "language": "FR",
-       "text": "Désignation d'un service externe de prévention et de protection au travail"
+       "text": " 1000 BRUXELLES : COUR DES COMPTES - Modernisation d’un ascenseur hydraulique (n° 015)  "
+      },
+      {
+       "language": "NL",
+       "text": " 1000 BRUSSEL : REKENHOF  - Modernisatiewerken van 1 hydraulische lift (nr. 015)  "
       }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
      ],
      "titles": [
       {
        "language": "FR",
-       "text": "Désignation d'un service externe de prévention et de protection au travail"
+       "text": "RDGB-BRU-2026-222246-1238 - 1"
+      },
+      {
+       "language": "NL",
+       "text": "RDGB-BRU-2026-222246-1238 - 1"
       }
      ]
     }
    ],
    "natures": [
-    "SERVICES"
+    "WORKS"
    ],
    "noticeIds": [
-    "007bac73-f52e-4b25-939e-6dea9bb34487"
+    "9c5ce757-1bf9-450c-b661-3c4a480be345"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE351"
+    "BE100"
    ],
    "organisation": {
-    "organisationId": 2071,
+    "organisationId": 5078,
     "organisationNames": [
      {
       "language": "NL",
-      "text": "Zone de Secours Namur Sud  DINAPHI"
+      "text": "Regie der Gebouwen - Centrum voor technische expertise & innovatie"
      },
      {
       "language": "EN",
-      "text": "Zone de Secours namur Sud  DINAPHI"
+      "text": "Buildingsagency - Direction Electromechanical"
      },
      {
       "language": "FR",
-      "text": "Zone de Secours DINAPHI"
+      "text": "Régie des Bâtiments - Centre d’expertise technique et d’innovation"
      },
      {
       "language": "DE",
-      "text": "Zone de Secours DINAPHI"
+      "text": "Regie der Gebouwen - Directie Elektromechanical"
      }
     ],
-    "tree": "200004.200025.2071"
+    "tree": "200002.200010.5.5078"
    },
-   "procedureId": "3047d504-09aa-45ed-a252-a769228fc4ef",
+   "procedureId": "dc2cd3ad-4d7e-4a39-b79e-ba165b70e589",
    "publicationDate": "2026-11-20",
    "publicationLanguages": [
+    "NL",
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP13G-515/6056/2026-014_002"
+    "RDGB-BRU-2026-222246-1238_pub02"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "8ba315e8-2a6f-4b1b-9607-c0cdcb41c96d",
+   "publicationWorkspaceId": "9cbbbbb6-f624-44bd-8e35-d43f2634c366",
    "publishedAt": [
-    "2026-11-20T00:00:48.350226"
+    "2026-11-20T00:00:47.999688"
    ],
-   "referenceNumber": "PPP13G-515/6056/2026-014_002",
+   "referenceNumber": "RDGB-BRU-2026-222246-1238_pub02",
    "sentAt": [
-    "2026-11-20T00:00:48.350226"
+    "2026-11-20T00:00:47.999688"
    ],
    "tedPublished": false
   }
