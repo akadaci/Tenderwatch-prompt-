@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 296572
+  "totalCount": 296573
  },
  "types": [
   "ACTIVE|10|['WORKS']",
@@ -56,6 +56,141 @@
   "ACTIVE|E4|['WORKS']"
  ],
  "exemples": [
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "22000000-0",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Imprimés et produits connexes"
+      },
+      {
+       "language": "EN",
+       "text": "Printed matter and related products"
+      },
+      {
+       "language": "DE",
+       "text": "Drucksachen und zugehörige Erzeugnisse"
+      },
+      {
+       "language": "NL",
+       "text": "Drukwerk en aanverwante producten"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "22000000-0",
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Imprimés et produits connexes"
+     },
+     {
+      "language": "EN",
+      "text": "Printed matter and related products"
+     },
+     {
+      "language": "DE",
+      "text": "Drucksachen und zugehörige Erzeugnisse"
+     },
+     {
+      "language": "NL",
+      "text": "Drukwerk en aanverwante producten"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-21",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "De stad wenst een drukker aan te stellen voor het drukken van het tweemaandelijks stadsmagazine. Het ontwerp en de opmaak worden door de stadsdiensten aangeleverd klaar voor druk."
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP00Q-1594/6179/2026-10",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP00Q-1594/6179/2026-10",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Drukken van stadsmagazine"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-21",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Drukken van stadsmagazine"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Drukken van stadsmagazine"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SUPPLIES"
+   ],
+   "noticeIds": [
+    "746b55ca-8144-4cb9-b4ec-71cb17fb02b8"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE256"
+   ],
+   "organisation": {
+    "organisationId": 187,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "Stad Izegem"
+     },
+     {
+      "language": "FR",
+      "text": "Izegem"
+     },
+     {
+      "language": "NL",
+      "text": "Izegem"
+     },
+     {
+      "language": "EN",
+      "text": "Izegem"
+     }
+    ],
+    "tree": "200004.200021.187"
+   },
+   "procedureId": "af90e347-8608-4d27-9a08-06204ae75ab1",
+   "publicationDate": "2026-11-21",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP00Q-1594/6179/2026-10_002"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "c02a7306-329d-47b5-9129-d18b2b5c247c",
+   "publishedAt": [
+    "2026-11-21T00:00:46.021377"
+   ],
+   "referenceNumber": "PPP00Q-1594/6179/2026-10_002",
+   "sentAt": [
+    "2026-11-21T00:00:46.021377"
+   ],
+   "tedPublished": false
+  },
   {
    "cpvAdditionalCodes": [
     {
@@ -354,298 +489,88 @@
    ],
    "tedPublished": false,
    "vaultSubmissionDeadline": "2026-12-03T11:00:00"
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "38652120-7",
-     "descriptions": [
-      {
-       "language": "DE",
-       "text": "Videoprojektoren"
-      },
-      {
-       "language": "FR",
-       "text": "Vidéoprojecteurs"
-      },
-      {
-       "language": "NL",
-       "text": "Videoprojectietoestellen"
-      },
-      {
-       "language": "EN",
-       "text": "Video projectors"
-      }
-     ]
-    },
-    {
-     "code": "30000000-9",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Office and computing machinery, equipment and supplies except furniture and software packages"
-      },
-      {
-       "language": "NL",
-       "text": "Kantoormachines en gegevensverwerkende apparatuur, kantooruitrusting en -benodigdheden, uitgez. meubilair en softwarepakketten"
-      },
-      {
-       "language": "DE",
-       "text": "Maschinen, Material und Zubehör für Büro und Computer, außer Möbeln und Softwarepaketen"
-      },
-      {
-       "language": "FR",
-       "text": "Machines, matériel et fourniture informatique et de bureau, excepté les meubles et logiciels"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "38652120-7",
-    "descriptions": [
-     {
-      "language": "DE",
-      "text": "Videoprojektoren"
-     },
-     {
-      "language": "FR",
-      "text": "Vidéoprojecteurs"
-     },
-     {
-      "language": "NL",
-      "text": "Videoprojectietoestellen"
-     },
-     {
-      "language": "EN",
-      "text": "Video projectors"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-20",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "P2_Nieuwbouw en renovatie schoolgebouwen secundaire school NOVA - Campus Barnum - Eerste uitrusting Multimedia"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP0YG-326/6156/SMI-2026-019",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "PPP0YG-326/6156/SMI-2026-019",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "P2_Nieuwbouw en renovatie schoolgebouwen secundaire school NOVA - Campus Barnum - Eerste uitrusting Multimedia"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-30",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "P2_Nieuwbouw en renovatie schoolgebouwen secundaire school NOVA - Campus Barnum - Eerste uitrusting Multimedia"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "P2_Nieuwbouw en renovatie schoolgebouwen secundaire school NOVA - Campus Barnum - Eerste uitrusting Multimedia"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SUPPLIES"
-   ],
-   "noticeIds": [
-    "1fb1e3e2-f12a-499e-99dd-154fc31659a0",
-    "455f4686-d62a-480c-987c-04991e965599"
-   ],
-   "noticeSubType": "16",
-   "nutsCodes": [
-    "BE256"
-   ],
-   "organisation": {
-    "organisationId": 143,
-    "organisationNames": [
-     {
-      "language": "FR",
-      "text": "vzw Scholengroep Sint-Michiel"
-     },
-     {
-      "language": "DE",
-      "text": "vzw Scholengroep Sint-Michiel"
-     },
-     {
-      "language": "EN",
-      "text": "vzw Scholengroep Sint-Michiel"
-     },
-     {
-      "language": "NL",
-      "text": "vzw Scholengroep Sint-Michiel"
-     }
-    ],
-    "tree": "200004.200026.143"
-   },
-   "procedureId": "2bbd723f-1f63-489d-a786-54464184cd75",
-   "publicationDate": "2026-11-20",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP0YG-326/6156/SMI-2026-019_001"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "120308dc-67a0-4e9b-b347-9d96318bbca8",
-   "publishedAt": [
-    "2026-11-20T08:18:46.014127",
-    "2026-10-30T11:07:45.031712"
-   ],
-   "referenceNumber": "PPP0YG-326/6156/SMI-2026-019_001",
-   "sentAt": [
-    "2026-11-20T08:18:46.014127",
-    "2026-10-30T11:07:45.031712"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-27T11:00:00"
   }
  ],
  "exemple_attribution": [
   {
    "cpvAdditionalCodes": [
     {
-     "code": "42996500-9",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Rioolroosters"
-      },
-      {
-       "language": "DE",
-       "text": "Abwasser-Rechenanlagen"
-      },
-      {
-       "language": "EN",
-       "text": "Sewage screens"
-      },
-      {
-       "language": "FR",
-       "text": "Filtres à eaux usées"
-      }
-     ]
-    },
-    {
-     "code": "44411400-8",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Shower basins"
-      },
-      {
-       "language": "DE",
-       "text": "Duschwannen"
-      },
-      {
-       "language": "NL",
-       "text": "Douchebakken"
-      },
-      {
-       "language": "FR",
-       "text": "Receveurs de douche"
-      }
-     ]
-    },
-    {
-     "code": "33191000-5",
+     "code": "22000000-0",
      "descriptions": [
       {
        "language": "FR",
-       "text": "Dispositifs de stérilisation, de désinfection et d'hygiène"
-      },
-      {
-       "language": "DE",
-       "text": "Sterilisierungs-, Desinfektions- und Reinigungsausrüstung"
+       "text": "Imprimés et produits connexes"
       },
       {
        "language": "EN",
-       "text": "Sterilisation, disinfection and hygiene devices"
+       "text": "Printed matter and related products"
+      },
+      {
+       "language": "DE",
+       "text": "Drucksachen und zugehörige Erzeugnisse"
       },
       {
        "language": "NL",
-       "text": "Instrumentarium voor sterilisatie, desinfectie en reiniging"
+       "text": "Drukwerk en aanverwante producten"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "33191000-5",
+    "code": "22000000-0",
     "descriptions": [
      {
       "language": "FR",
-      "text": "Dispositifs de stérilisation, de désinfection et d'hygiène"
-     },
-     {
-      "language": "DE",
-      "text": "Sterilisierungs-, Desinfektions- und Reinigungsausrüstung"
+      "text": "Imprimés et produits connexes"
      },
      {
       "language": "EN",
-      "text": "Sterilisation, disinfection and hygiene devices"
+      "text": "Printed matter and related products"
+     },
+     {
+      "language": "DE",
+      "text": "Drucksachen und zugehörige Erzeugnisse"
      },
      {
       "language": "NL",
-      "text": "Instrumentarium voor sterilisatie, desinfectie en reiniging"
+      "text": "Drukwerk en aanverwante producten"
      }
     ]
    },
-   "dispatchDate": "2026-11-20",
+   "dispatchDate": "2026-11-21",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Accord-cadre pour la fourniture de filtres terminaux pour douches et lavabos constituant une barrière contre tous les germes et micro-organismes d’origine hydrique et cela sans modifier la composition chimique de l’eau. Ils sont validés pour retenir les bactéries, protozoaires, levures et particules contenus dans les réseaux d’eau pendant minimum 62 jours sans restriction de volume."
+      "language": "NL",
+      "text": "De stad wenst een drukker aan te stellen voor het drukken van het tweemaandelijks stadsmagazine. Het ontwerp en de opmaak worden door de stadsdiensten aangeleverd klaar voor druk."
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP0L1-35786/6354/DSST/2026-0246",
+    "number": "PPP00Q-1594/6179/2026-10",
     "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP0L1-35786/6354/DSST/2026-0246",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "referenceNumber": "PPP00Q-1594/6179/2026-10",
     "titles": [
      {
-      "language": "FR",
-      "text": "ACCORD-CADRE : FILTRES POUR MAITRISER LA CONTAMINATION BACTERIOLOGIQUE DE L’EAU AU SEIN DES UNITES DE SOINS (DOUCHE ET ROBINET) 2026-2030"
+      "language": "NL",
+      "text": "Drukken van stadsmagazine"
      }
     ]
    },
-   "insertionDate": "2026-11-20",
+   "insertionDate": "2026-11-21",
    "lots": [
     {
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Accord-cadre pour la fourniture de filtres terminaux pour douches et lavabos constituant une barrière contre tous les germes et micro-organismes d’origine hydrique et cela sans modifier la composition chimique de l’eau. Ils sont validés pour retenir les bactéries, protozoaires, levures et particules contenus dans les réseaux d’eau pendant minimum 62 jours sans restriction de volume."
+       "language": "NL",
+       "text": "Drukken van stadsmagazine"
       }
      ],
      "titles": [
       {
-       "language": "FR",
-       "text": "ACCORD-CADRE : FILTRES POUR MAITRISER LA CONTAMINATION BACTERIOLOGIQUE DE L’EAU AU SEIN DES UNITES DE SOINS (DOUCHE ET ROBINET) 2026-2030"
+       "language": "NL",
+       "text": "Drukken van stadsmagazine"
       }
      ]
     }
@@ -654,52 +579,51 @@
     "SUPPLIES"
    ],
    "noticeIds": [
-    "4fbb8cb8-d9c6-4fef-9a9b-47ec4533c0cb"
+    "746b55ca-8144-4cb9-b4ec-71cb17fb02b8"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE32D",
-    "BE32B"
+    "BE256"
    ],
    "organisation": {
-    "organisationId": 889,
+    "organisationId": 187,
     "organisationNames": [
      {
       "language": "DE",
-      "text": "I.S.P.P.C"
-     },
-     {
-      "language": "EN",
-      "text": "I.S.P.P.C"
+      "text": "Stad Izegem"
      },
      {
       "language": "FR",
-      "text": "HUmani SC"
+      "text": "Izegem"
      },
      {
       "language": "NL",
-      "text": "I.S.P.P.C"
+      "text": "Izegem"
+     },
+     {
+      "language": "EN",
+      "text": "Izegem"
      }
     ],
-    "tree": "200004.200027.889"
+    "tree": "200004.200021.187"
    },
-   "procedureId": "b96ddae4-0f80-4f6a-ade0-da526944e9c0",
-   "publicationDate": "2026-11-20",
+   "procedureId": "af90e347-8608-4d27-9a08-06204ae75ab1",
+   "publicationDate": "2026-11-21",
    "publicationLanguages": [
-    "FR"
+    "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP0L1-35786/6354/DSST/2026-0246_002"
+    "PPP00Q-1594/6179/2026-10_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "53b81454-9511-4d90-83b5-4695cb7f39e8",
+   "publicationWorkspaceId": "c02a7306-329d-47b5-9129-d18b2b5c247c",
    "publishedAt": [
-    "2026-11-20T08:50:46.01944"
+    "2026-11-21T00:00:46.021377"
    ],
-   "referenceNumber": "PPP0L1-35786/6354/DSST/2026-0246_002",
+   "referenceNumber": "PPP00Q-1594/6179/2026-10_002",
    "sentAt": [
-    "2026-11-20T08:50:46.01944"
+    "2026-11-21T00:00:46.021377"
    ],
    "tedPublished": false
   }
