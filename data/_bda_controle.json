@@ -3,34 +3,22 @@
   "totalCount": 296397
  },
  "types": [
-  "ACTIVE|10|['SERVICES']",
-  "ACTIVE|10|['SUPPLIES']",
   "ACTIVE|10|['WORKS']",
-  "ACTIVE|11|['WORKS']",
-  "ACTIVE|15|['SUPPLIES']",
-  "ACTIVE|16|['SERVICES', 'SUPPLIES', 'WORKS']",
-  "ACTIVE|16|['SERVICES', 'SUPPLIES']",
   "ACTIVE|16|['SERVICES', 'WORKS']",
   "ACTIVE|16|['SERVICES']",
-  "ACTIVE|16|['SUPPLIES', 'WORKS']",
   "ACTIVE|16|['SUPPLIES']",
   "ACTIVE|16|['WORKS']",
   "ACTIVE|17|['SERVICES']",
   "ACTIVE|17|['SUPPLIES', 'SERVICES']",
-  "ACTIVE|17|['SUPPLIES']",
   "ACTIVE|17|['WORKS']",
-  "ACTIVE|18|['SERVICES']",
   "ACTIVE|19|['SERVICES', 'WORKS']",
   "ACTIVE|19|['SERVICES']",
   "ACTIVE|20|['SERVICES']",
-  "ACTIVE|20|['SUPPLIES']",
   "ACTIVE|21|['SERVICES']",
   "ACTIVE|21|['SUPPLIES']",
   "ACTIVE|21|['WORKS']",
-  "ACTIVE|23|['SERVICES']",
   "ACTIVE|25|['SUPPLIES']",
   "ACTIVE|29|['SERVICES']",
-  "ACTIVE|29|['SUPPLIES', 'SERVICES']",
   "ACTIVE|29|['SUPPLIES']",
   "ACTIVE|29|['WORKS']",
   "ACTIVE|30|['SERVICES']",
@@ -46,12 +34,9 @@
   "ACTIVE|34|['SUPPLIES']",
   "ACTIVE|36|['SERVICES']",
   "ACTIVE|38|['SUPPLIES']",
-  "ACTIVE|4|['SERVICES']",
-  "ACTIVE|6|['WORKS']",
   "ACTIVE|E1|['SERVICES']",
   "ACTIVE|E1|['SUPPLIES', 'SERVICES']",
   "ACTIVE|E1|['SUPPLIES']",
-  "ACTIVE|E3|['SERVICES', 'SUPPLIES', 'WORKS']",
   "ACTIVE|E3|['SERVICES']",
   "ACTIVE|E3|['SUPPLIES', 'SERVICES']",
   "ACTIVE|E3|['SUPPLIES']",
@@ -402,12 +387,12 @@
     "referenceNumber": "RDGB-BRU-2026-222246-1238",
     "titles": [
      {
-      "language": "FR",
-      "text": " 1000 BRUXELLES : COUR DES COMPTES  - Modernisation d’un ascenseur hydraulique (n° 015) "
-     },
-     {
       "language": "NL",
       "text": " 1000 BRUSSEL : REKENHOF - Modernisatiewerken van 1 hydraulische lift (nr. 015) "
+     },
+     {
+      "language": "FR",
+      "text": " 1000 BRUXELLES : COUR DES COMPTES  - Modernisation d’un ascenseur hydraulique (n° 015) "
      }
     ]
    },
