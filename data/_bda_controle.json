@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 296516
+  "totalCount": 296529
  },
  "types": [
   "ACTIVE|10|['WORKS']",
@@ -593,12 +593,12 @@
     "code": "33191000-5",
     "descriptions": [
      {
-      "language": "DE",
-      "text": "Sterilisierungs-, Desinfektions- und Reinigungsausrüstung"
-     },
-     {
       "language": "FR",
       "text": "Dispositifs de stérilisation, de désinfection et d'hygiène"
+     },
+     {
+      "language": "DE",
+      "text": "Sterilisierungs-, Desinfektions- und Reinigungsausrüstung"
      },
      {
       "language": "EN",
