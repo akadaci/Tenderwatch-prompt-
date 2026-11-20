@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 296451
+  "totalCount": 296477
  },
  "types": [
   "ACTIVE|10|['WORKS']",
@@ -50,6 +50,7 @@
   "ACTIVE|E4|['SERVICES', 'SUPPLIES']",
   "ACTIVE|E4|['SERVICES', 'WORKS']",
   "ACTIVE|E4|['SERVICES']",
+  "ACTIVE|E4|['SUPPLIES', 'WORKS']",
   "ACTIVE|E4|['SUPPLIES']",
   "ACTIVE|E4|['WORKS']"
  ],
@@ -57,45 +58,45 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "71200000-0",
+     "code": "71000000-8",
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Services d'architecture"
-      },
-      {
        "language": "EN",
-       "text": "Architectural and related services"
-      },
-      {
-       "language": "NL",
-       "text": "Dienstverlening op het gebied van architectuur en dergelijke"
+       "text": "Architectural, construction, engineering and inspection services"
       },
       {
        "language": "DE",
-       "text": "Dienstleistungen von Architekturbüros"
+       "text": "Dienstleistungen von Architektur-, Konstruktions- und Ingenieurbüros und Prüfstellen"
+      },
+      {
+       "language": "FR",
+       "text": "Services d'architecture, services de construction, services d'ingénierie et services d'inspection"
+      },
+      {
+       "language": "NL",
+       "text": "Dienstverlening op het gebied van architectuur, bouwkunde, civiele techniek en inspectie"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "71200000-0",
+    "code": "71000000-8",
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Services d'architecture"
-     },
-     {
       "language": "EN",
-      "text": "Architectural and related services"
-     },
-     {
-      "language": "NL",
-      "text": "Dienstverlening op het gebied van architectuur en dergelijke"
+      "text": "Architectural, construction, engineering and inspection services"
      },
      {
       "language": "DE",
-      "text": "Dienstleistungen von Architekturbüros"
+      "text": "Dienstleistungen von Architektur-, Konstruktions- und Ingenieurbüros und Prüfstellen"
+     },
+     {
+      "language": "FR",
+      "text": "Services d'architecture, services de construction, services d'ingénierie et services d'inspection"
+     },
+     {
+      "language": "NL",
+      "text": "Dienstverlening op het gebied van architectuur, bouwkunde, civiele techniek en inspectie"
      }
     ]
    },
@@ -105,28 +106,40 @@
     "descriptions": [
      {
       "language": "FR",
-      "text": "Les services visés par le présent marché concernent le projet de de rénovation et réaménagement des annexes au bâtiment principal des Halles de Schaerbeek sises rue de la Constitution 20 et Chaussée de Haecht 159 à 1030 Bruxelles.     Il s’agit d’une maison unifamiliale occupée depuis des années par l’administration des Halles (appelée « maison de l’administration ») ainsi que d’annexes en intérieur d’îlot précédemment occupées par l’administration de Greenpeace. La première est, tout comme le bâtiment principal des Halles (salle de spectacle) propriété de la Cocof (Communauté française emphytéote) tandis que les secondes ont été acquises en 2024 par l’asbl Les Halles en raison de l’expansion de son activité. L’ensemble nécessite une rénovation, voire un réaménagement en vue de rafraîchir les lieux, les adapter aux besoins de leurs utilisateurs et créer les connexions utiles avec les zones existantes. Une optimisation fonctionnelle pourrait être menée (redistribution des fonctions entre les différents bâtiments). Au niveau de la maison unifamiliale, le focus devra cependant être porté sur la rénovation énergétique du bâtiment, dans le cadre du plan d’investissement énergétique de la Communauté française.  La surface brute totale bâtiments est d’environ 1120 m² caves incluses (maison de l’administration : 620 m² ; annexes « Greenpeace » 500 m²). Le programme inclut des fonctions de type bureaux, salle de répétition, stockage, conciergerie et logements pour artistes en résidence. L’approche envisagera également une requalification de l’unique espace ouvert exploitable : la toiture terrasse de la maison unifamiliale (60 m²). L’usage de la cour intérieure est en effet strictement limité au passage, conformément à son statut de servitude.  Les objectifs spécifiques de la mission, identifiés à ce stade par le maître d’ouvrage, sont les suivants :  réponse au type de fonctions visées par le programme et consolidation de cette programmation avec le maître d’ouvrage et les utilisateurs.  L’attention de l’auteur.e de projet est attirée sur le fait qu’au niveau du 159 chaussée de Haecht, le bâtiment à front de rue est classé, tandis que le reste de la parcelle (cour et annexes « Greenpeace ») sont repris dans la zone de protection patrimoniale attenante à ce monument. Bien que le projet ne concerne que les annexes, la conception et la mission devront être effectuées dans le cadre de cette contrainte.  Avant que la conception architecturale du projet à proprement parler soit entamée, le maître d’ouvrage estime nécessaire de préciser le cadre du projet et de l’inscrire dans une stratégie d’intervention. Cette stratégie sera éventuellement déclinée à court, moyen et long termes au cas où l’état des besoins nécessiterait un phasage des interventions au regard des moyens actuellement disponibles. Les travaux seraient alors programmés en tenant compte des priorités, des disponibilités sur fonds propres et des opportunités de subventions qui se présenteraient. Dans ce cadre, le présent marché a pour objet de désigner un auteur∙e de projet chargé d’accompagner le maître d’ouvrage dans la définition et la mise en œuvre de cette stratégie d’intervention à court, moyen et long terme.  La mission est, à ce titre, divisée en deux étapes :  une mission d’étude préalable; une mission complète d’étude et de suivi de l’exécution de tout ou partie des travaux tels qu’identifiés au terme de la stratégie. Pour plus de détails, il est renvoyé à la suite au cahier des charges."
+      "text": "La mission d’étude concerne les études suivantes : 1. Etude des solutions pour répondre aux besoins relatifs à l’aménagement du remisage provisoire des bus ; 2. Etablissement d’une demande de permis d’urbanisme (PU) intégrant les réponses aux besoins complémentaires identifiés ; 3. Etablissement de la demande de permis d’environnement (PE) relatif au remisage extérieur provisoire et aux aménagements qui y sont liés ; 4. Etablir un Rapport d’Incidence Environnementale (RIE) nécessaire pour le PU et le PE; 5. Suivi et adaptation du dossier en vue de l’obtention des permis (PU et PE). "
+     },
+     {
+      "language": "NL",
+      "text": "De studieopdracht omvat volgende studies: 1. Onderzoek naar oplossingen om tegemoet te komen aan de behoeften met betrekking tot de inrichting van de tijdelijke opstelplaats voor bussen; 2. Opstellen van de aanvraag voor een stedenbouwkundige vergunning (SV), waarin de antwoorden op de geïdentificeerde aanvullende behoeften zijn verwerkt; 3. Opstellen van de aanvraag voor een milieuvergunning (MV) met betrekking tot de tijdelijke buitenstelplaats en de daarbij horende inrichting; 4. Een milieueffectenrapport (MER) opstellen dat nodig is voor de SV en de MV; 5. Opvolging en aanpassing van het dossier met het oog op het verkrijgen van de vergunningen (SV en MV)."
      }
     ],
     "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "2026-Auteur de projet Annexes Halles",
-    "procurementProcedureType": "NEG_W_CALL_24",
-    "referenceNumber": "2026-Auteur de projet Annexes Halles",
+    "legalBasis": "D25",
+    "number": "DITP-DIOV BM CSC-BB i3453",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "DITP-DIOV BM CSC-BB i3453",
     "titles": [
      {
+      "language": "NL",
+      "text": "Studie- en ondersteuningsopdracht voor de stedenbouwkundige en milieutechnische regularisatie van een tijdelijke stelplaats voor bussen op de Deltasite"
+     },
+     {
       "language": "FR",
-      "text": "SCHAERBEEK- Les Halles de Schaerbeek - Projet de rénovation et réaménagement des annexes - Marché conjoint de service pour la désignation d’un auteur de projet chargé des études et du suivi d’exécution des travaux"
+      "text": "Mission d’étude et d’assistance à la régularisation urbanistique et environnementale d’un site provisoire de remisage des bus du site Delta"
      }
     ]
    },
-   "insertionDate": "2026-11-20",
+   "insertionDate": "2026-11-09",
    "lots": [
     {
      "descriptions": [
       {
        "language": "FR",
-       "text": "Les services comprennent une tranche ferme d’étude préalable suivie de la conception et le suivi de l’exécution des travaux du projet précité. Les honoraires pour la tranche ferme font l’objet d’une offre de prix forfaire dans une fourchette de prix allant de 10.000 euros HTVA à 15.000 euros HTVA tandis que les honoraires pour le reste de la mission sont calculés sur base d'un pourcentage forfaitaire du montant total des travaux (décompte final), soit un taux de 13,5 %. Le budget des travaux est estimé à ce jour à 860.000 EUR, TVA et honoraires non compris. Sur cette base, le montant des honoraires est donc estimé à 116.100 euros HTVA.  _____________________________________________________________________________________________________  Les services s’articulent autour de 5 compétences requises, au minimum : architecture, stabilité, techniques spéciales, PEB et acoustique. L’identification des opérateurs économiques (dont les modalités d’agencement sont précisées dans le Guide de sélection en annexe) assumant ces compétences est fractionnée en 3 étapes :  _____________________________________________________________________________________________________ [Etape 1] : À l’étape des demandes de participation, seul(s) les opérateurs économiques assumant la compétence architecture doi(ven)t être identifié(s) et sera(ont) donc évalué(s).   _____________________________________________________________________________________________________ [Etape 2] : A l’étape de la production des offres, il s’agira d’identifier en outre les opérateurs économiques assumant la/les compétence(s) suivantes : stabilité, techniques spéciales et PEB. _____________________________________________________________________________________________________ [Etape 3] : A l’étape de l’exécution du marché, il s’agira enfin d’identifier, l'opérateur économique assumant la compétence :  acoustique. _____________________________________________________________________________________________________  Le marché est divisé en tranches : Tranche 0 : Diagnostic préalable;  Tranche 1 : Esquisse, Avant-projet et Demande de permis ;  Tranche 2 : Projet définitif et Assistance technique à la passation du ou des marché.s de travaux ;  Tranche 3 : Suivi de l’exécution des travaux. Seule la première tranche du marché (Diagnostic préalable) est ferme, les autres sont conditionnelles. Les modalités de levée des tranches conditionnelles sont détaillées au sein du Cahier des charges. "
+       "text": "La mission d’étude concerne les études suivantes : 1. Etude des solutions pour répondre aux besoins relatifs à l’aménagement du remisage provisoire des bus ; 2. Etablissement d’une demande de permis d’urbanisme (PU) intégrant les réponses aux besoins complémentaires identifiés ; 3. Etablissement de la demande de permis d’environnement (PE) relatif au remisage extérieur provisoire et aux aménagements qui y sont liés ; 4. Etablir un Rapport d’Incidence Environnementale (RIE) nécessaire pour le PU et le PE; 5. Suivi et adaptation du dossier en vue de l’obtention des permis (PU et PE). "
+      },
+      {
+       "language": "NL",
+       "text": "De studieopdracht omvat volgende studies: 1. Onderzoek naar oplossingen om tegemoet te komen aan de behoeften met betrekking tot de inrichting van de tijdelijke opstelplaats voor bussen; 2. Opstellen van de aanvraag voor een stedenbouwkundige vergunning (SV), waarin de antwoorden op de geïdentificeerde aanvullende behoeften zijn verwerkt; 3. Opstellen van de aanvraag voor een milieuvergunning (MV) met betrekking tot de tijdelijke buitenstelplaats en de daarbij horende inrichting; 4. Een milieueffectenrapport (MER) opstellen dat nodig is voor de SV en de MV; 5. Opvolging en aanpassing van het dossier met het oog op het verkrijgen van de vergunningen (SV en MV)."
       }
      ],
      "reservedExecution": [
@@ -137,8 +150,12 @@
      ],
      "titles": [
       {
+       "language": "NL",
+       "text": "DITP-DIOV BM CSC-BB i3453 - 1"
+      },
+      {
        "language": "FR",
-       "text": "2026-Auteur de projet Annexes Halles - 1"
+       "text": "DITP-DIOV BM CSC-BB i3453 - 1"
       }
      ]
     }
@@ -147,252 +164,93 @@
     "SERVICES"
    ],
    "noticeIds": [
-    "15e13442-d9bd-4ded-8084-9cba7577b4a6"
+    "1dde6fe3-6e3d-4655-9cc4-15d71ca228ef",
+    "95c31937-0ce0-4f51-853c-f333110e5888"
    ],
-   "noticeSubType": "16",
+   "noticeSubType": "17",
    "nutsCodes": [
     "BE100"
    ],
    "organisation": {
-    "organisationId": 57469,
-    "organisationNames": [
-     {
-      "language": "FR",
-      "text": "Halles de Schaerbeek"
-     }
-    ],
-    "tree": "200003.200018.57469"
-   },
-   "procedureId": "cb2ba9ee-6992-48a4-bb91-cdde77217faa",
-   "publicationDate": "2026-11-20",
-   "publicationLanguages": [
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "2026-Auteur de projet Annexes Halles_pub01"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "39a84539-4680-400a-8b15-7a5eeb08e870",
-   "publishedAt": [
-    "2026-11-20T00:00:49.792929"
-   ],
-   "referenceNumber": "2026-Auteur de projet Annexes Halles_pub01",
-   "sentAt": [
-    "2026-11-20T00:00:49.792929"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-12-21T12:00:00"
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "45313100-5",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Installeren van liften"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux d'installation d'ascenseurs"
-      },
-      {
-       "language": "EN",
-       "text": "Lift installation work"
-      },
-      {
-       "language": "DE",
-       "text": "Installation von Aufzügen"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "45313100-5",
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Installeren van liften"
-     },
-     {
-      "language": "FR",
-      "text": "Travaux d'installation d'ascenseurs"
-     },
-     {
-      "language": "EN",
-      "text": "Lift installation work"
-     },
-     {
-      "language": "DE",
-      "text": "Installation von Aufzügen"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-20",
-   "dossier": {
-    "accreditations": {
-     "N1": 1
-    },
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": " 1000 BRUXELLES : COUR DES COMPTES  - Modernisation d’un ascenseur hydraulique (n° 015)  "
-     },
-     {
-      "language": "NL",
-      "text": " 1000 BRUSSEL : REKENHOF  - Modernisatiewerken van 1 hydraulische lift (nr. 015)  "
-     }
-    ],
-    "enterpriseCategories": [
-     {
-      "categoryCode": "N1",
-      "levels": [
-       1
-      ]
-     }
-    ],
-    "legalBasis": "D24",
-    "number": "RDGB-BRU-2026-222246-1238",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "RDGB-BRU-2026-222246-1238",
-    "titles": [
-     {
-      "language": "NL",
-      "text": " 1000 BRUSSEL : REKENHOF - Modernisatiewerken van 1 hydraulische lift (nr. 015) "
-     },
-     {
-      "language": "FR",
-      "text": " 1000 BRUXELLES : COUR DES COMPTES  - Modernisation d’un ascenseur hydraulique (n° 015) "
-     }
-    ]
-   },
-   "insertionDate": "2026-11-20",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": " 1000 BRUXELLES : COUR DES COMPTES - Modernisation d’un ascenseur hydraulique (n° 015)  "
-      },
-      {
-       "language": "NL",
-       "text": " 1000 BRUSSEL : REKENHOF  - Modernisatiewerken van 1 hydraulische lift (nr. 015)  "
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "RDGB-BRU-2026-222246-1238 - 1"
-      },
-      {
-       "language": "NL",
-       "text": "RDGB-BRU-2026-222246-1238 - 1"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "WORKS"
-   ],
-   "noticeIds": [
-    "9c5ce757-1bf9-450c-b661-3c4a480be345"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE100"
-   ],
-   "organisation": {
-    "organisationId": 5078,
+    "organisationId": 7579,
     "organisationNames": [
      {
       "language": "NL",
-      "text": "Regie der Gebouwen - Centrum voor technische expertise & innovatie"
-     },
-     {
-      "language": "EN",
-      "text": "Buildingsagency - Direction Electromechanical"
+      "text": "Directie Infrastructuur Openbaar Vervoer"
      },
      {
       "language": "FR",
-      "text": "Régie des Bâtiments - Centre d’expertise technique et d’innovation"
-     },
-     {
-      "language": "DE",
-      "text": "Regie der Gebouwen - Directie Elektromechanical"
+      "text": "Direction Infrastructure Transports Publics"
      }
     ],
-    "tree": "200002.200010.5.5078"
+    "tree": "200003.200017.61.4632.7577.7579"
    },
-   "procedureId": "dc2cd3ad-4d7e-4a39-b79e-ba165b70e589",
+   "procedureId": "708f935e-93b0-47cd-b44d-1262661a74a1",
    "publicationDate": "2026-11-20",
    "publicationLanguages": [
     "NL",
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "RDGB-BRU-2026-222246-1238_pub02"
+    "DITP-DIOV BM CSC-BB i3453_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "9cbbbbb6-f624-44bd-8e35-d43f2634c366",
+   "publicationWorkspaceId": "37f86dd9-7621-41be-9adb-fe8ee5951d2f",
    "publishedAt": [
-    "2026-11-20T00:00:47.999688"
+    "2026-11-09T13:16:45.014614",
+    "2026-11-20T08:13:46.013734"
    ],
-   "referenceNumber": "RDGB-BRU-2026-222246-1238_pub02",
+   "referenceNumber": "DITP-DIOV BM CSC-BB i3453_pub01",
    "sentAt": [
-    "2026-11-20T00:00:47.999688"
+    "2026-11-09T13:16:45.014614",
+    "2026-11-20T08:13:46.013734"
    ],
-   "tedPublished": false
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-12-10T10:00:00"
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45232460-4",
+     "code": "45111000-8",
      "descriptions": [
       {
        "language": "EN",
-       "text": "Sanitary works"
+       "text": "Demolition, site preparation and clearance work"
       },
       {
        "language": "DE",
-       "text": "Sanitäre Anlagen"
+       "text": "Abbrucharbeiten, Baureifmachung und Abräumung"
       },
       {
        "language": "NL",
-       "text": "Sanitaire installaties"
+       "text": "Sloopwerkzaamheden, bouwrijp maken en ruimen van bouwterreinen"
       },
       {
        "language": "FR",
-       "text": "Travaux d'installations sanitaires"
+       "text": "Travaux de démolition, travaux de préparation et de dégagement de chantier"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45232460-4",
+    "code": "45111000-8",
     "descriptions": [
      {
       "language": "EN",
-      "text": "Sanitary works"
+      "text": "Demolition, site preparation and clearance work"
      },
      {
       "language": "DE",
-      "text": "Sanitäre Anlagen"
+      "text": "Abbrucharbeiten, Baureifmachung und Abräumung"
      },
      {
       "language": "NL",
-      "text": "Sanitaire installaties"
+      "text": "Sloopwerkzaamheden, bouwrijp maken en ruimen van bouwterreinen"
      },
      {
       "language": "FR",
-      "text": "Travaux d'installations sanitaires"
+      "text": "Travaux de démolition, travaux de préparation et de dégagement de chantier"
      }
     ]
    },
@@ -402,28 +260,28 @@
     "descriptions": [
      {
       "language": "NL",
-      "text": "Herstellen lek waterleiding in tunnel naar Stanleypaviljoen"
+      "text": "De opdracht gaat over het slopen van 19 wooneenheden en 9 garages. Plaats van uitvoering: straat/wijk: Deelproject 1: Zwevegem: Ellestraat 177/179/181/183/185/187/189/191, 8550 Zwevegem Deelproject 2: Zwevegem: Hugo Verrieststraat 63/65/85/96/124/126, 8550 Zwevegem Deelproject 3: Otegem: Kleine Ronse 66/68 8553 Zwevegem-Otegem Deelproject 4: Avelgem: Toekomststraat 52/54, 8580 Avelgem Deelproject 5: Avelgem: Korenstraat 5, 8580 Avelgem-Outrijve  "
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "RDGB-VRO-2026-210705-LUJA-FA13812",
-    "procurementProcedureType": "LOW_VALUE_T",
-    "referenceNumber": "RDGB-VRO-2026-210705-LUJA-FA13812",
+    "number": "PPP18G-511/6153/01 PO_2026_006/2581",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "PPP18G-511/6153/01 PO_2026_006/2581",
     "titles": [
      {
       "language": "NL",
-      "text": "Tervuren – POD Wetenschapsbeleid – Herstellen lek waterleiding in tunnel naar Stanleypaviljoen"
+      "text": "slopen van 19 wooneenheden en 9 garages"
      }
     ]
    },
-   "insertionDate": "2026-11-20",
+   "insertionDate": "2026-10-26",
    "lots": [
     {
      "descriptions": [
       {
        "language": "NL",
-       "text": "Herstellen lek waterleiding in tunnel naar Stanleypaviljoen"
+       "text": "De opdracht gaat over het slopen van 19 wooneenheden en 9 garages. Plaats van uitvoering: straat/wijk: Deelproject 1: Zwevegem: Ellestraat 177/179/181/183/185/187/189/191, 8550 Zwevegem Deelproject 2: Zwevegem: Hugo Verrieststraat 63/65/85/96/124/126, 8550 Zwevegem Deelproject 3: Otegem: Kleine Ronse 66/68 8553 Zwevegem-Otegem Deelproject 4: Avelgem: Toekomststraat 52/54, 8580 Avelgem Deelproject 5: Avelgem: Korenstraat 5, 8580 Avelgem-Outrijve  "
       }
      ],
      "reservedExecution": [
@@ -435,7 +293,7 @@
      "titles": [
       {
        "language": "NL",
-       "text": "RDGB-VRO-2026-210705-LUJA-FA13812 - 1"
+       "text": "slopen van 19 wooneenheden en 9 garages"
       }
      ]
     }
@@ -444,136 +302,333 @@
     "WORKS"
    ],
    "noticeIds": [
-    "5474fd01-be0a-4620-8190-dbc2073ecdd4"
+    "6e8ee3ba-3757-4a40-a70c-59c34e328427",
+    "d45a9e50-3b20-49e8-a275-300bee80d5dd"
    ],
-   "noticeSubType": "E3",
+   "noticeSubType": "16",
    "nutsCodes": [
-    "BE242"
+    "BE254"
    ],
    "organisation": {
-    "organisationId": 4894,
+    "organisationId": 2327,
     "organisationNames": [
      {
       "language": "EN",
-      "text": "Buildingsagency - Vlaanderen Regio Oost"
+      "text": "Eigen Haard"
      },
      {
       "language": "FR",
-      "text": "Regie der Gebouwen - Vlaanderen Regio Oost"
-     },
-     {
-      "language": "DE",
-      "text": "Regie der Gebouwen - Vlaanderen Regio Oost"
+      "text": "Eigen Haard"
      },
      {
       "language": "NL",
-      "text": "Regie der Gebouwen - Vlaanderen Regio Oost"
+      "text": "WM Elan BV"
+     },
+     {
+      "language": "DE",
+      "text": "Eigen Haard"
      }
     ],
-    "tree": "200002.200010.5.4894"
+    "tree": "200004.200028.2327"
    },
-   "procedureId": "af4ad7ee-5a44-4af1-ac02-0b9ff96161c3",
+   "procedureId": "26744aec-d66c-4d08-a945-3e92478a0d6c",
    "publicationDate": "2026-11-20",
    "publicationLanguages": [
     "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "RDGB-VRO-2026-210705-LUJA-FA13812_pub01"
+    "PPP18G-511/6153/01 PO_2026_006/2581_001"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "d816c42e-7ac0-43df-8f52-d47d0f71576b",
+   "publicationWorkspaceId": "70315c2b-c77d-4158-892f-f861deb27670",
    "publishedAt": [
-    "2026-11-20T00:00:48.603293"
+    "2026-11-20T08:38:46.016254",
+    "2026-10-26T14:08:45.010861"
    ],
-   "referenceNumber": "RDGB-VRO-2026-210705-LUJA-FA13812_pub01",
+   "referenceNumber": "PPP18G-511/6153/01 PO_2026_006/2581_001",
    "sentAt": [
-    "2026-11-20T00:00:48.603293"
+    "2026-11-20T08:38:46.016254",
+    "2026-10-26T14:08:45.010861"
    ],
-   "tedPublished": false
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-12-03T11:00:00"
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "38652120-7",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Videoprojektoren"
+      },
+      {
+       "language": "FR",
+       "text": "Vidéoprojecteurs"
+      },
+      {
+       "language": "NL",
+       "text": "Videoprojectietoestellen"
+      },
+      {
+       "language": "EN",
+       "text": "Video projectors"
+      }
+     ]
+    },
+    {
+     "code": "30000000-9",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Office and computing machinery, equipment and supplies except furniture and software packages"
+      },
+      {
+       "language": "NL",
+       "text": "Kantoormachines en gegevensverwerkende apparatuur, kantooruitrusting en -benodigdheden, uitgez. meubilair en softwarepakketten"
+      },
+      {
+       "language": "DE",
+       "text": "Maschinen, Material und Zubehör für Büro und Computer, außer Möbeln und Softwarepaketen"
+      },
+      {
+       "language": "FR",
+       "text": "Machines, matériel et fourniture informatique et de bureau, excepté les meubles et logiciels"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "38652120-7",
+    "descriptions": [
+     {
+      "language": "DE",
+      "text": "Videoprojektoren"
+     },
+     {
+      "language": "FR",
+      "text": "Vidéoprojecteurs"
+     },
+     {
+      "language": "NL",
+      "text": "Videoprojectietoestellen"
+     },
+     {
+      "language": "EN",
+      "text": "Video projectors"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-20",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "P2_Nieuwbouw en renovatie schoolgebouwen secundaire school NOVA - Campus Barnum - Eerste uitrusting Multimedia"
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP0YG-326/6156/SMI-2026-019",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "PPP0YG-326/6156/SMI-2026-019",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "P2_Nieuwbouw en renovatie schoolgebouwen secundaire school NOVA - Campus Barnum - Eerste uitrusting Multimedia"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-30",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "P2_Nieuwbouw en renovatie schoolgebouwen secundaire school NOVA - Campus Barnum - Eerste uitrusting Multimedia"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "P2_Nieuwbouw en renovatie schoolgebouwen secundaire school NOVA - Campus Barnum - Eerste uitrusting Multimedia"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SUPPLIES"
+   ],
+   "noticeIds": [
+    "1fb1e3e2-f12a-499e-99dd-154fc31659a0",
+    "455f4686-d62a-480c-987c-04991e965599"
+   ],
+   "noticeSubType": "16",
+   "nutsCodes": [
+    "BE256"
+   ],
+   "organisation": {
+    "organisationId": 143,
+    "organisationNames": [
+     {
+      "language": "FR",
+      "text": "vzw Scholengroep Sint-Michiel"
+     },
+     {
+      "language": "DE",
+      "text": "vzw Scholengroep Sint-Michiel"
+     },
+     {
+      "language": "EN",
+      "text": "vzw Scholengroep Sint-Michiel"
+     },
+     {
+      "language": "NL",
+      "text": "vzw Scholengroep Sint-Michiel"
+     }
+    ],
+    "tree": "200004.200026.143"
+   },
+   "procedureId": "2bbd723f-1f63-489d-a786-54464184cd75",
+   "publicationDate": "2026-11-20",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP0YG-326/6156/SMI-2026-019_001"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "120308dc-67a0-4e9b-b347-9d96318bbca8",
+   "publishedAt": [
+    "2026-11-20T08:18:46.014127",
+    "2026-10-30T11:07:45.031712"
+   ],
+   "referenceNumber": "PPP0YG-326/6156/SMI-2026-019_001",
+   "sentAt": [
+    "2026-11-20T08:18:46.014127",
+    "2026-10-30T11:07:45.031712"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-11-27T11:00:00"
   }
  ],
  "exemple_attribution": [
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45313100-5",
+     "code": "42996500-9",
      "descriptions": [
       {
        "language": "NL",
-       "text": "Installeren van liften"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux d'installation d'ascenseurs"
-      },
-      {
-       "language": "EN",
-       "text": "Lift installation work"
+       "text": "Rioolroosters"
       },
       {
        "language": "DE",
-       "text": "Installation von Aufzügen"
+       "text": "Abwasser-Rechenanlagen"
+      },
+      {
+       "language": "EN",
+       "text": "Sewage screens"
+      },
+      {
+       "language": "FR",
+       "text": "Filtres à eaux usées"
+      }
+     ]
+    },
+    {
+     "code": "44411400-8",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Shower basins"
+      },
+      {
+       "language": "DE",
+       "text": "Duschwannen"
+      },
+      {
+       "language": "FR",
+       "text": "Receveurs de douche"
+      },
+      {
+       "language": "NL",
+       "text": "Douchebakken"
+      }
+     ]
+    },
+    {
+     "code": "33191000-5",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Dispositifs de stérilisation, de désinfection et d'hygiène"
+      },
+      {
+       "language": "DE",
+       "text": "Sterilisierungs-, Desinfektions- und Reinigungsausrüstung"
+      },
+      {
+       "language": "EN",
+       "text": "Sterilisation, disinfection and hygiene devices"
+      },
+      {
+       "language": "NL",
+       "text": "Instrumentarium voor sterilisatie, desinfectie en reiniging"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45313100-5",
+    "code": "33191000-5",
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Installeren van liften"
-     },
-     {
       "language": "FR",
-      "text": "Travaux d'installation d'ascenseurs"
-     },
-     {
-      "language": "EN",
-      "text": "Lift installation work"
+      "text": "Dispositifs de stérilisation, de désinfection et d'hygiène"
      },
      {
       "language": "DE",
-      "text": "Installation von Aufzügen"
+      "text": "Sterilisierungs-, Desinfektions- und Reinigungsausrüstung"
+     },
+     {
+      "language": "EN",
+      "text": "Sterilisation, disinfection and hygiene devices"
+     },
+     {
+      "language": "NL",
+      "text": "Instrumentarium voor sterilisatie, desinfectie en reiniging"
      }
     ]
    },
    "dispatchDate": "2026-11-20",
    "dossier": {
-    "accreditations": {
-     "N1": 1
-    },
+    "accreditations": {},
     "descriptions": [
      {
       "language": "FR",
-      "text": " 1000 BRUXELLES : COUR DES COMPTES  - Modernisation d’un ascenseur hydraulique (n° 015)  "
-     },
-     {
-      "language": "NL",
-      "text": " 1000 BRUSSEL : REKENHOF  - Modernisatiewerken van 1 hydraulische lift (nr. 015)  "
+      "text": "Accord-cadre pour la fourniture de filtres terminaux pour douches et lavabos constituant une barrière contre tous les germes et micro-organismes d’origine hydrique et cela sans modifier la composition chimique de l’eau. Ils sont validés pour retenir les bactéries, protozoaires, levures et particules contenus dans les réseaux d’eau pendant minimum 62 jours sans restriction de volume."
      }
     ],
-    "enterpriseCategories": [
-     {
-      "categoryCode": "N1",
-      "levels": [
-       1
-      ]
-     }
-    ],
+    "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "RDGB-BRU-2026-222246-1238",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "RDGB-BRU-2026-222246-1238",
+    "number": "PPP0L1-35786/6354/DSST/2026-0246",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP0L1-35786/6354/DSST/2026-0246",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
-      "language": "NL",
-      "text": " 1000 BRUSSEL : REKENHOF - Modernisatiewerken van 1 hydraulische lift (nr. 015) "
-     },
-     {
       "language": "FR",
-      "text": " 1000 BRUXELLES : COUR DES COMPTES  - Modernisation d’un ascenseur hydraulique (n° 015) "
+      "text": "ACCORD-CADRE : FILTRES POUR MAITRISER LA CONTAMINATION BACTERIOLOGIQUE DE L’EAU AU SEIN DES UNITES DE SOINS (DOUCHE ET ROBINET) 2026-2030"
      }
     ]
    },
@@ -583,81 +638,67 @@
      "descriptions": [
       {
        "language": "FR",
-       "text": " 1000 BRUXELLES : COUR DES COMPTES - Modernisation d’un ascenseur hydraulique (n° 015)  "
-      },
-      {
-       "language": "NL",
-       "text": " 1000 BRUSSEL : REKENHOF  - Modernisatiewerken van 1 hydraulische lift (nr. 015)  "
+       "text": "Accord-cadre pour la fourniture de filtres terminaux pour douches et lavabos constituant une barrière contre tous les germes et micro-organismes d’origine hydrique et cela sans modifier la composition chimique de l’eau. Ils sont validés pour retenir les bactéries, protozoaires, levures et particules contenus dans les réseaux d’eau pendant minimum 62 jours sans restriction de volume."
       }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
      ],
      "titles": [
       {
        "language": "FR",
-       "text": "RDGB-BRU-2026-222246-1238 - 1"
-      },
-      {
-       "language": "NL",
-       "text": "RDGB-BRU-2026-222246-1238 - 1"
+       "text": "ACCORD-CADRE : FILTRES POUR MAITRISER LA CONTAMINATION BACTERIOLOGIQUE DE L’EAU AU SEIN DES UNITES DE SOINS (DOUCHE ET ROBINET) 2026-2030"
       }
      ]
     }
    ],
    "natures": [
-    "WORKS"
+    "SUPPLIES"
    ],
    "noticeIds": [
-    "9c5ce757-1bf9-450c-b661-3c4a480be345"
+    "4fbb8cb8-d9c6-4fef-9a9b-47ec4533c0cb"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE100"
+    "BE32D",
+    "BE32B"
    ],
    "organisation": {
-    "organisationId": 5078,
+    "organisationId": 889,
     "organisationNames": [
      {
-      "language": "NL",
-      "text": "Regie der Gebouwen - Centrum voor technische expertise & innovatie"
+      "language": "DE",
+      "text": "I.S.P.P.C"
      },
      {
       "language": "EN",
-      "text": "Buildingsagency - Direction Electromechanical"
+      "text": "I.S.P.P.C"
      },
      {
       "language": "FR",
-      "text": "Régie des Bâtiments - Centre d’expertise technique et d’innovation"
+      "text": "HUmani SC"
      },
      {
-      "language": "DE",
-      "text": "Regie der Gebouwen - Directie Elektromechanical"
+      "language": "NL",
+      "text": "I.S.P.P.C"
      }
     ],
-    "tree": "200002.200010.5.5078"
+    "tree": "200004.200027.889"
    },
-   "procedureId": "dc2cd3ad-4d7e-4a39-b79e-ba165b70e589",
+   "procedureId": "b96ddae4-0f80-4f6a-ade0-da526944e9c0",
    "publicationDate": "2026-11-20",
    "publicationLanguages": [
-    "NL",
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "RDGB-BRU-2026-222246-1238_pub02"
+    "PPP0L1-35786/6354/DSST/2026-0246_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "9cbbbbb6-f624-44bd-8e35-d43f2634c366",
+   "publicationWorkspaceId": "53b81454-9511-4d90-83b5-4695cb7f39e8",
    "publishedAt": [
-    "2026-11-20T00:00:47.999688"
+    "2026-11-20T08:50:46.01944"
    ],
-   "referenceNumber": "RDGB-BRU-2026-222246-1238_pub02",
+   "referenceNumber": "PPP0L1-35786/6354/DSST/2026-0246_002",
    "sentAt": [
-    "2026-11-20T00:00:47.999688"
+    "2026-11-20T08:50:46.01944"
    ],
    "tedPublished": false
   }
