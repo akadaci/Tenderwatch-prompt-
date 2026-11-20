@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 296565
+  "totalCount": 296572
  },
  "types": [
   "ACTIVE|10|['WORKS']",
@@ -559,12 +559,12 @@
        "text": "Duschwannen"
       },
       {
-       "language": "NL",
-       "text": "Douchebakken"
-      },
-      {
        "language": "FR",
        "text": "Receveurs de douche"
+      },
+      {
+       "language": "NL",
+       "text": "Douchebakken"
       }
      ]
     },
@@ -594,12 +594,12 @@
     "code": "33191000-5",
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Dispositifs de stérilisation, de désinfection et d'hygiène"
-     },
-     {
       "language": "DE",
       "text": "Sterilisierungs-, Desinfektions- und Reinigungsausrüstung"
+     },
+     {
+      "language": "FR",
+      "text": "Dispositifs de stérilisation, de désinfection et d'hygiène"
      },
      {
       "language": "EN",
