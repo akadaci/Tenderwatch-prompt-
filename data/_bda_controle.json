@@ -559,12 +559,12 @@
        "text": "Duschwannen"
       },
       {
-       "language": "FR",
-       "text": "Receveurs de douche"
-      },
-      {
        "language": "NL",
        "text": "Douchebakken"
+      },
+      {
+       "language": "FR",
+       "text": "Receveurs de douche"
       }
      ]
     },
@@ -572,12 +572,12 @@
      "code": "33191000-5",
      "descriptions": [
       {
-       "language": "DE",
-       "text": "Sterilisierungs-, Desinfektions- und Reinigungsausrüstung"
-      },
-      {
        "language": "FR",
        "text": "Dispositifs de stérilisation, de désinfection et d'hygiène"
+      },
+      {
+       "language": "DE",
+       "text": "Sterilisierungs-, Desinfektions- und Reinigungsausrüstung"
       },
       {
        "language": "EN",
