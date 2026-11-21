@@ -81,12 +81,12 @@
       "text": "Imprimés et produits connexes"
      },
      {
-      "language": "EN",
-      "text": "Printed matter and related products"
-     },
-     {
       "language": "DE",
       "text": "Drucksachen und zugehörige Erzeugnisse"
+     },
+     {
+      "language": "EN",
+      "text": "Printed matter and related products"
      },
      {
       "language": "NL",
@@ -183,6 +183,157 @@
     "2026-11-21T00:00:46.021377"
    ],
    "tedPublished": false
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45000000-7",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Bouwwerkzaamheden"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de construction"
+      },
+      {
+       "language": "EN",
+       "text": "Construction work"
+      },
+      {
+       "language": "DE",
+       "text": "Bauarbeiten"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45000000-7",
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Bouwwerkzaamheden"
+     },
+     {
+      "language": "FR",
+      "text": "Travaux de construction"
+     },
+     {
+      "language": "EN",
+      "text": "Construction work"
+     },
+     {
+      "language": "DE",
+      "text": "Bauarbeiten"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-21",
+   "dossier": {
+    "accreditations": {
+     "D": 7
+    },
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Algemene aanneming van werken omvattende onderdelen architectuur, stabiliteit, technieken en omgevingsaanleg voor het oprichten van een buitensporthal en het verbouwen en uitbreiden van een bestaande sporthal."
+     }
+    ],
+    "enterpriseCategories": [
+     {
+      "categoryCode": "D",
+      "levels": [
+       7,
+       6,
+       5,
+       4,
+       3,
+       2,
+       1
+      ]
+     }
+    ],
+    "legalBasis": "D24",
+    "number": "25-506",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "25-506",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Oprichten buitensporthal, verbouwen en uitbreiden van bestaande sporthal."
+     }
+    ]
+   },
+   "insertionDate": "2026-10-06",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Algemene aanneming bestaande uit de onderdelen architectuur, stabiliteit, technieken en omgevingsaanleg voor het oprichten van een buitensporthal en het verbouwen en uitbreiden van een bestaande sporthal."
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "25-506 - 1"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "03e1674e-808b-463b-8bb1-bc73710d37f3",
+    "dfd9c01a-ebaf-4659-aa38-f50e0f2bc5ce",
+    "0fd3bfa6-673f-44bc-a959-e67024bfcaac"
+   ],
+   "noticeSubType": "16",
+   "nutsCodes": [
+    "BE232"
+   ],
+   "organisation": {
+    "organisationId": 24981,
+    "organisationNames": [
+     {
+      "language": "NL",
+      "text": "Vzw Mariagaard"
+     }
+    ],
+    "tree": "200004.200026.24981"
+   },
+   "procedureId": "3c6cfe99-2c76-40dc-8886-f8ce1ed0f76f",
+   "publicationDate": "2026-11-21",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "25-506_pub01"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "14e9b4d7-50fa-41c8-9733-3d93707b70fd",
+   "publishedAt": [
+    "2026-10-06T00:00:46.978386",
+    "2026-11-21T14:13:46.128963",
+    "2026-10-26T07:35:45.014415"
+   ],
+   "referenceNumber": "25-506_pub01",
+   "sentAt": [
+    "2026-10-06T00:00:46.978386",
+    "2026-11-21T14:13:46.128963",
+    "2026-10-26T07:35:45.014415"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-12-11T11:00:00"
   },
   {
    "cpvAdditionalCodes": [
@@ -337,151 +488,6 @@
    ],
    "tedPublished": false,
    "vaultSubmissionDeadline": "2026-12-10T10:00:00"
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "45111000-8",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Demolition, site preparation and clearance work"
-      },
-      {
-       "language": "DE",
-       "text": "Abbrucharbeiten, Baureifmachung und Abräumung"
-      },
-      {
-       "language": "NL",
-       "text": "Sloopwerkzaamheden, bouwrijp maken en ruimen van bouwterreinen"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de démolition, travaux de préparation et de dégagement de chantier"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "45111000-8",
-    "descriptions": [
-     {
-      "language": "EN",
-      "text": "Demolition, site preparation and clearance work"
-     },
-     {
-      "language": "DE",
-      "text": "Abbrucharbeiten, Baureifmachung und Abräumung"
-     },
-     {
-      "language": "NL",
-      "text": "Sloopwerkzaamheden, bouwrijp maken en ruimen van bouwterreinen"
-     },
-     {
-      "language": "FR",
-      "text": "Travaux de démolition, travaux de préparation et de dégagement de chantier"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-20",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "De opdracht gaat over het slopen van 19 wooneenheden en 9 garages. Plaats van uitvoering: straat/wijk: Deelproject 1: Zwevegem: Ellestraat 177/179/181/183/185/187/189/191, 8550 Zwevegem Deelproject 2: Zwevegem: Hugo Verrieststraat 63/65/85/96/124/126, 8550 Zwevegem Deelproject 3: Otegem: Kleine Ronse 66/68 8553 Zwevegem-Otegem Deelproject 4: Avelgem: Toekomststraat 52/54, 8580 Avelgem Deelproject 5: Avelgem: Korenstraat 5, 8580 Avelgem-Outrijve  "
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP18G-511/6153/01 PO_2026_006/2581",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "PPP18G-511/6153/01 PO_2026_006/2581",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "slopen van 19 wooneenheden en 9 garages"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-26",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "De opdracht gaat over het slopen van 19 wooneenheden en 9 garages. Plaats van uitvoering: straat/wijk: Deelproject 1: Zwevegem: Ellestraat 177/179/181/183/185/187/189/191, 8550 Zwevegem Deelproject 2: Zwevegem: Hugo Verrieststraat 63/65/85/96/124/126, 8550 Zwevegem Deelproject 3: Otegem: Kleine Ronse 66/68 8553 Zwevegem-Otegem Deelproject 4: Avelgem: Toekomststraat 52/54, 8580 Avelgem Deelproject 5: Avelgem: Korenstraat 5, 8580 Avelgem-Outrijve  "
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "slopen van 19 wooneenheden en 9 garages"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "WORKS"
-   ],
-   "noticeIds": [
-    "6e8ee3ba-3757-4a40-a70c-59c34e328427",
-    "d45a9e50-3b20-49e8-a275-300bee80d5dd"
-   ],
-   "noticeSubType": "16",
-   "nutsCodes": [
-    "BE254"
-   ],
-   "organisation": {
-    "organisationId": 2327,
-    "organisationNames": [
-     {
-      "language": "EN",
-      "text": "Eigen Haard"
-     },
-     {
-      "language": "FR",
-      "text": "Eigen Haard"
-     },
-     {
-      "language": "NL",
-      "text": "WM Elan BV"
-     },
-     {
-      "language": "DE",
-      "text": "Eigen Haard"
-     }
-    ],
-    "tree": "200004.200028.2327"
-   },
-   "procedureId": "26744aec-d66c-4d08-a945-3e92478a0d6c",
-   "publicationDate": "2026-11-20",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP18G-511/6153/01 PO_2026_006/2581_001"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "70315c2b-c77d-4158-892f-f861deb27670",
-   "publishedAt": [
-    "2026-11-20T08:38:46.016254",
-    "2026-10-26T14:08:45.010861"
-   ],
-   "referenceNumber": "PPP18G-511/6153/01 PO_2026_006/2581_001",
-   "sentAt": [
-    "2026-11-20T08:38:46.016254",
-    "2026-10-26T14:08:45.010861"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-12-03T11:00:00"
   }
  ],
  "exemple_attribution": [
@@ -517,12 +523,12 @@
       "text": "Imprimés et produits connexes"
      },
      {
-      "language": "EN",
-      "text": "Printed matter and related products"
-     },
-     {
       "language": "DE",
       "text": "Drucksachen und zugehörige Erzeugnisse"
+     },
+     {
+      "language": "EN",
+      "text": "Printed matter and related products"
      },
      {
       "language": "NL",
