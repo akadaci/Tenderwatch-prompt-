@@ -16,19 +16,16 @@
   "ACTIVE|17|['SUPPLIES', 'SERVICES']",
   "ACTIVE|17|['SUPPLIES']",
   "ACTIVE|17|['WORKS']",
-  "ACTIVE|19|['SERVICES', 'WORKS']",
   "ACTIVE|19|['SERVICES']",
   "ACTIVE|20|['SERVICES']",
   "ACTIVE|21|['SERVICES']",
   "ACTIVE|21|['SUPPLIES']",
   "ACTIVE|21|['WORKS']",
-  "ACTIVE|25|['SUPPLIES']",
   "ACTIVE|29|['SERVICES', 'SUPPLIES']",
   "ACTIVE|29|['SERVICES']",
   "ACTIVE|29|['SUPPLIES', 'SERVICES']",
   "ACTIVE|29|['SUPPLIES']",
   "ACTIVE|29|['WORKS']",
-  "ACTIVE|30|['SERVICES']",
   "ACTIVE|30|['SUPPLIES']",
   "ACTIVE|30|['WORKS']",
   "ACTIVE|31|['SUPPLIES', 'SERVICES']",
@@ -37,10 +34,7 @@
   "ACTIVE|33|['SERVICES']",
   "ACTIVE|33|['SUPPLIES']",
   "ACTIVE|33|['WORKS']",
-  "ACTIVE|34|['SERVICES']",
   "ACTIVE|34|['SUPPLIES']",
-  "ACTIVE|36|['SERVICES']",
-  "ACTIVE|38|['SUPPLIES']",
   "ACTIVE|E1|['SERVICES']",
   "ACTIVE|E1|['SUPPLIES', 'SERVICES']",
   "ACTIVE|E1|['SUPPLIES']",
@@ -49,7 +43,6 @@
   "ACTIVE|E3|['SUPPLIES']",
   "ACTIVE|E3|['WORKS']",
   "ACTIVE|E4|['SERVICES', 'SUPPLIES']",
-  "ACTIVE|E4|['SERVICES', 'WORKS']",
   "ACTIVE|E4|['SERVICES']",
   "ACTIVE|E4|['SUPPLIES', 'WORKS']",
   "ACTIVE|E4|['SUPPLIES']",
@@ -88,12 +81,12 @@
       "text": "Imprimés et produits connexes"
      },
      {
-      "language": "EN",
-      "text": "Printed matter and related products"
-     },
-     {
       "language": "DE",
       "text": "Drucksachen und zugehörige Erzeugnisse"
+     },
+     {
+      "language": "EN",
+      "text": "Printed matter and related products"
      },
      {
       "language": "NL",
@@ -524,12 +517,12 @@
       "text": "Imprimés et produits connexes"
      },
      {
-      "language": "EN",
-      "text": "Printed matter and related products"
-     },
-     {
       "language": "DE",
       "text": "Drucksachen und zugehörige Erzeugnisse"
+     },
+     {
+      "language": "EN",
+      "text": "Printed matter and related products"
      },
      {
       "language": "NL",
