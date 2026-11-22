@@ -1,14 +1,11 @@
 {
- "updated": "2026-11-22T23:01:40Z",
+ "updated": "2026-11-22T23:50:49Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
  "received": 421,
  "kept": 202,
  "count": 3591,
- "new_ids": [
-  "bda-662be994-d070-43d3-a1c3-fa927fd1fe62",
-  "bda-5e9458c6-b83a-4182-ba00-a3f1166b563b"
- ],
+ "new_ids": [],
  "records": [
   {
    "id": "bda-662be994-d070-43d3-a1c3-fa927fd1fe62",
@@ -1326,7 +1323,7 @@
    "verif_date": "2026-11-22",
    "preuve": "Bulletin des Adjudications, réf. PPP0AK-4822/6697/2024-0176 (attribution, sous-type eForms E4), publié le 2026-11-20.",
    "date_publication": "2026-11-20",
-   "cpv": "45262700,45432111,45442100,45421131,45262660,45421153,45421141,45421146,45410000,45214200,45400000",
+   "cpv": "45262700,45421131,45442100,45432111,45262660,45421153,45421141,45421146,45410000,45214200,45400000",
    "ted_ref": "",
    "notes": "De opdracht omvat het omvormen van de conciërgewoning tot een kantoor- spreek- en vergaderruimte: - verwijderen bestaande vloerbekleding en plinten; - afbreken enkele bestaande wanden; - uitbreken keuken/badkamer/toilet; - plaatsen nieuwe wanden in gipskarton; - plaatsen nieuwe deur; - vernieuwen vl",
    "procedure": "de119fa4-1530-4b73-8eeb-ff6ae35a8dae",
@@ -1494,7 +1491,7 @@
    "verif_date": "2026-11-22",
    "preuve": "Bulletin des Adjudications, réf. PPP00W-766/6090/OZVB/noodtrap-gevelherstel/2026/766 (avis de marché, sous-type eForms 16), publié le 2026-11-20.",
    "date_publication": "2026-11-20",
-   "cpv": "45000000,45262400,45262670",
+   "cpv": "45000000,45262670,45262400",
    "ted_ref": "",
    "notes": "Plaatsen van een noodtrap en gevelherstel",
    "procedure": "df2aa939-5271-4489-af5d-f53aa843253c",
