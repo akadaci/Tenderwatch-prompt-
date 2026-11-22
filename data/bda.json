@@ -1,13 +1,11 @@
 {
- "updated": "2026-11-22T17:01:32Z",
+ "updated": "2026-11-22T18:02:38Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
  "received": 417,
  "kept": 200,
  "count": 3589,
- "new_ids": [
-  "bda-22e26944-09b9-42b6-928e-3a58ae473881"
- ],
+ "new_ids": [],
  "records": [
   {
    "id": "bda-22e26944-09b9-42b6-928e-3a58ae473881",
@@ -1451,7 +1449,7 @@
    "verif_date": "2026-11-22",
    "preuve": "Bulletin des Adjudications, réf. PPP00W-766/6090/OZVB/noodtrap-gevelherstel/2026/766 (avis de marché, sous-type eForms 16), publié le 2026-11-20.",
    "date_publication": "2026-11-20",
-   "cpv": "45000000,45262670,45262400",
+   "cpv": "45000000,45262400,45262670",
    "ted_ref": "",
    "notes": "Plaatsen van een noodtrap en gevelherstel",
    "procedure": "df2aa939-5271-4489-af5d-f53aa843253c",
