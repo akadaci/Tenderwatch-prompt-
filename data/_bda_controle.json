@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 296574
+  "totalCount": 296578
  },
  "types": [
   "ACTIVE|10|['WORKS']",
@@ -41,323 +41,82 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45300000-0",
+     "code": "39000000-2",
      "descriptions": [
       {
        "language": "NL",
-       "text": "Installatiewerkzaamheden in de bouw"
+       "text": "Meubelen (m.i.v. kantoormeubelen), inrichtingsartikelen, huishoudelijke apparaten (uitgez. verlichting) en schoonmaakproducten"
       },
       {
        "language": "FR",
-       "text": "Travaux d'équipement du bâtiment"
+       "text": "Meubles (y compris les meubles de bureau), aménagements, appareils électroménagers (à l'exclusion de l'éclairage) et produits de nettoyage"
       },
       {
        "language": "DE",
-       "text": "Bauinstallationsarbeiten"
+       "text": "Möbel (einschließlich Büromöbel), Zubehör, Haushaltsgeräte (ausgenommen Beleuchtung) und Reinigungsmittel"
       },
       {
        "language": "EN",
-       "text": "Building installation work"
-      }
-     ]
-    },
-    {
-     "code": "45400000-1",
-     "descriptions": [
-      {
-       "language": "DE",
-       "text": "Baufertigstellung"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de parachèvement de bâtiment"
-      },
-      {
-       "language": "EN",
-       "text": "Building completion work"
-      },
-      {
-       "language": "NL",
-       "text": "Afwerking van gebouwen"
+       "text": "Furniture (incl. office furniture), furnishings, domestic appliances (excl. lighting) and cleaning products"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45400000-1",
+    "code": "39516000-2",
     "descriptions": [
      {
-      "language": "DE",
-      "text": "Baufertigstellung"
-     },
-     {
-      "language": "FR",
-      "text": "Travaux de parachèvement de bâtiment"
-     },
-     {
       "language": "EN",
-      "text": "Building completion work"
-     },
-     {
-      "language": "NL",
-      "text": "Afwerking van gebouwen"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-22",
-   "dossier": {
-    "accreditations": {
-     "D4": 1,
-     "P1": 1,
-     "D10": 1,
-     "D11": 1,
-     "D13": 1,
-     "D16": 1,
-     "D17": 1,
-     "D18": 1
-    },
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Perceel 1: Afwerking : Vernieuwen vloerafwerking; Plaatsen lichte binnenwanden; Schilderwerken; Plaatsen brandtrap; Perceel 2: Technieken HVAC en elektriciteit Plaatsen ventilatiesysteem; Vernieuwen elektrische installatie zolderklas;"
-     }
-    ],
-    "enterpriseCategories": [
-     {
-      "categoryCode": "P1",
-      "levels": [
-       1
-      ]
-     },
-     {
-      "categoryCode": "D10",
-      "levels": [
-       1
-      ]
-     },
-     {
-      "categoryCode": "D11",
-      "levels": [
-       1
-      ]
-     },
-     {
-      "categoryCode": "D13",
-      "levels": [
-       1
-      ]
-     },
-     {
-      "categoryCode": "D16",
-      "levels": [
-       1
-      ]
-     },
-     {
-      "categoryCode": "D17",
-      "levels": [
-       1
-      ]
-     },
-     {
-      "categoryCode": "D18",
-      "levels": [
-       1
-      ]
-     },
-     {
-      "categoryCode": "D4",
-      "levels": [
-       1
-      ]
-     }
-    ],
-    "legalBasis": "D24",
-    "number": "AiT_040D",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "AiT_040D",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "vbs Sint-Vincentius Geschiktmaking zolderklas"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-22",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Perceel 1: Afwerking : Vernieuwen vloerafwerking; Plaatsen lichte binnenwanden; Schilderwerken; Plaatsen brandtrap;"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "AiT_040D - P1 Afwerking"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Perceel 2: Technieken HVAC en elektriciteit Plaatsen ventilatiesysteem; Vernieuwen elektrische installatie zolderklas;"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "AiT_040D - P2 Technieken"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "WORKS"
-   ],
-   "noticeIds": [
-    "04d921de-e2a0-4c34-9ee2-e0812853fe53"
-   ],
-   "noticeSubType": "16",
-   "nutsCodes": [
-    "BE231"
-   ],
-   "organisation": {
-    "organisationId": 2380,
-    "organisationNames": [
-     {
-      "language": "DE",
-      "text": "AITarchitecten"
-     },
-     {
-      "language": "FR",
-      "text": "AITarchitecten"
-     },
-     {
-      "language": "NL",
-      "text": "AITarchitecten"
-     },
-     {
-      "language": "EN",
-      "text": "AITarchitecten"
-     }
-    ],
-    "tree": "200004.200035.2380"
-   },
-   "procedureId": "41e887f0-e675-4430-a6bc-32534ce9e816",
-   "publicationDate": "2026-11-22",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "AiT_040D_pub01"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "22e26944-09b9-42b6-928e-3a58ae473881",
-   "publishedAt": [
-    "2026-11-22T16:51:46.032932"
-   ],
-   "referenceNumber": "AiT_040D_pub01",
-   "sentAt": [
-    "2026-11-22T16:51:46.032932"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-12-14T13:00:00"
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "22000000-0",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Imprimés et produits connexes"
-      },
-      {
-       "language": "DE",
-       "text": "Drucksachen und zugehörige Erzeugnisse"
-      },
-      {
-       "language": "EN",
-       "text": "Printed matter and related products"
-      },
-      {
-       "language": "NL",
-       "text": "Drukwerk en aanverwante producten"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "22000000-0",
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Imprimés et produits connexes"
-     },
-     {
-      "language": "EN",
-      "text": "Printed matter and related products"
+      "text": "Furnishing articles"
      },
      {
       "language": "DE",
-      "text": "Drucksachen und zugehörige Erzeugnisse"
+      "text": "Innenausstattungsartikel"
+     },
+     {
+      "language": "FR",
+      "text": "Articles d'ameublement"
      },
      {
       "language": "NL",
-      "text": "Drukwerk en aanverwante producten"
+      "text": "Meubileringsartikelen"
      }
     ]
    },
-   "dispatchDate": "2026-11-21",
+   "dispatchDate": "2026-11-23",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
-      "language": "NL",
-      "text": "De stad wenst een drukker aan te stellen voor het drukken van het tweemaandelijks stadsmagazine. Het ontwerp en de opmaak worden door de stadsdiensten aangeleverd klaar voor druk."
+      "language": "FR",
+      "text": "Fourniture et placement de 50 colonnes de 3 armoires de boîtes de lettres"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP00Q-1594/6179/2026-10",
+    "number": "26M117BIS",
     "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP00Q-1594/6179/2026-10",
+    "referenceNumber": "26M117BIS",
     "titles": [
      {
-      "language": "NL",
-      "text": "Drukken van stadsmagazine"
+      "language": "FR",
+      "text": "Armoires boites aux lettres"
      }
     ]
    },
-   "insertionDate": "2026-11-21",
+   "insertionDate": "2026-11-23",
    "lots": [
     {
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Drukken van stadsmagazine"
+       "language": "FR",
+       "text": "Armoires boîtes aux lettres"
       }
      ],
      "titles": [
       {
-       "language": "NL",
-       "text": "Drukken van stadsmagazine"
+       "language": "FR",
+       "text": "26M117BIS - 1"
       }
      ]
     }
@@ -366,286 +125,134 @@
     "SUPPLIES"
    ],
    "noticeIds": [
-    "746b55ca-8144-4cb9-b4ec-71cb17fb02b8"
+    "16064fa9-673d-4093-a2cb-abbd789e1fd4"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE256"
+    "BE328"
    ],
    "organisation": {
-    "organisationId": 187,
+    "organisationId": 804,
     "organisationNames": [
      {
       "language": "DE",
-      "text": "Stad Izegem"
-     },
-     {
-      "language": "FR",
-      "text": "Izegem"
-     },
-     {
-      "language": "NL",
-      "text": "Izegem"
+      "text": "Zone de Police du Tournaisis"
      },
      {
       "language": "EN",
-      "text": "Izegem"
+      "text": "Zone de Police du Tournaisis"
+     },
+     {
+      "language": "NL",
+      "text": "Zone de Police du Tournaisis"
+     },
+     {
+      "language": "FR",
+      "text": "Zone de Police du Tournaisis"
      }
     ],
-    "tree": "200004.200021.187"
+    "tree": "200004.200024.804"
    },
-   "procedureId": "af90e347-8608-4d27-9a08-06204ae75ab1",
-   "publicationDate": "2026-11-21",
+   "procedureId": "52244981-5779-43a0-ba74-d9cf77cd3de7",
+   "publicationDate": "2026-11-23",
    "publicationLanguages": [
-    "NL"
+    "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP00Q-1594/6179/2026-10_002"
+    "26M117BIS_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "c02a7306-329d-47b5-9129-d18b2b5c247c",
+   "publicationWorkspaceId": "1f61f577-21ce-48a3-be4f-1d4e08522720",
    "publishedAt": [
-    "2026-11-21T00:00:46.021377"
+    "2026-11-23T00:00:47.229238"
    ],
-   "referenceNumber": "PPP00Q-1594/6179/2026-10_002",
+   "referenceNumber": "26M117BIS_pub01",
    "sentAt": [
-    "2026-11-21T00:00:46.021377"
+    "2026-11-23T00:00:47.229238"
    ],
    "tedPublished": false
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45000000-7",
+     "code": "44114200-4",
      "descriptions": [
       {
+       "language": "DE",
+       "text": "Betonerzeugnisse"
+      },
+      {
        "language": "NL",
-       "text": "Bouwwerkzaamheden"
+       "text": "Betonproducten"
       },
       {
        "language": "FR",
-       "text": "Travaux de construction"
+       "text": "Produits en béton"
       },
       {
        "language": "EN",
-       "text": "Construction work"
-      },
-      {
-       "language": "DE",
-       "text": "Bauarbeiten"
+       "text": "Concrete products"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45000000-7",
+    "code": "44114200-4",
     "descriptions": [
      {
       "language": "NL",
-      "text": "Bouwwerkzaamheden"
-     },
-     {
-      "language": "FR",
-      "text": "Travaux de construction"
-     },
-     {
-      "language": "EN",
-      "text": "Construction work"
+      "text": "Betonproducten"
      },
      {
       "language": "DE",
-      "text": "Bauarbeiten"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-21",
-   "dossier": {
-    "accreditations": {
-     "D": 7
-    },
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Algemene aanneming van werken omvattende onderdelen architectuur, stabiliteit, technieken en omgevingsaanleg voor het oprichten van een buitensporthal en het verbouwen en uitbreiden van een bestaande sporthal."
-     }
-    ],
-    "enterpriseCategories": [
-     {
-      "categoryCode": "D",
-      "levels": [
-       7,
-       6,
-       5,
-       4,
-       3,
-       2,
-       1
-      ]
-     }
-    ],
-    "legalBasis": "D24",
-    "number": "25-506",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "25-506",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Oprichten buitensporthal, verbouwen en uitbreiden van bestaande sporthal."
-     }
-    ]
-   },
-   "insertionDate": "2026-10-06",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Algemene aanneming bestaande uit de onderdelen architectuur, stabiliteit, technieken en omgevingsaanleg voor het oprichten van een buitensporthal en het verbouwen en uitbreiden van een bestaande sporthal."
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "25-506 - 1"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "WORKS"
-   ],
-   "noticeIds": [
-    "03e1674e-808b-463b-8bb1-bc73710d37f3",
-    "dfd9c01a-ebaf-4659-aa38-f50e0f2bc5ce",
-    "0fd3bfa6-673f-44bc-a959-e67024bfcaac"
-   ],
-   "noticeSubType": "16",
-   "nutsCodes": [
-    "BE232"
-   ],
-   "organisation": {
-    "organisationId": 24981,
-    "organisationNames": [
-     {
-      "language": "NL",
-      "text": "Vzw Mariagaard"
-     }
-    ],
-    "tree": "200004.200026.24981"
-   },
-   "procedureId": "3c6cfe99-2c76-40dc-8886-f8ce1ed0f76f",
-   "publicationDate": "2026-11-21",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "25-506_pub01"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "14e9b4d7-50fa-41c8-9733-3d93707b70fd",
-   "publishedAt": [
-    "2026-10-06T00:00:46.978386",
-    "2026-11-21T14:13:46.128963",
-    "2026-10-26T07:35:45.014415"
-   ],
-   "referenceNumber": "25-506_pub01",
-   "sentAt": [
-    "2026-10-06T00:00:46.978386",
-    "2026-11-21T14:13:46.128963",
-    "2026-10-26T07:35:45.014415"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-12-11T11:00:00"
-  }
- ],
- "exemple_attribution": [
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "22000000-0",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Imprimés et produits connexes"
-      },
-      {
-       "language": "DE",
-       "text": "Drucksachen und zugehörige Erzeugnisse"
-      },
-      {
-       "language": "EN",
-       "text": "Printed matter and related products"
-      },
-      {
-       "language": "NL",
-       "text": "Drukwerk en aanverwante producten"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "22000000-0",
-    "descriptions": [
+      "text": "Betonerzeugnisse"
+     },
      {
       "language": "FR",
-      "text": "Imprimés et produits connexes"
+      "text": "Produits en béton"
      },
      {
       "language": "EN",
-      "text": "Printed matter and related products"
-     },
-     {
-      "language": "DE",
-      "text": "Drucksachen und zugehörige Erzeugnisse"
-     },
-     {
-      "language": "NL",
-      "text": "Drukwerk en aanverwante producten"
+      "text": "Concrete products"
      }
     ]
    },
-   "dispatchDate": "2026-11-21",
+   "dispatchDate": "2026-11-23",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
       "language": "NL",
-      "text": "De stad wenst een drukker aan te stellen voor het drukken van het tweemaandelijks stadsmagazine. Het ontwerp en de opmaak worden door de stadsdiensten aangeleverd klaar voor druk."
+      "text": "RO - Leveren van ossuariums en urnenkelders"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP00Q-1594/6179/2026-10",
+    "number": "PPP02P-2482/6217/2026-578",
     "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP00Q-1594/6179/2026-10",
+    "referenceNumber": "PPP02P-2482/6217/2026-578",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
       "language": "NL",
-      "text": "Drukken van stadsmagazine"
+      "text": "RO - Leveren van ossuariums en urnenkelders"
      }
     ]
    },
-   "insertionDate": "2026-11-21",
+   "insertionDate": "2026-11-23",
    "lots": [
     {
      "descriptions": [
       {
        "language": "NL",
-       "text": "Drukken van stadsmagazine"
+       "text": "RO - Leveren van ossuariums en urnenkelders"
       }
      ],
      "titles": [
       {
        "language": "NL",
-       "text": "Drukken van stadsmagazine"
+       "text": "RO - Leveren van ossuariums en urnenkelders"
       }
      ]
     }
@@ -654,51 +261,352 @@
     "SUPPLIES"
    ],
    "noticeIds": [
-    "746b55ca-8144-4cb9-b4ec-71cb17fb02b8"
+    "d7bd077d-6b89-459b-933e-a761006a6a68"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE256"
+    "BE213"
    ],
    "organisation": {
-    "organisationId": 187,
+    "organisationId": 282,
     "organisationNames": [
      {
-      "language": "DE",
-      "text": "Stad Izegem"
+      "language": "NL",
+      "text": "Geel"
      },
      {
       "language": "FR",
-      "text": "Izegem"
+      "text": "Geel"
      },
      {
-      "language": "NL",
-      "text": "Izegem"
+      "language": "DE",
+      "text": "Geel"
      },
      {
       "language": "EN",
-      "text": "Izegem"
+      "text": "Geel"
      }
     ],
-    "tree": "200004.200021.187"
+    "tree": "200004.200021.282"
    },
-   "procedureId": "af90e347-8608-4d27-9a08-06204ae75ab1",
-   "publicationDate": "2026-11-21",
+   "procedureId": "89169946-c1a8-4471-bb0a-e34b4bc8aae1",
+   "publicationDate": "2026-11-23",
    "publicationLanguages": [
     "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP00Q-1594/6179/2026-10_002"
+    "PPP02P-2482/6217/2026-578_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "c02a7306-329d-47b5-9129-d18b2b5c247c",
+   "publicationWorkspaceId": "662be994-d070-43d3-a1c3-fa927fd1fe62",
    "publishedAt": [
-    "2026-11-21T00:00:46.021377"
+    "2026-11-23T00:00:46.665916"
    ],
-   "referenceNumber": "PPP00Q-1594/6179/2026-10_002",
+   "referenceNumber": "PPP02P-2482/6217/2026-578_002",
    "sentAt": [
-    "2026-11-21T00:00:46.021377"
+    "2026-11-23T00:00:46.665916"
+   ],
+   "tedPublished": false
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "44110000-4",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Constructiematerialen"
+      },
+      {
+       "language": "FR",
+       "text": "Matériaux de construction"
+      },
+      {
+       "language": "DE",
+       "text": "Baustoffe"
+      },
+      {
+       "language": "EN",
+       "text": "Construction materials"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "44110000-4",
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Constructiematerialen"
+     },
+     {
+      "language": "FR",
+      "text": "Matériaux de construction"
+     },
+     {
+      "language": "DE",
+      "text": "Baustoffe"
+     },
+     {
+      "language": "EN",
+      "text": "Construction materials"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-23",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Acquisition de matériaux et produits de construction - Marché stock 2026"
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP0DT-439/6148/2026/17",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP0DT-439/6148/2026/17",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Acquisition de matériaux et produits de construction - Marché stock 2026"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-23",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Fourniture de matériaux de centrale à béton"
+      }
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Fourniture de matériaux de centrale à béton"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Fourniture de matériaux de carrière"
+      }
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Fourniture de matériaux de carrière"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Fourniture de matériaux de construction"
+      }
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Fourniture de matériaux de construction"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SUPPLIES"
+   ],
+   "noticeIds": [
+    "ee436448-db5c-4b78-9580-1f67a38c10a6"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE310"
+   ],
+   "organisation": {
+    "organisationId": 843,
+    "organisationNames": [
+     {
+      "language": "FR",
+      "text": "Chastre"
+     },
+     {
+      "language": "DE",
+      "text": "Chastre"
+     },
+     {
+      "language": "EN",
+      "text": "Chastre"
+     },
+     {
+      "language": "NL",
+      "text": "Chastre"
+     }
+    ],
+    "tree": "200004.200021.843"
+   },
+   "procedureId": "dfe319f1-9e3f-4114-ac1a-580ead1c3d81",
+   "publicationDate": "2026-11-23",
+   "publicationLanguages": [
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP0DT-439/6148/2026/17_002"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "5e9458c6-b83a-4182-ba00-a3f1166b563b",
+   "publishedAt": [
+    "2026-11-23T00:00:46.015957"
+   ],
+   "referenceNumber": "PPP0DT-439/6148/2026/17_002",
+   "sentAt": [
+    "2026-11-23T00:00:46.015957"
+   ],
+   "tedPublished": false
+  }
+ ],
+ "exemple_attribution": [
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "39000000-2",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Meubelen (m.i.v. kantoormeubelen), inrichtingsartikelen, huishoudelijke apparaten (uitgez. verlichting) en schoonmaakproducten"
+      },
+      {
+       "language": "FR",
+       "text": "Meubles (y compris les meubles de bureau), aménagements, appareils électroménagers (à l'exclusion de l'éclairage) et produits de nettoyage"
+      },
+      {
+       "language": "DE",
+       "text": "Möbel (einschließlich Büromöbel), Zubehör, Haushaltsgeräte (ausgenommen Beleuchtung) und Reinigungsmittel"
+      },
+      {
+       "language": "EN",
+       "text": "Furniture (incl. office furniture), furnishings, domestic appliances (excl. lighting) and cleaning products"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "39516000-2",
+    "descriptions": [
+     {
+      "language": "EN",
+      "text": "Furnishing articles"
+     },
+     {
+      "language": "DE",
+      "text": "Innenausstattungsartikel"
+     },
+     {
+      "language": "FR",
+      "text": "Articles d'ameublement"
+     },
+     {
+      "language": "NL",
+      "text": "Meubileringsartikelen"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-23",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Fourniture et placement de 50 colonnes de 3 armoires de boîtes de lettres"
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "26M117BIS",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "26M117BIS",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Armoires boites aux lettres"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-23",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Armoires boîtes aux lettres"
+      }
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "26M117BIS - 1"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SUPPLIES"
+   ],
+   "noticeIds": [
+    "16064fa9-673d-4093-a2cb-abbd789e1fd4"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE328"
+   ],
+   "organisation": {
+    "organisationId": 804,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "Zone de Police du Tournaisis"
+     },
+     {
+      "language": "EN",
+      "text": "Zone de Police du Tournaisis"
+     },
+     {
+      "language": "NL",
+      "text": "Zone de Police du Tournaisis"
+     },
+     {
+      "language": "FR",
+      "text": "Zone de Police du Tournaisis"
+     }
+    ],
+    "tree": "200004.200024.804"
+   },
+   "procedureId": "52244981-5779-43a0-ba74-d9cf77cd3de7",
+   "publicationDate": "2026-11-23",
+   "publicationLanguages": [
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "26M117BIS_pub01"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "1f61f577-21ce-48a3-be4f-1d4e08522720",
+   "publishedAt": [
+    "2026-11-23T00:00:47.229238"
+   ],
+   "referenceNumber": "26M117BIS_pub01",
+   "sentAt": [
+    "2026-11-23T00:00:47.229238"
    ],
    "tedPublished": false
   }
