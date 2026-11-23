@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 296727
+  "totalCount": 296753
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -10,7 +10,6 @@
   "ACTIVE|16|['SUPPLIES']",
   "ACTIVE|16|['WORKS']",
   "ACTIVE|17|['SERVICES']",
-  "ACTIVE|17|['SUPPLIES']",
   "ACTIVE|17|['WORKS']",
   "ACTIVE|19|['SERVICES']",
   "ACTIVE|20|['SERVICES']",
