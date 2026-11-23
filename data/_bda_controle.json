@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 296645
+  "totalCount": 296659
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -10,7 +10,6 @@
   "ACTIVE|16|['SUPPLIES']",
   "ACTIVE|16|['WORKS']",
   "ACTIVE|17|['SERVICES']",
-  "ACTIVE|17|['SUPPLIES']",
   "ACTIVE|17|['WORKS']",
   "ACTIVE|19|['SERVICES']",
   "ACTIVE|20|['SERVICES']",
@@ -34,180 +33,45 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "39000000-2",
+     "code": "33155000-1",
      "descriptions": [
       {
        "language": "NL",
-       "text": "Meubelen (m.i.v. kantoormeubelen), inrichtingsartikelen, huishoudelijke apparaten (uitgez. verlichting) en schoonmaakproducten"
-      },
-      {
-       "language": "FR",
-       "text": "Meubles (y compris les meubles de bureau), aménagements, appareils électroménagers (à l'exclusion de l'éclairage) et produits de nettoyage"
+       "text": "Apparatuur voor fysiotherapie"
       },
       {
        "language": "DE",
-       "text": "Möbel (einschließlich Büromöbel), Zubehör, Haushaltsgeräte (ausgenommen Beleuchtung) und Reinigungsmittel"
+       "text": "Ausrüstung für Physiotherapie"
+      },
+      {
+       "language": "FR",
+       "text": "Équipement de physiothérapie"
       },
       {
        "language": "EN",
-       "text": "Furniture (incl. office furniture), furnishings, domestic appliances (excl. lighting) and cleaning products"
+       "text": "Physical therapy devices"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "39516000-2",
-    "descriptions": [
-     {
-      "language": "EN",
-      "text": "Furnishing articles"
-     },
-     {
-      "language": "DE",
-      "text": "Innenausstattungsartikel"
-     },
-     {
-      "language": "FR",
-      "text": "Articles d'ameublement"
-     },
-     {
-      "language": "NL",
-      "text": "Meubileringsartikelen"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-23",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Fourniture et placement de 50 colonnes de 3 armoires de boîtes de lettres"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "26M117BIS",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "26M117BIS",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "Armoires boites aux lettres"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-23",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Armoires boîtes aux lettres"
-      }
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "26M117BIS - 1"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SUPPLIES"
-   ],
-   "noticeIds": [
-    "16064fa9-673d-4093-a2cb-abbd789e1fd4"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE328"
-   ],
-   "organisation": {
-    "organisationId": 804,
-    "organisationNames": [
-     {
-      "language": "DE",
-      "text": "Zone de Police du Tournaisis"
-     },
-     {
-      "language": "EN",
-      "text": "Zone de Police du Tournaisis"
-     },
-     {
-      "language": "NL",
-      "text": "Zone de Police du Tournaisis"
-     },
-     {
-      "language": "FR",
-      "text": "Zone de Police du Tournaisis"
-     }
-    ],
-    "tree": "200004.200024.804"
-   },
-   "procedureId": "52244981-5779-43a0-ba74-d9cf77cd3de7",
-   "publicationDate": "2026-11-23",
-   "publicationLanguages": [
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "26M117BIS_pub01"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "1f61f577-21ce-48a3-be4f-1d4e08522720",
-   "publishedAt": [
-    "2026-11-23T00:00:47.229238"
-   ],
-   "referenceNumber": "26M117BIS_pub01",
-   "sentAt": [
-    "2026-11-23T00:00:47.229238"
-   ],
-   "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "44114200-4",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Betonproducten"
-      },
-      {
-       "language": "DE",
-       "text": "Betonerzeugnisse"
-      },
-      {
-       "language": "FR",
-       "text": "Produits en béton"
-      },
-      {
-       "language": "EN",
-       "text": "Concrete products"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "44114200-4",
+    "code": "33155000-1",
     "descriptions": [
      {
       "language": "NL",
-      "text": "Betonproducten"
+      "text": "Apparatuur voor fysiotherapie"
      },
      {
       "language": "DE",
-      "text": "Betonerzeugnisse"
+      "text": "Ausrüstung für Physiotherapie"
      },
      {
       "language": "FR",
-      "text": "Produits en béton"
+      "text": "Équipement de physiothérapie"
      },
      {
       "language": "EN",
-      "text": "Concrete products"
+      "text": "Physical therapy devices"
      }
     ]
    },
@@ -217,19 +81,18 @@
     "descriptions": [
      {
       "language": "NL",
-      "text": "RO - Leveren van ossuariums en urnenkelders"
+      "text": "Deze opdpracht omvat de Aankoop, levering en installatie van een isokinetisch krachttoestel.  Deze opdracht heeft als doel de aankoop, levering en installatie van een isokinetisch krachttoestel.  Tevens inbegrepen in de opdracht: - alle hierbij noodzakelijke technische en gebruikersopleidingen, - alle noodzakelijke toebehoren en accessoires, - een preventief onderhoudscontract, - alle noodzakelijke IT-koppelingen, - ... "
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP02P-2482/6217/2026-578",
+    "number": "PPP0VJ-984/6550/2026/WL/MD/063",
     "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP02P-2482/6217/2026-578",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "referenceNumber": "PPP0VJ-984/6550/2026/WL/MD/063",
     "titles": [
      {
       "language": "NL",
-      "text": "RO - Leveren van ossuariums en urnenkelders"
+      "text": "Aankoop, levering en installatie van een isokinetisch krachttoestel + onderhoudscontract"
      }
     ]
    },
@@ -239,13 +102,13 @@
      "descriptions": [
       {
        "language": "NL",
-       "text": "RO - Leveren van ossuariums en urnenkelders"
+       "text": "Deze opdpracht omvat de Aankoop, levering en installatie van een isokinetisch krachttoestel.  Deze opdracht heeft als doel de aankoop, levering en installatie van een isokinetisch krachttoestel.  Tevens inbegrepen in de opdracht: - alle hierbij noodzakelijke technische en gebruikersopleidingen, - alle noodzakelijke toebehoren en accessoires, - een preventief onderhoudscontract, - alle noodzakelijke IT-koppelingen, - ... "
       }
      ],
      "titles": [
       {
        "language": "NL",
-       "text": "RO - Leveren van ossuariums en urnenkelders"
+       "text": "Aankoop, levering en installatie van een isokinetisch krachttoestel + onderhoudscontract"
       }
      ]
     }
@@ -254,151 +117,116 @@
     "SUPPLIES"
    ],
    "noticeIds": [
-    "d7bd077d-6b89-459b-933e-a761006a6a68"
+    "a10a91e5-8e81-4124-816d-309d5d8c2fa3"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE213"
+    "BE231"
    ],
    "organisation": {
-    "organisationId": 282,
+    "organisationId": 32921,
     "organisationNames": [
      {
       "language": "NL",
-      "text": "Geel"
-     },
-     {
-      "language": "FR",
-      "text": "Geel"
-     },
-     {
-      "language": "DE",
-      "text": "Geel"
-     },
-     {
-      "language": "EN",
-      "text": "Geel"
+      "text": "AZORG vzw"
      }
     ],
-    "tree": "200004.200021.282"
+    "tree": "200004.200027.32921"
    },
-   "procedureId": "89169946-c1a8-4471-bb0a-e34b4bc8aae1",
+   "procedureId": "aaecb0b7-3467-4673-ac11-de7e01eae06c",
    "publicationDate": "2026-11-23",
    "publicationLanguages": [
     "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP02P-2482/6217/2026-578_002"
+    "PPP0VJ-984/6550/2026/WL/MD/063_003"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "662be994-d070-43d3-a1c3-fa927fd1fe62",
+   "publicationWorkspaceId": "699a2a20-8026-49ef-9110-7da752c9e96c",
    "publishedAt": [
-    "2026-11-23T00:00:46.665916"
+    "2026-11-23T07:45:46.013289"
    ],
-   "referenceNumber": "PPP02P-2482/6217/2026-578_002",
+   "referenceNumber": "PPP0VJ-984/6550/2026/WL/MD/063_003",
    "sentAt": [
-    "2026-11-23T00:00:46.665916"
+    "2026-11-23T07:45:46.013289"
    ],
    "tedPublished": false
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45000000-7",
+     "code": "18110000-3",
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Bouwwerkzaamheden"
+       "language": "DE",
+       "text": "Berufskleidung"
       },
       {
        "language": "FR",
-       "text": "Travaux de construction"
+       "text": "Vêtements professionnels"
+      },
+      {
+       "language": "NL",
+       "text": "Beroepskleding"
       },
       {
        "language": "EN",
-       "text": "Construction work"
-      },
-      {
-       "language": "DE",
-       "text": "Bauarbeiten"
+       "text": "Occupational clothing"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45000000-7",
+    "code": "18110000-3",
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Bouwwerkzaamheden"
+      "language": "DE",
+      "text": "Berufskleidung"
      },
      {
       "language": "FR",
-      "text": "Travaux de construction"
+      "text": "Vêtements professionnels"
+     },
+     {
+      "language": "NL",
+      "text": "Beroepskleding"
      },
      {
       "language": "EN",
-      "text": "Construction work"
-     },
-     {
-      "language": "DE",
-      "text": "Bauarbeiten"
+      "text": "Occupational clothing"
      }
     ]
    },
    "dispatchDate": "2026-11-23",
    "dossier": {
-    "accreditations": {
-     "C": 4
-    },
+    "accreditations": {},
     "descriptions": [
      {
       "language": "NL",
-      "text": "Het geheel der werken die uit te voeren zijn in het kader van huidige opdracht, omvat alle nodige prestaties voor het uitvoeren van kleine, lokale herstellingen aan de voetpaden en de rijwegen op het volledige grondgebied van de Stad Brussel tijdens een initiële periode van 24 maanden. De uit te voeren werkzaamheden bestaan hoofdzakelijk uit het herstellen van plaatselijke gebreken (oppervlakte, over het algemeen, kleiner dan of gelijk aan 100 m²) die op het wegdek zijn vastgesteld (verzakkingen, kuilen, nivellering van stoepranden of tegels, enz.), het vervangen van een afvoer of straatmeubilair en nog andere logistieke ingrepen die nodig zijn in het kader van het beheer en onderhoud van de wegen. "
-     },
-     {
-      "language": "FR",
-      "text": "L’ensemble des travaux qui sont à exécuter dans le cadre du présent marché comprend toutes les prestations nécessaires pour la pose et l’entretien local des revêtements de voirie et de trottoirs en asphalte, en pavés et en dalles sur le territoire de la Ville de Bruxelles pendant une durée initiale de 24 mois. Les travaux à exécuter consistent principalement en la réparation des défectuosités locales (surface généralement inférieure ou égale à 100 m²) constatées en voirie (affaissements, nids de poule, la mise à niveau de bordure ou de taques, etc…), le remplacement d’un avaloir ou de mobilier urbain et encore d’autres interventions logistiques nécessaires dans le cadre de la gestion et de l’entretien des voiries.  "
+      "text": "De aanbestedende overheid wenst zijn onthaalmedewerkers op de 4 campussen te voorzien van een nieuwe, hedendaagse maar stijlvolle outfit.  De onthaalmedewerkers zijn het eerste aanspreekpunt voor bezoekers aan ons ziekenhuis. Hierdoor hechten we veel belang aan een verzorgd en stijlvol voorkomen van deze onthaalmedewerkers. De kledij maakt een groot deel uit van de eerste indruk die de bezoeker krijgt.  We wensen onze medewerkers te voorzien van een stijlvolle outfit met de eigenschappen beschreven in de technische bepalingen en waarvan het ontwerp door de inschrijver wordt bepaald. We wensen een eenvoudig ontwerp dat past bij de huisstijl van het ziekenhuis met enkele subtiele accenten.   Op vandaag wordt de functie van onthaalmedewerker voornamelijk ingevuld door vrouwelijke medewerkers. Het aangeboden assortiment dient minimaal de in dit bestek vermelde modellen en maten te omvatten. De opdrachtnemer behoudt zich het recht voor gedurende de volledige looptijd kleding te bestellen voor alle medewerkers, ongeacht geslacht of lichaamsbouw.  Alle onthaalmedewerkers moeten zich steeds comfortabel voelen in hun werkkledij.  Gezien de personeelsbezetting een dynamisch gegeven is, zijn we op zoek naar een outfit die snel leverbaar is en die door de opdrachtnemer via eenvoudige retouches kan aangepast worden op maat van de werknemer. "
      }
     ],
-    "enterpriseCategories": [
-     {
-      "categoryCode": "C",
-      "levels": [
-       4,
-       3,
-       2,
-       1
-      ]
-     }
-    ],
+    "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "EPV/2026/04/TP",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "EPV/2026/04/TP",
+    "number": "PPP09K-4376/6453/AZD_26_457",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "PPP09K-4376/6453/AZD_26_457",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
-      "language": "FR",
-      "text": "Marché public de travaux à bordereau de prix et reconductible, relatif à l’exécution de petites réparations locales des revêtements de voirie et des trottoirs sur le territoire de la Ville de Bruxelles pour une durée initiale de 24 mois."
-     },
-     {
       "language": "NL",
-      "text": "Overheidsopdracht voor werken tegen prijslijst en verlengbaar, met betrekking tot het uitvoeren van plaatselijke herstellingswerken aan de bekleding van de wegen en de voetpaden op het grondgebied van de Stad Brussel gedurende een oorspronkelijke periode van 24 maand"
+      "text": "Raamcontract kledij onthaalmedewerkers"
      }
     ]
    },
-   "insertionDate": "2026-11-23",
+   "insertionDate": "2026-10-28",
    "lots": [
     {
      "descriptions": [
       {
        "language": "NL",
-       "text": "Het geheel der werken die uit te voeren zijn in het kader van huidige opdracht, omvat alle nodige prestaties voor het uitvoeren van kleine, lokale herstellingen aan de voetpaden en de rijwegen op het volledige grondgebied van de Stad Brussel tijdens een initiële periode van 24 maanden. De uit te voeren werkzaamheden bestaan hoofdzakelijk uit het herstellen van plaatselijke gebreken (oppervlakte, over het algemeen, kleiner dan of gelijk aan 100 m²) die op het wegdek zijn vastgesteld (verzakkingen, kuilen, nivellering van stoepranden of tegels, enz.), het vervangen van een afvoer of straatmeubilair en nog andere logistieke ingrepen die nodig zijn in het kader van het beheer en onderhoud van de wegen. "
-      },
-      {
-       "language": "FR",
-       "text": "L’ensemble des travaux qui sont à exécuter dans le cadre du présent marché comprend toutes les prestations nécessaires pour la pose et l’entretien local des revêtements de voirie et de trottoirs en asphalte, en pavés et en dalles sur le territoire de la Ville de Bruxelles pendant une durée initiale de 24 mois. Les travaux à exécuter consistent principalement en la réparation des défectuosités locales (surface généralement inférieure ou égale à 100 m²) constatées en voirie (affaissements, nids de poule, la mise à niveau de bordure ou de taques, etc…), le remplacement d’un avaloir ou de mobilier urbain et encore d’autres interventions logistiques nécessaires dans le cadre de la gestion et de l’entretien des voiries.  "
+       "text": "De aanbestedende overheid wenst zijn onthaalmedewerkers op de 4 campussen te voorzien van een nieuwe, hedendaagse maar stijlvolle outfit.  De onthaalmedewerkers zijn het eerste aanspreekpunt voor bezoekers aan ons ziekenhuis. Hierdoor hechten we veel belang aan een verzorgd en stijlvol voorkomen van deze onthaalmedewerkers. De kledij maakt een groot deel uit van de eerste indruk die de bezoeker krijgt.  We wensen onze medewerkers te voorzien van een stijlvolle outfit met de eigenschappen beschreven in de technische bepalingen en waarvan het ontwerp door de inschrijver wordt bepaald. We wensen een eenvoudig ontwerp dat past bij de huisstijl van het ziekenhuis met enkele subtiele accenten.   Op vandaag wordt de functie van onthaalmedewerker voornamelijk ingevuld door vrouwelijke medewerkers. Het aangeboden assortiment dient minimaal de in dit bestek vermelde modellen en maten te omvatten. De opdrachtnemer behoudt zich het recht voor gedurende de volledige looptijd kleding te bestellen voor alle medewerkers, ongeacht geslacht of lichaamsbouw.  Alle onthaalmedewerkers moeten zich steeds comfortabel voelen in hun werkkledij.  Gezien de personeelsbezetting een dynamisch gegeven is, zijn we op zoek naar een outfit die snel leverbaar is en die door de opdrachtnemer via eenvoudige retouches kan aangepast worden op maat van de werknemer. "
       }
      ],
      "reservedExecution": [
@@ -409,150 +237,8 @@
      ],
      "titles": [
       {
-       "language": "FR",
-       "text": "EPV/2026/04/TP - 1"
-      },
-      {
        "language": "NL",
-       "text": "EPV/2026/04/TP - 1"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "WORKS"
-   ],
-   "noticeIds": [
-    "ad0e402e-5f33-4351-b0ad-09796811704c"
-   ],
-   "noticeSubType": "29",
-   "nutsCodes": [
-    "BE100"
-   ],
-   "organisation": {
-    "organisationId": 4720,
-    "organisationNames": [
-     {
-      "language": "DE",
-      "text": "Ville de Bruxelles- Département Travaux de Voirie"
-     },
-     {
-      "language": "EN",
-      "text": "Ville de Bruxelles- Département Travaux de Voirie"
-     },
-     {
-      "language": "FR",
-      "text": "Ville de Bruxelles- Département Espaces publics et verts"
-     },
-     {
-      "language": "NL",
-      "text": "Stad Brussel - Departement Openbare en groene ruimten"
-     }
-    ],
-    "tree": "200004.200021.48.4720"
-   },
-   "procedureId": "19515d69-b39c-4871-9285-28c6d20dc030",
-   "publicationDate": "2026-11-23",
-   "publicationLanguages": [
-    "NL",
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "EPV/2026/04/TP_pub02"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "eebcfb7d-5104-4eee-bd6e-55d27714680a",
-   "publishedAt": [
-    "2026-11-23T02:25:46.019654"
-   ],
-   "referenceNumber": "EPV/2026/04/TP_pub02",
-   "sentAt": [
-    "2026-11-23T02:25:46.019654"
-   ],
-   "tedPublished": false
-  }
- ],
- "exemple_attribution": [
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "39000000-2",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Meubelen (m.i.v. kantoormeubelen), inrichtingsartikelen, huishoudelijke apparaten (uitgez. verlichting) en schoonmaakproducten"
-      },
-      {
-       "language": "FR",
-       "text": "Meubles (y compris les meubles de bureau), aménagements, appareils électroménagers (à l'exclusion de l'éclairage) et produits de nettoyage"
-      },
-      {
-       "language": "DE",
-       "text": "Möbel (einschließlich Büromöbel), Zubehör, Haushaltsgeräte (ausgenommen Beleuchtung) und Reinigungsmittel"
-      },
-      {
-       "language": "EN",
-       "text": "Furniture (incl. office furniture), furnishings, domestic appliances (excl. lighting) and cleaning products"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "39516000-2",
-    "descriptions": [
-     {
-      "language": "EN",
-      "text": "Furnishing articles"
-     },
-     {
-      "language": "DE",
-      "text": "Innenausstattungsartikel"
-     },
-     {
-      "language": "FR",
-      "text": "Articles d'ameublement"
-     },
-     {
-      "language": "NL",
-      "text": "Meubileringsartikelen"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-23",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Fourniture et placement de 50 colonnes de 3 armoires de boîtes de lettres"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "26M117BIS",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "26M117BIS",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "Armoires boites aux lettres"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-23",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Armoires boîtes aux lettres"
-      }
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "26M117BIS - 1"
+       "text": "Raamcontract kledij onthaalmedewerkers"
       }
      ]
     }
@@ -561,51 +247,348 @@
     "SUPPLIES"
    ],
    "noticeIds": [
-    "16064fa9-673d-4093-a2cb-abbd789e1fd4"
+    "129d57e3-3081-48eb-ba20-34128af6570f",
+    "c1103165-d1dc-4f74-91b6-f1d0dc558175"
    ],
-   "noticeSubType": "E4",
+   "noticeSubType": "16",
    "nutsCodes": [
-    "BE328"
+    "BE251",
+    "BE256",
+    "BE254"
    ],
    "organisation": {
-    "organisationId": 804,
+    "organisationId": 2057,
     "organisationNames": [
      {
-      "language": "DE",
-      "text": "Zone de Police du Tournaisis"
-     },
-     {
-      "language": "EN",
-      "text": "Zone de Police du Tournaisis"
-     },
-     {
       "language": "NL",
-      "text": "Zone de Police du Tournaisis"
+      "text": "AZ DELTA"
      },
      {
       "language": "FR",
-      "text": "Zone de Police du Tournaisis"
+      "text": "AZ DELTA"
+     },
+     {
+      "language": "DE",
+      "text": "AZ DELTA"
+     },
+     {
+      "language": "EN",
+      "text": "AZ DELTA"
      }
     ],
-    "tree": "200004.200024.804"
+    "tree": "200004.200027.2057"
    },
-   "procedureId": "52244981-5779-43a0-ba74-d9cf77cd3de7",
+   "procedureId": "4b4c01ee-1db7-49a5-91db-7cec2a927643",
    "publicationDate": "2026-11-23",
    "publicationLanguages": [
-    "FR"
+    "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "26M117BIS_pub01"
+    "PPP09K-4376/6453/AZD_26_457_001"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "1f61f577-21ce-48a3-be4f-1d4e08522720",
+   "publicationWorkspaceId": "00c6f6d5-635a-4537-8066-965518972fa1",
    "publishedAt": [
-    "2026-11-23T00:00:47.229238"
+    "2026-11-23T08:16:46.013741",
+    "2026-10-28T14:58:46.238248"
    ],
-   "referenceNumber": "26M117BIS_pub01",
+   "referenceNumber": "PPP09K-4376/6453/AZD_26_457_001",
    "sentAt": [
-    "2026-11-23T00:00:47.229238"
+    "2026-11-23T08:16:46.013741",
+    "2026-10-28T14:58:46.238248"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-11-30T10:00:00"
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45454100-5",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Travaux de réfection"
+      },
+      {
+       "language": "EN",
+       "text": "Restoration work"
+      },
+      {
+       "language": "NL",
+       "text": "Restauratiewerkzaamheden"
+      },
+      {
+       "language": "DE",
+       "text": "Mit Instandsetzungsarbeiten verbundene Arbeiten"
+      }
+     ]
+    },
+    {
+     "code": "45442100-8",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Anstricharbeiten"
+      },
+      {
+       "language": "NL",
+       "text": "Schilderwerk"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de peinture"
+      },
+      {
+       "language": "EN",
+       "text": "Painting work"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45454100-5",
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Travaux de réfection"
+     },
+     {
+      "language": "EN",
+      "text": "Restoration work"
+     },
+     {
+      "language": "NL",
+      "text": "Restauratiewerkzaamheden"
+     },
+     {
+      "language": "DE",
+      "text": "Mit Instandsetzungsarbeiten verbundene Arbeiten"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-23",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "De werken omvatten het herschilderen van de trouwzaal, met inbegrip van de beperkte restauratie van vrijleggingen en de gedeeltelijke reconstructie van de 19de-eeuwse polychromie. Daarnaast omvat het dossier een aantal werken die tot doel hebben schade aan de schilderwerken in de nabije toekomst te voorkomen. Het betreft onder meer het herstel van balkkoppen, bakgoten, baksteenmetselwerk en voegwerk van de toren., … "
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP009-3677/6420/2026/031aa",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "PPP009-3677/6420/2026/031aa",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Neogotisch stadhuis: uitvoeren schilder- en restauratiewerken trouwzaal"
+     }
+    ]
+   },
+   "insertionDate": "2026-10-05",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "De werken omvatten het herschilderen van de trouwzaal, met inbegrip van de beperkte restauratie van vrijleggingen en de gedeeltelijke reconstructie van de 19de-eeuwse polychromie. Daarnaast omvat het dossier een aantal werken die tot doel hebben schade aan de schilderwerken in de nabije toekomst te voorkomen. Het betreft onder meer het herstel van balkkoppen, bakgoten, baksteenmetselwerk en voegwerk van de toren., … "
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Neogotisch stadhuis: uitvoeren schilder- en restauratiewerken trouwzaal"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "0866015c-584f-4ca6-9a77-777222e35025",
+    "4c606b9d-87e7-4518-bc85-80cbe0d433ec"
+   ],
+   "noticeSubType": "16",
+   "nutsCodes": [
+    "BE236"
+   ],
+   "organisation": {
+    "organisationId": 338,
+    "organisationNames": [
+     {
+      "language": "EN",
+      "text": "Sint-Niklaas"
+     },
+     {
+      "language": "NL",
+      "text": "Sint-Niklaas"
+     },
+     {
+      "language": "FR",
+      "text": "Sint-Niklaas"
+     },
+     {
+      "language": "DE",
+      "text": "Sint-Niklaas"
+     }
+    ],
+    "tree": "200004.200021.338"
+   },
+   "procedureId": "d669e641-6d2a-420c-b40b-88dc1149cd4e",
+   "publicationDate": "2026-11-23",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP009-3677/6420/2026/031aa_001"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "4eb64abf-da82-41e7-8531-9d5476b888d0",
+   "publishedAt": [
+    "2026-10-05T08:21:46.012753",
+    "2026-11-23T08:07:45.021756"
+   ],
+   "referenceNumber": "PPP009-3677/6420/2026/031aa_001",
+   "sentAt": [
+    "2026-10-05T08:21:46.012753",
+    "2026-11-23T08:07:45.021756"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-11-27T10:00:00"
+  }
+ ],
+ "exemple_attribution": [
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "33155000-1",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Apparatuur voor fysiotherapie"
+      },
+      {
+       "language": "DE",
+       "text": "Ausrüstung für Physiotherapie"
+      },
+      {
+       "language": "FR",
+       "text": "Équipement de physiothérapie"
+      },
+      {
+       "language": "EN",
+       "text": "Physical therapy devices"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "33155000-1",
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Apparatuur voor fysiotherapie"
+     },
+     {
+      "language": "DE",
+      "text": "Ausrüstung für Physiotherapie"
+     },
+     {
+      "language": "FR",
+      "text": "Équipement de physiothérapie"
+     },
+     {
+      "language": "EN",
+      "text": "Physical therapy devices"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-23",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Deze opdpracht omvat de Aankoop, levering en installatie van een isokinetisch krachttoestel.  Deze opdracht heeft als doel de aankoop, levering en installatie van een isokinetisch krachttoestel.  Tevens inbegrepen in de opdracht: - alle hierbij noodzakelijke technische en gebruikersopleidingen, - alle noodzakelijke toebehoren en accessoires, - een preventief onderhoudscontract, - alle noodzakelijke IT-koppelingen, - ... "
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP0VJ-984/6550/2026/WL/MD/063",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP0VJ-984/6550/2026/WL/MD/063",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Aankoop, levering en installatie van een isokinetisch krachttoestel + onderhoudscontract"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-23",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Deze opdpracht omvat de Aankoop, levering en installatie van een isokinetisch krachttoestel.  Deze opdracht heeft als doel de aankoop, levering en installatie van een isokinetisch krachttoestel.  Tevens inbegrepen in de opdracht: - alle hierbij noodzakelijke technische en gebruikersopleidingen, - alle noodzakelijke toebehoren en accessoires, - een preventief onderhoudscontract, - alle noodzakelijke IT-koppelingen, - ... "
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Aankoop, levering en installatie van een isokinetisch krachttoestel + onderhoudscontract"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SUPPLIES"
+   ],
+   "noticeIds": [
+    "a10a91e5-8e81-4124-816d-309d5d8c2fa3"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE231"
+   ],
+   "organisation": {
+    "organisationId": 32921,
+    "organisationNames": [
+     {
+      "language": "NL",
+      "text": "AZORG vzw"
+     }
+    ],
+    "tree": "200004.200027.32921"
+   },
+   "procedureId": "aaecb0b7-3467-4673-ac11-de7e01eae06c",
+   "publicationDate": "2026-11-23",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP0VJ-984/6550/2026/WL/MD/063_003"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "699a2a20-8026-49ef-9110-7da752c9e96c",
+   "publishedAt": [
+    "2026-11-23T07:45:46.013289"
+   ],
+   "referenceNumber": "PPP0VJ-984/6550/2026/WL/MD/063_003",
+   "sentAt": [
+    "2026-11-23T07:45:46.013289"
    ],
    "tedPublished": false
   }
