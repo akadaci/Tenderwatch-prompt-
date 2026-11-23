@@ -1,15 +1,11 @@
 {
- "updated": "2026-11-23T17:01:37Z",
+ "updated": "2026-11-23T19:01:39Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 387,
- "kept": 173,
+ "received": 388,
+ "kept": 174,
  "count": 3649,
- "new_ids": [
-  "bda-96d77429-a1a2-45ff-9688-f13290e9728e",
-  "bda-36003a04-3e8b-4038-9b8c-233f3f33609b",
-  "bda-61173af5-65e1-4c4d-a952-52e3e03ecdca"
- ],
+ "new_ids": [],
  "records": [
   {
    "id": "bda-662be994-d070-43d3-a1c3-fa927fd1fe62",
@@ -1879,6 +1875,27 @@
    "procedure": "4597b6e1-529c-46c9-a780-186134a7b271",
    "dossier": "NER21003-10050",
    "first_seen": "2026-11-23T17:01:37Z"
+  },
+  {
+   "id": "bda-6c3a4323-87cd-4035-83b6-d0a39f6cb54d",
+   "source_type": "BDA",
+   "nom": "Raamovereenkomst voor waterbouwkundige werken aan kaaimuren en aanhorigheden, taluds en oevers binnen het Stadshavengebied Antwerpen en het Ijzerlaankanaal",
+   "lieu": "Anvers",
+   "province": "Anvers",
+   "mo": "Antwerpen",
+   "etape": 4,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/6c3a4323-87cd-4035-83b6-d0a39f6cb54d",
+   "verif": "vérifié",
+   "verif_date": "2026-11-23",
+   "preuve": "Bulletin des Adjudications, réf. GAC_2026_04003 (avis de marché, sous-type eForms 16), publié le 2026-11-23.",
+   "date_publication": "2026-11-23",
+   "cpv": "45240000,45241100,45243600",
+   "ted_ref": "",
+   "notes": "De Stadshaven bestaat uit 6 historische dokken in het noorden van het centrum en omvat ook de Scheldekaaien Zone stad (van D’Herbouvillekaai tot voor de Royerssluis). Het is het oudste havengebied van Antwerpen waarvan grote delen erkend zijn als onroerend erfgoed. De Scheldekaaien zijn onderhevig a",
+   "procedure": "ee2a72e6-f91b-46a1-bbb8-c4a08e157c5e",
+   "dossier": "GAC_2026_04003",
+   "first_seen": "2026-11-06T15:01:34Z"
   },
   {
    "id": "bda-22e26944-09b9-42b6-928e-3a58ae473881",
@@ -4057,7 +4074,7 @@
    "verif_date": "2026-11-23",
    "preuve": "Bulletin des Adjudications, réf. 5715 (avis de marché, sous-type eForms 17), publié le 2026-11-20.",
    "date_publication": "2026-11-20",
-   "cpv": "45113000,45000000,45111000",
+   "cpv": "45113000,45111000,45000000",
    "ted_ref": "",
    "notes": "Le présent marché a pour objet des travaux de démantèlement intérieur non structurel (curage) du bâtiment « Palais du Midi », en vue de l’enlèvement des éléments intérieurs non porteurs, sans intervention sur la structure ni sur l’enveloppe extérieure. Les travaux consistent en un curage sélectif co",
    "procedure": "3900edd9-fde0-4a53-9401-4dcd1b952237",
@@ -22311,27 +22328,6 @@
    "notes": "Aanpassen en herschilderen van metalen borstweringen te L57 AP 55.515 ONB Hillarestraat, Lokeren.",
    "procedure": "a94491d0-93a6-4070-a2b2-3e7b18a259f1",
    "dossier": "5753326116",
-   "first_seen": "2026-11-06T15:01:34Z"
-  },
-  {
-   "id": "bda-6c3a4323-87cd-4035-83b6-d0a39f6cb54d",
-   "source_type": "BDA",
-   "nom": "Raamovereenkomst voor waterbouwkundige werken aan kaaimuren en aanhorigheden, taluds en oevers binnen het Stadshavengebied Antwerpen en het Ijzerlaankanaal",
-   "lieu": "Anvers",
-   "province": "Anvers",
-   "mo": "Antwerpen",
-   "etape": 4,
-   "sur_ted": false,
-   "source": "https://www.publicprocurement.be/publication-workspaces/6c3a4323-87cd-4035-83b6-d0a39f6cb54d",
-   "verif": "vérifié",
-   "verif_date": "2026-11-09",
-   "preuve": "Bulletin des Adjudications, réf. GAC_2026_04003 (avis de marché, sous-type eForms 16), publié le 2026-11-06.",
-   "date_publication": "2026-11-06",
-   "cpv": "45240000,45243600,45241100",
-   "ted_ref": "",
-   "notes": "De Stadshaven bestaat uit 6 historische dokken in het noorden van het centrum en omvat ook de Scheldekaaien Zone stad (van D’Herbouvillekaai tot voor de Royerssluis). Het is het oudste havengebied van Antwerpen waarvan grote delen erkend zijn als onroerend erfgoed. De Scheldekaaien zijn onderhevig a",
-   "procedure": "ee2a72e6-f91b-46a1-bbb8-c4a08e157c5e",
-   "dossier": "GAC_2026_04003",
    "first_seen": "2026-11-06T15:01:34Z"
   },
   {
