@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 296761
+  "totalCount": 296767
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -37,212 +37,217 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "33155000-1",
+     "code": "92312000-1",
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Apparatuur voor fysiotherapie"
+       "language": "FR",
+       "text": "Services artistiques"
       },
       {
        "language": "DE",
-       "text": "Ausrüstung für Physiotherapie"
+       "text": "Künstlerische Dienstleistungen"
       },
       {
-       "language": "FR",
-       "text": "Équipement de physiothérapie"
+       "language": "NL",
+       "text": "Artistieke diensten"
       },
       {
        "language": "EN",
-       "text": "Physical therapy devices"
+       "text": "Artistic services"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "33155000-1",
+    "code": "92312000-1",
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Apparatuur voor fysiotherapie"
+      "language": "FR",
+      "text": "Services artistiques"
      },
      {
       "language": "DE",
-      "text": "Ausrüstung für Physiotherapie"
+      "text": "Künstlerische Dienstleistungen"
      },
      {
-      "language": "FR",
-      "text": "Équipement de physiothérapie"
+      "language": "NL",
+      "text": "Artistieke diensten"
      },
      {
       "language": "EN",
-      "text": "Physical therapy devices"
+      "text": "Artistic services"
      }
     ]
    },
-   "dispatchDate": "2026-11-23",
+   "dispatchDate": "2026-11-24",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
       "language": "NL",
-      "text": "Deze opdpracht omvat de Aankoop, levering en installatie van een isokinetisch krachttoestel.  Deze opdracht heeft als doel de aankoop, levering en installatie van een isokinetisch krachttoestel.  Tevens inbegrepen in de opdracht: - alle hierbij noodzakelijke technische en gebruikersopleidingen, - alle noodzakelijke toebehoren en accessoires, - een preventief onderhoudscontract, - alle noodzakelijke IT-koppelingen, - ... "
+      "text": "De opdracht beoogt de inbreng van hedendaagse kunstenaars in de renovatie van T4 tot Architectuurschool.   De studie-opdracht met betrekking tot de Architectuurschool T4, via de Open Oproep, is op 14 juni 2022 gegund aan de TM Havana Architectuur - Karuur architecten - Servais Engineering Architectural - Wim Cuyvers.   In de opdrachtdocumenten bij deze opdracht is de inbreng van hedendaagse kunstenaars als een na te streven ambitie vooropgesteld. Daarbij werd een samenwerking met de vzw COREATELIER vooropgesteld. "
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP0VJ-984/6550/2026/WL/MD/063",
+    "number": "PPP01G-3599/6176/",
     "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP0VJ-984/6550/2026/WL/MD/063",
+    "referenceNumber": "PPP01G-3599/6176/",
     "titles": [
      {
       "language": "NL",
-      "text": "Aankoop, levering en installatie van een isokinetisch krachttoestel + onderhoudscontract"
+      "text": "Kunstintegratie T4"
      }
     ]
    },
-   "insertionDate": "2026-11-23",
+   "insertionDate": "2026-11-24",
    "lots": [
     {
      "descriptions": [
       {
        "language": "NL",
-       "text": "Deze opdpracht omvat de Aankoop, levering en installatie van een isokinetisch krachttoestel.  Deze opdracht heeft als doel de aankoop, levering en installatie van een isokinetisch krachttoestel.  Tevens inbegrepen in de opdracht: - alle hierbij noodzakelijke technische en gebruikersopleidingen, - alle noodzakelijke toebehoren en accessoires, - een preventief onderhoudscontract, - alle noodzakelijke IT-koppelingen, - ... "
+       "text": "De opdracht beoogt de inbreng van hedendaagse kunstenaars in de renovatie van T4 tot Architectuurschool.   De studie-opdracht met betrekking tot de Architectuurschool T4, via de Open Oproep, is op 14 juni 2022 gegund aan de TM Havana Architectuur - Karuur architecten - Servais Engineering Architectural - Wim Cuyvers.   In de opdrachtdocumenten bij deze opdracht is de inbreng van hedendaagse kunstenaars als een na te streven ambitie vooropgesteld. Daarbij werd een samenwerking met de vzw COREATELIER vooropgesteld. "
       }
      ],
      "titles": [
       {
        "language": "NL",
-       "text": "Aankoop, levering en installatie van een isokinetisch krachttoestel + onderhoudscontract"
+       "text": "Kunstintegratie T4"
       }
      ]
     }
    ],
    "natures": [
-    "SUPPLIES"
+    "SERVICES"
    ],
    "noticeIds": [
-    "a10a91e5-8e81-4124-816d-309d5d8c2fa3"
+    "e19b4bff-4d0c-4fe7-b71c-c9eea644c03f"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE231"
+    "BE234"
    ],
    "organisation": {
-    "organisationId": 32921,
+    "organisationId": 160,
     "organisationNames": [
      {
       "language": "NL",
-      "text": "AZORG vzw"
+      "text": "Universiteit Gent"
+     },
+     {
+      "language": "EN",
+      "text": "Universiteit Gent"
+     },
+     {
+      "language": "DE",
+      "text": "Universiteit Gent"
+     },
+     {
+      "language": "FR",
+      "text": "Universiteit Gent"
      }
     ],
-    "tree": "200004.200027.32921"
+    "tree": "200004.200026.160"
    },
-   "procedureId": "aaecb0b7-3467-4673-ac11-de7e01eae06c",
-   "publicationDate": "2026-11-23",
+   "procedureId": "9a89da31-c38a-4654-a9ba-21351939a10f",
+   "publicationDate": "2026-11-24",
    "publicationLanguages": [
     "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP0VJ-984/6550/2026/WL/MD/063_003"
+    "PPP01G-3599/6176/_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "699a2a20-8026-49ef-9110-7da752c9e96c",
+   "publicationWorkspaceId": "04a87117-88d7-4aba-904c-45d98a929980",
    "publishedAt": [
-    "2026-11-23T07:45:46.013289"
+    "2026-11-24T00:00:47.281744"
    ],
-   "referenceNumber": "PPP0VJ-984/6550/2026/WL/MD/063_003",
+   "referenceNumber": "PPP01G-3599/6176/_002",
    "sentAt": [
-    "2026-11-23T07:45:46.013289"
+    "2026-11-24T00:00:47.281744"
    ],
    "tedPublished": false
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "18110000-3",
+     "code": "16160000-4",
      "descriptions": [
       {
-       "language": "DE",
-       "text": "Berufskleidung"
+       "language": "NL",
+       "text": "Diverse tuingereedschappen"
       },
       {
        "language": "FR",
-       "text": "Vêtements professionnels"
-      },
-      {
-       "language": "NL",
-       "text": "Beroepskleding"
+       "text": "Matériel de jardinage divers"
       },
       {
        "language": "EN",
-       "text": "Occupational clothing"
+       "text": "Miscellaneous gardening equipment"
+      },
+      {
+       "language": "DE",
+       "text": "Verschiedenes Gärtnergerät"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "18110000-3",
+    "code": "16160000-4",
     "descriptions": [
      {
-      "language": "DE",
-      "text": "Berufskleidung"
+      "language": "NL",
+      "text": "Diverse tuingereedschappen"
      },
      {
       "language": "FR",
-      "text": "Vêtements professionnels"
-     },
-     {
-      "language": "NL",
-      "text": "Beroepskleding"
+      "text": "Matériel de jardinage divers"
      },
      {
       "language": "EN",
-      "text": "Occupational clothing"
+      "text": "Miscellaneous gardening equipment"
+     },
+     {
+      "language": "DE",
+      "text": "Verschiedenes Gärtnergerät"
      }
     ]
    },
-   "dispatchDate": "2026-11-23",
+   "dispatchDate": "2026-11-24",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
       "language": "NL",
-      "text": "De aanbestedende overheid wenst zijn onthaalmedewerkers op de 4 campussen te voorzien van een nieuwe, hedendaagse maar stijlvolle outfit.  De onthaalmedewerkers zijn het eerste aanspreekpunt voor bezoekers aan ons ziekenhuis. Hierdoor hechten we veel belang aan een verzorgd en stijlvol voorkomen van deze onthaalmedewerkers. De kledij maakt een groot deel uit van de eerste indruk die de bezoeker krijgt.  We wensen onze medewerkers te voorzien van een stijlvolle outfit met de eigenschappen beschreven in de technische bepalingen en waarvan het ontwerp door de inschrijver wordt bepaald. We wensen een eenvoudig ontwerp dat past bij de huisstijl van het ziekenhuis met enkele subtiele accenten.   Op vandaag wordt de functie van onthaalmedewerker voornamelijk ingevuld door vrouwelijke medewerkers. Het aangeboden assortiment dient minimaal de in dit bestek vermelde modellen en maten te omvatten. De opdrachtnemer behoudt zich het recht voor gedurende de volledige looptijd kleding te bestellen voor alle medewerkers, ongeacht geslacht of lichaamsbouw.  Alle onthaalmedewerkers moeten zich steeds comfortabel voelen in hun werkkledij.  Gezien de personeelsbezetting een dynamisch gegeven is, zijn we op zoek naar een outfit die snel leverbaar is en die door de opdrachtnemer via eenvoudige retouches kan aangepast worden op maat van de werknemer. "
+      "text": "Deze overheidsopdracht betreft de aankoop van een grote hakselaar met eigen motor en onderstel voor de groendienst van gemeente Koksijde. De hakselaar zal als aanhangwagen getrokken worden door onze bestelwagens of terreinwagens. "
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP09K-4376/6453/AZD_26_457",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "PPP09K-4376/6453/AZD_26_457",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "number": "PPP00T-4142/6598/2026125",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP00T-4142/6598/2026125",
     "titles": [
      {
       "language": "NL",
-      "text": "Raamcontract kledij onthaalmedewerkers"
+      "text": "Leveren hakselaar op aanhangwagen voor de gemeentelijke groendienst"
      }
     ]
    },
-   "insertionDate": "2026-10-28",
+   "insertionDate": "2026-11-24",
    "lots": [
     {
      "descriptions": [
       {
        "language": "NL",
-       "text": "De aanbestedende overheid wenst zijn onthaalmedewerkers op de 4 campussen te voorzien van een nieuwe, hedendaagse maar stijlvolle outfit.  De onthaalmedewerkers zijn het eerste aanspreekpunt voor bezoekers aan ons ziekenhuis. Hierdoor hechten we veel belang aan een verzorgd en stijlvol voorkomen van deze onthaalmedewerkers. De kledij maakt een groot deel uit van de eerste indruk die de bezoeker krijgt.  We wensen onze medewerkers te voorzien van een stijlvolle outfit met de eigenschappen beschreven in de technische bepalingen en waarvan het ontwerp door de inschrijver wordt bepaald. We wensen een eenvoudig ontwerp dat past bij de huisstijl van het ziekenhuis met enkele subtiele accenten.   Op vandaag wordt de functie van onthaalmedewerker voornamelijk ingevuld door vrouwelijke medewerkers. Het aangeboden assortiment dient minimaal de in dit bestek vermelde modellen en maten te omvatten. De opdrachtnemer behoudt zich het recht voor gedurende de volledige looptijd kleding te bestellen voor alle medewerkers, ongeacht geslacht of lichaamsbouw.  Alle onthaalmedewerkers moeten zich steeds comfortabel voelen in hun werkkledij.  Gezien de personeelsbezetting een dynamisch gegeven is, zijn we op zoek naar een outfit die snel leverbaar is en die door de opdrachtnemer via eenvoudige retouches kan aangepast worden op maat van de werknemer. "
+       "text": "Deze overheidsopdracht betreft de aankoop van een grote hakselaar met eigen motor en onderstel voor de groendienst van gemeente Koksijde. De hakselaar zal als aanhangwagen getrokken worden door onze bestelwagens of terreinwagens. "
       }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
      ],
      "titles": [
       {
        "language": "NL",
-       "text": "Raamcontract kledij onthaalmedewerkers"
+       "text": "Leveren hakselaar op aanhangwagen voor de gemeentelijke groendienst"
       }
      ]
     }
@@ -251,348 +256,324 @@
     "SUPPLIES"
    ],
    "noticeIds": [
-    "129d57e3-3081-48eb-ba20-34128af6570f",
-    "c1103165-d1dc-4f74-91b6-f1d0dc558175"
+    "843c2bc3-8495-4c4f-a3f8-38973dd2fc2d"
    ],
-   "noticeSubType": "16",
+   "noticeSubType": "E4",
    "nutsCodes": [
-    "BE251",
-    "BE256",
-    "BE254"
+    "BE258"
    ],
    "organisation": {
-    "organisationId": 2057,
+    "organisationId": 260,
     "organisationNames": [
      {
+      "language": "EN",
+      "text": "Koksijde"
+     },
+     {
       "language": "NL",
-      "text": "AZ DELTA"
+      "text": "Koksijde"
      },
      {
       "language": "FR",
-      "text": "AZ DELTA"
+      "text": "Koksijde"
      },
      {
       "language": "DE",
-      "text": "AZ DELTA"
-     },
-     {
-      "language": "EN",
-      "text": "AZ DELTA"
+      "text": "Koksijde"
      }
     ],
-    "tree": "200004.200027.2057"
+    "tree": "200004.200021.260"
    },
-   "procedureId": "4b4c01ee-1db7-49a5-91db-7cec2a927643",
-   "publicationDate": "2026-11-23",
+   "procedureId": "b8e36d62-c17e-4dcf-8496-5410ca273e31",
+   "publicationDate": "2026-11-24",
    "publicationLanguages": [
     "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP09K-4376/6453/AZD_26_457_001"
+    "PPP00T-4142/6598/2026125_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "00c6f6d5-635a-4537-8066-965518972fa1",
+   "publicationWorkspaceId": "6d3b8e8d-a275-4bc6-a044-ae092128c41c",
    "publishedAt": [
-    "2026-11-23T08:16:46.013741",
-    "2026-10-28T14:58:46.238248"
+    "2026-11-24T00:00:47.719986"
    ],
-   "referenceNumber": "PPP09K-4376/6453/AZD_26_457_001",
+   "referenceNumber": "PPP00T-4142/6598/2026125_002",
    "sentAt": [
-    "2026-11-23T08:16:46.013741",
-    "2026-10-28T14:58:46.238248"
+    "2026-11-24T00:00:47.719986"
    ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-30T10:00:00"
+   "tedPublished": false
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45454100-5",
+     "code": "44114000-2",
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Travaux de réfection"
-      },
-      {
-       "language": "EN",
-       "text": "Restoration work"
-      },
-      {
        "language": "NL",
-       "text": "Restauratiewerkzaamheden"
+       "text": "Beton"
       },
       {
        "language": "DE",
-       "text": "Mit Instandsetzungsarbeiten verbundene Arbeiten"
-      }
-     ]
-    },
-    {
-     "code": "45442100-8",
-     "descriptions": [
-      {
-       "language": "DE",
-       "text": "Anstricharbeiten"
-      },
-      {
-       "language": "NL",
-       "text": "Schilderwerk"
+       "text": "Beton"
       },
       {
        "language": "FR",
-       "text": "Travaux de peinture"
+       "text": "Béton"
       },
       {
        "language": "EN",
-       "text": "Painting work"
+       "text": "Concrete"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45454100-5",
+    "code": "44114000-2",
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Travaux de réfection"
-     },
-     {
-      "language": "EN",
-      "text": "Restoration work"
-     },
-     {
       "language": "NL",
-      "text": "Restauratiewerkzaamheden"
+      "text": "Beton"
      },
      {
       "language": "DE",
-      "text": "Mit Instandsetzungsarbeiten verbundene Arbeiten"
+      "text": "Beton"
+     },
+     {
+      "language": "FR",
+      "text": "Béton"
+     },
+     {
+      "language": "EN",
+      "text": "Concrete"
      }
     ]
    },
-   "dispatchDate": "2026-11-23",
+   "dispatchDate": "2026-11-24",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
-      "language": "NL",
-      "text": "De werken omvatten het herschilderen van de trouwzaal, met inbegrip van de beperkte restauratie van vrijleggingen en de gedeeltelijke reconstructie van de 19de-eeuwse polychromie. Daarnaast omvat het dossier een aantal werken die tot doel hebben schade aan de schilderwerken in de nabije toekomst te voorkomen. Het betreft onder meer het herstel van balkkoppen, bakgoten, baksteenmetselwerk en voegwerk van de toren., … "
+      "language": "FR",
+      "text": "Le marché envisagé consiste en la fourniture de béton pour l'entretien des voiries et ouvrages divers pour une année.  Il est considéré comme un marché stock qui consiste à demander une offre pour différents types de fournitures."
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP009-3677/6420/2026/031aa",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "PPP009-3677/6420/2026/031aa",
+    "number": "PPP04Z-2333/6170/2026-2333",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP04Z-2333/6170/2026-2333",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
-      "language": "NL",
-      "text": "Neogotisch stadhuis: uitvoeren schilder- en restauratiewerken trouwzaal"
+      "language": "FR",
+      "text": "Marché stock conjoint - Béton pour l'entretien des voiries et ouvrages divers 2027"
      }
     ]
    },
-   "insertionDate": "2026-10-05",
+   "insertionDate": "2026-11-24",
    "lots": [
     {
      "descriptions": [
       {
-       "language": "NL",
-       "text": "De werken omvatten het herschilderen van de trouwzaal, met inbegrip van de beperkte restauratie van vrijleggingen en de gedeeltelijke reconstructie van de 19de-eeuwse polychromie. Daarnaast omvat het dossier een aantal werken die tot doel hebben schade aan de schilderwerken in de nabije toekomst te voorkomen. Het betreft onder meer het herstel van balkkoppen, bakgoten, baksteenmetselwerk en voegwerk van de toren., … "
+       "language": "FR",
+       "text": "Le marché envisagé consiste en la fourniture de béton pour l'entretien des voiries et ouvrages divers pour une année.  Il est considéré comme un marché stock qui consiste à demander une offre pour différents types de fournitures."
       }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
      ],
      "titles": [
       {
-       "language": "NL",
-       "text": "Neogotisch stadhuis: uitvoeren schilder- en restauratiewerken trouwzaal"
+       "language": "FR",
+       "text": "Marché stock conjoint - Béton pour l'entretien des voiries et ouvrages divers 2027"
       }
      ]
     }
    ],
    "natures": [
-    "WORKS"
+    "SUPPLIES"
    ],
    "noticeIds": [
-    "0866015c-584f-4ca6-9a77-777222e35025",
-    "4c606b9d-87e7-4518-bc85-80cbe0d433ec"
+    "ec91a9b4-502e-4af8-abb6-adb0162d4418"
    ],
-   "noticeSubType": "16",
+   "noticeSubType": "E4",
    "nutsCodes": [
-    "BE236"
+    "BE335"
    ],
    "organisation": {
-    "organisationId": 338,
+    "organisationId": 206,
     "organisationNames": [
      {
-      "language": "EN",
-      "text": "Sint-Niklaas"
-     },
-     {
-      "language": "NL",
-      "text": "Sint-Niklaas"
-     },
-     {
       "language": "FR",
-      "text": "Sint-Niklaas"
+      "text": "Dison"
      },
      {
       "language": "DE",
-      "text": "Sint-Niklaas"
+      "text": "Dison"
+     },
+     {
+      "language": "NL",
+      "text": "Dison"
+     },
+     {
+      "language": "EN",
+      "text": "Dison"
      }
     ],
-    "tree": "200004.200021.338"
+    "tree": "200004.200021.206"
    },
-   "procedureId": "d669e641-6d2a-420c-b40b-88dc1149cd4e",
-   "publicationDate": "2026-11-23",
+   "procedureId": "17ab26c8-bdc0-497c-bda0-8ca78651dc84",
+   "publicationDate": "2026-11-24",
    "publicationLanguages": [
-    "NL"
+    "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP009-3677/6420/2026/031aa_001"
+    "PPP04Z-2333/6170/2026-2333_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "4eb64abf-da82-41e7-8531-9d5476b888d0",
+   "publicationWorkspaceId": "1b0412f4-3232-4724-b267-b8b15c68d84a",
    "publishedAt": [
-    "2026-10-05T08:21:46.012753",
-    "2026-11-23T08:07:45.021756"
+    "2026-11-24T00:00:47.524042"
    ],
-   "referenceNumber": "PPP009-3677/6420/2026/031aa_001",
+   "referenceNumber": "PPP04Z-2333/6170/2026-2333_002",
    "sentAt": [
-    "2026-10-05T08:21:46.012753",
-    "2026-11-23T08:07:45.021756"
+    "2026-11-24T00:00:47.524042"
    ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-11-27T10:00:00"
+   "tedPublished": false
   }
  ],
  "exemple_attribution": [
   {
    "cpvAdditionalCodes": [
     {
-     "code": "33155000-1",
+     "code": "92312000-1",
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Apparatuur voor fysiotherapie"
+       "language": "FR",
+       "text": "Services artistiques"
       },
       {
        "language": "DE",
-       "text": "Ausrüstung für Physiotherapie"
+       "text": "Künstlerische Dienstleistungen"
       },
       {
-       "language": "FR",
-       "text": "Équipement de physiothérapie"
+       "language": "NL",
+       "text": "Artistieke diensten"
       },
       {
        "language": "EN",
-       "text": "Physical therapy devices"
+       "text": "Artistic services"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "33155000-1",
+    "code": "92312000-1",
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Apparatuur voor fysiotherapie"
+      "language": "FR",
+      "text": "Services artistiques"
      },
      {
       "language": "DE",
-      "text": "Ausrüstung für Physiotherapie"
+      "text": "Künstlerische Dienstleistungen"
      },
      {
-      "language": "FR",
-      "text": "Équipement de physiothérapie"
+      "language": "NL",
+      "text": "Artistieke diensten"
      },
      {
       "language": "EN",
-      "text": "Physical therapy devices"
+      "text": "Artistic services"
      }
     ]
    },
-   "dispatchDate": "2026-11-23",
+   "dispatchDate": "2026-11-24",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
       "language": "NL",
-      "text": "Deze opdpracht omvat de Aankoop, levering en installatie van een isokinetisch krachttoestel.  Deze opdracht heeft als doel de aankoop, levering en installatie van een isokinetisch krachttoestel.  Tevens inbegrepen in de opdracht: - alle hierbij noodzakelijke technische en gebruikersopleidingen, - alle noodzakelijke toebehoren en accessoires, - een preventief onderhoudscontract, - alle noodzakelijke IT-koppelingen, - ... "
+      "text": "De opdracht beoogt de inbreng van hedendaagse kunstenaars in de renovatie van T4 tot Architectuurschool.   De studie-opdracht met betrekking tot de Architectuurschool T4, via de Open Oproep, is op 14 juni 2022 gegund aan de TM Havana Architectuur - Karuur architecten - Servais Engineering Architectural - Wim Cuyvers.   In de opdrachtdocumenten bij deze opdracht is de inbreng van hedendaagse kunstenaars als een na te streven ambitie vooropgesteld. Daarbij werd een samenwerking met de vzw COREATELIER vooropgesteld. "
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP0VJ-984/6550/2026/WL/MD/063",
+    "number": "PPP01G-3599/6176/",
     "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP0VJ-984/6550/2026/WL/MD/063",
+    "referenceNumber": "PPP01G-3599/6176/",
     "titles": [
      {
       "language": "NL",
-      "text": "Aankoop, levering en installatie van een isokinetisch krachttoestel + onderhoudscontract"
+      "text": "Kunstintegratie T4"
      }
     ]
    },
-   "insertionDate": "2026-11-23",
+   "insertionDate": "2026-11-24",
    "lots": [
     {
      "descriptions": [
       {
        "language": "NL",
-       "text": "Deze opdpracht omvat de Aankoop, levering en installatie van een isokinetisch krachttoestel.  Deze opdracht heeft als doel de aankoop, levering en installatie van een isokinetisch krachttoestel.  Tevens inbegrepen in de opdracht: - alle hierbij noodzakelijke technische en gebruikersopleidingen, - alle noodzakelijke toebehoren en accessoires, - een preventief onderhoudscontract, - alle noodzakelijke IT-koppelingen, - ... "
+       "text": "De opdracht beoogt de inbreng van hedendaagse kunstenaars in de renovatie van T4 tot Architectuurschool.   De studie-opdracht met betrekking tot de Architectuurschool T4, via de Open Oproep, is op 14 juni 2022 gegund aan de TM Havana Architectuur - Karuur architecten - Servais Engineering Architectural - Wim Cuyvers.   In de opdrachtdocumenten bij deze opdracht is de inbreng van hedendaagse kunstenaars als een na te streven ambitie vooropgesteld. Daarbij werd een samenwerking met de vzw COREATELIER vooropgesteld. "
       }
      ],
      "titles": [
       {
        "language": "NL",
-       "text": "Aankoop, levering en installatie van een isokinetisch krachttoestel + onderhoudscontract"
+       "text": "Kunstintegratie T4"
       }
      ]
     }
    ],
    "natures": [
-    "SUPPLIES"
+    "SERVICES"
    ],
    "noticeIds": [
-    "a10a91e5-8e81-4124-816d-309d5d8c2fa3"
+    "e19b4bff-4d0c-4fe7-b71c-c9eea644c03f"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE231"
+    "BE234"
    ],
    "organisation": {
-    "organisationId": 32921,
+    "organisationId": 160,
     "organisationNames": [
      {
       "language": "NL",
-      "text": "AZORG vzw"
+      "text": "Universiteit Gent"
+     },
+     {
+      "language": "EN",
+      "text": "Universiteit Gent"
+     },
+     {
+      "language": "DE",
+      "text": "Universiteit Gent"
+     },
+     {
+      "language": "FR",
+      "text": "Universiteit Gent"
      }
     ],
-    "tree": "200004.200027.32921"
+    "tree": "200004.200026.160"
    },
-   "procedureId": "aaecb0b7-3467-4673-ac11-de7e01eae06c",
-   "publicationDate": "2026-11-23",
+   "procedureId": "9a89da31-c38a-4654-a9ba-21351939a10f",
+   "publicationDate": "2026-11-24",
    "publicationLanguages": [
     "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP0VJ-984/6550/2026/WL/MD/063_003"
+    "PPP01G-3599/6176/_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "699a2a20-8026-49ef-9110-7da752c9e96c",
+   "publicationWorkspaceId": "04a87117-88d7-4aba-904c-45d98a929980",
    "publishedAt": [
-    "2026-11-23T07:45:46.013289"
+    "2026-11-24T00:00:47.281744"
    ],
-   "referenceNumber": "PPP0VJ-984/6550/2026/WL/MD/063_003",
+   "referenceNumber": "PPP01G-3599/6176/_002",
    "sentAt": [
-    "2026-11-23T07:45:46.013289"
+    "2026-11-24T00:00:47.281744"
    ],
    "tedPublished": false
   }
