@@ -1,21 +1,11 @@
 {
- "updated": "2026-11-23T05:01:33Z",
+ "updated": "2026-11-23T07:01:38Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 266,
+ "received": 267,
  "kept": 109,
  "count": 3602,
- "new_ids": [
-  "bda-e9c83bd3-ddc8-4cec-8680-10e346fc8e81",
-  "bda-d39f9dea-f4b2-4449-84e4-038bbc55839e",
-  "bda-51f2de86-16f8-4984-9b90-a642aca53d9b",
-  "bda-f49b10df-595e-482d-83ed-b0002d85b223",
-  "bda-2e530043-5bc9-4de2-8829-7de011630639",
-  "bda-84ee8dfe-56d1-4b0d-ae17-decbc30a94e0",
-  "bda-f57c5695-792f-4ce9-8710-4e758fbc902a",
-  "bda-ec546ff9-93d2-40c5-9d0b-d828c70188d2",
-  "bda-bce781eb-e342-42cd-b807-5afbb8126390"
- ],
+ "new_ids": [],
  "records": [
   {
    "id": "bda-662be994-d070-43d3-a1c3-fa927fd1fe62",
@@ -1648,7 +1638,7 @@
    "verif_date": "2026-11-23",
    "preuve": "Bulletin des Adjudications, réf. PPP0AK-4822/6697/2024-0176 (attribution, sous-type eForms E4), publié le 2026-11-20.",
    "date_publication": "2026-11-20",
-   "cpv": "45262700,45421131,45442100,45432111,45262660,45421153,45421141,45421146,45410000,45214200,45400000",
+   "cpv": "45262700,45432111,45442100,45421131,45262660,45421153,45421141,45421146,45410000,45214200,45400000",
    "ted_ref": "",
    "notes": "De opdracht omvat het omvormen van de conciërgewoning tot een kantoor- spreek- en vergaderruimte: - verwijderen bestaande vloerbekleding en plinten; - afbreken enkele bestaande wanden; - uitbreken keuken/badkamer/toilet; - plaatsen nieuwe wanden in gipskarton; - plaatsen nieuwe deur; - vernieuwen vl",
    "procedure": "de119fa4-1530-4b73-8eeb-ff6ae35a8dae",
