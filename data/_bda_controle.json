@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 296578
+  "totalCount": 296580
  },
  "types": [
   "ACTIVE|16|['SERVICES', 'WORKS']",
@@ -167,12 +167,12 @@
      "code": "44114200-4",
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Betonproducten"
-      },
-      {
        "language": "DE",
        "text": "Betonerzeugnisse"
+      },
+      {
+       "language": "NL",
+       "text": "Betonproducten"
       },
       {
        "language": "FR",
