@@ -1,11 +1,13 @@
 {
- "updated": "2026-11-23T19:01:39Z",
+ "updated": "2026-11-23T20:33:54Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 388,
- "kept": 174,
- "count": 3649,
- "new_ids": [],
+ "received": 392,
+ "kept": 175,
+ "count": 3650,
+ "new_ids": [
+  "bda-f57d4a2e-4fea-4c8b-9715-0823b0f55815"
+ ],
  "records": [
   {
    "id": "bda-662be994-d070-43d3-a1c3-fa927fd1fe62",
@@ -1898,6 +1900,27 @@
    "first_seen": "2026-11-06T15:01:34Z"
   },
   {
+   "id": "bda-f57d4a2e-4fea-4c8b-9715-0823b0f55815",
+   "source_type": "BDA",
+   "nom": "Rénovation des toitures de l'école libre de Saint-Léger",
+   "lieu": "Luxembourg (prov.)",
+   "province": "Luxembourg (prov.)",
+   "mo": "ASBL Pouvoir Organisateur de l'Ecole fondamentale libre de Saint-Léger",
+   "etape": 4,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/f57d4a2e-4fea-4c8b-9715-0823b0f55815",
+   "verif": "vérifié",
+   "verif_date": "2026-11-23",
+   "preuve": "Bulletin des Adjudications, réf. PPT article5 : SL-3142-2025-00041 (avis de marché, sous-type eForms 16), publié le 2026-11-23.",
+   "date_publication": "2026-11-23",
+   "cpv": "45261200,45261000",
+   "ted_ref": "",
+   "notes": "Rénovation des toitures de l'école libre de Saint-Léger et isolation de la dalle des combles",
+   "procedure": "b2571175-4ad0-47aa-90ab-5d7688c3d784",
+   "dossier": "PPT article5 : SL-3142-2025-00041",
+   "first_seen": "2026-11-23T20:33:54Z"
+  },
+  {
    "id": "bda-22e26944-09b9-42b6-928e-3a58ae473881",
    "source_type": "BDA",
    "nom": "vbs Sint-Vincentius Geschiktmaking zolderklas",
@@ -3129,7 +3152,7 @@
    "verif_date": "2026-11-23",
    "preuve": "Bulletin des Adjudications, réf. PPP0AK-4822/6697/2024-0176 (attribution, sous-type eForms E4), publié le 2026-11-20.",
    "date_publication": "2026-11-20",
-   "cpv": "45262700,45432111,45442100,45421131,45262660,45421153,45421141,45421146,45410000,45214200,45400000",
+   "cpv": "45262700,45421131,45442100,45432111,45262660,45421153,45421141,45421146,45410000,45214200,45400000",
    "ted_ref": "",
    "notes": "De opdracht omvat het omvormen van de conciërgewoning tot een kantoor- spreek- en vergaderruimte: - verwijderen bestaande vloerbekleding en plinten; - afbreken enkele bestaande wanden; - uitbreken keuken/badkamer/toilet; - plaatsen nieuwe wanden in gipskarton; - plaatsen nieuwe deur; - vernieuwen vl",
    "procedure": "de119fa4-1530-4b73-8eeb-ff6ae35a8dae",
