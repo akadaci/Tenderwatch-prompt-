@@ -1,12 +1,32 @@
 {
- "updated": "2026-11-23T11:01:37Z",
+ "updated": "2026-11-23T13:01:43Z",
  "source": "urban.brussels NOVA (WFS)",
  "days_back": 3,
- "received": 31,
- "kept": 4,
- "count": 229,
- "new_ids": [],
+ "received": 38,
+ "kept": 6,
+ "count": 232,
+ "new_ids": [
+  "nova-04/PU/2053469",
+  "nova-19/PU/2053418",
+  "nova-19/PU/2053417"
+ ],
  "records": [
+  {
+   "id": "nova-04/PU/2053469",
+   "source_type": "Permis",
+   "nom": "Régularisation, extension, rehausse et division en 4 logements",
+   "lieu": "Rue De Wand 11, 1020 Bruxelles",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='04/PU/2053469'",
+   "verif": "vérifié",
+   "verif_date": "2026-11-23",
+   "preuve": "Demande de permis 04/PU/2053469 reçue le 2026-11-21 (urban.brussels, service NOVA), surface projetée 373 m².",
+   "date_publication": "2026-11-21",
+   "notes": "Autorité : Bruxelles",
+   "first_seen": "2026-11-23T13:01:43Z"
+  },
   {
    "id": "nova-07/PU/2053319",
    "source_type": "Permis",
@@ -102,6 +122,38 @@
    "date_publication": "2026-11-20",
    "notes": "Autorité : BUP",
    "first_seen": "2026-11-21T05:01:45Z"
+  },
+  {
+   "id": "nova-19/PU/2053418",
+   "source_type": "Permis",
+   "nom": "pose d'un crépi sur isolant sur le pignon, avec retour sur les façades avant et arrière, allant du rez-de-chaussée jusqu'au 9e étage; sous corniche débordante; d'un immeuble à appartements",
+   "lieu": "Drève de Nivelles 149, 1150 Woluwe-Saint-Pierre",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='19/PU/2053418'",
+   "verif": "vérifié",
+   "verif_date": "2026-11-23",
+   "preuve": "Demande de permis 19/PU/2053418 reçue le 2026-11-20 (urban.brussels, service NOVA).",
+   "date_publication": "2026-11-20",
+   "notes": "Autorité : Woluwe-Saint-Pierre",
+   "first_seen": "2026-11-23T13:01:43Z"
+  },
+  {
+   "id": "nova-19/PU/2053417",
+   "source_type": "Permis",
+   "nom": "pose d’un crépi sur isolant sur le pignon, avec retour sur les façades avant et arrière, allant du rez-de-chaussée jusqu’à 9e étage ; sous-corniche débordante ; d’un immeuble à appartements",
+   "lieu": "Drève de Nivelles 145, 1150 Woluwe-Saint-Pierre",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='19/PU/2053417'",
+   "verif": "vérifié",
+   "verif_date": "2026-11-23",
+   "preuve": "Demande de permis 19/PU/2053417 reçue le 2026-11-20 (urban.brussels, service NOVA).",
+   "date_publication": "2026-11-20",
+   "notes": "Autorité : Woluwe-Saint-Pierre",
+   "first_seen": "2026-11-23T13:01:43Z"
   },
   {
    "id": "nova-04/PU/2053191",
