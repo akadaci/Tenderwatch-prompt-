@@ -1,17 +1,22 @@
 {
  "meta": {
-  "totalCount": 296580
+  "totalCount": 296644
  },
  "types": [
+  "ACTIVE|10|['SERVICES']",
   "ACTIVE|16|['SERVICES', 'WORKS']",
   "ACTIVE|16|['SERVICES']",
+  "ACTIVE|16|['SUPPLIES', 'SERVICES']",
   "ACTIVE|16|['SUPPLIES']",
   "ACTIVE|16|['WORKS']",
   "ACTIVE|17|['SERVICES']",
+  "ACTIVE|17|['SUPPLIES']",
   "ACTIVE|17|['WORKS']",
   "ACTIVE|19|['SERVICES']",
+  "ACTIVE|20|['SERVICES']",
   "ACTIVE|29|['SERVICES', 'SUPPLIES']",
   "ACTIVE|29|['SERVICES']",
+  "ACTIVE|29|['SUPPLIES', 'SERVICES']",
   "ACTIVE|29|['SUPPLIES']",
   "ACTIVE|29|['WORKS']",
   "ACTIVE|33|['SERVICES']",
@@ -300,67 +305,86 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "44110000-4",
+     "code": "45000000-7",
      "descriptions": [
       {
        "language": "NL",
-       "text": "Constructiematerialen"
+       "text": "Bouwwerkzaamheden"
       },
       {
        "language": "FR",
-       "text": "Matériaux de construction"
-      },
-      {
-       "language": "DE",
-       "text": "Baustoffe"
+       "text": "Travaux de construction"
       },
       {
        "language": "EN",
-       "text": "Construction materials"
+       "text": "Construction work"
+      },
+      {
+       "language": "DE",
+       "text": "Bauarbeiten"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "44110000-4",
+    "code": "45000000-7",
     "descriptions": [
      {
       "language": "NL",
-      "text": "Constructiematerialen"
+      "text": "Bouwwerkzaamheden"
      },
      {
       "language": "FR",
-      "text": "Matériaux de construction"
-     },
-     {
-      "language": "DE",
-      "text": "Baustoffe"
+      "text": "Travaux de construction"
      },
      {
       "language": "EN",
-      "text": "Construction materials"
+      "text": "Construction work"
+     },
+     {
+      "language": "DE",
+      "text": "Bauarbeiten"
      }
     ]
    },
    "dispatchDate": "2026-11-23",
    "dossier": {
-    "accreditations": {},
+    "accreditations": {
+     "C": 4
+    },
     "descriptions": [
      {
+      "language": "NL",
+      "text": "Het geheel der werken die uit te voeren zijn in het kader van huidige opdracht, omvat alle nodige prestaties voor het uitvoeren van kleine, lokale herstellingen aan de voetpaden en de rijwegen op het volledige grondgebied van de Stad Brussel tijdens een initiële periode van 24 maanden. De uit te voeren werkzaamheden bestaan hoofdzakelijk uit het herstellen van plaatselijke gebreken (oppervlakte, over het algemeen, kleiner dan of gelijk aan 100 m²) die op het wegdek zijn vastgesteld (verzakkingen, kuilen, nivellering van stoepranden of tegels, enz.), het vervangen van een afvoer of straatmeubilair en nog andere logistieke ingrepen die nodig zijn in het kader van het beheer en onderhoud van de wegen. "
+     },
+     {
       "language": "FR",
-      "text": "Acquisition de matériaux et produits de construction - Marché stock 2026"
+      "text": "L’ensemble des travaux qui sont à exécuter dans le cadre du présent marché comprend toutes les prestations nécessaires pour la pose et l’entretien local des revêtements de voirie et de trottoirs en asphalte, en pavés et en dalles sur le territoire de la Ville de Bruxelles pendant une durée initiale de 24 mois. Les travaux à exécuter consistent principalement en la réparation des défectuosités locales (surface généralement inférieure ou égale à 100 m²) constatées en voirie (affaissements, nids de poule, la mise à niveau de bordure ou de taques, etc…), le remplacement d’un avaloir ou de mobilier urbain et encore d’autres interventions logistiques nécessaires dans le cadre de la gestion et de l’entretien des voiries.  "
      }
     ],
-    "enterpriseCategories": [],
+    "enterpriseCategories": [
+     {
+      "categoryCode": "C",
+      "levels": [
+       4,
+       3,
+       2,
+       1
+      ]
+     }
+    ],
     "legalBasis": "D24",
-    "number": "PPP0DT-439/6148/2026/17",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP0DT-439/6148/2026/17",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "number": "EPV/2026/04/TP",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "EPV/2026/04/TP",
     "titles": [
      {
       "language": "FR",
-      "text": "Acquisition de matériaux et produits de construction - Marché stock 2026"
+      "text": "Marché public de travaux à bordereau de prix et reconductible, relatif à l’exécution de petites réparations locales des revêtements de voirie et des trottoirs sur le territoire de la Ville de Bruxelles pour une durée initiale de 24 mois."
+     },
+     {
+      "language": "NL",
+      "text": "Overheidsopdracht voor werken tegen prijslijst en verlengbaar, met betrekking tot het uitvoeren van plaatselijke herstellingswerken aan de bekleding van de wegen en de voetpaden op het grondgebied van de Stad Brussel gedurende een oorspronkelijke periode van 24 maand"
      }
     ]
    },
@@ -369,95 +393,82 @@
     {
      "descriptions": [
       {
+       "language": "NL",
+       "text": "Het geheel der werken die uit te voeren zijn in het kader van huidige opdracht, omvat alle nodige prestaties voor het uitvoeren van kleine, lokale herstellingen aan de voetpaden en de rijwegen op het volledige grondgebied van de Stad Brussel tijdens een initiële periode van 24 maanden. De uit te voeren werkzaamheden bestaan hoofdzakelijk uit het herstellen van plaatselijke gebreken (oppervlakte, over het algemeen, kleiner dan of gelijk aan 100 m²) die op het wegdek zijn vastgesteld (verzakkingen, kuilen, nivellering van stoepranden of tegels, enz.), het vervangen van een afvoer of straatmeubilair en nog andere logistieke ingrepen die nodig zijn in het kader van het beheer en onderhoud van de wegen. "
+      },
+      {
        "language": "FR",
-       "text": "Fourniture de matériaux de centrale à béton"
+       "text": "L’ensemble des travaux qui sont à exécuter dans le cadre du présent marché comprend toutes les prestations nécessaires pour la pose et l’entretien local des revêtements de voirie et de trottoirs en asphalte, en pavés et en dalles sur le territoire de la Ville de Bruxelles pendant une durée initiale de 24 mois. Les travaux à exécuter consistent principalement en la réparation des défectuosités locales (surface généralement inférieure ou égale à 100 m²) constatées en voirie (affaissements, nids de poule, la mise à niveau de bordure ou de taques, etc…), le remplacement d’un avaloir ou de mobilier urbain et encore d’autres interventions logistiques nécessaires dans le cadre de la gestion et de l’entretien des voiries.  "
       }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
      ],
      "titles": [
       {
        "language": "FR",
-       "text": "Fourniture de matériaux de centrale à béton"
-      }
-     ]
-    },
-    {
-     "descriptions": [
+       "text": "EPV/2026/04/TP - 1"
+      },
       {
-       "language": "FR",
-       "text": "Fourniture de matériaux de carrière"
-      }
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Fourniture de matériaux de carrière"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Fourniture de matériaux de construction"
-      }
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Fourniture de matériaux de construction"
+       "language": "NL",
+       "text": "EPV/2026/04/TP - 1"
       }
      ]
     }
    ],
    "natures": [
-    "SUPPLIES"
+    "WORKS"
    ],
    "noticeIds": [
-    "ee436448-db5c-4b78-9580-1f67a38c10a6"
+    "ad0e402e-5f33-4351-b0ad-09796811704c"
    ],
-   "noticeSubType": "E4",
+   "noticeSubType": "29",
    "nutsCodes": [
-    "BE310"
+    "BE100"
    ],
    "organisation": {
-    "organisationId": 843,
+    "organisationId": 4720,
     "organisationNames": [
      {
-      "language": "FR",
-      "text": "Chastre"
-     },
-     {
       "language": "DE",
-      "text": "Chastre"
+      "text": "Ville de Bruxelles- Département Travaux de Voirie"
      },
      {
       "language": "EN",
-      "text": "Chastre"
+      "text": "Ville de Bruxelles- Département Travaux de Voirie"
+     },
+     {
+      "language": "FR",
+      "text": "Ville de Bruxelles- Département Espaces publics et verts"
      },
      {
       "language": "NL",
-      "text": "Chastre"
+      "text": "Stad Brussel - Departement Openbare en groene ruimten"
      }
     ],
-    "tree": "200004.200021.843"
+    "tree": "200004.200021.48.4720"
    },
-   "procedureId": "dfe319f1-9e3f-4114-ac1a-580ead1c3d81",
+   "procedureId": "19515d69-b39c-4871-9285-28c6d20dc030",
    "publicationDate": "2026-11-23",
    "publicationLanguages": [
+    "NL",
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP0DT-439/6148/2026/17_002"
+    "EPV/2026/04/TP_pub02"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "5e9458c6-b83a-4182-ba00-a3f1166b563b",
+   "publicationWorkspaceId": "eebcfb7d-5104-4eee-bd6e-55d27714680a",
    "publishedAt": [
-    "2026-11-23T00:00:46.015957"
+    "2026-11-23T02:25:46.019654"
    ],
-   "referenceNumber": "PPP0DT-439/6148/2026/17_002",
+   "referenceNumber": "EPV/2026/04/TP_pub02",
    "sentAt": [
-    "2026-11-23T00:00:46.015957"
+    "2026-11-23T02:25:46.019654"
    ],
    "tedPublished": false
   }
