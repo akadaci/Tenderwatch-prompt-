@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 296946
+  "totalCount": 296957
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -30,6 +30,7 @@
   "ACTIVE|36|['SUPPLIES']",
   "ACTIVE|E1|['SUPPLIES']",
   "ACTIVE|E3|['SERVICES']",
+  "ACTIVE|E3|['SUPPLIES', 'SERVICES']",
   "ACTIVE|E3|['SUPPLIES']",
   "ACTIVE|E3|['WORKS']",
   "ACTIVE|E4|['SERVICES', 'SUPPLIES']",
@@ -41,353 +42,104 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "92312000-1",
+     "code": "44000000-0",
      "descriptions": [
       {
        "language": "FR",
-       "text": "Services artistiques"
+       "text": "Matériaux et structures de construction, produits auxiliaires pour la construction (à l'exception des appareils électriques)"
       },
       {
        "language": "DE",
-       "text": "Künstlerische Dienstleistungen"
-      },
-      {
-       "language": "NL",
-       "text": "Artistieke diensten"
+       "text": "Baukonstruktionen und Baustoffe, Bauhilfsprodukte (elektrische Apparate ausgenommen)"
       },
       {
        "language": "EN",
-       "text": "Artistic services"
+       "text": "Construction structures and materials, auxiliary products to construction (except electric apparatus)"
+      },
+      {
+       "language": "NL",
+       "text": "Structuren en materialen voor de bouw, ondersteunende producten voor de bouw (uitgezonderd elektrische apparatuur)"
+      }
+     ]
+    },
+    {
+     "code": "44110000-4",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Constructiematerialen"
+      },
+      {
+       "language": "FR",
+       "text": "Matériaux de construction"
+      },
+      {
+       "language": "DE",
+       "text": "Baustoffe"
+      },
+      {
+       "language": "EN",
+       "text": "Construction materials"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "92312000-1",
+    "code": "44000000-0",
     "descriptions": [
      {
       "language": "FR",
-      "text": "Services artistiques"
+      "text": "Matériaux et structures de construction, produits auxiliaires pour la construction (à l'exception des appareils électriques)"
      },
      {
       "language": "DE",
-      "text": "Künstlerische Dienstleistungen"
-     },
-     {
-      "language": "NL",
-      "text": "Artistieke diensten"
+      "text": "Baukonstruktionen und Baustoffe, Bauhilfsprodukte (elektrische Apparate ausgenommen)"
      },
      {
       "language": "EN",
-      "text": "Artistic services"
+      "text": "Construction structures and materials, auxiliary products to construction (except electric apparatus)"
+     },
+     {
+      "language": "NL",
+      "text": "Structuren en materialen voor de bouw, ondersteunende producten voor de bouw (uitgezonderd elektrische apparatuur)"
      }
     ]
    },
-   "dispatchDate": "2026-11-24",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "De opdracht beoogt de inbreng van hedendaagse kunstenaars in de renovatie van T4 tot Architectuurschool.   De studie-opdracht met betrekking tot de Architectuurschool T4, via de Open Oproep, is op 14 juni 2022 gegund aan de TM Havana Architectuur - Karuur architecten - Servais Engineering Architectural - Wim Cuyvers.   In de opdrachtdocumenten bij deze opdracht is de inbreng van hedendaagse kunstenaars als een na te streven ambitie vooropgesteld. Daarbij werd een samenwerking met de vzw COREATELIER vooropgesteld. "
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP01G-3599/6176/",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP01G-3599/6176/",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Kunstintegratie T4"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-24",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "De opdracht beoogt de inbreng van hedendaagse kunstenaars in de renovatie van T4 tot Architectuurschool.   De studie-opdracht met betrekking tot de Architectuurschool T4, via de Open Oproep, is op 14 juni 2022 gegund aan de TM Havana Architectuur - Karuur architecten - Servais Engineering Architectural - Wim Cuyvers.   In de opdrachtdocumenten bij deze opdracht is de inbreng van hedendaagse kunstenaars als een na te streven ambitie vooropgesteld. Daarbij werd een samenwerking met de vzw COREATELIER vooropgesteld. "
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Kunstintegratie T4"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SERVICES"
-   ],
-   "noticeIds": [
-    "e19b4bff-4d0c-4fe7-b71c-c9eea644c03f"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE234"
-   ],
-   "organisation": {
-    "organisationId": 160,
-    "organisationNames": [
-     {
-      "language": "NL",
-      "text": "Universiteit Gent"
-     },
-     {
-      "language": "EN",
-      "text": "Universiteit Gent"
-     },
-     {
-      "language": "DE",
-      "text": "Universiteit Gent"
-     },
-     {
-      "language": "FR",
-      "text": "Universiteit Gent"
-     }
-    ],
-    "tree": "200004.200026.160"
-   },
-   "procedureId": "9a89da31-c38a-4654-a9ba-21351939a10f",
-   "publicationDate": "2026-11-24",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP01G-3599/6176/_002"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "04a87117-88d7-4aba-904c-45d98a929980",
-   "publishedAt": [
-    "2026-11-24T00:00:47.281744"
-   ],
-   "referenceNumber": "PPP01G-3599/6176/_002",
-   "sentAt": [
-    "2026-11-24T00:00:47.281744"
-   ],
-   "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "16160000-4",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Diverse tuingereedschappen"
-      },
-      {
-       "language": "FR",
-       "text": "Matériel de jardinage divers"
-      },
-      {
-       "language": "EN",
-       "text": "Miscellaneous gardening equipment"
-      },
-      {
-       "language": "DE",
-       "text": "Verschiedenes Gärtnergerät"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "16160000-4",
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Diverse tuingereedschappen"
-     },
-     {
-      "language": "FR",
-      "text": "Matériel de jardinage divers"
-     },
-     {
-      "language": "EN",
-      "text": "Miscellaneous gardening equipment"
-     },
-     {
-      "language": "DE",
-      "text": "Verschiedenes Gärtnergerät"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-24",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Deze overheidsopdracht betreft de aankoop van een grote hakselaar met eigen motor en onderstel voor de groendienst van gemeente Koksijde. De hakselaar zal als aanhangwagen getrokken worden door onze bestelwagens of terreinwagens. "
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP00T-4142/6598/2026125",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP00T-4142/6598/2026125",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Leveren hakselaar op aanhangwagen voor de gemeentelijke groendienst"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-24",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Deze overheidsopdracht betreft de aankoop van een grote hakselaar met eigen motor en onderstel voor de groendienst van gemeente Koksijde. De hakselaar zal als aanhangwagen getrokken worden door onze bestelwagens of terreinwagens. "
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Leveren hakselaar op aanhangwagen voor de gemeentelijke groendienst"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SUPPLIES"
-   ],
-   "noticeIds": [
-    "843c2bc3-8495-4c4f-a3f8-38973dd2fc2d"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE258"
-   ],
-   "organisation": {
-    "organisationId": 260,
-    "organisationNames": [
-     {
-      "language": "EN",
-      "text": "Koksijde"
-     },
-     {
-      "language": "NL",
-      "text": "Koksijde"
-     },
-     {
-      "language": "FR",
-      "text": "Koksijde"
-     },
-     {
-      "language": "DE",
-      "text": "Koksijde"
-     }
-    ],
-    "tree": "200004.200021.260"
-   },
-   "procedureId": "b8e36d62-c17e-4dcf-8496-5410ca273e31",
-   "publicationDate": "2026-11-24",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP00T-4142/6598/2026125_002"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "6d3b8e8d-a275-4bc6-a044-ae092128c41c",
-   "publishedAt": [
-    "2026-11-24T00:00:47.719986"
-   ],
-   "referenceNumber": "PPP00T-4142/6598/2026125_002",
-   "sentAt": [
-    "2026-11-24T00:00:47.719986"
-   ],
-   "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "44114000-2",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Beton"
-      },
-      {
-       "language": "DE",
-       "text": "Beton"
-      },
-      {
-       "language": "FR",
-       "text": "Béton"
-      },
-      {
-       "language": "EN",
-       "text": "Concrete"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "44114000-2",
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Beton"
-     },
-     {
-      "language": "DE",
-      "text": "Beton"
-     },
-     {
-      "language": "FR",
-      "text": "Béton"
-     },
-     {
-      "language": "EN",
-      "text": "Concrete"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-24",
+   "dispatchDate": "2026-11-25",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
       "language": "FR",
-      "text": "Le marché envisagé consiste en la fourniture de béton pour l'entretien des voiries et ouvrages divers pour une année.  Il est considéré comme un marché stock qui consiste à demander une offre pour différents types de fournitures."
+      "text": "Le marché stock se rapporte à l’achat de matériaux pour la maçonnerie"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP04Z-2333/6170/2026-2333",
+    "number": "PPP0MY-416/6173/2026-368",
     "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP04Z-2333/6170/2026-2333",
+    "referenceNumber": "PPP0MY-416/6173/2026-368",
     "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
       "language": "FR",
-      "text": "Marché stock conjoint - Béton pour l'entretien des voiries et ouvrages divers 2027"
+      "text": "Stock de matériaux pour la maçonnerie (relance)"
      }
     ]
    },
-   "insertionDate": "2026-11-24",
+   "insertionDate": "2026-11-25",
    "lots": [
     {
      "descriptions": [
       {
        "language": "FR",
-       "text": "Le marché envisagé consiste en la fourniture de béton pour l'entretien des voiries et ouvrages divers pour une année.  Il est considéré comme un marché stock qui consiste à demander une offre pour différents types de fournitures."
+       "text": "Le marché stock se rapporte à l’achat de matériaux pour la maçonnerie"
       }
      ],
      "titles": [
       {
        "language": "FR",
-       "text": "Marché stock conjoint - Béton pour l'entretien des voiries et ouvrages divers 2027"
+       "text": "Stock de matériaux pour la maçonnerie (relance)"
       }
      ]
     }
@@ -396,51 +148,328 @@
     "SUPPLIES"
    ],
    "noticeIds": [
-    "ec91a9b4-502e-4af8-abb6-adb0162d4418"
+    "6d5613df-99f0-42b4-a73f-b46ae45fb36d"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE335"
+    "BE332"
    ],
    "organisation": {
-    "organisationId": 206,
+    "organisationId": 1061,
     "organisationNames": [
      {
+      "language": "NL",
+      "text": "Habitations Sociales de Saint-Nicolas"
+     },
+     {
       "language": "FR",
-      "text": "Dison"
+      "text": "Habitations Sociales de Saint-Nicolas"
      },
      {
       "language": "DE",
-      "text": "Dison"
-     },
-     {
-      "language": "NL",
-      "text": "Dison"
+      "text": "Habitations Sociales de Saint-Nicolas"
      },
      {
       "language": "EN",
-      "text": "Dison"
+      "text": "Habitations Sociales de Saint-Nicolas"
      }
     ],
-    "tree": "200004.200021.206"
+    "tree": "200004.200028.1061"
    },
-   "procedureId": "17ab26c8-bdc0-497c-bda0-8ca78651dc84",
-   "publicationDate": "2026-11-24",
+   "procedureId": "72379436-3683-44ee-bf31-630cbe9b0d1c",
+   "publicationDate": "2026-11-25",
    "publicationLanguages": [
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP04Z-2333/6170/2026-2333_002"
+    "PPP0MY-416/6173/2026-368_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "1b0412f4-3232-4724-b267-b8b15c68d84a",
+   "publicationWorkspaceId": "03e1c673-db7f-43e3-9a9b-c39858839cd5",
    "publishedAt": [
-    "2026-11-24T00:00:47.524042"
+    "2026-11-25T00:00:46.817765"
    ],
-   "referenceNumber": "PPP04Z-2333/6170/2026-2333_002",
+   "referenceNumber": "PPP0MY-416/6173/2026-368_002",
    "sentAt": [
-    "2026-11-24T00:00:47.524042"
+    "2026-11-25T00:00:46.817765"
+   ],
+   "tedPublished": false
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "39830000-9",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Produits de nettoyage"
+      },
+      {
+       "language": "NL",
+       "text": "Reinigingsmiddelen"
+      },
+      {
+       "language": "EN",
+       "text": "Cleaning products"
+      },
+      {
+       "language": "DE",
+       "text": "Reinigungsmittel"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "39830000-9",
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Produits de nettoyage"
+     },
+     {
+      "language": "NL",
+      "text": "Reinigingsmiddelen"
+     },
+     {
+      "language": "EN",
+      "text": "Cleaning products"
+     },
+     {
+      "language": "DE",
+      "text": "Reinigungsmittel"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-25",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Le présent accord-cadre porte sur la fourniture de divers matériel de nettoyage et de produits d'entretien destinés au nettoyage des bureaux de l'administration communale, du CPAS et de ses entités paralocales. "
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP04V-2255/6177/20262255",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "PPP04V-2255/6177/20262255",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Accord-cadre de produits de nettoyage et d'entretien pour les bâtiments de l'administration communale et du CPAS de Soumagne"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-25",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Le présent accord-cadre porte sur la fourniture de divers matériel de nettoyage et de produits d'entretien destinés au nettoyage des bureaux de l'administration communale, du CPAS et de ses entités paralocales. "
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Accord-cadre de produits de nettoyage et d'entretien pour les bâtiments de l'administration communale et du CPAS de Soumagne"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SUPPLIES"
+   ],
+   "noticeIds": [
+    "0b181367-a901-4406-917f-f383d5a648af"
+   ],
+   "noticeSubType": "16",
+   "nutsCodes": [
+    "BE332"
+   ],
+   "organisation": {
+    "organisationId": 443,
+    "organisationNames": [
+     {
+      "language": "FR",
+      "text": "Commune de Soumagne"
+     },
+     {
+      "language": "DE",
+      "text": "Soumagne"
+     },
+     {
+      "language": "NL",
+      "text": "Soumagne"
+     },
+     {
+      "language": "EN",
+      "text": "Soumagne"
+     }
+    ],
+    "tree": "200004.200021.443"
+   },
+   "procedureId": "e843461c-b944-42f6-bb92-5f4d4d63203a",
+   "publicationDate": "2026-11-25",
+   "publicationLanguages": [
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP04V-2255/6177/20262255_001"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "4d40bbb2-b1df-4906-8bb4-3f5d5ec40782",
+   "publishedAt": [
+    "2026-11-25T00:00:47.283645"
+   ],
+   "referenceNumber": "PPP04V-2255/6177/20262255_001",
+   "sentAt": [
+    "2026-11-25T00:00:47.283645"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-12-16T11:00:00"
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "30200000-1",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Computeranlagen und Zubehör"
+      },
+      {
+       "language": "FR",
+       "text": "Matériel et fournitures informatiques"
+      },
+      {
+       "language": "NL",
+       "text": "Computeruitrusting en -benodigdheden"
+      },
+      {
+       "language": "EN",
+       "text": "Computer equipment and supplies"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "30200000-1",
+    "descriptions": [
+     {
+      "language": "DE",
+      "text": "Computeranlagen und Zubehör"
+     },
+     {
+      "language": "FR",
+      "text": "Matériel et fournitures informatiques"
+     },
+     {
+      "language": "NL",
+      "text": "Computeruitrusting en -benodigdheden"
+     },
+     {
+      "language": "EN",
+      "text": "Computer equipment and supplies"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-25",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Aankopen en periodieke vervanging laptops en desktops 2"
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP0CU-9866/6213/2026/2786 - ICT - laptops",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP0CU-9866/6213/2026/2786 - ICT - laptops",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Aankopen en periodieke vervanging laptops en desktops 2"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-25",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Aankopen en periodieke vervanging laptops en desktops 2"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Aankopen en periodieke vervanging laptops en desktops 2"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SUPPLIES"
+   ],
+   "noticeIds": [
+    "07e361f9-8b56-466f-908a-09995bd22702"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE231"
+   ],
+   "organisation": {
+    "organisationId": 356,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "Deinze"
+     },
+     {
+      "language": "FR",
+      "text": "Deinze"
+     },
+     {
+      "language": "NL",
+      "text": "Deinze"
+     },
+     {
+      "language": "EN",
+      "text": "Deinze"
+     }
+    ],
+    "tree": "200004.200021.356"
+   },
+   "procedureId": "1ed04348-4b73-4ee1-8f5c-70ffe190de77",
+   "publicationDate": "2026-11-25",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP0CU-9866/6213/2026/2786 - ICT - laptops_002"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "67609c78-b3f9-4916-bd61-03a2dd0870a1",
+   "publishedAt": [
+    "2026-11-25T00:00:47.027053"
+   ],
+   "referenceNumber": "PPP0CU-9866/6213/2026/2786 - ICT - laptops_002",
+   "sentAt": [
+    "2026-11-25T00:00:47.027053"
    ],
    "tedPublished": false
   }
@@ -449,135 +478,157 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "92312000-1",
+     "code": "44000000-0",
      "descriptions": [
       {
        "language": "FR",
-       "text": "Services artistiques"
+       "text": "Matériaux et structures de construction, produits auxiliaires pour la construction (à l'exception des appareils électriques)"
       },
       {
        "language": "DE",
-       "text": "Künstlerische Dienstleistungen"
-      },
-      {
-       "language": "NL",
-       "text": "Artistieke diensten"
+       "text": "Baukonstruktionen und Baustoffe, Bauhilfsprodukte (elektrische Apparate ausgenommen)"
       },
       {
        "language": "EN",
-       "text": "Artistic services"
+       "text": "Construction structures and materials, auxiliary products to construction (except electric apparatus)"
+      },
+      {
+       "language": "NL",
+       "text": "Structuren en materialen voor de bouw, ondersteunende producten voor de bouw (uitgezonderd elektrische apparatuur)"
+      }
+     ]
+    },
+    {
+     "code": "44110000-4",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Constructiematerialen"
+      },
+      {
+       "language": "FR",
+       "text": "Matériaux de construction"
+      },
+      {
+       "language": "DE",
+       "text": "Baustoffe"
+      },
+      {
+       "language": "EN",
+       "text": "Construction materials"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "92312000-1",
+    "code": "44000000-0",
     "descriptions": [
      {
       "language": "FR",
-      "text": "Services artistiques"
+      "text": "Matériaux et structures de construction, produits auxiliaires pour la construction (à l'exception des appareils électriques)"
      },
      {
       "language": "DE",
-      "text": "Künstlerische Dienstleistungen"
-     },
-     {
-      "language": "NL",
-      "text": "Artistieke diensten"
+      "text": "Baukonstruktionen und Baustoffe, Bauhilfsprodukte (elektrische Apparate ausgenommen)"
      },
      {
       "language": "EN",
-      "text": "Artistic services"
+      "text": "Construction structures and materials, auxiliary products to construction (except electric apparatus)"
+     },
+     {
+      "language": "NL",
+      "text": "Structuren en materialen voor de bouw, ondersteunende producten voor de bouw (uitgezonderd elektrische apparatuur)"
      }
     ]
    },
-   "dispatchDate": "2026-11-24",
+   "dispatchDate": "2026-11-25",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
-      "language": "NL",
-      "text": "De opdracht beoogt de inbreng van hedendaagse kunstenaars in de renovatie van T4 tot Architectuurschool.   De studie-opdracht met betrekking tot de Architectuurschool T4, via de Open Oproep, is op 14 juni 2022 gegund aan de TM Havana Architectuur - Karuur architecten - Servais Engineering Architectural - Wim Cuyvers.   In de opdrachtdocumenten bij deze opdracht is de inbreng van hedendaagse kunstenaars als een na te streven ambitie vooropgesteld. Daarbij werd een samenwerking met de vzw COREATELIER vooropgesteld. "
+      "language": "FR",
+      "text": "Le marché stock se rapporte à l’achat de matériaux pour la maçonnerie"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP01G-3599/6176/",
+    "number": "PPP0MY-416/6173/2026-368",
     "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP01G-3599/6176/",
+    "referenceNumber": "PPP0MY-416/6173/2026-368",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
-      "language": "NL",
-      "text": "Kunstintegratie T4"
+      "language": "FR",
+      "text": "Stock de matériaux pour la maçonnerie (relance)"
      }
     ]
    },
-   "insertionDate": "2026-11-24",
+   "insertionDate": "2026-11-25",
    "lots": [
     {
      "descriptions": [
       {
-       "language": "NL",
-       "text": "De opdracht beoogt de inbreng van hedendaagse kunstenaars in de renovatie van T4 tot Architectuurschool.   De studie-opdracht met betrekking tot de Architectuurschool T4, via de Open Oproep, is op 14 juni 2022 gegund aan de TM Havana Architectuur - Karuur architecten - Servais Engineering Architectural - Wim Cuyvers.   In de opdrachtdocumenten bij deze opdracht is de inbreng van hedendaagse kunstenaars als een na te streven ambitie vooropgesteld. Daarbij werd een samenwerking met de vzw COREATELIER vooropgesteld. "
+       "language": "FR",
+       "text": "Le marché stock se rapporte à l’achat de matériaux pour la maçonnerie"
       }
      ],
      "titles": [
       {
-       "language": "NL",
-       "text": "Kunstintegratie T4"
+       "language": "FR",
+       "text": "Stock de matériaux pour la maçonnerie (relance)"
       }
      ]
     }
    ],
    "natures": [
-    "SERVICES"
+    "SUPPLIES"
    ],
    "noticeIds": [
-    "e19b4bff-4d0c-4fe7-b71c-c9eea644c03f"
+    "6d5613df-99f0-42b4-a73f-b46ae45fb36d"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE234"
+    "BE332"
    ],
    "organisation": {
-    "organisationId": 160,
+    "organisationId": 1061,
     "organisationNames": [
      {
       "language": "NL",
-      "text": "Universiteit Gent"
-     },
-     {
-      "language": "EN",
-      "text": "Universiteit Gent"
-     },
-     {
-      "language": "DE",
-      "text": "Universiteit Gent"
+      "text": "Habitations Sociales de Saint-Nicolas"
      },
      {
       "language": "FR",
-      "text": "Universiteit Gent"
+      "text": "Habitations Sociales de Saint-Nicolas"
+     },
+     {
+      "language": "DE",
+      "text": "Habitations Sociales de Saint-Nicolas"
+     },
+     {
+      "language": "EN",
+      "text": "Habitations Sociales de Saint-Nicolas"
      }
     ],
-    "tree": "200004.200026.160"
+    "tree": "200004.200028.1061"
    },
-   "procedureId": "9a89da31-c38a-4654-a9ba-21351939a10f",
-   "publicationDate": "2026-11-24",
+   "procedureId": "72379436-3683-44ee-bf31-630cbe9b0d1c",
+   "publicationDate": "2026-11-25",
    "publicationLanguages": [
-    "NL"
+    "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP01G-3599/6176/_002"
+    "PPP0MY-416/6173/2026-368_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "04a87117-88d7-4aba-904c-45d98a929980",
+   "publicationWorkspaceId": "03e1c673-db7f-43e3-9a9b-c39858839cd5",
    "publishedAt": [
-    "2026-11-24T00:00:47.281744"
+    "2026-11-25T00:00:46.817765"
    ],
-   "referenceNumber": "PPP01G-3599/6176/_002",
+   "referenceNumber": "PPP0MY-416/6173/2026-368_002",
    "sentAt": [
-    "2026-11-24T00:00:47.281744"
+    "2026-11-25T00:00:46.817765"
    ],
    "tedPublished": false
   }
