@@ -1,16 +1,11 @@
 {
- "updated": "2026-11-24T16:25:45Z",
+ "updated": "2026-11-24T17:01:51Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 375,
- "kept": 166,
+ "received": 377,
+ "kept": 167,
  "count": 3707,
- "new_ids": [
-  "bda-f9340ecb-4ba0-47ab-90ac-f927dd577a72",
-  "bda-d8d718ab-b8c7-4188-866f-7a767fcd92c4",
-  "bda-45d6cb05-47df-43b2-acb8-4168b875604a",
-  "bda-725ce17a-d503-4d7e-8840-8fd5da4b0e44"
- ],
+ "new_ids": [],
  "records": [
   {
    "id": "bda-1b0412f4-3232-4724-b267-b8b15c68d84a",
@@ -1859,6 +1854,27 @@
    "procedure": "2c07bfe5-eb07-4b0b-baf4-2d0e3ff6df6f",
    "dossier": "5733326079",
    "first_seen": "2026-11-24T16:25:45Z"
+  },
+  {
+   "id": "bda-cad3de71-6788-474f-a335-0dd5e9ba2302",
+   "source_type": "BDA",
+   "nom": "Renovatie wegenis Vredegerechtstraat en Van Duysestraat (deel tussen Vredegerechtstraat en Daknamstraat)",
+   "lieu": "Flandre-Orientale",
+   "province": "Flandre-Orientale",
+   "mo": "Lokeren",
+   "etape": 4,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/cad3de71-6788-474f-a335-0dd5e9ba2302",
+   "verif": "vérifié",
+   "verif_date": "2026-11-24",
+   "preuve": "Bulletin des Adjudications, réf. PPP00A-22020/6244/INFRA 2025/025-4 (deel 2026) (avis de marché, sous-type eForms 16), publié le 2026-11-24.",
+   "date_publication": "2026-11-24",
+   "cpv": "45233120",
+   "ted_ref": "",
+   "notes": "Voorwerp van deze werken: Aanpassing van het straatbeeld door totaalrenovatie van de wegenis, koffer en bovenbouw, in de Van Duysestraat (vanaf Daknamstraat tot Vredegerechtstraat) en de Vredegerechtstraat (tussen Van Duysestraat en N70). De totaalrenovatie omvat: • Vernieuwing en uniformering wegde",
+   "procedure": "0ed74527-30ab-43c7-9891-6a965bf79cfc",
+   "dossier": "PPP00A-22020/6244/INFRA 2025/025-4 (deel 2026)",
+   "first_seen": "2026-10-30T15:01:50Z"
   },
   {
    "id": "bda-662be994-d070-43d3-a1c3-fa927fd1fe62",
@@ -31574,27 +31590,6 @@
    "procedure": "936a9243-3e7f-4dbd-8d48-8b5da9a40865",
    "dossier": "PPP0AQ-1166/6140/CSC2026-086/1166",
    "first_seen": "2026-10-30T13:01:51Z"
-  },
-  {
-   "id": "bda-cad3de71-6788-474f-a335-0dd5e9ba2302",
-   "source_type": "BDA",
-   "nom": "Renovatie wegenis Vredegerechtstraat en Van Duysestraat (deel tussen Vredegerechtstraat en Daknamstraat)",
-   "lieu": "Flandre-Orientale",
-   "province": "Flandre-Orientale",
-   "mo": "Lokeren",
-   "etape": 4,
-   "sur_ted": false,
-   "source": "https://www.publicprocurement.be/publication-workspaces/cad3de71-6788-474f-a335-0dd5e9ba2302",
-   "verif": "vérifié",
-   "verif_date": "2026-11-02",
-   "preuve": "Bulletin des Adjudications, réf. PPP00A-22020/6244/INFRA 2025/025-4 (deel 2026) (avis de marché, sous-type eForms 16), publié le 2026-10-30.",
-   "date_publication": "2026-10-30",
-   "cpv": "45233120",
-   "ted_ref": "",
-   "notes": "Voorwerp van deze werken: Aanpassing van het straatbeeld door totaalrenovatie van de wegenis, koffer en bovenbouw, in de Van Duysestraat (vanaf Daknamstraat tot Vredegerechtstraat) en de Vredegerechtstraat (tussen Van Duysestraat en N70). De totaalrenovatie omvat: • Vernieuwing en uniformering wegde",
-   "procedure": "0ed74527-30ab-43c7-9891-6a965bf79cfc",
-   "dossier": "PPP00A-22020/6244/INFRA 2025/025-4 (deel 2026)",
-   "first_seen": "2026-10-30T15:01:50Z"
   },
   {
    "id": "bda-666ba2ba-1abe-46cc-b78e-9b59e9547e02",
