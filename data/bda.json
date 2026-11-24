@@ -1,13 +1,12 @@
 {
- "updated": "2026-11-24T19:01:47Z",
+ "updated": "2026-11-24T21:01:27Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 380,
- "kept": 170,
- "count": 3709,
+ "received": 384,
+ "kept": 171,
+ "count": 3710,
  "new_ids": [
-  "bda-e7f844bf-4b22-46a2-a5ba-b5f4485b2e8d",
-  "bda-c7da2bd2-a6d7-4a7b-8188-bf210de77fa1"
+  "bda-e1df45d7-f70b-4a53-9b7f-afe6eb3c8aae"
  ],
  "records": [
   {
@@ -1941,6 +1940,27 @@
    "procedure": "dbe5e72c-719c-49f6-bc3a-a16a5209bfa5",
    "dossier": "GAC_2026_03907",
    "first_seen": "2026-11-24T19:01:47Z"
+  },
+  {
+   "id": "bda-e1df45d7-f70b-4a53-9b7f-afe6eb3c8aae",
+   "source_type": "BDA",
+   "nom": "RÉNOVATION ÉNERGÉTIQUE: TRAVAUX D’ISOLATION ET ÉTANCHÉITÉ DE LA PLATEFORME DE LA SALLE POLYVALENTE.",
+   "lieu": "Hainaut",
+   "province": "Hainaut",
+   "mo": "Château des Hamendes",
+   "etape": 5,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/e1df45d7-f70b-4a53-9b7f-afe6eb3c8aae",
+   "verif": "vérifié",
+   "verif_date": "2026-11-24",
+   "preuve": "Bulletin des Adjudications, réf. 2026-002 (attribution, sous-type eForms 29), publié le 2026-11-24.",
+   "date_publication": "2026-11-24",
+   "cpv": "45261410,45261000",
+   "ted_ref": "",
+   "notes": "Le chantier concerne l'isolation et l'étanchéité d'une toiture plateforme avec support intérieur en tôle galvanisée.",
+   "procedure": "63187cbc-60ed-4ba2-bbea-ee130d7e221e",
+   "dossier": "2026-002",
+   "first_seen": "2026-11-24T21:01:27Z"
   },
   {
    "id": "bda-662be994-d070-43d3-a1c3-fa927fd1fe62",
