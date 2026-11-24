@@ -1,12 +1,47 @@
 {
- "updated": "2026-11-24T03:01:31Z",
+ "updated": "2026-11-24T04:59:19Z",
  "source": "urban.brussels NOVA (WFS)",
  "days_back": 3,
- "received": 25,
- "kept": 1,
- "count": 232,
- "new_ids": [],
+ "received": 38,
+ "kept": 3,
+ "count": 234,
+ "new_ids": [
+  "nova-02/PFD/2053647",
+  "nova-01/PU/2053568"
+ ],
  "records": [
+  {
+   "id": "nova-02/PFD/2053647",
+   "source_type": "Permis",
+   "nom": "Permis d'urbanisme délivré par le FD",
+   "lieu": "Chaussée de Wavre 1183, 1160 Auderghem",
+   "type": "Permis d'urbanisme délivré par le FD",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='02/PFD/2053647'",
+   "verif": "vérifié",
+   "verif_date": "2026-11-24",
+   "preuve": "Demande de permis 02/PFD/2053647 reçue le 2026-11-23 (urban.brussels, service NOVA), surface projetée 6291 m².",
+   "date_publication": "2026-11-23",
+   "notes": "Autorité : BUP",
+   "first_seen": "2026-11-24T04:59:19Z"
+  },
+  {
+   "id": "nova-01/PU/2053568",
+   "source_type": "Permis",
+   "nom": "Permis d'urbanisme privé",
+   "lieu": "Avenue Clemenceau 109, 1070 Anderlecht",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='01/PU/2053568'",
+   "verif": "vérifié",
+   "verif_date": "2026-11-24",
+   "preuve": "Demande de permis 01/PU/2053568 reçue le 2026-11-23 (urban.brussels, service NOVA), surface projetée 1744 m².",
+   "date_publication": "2026-11-23",
+   "notes": "Autorité : Anderlecht",
+   "first_seen": "2026-11-24T04:59:19Z"
+  },
   {
    "id": "nova-04/PU/2053469",
    "source_type": "Permis",
