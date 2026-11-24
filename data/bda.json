@@ -1,11 +1,13 @@
 {
- "updated": "2026-11-24T05:02:16Z",
+ "updated": "2026-11-24T07:01:42Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 232,
- "kept": 99,
- "count": 3663,
- "new_ids": [],
+ "received": 233,
+ "kept": 100,
+ "count": 3664,
+ "new_ids": [
+  "bda-47dbe672-856d-4906-9e7b-9c2525c7b201"
+ ],
  "records": [
   {
    "id": "bda-1b0412f4-3232-4724-b267-b8b15c68d84a",
@@ -405,6 +407,27 @@
    "procedure": "4558006b-4b72-4ba0-989c-6d97f35dd693",
    "dossier": "2026-DBM-155",
    "first_seen": "2026-11-24T04:59:15Z"
+  },
+  {
+   "id": "bda-47dbe672-856d-4906-9e7b-9c2525c7b201",
+   "source_type": "BDA",
+   "nom": "Vernieuwen rijbaan Mandsteenweg tussen Lombardenveld en Spiegellaan",
+   "lieu": "Brabant flamand",
+   "province": "Brabant flamand",
+   "mo": "Merchtem",
+   "etape": 5,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/47dbe672-856d-4906-9e7b-9c2525c7b201",
+   "verif": "vérifié",
+   "verif_date": "2026-11-24",
+   "preuve": "Bulletin des Adjudications, réf. PPP06G-2460/6168/AD/OW/MANDSTEENWEG/2026/43 (attribution, sous-type eForms E4), publié le 2026-11-24.",
+   "date_publication": "2026-11-24",
+   "cpv": "45233120",
+   "ted_ref": "",
+   "notes": "Vernieuwen rijbaan Mandsteenweg tussen Lombardenveld en Spiegellaan",
+   "procedure": "f140d830-3238-469a-b669-5e159d479069",
+   "dossier": "PPP06G-2460/6168/AD/OW/MANDSTEENWEG/2026/43",
+   "first_seen": "2026-11-24T07:01:42Z"
   },
   {
    "id": "bda-662be994-d070-43d3-a1c3-fa927fd1fe62",
