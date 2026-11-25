@@ -1,16 +1,35 @@
 {
- "updated": "2026-11-25T11:01:52Z",
+ "updated": "2026-11-25T13:01:44Z",
  "source": "urban.brussels NOVA (WFS)",
  "days_back": 3,
- "received": 59,
- "kept": 8,
- "count": 240,
- "new_ids": [],
+ "received": 65,
+ "kept": 10,
+ "count": 242,
+ "new_ids": [
+  "nova-16/PFD/2053887",
+  "nova-16/PU/2053784"
+ ],
  "records": [
+  {
+   "id": "nova-16/PFD/2053887",
+   "source_type": "Permis",
+   "nom": "Permis d'urbanisme délivré par le FD",
+   "lieu": "Avenue Bel-Air 69, 1180 Uccle",
+   "type": "Permis d'urbanisme délivré par le FD",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='16/PFD/2053887'",
+   "verif": "vérifié",
+   "verif_date": "2026-11-25",
+   "preuve": "Demande de permis 16/PFD/2053887 reçue le 2026-11-25 (urban.brussels, service NOVA), surface projetée 4409 m².",
+   "date_publication": "2026-11-25",
+   "notes": "Autorité : BUP",
+   "first_seen": "2026-11-25T13:01:44Z"
+  },
   {
    "id": "nova-05/PFD/2053838",
    "source_type": "Permis",
-   "nom": "Permis d'urbanisme délivré par le FD",
+   "nom": "Het voorwerp van de vergunningsaanvraag is de ingrijpende renovatie van gebouw C . Het project beoogt de inrichting van een sociale kringloopwinkel (meubilair en textiel) op de eerste en tweede verdie",
    "lieu": "Rue Louis Hap 2, 1040 Etterbeek",
    "type": "Permis d'urbanisme délivré par le FD",
    "mo": "",
@@ -88,6 +107,22 @@
    "first_seen": "2026-11-25T05:02:15Z"
   },
   {
+   "id": "nova-16/PU/2053784",
+   "source_type": "Permis",
+   "nom": "mettre en conformité un appartement dans un immeuble de rapport",
+   "lieu": "Avenue Winston Churchill 221, 1180 Uccle",
+   "type": "Permis d'urbanisme privé",
+   "mo": "",
+   "etape": 1,
+   "source": "https://geoservices-vector.irisnet.be/geoserver/Nova/wfs?service=WFS&version=2.0.0&request=GetFeature&typeNames=Nova:PlanningPermits&outputFormat=application/json&cql_filter=novaReference='16/PU/2053784'",
+   "verif": "vérifié",
+   "verif_date": "2026-11-25",
+   "preuve": "Demande de permis 16/PU/2053784 reçue le 2026-11-24 (urban.brussels, service NOVA), surface projetée 152 m².",
+   "date_publication": "2026-11-24",
+   "notes": "Autorité : Uccle",
+   "first_seen": "2026-11-25T13:01:44Z"
+  },
+  {
    "id": "nova-02/PFD/2053647",
    "source_type": "Permis",
    "nom": "Transformer une Concession Automobile en magasin LIDL.",
@@ -107,7 +142,7 @@
    "id": "nova-01/PU/2053568",
    "source_type": "Permis",
    "nom": "Permis d'urbanisme privé",
-   "lieu": "Avenue Clemenceau 109, 1070 Anderlecht",
+   "lieu": "Avenue Clemenceau 107, 1070 Anderlecht",
    "type": "Permis d'urbanisme privé",
    "mo": "",
    "etape": 1,
