@@ -1,13 +1,12 @@
 {
- "updated": "2026-11-25T17:01:34Z",
+ "updated": "2026-11-25T19:02:04Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 598,
- "kept": 254,
- "count": 3769,
+ "received": 613,
+ "kept": 257,
+ "count": 3770,
  "new_ids": [
-  "bda-6715cdd0-2e9e-4a89-a218-bef8ec7664db",
-  "bda-80518c1c-6a60-4068-8046-4a0157f66449"
+  "bda-2910700c-a8ff-41d2-bc36-055cc1a91ce7"
  ],
  "records": [
   {
@@ -1794,6 +1793,27 @@
    "procedure": "08ec11f2-7ae2-4ebd-a473-65be6c77163e",
    "dossier": "PPP01L-4069/6131/2026038",
    "first_seen": "2026-11-25T17:01:34Z"
+  },
+  {
+   "id": "bda-2910700c-a8ff-41d2-bc36-055cc1a91ce7",
+   "source_type": "BDA",
+   "nom": "Gewone ruimings-, onderhouds- en herstellingswerken op onbevaarbare waterlopen van de 1ste categorie in de buitendienst Antwerpen: Kleine Nete, Wimp en Grote Laak",
+   "lieu": "Anvers",
+   "province": "Anvers",
+   "mo": "Vlaamse Milieumaatschappij",
+   "etape": 4,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/2910700c-a8ff-41d2-bc36-055cc1a91ce7",
+   "verif": "vérifié",
+   "verif_date": "2026-11-25",
+   "preuve": "Bulletin des Adjudications, réf. L2026R0003A (avis de marché, sous-type eForms 16), publié le 2026-11-25.",
+   "date_publication": "2026-11-25",
+   "cpv": "45246000",
+   "ted_ref": "",
+   "notes": "Deze aanneming omvat voornamelijk: • maaien van talud- en/of oevervegetatie • maaien van bodemvegetatie • oppervlakkige ruiming • afvoer van zwerfvuil • regiewerken • kleine herstellingswerken • ….",
+   "procedure": "371c6819-58b1-4c56-8bbc-05a1f94adf2c",
+   "dossier": "L2026R0003A",
+   "first_seen": "2026-11-25T19:02:04Z"
   },
   {
    "id": "bda-1b0412f4-3232-4724-b267-b8b15c68d84a",
