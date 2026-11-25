@@ -1,23 +1,12 @@
 {
- "updated": "2026-11-25T05:02:10Z",
+ "updated": "2026-11-25T07:01:29Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 479,
- "kept": 194,
- "count": 3726,
+ "received": 481,
+ "kept": 195,
+ "count": 3727,
  "new_ids": [
-  "bda-306bdfab-328c-4c81-b4b0-d85c792c8105",
-  "bda-a97eb555-d54a-43be-b91b-be44645d0575",
-  "bda-3eddfdee-7cc1-4175-b5c4-cc5147f01086",
-  "bda-bb207ade-570c-4826-9394-4af4e831ec76",
-  "bda-2829f4a6-10a5-475a-9f22-fad4c313ebe5",
-  "bda-366a9573-74ad-4d1e-aa76-22e532d4d826",
-  "bda-6776c18d-e7da-4029-ba2b-18a347b8f24d",
-  "bda-0eb35bf9-6b03-4c8f-87d0-d401b221d3b1",
-  "bda-e8e319fd-70ec-40a7-8117-ff25ed672317",
-  "bda-43432310-8a61-4a82-ba9a-9028dc62fa11",
-  "bda-91d5c4eb-69e3-414c-bb18-1a15a2cee7d5",
-  "bda-c672aa79-f3af-42b2-b0ab-f33ae08286d9"
+  "bda-da903156-ebf8-4d76-83a0-dda930e038e8"
  ],
  "records": [
   {
@@ -544,6 +533,27 @@
    "procedure": "24b740f8-a0bf-47b6-91e5-cb8179623507",
    "dossier": "2026 MPGR",
    "first_seen": "2026-11-25T05:02:10Z"
+  },
+  {
+   "id": "bda-da903156-ebf8-4d76-83a0-dda930e038e8",
+   "source_type": "BDA",
+   "nom": "Raamovereenkomst voor herstellingen wegen en riolering 02/2027-01/2029",
+   "lieu": "Flandre-Occidentale",
+   "province": "Flandre-Occidentale",
+   "mo": "Zwevegem",
+   "etape": 4,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/da903156-ebf8-4d76-83a0-dda930e038e8",
+   "verif": "vérifié",
+   "verif_date": "2026-11-25",
+   "preuve": "Bulletin des Adjudications, réf. PPP01K-1391/6182/ANK2027011 (avis de marché, sous-type eForms 16), publié le 2026-11-25.",
+   "date_publication": "2026-11-25",
+   "cpv": "45233142,45233120,45247100,45232440,45233141,45233220",
+   "ted_ref": "",
+   "notes": "Deze opdracht bestaat vooral uit het leveren van prestaties met divers materieel voor aanleg en/of onderhoud van wegen, trage wegen, fiets- en voetpaden, rioleringen en waterbouwkundige werken. De werken dienen op afroep doorheen de volledige looptijd van de opdracht te worden uitgevoerd op verschil",
+   "procedure": "b56890c5-bcfc-4af3-aaef-82bc00a5f319",
+   "dossier": "PPP01K-1391/6182/ANK2027011",
+   "first_seen": "2026-11-25T07:01:29Z"
   },
   {
    "id": "bda-1b0412f4-3232-4724-b267-b8b15c68d84a",
