@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 297036
+  "totalCount": 297058
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -48,66 +48,45 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "44000000-0",
+     "code": "72000000-5",
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Matériaux et structures de construction, produits auxiliaires pour la construction (à l'exception des appareils électriques)"
-      },
-      {
        "language": "DE",
-       "text": "Baukonstruktionen und Baustoffe, Bauhilfsprodukte (elektrische Apparate ausgenommen)"
-      },
-      {
-       "language": "EN",
-       "text": "Construction structures and materials, auxiliary products to construction (except electric apparatus)"
+       "text": "IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung"
       },
       {
        "language": "NL",
-       "text": "Structuren en materialen voor de bouw, ondersteunende producten voor de bouw (uitgezonderd elektrische apparatuur)"
-      }
-     ]
-    },
-    {
-     "code": "44110000-4",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Constructiematerialen"
-      },
-      {
-       "language": "FR",
-       "text": "Matériaux de construction"
-      },
-      {
-       "language": "DE",
-       "text": "Baustoffe"
+       "text": "IT-diensten: adviezen, softwareontwikkeling, internet en ondersteuning"
       },
       {
        "language": "EN",
-       "text": "Construction materials"
+       "text": "IT services: consulting, software development, Internet and support"
+      },
+      {
+       "language": "FR",
+       "text": "Services de technologies de l'information, conseil, développement de logiciels, internet et appui"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "44000000-0",
+    "code": "72000000-5",
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Matériaux et structures de construction, produits auxiliaires pour la construction (à l'exception des appareils électriques)"
-     },
-     {
       "language": "DE",
-      "text": "Baukonstruktionen und Baustoffe, Bauhilfsprodukte (elektrische Apparate ausgenommen)"
-     },
-     {
-      "language": "EN",
-      "text": "Construction structures and materials, auxiliary products to construction (except electric apparatus)"
+      "text": "IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung"
      },
      {
       "language": "NL",
-      "text": "Structuren en materialen voor de bouw, ondersteunende producten voor de bouw (uitgezonderd elektrische apparatuur)"
+      "text": "IT-diensten: adviezen, softwareontwikkeling, internet en ondersteuning"
+     },
+     {
+      "language": "EN",
+      "text": "IT services: consulting, software development, Internet and support"
+     },
+     {
+      "language": "FR",
+      "text": "Services de technologies de l'information, conseil, développement de logiciels, internet et appui"
      }
     ]
    },
@@ -116,165 +95,29 @@
     "accreditations": {},
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Le marché stock se rapporte à l’achat de matériaux pour la maçonnerie"
+      "language": "NL",
+      "text": "De opdracht betreft de ontwikkeling, integratie, implementatie en het onderhoud van KlantInZicht: een oplossing die klantencontacten structureel inzet als bron van klantinzicht. De oplossing analyseert, clustert en visualiseert klantencontacten zodat communicatie, beleid en operationele sturing worden gevoed door wat er werkelijk leeft bij de klant.  Meer informatie is terug te vinden in het bestek.       Er wordt een informatievergadering voorzien op 18/11/2026 om 15 u. De inschrijver wordt verzocht om op voorhand te laten weten dat hij zal deelnemen via mail op winnie.vandebroeck@lv.vlaanderen.be . Gelieve het besteknummer als referentie te vermelden."
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP0MY-416/6173/2026-368",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP0MY-416/6173/2026-368",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "Stock de matériaux pour la maçonnerie (relance)"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-25",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Le marché stock se rapporte à l’achat de matériaux pour la maçonnerie"
-      }
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Stock de matériaux pour la maçonnerie (relance)"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SUPPLIES"
-   ],
-   "noticeIds": [
-    "6d5613df-99f0-42b4-a73f-b46ae45fb36d"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE332"
-   ],
-   "organisation": {
-    "organisationId": 1061,
-    "organisationNames": [
-     {
-      "language": "NL",
-      "text": "Habitations Sociales de Saint-Nicolas"
-     },
-     {
-      "language": "FR",
-      "text": "Habitations Sociales de Saint-Nicolas"
-     },
-     {
-      "language": "DE",
-      "text": "Habitations Sociales de Saint-Nicolas"
-     },
-     {
-      "language": "EN",
-      "text": "Habitations Sociales de Saint-Nicolas"
-     }
-    ],
-    "tree": "200004.200028.1061"
-   },
-   "procedureId": "72379436-3683-44ee-bf31-630cbe9b0d1c",
-   "publicationDate": "2026-11-25",
-   "publicationLanguages": [
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP0MY-416/6173/2026-368_002"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "03e1c673-db7f-43e3-9a9b-c39858839cd5",
-   "publishedAt": [
-    "2026-11-25T00:00:46.817765"
-   ],
-   "referenceNumber": "PPP0MY-416/6173/2026-368_002",
-   "sentAt": [
-    "2026-11-25T00:00:46.817765"
-   ],
-   "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "39830000-9",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Produits de nettoyage"
-      },
-      {
-       "language": "NL",
-       "text": "Reinigingsmiddelen"
-      },
-      {
-       "language": "EN",
-       "text": "Cleaning products"
-      },
-      {
-       "language": "DE",
-       "text": "Reinigungsmittel"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "39830000-9",
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Produits de nettoyage"
-     },
-     {
-      "language": "NL",
-      "text": "Reinigingsmiddelen"
-     },
-     {
-      "language": "EN",
-      "text": "Cleaning products"
-     },
-     {
-      "language": "DE",
-      "text": "Reinigungsmittel"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-25",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Le présent accord-cadre porte sur la fourniture de divers matériel de nettoyage et de produits d'entretien destinés au nettoyage des bureaux de l'administration communale, du CPAS et de ses entités paralocales. "
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP04V-2255/6177/20262255",
+    "number": "2026_082_LV_ADO_IT_VOPMB_D",
     "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "PPP04V-2255/6177/20262255",
+    "referenceNumber": "2026_082_LV_ADO_IT_VOPMB_D",
     "titles": [
      {
-      "language": "FR",
-      "text": "Accord-cadre de produits de nettoyage et d'entretien pour les bâtiments de l'administration communale et du CPAS de Soumagne"
+      "language": "NL",
+      "text": "2026_082_LV_ADO_IT_VOPMB_D - KlantInZicht"
      }
     ]
    },
-   "insertionDate": "2026-11-25",
+   "insertionDate": "2026-10-30",
    "lots": [
     {
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Le présent accord-cadre porte sur la fourniture de divers matériel de nettoyage et de produits d'entretien destinés au nettoyage des bureaux de l'administration communale, du CPAS et de ses entités paralocales. "
+       "language": "NL",
+       "text": "De opdracht betreft de ontwikkeling, integratie, implementatie en het onderhoud van KlantInZicht: een oplossing die klantencontacten structureel inzet als bron van klantinzicht. De oplossing analyseert, clustert en visualiseert klantencontacten zodat communicatie, beleid en operationele sturing worden gevoed door wat er werkelijk leeft bij de klant.  Meer informatie is terug te vinden in het bestek.   Er wordt een informatievergadering voorzien op 18/11/2026 om 15 u. De inschrijver wordt verzocht om op voorhand te laten weten dat hij zal deelnemen via mail op winnie.vandebroeck@lv.vlaanderen.be . Gelieve het besteknummer als referentie te vermelden."
       }
      ],
      "reservedExecution": [
@@ -285,107 +128,110 @@
      ],
      "titles": [
       {
-       "language": "FR",
-       "text": "Accord-cadre de produits de nettoyage et d'entretien pour les bâtiments de l'administration communale et du CPAS de Soumagne"
+       "language": "NL",
+       "text": "2026_082_LV_ADO_IT_VOPMB_D - 1"
       }
      ]
     }
    ],
    "natures": [
-    "SUPPLIES"
+    "SERVICES"
    ],
    "noticeIds": [
-    "0b181367-a901-4406-917f-f383d5a648af"
+    "2e66cb5d-b69a-474b-ae64-942ca2df1f9c",
+    "2487f5d4-4612-4116-bee2-20e6edc6e826"
    ],
    "noticeSubType": "16",
    "nutsCodes": [
-    "BE332"
+    "BE"
    ],
    "organisation": {
-    "organisationId": 443,
+    "organisationId": 5701,
     "organisationNames": [
      {
+      "language": "EN",
+      "text": "Departement Landbouw en Visserij"
+     },
+     {
       "language": "FR",
-      "text": "Commune de Soumagne"
+      "text": "Departement Landbouw en Visserij"
      },
      {
       "language": "DE",
-      "text": "Soumagne"
+      "text": "Departement Landbouw en Visserij"
      },
      {
       "language": "NL",
-      "text": "Soumagne"
-     },
-     {
-      "language": "EN",
-      "text": "Soumagne"
+      "text": "Agentschap Landbouw en Zeevisserij"
      }
     ],
-    "tree": "200004.200021.443"
+    "tree": "200003.200015.73.4643.5701"
    },
-   "procedureId": "e843461c-b944-42f6-bb92-5f4d4d63203a",
+   "procedureId": "7bc8dad5-2984-4055-afe7-74545dd8305b",
    "publicationDate": "2026-11-25",
    "publicationLanguages": [
-    "FR"
+    "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP04V-2255/6177/20262255_001"
+    "2026_082_LV_ADO_IT_VOPMB_D_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "4d40bbb2-b1df-4906-8bb4-3f5d5ec40782",
+   "publicationWorkspaceId": "d995dd0d-e2fc-451c-9b1e-b4d5e07a80c6",
    "publishedAt": [
-    "2026-11-25T00:00:47.283645"
+    "2026-10-30T14:42:45.031886",
+    "2026-11-25T10:40:46.018894"
    ],
-   "referenceNumber": "PPP04V-2255/6177/20262255_001",
+   "referenceNumber": "2026_082_LV_ADO_IT_VOPMB_D_pub01",
    "sentAt": [
-    "2026-11-25T00:00:47.283645"
+    "2026-10-30T14:42:45.031886",
+    "2026-11-25T10:40:46.018894"
    ],
    "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-12-16T11:00:00"
+   "vaultSubmissionDeadline": "2026-12-02T15:00:00"
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "30200000-1",
+     "code": "92332000-7",
      "descriptions": [
       {
        "language": "DE",
-       "text": "Computeranlagen und Zubehör"
-      },
-      {
-       "language": "FR",
-       "text": "Matériel et fournitures informatiques"
-      },
-      {
-       "language": "NL",
-       "text": "Computeruitrusting en -benodigdheden"
+       "text": "Dienstleistungen an Stränden"
       },
       {
        "language": "EN",
-       "text": "Computer equipment and supplies"
+       "text": "Beach services"
+      },
+      {
+       "language": "FR",
+       "text": "Services de plages"
+      },
+      {
+       "language": "NL",
+       "text": "Stranddiensten"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "30200000-1",
+    "code": "92332000-7",
     "descriptions": [
      {
       "language": "DE",
-      "text": "Computeranlagen und Zubehör"
-     },
-     {
-      "language": "FR",
-      "text": "Matériel et fournitures informatiques"
-     },
-     {
-      "language": "NL",
-      "text": "Computeruitrusting en -benodigdheden"
+      "text": "Dienstleistungen an Stränden"
      },
      {
       "language": "EN",
-      "text": "Computer equipment and supplies"
+      "text": "Beach services"
+     },
+     {
+      "language": "FR",
+      "text": "Services de plages"
+     },
+     {
+      "language": "NL",
+      "text": "Stranddiensten"
      }
     ]
    },
@@ -395,18 +241,18 @@
     "descriptions": [
      {
       "language": "NL",
-      "text": "Aankopen en periodieke vervanging laptops en desktops 2"
+      "text": "De marktbevragingsprocedure heeft betrekking op twee (2) percelen, m.n.: - Perceel 1 inzake de strandbarconcessies; - Perceel 2 inzake de kinderparkconcessies. Een Kandidaat kan slechts voor één (1) van de beide percelen een Voorstel indienen.   De procedure tot toewijzing van de Concessie(s) wordt gevoerd met toepassing van de beginselen van behoorlijk bestuur, zoals het transparantiebeginsel, het beginsel der eerlijke mededinging en het gelijkheidsbeginsel. De regels m.b.t. de toewijzing en uitvoering van de Concessie zijn vermeld in de Concessieleidraad en de daarbij gevoegde Bijlagen (de “Concessiedocumenten”). De Concessie is niet onderworpen aan de Wet van 17 juni 2016 betreffende de concessieovereenkomsten, noch aan het Koninklijk Besluit van 25 juni 2017 betreffende de plaatsing en de algemene uitvoeringsregels van de concessieovereenkomsten, aangezien deze regelgeving niet van toepassing is op domeinconcessies. De Concessie is evenmin onderworpen aan de reglementering inzake overheidsopdrachten. Ook de reglementering inzake handelshuur is niet van toepassing op onderhavige Concessie. Het betreft immers geen handelshuurovereenkomst."
      }
     ],
     "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP0CU-9866/6213/2026/2786 - ICT - laptops",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP0CU-9866/6213/2026/2786 - ICT - laptops",
+    "legalBasis": "OTHER",
+    "number": "20260228_DOMEINCONCESSIE_STRAND",
+    "procurementProcedureType": "SUIGEN_OTHER",
+    "referenceNumber": "20260228_DOMEINCONCESSIE_STRAND",
     "titles": [
      {
       "language": "NL",
-      "text": "Aankopen en periodieke vervanging laptops en desktops 2"
+      "text": "(Sub)domeinconcessies betreffende de uitbating van strandbars en kinderparken op het strand"
      }
     ]
    },
@@ -416,66 +262,221 @@
      "descriptions": [
       {
        "language": "NL",
-       "text": "Aankopen en periodieke vervanging laptops en desktops 2"
+       "text": "Er kunnen maximaal twee (2) kinderparken worden ingericht op het strand, m.n. op de volgende locaties: • Lot A in zone Heist • Lot B in zone Knokke  Elke Kandidaat kan slechts een Voorstel indienen voor één (1) van de beide loten (A of B), m.n. het lot dat het best past bij zijn unieke eigenheid en doelgroep. Een Voorstel dat betrekking heeft op de beide loten wordt verworpen. Elke Kandidaat kan slechts één (1) Concessie (lot) toegewezen krijgen. "
       }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
      ],
      "titles": [
       {
        "language": "NL",
-       "text": "Aankopen en periodieke vervanging laptops en desktops 2"
+       "text": "Perceel 2 - Kinderparkconcessies"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Het strand is ingedeeld in de volgende vier (4) zones: - Zone Heist; ‘Baai van Heist tot Anemonenlaan’ - Zone Duinbergen; ‘ Anemonenlaan tot Meerlaan’ - Zone Knokke; ‘Meerlaan tot Duindistelstraat’ - Zone Zoute; ‘’Duindistelstraat tot het Zwin’. Er kunnen maximaal vierentwintig (24) strandbarconcessies worden verleend. Elke Kandidaat kan slechts één (1) Concessie (= één (1) lot) toegewezen krijgen. Elke Kandidaat kan slechts een Voorstel indienen voor één (1) zone, m.n. de zone die het best past bij zijn unieke eigenheid en doelgroep. Een Voorstel dat betrekking heeft op meerdere zones wordt verworpen. De Kandidaat geeft in zijn Voorstel ook duidelijk zijn voorkeursvolgorde op voor wat betreft de loten die in de door hem gekozen zone zijn gelegen. De Concessiegever behoudt zich het recht voor om het Voorstel waarin de bedoelde voorkeursvolgorde ontbreekt, buiten beschouwing te laten. "
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Perceel 1 - Strandbarconcessies"
       }
      ]
     }
    ],
    "natures": [
-    "SUPPLIES"
+    "SERVICES"
    ],
    "noticeIds": [
-    "07e361f9-8b56-466f-908a-09995bd22702"
+    "f7388181-7778-4207-8ad5-c99669302916"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE231"
+    "BE251"
    ],
    "organisation": {
-    "organisationId": 356,
+    "organisationId": 1275,
     "organisationNames": [
      {
-      "language": "DE",
-      "text": "Deinze"
+      "language": "FR",
+      "text": "Knokke-Heist"
      },
      {
-      "language": "FR",
-      "text": "Deinze"
+      "language": "DE",
+      "text": "Knokke-Heist"
      },
      {
       "language": "NL",
-      "text": "Deinze"
+      "text": "Knokke-Heist"
      },
      {
       "language": "EN",
-      "text": "Deinze"
+      "text": "Knokke-Heist"
      }
     ],
-    "tree": "200004.200021.356"
+    "tree": "200004.200021.1275"
    },
-   "procedureId": "1ed04348-4b73-4ee1-8f5c-70ffe190de77",
+   "procedureId": "2303b9c1-efa0-43a2-80bc-f2506b00be4b",
    "publicationDate": "2026-11-25",
    "publicationLanguages": [
     "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP0CU-9866/6213/2026/2786 - ICT - laptops_002"
+    "20260228_DOMEINCONCESSIE_STRAND_pub02"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "67609c78-b3f9-4916-bd61-03a2dd0870a1",
+   "publicationWorkspaceId": "c1a5cb8e-a540-4811-bb88-f2779359d699",
    "publishedAt": [
-    "2026-11-25T00:00:47.027053"
+    "2026-11-25T10:57:46.012072"
    ],
-   "referenceNumber": "PPP0CU-9866/6213/2026/2786 - ICT - laptops_002",
+   "referenceNumber": "20260228_DOMEINCONCESSIE_STRAND_pub02",
    "sentAt": [
-    "2026-11-25T00:00:47.027053"
+    "2026-11-25T10:57:46.012072"
+   ],
+   "tedPublished": false
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45210000-2",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Travaux de construction de bâtiments"
+      },
+      {
+       "language": "DE",
+       "text": "Bauleistungen im Hochbau"
+      },
+      {
+       "language": "NL",
+       "text": "Bouwen van gebouwen"
+      },
+      {
+       "language": "EN",
+       "text": "Building construction work"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45210000-2",
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Travaux de construction de bâtiments"
+     },
+     {
+      "language": "DE",
+      "text": "Bauleistungen im Hochbau"
+     },
+     {
+      "language": "NL",
+      "text": "Bouwen van gebouwen"
+     },
+     {
+      "language": "EN",
+      "text": "Building construction work"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-25",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Ontwerpen en bouwen van een modulaire kinderopvang in Menen voor VZW Kinderopvang De Hoeksteen in de basisschool De Kleine Prins, volgens het principe Design & Build.  De opdracht heeft als voorwerp het volledig ontwerpen, leveren, plaatsen, afwerken en gebruiksklaar opleveren van een kwaliteitsvol, duurzaam en permanent inzetbaar modulair gebouw voor groepsopvang baby’s en peuters. Het gebouw moet geschikt zijn voor de opvang van 2 aparte leefgroepen met afmetingen conform de wettelijke bepalingen inzake kinderopvang, voor een totale capaciteit van 28 vergunde plaatsen met een bureel voor de verantwoordelijke.  De nieuwbouw moet het mogelijk maken een nieuwe kinderopvanglocatie en tegelijk een toekomstgerichte kinderopvanglocatie creëren die ingebed is in de lokale context van Menen en aansluit bij de werking van basisschool De Kleine Prins.  De opdracht kadert in de ambitie om in Menen een doorgaande lijn tussen kinderopvang en kleuteronderwijs te realiseren. Door de nabijheid van basisschool De Kleine Prins ontstaat een sterke pedagogische en organisatorische meerwaarden waar kinderen kunnen groeien in een herkenbare omgeving, een warme en zachte overgang naar de kleuterschool kan verlopen en waar gezinnen toegang krijgen op één vertrouwde site tot opvang en onderwijs.  De opdracht wordt opgevat als een globale opdracht tegen forfaitaire prijs, waarbij de opdrachtnemer instaat voor een volledig, conform, veilig en gebruiksklaar resultaat.  Leveringsplaats: Site basisschool de Kleine Prins, Kerkstraat 16, 8930 Menen. "
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP16Y-35/6017/2026-KODH-001",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "PPP16Y-35/6017/2026-KODH-001",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Modulaire nieuwbouw voor kinderopvang te Menen"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-25",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Ontwerpen en bouwen van een modulaire kinderopvang in Menen voor VZW Kinderopvang De Hoeksteen in de basisschool De Kleine Prins, volgens het principe Design & Build.  De opdracht heeft als voorwerp het volledig ontwerpen, leveren, plaatsen, afwerken en gebruiksklaar opleveren van een kwaliteitsvol, duurzaam en permanent inzetbaar modulair gebouw voor groepsopvang baby’s en peuters. Het gebouw moet geschikt zijn voor de opvang van 2 aparte leefgroepen met afmetingen conform de wettelijke bepalingen inzake kinderopvang, voor een totale capaciteit van 28 vergunde plaatsen met een bureel voor de verantwoordelijke.  De nieuwbouw moet het mogelijk maken een nieuwe kinderopvanglocatie en tegelijk een toekomstgerichte kinderopvanglocatie creëren die ingebed is in de lokale context van Menen en aansluit bij de werking van basisschool De Kleine Prins.  De opdracht kadert in de ambitie om in Menen een doorgaande lijn tussen kinderopvang en kleuteronderwijs te realiseren. Door de nabijheid van basisschool De Kleine Prins ontstaat een sterke pedagogische en organisatorische meerwaarden waar kinderen kunnen groeien in een herkenbare omgeving, een warme en zachte overgang naar de kleuterschool kan verlopen en waar gezinnen toegang krijgen op één vertrouwde site tot opvang en onderwijs.  De opdracht wordt opgevat als een globale opdracht tegen forfaitaire prijs, waarbij de opdrachtnemer instaat voor een volledig, conform, veilig en gebruiksklaar resultaat.  Leveringsplaats: Site basisschool de Kleine Prins, Kerkstraat 16, 8930 Menen. "
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Modulaire nieuwbouw voor kinderopvang te Menen"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "e907b119-85ba-4808-aeab-4b3b9cb71bf2"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE252"
+   ],
+   "organisation": {
+    "organisationId": 37601,
+    "organisationNames": [
+     {
+      "language": "NL",
+      "text": "vzw De Hoeksteen, Samenwerking in Zorg"
+     }
+    ],
+    "tree": "200004.200032.37601"
+   },
+   "procedureId": "b0379eb9-9d2f-4adf-a546-a19b8f48132c",
+   "publicationDate": "2026-11-25",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP16Y-35/6017/2026-KODH-001_005"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "6c16ae1a-05cb-4abc-8dcc-9753e9da4a41",
+   "publishedAt": [
+    "2026-11-25T10:35:46.014531"
+   ],
+   "referenceNumber": "PPP16Y-35/6017/2026-KODH-001_005",
+   "sentAt": [
+    "2026-11-25T10:35:46.014531"
    ],
    "tedPublished": false
   }
@@ -484,66 +485,45 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "44000000-0",
+     "code": "92332000-7",
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Matériaux et structures de construction, produits auxiliaires pour la construction (à l'exception des appareils électriques)"
-      },
-      {
        "language": "DE",
-       "text": "Baukonstruktionen und Baustoffe, Bauhilfsprodukte (elektrische Apparate ausgenommen)"
+       "text": "Dienstleistungen an Stränden"
       },
       {
        "language": "EN",
-       "text": "Construction structures and materials, auxiliary products to construction (except electric apparatus)"
-      },
-      {
-       "language": "NL",
-       "text": "Structuren en materialen voor de bouw, ondersteunende producten voor de bouw (uitgezonderd elektrische apparatuur)"
-      }
-     ]
-    },
-    {
-     "code": "44110000-4",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Constructiematerialen"
+       "text": "Beach services"
       },
       {
        "language": "FR",
-       "text": "Matériaux de construction"
+       "text": "Services de plages"
       },
       {
-       "language": "DE",
-       "text": "Baustoffe"
-      },
-      {
-       "language": "EN",
-       "text": "Construction materials"
+       "language": "NL",
+       "text": "Stranddiensten"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "44000000-0",
+    "code": "92332000-7",
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Matériaux et structures de construction, produits auxiliaires pour la construction (à l'exception des appareils électriques)"
-     },
-     {
       "language": "DE",
-      "text": "Baukonstruktionen und Baustoffe, Bauhilfsprodukte (elektrische Apparate ausgenommen)"
+      "text": "Dienstleistungen an Stränden"
      },
      {
       "language": "EN",
-      "text": "Construction structures and materials, auxiliary products to construction (except electric apparatus)"
+      "text": "Beach services"
+     },
+     {
+      "language": "FR",
+      "text": "Services de plages"
      },
      {
       "language": "NL",
-      "text": "Structuren en materialen voor de bouw, ondersteunende producten voor de bouw (uitgezonderd elektrische apparatuur)"
+      "text": "Stranddiensten"
      }
     ]
    },
@@ -552,20 +532,19 @@
     "accreditations": {},
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Le marché stock se rapporte à l’achat de matériaux pour la maçonnerie"
+      "language": "NL",
+      "text": "De marktbevragingsprocedure heeft betrekking op twee (2) percelen, m.n.: - Perceel 1 inzake de strandbarconcessies; - Perceel 2 inzake de kinderparkconcessies. Een Kandidaat kan slechts voor één (1) van de beide percelen een Voorstel indienen.   De procedure tot toewijzing van de Concessie(s) wordt gevoerd met toepassing van de beginselen van behoorlijk bestuur, zoals het transparantiebeginsel, het beginsel der eerlijke mededinging en het gelijkheidsbeginsel. De regels m.b.t. de toewijzing en uitvoering van de Concessie zijn vermeld in de Concessieleidraad en de daarbij gevoegde Bijlagen (de “Concessiedocumenten”). De Concessie is niet onderworpen aan de Wet van 17 juni 2016 betreffende de concessieovereenkomsten, noch aan het Koninklijk Besluit van 25 juni 2017 betreffende de plaatsing en de algemene uitvoeringsregels van de concessieovereenkomsten, aangezien deze regelgeving niet van toepassing is op domeinconcessies. De Concessie is evenmin onderworpen aan de reglementering inzake overheidsopdrachten. Ook de reglementering inzake handelshuur is niet van toepassing op onderhavige Concessie. Het betreft immers geen handelshuurovereenkomst."
      }
     ],
     "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP0MY-416/6173/2026-368",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP0MY-416/6173/2026-368",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "legalBasis": "OTHER",
+    "number": "20260228_DOMEINCONCESSIE_STRAND",
+    "procurementProcedureType": "SUIGEN_OTHER",
+    "referenceNumber": "20260228_DOMEINCONCESSIE_STRAND",
     "titles": [
      {
-      "language": "FR",
-      "text": "Stock de matériaux pour la maçonnerie (relance)"
+      "language": "NL",
+      "text": "(Sub)domeinconcessies betreffende de uitbating van strandbars en kinderparken op het strand"
      }
     ]
    },
@@ -574,67 +553,93 @@
     {
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Le marché stock se rapporte à l’achat de matériaux pour la maçonnerie"
+       "language": "NL",
+       "text": "Er kunnen maximaal twee (2) kinderparken worden ingericht op het strand, m.n. op de volgende locaties: • Lot A in zone Heist • Lot B in zone Knokke  Elke Kandidaat kan slechts een Voorstel indienen voor één (1) van de beide loten (A of B), m.n. het lot dat het best past bij zijn unieke eigenheid en doelgroep. Een Voorstel dat betrekking heeft op de beide loten wordt verworpen. Elke Kandidaat kan slechts één (1) Concessie (lot) toegewezen krijgen. "
       }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
      ],
      "titles": [
       {
-       "language": "FR",
-       "text": "Stock de matériaux pour la maçonnerie (relance)"
+       "language": "NL",
+       "text": "Perceel 2 - Kinderparkconcessies"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Het strand is ingedeeld in de volgende vier (4) zones: - Zone Heist; ‘Baai van Heist tot Anemonenlaan’ - Zone Duinbergen; ‘ Anemonenlaan tot Meerlaan’ - Zone Knokke; ‘Meerlaan tot Duindistelstraat’ - Zone Zoute; ‘’Duindistelstraat tot het Zwin’. Er kunnen maximaal vierentwintig (24) strandbarconcessies worden verleend. Elke Kandidaat kan slechts één (1) Concessie (= één (1) lot) toegewezen krijgen. Elke Kandidaat kan slechts een Voorstel indienen voor één (1) zone, m.n. de zone die het best past bij zijn unieke eigenheid en doelgroep. Een Voorstel dat betrekking heeft op meerdere zones wordt verworpen. De Kandidaat geeft in zijn Voorstel ook duidelijk zijn voorkeursvolgorde op voor wat betreft de loten die in de door hem gekozen zone zijn gelegen. De Concessiegever behoudt zich het recht voor om het Voorstel waarin de bedoelde voorkeursvolgorde ontbreekt, buiten beschouwing te laten. "
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Perceel 1 - Strandbarconcessies"
       }
      ]
     }
    ],
    "natures": [
-    "SUPPLIES"
+    "SERVICES"
    ],
    "noticeIds": [
-    "6d5613df-99f0-42b4-a73f-b46ae45fb36d"
+    "f7388181-7778-4207-8ad5-c99669302916"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE332"
+    "BE251"
    ],
    "organisation": {
-    "organisationId": 1061,
+    "organisationId": 1275,
     "organisationNames": [
      {
-      "language": "NL",
-      "text": "Habitations Sociales de Saint-Nicolas"
-     },
-     {
       "language": "FR",
-      "text": "Habitations Sociales de Saint-Nicolas"
+      "text": "Knokke-Heist"
      },
      {
       "language": "DE",
-      "text": "Habitations Sociales de Saint-Nicolas"
+      "text": "Knokke-Heist"
+     },
+     {
+      "language": "NL",
+      "text": "Knokke-Heist"
      },
      {
       "language": "EN",
-      "text": "Habitations Sociales de Saint-Nicolas"
+      "text": "Knokke-Heist"
      }
     ],
-    "tree": "200004.200028.1061"
+    "tree": "200004.200021.1275"
    },
-   "procedureId": "72379436-3683-44ee-bf31-630cbe9b0d1c",
+   "procedureId": "2303b9c1-efa0-43a2-80bc-f2506b00be4b",
    "publicationDate": "2026-11-25",
    "publicationLanguages": [
-    "FR"
+    "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP0MY-416/6173/2026-368_002"
+    "20260228_DOMEINCONCESSIE_STRAND_pub02"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "03e1c673-db7f-43e3-9a9b-c39858839cd5",
+   "publicationWorkspaceId": "c1a5cb8e-a540-4811-bb88-f2779359d699",
    "publishedAt": [
-    "2026-11-25T00:00:46.817765"
+    "2026-11-25T10:57:46.012072"
    ],
-   "referenceNumber": "PPP0MY-416/6173/2026-368_002",
+   "referenceNumber": "20260228_DOMEINCONCESSIE_STRAND_pub02",
    "sentAt": [
-    "2026-11-25T00:00:46.817765"
+    "2026-11-25T10:57:46.012072"
    ],
    "tedPublished": false
   }
