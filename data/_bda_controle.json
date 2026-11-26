@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 297260
+  "totalCount": 297287
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -57,45 +57,108 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "71241000-9",
+     "code": "42991200-1",
      "descriptions": [
       {
        "language": "NL",
-       "text": "Haalbaarheidsstudie, adviesverlening, analyse"
+       "text": "Drukmachines"
       },
       {
        "language": "FR",
-       "text": "Études de faisabilité, service de conseil, analyse"
+       "text": "Machines à imprimer"
       },
       {
        "language": "DE",
-       "text": "Durchführbarkeitsstudie, Beratung, Analyse"
+       "text": "Druckmaschinen"
       },
       {
        "language": "EN",
-       "text": "Feasibility study, advisory service, analysis"
+       "text": "Printing machinery"
+      }
+     ]
+    },
+    {
+     "code": "30121100-4",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Photocopieurs"
+      },
+      {
+       "language": "EN",
+       "text": "Photocopiers"
+      },
+      {
+       "language": "DE",
+       "text": "Fotokopierer"
+      },
+      {
+       "language": "NL",
+       "text": "Fotokopieerapparaten"
+      }
+     ]
+    },
+    {
+     "code": "50313000-2",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Wartung und Reparatur von Reprografiegeräten"
+      },
+      {
+       "language": "NL",
+       "text": "Onderhoud en reparatie van reprografische machines"
+      },
+      {
+       "language": "EN",
+       "text": "Maintenance and repair of reprographic machinery"
+      },
+      {
+       "language": "FR",
+       "text": "Maintenance et réparation de matériel de reprographie"
+      }
+     ]
+    },
+    {
+     "code": "30232110-8",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Laser printers"
+      },
+      {
+       "language": "DE",
+       "text": "Laserdrucker"
+      },
+      {
+       "language": "NL",
+       "text": "Laserprinters"
+      },
+      {
+       "language": "FR",
+       "text": "Imprimantes laser"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "71241000-9",
+    "code": "42991200-1",
     "descriptions": [
      {
       "language": "NL",
-      "text": "Haalbaarheidsstudie, adviesverlening, analyse"
+      "text": "Drukmachines"
      },
      {
       "language": "FR",
-      "text": "Études de faisabilité, service de conseil, analyse"
+      "text": "Machines à imprimer"
      },
      {
       "language": "DE",
-      "text": "Durchführbarkeitsstudie, Beratung, Analyse"
+      "text": "Druckmaschinen"
      },
      {
       "language": "EN",
-      "text": "Feasibility study, advisory service, analysis"
+      "text": "Printing machinery"
      }
     ]
    },
@@ -104,164 +167,19 @@
     "accreditations": {},
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Le présent marché a pour objet la conception et la mise en œuvre d’un outil d’aide à la décision destiné à l’élaboration d’une stratégie de stockage d’énergie pour le secteur de l’eau en Wallonie. L’outil devra permettre de déterminer, pour chaque opérateur et site,  • les technologies de stockage adaptées (batteries, hydraulique, hydrogène, etc.), • les dimensionnements optimaux (kWh/kW), • les localisations prioritaires, • et la faisabilité économique et environnementale à différents horizons jusqu’à 2050.  Cette stratégie visera à évaluer la rentabilité et la faisabilité des solutions, ainsi qu’à identifier les technologies de stockage les plus adaptées. Couvrant la période 2026-2050, elle s’inscrira dans la continuité de la stratégie énergétique sectorielle existante et s’appuiera sur un outil modélisable permettant de simuler différents scénarios de déploiement et de combinaison technologique. L’objectif final est de contribuer à la réduction des coûts actuels et futurs de fourniture d’électricité et d’améliorer la sécurité d’approvisionnement énergétique du secteur. La SWDE est l’autorité qui interviendra au nom collectif de l’ensemble des sociétés en qualité de pouvoir adjudicateur.  Les sociétés concernées par le présent marché sont les suivantes : · SWDE · SPGE (comprenant 7 intercommunales, uniquement pour les activités liées à l’assainissement et au démergement) · CILE ·...   La finalité est d’une part de réaliser une étude à l’échelle sectorielle, commune aux acteurs du secteur et, d’autre part, de réaliser une étude propre à chaque opérateur.    "
+      "language": "NL",
+      "text": "De opdracht heeft betrekking op de aankoop, levering, installatie, configuratie, indienststelling, opleiding, onderhoud en technische ondersteuning van een digitaal kleurproductiesysteem voor de dienst Communicatie van het Sint-Franciscusziekenhuis. Het ziekenhuis wenst een toekomstgericht digitaal productieprintsysteem aan te schaffen dat tegemoetkomt aan de actuele en toekomstige behoeften van de interne communicatieafdeling. De oplossing moet in staat zijn om op een efficiënte en kwalitatieve wijze een brede verscheidenheid aan drukwerktoepassingen te produceren, waaronder onder meer folders, brochures, affiches, formulieren, publicaties en andere communicatiedragers.  De aangeboden oplossing dient in het bijzonder geschikt te zijn voor: • de verwerking van uiteenlopende papierformaten en papiersoorten; • de productie van zowel kleine als middelgrote oplages; • frequente wissels tussen verschillende printopdrachten; • het verwerken van zware media; • het waarborgen van een consistente afdrukkwaliteit; • een professionele productieomgeving met hoge beschikbaarheidsvereisten. De opdracht omvat minimaal: • levering van het productieprintsysteem; • levering van alle noodzakelijke hardware- en softwarecomponenten; • installatie en configuratie; • integratie met de bestaande ICT-omgeving; • opleiding van de gebruikers; • preventief en correctief onderhoud; • technische ondersteuning gedurende een periode van zeven (7) jaar; • levering van alle verbruiksgoederen die noodzakelijk zijn voor de goede werking van het systeem, met uitzondering van papier tenzij uitdrukkelijk anders vermeld. "
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP0ZT-5283/6060/5283_CSC_Stratégie de stockage d’énergie",
-    "procurementProcedureType": "S_NEG_W_CALL_24_81",
-    "referenceNumber": "PPP0ZT-5283/6060/5283_CSC_Stratégie de stockage d’énergie",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "Etude de rentabilité et faisabilité sur le choix technologique le plus approprié de stockage d’énergie"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-04",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Le présent marché a pour objet la conception et la mise en œuvre d’un outil d’aide à la décision destiné à l’élaboration d’une stratégie de stockage d’énergie pour le secteur de l’eau en Wallonie. L’outil devra permettre de déterminer, pour chaque opérateur et site,  • les technologies de stockage adaptées (batteries, hydraulique, hydrogène, etc.), • les dimensionnements optimaux (kWh/kW), • les localisations prioritaires, • et la faisabilité économique et environnementale à différents horizons jusqu’à 2050.  Cette stratégie visera à évaluer la rentabilité et la faisabilité des solutions, ainsi qu’à identifier les technologies de stockage les plus adaptées. Couvrant la période 2026-2050, elle s’inscrira dans la continuité de la stratégie énergétique sectorielle existante et s’appuiera sur un outil modélisable permettant de simuler différents scénarios de déploiement et de combinaison technologique. L’objectif final est de contribuer à la réduction des coûts actuels et futurs de fourniture d’électricité et d’améliorer la sécurité d’approvisionnement énergétique du secteur. La SWDE est l’autorité qui interviendra au nom collectif de l’ensemble des sociétés en qualité de pouvoir adjudicateur.  Les sociétés concernées par le présent marché sont les suivantes : · SWDE · SPGE (comprenant 7 intercommunales, uniquement pour les activités liées à l’assainissement et au démergement) · CILE ·...   La finalité est d’une part de réaliser une étude à l’échelle sectorielle, commune aux acteurs du secteur et, d’autre part, de réaliser une étude propre à chaque opérateur.    "
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Etude de rentabilité et faisabilité sur le choix technologique le plus approprié de stockage d’énergie"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SERVICES"
-   ],
-   "noticeIds": [
-    "4cd5b885-d2b4-4187-b16c-05b4cec44bab",
-    "f1e303f8-e000-455d-a2a0-64deeb7c32ea"
-   ],
-   "noticeSubType": "16",
-   "nutsCodes": [
-    "BE335"
-   ],
-   "organisation": {
-    "organisationId": 672,
-    "organisationNames": [
-     {
-      "language": "FR",
-      "text": "Société wallonne des eaux"
-     },
-     {
-      "language": "DE",
-      "text": "Société wallonne des eaux"
-     },
-     {
-      "language": "NL",
-      "text": "Société wallonne des eaux"
-     },
-     {
-      "language": "EN",
-      "text": "Société wallonne des eaux"
-     }
-    ],
-    "tree": "200004.200023.672"
-   },
-   "procedureId": "7d73c99f-7d7c-4cca-bd58-74082c15ded3",
-   "publicationDate": "2026-11-26",
-   "publicationLanguages": [
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP0ZT-5283/6060/5283_CSC_Stratégie de stockage d’énergie_001"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "58a25d4d-18ca-4095-abc2-c7ac151214f4",
-   "publishedAt": [
-    "2026-11-04T13:49:45.012627",
-    "2026-11-26T08:02:45.758762"
-   ],
-   "referenceNumber": "PPP0ZT-5283/6060/5283_CSC_Stratégie de stockage d’énergie_001",
-   "sentAt": [
-    "2026-11-04T13:49:45.012627",
-    "2026-11-26T08:02:45.758762"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-12-07T10:00:00"
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "90711500-9",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Environmental monitoring other than for construction"
-      },
-      {
-       "language": "NL",
-       "text": "Milieutoezicht voor andere activiteiten dan bouw"
-      },
-      {
-       "language": "FR",
-       "text": "Surveillance de l'environnement autre que pour la construction"
-      },
-      {
-       "language": "DE",
-       "text": "Umweltüberwachung in anderen Bereichen als dem Bausektor"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "90711500-9",
-    "descriptions": [
-     {
-      "language": "EN",
-      "text": "Environmental monitoring other than for construction"
-     },
-     {
-      "language": "NL",
-      "text": "Milieutoezicht voor andere activiteiten dan bouw"
-     },
-     {
-      "language": "FR",
-      "text": "Surveillance de l'environnement autre que pour la construction"
-     },
-     {
-      "language": "DE",
-      "text": "Umweltüberwachung in anderen Bereichen als dem Bausektor"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-26",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "In het kader van het Soortenbeschermingsprogramma van de Antwerpse haven (2022–2027) wordt een bodemvalonderzoek naar loopkevers uitgeschreven. Een twaalftal keversoorten (Amara bifrons, A. cursitans, A. curta, A. famelica, A. fulva, Broscus cephalotes, Calathus cinctus, Dychirius politus, Harpalus anxius, H. flavescens, Masoreus wetterhallii en Microlestes minutulus), kenmerkend voor pioniersbiotopen en droge, schrale graslanden, worden hierbij als doelsoorten beschouwd. Het onderzoek wordt uitgevoerd op circa 30 locaties (dijken, pioniersbiotopen en droge graslanden op beide oevers), met telkens 2 bodemvallen per locatie, gespreid over 5 maanden (april–juni en september–oktober 2027). Het eindresultaat is een rapport met een soorteninventaris per locatie en concrete aanbevelingen voor beheermaatregelen om het habitatnetwerk functioneel te houden voor de doelsoorten. "
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D25",
-    "number": "PPP0B3-19802/6962/K3843",
-    "procurementProcedureType": "NEG_WO_CALL_25",
-    "referenceNumber": "PPP0B3-19802/6962/K3843",
+    "number": "2026-0007",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "2026-0007",
     "titles": [
      {
       "language": "NL",
-      "text": "Onderzoek loopkevers in de Ecologische Infrastructuur van de Antwerpse haven"
+      "text": " Digitaal kleurproductiesysteem voor de dienst Communicatie"
      }
     ]
    },
@@ -271,142 +189,7 @@
      "descriptions": [
       {
        "language": "NL",
-       "text": "In het kader van het Soortenbeschermingsprogramma van de Antwerpse haven (2022–2027) wordt een bodemvalonderzoek naar loopkevers uitgeschreven. Een twaalftal keversoorten (Amara bifrons, A. cursitans, A. curta, A. famelica, A. fulva, Broscus cephalotes, Calathus cinctus, Dychirius politus, Harpalus anxius, H. flavescens, Masoreus wetterhallii en Microlestes minutulus), kenmerkend voor pioniersbiotopen en droge, schrale graslanden, worden hierbij als doelsoorten beschouwd. Het onderzoek wordt uitgevoerd op circa 30 locaties (dijken, pioniersbiotopen en droge graslanden op beide oevers), met telkens 2 bodemvallen per locatie, gespreid over 5 maanden (april–juni en september–oktober 2027). Het eindresultaat is een rapport met een soorteninventaris per locatie en concrete aanbevelingen voor beheermaatregelen om het habitatnetwerk functioneel te houden voor de doelsoorten. "
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Onderzoek loopkevers in de Ecologische Infrastructuur van de Antwerpse haven"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SERVICES"
-   ],
-   "noticeIds": [
-    "22188783-f253-4e7e-9f2c-b0d1fb993680"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE211"
-   ],
-   "organisation": {
-    "organisationId": 4277,
-    "organisationNames": [
-     {
-      "language": "NL",
-      "text": "Haven van Antwerpen-Brugge NV van publiek recht "
-     },
-     {
-      "language": "FR",
-      "text": "Haven van Antwerpen-Brugge NV van publiek recht "
-     },
-     {
-      "language": "DE",
-      "text": "Haven van Antwerpen-Brugge NV van publiek recht "
-     },
-     {
-      "language": "EN",
-      "text": "Haven van Antwerpen-Brugge NV van publiek recht "
-     }
-    ],
-    "tree": "200004.200030.176.4277"
-   },
-   "procedureId": "ea26956c-3b20-4dda-aa4e-a93f6fa33fa0",
-   "publicationDate": "2026-11-26",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP0B3-19802/6962/K3843_002"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "79cdb839-fac7-45c3-83be-d0dc4d70774d",
-   "publishedAt": [
-    "2026-11-26T08:18:46.035019"
-   ],
-   "referenceNumber": "PPP0B3-19802/6962/K3843_002",
-   "sentAt": [
-    "2026-11-26T08:18:46.035019"
-   ],
-   "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "60000000-8",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Services de transport (à l'exclusion du transport des déchets)"
-      },
-      {
-       "language": "DE",
-       "text": "Transport- und Beförderungsdienstleistungen (außer Abfalltransport)"
-      },
-      {
-       "language": "EN",
-       "text": "Transport services (excl. Waste transport)"
-      },
-      {
-       "language": "NL",
-       "text": "Vervoersdiensten (uitg. vervoer van afval)"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "60000000-8",
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Services de transport (à l'exclusion du transport des déchets)"
-     },
-     {
-      "language": "DE",
-      "text": "Transport- und Beförderungsdienstleistungen (außer Abfalltransport)"
-     },
-     {
-      "language": "EN",
-      "text": "Transport services (excl. Waste transport)"
-     },
-     {
-      "language": "NL",
-      "text": "Vervoersdiensten (uitg. vervoer van afval)"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-26",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Ophalen en transporteren van monsters van het traject Oostende naar Gent en traject Leuven via Hasselt en Herentals naar Gent."
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "Bestek nr. VMM/KMW/DDMIW/2027.6/TRANSPORT MEETNETTEN",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "Bestek nr. VMM/KMW/DDMIW/2027.6/TRANSPORT MEETNETTEN",
-    "titles": [
-     {
-      "language": "NL",
-      "text": " Ophalen en transporteren van monsters en recipiënten traject Oostende – Gent perceel 1 en  traject Leuven-Hasselt-Herentals-Gent perceel 2"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-18",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "zie opdrachtdocument"
+       "text": "De opdracht heeft betrekking op de aankoop, levering, installatie, configuratie, indienststelling, opleiding, onderhoud en technische ondersteuning van een digitaal kleurproductiesysteem voor de dienst Communicatie van het Sint-Franciscusziekenhuis. Het ziekenhuis wenst een toekomstgericht digitaal productieprintsysteem aan te schaffen dat tegemoetkomt aan de actuele en toekomstige behoeften van de interne communicatieafdeling. De oplossing moet in staat zijn om op een efficiënte en kwalitatieve wijze een brede verscheidenheid aan drukwerktoepassingen te produceren, waaronder onder meer folders, brochures, affiches, formulieren, publicaties en andere communicatiedragers.  De aangeboden oplossing dient in het bijzonder geschikt te zijn voor: • de verwerking van uiteenlopende papierformaten en papiersoorten; • de productie van zowel kleine als middelgrote oplages; • frequente wissels tussen verschillende printopdrachten; • het verwerken van zware media; • het waarborgen van een consistente afdrukkwaliteit; • een professionele productieomgeving met hoge beschikbaarheidsvereisten. De opdracht omvat minimaal: • levering van het productieprintsysteem; • levering van alle noodzakelijke hardware- en softwarecomponenten; • installatie en configuratie; • integratie met de bestaande ICT-omgeving; • opleiding van de gebruikers; • preventief en correctief onderhoud; • technische ondersteuning gedurende een periode van zeven (7) jaar; • levering van alle verbruiksgoederen die noodzakelijk zijn voor de goede werking van het systeem, met uitzondering van papier tenzij uitdrukkelijk anders vermeld. "
       }
      ],
      "reservedExecution": [
@@ -418,7 +201,144 @@
      "titles": [
       {
        "language": "NL",
-       "text": "Bestek nr. VMM/KMW/DDMIW/2027.6/TRANSPORT MEETNETTEN - 2"
+       "text": "2026-0007 - 1"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SUPPLIES"
+   ],
+   "noticeIds": [
+    "cf8cff8e-f27a-47e5-b6a4-ee388b447503"
+   ],
+   "noticeSubType": "16",
+   "nutsCodes": [
+    "BE224"
+   ],
+   "organisation": {
+    "organisationId": 130,
+    "organisationNames": [
+     {
+      "language": "FR",
+      "text": "Sint-Franciskusziekenhuis "
+     },
+     {
+      "language": "NL",
+      "text": "Sint-Franciskusziekenhuis "
+     },
+     {
+      "language": "DE",
+      "text": "Sint-Franciskusziekenhuis "
+     },
+     {
+      "language": "EN",
+      "text": "Sint-Franciskusziekenhuis "
+     }
+    ],
+    "tree": "200004.200027.130"
+   },
+   "procedureId": "6d8dd74d-01e8-48af-9e28-360c4f7e0047",
+   "publicationDate": "2026-11-26",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "2026-0007_pub01"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "9b0c6e24-0838-44ff-9f3a-ceec4517699c",
+   "publishedAt": [
+    "2026-11-26T11:57:46.019875"
+   ],
+   "referenceNumber": "2026-0007_pub01",
+   "sentAt": [
+    "2026-11-26T11:57:46.019875"
+   ],
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-12-22T10:00:00"
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "79212300-6",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Uitvoeren van wettelijk verplichte controle"
+      },
+      {
+       "language": "EN",
+       "text": "Statutory audit services"
+      },
+      {
+       "language": "FR",
+       "text": "Services de contrôle légal des comptes"
+      },
+      {
+       "language": "DE",
+       "text": "Pflichtbetriebsrevision"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "79212300-6",
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Uitvoeren van wettelijk verplichte controle"
+     },
+     {
+      "language": "EN",
+      "text": "Statutory audit services"
+     },
+     {
+      "language": "FR",
+      "text": "Services de contrôle légal des comptes"
+     },
+     {
+      "language": "DE",
+      "text": "Pflichtbetriebsrevision"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-26",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Wettelijke periodieke keuringen (excl. gebouwen)"
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP028-2241/6158/26d0028",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP028-2241/6158/26d0028",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Wettelijke periodieke keuringen (excl. gebouwen)"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-26",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Marktkasten en elektrische voorzieningen"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Marktkasten en elektrische voorzieningen"
       }
      ]
     },
@@ -426,7 +346,235 @@
      "descriptions": [
       {
        "language": "NL",
-       "text": "zie opdrachtdocument"
+       "text": "Speeltoestellen en speelterreinen"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Speeltoestellen en speelterreinen"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Boogschuttersmasten"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Boogschuttersmasten"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Arbeidsmiddelen en persoonlijke beschermingsmiddelen"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Arbeidsmiddelen en persoonlijke beschermingsmiddelen"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Valbeveiliging"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Valbeveiliging"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Tribunes en ophangsystemen podiumtechniek"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Tribunes en ophangsystemen podiumtechniek"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Sportmateriaal"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Sportmateriaal"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Brandblusapparaten en haspels"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Brandblusapparaten en haspels"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SERVICES"
+   ],
+   "noticeIds": [
+    "b5627c65-24aa-40b7-b52f-854c44d18572"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE234"
+   ],
+   "organisation": {
+    "organisationId": 168,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "Gemeente Aalter"
+     },
+     {
+      "language": "FR",
+      "text": "Gemeente Aalter"
+     },
+     {
+      "language": "NL",
+      "text": "Gemeente Aalter"
+     },
+     {
+      "language": "EN",
+      "text": "Gemeente Aalter"
+     }
+    ],
+    "tree": "200004.200021.168"
+   },
+   "procedureId": "b27cafb4-c8d9-4475-a2a6-f227599a2af6",
+   "publicationDate": "2026-11-26",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP028-2241/6158/26d0028_002"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "07d84569-3df7-4171-bfdd-26a349cd9cd5",
+   "publishedAt": [
+    "2026-11-26T11:44:46.013387"
+   ],
+   "referenceNumber": "PPP028-2241/6158/26d0028_002",
+   "sentAt": [
+    "2026-11-26T11:44:46.013387"
+   ],
+   "tedPublished": false
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45252130-8",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Ausrüstung für Kläranlage"
+      },
+      {
+       "language": "NL",
+       "text": "Uitrusting voor rioolwaterzuivering"
+      },
+      {
+       "language": "FR",
+       "text": "Équipement de station d'épuration"
+      },
+      {
+       "language": "EN",
+       "text": "Sewage plant equipment"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45252130-8",
+    "descriptions": [
+     {
+      "language": "DE",
+      "text": "Ausrüstung für Kläranlage"
+     },
+     {
+      "language": "NL",
+      "text": "Uitrusting voor rioolwaterzuivering"
+     },
+     {
+      "language": "FR",
+      "text": "Équipement de station d'épuration"
+     },
+     {
+      "language": "EN",
+      "text": "Sewage plant equipment"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-26",
+   "dossier": {
+    "accreditations": {
+     "V": 1
+    },
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "A0040063/1 - Duffel, plaatsing C-bron dosering. - Plaatsen chemicalientank 15m³ aangekocht door Aquafin. - Plaatsen doseerkast aangekocht door Aquafin. - Leveren en plaatsen doseerleiding en alle nodige appendages. - Leveren en plaatsen nieuw lokaal bord met voedings- en stuurkringen voor de doseerinstallatie. - Elektrische aanpassingen in bestaand ALSB. "
+     }
+    ],
+    "enterpriseCategories": [
+     {
+      "categoryCode": "V",
+      "levels": [
+       1
+      ]
+     }
+    ],
+    "legalBasis": "D24",
+    "number": "A0040063/1",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "A0040063/1",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "A0040063/1 - Duffel, plaatsing C-bron dosering"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-26",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "A0040063/1 - Duffel, plaatsing C-bron dosering. - Plaatsen chemicalientank 15m³ aangekocht door Aquafin. - Plaatsen doseerkast aangekocht door Aquafin. - Leveren en plaatsen doseerleiding en alle nodige appendages. - Leveren en plaatsen nieuw lokaal bord met voedings- en stuurkringen voor de doseerinstallatie. - Elektrische aanpassingen in bestaand ALSB."
       }
      ],
      "reservedExecution": [
@@ -438,114 +586,107 @@
      "titles": [
       {
        "language": "NL",
-       "text": "Bestek nr. VMM/KMW/DDMIW/2027.6/TRANSPORT MEETNETTEN - 1"
+       "text": "A0040063/1 - 1"
       }
      ]
     }
    ],
    "natures": [
-    "SERVICES"
+    "WORKS"
    ],
    "noticeIds": [
-    "35e2d1c2-2f0e-4ed6-abce-55e830445692",
-    "00b68384-1fe1-4aaa-8dbe-b2ba38dd81e9"
+    "e6b15d7c-beb6-4c4b-bdf8-c3065ec78b38"
    ],
-   "noticeSubType": "E3",
+   "noticeSubType": "E4",
    "nutsCodes": [
-    "BE255",
-    "BE242",
-    "BE224",
-    "BE234"
+    "BE211"
    ],
    "organisation": {
-    "organisationId": 5721,
+    "organisationId": 4618,
     "organisationNames": [
      {
       "language": "DE",
-      "text": "Vlaamse Milieumaatschappij"
+      "text": "Aquafin NV - Directie Projectmanagement"
      },
      {
       "language": "FR",
-      "text": "Vlaamse Milieumaatschappij"
+      "text": "Aquafin NV - Directie Projectmanagement"
      },
      {
       "language": "NL",
-      "text": "Vlaamse Milieumaatschappij"
+      "text": "Aquafin NV - Directie Projectmanagement"
      },
      {
       "language": "EN",
-      "text": "Vlaamse Milieumaatschappij"
+      "text": "Aquafin NV - Directie Projectmanagement"
      }
     ],
-    "tree": "200003.200015.73.4646.5721"
+    "tree": "200004.200036.42.4618"
    },
-   "procedureId": "274b2fda-043a-4d25-9e2f-1d3b5929ce51",
+   "procedureId": "8b4a85ca-8956-4a9c-8ec3-156854f51621",
    "publicationDate": "2026-11-26",
    "publicationLanguages": [
     "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "Bestek nr. VMM/KMW/DDMIW/2027.6/TRANSPORT MEETNETTEN_pub01"
+    "A0040063/1_pub02"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "981c0213-985a-4255-a22e-35b197eed555",
+   "publicationWorkspaceId": "4daf424b-fc09-4ac1-bfe4-9d487be2b1ce",
    "publishedAt": [
-    "2026-11-18T10:29:45.013401",
-    "2026-11-26T07:52:46.078577"
+    "2026-11-26T11:42:46.022812"
    ],
-   "referenceNumber": "Bestek nr. VMM/KMW/DDMIW/2027.6/TRANSPORT MEETNETTEN_pub01",
+   "referenceNumber": "A0040063/1_pub02",
    "sentAt": [
-    "2026-11-18T10:29:45.013401",
-    "2026-11-26T07:52:46.078577"
+    "2026-11-26T11:42:46.022812"
    ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-12-04T09:00:00"
+   "tedPublished": false
   }
  ],
  "exemple_attribution": [
   {
    "cpvAdditionalCodes": [
     {
-     "code": "90711500-9",
+     "code": "79212300-6",
      "descriptions": [
       {
-       "language": "EN",
-       "text": "Environmental monitoring other than for construction"
+       "language": "NL",
+       "text": "Uitvoeren van wettelijk verplichte controle"
       },
       {
-       "language": "NL",
-       "text": "Milieutoezicht voor andere activiteiten dan bouw"
+       "language": "EN",
+       "text": "Statutory audit services"
       },
       {
        "language": "FR",
-       "text": "Surveillance de l'environnement autre que pour la construction"
+       "text": "Services de contrôle légal des comptes"
       },
       {
        "language": "DE",
-       "text": "Umweltüberwachung in anderen Bereichen als dem Bausektor"
+       "text": "Pflichtbetriebsrevision"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "90711500-9",
+    "code": "79212300-6",
     "descriptions": [
      {
-      "language": "EN",
-      "text": "Environmental monitoring other than for construction"
+      "language": "NL",
+      "text": "Uitvoeren van wettelijk verplichte controle"
      },
      {
-      "language": "NL",
-      "text": "Milieutoezicht voor andere activiteiten dan bouw"
+      "language": "EN",
+      "text": "Statutory audit services"
      },
      {
       "language": "FR",
-      "text": "Surveillance de l'environnement autre que pour la construction"
+      "text": "Services de contrôle légal des comptes"
      },
      {
       "language": "DE",
-      "text": "Umweltüberwachung in anderen Bereichen als dem Bausektor"
+      "text": "Pflichtbetriebsrevision"
      }
     ]
    },
@@ -555,18 +696,19 @@
     "descriptions": [
      {
       "language": "NL",
-      "text": "In het kader van het Soortenbeschermingsprogramma van de Antwerpse haven (2022–2027) wordt een bodemvalonderzoek naar loopkevers uitgeschreven. Een twaalftal keversoorten (Amara bifrons, A. cursitans, A. curta, A. famelica, A. fulva, Broscus cephalotes, Calathus cinctus, Dychirius politus, Harpalus anxius, H. flavescens, Masoreus wetterhallii en Microlestes minutulus), kenmerkend voor pioniersbiotopen en droge, schrale graslanden, worden hierbij als doelsoorten beschouwd. Het onderzoek wordt uitgevoerd op circa 30 locaties (dijken, pioniersbiotopen en droge graslanden op beide oevers), met telkens 2 bodemvallen per locatie, gespreid over 5 maanden (april–juni en september–oktober 2027). Het eindresultaat is een rapport met een soorteninventaris per locatie en concrete aanbevelingen voor beheermaatregelen om het habitatnetwerk functioneel te houden voor de doelsoorten. "
+      "text": "Wettelijke periodieke keuringen (excl. gebouwen)"
      }
     ],
     "enterpriseCategories": [],
-    "legalBasis": "D25",
-    "number": "PPP0B3-19802/6962/K3843",
-    "procurementProcedureType": "NEG_WO_CALL_25",
-    "referenceNumber": "PPP0B3-19802/6962/K3843",
+    "legalBasis": "D24",
+    "number": "PPP028-2241/6158/26d0028",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP028-2241/6158/26d0028",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
     "titles": [
      {
       "language": "NL",
-      "text": "Onderzoek loopkevers in de Ecologische Infrastructuur van de Antwerpse haven"
+      "text": "Wettelijke periodieke keuringen (excl. gebouwen)"
      }
     ]
    },
@@ -576,13 +718,111 @@
      "descriptions": [
       {
        "language": "NL",
-       "text": "In het kader van het Soortenbeschermingsprogramma van de Antwerpse haven (2022–2027) wordt een bodemvalonderzoek naar loopkevers uitgeschreven. Een twaalftal keversoorten (Amara bifrons, A. cursitans, A. curta, A. famelica, A. fulva, Broscus cephalotes, Calathus cinctus, Dychirius politus, Harpalus anxius, H. flavescens, Masoreus wetterhallii en Microlestes minutulus), kenmerkend voor pioniersbiotopen en droge, schrale graslanden, worden hierbij als doelsoorten beschouwd. Het onderzoek wordt uitgevoerd op circa 30 locaties (dijken, pioniersbiotopen en droge graslanden op beide oevers), met telkens 2 bodemvallen per locatie, gespreid over 5 maanden (april–juni en september–oktober 2027). Het eindresultaat is een rapport met een soorteninventaris per locatie en concrete aanbevelingen voor beheermaatregelen om het habitatnetwerk functioneel te houden voor de doelsoorten. "
+       "text": "Marktkasten en elektrische voorzieningen"
       }
      ],
      "titles": [
       {
        "language": "NL",
-       "text": "Onderzoek loopkevers in de Ecologische Infrastructuur van de Antwerpse haven"
+       "text": "Marktkasten en elektrische voorzieningen"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Speeltoestellen en speelterreinen"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Speeltoestellen en speelterreinen"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Boogschuttersmasten"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Boogschuttersmasten"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Arbeidsmiddelen en persoonlijke beschermingsmiddelen"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Arbeidsmiddelen en persoonlijke beschermingsmiddelen"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Valbeveiliging"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Valbeveiliging"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Tribunes en ophangsystemen podiumtechniek"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Tribunes en ophangsystemen podiumtechniek"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Sportmateriaal"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Sportmateriaal"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Brandblusapparaten en haspels"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Brandblusapparaten en haspels"
       }
      ]
     }
@@ -591,51 +831,51 @@
     "SERVICES"
    ],
    "noticeIds": [
-    "22188783-f253-4e7e-9f2c-b0d1fb993680"
+    "b5627c65-24aa-40b7-b52f-854c44d18572"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE211"
+    "BE234"
    ],
    "organisation": {
-    "organisationId": 4277,
+    "organisationId": 168,
     "organisationNames": [
      {
-      "language": "NL",
-      "text": "Haven van Antwerpen-Brugge NV van publiek recht "
+      "language": "DE",
+      "text": "Gemeente Aalter"
      },
      {
       "language": "FR",
-      "text": "Haven van Antwerpen-Brugge NV van publiek recht "
+      "text": "Gemeente Aalter"
      },
      {
-      "language": "DE",
-      "text": "Haven van Antwerpen-Brugge NV van publiek recht "
+      "language": "NL",
+      "text": "Gemeente Aalter"
      },
      {
       "language": "EN",
-      "text": "Haven van Antwerpen-Brugge NV van publiek recht "
+      "text": "Gemeente Aalter"
      }
     ],
-    "tree": "200004.200030.176.4277"
+    "tree": "200004.200021.168"
    },
-   "procedureId": "ea26956c-3b20-4dda-aa4e-a93f6fa33fa0",
+   "procedureId": "b27cafb4-c8d9-4475-a2a6-f227599a2af6",
    "publicationDate": "2026-11-26",
    "publicationLanguages": [
     "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP0B3-19802/6962/K3843_002"
+    "PPP028-2241/6158/26d0028_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "79cdb839-fac7-45c3-83be-d0dc4d70774d",
+   "publicationWorkspaceId": "07d84569-3df7-4171-bfdd-26a349cd9cd5",
    "publishedAt": [
-    "2026-11-26T08:18:46.035019"
+    "2026-11-26T11:44:46.013387"
    ],
-   "referenceNumber": "PPP0B3-19802/6962/K3843_002",
+   "referenceNumber": "PPP028-2241/6158/26d0028_002",
    "sentAt": [
-    "2026-11-26T08:18:46.035019"
+    "2026-11-26T11:44:46.013387"
    ],
    "tedPublished": false
   }
