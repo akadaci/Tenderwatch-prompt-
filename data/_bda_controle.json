@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 297300
+  "totalCount": 297304
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -57,151 +57,82 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "42991200-1",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Drukmachines"
-      },
-      {
-       "language": "FR",
-       "text": "Machines à imprimer"
-      },
-      {
-       "language": "DE",
-       "text": "Druckmaschinen"
-      },
-      {
-       "language": "EN",
-       "text": "Printing machinery"
-      }
-     ]
-    },
-    {
-     "code": "30121100-4",
+     "code": "35100000-5",
      "descriptions": [
       {
        "language": "FR",
-       "text": "Photocopieurs"
-      },
-      {
-       "language": "EN",
-       "text": "Photocopiers"
-      },
-      {
-       "language": "DE",
-       "text": "Fotokopierer"
+       "text": "Matériel de secours et de sécurité"
       },
       {
        "language": "NL",
-       "text": "Fotokopieerapparaten"
-      }
-     ]
-    },
-    {
-     "code": "50313000-2",
-     "descriptions": [
-      {
-       "language": "DE",
-       "text": "Wartung und Reparatur von Reprografiegeräten"
-      },
-      {
-       "language": "NL",
-       "text": "Onderhoud en reparatie van reprografische machines"
-      },
-      {
-       "language": "EN",
-       "text": "Maintenance and repair of reprographic machinery"
-      },
-      {
-       "language": "FR",
-       "text": "Maintenance et réparation de matériel de reprographie"
-      }
-     ]
-    },
-    {
-     "code": "30232110-8",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Laser printers"
+       "text": "Nood- en veiligheidsuitrusting"
       },
       {
        "language": "DE",
-       "text": "Laserdrucker"
+       "text": "Not- und Sicherheitsausrüstungen"
       },
       {
-       "language": "NL",
-       "text": "Laserprinters"
-      },
-      {
-       "language": "FR",
-       "text": "Imprimantes laser"
+       "language": "EN",
+       "text": "Emergency and security equipment"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "42991200-1",
+    "code": "35100000-5",
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Drukmachines"
+      "language": "FR",
+      "text": "Matériel de secours et de sécurité"
      },
      {
-      "language": "FR",
-      "text": "Machines à imprimer"
+      "language": "NL",
+      "text": "Nood- en veiligheidsuitrusting"
      },
      {
       "language": "DE",
-      "text": "Druckmaschinen"
+      "text": "Not- und Sicherheitsausrüstungen"
      },
      {
       "language": "EN",
-      "text": "Printing machinery"
+      "text": "Emergency and security equipment"
      }
     ]
    },
-   "dispatchDate": "2026-11-26",
+   "dispatchDate": "2026-11-27",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
-      "language": "NL",
-      "text": "De opdracht heeft betrekking op de aankoop, levering, installatie, configuratie, indienststelling, opleiding, onderhoud en technische ondersteuning van een digitaal kleurproductiesysteem voor de dienst Communicatie van het Sint-Franciscusziekenhuis. Het ziekenhuis wenst een toekomstgericht digitaal productieprintsysteem aan te schaffen dat tegemoetkomt aan de actuele en toekomstige behoeften van de interne communicatieafdeling. De oplossing moet in staat zijn om op een efficiënte en kwalitatieve wijze een brede verscheidenheid aan drukwerktoepassingen te produceren, waaronder onder meer folders, brochures, affiches, formulieren, publicaties en andere communicatiedragers.  De aangeboden oplossing dient in het bijzonder geschikt te zijn voor: • de verwerking van uiteenlopende papierformaten en papiersoorten; • de productie van zowel kleine als middelgrote oplages; • frequente wissels tussen verschillende printopdrachten; • het verwerken van zware media; • het waarborgen van een consistente afdrukkwaliteit; • een professionele productieomgeving met hoge beschikbaarheidsvereisten. De opdracht omvat minimaal: • levering van het productieprintsysteem; • levering van alle noodzakelijke hardware- en softwarecomponenten; • installatie en configuratie; • integratie met de bestaande ICT-omgeving; • opleiding van de gebruikers; • preventief en correctief onderhoud; • technische ondersteuning gedurende een periode van zeven (7) jaar; • levering van alle verbruiksgoederen die noodzakelijk zijn voor de goede werking van het systeem, met uitzondering van papier tenzij uitdrukkelijk anders vermeld. "
+      "language": "FR",
+      "text": "Le présent marché a pour objet la fourniture de dispositifs mobiles de protection contre les inondations, destinés à limiter, contenir ou dévier la progression des eaux en cas de débordement de cours d’eau, de ruissellement ou d’inondations localisées. Les dispositifs proposés pourront prendre toute forme technique pertinente (barrières, digues modulaires, systèmes gonffables, éléments empilables, ...), pour autant qu’ils répondent aux exigences fonctionnelles et techniques définies ci-après. "
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "2026-0007",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "2026-0007",
+    "number": "PPP08D-588/6030/2026476",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP08D-588/6030/2026476",
     "titles": [
      {
-      "language": "NL",
-      "text": " Digitaal kleurproductiesysteem voor de dienst Communicatie"
+      "language": "FR",
+      "text": "Fourniture de dispositifs anti-inondation"
      }
     ]
    },
-   "insertionDate": "2026-11-26",
+   "insertionDate": "2026-11-27",
    "lots": [
     {
      "descriptions": [
       {
-       "language": "NL",
-       "text": "De opdracht heeft betrekking op de aankoop, levering, installatie, configuratie, indienststelling, opleiding, onderhoud en technische ondersteuning van een digitaal kleurproductiesysteem voor de dienst Communicatie van het Sint-Franciscusziekenhuis. Het ziekenhuis wenst een toekomstgericht digitaal productieprintsysteem aan te schaffen dat tegemoetkomt aan de actuele en toekomstige behoeften van de interne communicatieafdeling. De oplossing moet in staat zijn om op een efficiënte en kwalitatieve wijze een brede verscheidenheid aan drukwerktoepassingen te produceren, waaronder onder meer folders, brochures, affiches, formulieren, publicaties en andere communicatiedragers.  De aangeboden oplossing dient in het bijzonder geschikt te zijn voor: • de verwerking van uiteenlopende papierformaten en papiersoorten; • de productie van zowel kleine als middelgrote oplages; • frequente wissels tussen verschillende printopdrachten; • het verwerken van zware media; • het waarborgen van een consistente afdrukkwaliteit; • een professionele productieomgeving met hoge beschikbaarheidsvereisten. De opdracht omvat minimaal: • levering van het productieprintsysteem; • levering van alle noodzakelijke hardware- en softwarecomponenten; • installatie en configuratie; • integratie met de bestaande ICT-omgeving; • opleiding van de gebruikers; • preventief en correctief onderhoud; • technische ondersteuning gedurende een periode van zeven (7) jaar; • levering van alle verbruiksgoederen die noodzakelijk zijn voor de goede werking van het systeem, met uitzondering van papier tenzij uitdrukkelijk anders vermeld. "
+       "language": "FR",
+       "text": "Le présent marché a pour objet la fourniture de dispositifs mobiles de protection contre les inondations, destinés à limiter, contenir ou dévier la progression des eaux en cas de débordement de cours d’eau, de ruissellement ou d’inondations localisées. Les dispositifs proposés pourront prendre toute forme technique pertinente (barrières, digues modulaires, systèmes gonffables, éléments empilables, ...), pour autant qu’ils répondent aux exigences fonctionnelles et techniques définies ci-après. "
       }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
      ],
      "titles": [
       {
-       "language": "NL",
-       "text": "2026-0007 - 1"
+       "language": "FR",
+       "text": "Fourniture de dispositifs anti-inondation"
       }
      ]
     }
@@ -210,436 +141,321 @@
     "SUPPLIES"
    ],
    "noticeIds": [
-    "cf8cff8e-f27a-47e5-b6a4-ee388b447503"
-   ],
-   "noticeSubType": "16",
-   "nutsCodes": [
-    "BE224"
-   ],
-   "organisation": {
-    "organisationId": 130,
-    "organisationNames": [
-     {
-      "language": "FR",
-      "text": "Sint-Franciskusziekenhuis "
-     },
-     {
-      "language": "NL",
-      "text": "Sint-Franciskusziekenhuis "
-     },
-     {
-      "language": "DE",
-      "text": "Sint-Franciskusziekenhuis "
-     },
-     {
-      "language": "EN",
-      "text": "Sint-Franciskusziekenhuis "
-     }
-    ],
-    "tree": "200004.200027.130"
-   },
-   "procedureId": "6d8dd74d-01e8-48af-9e28-360c4f7e0047",
-   "publicationDate": "2026-11-26",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "2026-0007_pub01"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "9b0c6e24-0838-44ff-9f3a-ceec4517699c",
-   "publishedAt": [
-    "2026-11-26T11:57:46.019875"
-   ],
-   "referenceNumber": "2026-0007_pub01",
-   "sentAt": [
-    "2026-11-26T11:57:46.019875"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-12-22T10:00:00"
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "79212300-6",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Uitvoeren van wettelijk verplichte controle"
-      },
-      {
-       "language": "EN",
-       "text": "Statutory audit services"
-      },
-      {
-       "language": "FR",
-       "text": "Services de contrôle légal des comptes"
-      },
-      {
-       "language": "DE",
-       "text": "Pflichtbetriebsrevision"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "79212300-6",
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Uitvoeren van wettelijk verplichte controle"
-     },
-     {
-      "language": "EN",
-      "text": "Statutory audit services"
-     },
-     {
-      "language": "FR",
-      "text": "Services de contrôle légal des comptes"
-     },
-     {
-      "language": "DE",
-      "text": "Pflichtbetriebsrevision"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-26",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Wettelijke periodieke keuringen (excl. gebouwen)"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP028-2241/6158/26d0028",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP028-2241/6158/26d0028",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Wettelijke periodieke keuringen (excl. gebouwen)"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-26",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Marktkasten en elektrische voorzieningen"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Marktkasten en elektrische voorzieningen"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Speeltoestellen en speelterreinen"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Speeltoestellen en speelterreinen"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Boogschuttersmasten"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Boogschuttersmasten"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Arbeidsmiddelen en persoonlijke beschermingsmiddelen"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Arbeidsmiddelen en persoonlijke beschermingsmiddelen"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Valbeveiliging"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Valbeveiliging"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Tribunes en ophangsystemen podiumtechniek"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Tribunes en ophangsystemen podiumtechniek"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Sportmateriaal"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Sportmateriaal"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Brandblusapparaten en haspels"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Brandblusapparaten en haspels"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SERVICES"
-   ],
-   "noticeIds": [
-    "b5627c65-24aa-40b7-b52f-854c44d18572"
+    "9081c297-5d4f-40ab-905a-4ea5cdac9cb5"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE234"
+    "BE353"
    ],
    "organisation": {
-    "organisationId": 168,
+    "organisationId": 343,
     "organisationNames": [
      {
       "language": "DE",
-      "text": "Gemeente Aalter"
+      "text": "Viroinval"
      },
      {
       "language": "FR",
-      "text": "Gemeente Aalter"
+      "text": "Viroinval"
      },
      {
       "language": "NL",
-      "text": "Gemeente Aalter"
+      "text": "Viroinval"
      },
      {
       "language": "EN",
-      "text": "Gemeente Aalter"
+      "text": "Viroinval"
      }
     ],
-    "tree": "200004.200021.168"
+    "tree": "200004.200021.343"
    },
-   "procedureId": "b27cafb4-c8d9-4475-a2a6-f227599a2af6",
-   "publicationDate": "2026-11-26",
+   "procedureId": "62fd1b37-e41d-47d4-93b0-fb7da0f738dd",
+   "publicationDate": "2026-11-27",
    "publicationLanguages": [
-    "NL"
+    "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP028-2241/6158/26d0028_002"
+    "PPP08D-588/6030/2026476_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "07d84569-3df7-4171-bfdd-26a349cd9cd5",
+   "publicationWorkspaceId": "431faeda-a166-449d-b835-8dd27a46ba30",
    "publishedAt": [
-    "2026-11-26T11:44:46.013387"
+    "2026-11-27T00:00:46.848269"
    ],
-   "referenceNumber": "PPP028-2241/6158/26d0028_002",
+   "referenceNumber": "PPP08D-588/6030/2026476_002",
    "sentAt": [
-    "2026-11-26T11:44:46.013387"
+    "2026-11-27T00:00:46.848269"
    ],
    "tedPublished": false
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45252130-8",
+     "code": "34144700-5",
      "descriptions": [
       {
-       "language": "DE",
-       "text": "Ausrüstung für Kläranlage"
-      },
-      {
        "language": "NL",
-       "text": "Uitrusting voor rioolwaterzuivering"
-      },
-      {
-       "language": "FR",
-       "text": "Équipement de station d'épuration"
+       "text": "Bedrijfswagens"
       },
       {
        "language": "EN",
-       "text": "Sewage plant equipment"
+       "text": "Utility vehicles"
+      },
+      {
+       "language": "DE",
+       "text": "Nutzfahrzeuge"
+      },
+      {
+       "language": "FR",
+       "text": "Véhicules utilitaires"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45252130-8",
+    "code": "34144700-5",
     "descriptions": [
      {
-      "language": "DE",
-      "text": "Ausrüstung für Kläranlage"
-     },
-     {
       "language": "NL",
-      "text": "Uitrusting voor rioolwaterzuivering"
-     },
-     {
-      "language": "FR",
-      "text": "Équipement de station d'épuration"
+      "text": "Bedrijfswagens"
      },
      {
       "language": "EN",
-      "text": "Sewage plant equipment"
+      "text": "Utility vehicles"
+     },
+     {
+      "language": "DE",
+      "text": "Nutzfahrzeuge"
+     },
+     {
+      "language": "FR",
+      "text": "Véhicules utilitaires"
      }
     ]
    },
-   "dispatchDate": "2026-11-26",
+   "dispatchDate": "2026-11-27",
    "dossier": {
-    "accreditations": {
-     "V": 1
-    },
+    "accreditations": {},
     "descriptions": [
      {
-      "language": "NL",
-      "text": "A0040063/1 - Duffel, plaatsing C-bron dosering. - Plaatsen chemicalientank 15m³ aangekocht door Aquafin. - Plaatsen doseerkast aangekocht door Aquafin. - Leveren en plaatsen doseerleiding en alle nodige appendages. - Leveren en plaatsen nieuw lokaal bord met voedings- en stuurkringen voor de doseerinstallatie. - Elektrische aanpassingen in bestaand ALSB. "
+      "language": "FR",
+      "text": "Le marché consiste en la fourniture et livraison d'un véhicule utilitaire type pick-up simple cabine minimum 2 places, équipé d'une benne basculante et de charge utile de l'ordre de 650 kg. Les soumissionnaires fourniront une proposition de contrat d’entretien qui fait partie de l’offre de base. La durée de ce contrat sera de cinq ans."
      }
     ],
-    "enterpriseCategories": [
-     {
-      "categoryCode": "V",
-      "levels": [
-       1
-      ]
-     }
-    ],
+    "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "A0040063/1",
+    "number": "PPP08D-592/6057/2026480",
     "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "A0040063/1",
+    "referenceNumber": "PPP08D-592/6057/2026480",
     "titles": [
      {
-      "language": "NL",
-      "text": "A0040063/1 - Duffel, plaatsing C-bron dosering"
+      "language": "FR",
+      "text": "Achat véhicule utilitaire type camion plateau neuf pour le service entretien"
      }
     ]
    },
-   "insertionDate": "2026-11-26",
+   "insertionDate": "2026-11-27",
    "lots": [
     {
      "descriptions": [
       {
-       "language": "NL",
-       "text": "A0040063/1 - Duffel, plaatsing C-bron dosering. - Plaatsen chemicalientank 15m³ aangekocht door Aquafin. - Plaatsen doseerkast aangekocht door Aquafin. - Leveren en plaatsen doseerleiding en alle nodige appendages. - Leveren en plaatsen nieuw lokaal bord met voedings- en stuurkringen voor de doseerinstallatie. - Elektrische aanpassingen in bestaand ALSB."
+       "language": "FR",
+       "text": "Le marché consiste en la fourniture et livraison d'un véhicule utilitaire type pick-up simple cabine minimum 2 places, équipé d'une benne basculante et de charge utile de l'ordre de 650 kg. Les soumissionnaires fourniront une proposition de contrat d’entretien qui fait partie de l’offre de base. La durée de ce contrat sera de cinq ans."
       }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
      ],
      "titles": [
       {
-       "language": "NL",
-       "text": "A0040063/1 - 1"
+       "language": "FR",
+       "text": "Achat véhicule utilitaire type camion plateau neuf pour le service entretien"
       }
      ]
     }
    ],
    "natures": [
-    "WORKS"
+    "SUPPLIES"
    ],
    "noticeIds": [
-    "e6b15d7c-beb6-4c4b-bdf8-c3065ec78b38"
+    "bd755b89-717a-4ccc-858e-5f7f4748b086"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE211"
+    "BE353"
    ],
    "organisation": {
-    "organisationId": 4618,
+    "organisationId": 343,
     "organisationNames": [
      {
       "language": "DE",
-      "text": "Aquafin NV - Directie Projectmanagement"
+      "text": "Viroinval"
      },
      {
       "language": "FR",
-      "text": "Aquafin NV - Directie Projectmanagement"
+      "text": "Viroinval"
      },
      {
       "language": "NL",
-      "text": "Aquafin NV - Directie Projectmanagement"
+      "text": "Viroinval"
      },
      {
       "language": "EN",
-      "text": "Aquafin NV - Directie Projectmanagement"
+      "text": "Viroinval"
      }
     ],
-    "tree": "200004.200036.42.4618"
+    "tree": "200004.200021.343"
    },
-   "procedureId": "8b4a85ca-8956-4a9c-8ec3-156854f51621",
-   "publicationDate": "2026-11-26",
+   "procedureId": "6a4dd350-dc73-4378-9750-9a3acee1ff4b",
+   "publicationDate": "2026-11-27",
    "publicationLanguages": [
-    "NL"
+    "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "A0040063/1_pub02"
+    "PPP08D-592/6057/2026480_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "4daf424b-fc09-4ac1-bfe4-9d487be2b1ce",
+   "publicationWorkspaceId": "6b105798-267f-43d1-8d1a-717ef20c797c",
    "publishedAt": [
-    "2026-11-26T11:42:46.022812"
+    "2026-11-27T00:00:46.372591"
    ],
-   "referenceNumber": "A0040063/1_pub02",
+   "referenceNumber": "PPP08D-592/6057/2026480_002",
    "sentAt": [
-    "2026-11-26T11:42:46.022812"
+    "2026-11-27T00:00:46.372591"
+   ],
+   "tedPublished": false
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "34144700-5",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Bedrijfswagens"
+      },
+      {
+       "language": "EN",
+       "text": "Utility vehicles"
+      },
+      {
+       "language": "DE",
+       "text": "Nutzfahrzeuge"
+      },
+      {
+       "language": "FR",
+       "text": "Véhicules utilitaires"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "34144700-5",
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Bedrijfswagens"
+     },
+     {
+      "language": "EN",
+      "text": "Utility vehicles"
+     },
+     {
+      "language": "DE",
+      "text": "Nutzfahrzeuge"
+     },
+     {
+      "language": "FR",
+      "text": "Véhicules utilitaires"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-27",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Remplacement d'un véhicule pour le Service Environnement"
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP093-3353/6333/MF-PNSPP/26-3353",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP093-3353/6333/MF-PNSPP/26-3353",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Remplacement d'un véhicule pour le Service Environnement"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-27",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Remplacement d'un véhicule pour le Service Environnement"
+      }
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Remplacement d'un véhicule pour le Service Environnement"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SUPPLIES"
+   ],
+   "noticeIds": [
+    "0efc7819-252f-45ed-9bfb-5d67c14bc26d"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE341"
+   ],
+   "organisation": {
+    "organisationId": 5462,
+    "organisationNames": [
+     {
+      "language": "FR",
+      "text": "Administration Communale de la Ville d'Arlon"
+     },
+     {
+      "language": "DE",
+      "text": "Administration Communale de la Ville d'Arlon"
+     },
+     {
+      "language": "EN",
+      "text": "Administration Communale de la Ville d'Arlon"
+     },
+     {
+      "language": "NL",
+      "text": "Administration Communale de la Ville d'Arlon"
+     }
+    ],
+    "tree": "200004.200021.272.5462"
+   },
+   "procedureId": "9547c764-5856-4741-9387-2fd384452898",
+   "publicationDate": "2026-11-27",
+   "publicationLanguages": [
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP093-3353/6333/MF-PNSPP/26-3353_002"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "5ac69be6-d4cd-404d-85f4-fe5cb9599654",
+   "publishedAt": [
+    "2026-11-27T00:00:46.657341"
+   ],
+   "referenceNumber": "PPP093-3353/6333/MF-PNSPP/26-3353_002",
+   "sentAt": [
+    "2026-11-27T00:00:46.657341"
    ],
    "tedPublished": false
   }
@@ -648,234 +464,135 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "79212300-6",
+     "code": "35100000-5",
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Uitvoeren van wettelijk verplichte controle"
-      },
-      {
-       "language": "EN",
-       "text": "Statutory audit services"
-      },
-      {
        "language": "FR",
-       "text": "Services de contrôle légal des comptes"
+       "text": "Matériel de secours et de sécurité"
+      },
+      {
+       "language": "NL",
+       "text": "Nood- en veiligheidsuitrusting"
       },
       {
        "language": "DE",
-       "text": "Pflichtbetriebsrevision"
+       "text": "Not- und Sicherheitsausrüstungen"
+      },
+      {
+       "language": "EN",
+       "text": "Emergency and security equipment"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "79212300-6",
+    "code": "35100000-5",
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Uitvoeren van wettelijk verplichte controle"
-     },
-     {
-      "language": "EN",
-      "text": "Statutory audit services"
-     },
-     {
       "language": "FR",
-      "text": "Services de contrôle légal des comptes"
+      "text": "Matériel de secours et de sécurité"
+     },
+     {
+      "language": "NL",
+      "text": "Nood- en veiligheidsuitrusting"
      },
      {
       "language": "DE",
-      "text": "Pflichtbetriebsrevision"
+      "text": "Not- und Sicherheitsausrüstungen"
+     },
+     {
+      "language": "EN",
+      "text": "Emergency and security equipment"
      }
     ]
    },
-   "dispatchDate": "2026-11-26",
+   "dispatchDate": "2026-11-27",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Wettelijke periodieke keuringen (excl. gebouwen)"
+      "language": "FR",
+      "text": "Le présent marché a pour objet la fourniture de dispositifs mobiles de protection contre les inondations, destinés à limiter, contenir ou dévier la progression des eaux en cas de débordement de cours d’eau, de ruissellement ou d’inondations localisées. Les dispositifs proposés pourront prendre toute forme technique pertinente (barrières, digues modulaires, systèmes gonffables, éléments empilables, ...), pour autant qu’ils répondent aux exigences fonctionnelles et techniques définies ci-après. "
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP028-2241/6158/26d0028",
+    "number": "PPP08D-588/6030/2026476",
     "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP028-2241/6158/26d0028",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "referenceNumber": "PPP08D-588/6030/2026476",
     "titles": [
      {
-      "language": "NL",
-      "text": "Wettelijke periodieke keuringen (excl. gebouwen)"
+      "language": "FR",
+      "text": "Fourniture de dispositifs anti-inondation"
      }
     ]
    },
-   "insertionDate": "2026-11-26",
+   "insertionDate": "2026-11-27",
    "lots": [
     {
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Marktkasten en elektrische voorzieningen"
+       "language": "FR",
+       "text": "Le présent marché a pour objet la fourniture de dispositifs mobiles de protection contre les inondations, destinés à limiter, contenir ou dévier la progression des eaux en cas de débordement de cours d’eau, de ruissellement ou d’inondations localisées. Les dispositifs proposés pourront prendre toute forme technique pertinente (barrières, digues modulaires, systèmes gonffables, éléments empilables, ...), pour autant qu’ils répondent aux exigences fonctionnelles et techniques définies ci-après. "
       }
      ],
      "titles": [
       {
-       "language": "NL",
-       "text": "Marktkasten en elektrische voorzieningen"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Speeltoestellen en speelterreinen"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Speeltoestellen en speelterreinen"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Boogschuttersmasten"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Boogschuttersmasten"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Arbeidsmiddelen en persoonlijke beschermingsmiddelen"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Arbeidsmiddelen en persoonlijke beschermingsmiddelen"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Valbeveiliging"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Valbeveiliging"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Tribunes en ophangsystemen podiumtechniek"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Tribunes en ophangsystemen podiumtechniek"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Sportmateriaal"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Sportmateriaal"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Brandblusapparaten en haspels"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Brandblusapparaten en haspels"
+       "language": "FR",
+       "text": "Fourniture de dispositifs anti-inondation"
       }
      ]
     }
    ],
    "natures": [
-    "SERVICES"
+    "SUPPLIES"
    ],
    "noticeIds": [
-    "b5627c65-24aa-40b7-b52f-854c44d18572"
+    "9081c297-5d4f-40ab-905a-4ea5cdac9cb5"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE234"
+    "BE353"
    ],
    "organisation": {
-    "organisationId": 168,
+    "organisationId": 343,
     "organisationNames": [
      {
       "language": "DE",
-      "text": "Gemeente Aalter"
+      "text": "Viroinval"
      },
      {
       "language": "FR",
-      "text": "Gemeente Aalter"
+      "text": "Viroinval"
      },
      {
       "language": "NL",
-      "text": "Gemeente Aalter"
+      "text": "Viroinval"
      },
      {
       "language": "EN",
-      "text": "Gemeente Aalter"
+      "text": "Viroinval"
      }
     ],
-    "tree": "200004.200021.168"
+    "tree": "200004.200021.343"
    },
-   "procedureId": "b27cafb4-c8d9-4475-a2a6-f227599a2af6",
-   "publicationDate": "2026-11-26",
+   "procedureId": "62fd1b37-e41d-47d4-93b0-fb7da0f738dd",
+   "publicationDate": "2026-11-27",
    "publicationLanguages": [
-    "NL"
+    "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP028-2241/6158/26d0028_002"
+    "PPP08D-588/6030/2026476_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "07d84569-3df7-4171-bfdd-26a349cd9cd5",
+   "publicationWorkspaceId": "431faeda-a166-449d-b835-8dd27a46ba30",
    "publishedAt": [
-    "2026-11-26T11:44:46.013387"
+    "2026-11-27T00:00:46.848269"
    ],
-   "referenceNumber": "PPP028-2241/6158/26d0028_002",
+   "referenceNumber": "PPP08D-588/6030/2026476_002",
    "sentAt": [
-    "2026-11-26T11:44:46.013387"
+    "2026-11-27T00:00:46.848269"
    ],
    "tedPublished": false
   }
