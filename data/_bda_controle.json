@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 297203
+  "totalCount": 297242
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -22,6 +22,7 @@
   "ACTIVE|19|['WORKS']",
   "ACTIVE|20|['SERVICES']",
   "ACTIVE|20|['WORKS']",
+  "ACTIVE|21|['WORKS']",
   "ACTIVE|23|['SERVICES']",
   "ACTIVE|23|['WORKS']",
   "ACTIVE|25|['SERVICES']",
@@ -36,9 +37,12 @@
   "ACTIVE|32|['SERVICES']",
   "ACTIVE|33|['SERVICES']",
   "ACTIVE|33|['SUPPLIES']",
+  "ACTIVE|33|['WORKS']",
+  "ACTIVE|34|['WORKS']",
   "ACTIVE|36|['SERVICES']",
   "ACTIVE|36|['SUPPLIES']",
   "ACTIVE|38|['WORKS']",
+  "ACTIVE|E1|['SERVICES']",
   "ACTIVE|E1|['SUPPLIES']",
   "ACTIVE|E3|['SERVICES']",
   "ACTIVE|E3|['SUPPLIES', 'SERVICES']",
@@ -53,45 +57,45 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45000000-7",
+     "code": "71241000-9",
      "descriptions": [
       {
        "language": "NL",
-       "text": "Bouwwerkzaamheden"
+       "text": "Haalbaarheidsstudie, adviesverlening, analyse"
       },
       {
        "language": "FR",
-       "text": "Travaux de construction"
-      },
-      {
-       "language": "EN",
-       "text": "Construction work"
+       "text": "Études de faisabilité, service de conseil, analyse"
       },
       {
        "language": "DE",
-       "text": "Bauarbeiten"
+       "text": "Durchführbarkeitsstudie, Beratung, Analyse"
+      },
+      {
+       "language": "EN",
+       "text": "Feasibility study, advisory service, analysis"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45000000-7",
+    "code": "71241000-9",
     "descriptions": [
      {
       "language": "NL",
-      "text": "Bouwwerkzaamheden"
+      "text": "Haalbaarheidsstudie, adviesverlening, analyse"
      },
      {
       "language": "FR",
-      "text": "Travaux de construction"
-     },
-     {
-      "language": "EN",
-      "text": "Construction work"
+      "text": "Études de faisabilité, service de conseil, analyse"
      },
      {
       "language": "DE",
-      "text": "Bauarbeiten"
+      "text": "Durchführbarkeitsstudie, Beratung, Analyse"
+     },
+     {
+      "language": "EN",
+      "text": "Feasibility study, advisory service, analysis"
      }
     ]
    },
@@ -101,96 +105,28 @@
     "descriptions": [
      {
       "language": "FR",
-      "text": "Objet des travaux  Les travaux portent sur la création du parc de la Sennette via :   • La démolition entière ou partielle du bâti ;   • La sécurisation des façades ;   • Les confortements des anciens rez-de-chaussée sur cave ;   • La réalisation de terrassement et le renouvellement des terres polluées ;   • La réalisation de portails aux entrés du site ;    Lieu d’exécution  Sur les trois premiers îlots qui constituent le futur parc de la Sennette :  • Îlot prioritaire : Entre les rues de Liverpool et des Mégissiers ainsi qu’entre les rues Heyvaert et du Chimiste.   • Îlot Mégissiers-Bougie : Entre les rues des Mégissiers et la rue de la Bougie ;   • Îlot Rosée-Poterie : Entre les rues de la Rosée et de la Poterie    Description succincte  L’aménagement du parc de la Sennette s’inscrit dans le Contrat de Rénovation Urbaine (CRU) n°05 « Heyvaert-Poincaré », qui vise à améliorer la qualité de l’espace public, réduire les fractures urbaines et soutenir la revitalisation socioéconomique du quartier via la création d’un parc linéaire urbain reliant les Abattoirs au parc de la Rosée. Le parc s'organise en une structure principale et des \"chambres\" qui rythment le parcours.  Ce projet s’inscrit dans plusieurs cadres réglementaires régionaux (PRDD, PRAS, CRU5, PADs Heyvaert et Ninove, Plan Canal, etc.) et répond à des ambitions claires : renouvellement urbain, inclusion sociale, résilience climatique, déminéralisation et renaturation du quartier Heyvaert. Les ambitions sont également tournées vers la valorisation du patrimoine industriel existant ainsi que la création d’espaces attractifs.    La programmation et les ambitions du projet se réalisent en assumant les singularités du site :   • Les bâtiments de l’ilot Liverpool-Mégissiers seront démolis avec conservation ou renouvellement des revêtements des rez-de-chaussée ;   • Les façades voisines seront sécurisées dans l’esthétique du site ;   • Des fosses de plantations seront créées ;  • Certains revêtements seront étanchéifiés et végétalisées ;  • Des portails reflétant l’esprit industriel du site seront installés.  "
-     },
-     {
-      "language": "NL",
-      "text": "   Voorwerp van deze werken: De werken hebben betrekking op de aanleg van het park van de Kleine Zenne via: •De volledige of gedeeltelijke afbraak van de bebouwing; •De beveiliging van gevels; •De Versterkingen van oude gelijkvloerse verdiepingen op kelder; •De uitvoering van grondwerken en vernieuwing van verontreinigde grond; •De uitvoering van toegangspoorten tot het gebied;  Uitvoeringsplaats Op de drie eerste huizenblokken die het toekomstige park van de Kleine Zenne vormen: •Prioritair huizenblok: tussen de Liverpool- en de Zeemtouwersstraat alsook tussen de Heyvaert- en de Scheikundigestraat. •Huizenblok Zeemtouwers-Waskaars: tussen de Zeemtouwers- en Waskaarsstraat; •Huizenblok Dauw-Pottengoed: tussen de Dauw- en Pottengoedstraat  Beknopte beschrijving De inrichting van het park van de Kleine Zenne maakt deel uit van het Stadsvernieuwingscontract (SVC) nr. 05 ' Heyvaert-Poincaré', dat erop gericht is om de kwaliteit van de openbare ruimte te verbeteren, stedelijke breuklijnen te verminderen en de socio-economische heropleving van de wijk te ondersteunen door de aanleg van een lijnvormig stadspark dat de Slachthuizen verbindt met het Dauwpark.  Het park wordt georganiseerd in een hoofdstructuur en 'kamers' die een ritme geven aan het traject. Dit project past binnen meerdere gewestelijke verordenende kaders (GPDO, BGP, SVC5, RPA's Heyvaert en Ninove, Kanaalplan, enz.) en gaat in op duidelijke ambities: stadsvernieuwing, sociale inclusie, klimaatbestendigheid, ontharding en hernaturalisatie van de Heyvaertwijk. De ambities zijn eveneens gericht op de valorisatie van het bestaande industriële erfgoed alsook de ontwikkeling van aantrekkelijke ruimtes.  Het programma en de ambities van het project worden uitgevoerd met behoud van de bijzonderheden van de site: •De gebouwen van het huizenblok Liverpool-Zeemtouwers worden gesloopt met behoud of vernieuwing van de verhardingen van de gelijkvloerse verdieping; •De naburige gevels worden beveiligd binnen de esthetiek van de site; •Er worden plantkuilen aangelegd; •Bepaalde verhardingen worden afgedicht en vergroend; •Er worden poorten geplaatst die het industriële karakter van de site weerspiegelen."
+      "text": "Le présent marché a pour objet la conception et la mise en œuvre d’un outil d’aide à la décision destiné à l’élaboration d’une stratégie de stockage d’énergie pour le secteur de l’eau en Wallonie. L’outil devra permettre de déterminer, pour chaque opérateur et site,  • les technologies de stockage adaptées (batteries, hydraulique, hydrogène, etc.), • les dimensionnements optimaux (kWh/kW), • les localisations prioritaires, • et la faisabilité économique et environnementale à différents horizons jusqu’à 2050.  Cette stratégie visera à évaluer la rentabilité et la faisabilité des solutions, ainsi qu’à identifier les technologies de stockage les plus adaptées. Couvrant la période 2026-2050, elle s’inscrira dans la continuité de la stratégie énergétique sectorielle existante et s’appuiera sur un outil modélisable permettant de simuler différents scénarios de déploiement et de combinaison technologique. L’objectif final est de contribuer à la réduction des coûts actuels et futurs de fourniture d’électricité et d’améliorer la sécurité d’approvisionnement énergétique du secteur. La SWDE est l’autorité qui interviendra au nom collectif de l’ensemble des sociétés en qualité de pouvoir adjudicateur.  Les sociétés concernées par le présent marché sont les suivantes : · SWDE · SPGE (comprenant 7 intercommunales, uniquement pour les activités liées à l’assainissement et au démergement) · CILE ·...   La finalité est d’une part de réaliser une étude à l’échelle sectorielle, commune aux acteurs du secteur et, d’autre part, de réaliser une étude propre à chaque opérateur.    "
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP0UM-19722/6285/2025G0243",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "PPP0UM-19722/6285/2025G0243",
+    "number": "PPP0ZT-5283/6060/5283_CSC_Stratégie de stockage d’énergie",
+    "procurementProcedureType": "S_NEG_W_CALL_24_81",
+    "referenceNumber": "PPP0ZT-5283/6060/5283_CSC_Stratégie de stockage d’énergie",
     "titles": [
      {
-      "language": "NL",
-      "text": " werken voor de aanleg van het park van de Kleine Zenne op 3 huizenblokken."
-     },
-     {
       "language": "FR",
-      "text": "Marché de travaux pour la création du parc de la Sennette sur 3 îlots "
+      "text": "Etude de rentabilité et faisabilité sur le choix technologique le plus approprié de stockage d’énergie"
      }
     ]
    },
-   "insertionDate": "2026-11-26",
+   "insertionDate": "2026-11-04",
    "lots": [
     {
      "descriptions": [
       {
-       "language": "NL",
-       "text": "Travaux de métallerie (portails)"
-      },
-      {
        "language": "FR",
-       "text": "Travaux de métallerie (portails)"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Travaux de métallerie (portails)"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de métallerie (portails)"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Terrassement et dépollution"
-      },
-      {
-       "language": "FR",
-       "text": "Terrassement et dépollution"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Terrassement et dépollution"
-      },
-      {
-       "language": "FR",
-       "text": "Terrassement et dépollution"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Lot 1 Démolition et sécurisation"
-      },
-      {
-       "language": "NL",
-       "text": "Lot 1 Démolition et sécurisation"
+       "text": "Le présent marché a pour objet la conception et la mise en œuvre d’un outil d’aide à la décision destiné à l’élaboration d’une stratégie de stockage d’énergie pour le secteur de l’eau en Wallonie. L’outil devra permettre de déterminer, pour chaque opérateur et site,  • les technologies de stockage adaptées (batteries, hydraulique, hydrogène, etc.), • les dimensionnements optimaux (kWh/kW), • les localisations prioritaires, • et la faisabilité économique et environnementale à différents horizons jusqu’à 2050.  Cette stratégie visera à évaluer la rentabilité et la faisabilité des solutions, ainsi qu’à identifier les technologies de stockage les plus adaptées. Couvrant la période 2026-2050, elle s’inscrira dans la continuité de la stratégie énergétique sectorielle existante et s’appuiera sur un outil modélisable permettant de simuler différents scénarios de déploiement et de combinaison technologique. L’objectif final est de contribuer à la réduction des coûts actuels et futurs de fourniture d’électricité et d’améliorer la sécurité d’approvisionnement énergétique du secteur. La SWDE est l’autorité qui interviendra au nom collectif de l’ensemble des sociétés en qualité de pouvoir adjudicateur.  Les sociétés concernées par le présent marché sont les suivantes : · SWDE · SPGE (comprenant 7 intercommunales, uniquement pour les activités liées à l’assainissement et au démergement) · CILE ·...   La finalité est d’une part de réaliser une étude à l’échelle sectorielle, commune aux acteurs du secteur et, d’autre part, de réaliser une étude propre à chaque opérateur.    "
       }
      ],
      "reservedExecution": [
@@ -202,194 +138,109 @@
      "titles": [
       {
        "language": "FR",
-       "text": "Lot 1 Démolition et sécurisation"
-      },
-      {
-       "language": "NL",
-       "text": "Lot 1 Démolition et sécurisation"
+       "text": "Etude de rentabilité et faisabilité sur le choix technologique le plus approprié de stockage d’énergie"
       }
      ]
     }
    ],
    "natures": [
-    "WORKS"
+    "SERVICES"
    ],
    "noticeIds": [
-    "890b59b6-7c89-479a-bccc-4b015f769e40"
+    "4cd5b885-d2b4-4187-b16c-05b4cec44bab",
+    "f1e303f8-e000-455d-a2a0-64deeb7c32ea"
    ],
-   "noticeSubType": "E4",
+   "noticeSubType": "16",
    "nutsCodes": [
-    "BE100"
+    "BE335"
    ],
    "organisation": {
-    "organisationId": 4909,
+    "organisationId": 672,
     "organisationNames": [
      {
-      "language": "NL",
-      "text": "Leefmilieu Brussel"
-     },
-     {
-      "language": "EN",
-      "text": "Institut Bruxellois pour la Gestion de l'Environnement"
-     },
-     {
       "language": "FR",
-      "text": "Bruxelles Environnement"
+      "text": "Société wallonne des eaux"
      },
      {
       "language": "DE",
-      "text": "Bruxelles Environnement"
+      "text": "Société wallonne des eaux"
+     },
+     {
+      "language": "NL",
+      "text": "Société wallonne des eaux"
+     },
+     {
+      "language": "EN",
+      "text": "Société wallonne des eaux"
      }
     ],
-    "tree": "200003.200017.61.4909"
+    "tree": "200004.200023.672"
    },
-   "procedureId": "c0a5e1f1-0e93-4b07-9530-57813bad4478",
+   "procedureId": "7d73c99f-7d7c-4cca-bd58-74082c15ded3",
    "publicationDate": "2026-11-26",
    "publicationLanguages": [
-    "NL",
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP0UM-19722/6285/2025G0243_003"
+    "PPP0ZT-5283/6060/5283_CSC_Stratégie de stockage d’énergie_001"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "85d3ccd6-8144-42f0-9684-6ac4109fb513",
+   "publicationWorkspaceId": "58a25d4d-18ca-4095-abc2-c7ac151214f4",
    "publishedAt": [
-    "2026-11-26T00:00:46.543718"
+    "2026-11-04T13:49:45.012627",
+    "2026-11-26T08:02:45.758762"
    ],
-   "referenceNumber": "PPP0UM-19722/6285/2025G0243_003",
+   "referenceNumber": "PPP0ZT-5283/6060/5283_CSC_Stratégie de stockage d’énergie_001",
    "sentAt": [
-    "2026-11-26T00:00:46.543718"
+    "2026-11-04T13:49:45.012627",
+    "2026-11-26T08:02:45.758762"
    ],
-   "tedPublished": false
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-12-07T10:00:00"
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45233293-9",
+     "code": "90711500-9",
      "descriptions": [
       {
        "language": "EN",
-       "text": "Installation of street furniture"
-      },
-      {
-       "language": "FR",
-       "text": "Installation de mobilier urbain"
-      },
-      {
-       "language": "DE",
-       "text": "Installation von Straßenmobiliar"
+       "text": "Environmental monitoring other than for construction"
       },
       {
        "language": "NL",
-       "text": "Plaatsen van straatmeubilair"
-      }
-     ]
-    },
-    {
-     "code": "45112000-5",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Travaux de fouille et de terrassement"
-      },
-      {
-       "language": "EN",
-       "text": "Excavating and earthmoving work"
-      },
-      {
-       "language": "DE",
-       "text": "Aushub- und Erdbewegungsarbeiten"
-      },
-      {
-       "language": "NL",
-       "text": "Graafwerkzaamheden en grondverzet"
-      }
-     ]
-    },
-    {
-     "code": "45100000-8",
-     "descriptions": [
-      {
-       "language": "DE",
-       "text": "Baureifmachung"
-      },
-      {
-       "language": "NL",
-       "text": "Bouwrijp maken van terreinen"
-      },
-      {
-       "language": "EN",
-       "text": "Site preparation work"
+       "text": "Milieutoezicht voor andere activiteiten dan bouw"
       },
       {
        "language": "FR",
-       "text": "Travaux de préparation de chantier"
-      }
-     ]
-    },
-    {
-     "code": "45233120-6",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Travaux de construction de routes"
-      },
-      {
-       "language": "NL",
-       "text": "Wegenbouwwerken"
-      },
-      {
-       "language": "EN",
-       "text": "Road construction works"
+       "text": "Surveillance de l'environnement autre que pour la construction"
       },
       {
        "language": "DE",
-       "text": "Straßenbauarbeiten"
-      }
-     ]
-    },
-    {
-     "code": "45233162-2",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Aanleggen van fietspad"
-      },
-      {
-       "language": "EN",
-       "text": "Cycle path construction work"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de construction de pistes cyclables"
-      },
-      {
-       "language": "DE",
-       "text": "Bau von Fahrradwegen"
+       "text": "Umweltüberwachung in anderen Bereichen als dem Bausektor"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45100000-8",
+    "code": "90711500-9",
     "descriptions": [
      {
-      "language": "DE",
-      "text": "Baureifmachung"
+      "language": "EN",
+      "text": "Environmental monitoring other than for construction"
      },
      {
       "language": "NL",
-      "text": "Bouwrijp maken van terreinen"
-     },
-     {
-      "language": "EN",
-      "text": "Site preparation work"
+      "text": "Milieutoezicht voor andere activiteiten dan bouw"
      },
      {
       "language": "FR",
-      "text": "Travaux de préparation de chantier"
+      "text": "Surveillance de l'environnement autre que pour la construction"
+     },
+     {
+      "language": "DE",
+      "text": "Umweltüberwachung in anderen Bereichen als dem Bausektor"
      }
     ]
    },
@@ -399,18 +250,18 @@
     "descriptions": [
      {
       "language": "NL",
-      "text": "Opbraak van bestaande wegenis –Wegherstellingswerken – Aanleg van nieuwe wegenis– Groenaanleg en onderhoud - …"
+      "text": "In het kader van het Soortenbeschermingsprogramma van de Antwerpse haven (2022–2027) wordt een bodemvalonderzoek naar loopkevers uitgeschreven. Een twaalftal keversoorten (Amara bifrons, A. cursitans, A. curta, A. famelica, A. fulva, Broscus cephalotes, Calathus cinctus, Dychirius politus, Harpalus anxius, H. flavescens, Masoreus wetterhallii en Microlestes minutulus), kenmerkend voor pioniersbiotopen en droge, schrale graslanden, worden hierbij als doelsoorten beschouwd. Het onderzoek wordt uitgevoerd op circa 30 locaties (dijken, pioniersbiotopen en droge graslanden op beide oevers), met telkens 2 bodemvallen per locatie, gespreid over 5 maanden (april–juni en september–oktober 2027). Het eindresultaat is een rapport met een soorteninventaris per locatie en concrete aanbevelingen voor beheermaatregelen om het habitatnetwerk functioneel te houden voor de doelsoorten. "
      }
     ],
     "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP0D3-5991/6762/2026-2700",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "PPP0D3-5991/6762/2026-2700",
+    "legalBasis": "D25",
+    "number": "PPP0B3-19802/6962/K3843",
+    "procurementProcedureType": "NEG_WO_CALL_25",
+    "referenceNumber": "PPP0B3-19802/6962/K3843",
     "titles": [
      {
       "language": "NL",
-      "text": "Toegangspoort Nationaal Park Hoge Kempen Kattevennen aanleg parking"
+      "text": "Onderzoek loopkevers in de Ecologische Infrastructuur van de Antwerpse haven"
      }
     ]
    },
@@ -420,118 +271,111 @@
      "descriptions": [
       {
        "language": "NL",
-       "text": "Opbraak van bestaande wegenis –Wegherstellingswerken – Aanleg van nieuwe wegenis– Groenaanleg en onderhoud - …"
+       "text": "In het kader van het Soortenbeschermingsprogramma van de Antwerpse haven (2022–2027) wordt een bodemvalonderzoek naar loopkevers uitgeschreven. Een twaalftal keversoorten (Amara bifrons, A. cursitans, A. curta, A. famelica, A. fulva, Broscus cephalotes, Calathus cinctus, Dychirius politus, Harpalus anxius, H. flavescens, Masoreus wetterhallii en Microlestes minutulus), kenmerkend voor pioniersbiotopen en droge, schrale graslanden, worden hierbij als doelsoorten beschouwd. Het onderzoek wordt uitgevoerd op circa 30 locaties (dijken, pioniersbiotopen en droge graslanden op beide oevers), met telkens 2 bodemvallen per locatie, gespreid over 5 maanden (april–juni en september–oktober 2027). Het eindresultaat is een rapport met een soorteninventaris per locatie en concrete aanbevelingen voor beheermaatregelen om het habitatnetwerk functioneel te houden voor de doelsoorten. "
       }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
      ],
      "titles": [
       {
        "language": "NL",
-       "text": "Toegangspoort Nationaal Park Hoge Kempen Kattevennen aanleg parking"
+       "text": "Onderzoek loopkevers in de Ecologische Infrastructuur van de Antwerpse haven"
       }
      ]
     }
    ],
    "natures": [
-    "WORKS"
+    "SERVICES"
    ],
    "noticeIds": [
-    "68309009-fa99-4bb4-8015-99a1fa1ca428"
+    "22188783-f253-4e7e-9f2c-b0d1fb993680"
    ],
-   "noticeSubType": "16",
+   "noticeSubType": "E4",
    "nutsCodes": [
-    "BE224"
+    "BE211"
    ],
    "organisation": {
-    "organisationId": 288,
+    "organisationId": 4277,
     "organisationNames": [
      {
-      "language": "DE",
-      "text": "Genk"
+      "language": "NL",
+      "text": "Haven van Antwerpen-Brugge NV van publiek recht "
      },
      {
       "language": "FR",
-      "text": "Genk"
+      "text": "Haven van Antwerpen-Brugge NV van publiek recht "
      },
      {
-      "language": "NL",
-      "text": "Genk"
+      "language": "DE",
+      "text": "Haven van Antwerpen-Brugge NV van publiek recht "
      },
      {
       "language": "EN",
-      "text": "Genk"
+      "text": "Haven van Antwerpen-Brugge NV van publiek recht "
      }
     ],
-    "tree": "200004.200021.288"
+    "tree": "200004.200030.176.4277"
    },
-   "procedureId": "ec632d32-15c6-42b7-96c0-de5309b5a4b6",
+   "procedureId": "ea26956c-3b20-4dda-aa4e-a93f6fa33fa0",
    "publicationDate": "2026-11-26",
    "publicationLanguages": [
     "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP0D3-5991/6762/2026-2700_001"
+    "PPP0B3-19802/6962/K3843_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "2c3c1d02-eafc-40c1-b0fd-cc24125f985b",
+   "publicationWorkspaceId": "79cdb839-fac7-45c3-83be-d0dc4d70774d",
    "publishedAt": [
-    "2026-11-26T00:00:46.014734"
+    "2026-11-26T08:18:46.035019"
    ],
-   "referenceNumber": "PPP0D3-5991/6762/2026-2700_001",
+   "referenceNumber": "PPP0B3-19802/6962/K3843_002",
    "sentAt": [
-    "2026-11-26T00:00:46.014734"
+    "2026-11-26T08:18:46.035019"
    ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2027-01-28T11:00:00"
+   "tedPublished": false
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45261900-3",
+     "code": "60000000-8",
      "descriptions": [
       {
-       "language": "DE",
-       "text": "Dachreparatur und Dachwartung"
+       "language": "FR",
+       "text": "Services de transport (à l'exclusion du transport des déchets)"
       },
       {
-       "language": "FR",
-       "text": "Réparation et entretien de toiture"
+       "language": "DE",
+       "text": "Transport- und Beförderungsdienstleistungen (außer Abfalltransport)"
       },
       {
        "language": "EN",
-       "text": "Roof repair and maintenance work"
+       "text": "Transport services (excl. Waste transport)"
       },
       {
        "language": "NL",
-       "text": "Reparatie en onderhoud van daken"
+       "text": "Vervoersdiensten (uitg. vervoer van afval)"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45261900-3",
+    "code": "60000000-8",
     "descriptions": [
      {
-      "language": "DE",
-      "text": "Dachreparatur und Dachwartung"
+      "language": "FR",
+      "text": "Services de transport (à l'exclusion du transport des déchets)"
      },
      {
-      "language": "FR",
-      "text": "Réparation et entretien de toiture"
+      "language": "DE",
+      "text": "Transport- und Beförderungsdienstleistungen (außer Abfalltransport)"
      },
      {
       "language": "EN",
-      "text": "Roof repair and maintenance work"
+      "text": "Transport services (excl. Waste transport)"
      },
      {
       "language": "NL",
-      "text": "Reparatie en onderhoud van daken"
+      "text": "Vervoersdiensten (uitg. vervoer van afval)"
      }
     ]
    },
@@ -540,136 +384,168 @@
     "accreditations": {},
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Offre de service pour les travaux de réparation des toitures, pour l'ensemble des bâtiments du CPAS, de la RCA et de la Ville de Hannut.  Votre offre sera libellée de la manière suivante : * Coût horaire pour la réparation des toitures, pendant les heures normales de travaux (horaire à spécifier sur votre offre). * Coût horaire pour la réparation des toitures, en dehors des heures normales de travail (week-end et jours fériés compris). * Votre délai d'intervention à partir du moment de la commande. * Cout éventuel du déplacement.  Les demandes d'intervention sont liées au besoin du CPAS et/ou de la RCA et/ou de la Ville de HANNUT et ne sont pas quantifiables. "
+      "language": "NL",
+      "text": "Ophalen en transporteren van monsters van het traject Oostende naar Gent en traject Leuven via Hasselt en Herentals naar Gent."
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP0B5-2651/6174/2026/534",
+    "number": "Bestek nr. VMM/KMW/DDMIW/2027.6/TRANSPORT MEETNETTEN",
     "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP0B5-2651/6174/2026/534",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "referenceNumber": "Bestek nr. VMM/KMW/DDMIW/2027.6/TRANSPORT MEETNETTEN",
     "titles": [
      {
-      "language": "FR",
-      "text": "Réparation des toitures 2027"
+      "language": "NL",
+      "text": " Ophalen en transporteren van monsters en recipiënten traject Oostende – Gent perceel 1 en  traject Leuven-Hasselt-Herentals-Gent perceel 2"
      }
     ]
    },
-   "insertionDate": "2026-11-26",
+   "insertionDate": "2026-11-18",
    "lots": [
     {
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Offre de service pour les travaux de réparation des toitures, pour l'ensemble des bâtiments du CPAS, de la RCA et de la Ville de Hannut.  Votre offre sera libellée de la manière suivante : * Coût horaire pour la réparation des toitures, pendant les heures normales de travaux (horaire à spécifier sur votre offre). * Coût horaire pour la réparation des toitures, en dehors des heures normales de travail (week-end et jours fériés compris). * Votre délai d'intervention à partir du moment de la commande. * Cout éventuel du déplacement.  Les demandes d'intervention sont liées au besoin du CPAS et/ou de la RCA et/ou de la Ville de HANNUT et ne sont pas quantifiables. "
+       "language": "NL",
+       "text": "zie opdrachtdocument"
       }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
      ],
      "titles": [
       {
-       "language": "FR",
-       "text": "Réparation des toitures 2027"
+       "language": "NL",
+       "text": "Bestek nr. VMM/KMW/DDMIW/2027.6/TRANSPORT MEETNETTEN - 2"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "zie opdrachtdocument"
+      }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Bestek nr. VMM/KMW/DDMIW/2027.6/TRANSPORT MEETNETTEN - 1"
       }
      ]
     }
    ],
    "natures": [
-    "WORKS"
+    "SERVICES"
    ],
    "noticeIds": [
-    "29176111-e2af-41ba-9314-8b1319603afa"
+    "35e2d1c2-2f0e-4ed6-abce-55e830445692",
+    "00b68384-1fe1-4aaa-8dbe-b2ba38dd81e9"
    ],
-   "noticeSubType": "E4",
+   "noticeSubType": "E3",
    "nutsCodes": [
-    "BE334"
+    "BE255",
+    "BE242",
+    "BE224",
+    "BE234"
    ],
    "organisation": {
-    "organisationId": 407,
+    "organisationId": 5721,
     "organisationNames": [
      {
       "language": "DE",
-      "text": "Hannut"
-     },
-     {
-      "language": "NL",
-      "text": "Hannut"
-     },
-     {
-      "language": "EN",
-      "text": "Hannut"
+      "text": "Vlaamse Milieumaatschappij"
      },
      {
       "language": "FR",
-      "text": "Hannut"
+      "text": "Vlaamse Milieumaatschappij"
+     },
+     {
+      "language": "NL",
+      "text": "Vlaamse Milieumaatschappij"
+     },
+     {
+      "language": "EN",
+      "text": "Vlaamse Milieumaatschappij"
      }
     ],
-    "tree": "200004.200021.407"
+    "tree": "200003.200015.73.4646.5721"
    },
-   "procedureId": "85c3127a-74a5-4d77-a773-abc774fbd1c1",
+   "procedureId": "274b2fda-043a-4d25-9e2f-1d3b5929ce51",
    "publicationDate": "2026-11-26",
    "publicationLanguages": [
-    "FR"
+    "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP0B5-2651/6174/2026/534_002"
+    "Bestek nr. VMM/KMW/DDMIW/2027.6/TRANSPORT MEETNETTEN_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "7988d264-ebb6-40cd-a4e6-f2dd7c86edcd",
+   "publicationWorkspaceId": "981c0213-985a-4255-a22e-35b197eed555",
    "publishedAt": [
-    "2026-11-26T00:00:46.330983"
+    "2026-11-18T10:29:45.013401",
+    "2026-11-26T07:52:46.078577"
    ],
-   "referenceNumber": "PPP0B5-2651/6174/2026/534_002",
+   "referenceNumber": "Bestek nr. VMM/KMW/DDMIW/2027.6/TRANSPORT MEETNETTEN_pub01",
    "sentAt": [
-    "2026-11-26T00:00:46.330983"
+    "2026-11-18T10:29:45.013401",
+    "2026-11-26T07:52:46.078577"
    ],
-   "tedPublished": false
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-12-04T09:00:00"
   }
  ],
  "exemple_attribution": [
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45000000-7",
+     "code": "90711500-9",
      "descriptions": [
       {
+       "language": "EN",
+       "text": "Environmental monitoring other than for construction"
+      },
+      {
        "language": "NL",
-       "text": "Bouwwerkzaamheden"
+       "text": "Milieutoezicht voor andere activiteiten dan bouw"
       },
       {
        "language": "FR",
-       "text": "Travaux de construction"
-      },
-      {
-       "language": "EN",
-       "text": "Construction work"
+       "text": "Surveillance de l'environnement autre que pour la construction"
       },
       {
        "language": "DE",
-       "text": "Bauarbeiten"
+       "text": "Umweltüberwachung in anderen Bereichen als dem Bausektor"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45000000-7",
+    "code": "90711500-9",
     "descriptions": [
      {
+      "language": "EN",
+      "text": "Environmental monitoring other than for construction"
+     },
+     {
       "language": "NL",
-      "text": "Bouwwerkzaamheden"
+      "text": "Milieutoezicht voor andere activiteiten dan bouw"
      },
      {
       "language": "FR",
-      "text": "Travaux de construction"
-     },
-     {
-      "language": "EN",
-      "text": "Construction work"
+      "text": "Surveillance de l'environnement autre que pour la construction"
      },
      {
       "language": "DE",
-      "text": "Bauarbeiten"
+      "text": "Umweltüberwachung in anderen Bereichen als dem Bausektor"
      }
     ]
    },
@@ -678,27 +554,19 @@
     "accreditations": {},
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Objet des travaux  Les travaux portent sur la création du parc de la Sennette via :   • La démolition entière ou partielle du bâti ;   • La sécurisation des façades ;   • Les confortements des anciens rez-de-chaussée sur cave ;   • La réalisation de terrassement et le renouvellement des terres polluées ;   • La réalisation de portails aux entrés du site ;    Lieu d’exécution  Sur les trois premiers îlots qui constituent le futur parc de la Sennette :  • Îlot prioritaire : Entre les rues de Liverpool et des Mégissiers ainsi qu’entre les rues Heyvaert et du Chimiste.   • Îlot Mégissiers-Bougie : Entre les rues des Mégissiers et la rue de la Bougie ;   • Îlot Rosée-Poterie : Entre les rues de la Rosée et de la Poterie    Description succincte  L’aménagement du parc de la Sennette s’inscrit dans le Contrat de Rénovation Urbaine (CRU) n°05 « Heyvaert-Poincaré », qui vise à améliorer la qualité de l’espace public, réduire les fractures urbaines et soutenir la revitalisation socioéconomique du quartier via la création d’un parc linéaire urbain reliant les Abattoirs au parc de la Rosée. Le parc s'organise en une structure principale et des \"chambres\" qui rythment le parcours.  Ce projet s’inscrit dans plusieurs cadres réglementaires régionaux (PRDD, PRAS, CRU5, PADs Heyvaert et Ninove, Plan Canal, etc.) et répond à des ambitions claires : renouvellement urbain, inclusion sociale, résilience climatique, déminéralisation et renaturation du quartier Heyvaert. Les ambitions sont également tournées vers la valorisation du patrimoine industriel existant ainsi que la création d’espaces attractifs.    La programmation et les ambitions du projet se réalisent en assumant les singularités du site :   • Les bâtiments de l’ilot Liverpool-Mégissiers seront démolis avec conservation ou renouvellement des revêtements des rez-de-chaussée ;   • Les façades voisines seront sécurisées dans l’esthétique du site ;   • Des fosses de plantations seront créées ;  • Certains revêtements seront étanchéifiés et végétalisées ;  • Des portails reflétant l’esprit industriel du site seront installés.  "
-     },
-     {
       "language": "NL",
-      "text": "   Voorwerp van deze werken: De werken hebben betrekking op de aanleg van het park van de Kleine Zenne via: •De volledige of gedeeltelijke afbraak van de bebouwing; •De beveiliging van gevels; •De Versterkingen van oude gelijkvloerse verdiepingen op kelder; •De uitvoering van grondwerken en vernieuwing van verontreinigde grond; •De uitvoering van toegangspoorten tot het gebied;  Uitvoeringsplaats Op de drie eerste huizenblokken die het toekomstige park van de Kleine Zenne vormen: •Prioritair huizenblok: tussen de Liverpool- en de Zeemtouwersstraat alsook tussen de Heyvaert- en de Scheikundigestraat. •Huizenblok Zeemtouwers-Waskaars: tussen de Zeemtouwers- en Waskaarsstraat; •Huizenblok Dauw-Pottengoed: tussen de Dauw- en Pottengoedstraat  Beknopte beschrijving De inrichting van het park van de Kleine Zenne maakt deel uit van het Stadsvernieuwingscontract (SVC) nr. 05 ' Heyvaert-Poincaré', dat erop gericht is om de kwaliteit van de openbare ruimte te verbeteren, stedelijke breuklijnen te verminderen en de socio-economische heropleving van de wijk te ondersteunen door de aanleg van een lijnvormig stadspark dat de Slachthuizen verbindt met het Dauwpark.  Het park wordt georganiseerd in een hoofdstructuur en 'kamers' die een ritme geven aan het traject. Dit project past binnen meerdere gewestelijke verordenende kaders (GPDO, BGP, SVC5, RPA's Heyvaert en Ninove, Kanaalplan, enz.) en gaat in op duidelijke ambities: stadsvernieuwing, sociale inclusie, klimaatbestendigheid, ontharding en hernaturalisatie van de Heyvaertwijk. De ambities zijn eveneens gericht op de valorisatie van het bestaande industriële erfgoed alsook de ontwikkeling van aantrekkelijke ruimtes.  Het programma en de ambities van het project worden uitgevoerd met behoud van de bijzonderheden van de site: •De gebouwen van het huizenblok Liverpool-Zeemtouwers worden gesloopt met behoud of vernieuwing van de verhardingen van de gelijkvloerse verdieping; •De naburige gevels worden beveiligd binnen de esthetiek van de site; •Er worden plantkuilen aangelegd; •Bepaalde verhardingen worden afgedicht en vergroend; •Er worden poorten geplaatst die het industriële karakter van de site weerspiegelen."
+      "text": "In het kader van het Soortenbeschermingsprogramma van de Antwerpse haven (2022–2027) wordt een bodemvalonderzoek naar loopkevers uitgeschreven. Een twaalftal keversoorten (Amara bifrons, A. cursitans, A. curta, A. famelica, A. fulva, Broscus cephalotes, Calathus cinctus, Dychirius politus, Harpalus anxius, H. flavescens, Masoreus wetterhallii en Microlestes minutulus), kenmerkend voor pioniersbiotopen en droge, schrale graslanden, worden hierbij als doelsoorten beschouwd. Het onderzoek wordt uitgevoerd op circa 30 locaties (dijken, pioniersbiotopen en droge graslanden op beide oevers), met telkens 2 bodemvallen per locatie, gespreid over 5 maanden (april–juni en september–oktober 2027). Het eindresultaat is een rapport met een soorteninventaris per locatie en concrete aanbevelingen voor beheermaatregelen om het habitatnetwerk functioneel te houden voor de doelsoorten. "
      }
     ],
     "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP0UM-19722/6285/2025G0243",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "PPP0UM-19722/6285/2025G0243",
+    "legalBasis": "D25",
+    "number": "PPP0B3-19802/6962/K3843",
+    "procurementProcedureType": "NEG_WO_CALL_25",
+    "referenceNumber": "PPP0B3-19802/6962/K3843",
     "titles": [
      {
       "language": "NL",
-      "text": " werken voor de aanleg van het park van de Kleine Zenne op 3 huizenblokken."
-     },
-     {
-      "language": "FR",
-      "text": "Marché de travaux pour la création du parc de la Sennette sur 3 îlots "
+      "text": "Onderzoek loopkevers in de Ecologische Infrastructuur van de Antwerpse haven"
      }
     ]
    },
@@ -708,137 +576,66 @@
      "descriptions": [
       {
        "language": "NL",
-       "text": "Travaux de métallerie (portails)"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de métallerie (portails)"
+       "text": "In het kader van het Soortenbeschermingsprogramma van de Antwerpse haven (2022–2027) wordt een bodemvalonderzoek naar loopkevers uitgeschreven. Een twaalftal keversoorten (Amara bifrons, A. cursitans, A. curta, A. famelica, A. fulva, Broscus cephalotes, Calathus cinctus, Dychirius politus, Harpalus anxius, H. flavescens, Masoreus wetterhallii en Microlestes minutulus), kenmerkend voor pioniersbiotopen en droge, schrale graslanden, worden hierbij als doelsoorten beschouwd. Het onderzoek wordt uitgevoerd op circa 30 locaties (dijken, pioniersbiotopen en droge graslanden op beide oevers), met telkens 2 bodemvallen per locatie, gespreid over 5 maanden (april–juni en september–oktober 2027). Het eindresultaat is een rapport met een soorteninventaris per locatie en concrete aanbevelingen voor beheermaatregelen om het habitatnetwerk functioneel te houden voor de doelsoorten. "
       }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
      ],
      "titles": [
       {
        "language": "NL",
-       "text": "Travaux de métallerie (portails)"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de métallerie (portails)"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Terrassement et dépollution"
-      },
-      {
-       "language": "FR",
-       "text": "Terrassement et dépollution"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Terrassement et dépollution"
-      },
-      {
-       "language": "FR",
-       "text": "Terrassement et dépollution"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Lot 1 Démolition et sécurisation"
-      },
-      {
-       "language": "NL",
-       "text": "Lot 1 Démolition et sécurisation"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Lot 1 Démolition et sécurisation"
-      },
-      {
-       "language": "NL",
-       "text": "Lot 1 Démolition et sécurisation"
+       "text": "Onderzoek loopkevers in de Ecologische Infrastructuur van de Antwerpse haven"
       }
      ]
     }
    ],
    "natures": [
-    "WORKS"
+    "SERVICES"
    ],
    "noticeIds": [
-    "890b59b6-7c89-479a-bccc-4b015f769e40"
+    "22188783-f253-4e7e-9f2c-b0d1fb993680"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE100"
+    "BE211"
    ],
    "organisation": {
-    "organisationId": 4909,
+    "organisationId": 4277,
     "organisationNames": [
      {
       "language": "NL",
-      "text": "Leefmilieu Brussel"
-     },
-     {
-      "language": "EN",
-      "text": "Institut Bruxellois pour la Gestion de l'Environnement"
+      "text": "Haven van Antwerpen-Brugge NV van publiek recht "
      },
      {
       "language": "FR",
-      "text": "Bruxelles Environnement"
+      "text": "Haven van Antwerpen-Brugge NV van publiek recht "
      },
      {
       "language": "DE",
-      "text": "Bruxelles Environnement"
+      "text": "Haven van Antwerpen-Brugge NV van publiek recht "
+     },
+     {
+      "language": "EN",
+      "text": "Haven van Antwerpen-Brugge NV van publiek recht "
      }
     ],
-    "tree": "200003.200017.61.4909"
+    "tree": "200004.200030.176.4277"
    },
-   "procedureId": "c0a5e1f1-0e93-4b07-9530-57813bad4478",
+   "procedureId": "ea26956c-3b20-4dda-aa4e-a93f6fa33fa0",
    "publicationDate": "2026-11-26",
    "publicationLanguages": [
-    "NL",
-    "FR"
+    "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP0UM-19722/6285/2025G0243_003"
+    "PPP0B3-19802/6962/K3843_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "85d3ccd6-8144-42f0-9684-6ac4109fb513",
+   "publicationWorkspaceId": "79cdb839-fac7-45c3-83be-d0dc4d70774d",
    "publishedAt": [
-    "2026-11-26T00:00:46.543718"
+    "2026-11-26T08:18:46.035019"
    ],
-   "referenceNumber": "PPP0UM-19722/6285/2025G0243_003",
+   "referenceNumber": "PPP0B3-19802/6962/K3843_002",
    "sentAt": [
-    "2026-11-26T00:00:46.543718"
+    "2026-11-26T08:18:46.035019"
    ],
    "tedPublished": false
   }
