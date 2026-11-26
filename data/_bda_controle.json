@@ -1,11 +1,12 @@
 {
  "meta": {
-  "totalCount": 297116
+  "totalCount": 297181
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
   "ACTIVE|10|['SUPPLIES']",
   "ACTIVE|15|['SERVICES']",
+  "ACTIVE|15|['SUPPLIES']",
   "ACTIVE|16|['SERVICES', 'SUPPLIES']",
   "ACTIVE|16|['SERVICES']",
   "ACTIVE|16|['SUPPLIES', 'SERVICES']",
@@ -23,6 +24,7 @@
   "ACTIVE|20|['WORKS']",
   "ACTIVE|23|['SERVICES']",
   "ACTIVE|23|['WORKS']",
+  "ACTIVE|25|['SERVICES']",
   "ACTIVE|29|['SERVICES']",
   "ACTIVE|29|['SUPPLIES', 'SERVICES']",
   "ACTIVE|29|['SUPPLIES', 'WORKS']",
@@ -34,7 +36,9 @@
   "ACTIVE|32|['SERVICES']",
   "ACTIVE|33|['SERVICES']",
   "ACTIVE|33|['SUPPLIES']",
+  "ACTIVE|36|['SERVICES']",
   "ACTIVE|36|['SUPPLIES']",
+  "ACTIVE|38|['WORKS']",
   "ACTIVE|E1|['SUPPLIES']",
   "ACTIVE|E3|['SERVICES']",
   "ACTIVE|E3|['SUPPLIES', 'SERVICES']",
@@ -263,142 +267,6 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "50000000-5",
-     "descriptions": [
-      {
-       "language": "DE",
-       "text": "Reparatur- und Wartungsdienste"
-      },
-      {
-       "language": "EN",
-       "text": "Repair and maintenance services"
-      },
-      {
-       "language": "NL",
-       "text": "Reparatie- en onderhoudsdiensten"
-      },
-      {
-       "language": "FR",
-       "text": "Services de réparation et d'entretien"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "50000000-5",
-    "descriptions": [
-     {
-      "language": "DE",
-      "text": "Reparatur- und Wartungsdienste"
-     },
-     {
-      "language": "EN",
-      "text": "Repair and maintenance services"
-     },
-     {
-      "language": "NL",
-      "text": "Reparatie- en onderhoudsdiensten"
-     },
-     {
-      "language": "FR",
-      "text": "Services de réparation et d'entretien"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-26",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Onderhoud hoogspanningscabines 2027 - 2030"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP0WW-835/6054/tdscool2026_004",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP0WW-835/6054/tdscool2026_004",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Onderhoud hoogspanningscabines 2027 - 2030"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-26",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Onderhoud hoogspanningscabines 2027 - 2030"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Onderhoud hoogspanningscabines 2027 - 2030"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SERVICES"
-   ],
-   "noticeIds": [
-    "1bb3ca7e-a80c-40d4-b988-21ca19699218"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE251"
-   ],
-   "organisation": {
-    "organisationId": 676,
-    "organisationNames": [
-     {
-      "language": "FR",
-      "text": "OCMW Brugge"
-     },
-     {
-      "language": "DE",
-      "text": "OCMW Brugge"
-     },
-     {
-      "language": "NL",
-      "text": "OCMW Brugge"
-     },
-     {
-      "language": "EN",
-      "text": "OCMW Brugge"
-     }
-    ],
-    "tree": "200004.200022.676"
-   },
-   "procedureId": "04ab30fd-4f3f-4f32-ba38-34e0422c4ef2",
-   "publicationDate": "2026-11-26",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP0WW-835/6054/tdscool2026_004_002"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "0baff3b9-5ff8-4a01-b6a1-bb999cf6d492",
-   "publishedAt": [
-    "2026-11-26T00:00:46.886206"
-   ],
-   "referenceNumber": "PPP0WW-835/6054/tdscool2026_004_002",
-   "sentAt": [
-    "2026-11-26T00:00:46.886206"
-   ],
-   "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
      "code": "45233293-9",
      "descriptions": [
       {
@@ -621,6 +489,142 @@
    ],
    "tedPublished": false,
    "vaultSubmissionDeadline": "2027-01-28T11:00:00"
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "45261900-3",
+     "descriptions": [
+      {
+       "language": "DE",
+       "text": "Dachreparatur und Dachwartung"
+      },
+      {
+       "language": "FR",
+       "text": "Réparation et entretien de toiture"
+      },
+      {
+       "language": "EN",
+       "text": "Roof repair and maintenance work"
+      },
+      {
+       "language": "NL",
+       "text": "Reparatie en onderhoud van daken"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45261900-3",
+    "descriptions": [
+     {
+      "language": "DE",
+      "text": "Dachreparatur und Dachwartung"
+     },
+     {
+      "language": "FR",
+      "text": "Réparation et entretien de toiture"
+     },
+     {
+      "language": "EN",
+      "text": "Roof repair and maintenance work"
+     },
+     {
+      "language": "NL",
+      "text": "Reparatie en onderhoud van daken"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-26",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Offre de service pour les travaux de réparation des toitures, pour l'ensemble des bâtiments du CPAS, de la RCA et de la Ville de Hannut.  Votre offre sera libellée de la manière suivante : * Coût horaire pour la réparation des toitures, pendant les heures normales de travaux (horaire à spécifier sur votre offre). * Coût horaire pour la réparation des toitures, en dehors des heures normales de travail (week-end et jours fériés compris). * Votre délai d'intervention à partir du moment de la commande. * Cout éventuel du déplacement.  Les demandes d'intervention sont liées au besoin du CPAS et/ou de la RCA et/ou de la Ville de HANNUT et ne sont pas quantifiables. "
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP0B5-2651/6174/2026/534",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP0B5-2651/6174/2026/534",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Réparation des toitures 2027"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-26",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Offre de service pour les travaux de réparation des toitures, pour l'ensemble des bâtiments du CPAS, de la RCA et de la Ville de Hannut.  Votre offre sera libellée de la manière suivante : * Coût horaire pour la réparation des toitures, pendant les heures normales de travaux (horaire à spécifier sur votre offre). * Coût horaire pour la réparation des toitures, en dehors des heures normales de travail (week-end et jours fériés compris). * Votre délai d'intervention à partir du moment de la commande. * Cout éventuel du déplacement.  Les demandes d'intervention sont liées au besoin du CPAS et/ou de la RCA et/ou de la Ville de HANNUT et ne sont pas quantifiables. "
+      }
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Réparation des toitures 2027"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "29176111-e2af-41ba-9314-8b1319603afa"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE334"
+   ],
+   "organisation": {
+    "organisationId": 407,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "Hannut"
+     },
+     {
+      "language": "NL",
+      "text": "Hannut"
+     },
+     {
+      "language": "EN",
+      "text": "Hannut"
+     },
+     {
+      "language": "FR",
+      "text": "Hannut"
+     }
+    ],
+    "tree": "200004.200021.407"
+   },
+   "procedureId": "85c3127a-74a5-4d77-a773-abc774fbd1c1",
+   "publicationDate": "2026-11-26",
+   "publicationLanguages": [
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP0B5-2651/6174/2026/534_002"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "7988d264-ebb6-40cd-a4e6-f2dd7c86edcd",
+   "publishedAt": [
+    "2026-11-26T00:00:46.330983"
+   ],
+   "referenceNumber": "PPP0B5-2651/6174/2026/534_002",
+   "sentAt": [
+    "2026-11-26T00:00:46.330983"
+   ],
+   "tedPublished": false
   }
  ],
  "exemple_attribution": [
