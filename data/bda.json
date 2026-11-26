@@ -1,17 +1,11 @@
 {
- "updated": "2026-11-26T17:01:42Z",
+ "updated": "2026-11-26T19:02:12Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
- "received": 850,
- "kept": 360,
+ "received": 851,
+ "kept": 361,
  "count": 3843,
- "new_ids": [
-  "bda-f05da4b1-9ba9-4019-bffa-e1d7f94b7b65",
-  "bda-caf823f4-870a-41f0-b1ad-9a7e3ed812e6",
-  "bda-78dbf6fa-f514-4571-aafd-824a6cebd2dd",
-  "bda-52f19a09-3006-43d9-b503-460b69de38af",
-  "bda-b874dc37-abca-4c74-99bd-8ef58efcbf6b"
- ],
+ "new_ids": [],
  "records": [
   {
    "id": "bda-85d3ccd6-8144-42f0-9684-6ac4109fb513",
@@ -510,7 +504,7 @@
    "verif_date": "2026-11-26",
    "preuve": "Bulletin des Adjudications, réf. CP2021 HT/08 (avis de marché, sous-type eForms 16), publié le 2026-11-26.",
    "date_publication": "2026-11-26",
-   "cpv": "45000000,45400000,45310000,45210000,45260000,45330000,45112700",
+   "cpv": "45000000,45400000,45210000,45310000,45260000,45330000,45112700",
    "ted_ref": "",
    "notes": "Le présent marché de travaux a pour objet l'ensemble des prestations, la fourniture des matériaux, la main-d’œuvre, les transports ainsi que la mise en œuvre de tous les moyens nécessaires à l’exécution des travaux suivants : Construction d'une salle de sport équipée avec aménagement de ses abords, ",
    "procedure": "d43994b5-fe79-4adc-967a-e102b7f124ba",
@@ -2238,6 +2232,27 @@
    "procedure": "a357da7c-63c1-4c5a-b790-942a5a335cdc",
    "dossier": "GAC_2026_03910",
    "first_seen": "2026-11-26T17:01:42Z"
+  },
+  {
+   "id": "bda-49ce3b68-675c-4383-b71e-16e6c2829c38",
+   "source_type": "BDA",
+   "nom": "Protestantse kerk Antwerpen Oost, Restauratie exterieur",
+   "lieu": "Anvers",
+   "province": "Anvers",
+   "mo": "MAAT_WERK architecten bvba",
+   "etape": 4,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/49ce3b68-675c-4383-b71e-16e6c2829c38",
+   "verif": "vérifié",
+   "verif_date": "2026-11-26",
+   "preuve": "Bulletin des Adjudications, réf. 104.6 (avis de marché, sous-type eForms 16), publié le 2026-11-26.",
+   "date_publication": "2026-11-26",
+   "cpv": "45454100,45000000",
+   "ted_ref": "",
+   "notes": "Restauratie exterieur. Deel 1: vernieuwen van het dak van het schip, de toren en de platte daken Deel 2: restauratie van de gevels en de overige daken",
+   "procedure": "a594a996-e170-4b3f-910c-be5c462f0b48",
+   "dossier": "104.6",
+   "first_seen": "2026-11-20T09:01:33Z"
   },
   {
    "id": "bda-03e1c673-db7f-43e3-9a9b-c39858839cd5",
@@ -8432,27 +8447,6 @@
    "notes": "Sint-Norbertuskerk, Antwerpen, Restauratie van het kerkgebouw, Fase 2: Exterieur Zuidzijde Deel 2.1: de restauratie van het glas-in-loodraam in dwarsbeuk zuid en van het schrijnwerk en de natuursteen van de zuidgevel van de winterkapel. Deel 2.2: vernieuwen van de dakbedekking van zijbeuk zuid en va",
    "procedure": "3d89ae52-fc08-48f8-b8ec-f781ead80e56",
    "dossier": "MWA_091.9",
-   "first_seen": "2026-11-20T09:01:33Z"
-  },
-  {
-   "id": "bda-49ce3b68-675c-4383-b71e-16e6c2829c38",
-   "source_type": "BDA",
-   "nom": "Protestantse kerk Antwerpen Oost, Restauratie exterieur",
-   "lieu": "Anvers",
-   "province": "Anvers",
-   "mo": "MAAT_WERK architecten bvba",
-   "etape": 4,
-   "sur_ted": false,
-   "source": "https://www.publicprocurement.be/publication-workspaces/49ce3b68-675c-4383-b71e-16e6c2829c38",
-   "verif": "vérifié",
-   "verif_date": "2026-11-23",
-   "preuve": "Bulletin des Adjudications, réf. 104.6 (avis de marché, sous-type eForms 16), publié le 2026-11-20.",
-   "date_publication": "2026-11-20",
-   "cpv": "45454100,45000000",
-   "ted_ref": "",
-   "notes": "Restauratie exterieur. Deel 1: vernieuwen van het dak van het schip, de toren en de platte daken Deel 2: restauratie van de gevels en de overige daken",
-   "procedure": "a594a996-e170-4b3f-910c-be5c462f0b48",
-   "dossier": "104.6",
    "first_seen": "2026-11-20T09:01:33Z"
   },
   {
