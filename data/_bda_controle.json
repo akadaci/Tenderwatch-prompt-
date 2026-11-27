@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 297431
+  "totalCount": 297445
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -51,66 +51,45 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "71800000-6",
+     "code": "22113000-5",
      "descriptions": [
       {
        "language": "FR",
-       "text": "Services de conseil en matière d'approvisionnement en eau et services de conseil en matière de déchets"
+       "text": "Livres de bibliothèque"
       },
       {
        "language": "DE",
-       "text": "Beratung in den Bereichen Wasserversorgung und Abfälle"
-      },
-      {
-       "language": "EN",
-       "text": "Consulting services for water-supply and waste consultancy"
+       "text": "Bücher für Bibliotheken"
       },
       {
        "language": "NL",
-       "text": "Adviesdiensten voor watervoorziening en afval"
-      }
-     ]
-    },
-    {
-     "code": "79410000-1",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Advies inzake bedrijfsvoering en management"
-      },
-      {
-       "language": "FR",
-       "text": "Services de conseil en affaires et en gestion"
+       "text": "Bibliotheekboeken"
       },
       {
        "language": "EN",
-       "text": "Business and management consultancy services"
-      },
-      {
-       "language": "DE",
-       "text": "Unternehmens- und Managementberatung"
+       "text": "Library books"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "79410000-1",
+    "code": "22113000-5",
     "descriptions": [
      {
-      "language": "NL",
-      "text": "Advies inzake bedrijfsvoering en management"
-     },
-     {
       "language": "FR",
-      "text": "Services de conseil en affaires et en gestion"
-     },
-     {
-      "language": "EN",
-      "text": "Business and management consultancy services"
+      "text": "Livres de bibliothèque"
      },
      {
       "language": "DE",
-      "text": "Unternehmens- und Managementberatung"
+      "text": "Bücher für Bibliotheken"
+     },
+     {
+      "language": "NL",
+      "text": "Bibliotheekboeken"
+     },
+     {
+      "language": "EN",
+      "text": "Library books"
      }
     ]
    },
@@ -119,57 +98,361 @@
     "accreditations": {},
     "descriptions": [
      {
-      "language": "EN",
-      "text": "Consultancy Services for the Development of a Toolkit to Support the Establishment of Small-Scale Public-Private Partnerships (SSPPPs) in Mozambique’s Urban Solid Waste Sector"
-     },
-     {
-      "language": "FR",
-      "text": "Services de conseil pour l'élaboration d'une boîte à outils destinée à faciliter la mise en place de partenariats public-privé à petite échelle (SSPPP) dans le secteur des déchets solides urbains au Mozambique"
+      "language": "NL",
+      "text": "Aankoop bibliotheekcollecties  2027-2030"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "MOZ22006-10137",
-    "procurementProcedureType": "NEG_W_CALL_24",
-    "referenceNumber": "MOZ22006-10137",
+    "number": "PPP097-572/6040/2026243",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP097-572/6040/2026243",
     "titles": [
      {
-      "language": "EN",
-      "text": "Consultancy Services for the Development of a Toolkit to Support the Establishment of Small-Scale Public-Private Partnerships (SSPPPs) in Mozambique’s Urban Solid Waste Sector"
-     },
-     {
-      "language": "FR",
-      "text": "Services de conseil pour l'élaboration d'une boîte à outils destinée à faciliter la mise en place de partenariats public-privé à petite échelle (SSPPP) dans le secteur des déchets solides urbains au Mozambique"
+      "language": "NL",
+      "text": "Aankoop bibliotheekcollecties  2027-2030"
      }
     ]
    },
-   "insertionDate": "2026-10-22",
+   "insertionDate": "2026-11-27",
    "lots": [
     {
      "descriptions": [
       {
-       "language": "EN",
-       "text": "Consultancy Services for the Development of a Toolkit to Support the Establishment of Small-Scale Public-Private Partnerships (SSPPPs) in Mozambique’s Urban Solid Waste Sector"
-      },
-      {
-       "language": "FR",
-       "text": "Services de conseil pour l'élaboration d'une boîte à outils destinée à faciliter la mise en place de partenariats public-privé à petite échelle (SSPPP) dans le secteur des déchets solides urbains au Mozambique"
+       "language": "NL",
+       "text": "Boeken( jeugd en volwassenen, fictie en informatief)"
       }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
      ],
      "titles": [
       {
+       "language": "NL",
+       "text": "Boeken( jeugd en volwassenen, fictie en informatief)"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Strips(volwassen en jeugd)"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Strips(volwassen en jeugd)"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Periodieken(kranten- en tijdschriftenabonnementen)"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Periodieken(kranten- en tijdschriftenabonnementen)"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SUPPLIES"
+   ],
+   "noticeIds": [
+    "d38f71af-13e7-41e6-86de-28604e040001"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE241"
+   ],
+   "organisation": {
+    "organisationId": 593,
+    "organisationNames": [
+     {
+      "language": "NL",
+      "text": "Affligem"
+     },
+     {
+      "language": "FR",
+      "text": "Affligem"
+     },
+     {
+      "language": "DE",
+      "text": "Affligem"
+     },
+     {
+      "language": "EN",
+      "text": "Affligem"
+     }
+    ],
+    "tree": "200004.200021.593"
+   },
+   "procedureId": "bb495068-05fd-41a4-832a-a57d1d72af28",
+   "publicationDate": "2026-11-27",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP097-572/6040/2026243_002"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "8bfd68d3-4bab-48f5-866c-b97d44ebfd97",
+   "publishedAt": [
+    "2026-11-27T11:06:46.02095"
+   ],
+   "referenceNumber": "PPP097-572/6040/2026243_002",
+   "sentAt": [
+    "2026-11-27T11:06:46.02095"
+   ],
+   "tedPublished": false
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "22113000-5",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Livres de bibliothèque"
+      },
+      {
+       "language": "DE",
+       "text": "Bücher für Bibliotheken"
+      },
+      {
+       "language": "NL",
+       "text": "Bibliotheekboeken"
+      },
+      {
        "language": "EN",
-       "text": "MOZ22006-10137 - 1"
+       "text": "Library books"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "22113000-5",
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Livres de bibliothèque"
+     },
+     {
+      "language": "DE",
+      "text": "Bücher für Bibliotheken"
+     },
+     {
+      "language": "NL",
+      "text": "Bibliotheekboeken"
+     },
+     {
+      "language": "EN",
+      "text": "Library books"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-27",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Aankoop bibliotheekcollecties  2027-2030"
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP097-572/6040/2026243",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP097-572/6040/2026243",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Aankoop bibliotheekcollecties  2027-2030"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-27",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Boeken( jeugd en volwassenen, fictie en informatief)"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Boeken( jeugd en volwassenen, fictie en informatief)"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Strips(volwassen en jeugd)"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Strips(volwassen en jeugd)"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Periodieken(kranten- en tijdschriftenabonnementen)"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Periodieken(kranten- en tijdschriftenabonnementen)"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SUPPLIES"
+   ],
+   "noticeIds": [
+    "4a3e3158-25cc-4bc8-ae67-abf5edf3f190"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE241"
+   ],
+   "organisation": {
+    "organisationId": 593,
+    "organisationNames": [
+     {
+      "language": "NL",
+      "text": "Affligem"
+     },
+     {
+      "language": "FR",
+      "text": "Affligem"
+     },
+     {
+      "language": "DE",
+      "text": "Affligem"
+     },
+     {
+      "language": "EN",
+      "text": "Affligem"
+     }
+    ],
+    "tree": "200004.200021.593"
+   },
+   "procedureId": "bb495068-05fd-41a4-832a-a57d1d72af28",
+   "publicationDate": "2026-11-27",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP097-572/6040/2026243_003"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "cfa3a8f0-396d-47f4-ab10-95362e1de039",
+   "publishedAt": [
+    "2026-11-27T11:07:46.028329"
+   ],
+   "referenceNumber": "PPP097-572/6040/2026243_003",
+   "sentAt": [
+    "2026-11-27T11:07:46.028329"
+   ],
+   "tedPublished": false
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "85121270-6",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Psychiatrist or psychologist services"
       },
       {
        "language": "FR",
-       "text": "MOZ22006-10137 - 1"
+       "text": "Services prestés par les psychiatres ou les psychologues"
+      },
+      {
+       "language": "DE",
+       "text": "Dienstleistungen von Psychiatern oder Psychologen"
+      },
+      {
+       "language": "NL",
+       "text": "Diensten van psychiater of psycholoog"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "85121270-6",
+    "descriptions": [
+     {
+      "language": "EN",
+      "text": "Psychiatrist or psychologist services"
+     },
+     {
+      "language": "FR",
+      "text": "Services prestés par les psychiatres ou les psychologues"
+     },
+     {
+      "language": "DE",
+      "text": "Dienstleistungen von Psychiatern oder Psychologen"
+     },
+     {
+      "language": "NL",
+      "text": "Diensten van psychiater of psycholoog"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-27",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Désignation d'un psychologue indépendant chargé d'assurer un accompagnement psychologique des bénéficiaires suivis par le Service Inter'Agir du CPAS de Herstal"
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP0Q4-2253/6186/2026-149",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP0Q4-2253/6186/2026-149",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Désignation d'un psychologue indépendant chargé d'assurer un accompagnement psychologique des bénéficiaires suivis par le Service Inter'Agir du CPAS de Herstal"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-27",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Désignation d'un psychologue indépendant chargé d'assurer un accompagnement psychologique des bénéficiaires suivis par le Service Inter'Agir du CPAS de Herstal"
+      }
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Désignation d'un psychologue indépendant chargé d'assurer un accompagnement psychologique des bénéficiaires suivis par le Service Inter'Agir du CPAS de Herstal"
       }
      ]
     }
@@ -178,404 +461,98 @@
     "SERVICES"
    ],
    "noticeIds": [
-    "1d214850-85d5-4ac0-a7f5-d90edb1331fa",
-    "95e8dc5d-225c-440c-bf93-e3f3d4915118",
-    "2d93e288-645d-49d0-8dc0-20a2fab668f4",
-    "5d2d9854-938a-40f5-b773-1daf9df77036",
-    "d13882e7-6533-4aa2-b404-61ea66718d6b",
-    "d3da7d6a-2b96-4b83-8ef4-685525ac20fa"
-   ],
-   "noticeSubType": "16",
-   "nutsCodes": [],
-   "organisation": {
-    "organisationId": 139,
-    "organisationNames": [
-     {
-      "language": "NL",
-      "text": "Enabel"
-     },
-     {
-      "language": "FR",
-      "text": "Enabel"
-     },
-     {
-      "language": "DE",
-      "text": "Enabel"
-     },
-     {
-      "language": "EN",
-      "text": "Enabel"
-     }
-    ],
-    "tree": "200002.200014.139"
-   },
-   "procedureId": "fe94f776-61e1-44b6-912f-e2d43ed14512",
-   "publicationDate": "2026-11-27",
-   "publicationLanguages": [
-    "EN",
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "MOZ22006-10137_pub01"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "e30a3879-3612-4a64-bf63-ab35c67c75b6",
-   "publishedAt": [
-    "2026-11-24T09:43:46.015479",
-    "2026-11-27T07:08:45.021003",
-    "2026-11-27T07:03:46.029497",
-    "2026-11-18T07:59:45.01209",
-    "2026-11-16T08:56:45.130991",
-    "2026-10-22T10:12:46.021983"
-   ],
-   "referenceNumber": "MOZ22006-10137_pub01",
-   "sentAt": [
-    "2026-11-24T09:43:46.015479",
-    "2026-11-27T07:08:45.021003",
-    "2026-11-27T07:03:46.029497",
-    "2026-11-18T07:59:45.01209",
-    "2026-11-16T08:56:45.130991",
-    "2026-10-22T10:12:46.021983"
-   ],
-   "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "45210000-2",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Travaux de construction de bâtiments"
-      },
-      {
-       "language": "DE",
-       "text": "Bauleistungen im Hochbau"
-      },
-      {
-       "language": "NL",
-       "text": "Bouwen van gebouwen"
-      },
-      {
-       "language": "EN",
-       "text": "Building construction work"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "45210000-2",
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Travaux de construction de bâtiments"
-     },
-     {
-      "language": "DE",
-      "text": "Bauleistungen im Hochbau"
-     },
-     {
-      "language": "NL",
-      "text": "Bouwen van gebouwen"
-     },
-     {
-      "language": "EN",
-      "text": "Building construction work"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-27",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Le présent marché est un marché de travaux qui comprend l’exécution des travaux suivants (description générale des travaux à réaliser) : Construction d'un hangar et locaux pour le service travaux de la commune de Walhain Les travaux décrits ci-dessus ne sont pas exhaustifs. Le détail des travaux est repris dans les clauses techniques et le métré récapitulatif annexé au cahier spécial des charges. Il est expressément stipulé que l’entrepreneur doit exécuter les travaux suivant les règles de l’art. Les lieux d’exécution sont définis comme suit (voir également plans et métrés) : Rue de l’Aulnaie 4 – 1457 Walhain Code CPV : 45 NACE : 41201 Numéro de marché : 2026-001 Tous les matériaux à mettre en oeuvre dans le présent marché sont neufs et sont à fournir par l’entrepreneur, à moins que le cahier spécial des charges ne le précise autrement. --- Dans le cadre du présent marché, l’adjudicateur entend lutter contre le dumping social et la fraude sociale. L'ordre de priorité déterminant pour l'interprétation en cas de contradiction entre les documents du marché est le suivant : 1° les plans – 2° le CSC – 3° les métrés."
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP0E2-482/6046/2026-001",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "PPP0E2-482/6046/2026-001",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "Construction d'un hangar et locaux pour le service travaux de la commune de Walhain"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-27",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Le présent marché est un marché de travaux qui comprend l’exécution des travaux suivants (description générale des travaux à réaliser) : Construction d'un hangar et locaux pour le service travaux de la commune de Walhain Les travaux décrits ci-dessus ne sont pas exhaustifs. Le détail des travaux est repris dans les clauses techniques et le métré récapitulatif annexé au cahier spécial des charges. Il est expressément stipulé que l’entrepreneur doit exécuter les travaux suivant les règles de l’art. Les lieux d’exécution sont définis comme suit (voir également plans et métrés) : Rue de l’Aulnaie 4 – 1457 Walhain Code CPV : 45 NACE : 41201 Numéro de marché : 2026-001 Tous les matériaux à mettre en oeuvre dans le présent marché sont neufs et sont à fournir par l’entrepreneur, à moins que le cahier spécial des charges ne le précise autrement. --- Dans le cadre du présent marché, l’adjudicateur entend lutter contre le dumping social et la fraude sociale. L'ordre de priorité déterminant pour l'interprétation en cas de contradiction entre les documents du marché est le suivant : 1° les plans – 2° le CSC – 3° les métrés."
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Construction d'un hangar et locaux pour le service travaux de la commune de Walhain"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "WORKS"
-   ],
-   "noticeIds": [
-    "4d752258-b35c-437a-8f75-9036c5973f29"
+    "58624206-4018-495d-8ce1-61d1bb61e60f"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE310"
+    "BE332"
    ],
    "organisation": {
-    "organisationId": 317,
+    "organisationId": 488,
     "organisationNames": [
      {
-      "language": "DE",
-      "text": "Walhain"
-     },
-     {
       "language": "NL",
-      "text": "Walhain"
-     },
-     {
-      "language": "EN",
-      "text": "Walhain"
+      "text": "CPAS de Herstal"
      },
      {
       "language": "FR",
-      "text": "Walhain"
+      "text": "CPAS de Herstal"
+     },
+     {
+      "language": "DE",
+      "text": "CPAS de Herstal"
+     },
+     {
+      "language": "EN",
+      "text": "CPAS de Herstal"
      }
     ],
-    "tree": "200004.200021.317"
+    "tree": "200004.200022.488"
    },
-   "procedureId": "8c7bfc02-9f34-4cb3-b24a-67b8a86d6561",
+   "procedureId": "19173e97-cd45-45b9-967c-f62f7c132f77",
    "publicationDate": "2026-11-27",
    "publicationLanguages": [
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP0E2-482/6046/2026-001_004"
+    "PPP0Q4-2253/6186/2026-149_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "85b13288-4490-44c5-9478-4184de0bf94c",
+   "publicationWorkspaceId": "dafcf7e2-e13e-4f42-b72f-58e50a70bcf7",
    "publishedAt": [
-    "2026-11-27T07:50:46.013639"
+    "2026-11-27T11:25:46.022787"
    ],
-   "referenceNumber": "PPP0E2-482/6046/2026-001_004",
+   "referenceNumber": "PPP0Q4-2253/6186/2026-149_002",
    "sentAt": [
-    "2026-11-27T07:50:46.013639"
+    "2026-11-27T11:25:46.022787"
    ],
    "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "45000000-7",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Bouwwerkzaamheden"
-      },
-      {
-       "language": "FR",
-       "text": "Travaux de construction"
-      },
-      {
-       "language": "EN",
-       "text": "Construction work"
-      },
-      {
-       "language": "DE",
-       "text": "Bauarbeiten"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "45000000-7",
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Bouwwerkzaamheden"
-     },
-     {
-      "language": "FR",
-      "text": "Travaux de construction"
-     },
-     {
-      "language": "EN",
-      "text": "Construction work"
-     },
-     {
-      "language": "DE",
-      "text": "Bauarbeiten"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-27",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "zie bestek"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "1649/2024/001",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "1649/2024/001",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Aanleggen van een fietspad langs de Torenweg/Vagevuurstraat"
-     }
-    ]
-   },
-   "insertionDate": "2026-10-23",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Beernem/Wingene - aanleggen van een fietspad langs de Torenweg/Vagevuurstraat"
-      }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "1649/2024/001 - 1"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "WORKS"
-   ],
-   "noticeIds": [
-    "be22aed2-7954-4776-b83b-ec76bead825c",
-    "b4aa6d45-582c-4597-875f-fb0939dbaa92",
-    "b0544da5-4e66-4f3a-9035-d23ee95c2c71",
-    "cf13a873-e07a-4935-9c29-2da3db2e7fb1"
-   ],
-   "noticeSubType": "16",
-   "nutsCodes": [
-    "BE251"
-   ],
-   "organisation": {
-    "organisationId": 512,
-    "organisationNames": [
-     {
-      "language": "FR",
-      "text": "Provincie West-Vlaanderen"
-     },
-     {
-      "language": "DE",
-      "text": "Provincie West-Vlaanderen"
-     },
-     {
-      "language": "NL",
-      "text": "Provincie West-Vlaanderen"
-     },
-     {
-      "language": "EN",
-      "text": "Provincie West-Vlaanderen"
-     }
-    ],
-    "tree": "200004.200020.512"
-   },
-   "procedureId": "90101fb8-f084-40ef-9b20-738c5109fb57",
-   "publicationDate": "2026-11-27",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "1649/2024/001_pub01"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "084c3e1a-5820-4425-b911-b5a1b3ba7e26",
-   "publishedAt": [
-    "2026-10-27T13:27:46.013206",
-    "2026-11-27T07:27:46.012569",
-    "2026-10-26T13:06:46.030277",
-    "2026-10-23T08:34:45.015175"
-   ],
-   "referenceNumber": "1649/2024/001_pub01",
-   "sentAt": [
-    "2026-10-27T13:27:46.013206",
-    "2026-11-27T07:27:46.012569",
-    "2026-10-26T13:06:46.030277",
-    "2026-10-23T08:34:45.015175"
-   ],
-   "tedPublished": false,
-   "vaultSubmissionDeadline": "2026-12-10T11:00:00"
   }
  ],
  "exemple_attribution": [
   {
    "cpvAdditionalCodes": [
     {
-     "code": "45210000-2",
+     "code": "22113000-5",
      "descriptions": [
       {
        "language": "FR",
-       "text": "Travaux de construction de bâtiments"
+       "text": "Livres de bibliothèque"
       },
       {
        "language": "DE",
-       "text": "Bauleistungen im Hochbau"
+       "text": "Bücher für Bibliotheken"
       },
       {
        "language": "NL",
-       "text": "Bouwen van gebouwen"
+       "text": "Bibliotheekboeken"
       },
       {
        "language": "EN",
-       "text": "Building construction work"
+       "text": "Library books"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "45210000-2",
+    "code": "22113000-5",
     "descriptions": [
      {
       "language": "FR",
-      "text": "Travaux de construction de bâtiments"
+      "text": "Livres de bibliothèque"
      },
      {
       "language": "DE",
-      "text": "Bauleistungen im Hochbau"
+      "text": "Bücher für Bibliotheken"
      },
      {
       "language": "NL",
-      "text": "Bouwen van gebouwen"
+      "text": "Bibliotheekboeken"
      },
      {
       "language": "EN",
-      "text": "Building construction work"
+      "text": "Library books"
      }
     ]
    },
@@ -584,19 +561,19 @@
     "accreditations": {},
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Le présent marché est un marché de travaux qui comprend l’exécution des travaux suivants (description générale des travaux à réaliser) : Construction d'un hangar et locaux pour le service travaux de la commune de Walhain Les travaux décrits ci-dessus ne sont pas exhaustifs. Le détail des travaux est repris dans les clauses techniques et le métré récapitulatif annexé au cahier spécial des charges. Il est expressément stipulé que l’entrepreneur doit exécuter les travaux suivant les règles de l’art. Les lieux d’exécution sont définis comme suit (voir également plans et métrés) : Rue de l’Aulnaie 4 – 1457 Walhain Code CPV : 45 NACE : 41201 Numéro de marché : 2026-001 Tous les matériaux à mettre en oeuvre dans le présent marché sont neufs et sont à fournir par l’entrepreneur, à moins que le cahier spécial des charges ne le précise autrement. --- Dans le cadre du présent marché, l’adjudicateur entend lutter contre le dumping social et la fraude sociale. L'ordre de priorité déterminant pour l'interprétation en cas de contradiction entre les documents du marché est le suivant : 1° les plans – 2° le CSC – 3° les métrés."
+      "language": "NL",
+      "text": "Aankoop bibliotheekcollecties  2027-2030"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP0E2-482/6046/2026-001",
-    "procurementProcedureType": "OPEN",
-    "referenceNumber": "PPP0E2-482/6046/2026-001",
+    "number": "PPP097-572/6040/2026243",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP097-572/6040/2026243",
     "titles": [
      {
-      "language": "FR",
-      "text": "Construction d'un hangar et locaux pour le service travaux de la commune de Walhain"
+      "language": "NL",
+      "text": "Aankoop bibliotheekcollecties  2027-2030"
      }
     ]
    },
@@ -605,73 +582,95 @@
     {
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Le présent marché est un marché de travaux qui comprend l’exécution des travaux suivants (description générale des travaux à réaliser) : Construction d'un hangar et locaux pour le service travaux de la commune de Walhain Les travaux décrits ci-dessus ne sont pas exhaustifs. Le détail des travaux est repris dans les clauses techniques et le métré récapitulatif annexé au cahier spécial des charges. Il est expressément stipulé que l’entrepreneur doit exécuter les travaux suivant les règles de l’art. Les lieux d’exécution sont définis comme suit (voir également plans et métrés) : Rue de l’Aulnaie 4 – 1457 Walhain Code CPV : 45 NACE : 41201 Numéro de marché : 2026-001 Tous les matériaux à mettre en oeuvre dans le présent marché sont neufs et sont à fournir par l’entrepreneur, à moins que le cahier spécial des charges ne le précise autrement. --- Dans le cadre du présent marché, l’adjudicateur entend lutter contre le dumping social et la fraude sociale. L'ordre de priorité déterminant pour l'interprétation en cas de contradiction entre les documents du marché est le suivant : 1° les plans – 2° le CSC – 3° les métrés."
+       "language": "NL",
+       "text": "Boeken( jeugd en volwassenen, fictie en informatief)"
       }
-     ],
-     "reservedExecution": [
-      "NO"
-     ],
-     "reservedParticipation": [
-      "NONE"
      ],
      "titles": [
       {
-       "language": "FR",
-       "text": "Construction d'un hangar et locaux pour le service travaux de la commune de Walhain"
+       "language": "NL",
+       "text": "Boeken( jeugd en volwassenen, fictie en informatief)"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Strips(volwassen en jeugd)"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Strips(volwassen en jeugd)"
+      }
+     ]
+    },
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Periodieken(kranten- en tijdschriftenabonnementen)"
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "Periodieken(kranten- en tijdschriftenabonnementen)"
       }
      ]
     }
    ],
    "natures": [
-    "WORKS"
+    "SUPPLIES"
    ],
    "noticeIds": [
-    "4d752258-b35c-437a-8f75-9036c5973f29"
+    "d38f71af-13e7-41e6-86de-28604e040001"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE310"
+    "BE241"
    ],
    "organisation": {
-    "organisationId": 317,
+    "organisationId": 593,
     "organisationNames": [
      {
-      "language": "DE",
-      "text": "Walhain"
-     },
-     {
       "language": "NL",
-      "text": "Walhain"
-     },
-     {
-      "language": "EN",
-      "text": "Walhain"
+      "text": "Affligem"
      },
      {
       "language": "FR",
-      "text": "Walhain"
+      "text": "Affligem"
+     },
+     {
+      "language": "DE",
+      "text": "Affligem"
+     },
+     {
+      "language": "EN",
+      "text": "Affligem"
      }
     ],
-    "tree": "200004.200021.317"
+    "tree": "200004.200021.593"
    },
-   "procedureId": "8c7bfc02-9f34-4cb3-b24a-67b8a86d6561",
+   "procedureId": "bb495068-05fd-41a4-832a-a57d1d72af28",
    "publicationDate": "2026-11-27",
    "publicationLanguages": [
-    "FR"
+    "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP0E2-482/6046/2026-001_004"
+    "PPP097-572/6040/2026243_002"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "85b13288-4490-44c5-9478-4184de0bf94c",
+   "publicationWorkspaceId": "8bfd68d3-4bab-48f5-866c-b97d44ebfd97",
    "publishedAt": [
-    "2026-11-27T07:50:46.013639"
+    "2026-11-27T11:06:46.02095"
    ],
-   "referenceNumber": "PPP0E2-482/6046/2026-001_004",
+   "referenceNumber": "PPP097-572/6040/2026243_002",
    "sentAt": [
-    "2026-11-27T07:50:46.013639"
+    "2026-11-27T11:06:46.02095"
    ],
    "tedPublished": false
   }
