@@ -1,10 +1,10 @@
 {
  "meta": {
-  "totalCount": 297304
+  "totalCount": 297352
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
-  "ACTIVE|10|['SUPPLIES']",
+  "ACTIVE|14|['SERVICES']",
   "ACTIVE|15|['SUPPLIES']",
   "ACTIVE|16|['SERVICES', 'SUPPLIES']",
   "ACTIVE|16|['SERVICES']",
@@ -12,16 +12,18 @@
   "ACTIVE|16|['SUPPLIES', 'WORKS']",
   "ACTIVE|16|['SUPPLIES']",
   "ACTIVE|16|['WORKS']",
+  "ACTIVE|17|['SERVICES', 'SUPPLIES']",
   "ACTIVE|17|['SERVICES']",
   "ACTIVE|17|['SUPPLIES']",
   "ACTIVE|17|['WORKS']",
   "ACTIVE|19|['SERVICES']",
+  "ACTIVE|19|['WORKS']",
+  "ACTIVE|1|['SERVICES']",
   "ACTIVE|20|['SERVICES']",
   "ACTIVE|21|['WORKS']",
   "ACTIVE|25|['SERVICES']",
   "ACTIVE|29|['SERVICES']",
   "ACTIVE|29|['SUPPLIES', 'SERVICES']",
-  "ACTIVE|29|['SUPPLIES', 'WORKS']",
   "ACTIVE|29|['SUPPLIES']",
   "ACTIVE|29|['WORKS']",
   "ACTIVE|30|['SERVICES']",
@@ -184,6 +186,142 @@
   {
    "cpvAdditionalCodes": [
     {
+     "code": "34992200-9",
+     "descriptions": [
+      {
+       "language": "EN",
+       "text": "Road signs"
+      },
+      {
+       "language": "NL",
+       "text": "Verkeersborden"
+      },
+      {
+       "language": "FR",
+       "text": "Panneaux de signalisation routière"
+      },
+      {
+       "language": "DE",
+       "text": "Verkehrsschilder"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "34992200-9",
+    "descriptions": [
+     {
+      "language": "EN",
+      "text": "Road signs"
+     },
+     {
+      "language": "NL",
+      "text": "Verkeersborden"
+     },
+     {
+      "language": "FR",
+      "text": "Panneaux de signalisation routière"
+     },
+     {
+      "language": "DE",
+      "text": "Verkehrsschilder"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-27",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Ce marché a pour but l’acquisition d’éléments de signalisation routières destinés à l’entretien de la signalisation des voiries communales.  Il est considéré comme un marché stock qui consiste à demander une offre pour différents types de fournitures. "
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "PPP04Z-2328/6173/2026-2328",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "PPP04Z-2328/6173/2026-2328",
+    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Marché stock - Signalisation routière 2027"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-27",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Ce marché a pour but l’acquisition d’éléments de signalisation routières destinés à l’entretien de la signalisation des voiries communales.  Il est considéré comme un marché stock qui consiste à demander une offre pour différents types de fournitures. "
+      }
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "Marché stock - Signalisation routière 2027"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SUPPLIES"
+   ],
+   "noticeIds": [
+    "9c83f659-fc17-40e6-bf96-cffcffeca7c9"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE335"
+   ],
+   "organisation": {
+    "organisationId": 206,
+    "organisationNames": [
+     {
+      "language": "FR",
+      "text": "Dison"
+     },
+     {
+      "language": "DE",
+      "text": "Dison"
+     },
+     {
+      "language": "NL",
+      "text": "Dison"
+     },
+     {
+      "language": "EN",
+      "text": "Dison"
+     }
+    ],
+    "tree": "200004.200021.206"
+   },
+   "procedureId": "e1676920-f52b-4b78-8c96-75f26553dc91",
+   "publicationDate": "2026-11-27",
+   "publicationLanguages": [
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "PPP04Z-2328/6173/2026-2328_002"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "12e088ee-95f3-43f9-9cf4-e5b4298f2902",
+   "publishedAt": [
+    "2026-11-27T00:00:46.017272"
+   ],
+   "referenceNumber": "PPP04Z-2328/6173/2026-2328_002",
+   "sentAt": [
+    "2026-11-27T00:00:46.017272"
+   ],
+   "tedPublished": false
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
      "code": "34144700-5",
      "descriptions": [
       {
@@ -313,141 +451,6 @@
    "referenceNumber": "PPP08D-592/6057/2026480_002",
    "sentAt": [
     "2026-11-27T00:00:46.372591"
-   ],
-   "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "34144700-5",
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Bedrijfswagens"
-      },
-      {
-       "language": "EN",
-       "text": "Utility vehicles"
-      },
-      {
-       "language": "DE",
-       "text": "Nutzfahrzeuge"
-      },
-      {
-       "language": "FR",
-       "text": "Véhicules utilitaires"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "34144700-5",
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Bedrijfswagens"
-     },
-     {
-      "language": "EN",
-      "text": "Utility vehicles"
-     },
-     {
-      "language": "DE",
-      "text": "Nutzfahrzeuge"
-     },
-     {
-      "language": "FR",
-      "text": "Véhicules utilitaires"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-27",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Remplacement d'un véhicule pour le Service Environnement"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP093-3353/6333/MF-PNSPP/26-3353",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP093-3353/6333/MF-PNSPP/26-3353",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "Remplacement d'un véhicule pour le Service Environnement"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-27",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Remplacement d'un véhicule pour le Service Environnement"
-      }
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Remplacement d'un véhicule pour le Service Environnement"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SUPPLIES"
-   ],
-   "noticeIds": [
-    "0efc7819-252f-45ed-9bfb-5d67c14bc26d"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE341"
-   ],
-   "organisation": {
-    "organisationId": 5462,
-    "organisationNames": [
-     {
-      "language": "FR",
-      "text": "Administration Communale de la Ville d'Arlon"
-     },
-     {
-      "language": "DE",
-      "text": "Administration Communale de la Ville d'Arlon"
-     },
-     {
-      "language": "EN",
-      "text": "Administration Communale de la Ville d'Arlon"
-     },
-     {
-      "language": "NL",
-      "text": "Administration Communale de la Ville d'Arlon"
-     }
-    ],
-    "tree": "200004.200021.272.5462"
-   },
-   "procedureId": "9547c764-5856-4741-9387-2fd384452898",
-   "publicationDate": "2026-11-27",
-   "publicationLanguages": [
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP093-3353/6333/MF-PNSPP/26-3353_002"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "5ac69be6-d4cd-404d-85f4-fe5cb9599654",
-   "publishedAt": [
-    "2026-11-27T00:00:46.657341"
-   ],
-   "referenceNumber": "PPP093-3353/6333/MF-PNSPP/26-3353_002",
-   "sentAt": [
-    "2026-11-27T00:00:46.657341"
    ],
    "tedPublished": false
   }
