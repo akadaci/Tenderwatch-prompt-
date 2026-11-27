@@ -1,25 +1,11 @@
 {
- "updated": "2026-11-27T04:32:40Z",
+ "updated": "2026-11-27T05:01:45Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
  "received": 683,
  "kept": 285,
  "count": 3856,
- "new_ids": [
-  "bda-50f7a7b6-498a-44f6-aff3-da9eadaaa89e",
-  "bda-07d68700-5a9d-4a54-a913-45403449df12",
-  "bda-4e465743-be01-4a19-8d18-5a935afafcdd",
-  "bda-8fadfb77-76f3-4f6d-bb6b-6625c28c464c",
-  "bda-c7e5b64c-c6e1-4ea0-9671-45f94a6bbd4b",
-  "bda-68e29e81-ec95-488f-8663-2a0c4339422a",
-  "bda-21816efc-d6df-4086-a127-c9f35065d17a",
-  "bda-1d58dc4f-da5c-4f60-9613-590925989942",
-  "bda-599d45b0-f8da-4b4a-8cfa-a7e84e9c4dd4",
-  "bda-16bb0037-7817-4ba2-bae9-6cb7349178a5",
-  "bda-56217e7d-49b1-4ab3-b4d5-cb9b0b8acd7d",
-  "bda-206b876c-3c81-4be3-aeec-96245389d2c2",
-  "bda-65460187-0817-44ef-a6fd-772bc0c7e4d9"
- ],
+ "new_ids": [],
  "records": [
   {
    "id": "bda-6ef17c33-5bff-4aa5-8f0b-389a028fe03c",
@@ -1274,7 +1260,7 @@
    "verif_date": "2026-11-27",
    "preuve": "Bulletin des Adjudications, réf. 5715 (avis de marché, sous-type eForms 17), publié le 2026-11-26.",
    "date_publication": "2026-11-26",
-   "cpv": "45113000,45000000,45111000",
+   "cpv": "45113000,45111000,45000000",
    "ted_ref": "",
    "notes": "Le présent marché a pour objet des travaux de démantèlement intérieur non structurel (curage) du bâtiment « Palais du Midi », en vue de l’enlèvement des éléments intérieurs non porteurs, sans intervention sur la structure ni sur l’enveloppe extérieure. Les travaux consistent en un curage sélectif co",
    "procedure": "3900edd9-fde0-4a53-9401-4dcd1b952237",
