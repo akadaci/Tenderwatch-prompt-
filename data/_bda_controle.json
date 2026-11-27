@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 297352
+  "totalCount": 297354
  },
  "types": [
   "ACTIVE|10|['SERVICES']",
@@ -51,45 +51,66 @@
   {
    "cpvAdditionalCodes": [
     {
-     "code": "35100000-5",
+     "code": "71800000-6",
      "descriptions": [
       {
        "language": "FR",
-       "text": "Matériel de secours et de sécurité"
-      },
-      {
-       "language": "NL",
-       "text": "Nood- en veiligheidsuitrusting"
+       "text": "Services de conseil en matière d'approvisionnement en eau et services de conseil en matière de déchets"
       },
       {
        "language": "DE",
-       "text": "Not- und Sicherheitsausrüstungen"
+       "text": "Beratung in den Bereichen Wasserversorgung und Abfälle"
       },
       {
        "language": "EN",
-       "text": "Emergency and security equipment"
+       "text": "Consulting services for water-supply and waste consultancy"
+      },
+      {
+       "language": "NL",
+       "text": "Adviesdiensten voor watervoorziening en afval"
+      }
+     ]
+    },
+    {
+     "code": "79410000-1",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Advies inzake bedrijfsvoering en management"
+      },
+      {
+       "language": "FR",
+       "text": "Services de conseil en affaires et en gestion"
+      },
+      {
+       "language": "EN",
+       "text": "Business and management consultancy services"
+      },
+      {
+       "language": "DE",
+       "text": "Unternehmens- und Managementberatung"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "35100000-5",
+    "code": "79410000-1",
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Matériel de secours et de sécurité"
-     },
-     {
       "language": "NL",
-      "text": "Nood- en veiligheidsuitrusting"
+      "text": "Advies inzake bedrijfsvoering en management"
      },
      {
-      "language": "DE",
-      "text": "Not- und Sicherheitsausrüstungen"
+      "language": "FR",
+      "text": "Services de conseil en affaires et en gestion"
      },
      {
       "language": "EN",
-      "text": "Emergency and security equipment"
+      "text": "Business and management consultancy services"
+     },
+     {
+      "language": "DE",
+      "text": "Unternehmens- und Managementberatung"
      }
     ]
    },
@@ -98,133 +119,169 @@
     "accreditations": {},
     "descriptions": [
      {
+      "language": "EN",
+      "text": "Consultancy Services for the Development of a Toolkit to Support the Establishment of Small-Scale Public-Private Partnerships (SSPPPs) in Mozambique’s Urban Solid Waste Sector"
+     },
+     {
       "language": "FR",
-      "text": "Le présent marché a pour objet la fourniture de dispositifs mobiles de protection contre les inondations, destinés à limiter, contenir ou dévier la progression des eaux en cas de débordement de cours d’eau, de ruissellement ou d’inondations localisées. Les dispositifs proposés pourront prendre toute forme technique pertinente (barrières, digues modulaires, systèmes gonffables, éléments empilables, ...), pour autant qu’ils répondent aux exigences fonctionnelles et techniques définies ci-après. "
+      "text": "Services de conseil pour l'élaboration d'une boîte à outils destinée à faciliter la mise en place de partenariats public-privé à petite échelle (SSPPP) dans le secteur des déchets solides urbains au Mozambique"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP08D-588/6030/2026476",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP08D-588/6030/2026476",
+    "number": "MOZ22006-10137",
+    "procurementProcedureType": "NEG_W_CALL_24",
+    "referenceNumber": "MOZ22006-10137",
     "titles": [
      {
+      "language": "EN",
+      "text": "Consultancy Services for the Development of a Toolkit to Support the Establishment of Small-Scale Public-Private Partnerships (SSPPPs) in Mozambique’s Urban Solid Waste Sector"
+     },
+     {
       "language": "FR",
-      "text": "Fourniture de dispositifs anti-inondation"
+      "text": "Services de conseil pour l'élaboration d'une boîte à outils destinée à faciliter la mise en place de partenariats public-privé à petite échelle (SSPPP) dans le secteur des déchets solides urbains au Mozambique"
      }
     ]
    },
-   "insertionDate": "2026-11-27",
+   "insertionDate": "2026-10-22",
    "lots": [
     {
      "descriptions": [
       {
+       "language": "EN",
+       "text": "Consultancy Services for the Development of a Toolkit to Support the Establishment of Small-Scale Public-Private Partnerships (SSPPPs) in Mozambique’s Urban Solid Waste Sector"
+      },
+      {
        "language": "FR",
-       "text": "Le présent marché a pour objet la fourniture de dispositifs mobiles de protection contre les inondations, destinés à limiter, contenir ou dévier la progression des eaux en cas de débordement de cours d’eau, de ruissellement ou d’inondations localisées. Les dispositifs proposés pourront prendre toute forme technique pertinente (barrières, digues modulaires, systèmes gonffables, éléments empilables, ...), pour autant qu’ils répondent aux exigences fonctionnelles et techniques définies ci-après. "
+       "text": "Services de conseil pour l'élaboration d'une boîte à outils destinée à faciliter la mise en place de partenariats public-privé à petite échelle (SSPPP) dans le secteur des déchets solides urbains au Mozambique"
       }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
      ],
      "titles": [
       {
+       "language": "EN",
+       "text": "MOZ22006-10137 - 1"
+      },
+      {
        "language": "FR",
-       "text": "Fourniture de dispositifs anti-inondation"
+       "text": "MOZ22006-10137 - 1"
       }
      ]
     }
    ],
    "natures": [
-    "SUPPLIES"
+    "SERVICES"
    ],
    "noticeIds": [
-    "9081c297-5d4f-40ab-905a-4ea5cdac9cb5"
+    "1d214850-85d5-4ac0-a7f5-d90edb1331fa",
+    "95e8dc5d-225c-440c-bf93-e3f3d4915118",
+    "2d93e288-645d-49d0-8dc0-20a2fab668f4",
+    "5d2d9854-938a-40f5-b773-1daf9df77036",
+    "d13882e7-6533-4aa2-b404-61ea66718d6b",
+    "d3da7d6a-2b96-4b83-8ef4-685525ac20fa"
    ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE353"
-   ],
+   "noticeSubType": "16",
+   "nutsCodes": [],
    "organisation": {
-    "organisationId": 343,
+    "organisationId": 139,
     "organisationNames": [
      {
-      "language": "DE",
-      "text": "Viroinval"
+      "language": "NL",
+      "text": "Enabel"
      },
      {
       "language": "FR",
-      "text": "Viroinval"
+      "text": "Enabel"
      },
      {
-      "language": "NL",
-      "text": "Viroinval"
+      "language": "DE",
+      "text": "Enabel"
      },
      {
       "language": "EN",
-      "text": "Viroinval"
+      "text": "Enabel"
      }
     ],
-    "tree": "200004.200021.343"
+    "tree": "200002.200014.139"
    },
-   "procedureId": "62fd1b37-e41d-47d4-93b0-fb7da0f738dd",
+   "procedureId": "fe94f776-61e1-44b6-912f-e2d43ed14512",
    "publicationDate": "2026-11-27",
    "publicationLanguages": [
+    "EN",
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP08D-588/6030/2026476_002"
+    "MOZ22006-10137_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "431faeda-a166-449d-b835-8dd27a46ba30",
+   "publicationWorkspaceId": "e30a3879-3612-4a64-bf63-ab35c67c75b6",
    "publishedAt": [
-    "2026-11-27T00:00:46.848269"
+    "2026-11-24T09:43:46.015479",
+    "2026-11-27T07:08:45.021003",
+    "2026-11-27T07:03:46.029497",
+    "2026-11-18T07:59:45.01209",
+    "2026-11-16T08:56:45.130991",
+    "2026-10-22T10:12:46.021983"
    ],
-   "referenceNumber": "PPP08D-588/6030/2026476_002",
+   "referenceNumber": "MOZ22006-10137_pub01",
    "sentAt": [
-    "2026-11-27T00:00:46.848269"
+    "2026-11-24T09:43:46.015479",
+    "2026-11-27T07:08:45.021003",
+    "2026-11-27T07:03:46.029497",
+    "2026-11-18T07:59:45.01209",
+    "2026-11-16T08:56:45.130991",
+    "2026-10-22T10:12:46.021983"
    ],
    "tedPublished": false
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "34992200-9",
+     "code": "45210000-2",
      "descriptions": [
       {
-       "language": "EN",
-       "text": "Road signs"
-      },
-      {
-       "language": "NL",
-       "text": "Verkeersborden"
-      },
-      {
        "language": "FR",
-       "text": "Panneaux de signalisation routière"
+       "text": "Travaux de construction de bâtiments"
       },
       {
        "language": "DE",
-       "text": "Verkehrsschilder"
+       "text": "Bauleistungen im Hochbau"
+      },
+      {
+       "language": "NL",
+       "text": "Bouwen van gebouwen"
+      },
+      {
+       "language": "EN",
+       "text": "Building construction work"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "34992200-9",
+    "code": "45210000-2",
     "descriptions": [
      {
-      "language": "EN",
-      "text": "Road signs"
-     },
-     {
-      "language": "NL",
-      "text": "Verkeersborden"
-     },
-     {
       "language": "FR",
-      "text": "Panneaux de signalisation routière"
+      "text": "Travaux de construction de bâtiments"
      },
      {
       "language": "DE",
-      "text": "Verkehrsschilder"
+      "text": "Bauleistungen im Hochbau"
+     },
+     {
+      "language": "NL",
+      "text": "Bouwen van gebouwen"
+     },
+     {
+      "language": "EN",
+      "text": "Building construction work"
      }
     ]
    },
@@ -234,19 +291,18 @@
     "descriptions": [
      {
       "language": "FR",
-      "text": "Ce marché a pour but l’acquisition d’éléments de signalisation routières destinés à l’entretien de la signalisation des voiries communales.  Il est considéré comme un marché stock qui consiste à demander une offre pour différents types de fournitures. "
+      "text": "Le présent marché est un marché de travaux qui comprend l’exécution des travaux suivants (description générale des travaux à réaliser) : Construction d'un hangar et locaux pour le service travaux de la commune de Walhain Les travaux décrits ci-dessus ne sont pas exhaustifs. Le détail des travaux est repris dans les clauses techniques et le métré récapitulatif annexé au cahier spécial des charges. Il est expressément stipulé que l’entrepreneur doit exécuter les travaux suivant les règles de l’art. Les lieux d’exécution sont définis comme suit (voir également plans et métrés) : Rue de l’Aulnaie 4 – 1457 Walhain Code CPV : 45 NACE : 41201 Numéro de marché : 2026-001 Tous les matériaux à mettre en oeuvre dans le présent marché sont neufs et sont à fournir par l’entrepreneur, à moins que le cahier spécial des charges ne le précise autrement. --- Dans le cadre du présent marché, l’adjudicateur entend lutter contre le dumping social et la fraude sociale. L'ordre de priorité déterminant pour l'interprétation en cas de contradiction entre les documents du marché est le suivant : 1° les plans – 2° le CSC – 3° les métrés."
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP04Z-2328/6173/2026-2328",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP04Z-2328/6173/2026-2328",
-    "specialPurchasingTechnique": "FRAMEWORK_AGREEMENT",
+    "number": "PPP0E2-482/6046/2026-001",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "PPP0E2-482/6046/2026-001",
     "titles": [
      {
       "language": "FR",
-      "text": "Marché stock - Signalisation routière 2027"
+      "text": "Construction d'un hangar et locaux pour le service travaux de la commune de Walhain"
      }
     ]
    },
@@ -256,111 +312,117 @@
      "descriptions": [
       {
        "language": "FR",
-       "text": "Ce marché a pour but l’acquisition d’éléments de signalisation routières destinés à l’entretien de la signalisation des voiries communales.  Il est considéré comme un marché stock qui consiste à demander une offre pour différents types de fournitures. "
+       "text": "Le présent marché est un marché de travaux qui comprend l’exécution des travaux suivants (description générale des travaux à réaliser) : Construction d'un hangar et locaux pour le service travaux de la commune de Walhain Les travaux décrits ci-dessus ne sont pas exhaustifs. Le détail des travaux est repris dans les clauses techniques et le métré récapitulatif annexé au cahier spécial des charges. Il est expressément stipulé que l’entrepreneur doit exécuter les travaux suivant les règles de l’art. Les lieux d’exécution sont définis comme suit (voir également plans et métrés) : Rue de l’Aulnaie 4 – 1457 Walhain Code CPV : 45 NACE : 41201 Numéro de marché : 2026-001 Tous les matériaux à mettre en oeuvre dans le présent marché sont neufs et sont à fournir par l’entrepreneur, à moins que le cahier spécial des charges ne le précise autrement. --- Dans le cadre du présent marché, l’adjudicateur entend lutter contre le dumping social et la fraude sociale. L'ordre de priorité déterminant pour l'interprétation en cas de contradiction entre les documents du marché est le suivant : 1° les plans – 2° le CSC – 3° les métrés."
       }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
      ],
      "titles": [
       {
        "language": "FR",
-       "text": "Marché stock - Signalisation routière 2027"
+       "text": "Construction d'un hangar et locaux pour le service travaux de la commune de Walhain"
       }
      ]
     }
    ],
    "natures": [
-    "SUPPLIES"
+    "WORKS"
    ],
    "noticeIds": [
-    "9c83f659-fc17-40e6-bf96-cffcffeca7c9"
+    "4d752258-b35c-437a-8f75-9036c5973f29"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE335"
+    "BE310"
    ],
    "organisation": {
-    "organisationId": 206,
+    "organisationId": 317,
     "organisationNames": [
      {
-      "language": "FR",
-      "text": "Dison"
-     },
-     {
       "language": "DE",
-      "text": "Dison"
+      "text": "Walhain"
      },
      {
       "language": "NL",
-      "text": "Dison"
+      "text": "Walhain"
      },
      {
       "language": "EN",
-      "text": "Dison"
+      "text": "Walhain"
+     },
+     {
+      "language": "FR",
+      "text": "Walhain"
      }
     ],
-    "tree": "200004.200021.206"
+    "tree": "200004.200021.317"
    },
-   "procedureId": "e1676920-f52b-4b78-8c96-75f26553dc91",
+   "procedureId": "8c7bfc02-9f34-4cb3-b24a-67b8a86d6561",
    "publicationDate": "2026-11-27",
    "publicationLanguages": [
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP04Z-2328/6173/2026-2328_002"
+    "PPP0E2-482/6046/2026-001_004"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "12e088ee-95f3-43f9-9cf4-e5b4298f2902",
+   "publicationWorkspaceId": "85b13288-4490-44c5-9478-4184de0bf94c",
    "publishedAt": [
-    "2026-11-27T00:00:46.017272"
+    "2026-11-27T07:50:46.013639"
    ],
-   "referenceNumber": "PPP04Z-2328/6173/2026-2328_002",
+   "referenceNumber": "PPP0E2-482/6046/2026-001_004",
    "sentAt": [
-    "2026-11-27T00:00:46.017272"
+    "2026-11-27T07:50:46.013639"
    ],
    "tedPublished": false
   },
   {
    "cpvAdditionalCodes": [
     {
-     "code": "34144700-5",
+     "code": "45000000-7",
      "descriptions": [
       {
        "language": "NL",
-       "text": "Bedrijfswagens"
-      },
-      {
-       "language": "EN",
-       "text": "Utility vehicles"
-      },
-      {
-       "language": "DE",
-       "text": "Nutzfahrzeuge"
+       "text": "Bouwwerkzaamheden"
       },
       {
        "language": "FR",
-       "text": "Véhicules utilitaires"
+       "text": "Travaux de construction"
+      },
+      {
+       "language": "EN",
+       "text": "Construction work"
+      },
+      {
+       "language": "DE",
+       "text": "Bauarbeiten"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "34144700-5",
+    "code": "45000000-7",
     "descriptions": [
      {
       "language": "NL",
-      "text": "Bedrijfswagens"
-     },
-     {
-      "language": "EN",
-      "text": "Utility vehicles"
-     },
-     {
-      "language": "DE",
-      "text": "Nutzfahrzeuge"
+      "text": "Bouwwerkzaamheden"
      },
      {
       "language": "FR",
-      "text": "Véhicules utilitaires"
+      "text": "Travaux de construction"
+     },
+     {
+      "language": "EN",
+      "text": "Construction work"
+     },
+     {
+      "language": "DE",
+      "text": "Bauarbeiten"
      }
     ]
    },
@@ -369,135 +431,151 @@
     "accreditations": {},
     "descriptions": [
      {
-      "language": "FR",
-      "text": "Le marché consiste en la fourniture et livraison d'un véhicule utilitaire type pick-up simple cabine minimum 2 places, équipé d'une benne basculante et de charge utile de l'ordre de 650 kg. Les soumissionnaires fourniront une proposition de contrat d’entretien qui fait partie de l’offre de base. La durée de ce contrat sera de cinq ans."
+      "language": "NL",
+      "text": "zie bestek"
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP08D-592/6057/2026480",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP08D-592/6057/2026480",
+    "number": "1649/2024/001",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "1649/2024/001",
     "titles": [
      {
-      "language": "FR",
-      "text": "Achat véhicule utilitaire type camion plateau neuf pour le service entretien"
+      "language": "NL",
+      "text": "Aanleggen van een fietspad langs de Torenweg/Vagevuurstraat"
      }
     ]
    },
-   "insertionDate": "2026-11-27",
+   "insertionDate": "2026-10-23",
    "lots": [
     {
      "descriptions": [
       {
-       "language": "FR",
-       "text": "Le marché consiste en la fourniture et livraison d'un véhicule utilitaire type pick-up simple cabine minimum 2 places, équipé d'une benne basculante et de charge utile de l'ordre de 650 kg. Les soumissionnaires fourniront une proposition de contrat d’entretien qui fait partie de l’offre de base. La durée de ce contrat sera de cinq ans."
+       "language": "NL",
+       "text": "Beernem/Wingene - aanleggen van een fietspad langs de Torenweg/Vagevuurstraat"
       }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
      ],
      "titles": [
       {
-       "language": "FR",
-       "text": "Achat véhicule utilitaire type camion plateau neuf pour le service entretien"
+       "language": "NL",
+       "text": "1649/2024/001 - 1"
       }
      ]
     }
    ],
    "natures": [
-    "SUPPLIES"
+    "WORKS"
    ],
    "noticeIds": [
-    "bd755b89-717a-4ccc-858e-5f7f4748b086"
+    "be22aed2-7954-4776-b83b-ec76bead825c",
+    "b4aa6d45-582c-4597-875f-fb0939dbaa92",
+    "b0544da5-4e66-4f3a-9035-d23ee95c2c71",
+    "cf13a873-e07a-4935-9c29-2da3db2e7fb1"
    ],
-   "noticeSubType": "E4",
+   "noticeSubType": "16",
    "nutsCodes": [
-    "BE353"
+    "BE251"
    ],
    "organisation": {
-    "organisationId": 343,
+    "organisationId": 512,
     "organisationNames": [
      {
-      "language": "DE",
-      "text": "Viroinval"
+      "language": "FR",
+      "text": "Provincie West-Vlaanderen"
      },
      {
-      "language": "FR",
-      "text": "Viroinval"
+      "language": "DE",
+      "text": "Provincie West-Vlaanderen"
      },
      {
       "language": "NL",
-      "text": "Viroinval"
+      "text": "Provincie West-Vlaanderen"
      },
      {
       "language": "EN",
-      "text": "Viroinval"
+      "text": "Provincie West-Vlaanderen"
      }
     ],
-    "tree": "200004.200021.343"
+    "tree": "200004.200020.512"
    },
-   "procedureId": "6a4dd350-dc73-4378-9750-9a3acee1ff4b",
+   "procedureId": "90101fb8-f084-40ef-9b20-738c5109fb57",
    "publicationDate": "2026-11-27",
    "publicationLanguages": [
-    "FR"
+    "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP08D-592/6057/2026480_002"
+    "1649/2024/001_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "6b105798-267f-43d1-8d1a-717ef20c797c",
+   "publicationWorkspaceId": "084c3e1a-5820-4425-b911-b5a1b3ba7e26",
    "publishedAt": [
-    "2026-11-27T00:00:46.372591"
+    "2026-10-27T13:27:46.013206",
+    "2026-11-27T07:27:46.012569",
+    "2026-10-26T13:06:46.030277",
+    "2026-10-23T08:34:45.015175"
    ],
-   "referenceNumber": "PPP08D-592/6057/2026480_002",
+   "referenceNumber": "1649/2024/001_pub01",
    "sentAt": [
-    "2026-11-27T00:00:46.372591"
+    "2026-10-27T13:27:46.013206",
+    "2026-11-27T07:27:46.012569",
+    "2026-10-26T13:06:46.030277",
+    "2026-10-23T08:34:45.015175"
    ],
-   "tedPublished": false
+   "tedPublished": false,
+   "vaultSubmissionDeadline": "2026-12-10T11:00:00"
   }
  ],
  "exemple_attribution": [
   {
    "cpvAdditionalCodes": [
     {
-     "code": "35100000-5",
+     "code": "45210000-2",
      "descriptions": [
       {
        "language": "FR",
-       "text": "Matériel de secours et de sécurité"
-      },
-      {
-       "language": "NL",
-       "text": "Nood- en veiligheidsuitrusting"
+       "text": "Travaux de construction de bâtiments"
       },
       {
        "language": "DE",
-       "text": "Not- und Sicherheitsausrüstungen"
+       "text": "Bauleistungen im Hochbau"
+      },
+      {
+       "language": "NL",
+       "text": "Bouwen van gebouwen"
       },
       {
        "language": "EN",
-       "text": "Emergency and security equipment"
+       "text": "Building construction work"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "35100000-5",
+    "code": "45210000-2",
     "descriptions": [
      {
       "language": "FR",
-      "text": "Matériel de secours et de sécurité"
-     },
-     {
-      "language": "NL",
-      "text": "Nood- en veiligheidsuitrusting"
+      "text": "Travaux de construction de bâtiments"
      },
      {
       "language": "DE",
-      "text": "Not- und Sicherheitsausrüstungen"
+      "text": "Bauleistungen im Hochbau"
+     },
+     {
+      "language": "NL",
+      "text": "Bouwen van gebouwen"
      },
      {
       "language": "EN",
-      "text": "Emergency and security equipment"
+      "text": "Building construction work"
      }
     ]
    },
@@ -507,18 +585,18 @@
     "descriptions": [
      {
       "language": "FR",
-      "text": "Le présent marché a pour objet la fourniture de dispositifs mobiles de protection contre les inondations, destinés à limiter, contenir ou dévier la progression des eaux en cas de débordement de cours d’eau, de ruissellement ou d’inondations localisées. Les dispositifs proposés pourront prendre toute forme technique pertinente (barrières, digues modulaires, systèmes gonffables, éléments empilables, ...), pour autant qu’ils répondent aux exigences fonctionnelles et techniques définies ci-après. "
+      "text": "Le présent marché est un marché de travaux qui comprend l’exécution des travaux suivants (description générale des travaux à réaliser) : Construction d'un hangar et locaux pour le service travaux de la commune de Walhain Les travaux décrits ci-dessus ne sont pas exhaustifs. Le détail des travaux est repris dans les clauses techniques et le métré récapitulatif annexé au cahier spécial des charges. Il est expressément stipulé que l’entrepreneur doit exécuter les travaux suivant les règles de l’art. Les lieux d’exécution sont définis comme suit (voir également plans et métrés) : Rue de l’Aulnaie 4 – 1457 Walhain Code CPV : 45 NACE : 41201 Numéro de marché : 2026-001 Tous les matériaux à mettre en oeuvre dans le présent marché sont neufs et sont à fournir par l’entrepreneur, à moins que le cahier spécial des charges ne le précise autrement. --- Dans le cadre du présent marché, l’adjudicateur entend lutter contre le dumping social et la fraude sociale. L'ordre de priorité déterminant pour l'interprétation en cas de contradiction entre les documents du marché est le suivant : 1° les plans – 2° le CSC – 3° les métrés."
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP08D-588/6030/2026476",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP08D-588/6030/2026476",
+    "number": "PPP0E2-482/6046/2026-001",
+    "procurementProcedureType": "OPEN",
+    "referenceNumber": "PPP0E2-482/6046/2026-001",
     "titles": [
      {
       "language": "FR",
-      "text": "Fourniture de dispositifs anti-inondation"
+      "text": "Construction d'un hangar et locaux pour le service travaux de la commune de Walhain"
      }
     ]
    },
@@ -528,66 +606,72 @@
      "descriptions": [
       {
        "language": "FR",
-       "text": "Le présent marché a pour objet la fourniture de dispositifs mobiles de protection contre les inondations, destinés à limiter, contenir ou dévier la progression des eaux en cas de débordement de cours d’eau, de ruissellement ou d’inondations localisées. Les dispositifs proposés pourront prendre toute forme technique pertinente (barrières, digues modulaires, systèmes gonffables, éléments empilables, ...), pour autant qu’ils répondent aux exigences fonctionnelles et techniques définies ci-après. "
+       "text": "Le présent marché est un marché de travaux qui comprend l’exécution des travaux suivants (description générale des travaux à réaliser) : Construction d'un hangar et locaux pour le service travaux de la commune de Walhain Les travaux décrits ci-dessus ne sont pas exhaustifs. Le détail des travaux est repris dans les clauses techniques et le métré récapitulatif annexé au cahier spécial des charges. Il est expressément stipulé que l’entrepreneur doit exécuter les travaux suivant les règles de l’art. Les lieux d’exécution sont définis comme suit (voir également plans et métrés) : Rue de l’Aulnaie 4 – 1457 Walhain Code CPV : 45 NACE : 41201 Numéro de marché : 2026-001 Tous les matériaux à mettre en oeuvre dans le présent marché sont neufs et sont à fournir par l’entrepreneur, à moins que le cahier spécial des charges ne le précise autrement. --- Dans le cadre du présent marché, l’adjudicateur entend lutter contre le dumping social et la fraude sociale. L'ordre de priorité déterminant pour l'interprétation en cas de contradiction entre les documents du marché est le suivant : 1° les plans – 2° le CSC – 3° les métrés."
       }
+     ],
+     "reservedExecution": [
+      "NO"
+     ],
+     "reservedParticipation": [
+      "NONE"
      ],
      "titles": [
       {
        "language": "FR",
-       "text": "Fourniture de dispositifs anti-inondation"
+       "text": "Construction d'un hangar et locaux pour le service travaux de la commune de Walhain"
       }
      ]
     }
    ],
    "natures": [
-    "SUPPLIES"
+    "WORKS"
    ],
    "noticeIds": [
-    "9081c297-5d4f-40ab-905a-4ea5cdac9cb5"
+    "4d752258-b35c-437a-8f75-9036c5973f29"
    ],
    "noticeSubType": "E4",
    "nutsCodes": [
-    "BE353"
+    "BE310"
    ],
    "organisation": {
-    "organisationId": 343,
+    "organisationId": 317,
     "organisationNames": [
      {
       "language": "DE",
-      "text": "Viroinval"
-     },
-     {
-      "language": "FR",
-      "text": "Viroinval"
+      "text": "Walhain"
      },
      {
       "language": "NL",
-      "text": "Viroinval"
+      "text": "Walhain"
      },
      {
       "language": "EN",
-      "text": "Viroinval"
+      "text": "Walhain"
+     },
+     {
+      "language": "FR",
+      "text": "Walhain"
      }
     ],
-    "tree": "200004.200021.343"
+    "tree": "200004.200021.317"
    },
-   "procedureId": "62fd1b37-e41d-47d4-93b0-fb7da0f738dd",
+   "procedureId": "8c7bfc02-9f34-4cb3-b24a-67b8a86d6561",
    "publicationDate": "2026-11-27",
    "publicationLanguages": [
     "FR"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP08D-588/6030/2026476_002"
+    "PPP0E2-482/6046/2026-001_004"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "431faeda-a166-449d-b835-8dd27a46ba30",
+   "publicationWorkspaceId": "85b13288-4490-44c5-9478-4184de0bf94c",
    "publishedAt": [
-    "2026-11-27T00:00:46.848269"
+    "2026-11-27T07:50:46.013639"
    ],
-   "referenceNumber": "PPP08D-588/6030/2026476_002",
+   "referenceNumber": "PPP0E2-482/6046/2026-001_004",
    "sentAt": [
-    "2026-11-27T00:00:46.848269"
+    "2026-11-27T07:50:46.013639"
    ],
    "tedPublished": false
   }
