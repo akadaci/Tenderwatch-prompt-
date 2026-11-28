@@ -1,16 +1,13 @@
 {
  "meta": {
-  "totalCount": 297459
+  "totalCount": 297460
  },
  "types": [
-  "ACTIVE|10|['SERVICES']",
-  "ACTIVE|10|['SUPPLIES']",
   "ACTIVE|14|['SERVICES']",
   "ACTIVE|15|['SUPPLIES']",
   "ACTIVE|16|['SERVICES', 'SUPPLIES']",
   "ACTIVE|16|['SERVICES']",
   "ACTIVE|16|['SUPPLIES', 'SERVICES']",
-  "ACTIVE|16|['SUPPLIES', 'WORKS']",
   "ACTIVE|16|['SUPPLIES']",
   "ACTIVE|16|['WORKS']",
   "ACTIVE|17|['SERVICES', 'SUPPLIES']",
@@ -22,10 +19,8 @@
   "ACTIVE|1|['SERVICES']",
   "ACTIVE|20|['SERVICES']",
   "ACTIVE|21|['WORKS']",
-  "ACTIVE|25|['SERVICES']",
   "ACTIVE|29|['SERVICES']",
   "ACTIVE|29|['SUPPLIES', 'SERVICES']",
-  "ACTIVE|29|['SUPPLIES', 'WORKS']",
   "ACTIVE|29|['SUPPLIES']",
   "ACTIVE|29|['WORKS']",
   "ACTIVE|30|['SERVICES']",
@@ -50,6 +45,153 @@
   "ACTIVE|E4|['WORKS']"
  ],
  "exemples": [
+  {
+   "cpvAdditionalCodes": [
+    {
+     "code": "03111000-2",
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Graines"
+      },
+      {
+       "language": "EN",
+       "text": "Seeds"
+      },
+      {
+       "language": "DE",
+       "text": "Saatgut"
+      },
+      {
+       "language": "NL",
+       "text": "Zaden"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "03111000-2",
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Graines"
+     },
+     {
+      "language": "EN",
+      "text": "Seeds"
+     },
+     {
+      "language": "DE",
+      "text": "Saatgut"
+     },
+     {
+      "language": "NL",
+      "text": "Zaden"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-28",
+   "dossier": {
+    "accreditations": {},
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Het betreft de levering van verschillende zaadmengsels bestemd voor de inzaai van fauna-akkers in de domeinen van het Agentschap Natuur en Bos. De leveringen hebben betrekking op de CPV-code(s):  03111000-2 Zaden. Deze opdracht is niet opgedeeld in percelen.  Deze opdracht is de eerste en enige herhaling van de opdracht ANB-TB-TOW-2025-275 die op 23 december 2025 werd gepubliceerd door middel van de openbare procedure. Deze herhaling is voorzien door de aanbestedende overheid in toepassing van art. 42, §1, 2° van de wet van 17 juni 2016 inzake overheidsopdrachten waarbij de gunning van de herhalingen binnen een termijn van 3 jaar na de sluiting van de oorspronkelijke opdracht moet gebeuren.  Een meer uitgebreide beschrijving is opgenomen in hoofdstuk 3 van het bestek.  "
+     }
+    ],
+    "enterpriseCategories": [],
+    "legalBasis": "D24",
+    "number": "ANB-TB-NTBW-2026-221",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "ANB-TB-NTBW-2026-221",
+    "titles": [
+     {
+      "language": "NL",
+      "text": "Levering van zaadmengsels voor de domeinen van het ANB - eerste herhaling van ANB-TB-TOW-2025-275"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-28",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Het betreft de levering van verschillende zaadmengsels bestemd voor de inzaai van fauna-akkers in de domeinen van het Agentschap Natuur en Bos.  De leveringen hebben betrekking op de CPV-code(s):  03111000-2 Zaden  Een meer uitgebreide beschrijving is opgenomen in hoofdstuk 3 van het bestek. "
+      }
+     ],
+     "titles": [
+      {
+       "language": "NL",
+       "text": "ANB-TB-NTBW-2026-221 - 1"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "SUPPLIES"
+   ],
+   "noticeIds": [
+    "8f714aeb-1aec-4b19-a7d4-8c34c0b8522a"
+   ],
+   "noticeSubType": "29",
+   "nutsCodes": [
+    "BE225",
+    "BE223",
+    "BE213",
+    "BE258",
+    "BE211",
+    "BE253",
+    "BE252",
+    "BE251",
+    "BE242",
+    "BE241",
+    "BE235",
+    "BE234",
+    "BE232"
+   ],
+   "organisation": {
+    "organisationId": 5717,
+    "organisationNames": [
+     {
+      "language": "DE",
+      "text": "Agentschap voor Natuur en Bos"
+     },
+     {
+      "language": "NL",
+      "text": "Agentschap voor Natuur en Bos"
+     },
+     {
+      "language": "EN",
+      "text": "Agentschap voor Natuur en Bos"
+     },
+     {
+      "language": "FR",
+      "text": "Agentschap voor Natuur en Bos"
+     }
+    ],
+    "tree": "200003.200015.73.4646.5717"
+   },
+   "procedureId": "086bf8ae-99c9-4474-81e7-4a8d73822414",
+   "publicationDate": "2026-11-28",
+   "publicationLanguages": [
+    "NL"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "ANB-TB-NTBW-2026-221_pub01"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "201c5fc0-b410-4f2b-9d1e-03ebfa20f04b",
+   "publishedAt": [
+    "2026-11-28T00:33:45.027996"
+   ],
+   "referenceNumber": "ANB-TB-NTBW-2026-221_pub01",
+   "sentAt": [
+    "2026-11-28T00:33:45.027996"
+   ],
+   "tedPublished": false
+  },
   {
    "cpvAdditionalCodes": [
     {
@@ -375,251 +517,88 @@
     "2026-11-27T11:07:46.028329"
    ],
    "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "85121270-6",
-     "descriptions": [
-      {
-       "language": "EN",
-       "text": "Psychiatrist or psychologist services"
-      },
-      {
-       "language": "FR",
-       "text": "Services prestés par les psychiatres ou les psychologues"
-      },
-      {
-       "language": "DE",
-       "text": "Dienstleistungen von Psychiatern oder Psychologen"
-      },
-      {
-       "language": "NL",
-       "text": "Diensten van psychiater of psycholoog"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "85121270-6",
-    "descriptions": [
-     {
-      "language": "EN",
-      "text": "Psychiatrist or psychologist services"
-     },
-     {
-      "language": "FR",
-      "text": "Services prestés par les psychiatres ou les psychologues"
-     },
-     {
-      "language": "DE",
-      "text": "Dienstleistungen von Psychiatern oder Psychologen"
-     },
-     {
-      "language": "NL",
-      "text": "Diensten van psychiater of psycholoog"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-27",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Désignation d'un psychologue indépendant chargé d'assurer un accompagnement psychologique des bénéficiaires suivis par le Service Inter'Agir du CPAS de Herstal"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP0Q4-2253/6186/2026-149",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP0Q4-2253/6186/2026-149",
-    "titles": [
-     {
-      "language": "FR",
-      "text": "Désignation d'un psychologue indépendant chargé d'assurer un accompagnement psychologique des bénéficiaires suivis par le Service Inter'Agir du CPAS de Herstal"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-27",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Désignation d'un psychologue indépendant chargé d'assurer un accompagnement psychologique des bénéficiaires suivis par le Service Inter'Agir du CPAS de Herstal"
-      }
-     ],
-     "titles": [
-      {
-       "language": "FR",
-       "text": "Désignation d'un psychologue indépendant chargé d'assurer un accompagnement psychologique des bénéficiaires suivis par le Service Inter'Agir du CPAS de Herstal"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SERVICES"
-   ],
-   "noticeIds": [
-    "58624206-4018-495d-8ce1-61d1bb61e60f"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE332"
-   ],
-   "organisation": {
-    "organisationId": 488,
-    "organisationNames": [
-     {
-      "language": "NL",
-      "text": "CPAS de Herstal"
-     },
-     {
-      "language": "FR",
-      "text": "CPAS de Herstal"
-     },
-     {
-      "language": "DE",
-      "text": "CPAS de Herstal"
-     },
-     {
-      "language": "EN",
-      "text": "CPAS de Herstal"
-     }
-    ],
-    "tree": "200004.200022.488"
-   },
-   "procedureId": "19173e97-cd45-45b9-967c-f62f7c132f77",
-   "publicationDate": "2026-11-27",
-   "publicationLanguages": [
-    "FR"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP0Q4-2253/6186/2026-149_002"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "dafcf7e2-e13e-4f42-b72f-58e50a70bcf7",
-   "publishedAt": [
-    "2026-11-27T11:25:46.022787"
-   ],
-   "referenceNumber": "PPP0Q4-2253/6186/2026-149_002",
-   "sentAt": [
-    "2026-11-27T11:25:46.022787"
-   ],
-   "tedPublished": false
   }
  ],
  "exemple_attribution": [
   {
    "cpvAdditionalCodes": [
     {
-     "code": "22113000-5",
+     "code": "03111000-2",
      "descriptions": [
       {
        "language": "FR",
-       "text": "Livres de bibliothèque"
-      },
-      {
-       "language": "DE",
-       "text": "Bücher für Bibliotheken"
-      },
-      {
-       "language": "NL",
-       "text": "Bibliotheekboeken"
+       "text": "Graines"
       },
       {
        "language": "EN",
-       "text": "Library books"
+       "text": "Seeds"
+      },
+      {
+       "language": "DE",
+       "text": "Saatgut"
+      },
+      {
+       "language": "NL",
+       "text": "Zaden"
       }
      ]
     }
    ],
    "cpvMainCode": {
-    "code": "22113000-5",
+    "code": "03111000-2",
     "descriptions": [
      {
       "language": "FR",
-      "text": "Livres de bibliothèque"
-     },
-     {
-      "language": "DE",
-      "text": "Bücher für Bibliotheken"
-     },
-     {
-      "language": "NL",
-      "text": "Bibliotheekboeken"
+      "text": "Graines"
      },
      {
       "language": "EN",
-      "text": "Library books"
+      "text": "Seeds"
+     },
+     {
+      "language": "DE",
+      "text": "Saatgut"
+     },
+     {
+      "language": "NL",
+      "text": "Zaden"
      }
     ]
    },
-   "dispatchDate": "2026-11-27",
+   "dispatchDate": "2026-11-28",
    "dossier": {
     "accreditations": {},
     "descriptions": [
      {
       "language": "NL",
-      "text": "Aankoop bibliotheekcollecties  2027-2030"
+      "text": "Het betreft de levering van verschillende zaadmengsels bestemd voor de inzaai van fauna-akkers in de domeinen van het Agentschap Natuur en Bos. De leveringen hebben betrekking op de CPV-code(s):  03111000-2 Zaden. Deze opdracht is niet opgedeeld in percelen.  Deze opdracht is de eerste en enige herhaling van de opdracht ANB-TB-TOW-2025-275 die op 23 december 2025 werd gepubliceerd door middel van de openbare procedure. Deze herhaling is voorzien door de aanbestedende overheid in toepassing van art. 42, §1, 2° van de wet van 17 juni 2016 inzake overheidsopdrachten waarbij de gunning van de herhalingen binnen een termijn van 3 jaar na de sluiting van de oorspronkelijke opdracht moet gebeuren.  Een meer uitgebreide beschrijving is opgenomen in hoofdstuk 3 van het bestek.  "
      }
     ],
     "enterpriseCategories": [],
     "legalBasis": "D24",
-    "number": "PPP097-572/6040/2026243",
+    "number": "ANB-TB-NTBW-2026-221",
     "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP097-572/6040/2026243",
+    "referenceNumber": "ANB-TB-NTBW-2026-221",
     "titles": [
      {
       "language": "NL",
-      "text": "Aankoop bibliotheekcollecties  2027-2030"
+      "text": "Levering van zaadmengsels voor de domeinen van het ANB - eerste herhaling van ANB-TB-TOW-2025-275"
      }
     ]
    },
-   "insertionDate": "2026-11-27",
+   "insertionDate": "2026-11-28",
    "lots": [
     {
      "descriptions": [
       {
        "language": "NL",
-       "text": "Boeken( jeugd en volwassenen, fictie en informatief)"
+       "text": "Het betreft de levering van verschillende zaadmengsels bestemd voor de inzaai van fauna-akkers in de domeinen van het Agentschap Natuur en Bos.  De leveringen hebben betrekking op de CPV-code(s):  03111000-2 Zaden  Een meer uitgebreide beschrijving is opgenomen in hoofdstuk 3 van het bestek. "
       }
      ],
      "titles": [
       {
        "language": "NL",
-       "text": "Boeken( jeugd en volwassenen, fictie en informatief)"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Strips(volwassen en jeugd)"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Strips(volwassen en jeugd)"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Periodieken(kranten- en tijdschriftenabonnementen)"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Periodieken(kranten- en tijdschriftenabonnementen)"
+       "text": "ANB-TB-NTBW-2026-221 - 1"
       }
      ]
     }
@@ -628,51 +607,63 @@
     "SUPPLIES"
    ],
    "noticeIds": [
-    "d38f71af-13e7-41e6-86de-28604e040001"
+    "8f714aeb-1aec-4b19-a7d4-8c34c0b8522a"
    ],
-   "noticeSubType": "E4",
+   "noticeSubType": "29",
    "nutsCodes": [
-    "BE241"
+    "BE225",
+    "BE223",
+    "BE213",
+    "BE258",
+    "BE211",
+    "BE253",
+    "BE252",
+    "BE251",
+    "BE242",
+    "BE241",
+    "BE235",
+    "BE234",
+    "BE232"
    ],
    "organisation": {
-    "organisationId": 593,
+    "organisationId": 5717,
     "organisationNames": [
      {
-      "language": "NL",
-      "text": "Affligem"
-     },
-     {
-      "language": "FR",
-      "text": "Affligem"
-     },
-     {
       "language": "DE",
-      "text": "Affligem"
+      "text": "Agentschap voor Natuur en Bos"
+     },
+     {
+      "language": "NL",
+      "text": "Agentschap voor Natuur en Bos"
      },
      {
       "language": "EN",
-      "text": "Affligem"
+      "text": "Agentschap voor Natuur en Bos"
+     },
+     {
+      "language": "FR",
+      "text": "Agentschap voor Natuur en Bos"
      }
     ],
-    "tree": "200004.200021.593"
+    "tree": "200003.200015.73.4646.5717"
    },
-   "procedureId": "bb495068-05fd-41a4-832a-a57d1d72af28",
-   "publicationDate": "2026-11-27",
+   "procedureId": "086bf8ae-99c9-4474-81e7-4a8d73822414",
+   "publicationDate": "2026-11-28",
    "publicationLanguages": [
     "NL"
    ],
    "publicationReferenceNumbersBDA": [
-    "PPP097-572/6040/2026243_002"
+    "ANB-TB-NTBW-2026-221_pub01"
    ],
    "publicationReferenceNumbersTED": [],
    "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "8bfd68d3-4bab-48f5-866c-b97d44ebfd97",
+   "publicationWorkspaceId": "201c5fc0-b410-4f2b-9d1e-03ebfa20f04b",
    "publishedAt": [
-    "2026-11-27T11:06:46.02095"
+    "2026-11-28T00:33:45.027996"
    ],
-   "referenceNumber": "PPP097-572/6040/2026243_002",
+   "referenceNumber": "ANB-TB-NTBW-2026-221_pub01",
    "sentAt": [
-    "2026-11-27T11:06:46.02095"
+    "2026-11-28T00:33:45.027996"
    ],
    "tedPublished": false
   }
