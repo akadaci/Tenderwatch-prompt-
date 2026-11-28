@@ -1,6 +1,6 @@
 {
  "meta": {
-  "totalCount": 297460
+  "totalCount": 297461
  },
  "types": [
   "ACTIVE|14|['SERVICES']",
@@ -195,6 +195,150 @@
   {
    "cpvAdditionalCodes": [
     {
+     "code": "45000000-7",
+     "descriptions": [
+      {
+       "language": "NL",
+       "text": "Bouwwerkzaamheden"
+      },
+      {
+       "language": "FR",
+       "text": "Travaux de construction"
+      },
+      {
+       "language": "EN",
+       "text": "Construction work"
+      },
+      {
+       "language": "DE",
+       "text": "Bauarbeiten"
+      }
+     ]
+    }
+   ],
+   "cpvMainCode": {
+    "code": "45000000-7",
+    "descriptions": [
+     {
+      "language": "NL",
+      "text": "Bouwwerkzaamheden"
+     },
+     {
+      "language": "FR",
+      "text": "Travaux de construction"
+     },
+     {
+      "language": "EN",
+      "text": "Construction work"
+     },
+     {
+      "language": "DE",
+      "text": "Bauarbeiten"
+     }
+    ]
+   },
+   "dispatchDate": "2026-11-28",
+   "dossier": {
+    "accreditations": {
+     "D": 1
+    },
+    "descriptions": [
+     {
+      "language": "FR",
+      "text": "Rénovation de la cour de récréation et jardin Ecole « La clairière» 161 rue du Berchon 7340 Colfontaine. Rénovation de la cour de récréation et jardin JARDINS, COURS, TERRASSES ET RAMPES D’ACCÈS "
+     }
+    ],
+    "enterpriseCategories": [
+     {
+      "categoryCode": "D",
+      "levels": [
+       1
+      ]
+     }
+    ],
+    "legalBasis": "D24",
+    "number": "260706",
+    "procurementProcedureType": "NEG_WO_CALL_24",
+    "referenceNumber": "260706",
+    "titles": [
+     {
+      "language": "FR",
+      "text": "Rénovation de la cour de récréation et jardin Ecole « La clairière»"
+     }
+    ]
+   },
+   "insertionDate": "2026-11-28",
+   "lots": [
+    {
+     "descriptions": [
+      {
+       "language": "FR",
+       "text": "Rénovation de la cour de récréation et jardin Ecole « La clairière» 161 rue du Berchon 7340 Colfontaine"
+      }
+     ],
+     "titles": [
+      {
+       "language": "FR",
+       "text": "260706 - 1"
+      }
+     ]
+    }
+   ],
+   "natures": [
+    "WORKS"
+   ],
+   "noticeIds": [
+    "f1cddad9-af1b-43eb-bf72-fcee554618ec"
+   ],
+   "noticeSubType": "E4",
+   "nutsCodes": [
+    "BE323"
+   ],
+   "organisation": {
+    "organisationId": 2849,
+    "organisationNames": [
+     {
+      "language": "EN",
+      "text": "Ecole la Clairière"
+     },
+     {
+      "language": "NL",
+      "text": "Ecole La Clairière"
+     },
+     {
+      "language": "FR",
+      "text": "Ecole La Clairière"
+     },
+     {
+      "language": "DE",
+      "text": "Ecole La Clairière"
+     }
+    ],
+    "tree": "200004.200026.2849"
+   },
+   "procedureId": "345e921d-a90c-49e1-a9c2-7f5040f89f4c",
+   "publicationDate": "2026-11-28",
+   "publicationLanguages": [
+    "FR"
+   ],
+   "publicationReferenceNumbersBDA": [
+    "260706_pub01"
+   ],
+   "publicationReferenceNumbersTED": [],
+   "publicationType": "ACTIVE",
+   "publicationWorkspaceId": "d5686a0a-ba2b-435e-922c-d96961ff8381",
+   "publishedAt": [
+    "2026-11-28T11:58:45.018567"
+   ],
+   "referenceNumber": "260706_pub01",
+   "sentAt": [
+    "2026-11-28T11:58:45.018567"
+   ],
+   "tedPublished": false
+  },
+  {
+   "cpvAdditionalCodes": [
+    {
      "code": "22113000-5",
      "descriptions": [
       {
@@ -352,169 +496,6 @@
    "referenceNumber": "PPP097-572/6040/2026243_002",
    "sentAt": [
     "2026-11-27T11:06:46.02095"
-   ],
-   "tedPublished": false
-  },
-  {
-   "cpvAdditionalCodes": [
-    {
-     "code": "22113000-5",
-     "descriptions": [
-      {
-       "language": "FR",
-       "text": "Livres de bibliothèque"
-      },
-      {
-       "language": "DE",
-       "text": "Bücher für Bibliotheken"
-      },
-      {
-       "language": "NL",
-       "text": "Bibliotheekboeken"
-      },
-      {
-       "language": "EN",
-       "text": "Library books"
-      }
-     ]
-    }
-   ],
-   "cpvMainCode": {
-    "code": "22113000-5",
-    "descriptions": [
-     {
-      "language": "FR",
-      "text": "Livres de bibliothèque"
-     },
-     {
-      "language": "DE",
-      "text": "Bücher für Bibliotheken"
-     },
-     {
-      "language": "NL",
-      "text": "Bibliotheekboeken"
-     },
-     {
-      "language": "EN",
-      "text": "Library books"
-     }
-    ]
-   },
-   "dispatchDate": "2026-11-27",
-   "dossier": {
-    "accreditations": {},
-    "descriptions": [
-     {
-      "language": "NL",
-      "text": "Aankoop bibliotheekcollecties  2027-2030"
-     }
-    ],
-    "enterpriseCategories": [],
-    "legalBasis": "D24",
-    "number": "PPP097-572/6040/2026243",
-    "procurementProcedureType": "NEG_WO_CALL_24",
-    "referenceNumber": "PPP097-572/6040/2026243",
-    "titles": [
-     {
-      "language": "NL",
-      "text": "Aankoop bibliotheekcollecties  2027-2030"
-     }
-    ]
-   },
-   "insertionDate": "2026-11-27",
-   "lots": [
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Boeken( jeugd en volwassenen, fictie en informatief)"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Boeken( jeugd en volwassenen, fictie en informatief)"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Strips(volwassen en jeugd)"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Strips(volwassen en jeugd)"
-      }
-     ]
-    },
-    {
-     "descriptions": [
-      {
-       "language": "NL",
-       "text": "Periodieken(kranten- en tijdschriftenabonnementen)"
-      }
-     ],
-     "titles": [
-      {
-       "language": "NL",
-       "text": "Periodieken(kranten- en tijdschriftenabonnementen)"
-      }
-     ]
-    }
-   ],
-   "natures": [
-    "SUPPLIES"
-   ],
-   "noticeIds": [
-    "4a3e3158-25cc-4bc8-ae67-abf5edf3f190"
-   ],
-   "noticeSubType": "E4",
-   "nutsCodes": [
-    "BE241"
-   ],
-   "organisation": {
-    "organisationId": 593,
-    "organisationNames": [
-     {
-      "language": "NL",
-      "text": "Affligem"
-     },
-     {
-      "language": "FR",
-      "text": "Affligem"
-     },
-     {
-      "language": "DE",
-      "text": "Affligem"
-     },
-     {
-      "language": "EN",
-      "text": "Affligem"
-     }
-    ],
-    "tree": "200004.200021.593"
-   },
-   "procedureId": "bb495068-05fd-41a4-832a-a57d1d72af28",
-   "publicationDate": "2026-11-27",
-   "publicationLanguages": [
-    "NL"
-   ],
-   "publicationReferenceNumbersBDA": [
-    "PPP097-572/6040/2026243_003"
-   ],
-   "publicationReferenceNumbersTED": [],
-   "publicationType": "ACTIVE",
-   "publicationWorkspaceId": "cfa3a8f0-396d-47f4-ab10-95362e1de039",
-   "publishedAt": [
-    "2026-11-27T11:07:46.028329"
-   ],
-   "referenceNumber": "PPP097-572/6040/2026243_003",
-   "sentAt": [
-    "2026-11-27T11:07:46.028329"
    ],
    "tedPublished": false
   }

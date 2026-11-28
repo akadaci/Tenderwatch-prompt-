@@ -1,12 +1,35 @@
 {
- "updated": "2026-11-28T09:01:49Z",
+ "updated": "2026-11-28T11:01:45Z",
  "source": "Bulletin des Adjudications (e-Procurement)",
  "days_back": 3,
  "received": 564,
- "kept": 263,
- "count": 3913,
- "new_ids": [],
+ "kept": 264,
+ "count": 3914,
+ "new_ids": [
+  "bda-d5686a0a-ba2b-435e-922c-d96961ff8381"
+ ],
  "records": [
+  {
+   "id": "bda-d5686a0a-ba2b-435e-922c-d96961ff8381",
+   "source_type": "BDA",
+   "nom": "Rénovation de la cour de récréation et jardin Ecole « La clairière»",
+   "lieu": "Hainaut",
+   "province": "Hainaut",
+   "mo": "Ecole La Clairière",
+   "etape": 5,
+   "sur_ted": false,
+   "source": "https://www.publicprocurement.be/publication-workspaces/d5686a0a-ba2b-435e-922c-d96961ff8381",
+   "verif": "vérifié",
+   "verif_date": "2026-11-28",
+   "preuve": "Bulletin des Adjudications, réf. 260706 (attribution, sous-type eForms E4), publié le 2026-11-28.",
+   "date_publication": "2026-11-28",
+   "cpv": "45000000",
+   "ted_ref": "",
+   "notes": "Rénovation de la cour de récréation et jardin Ecole « La clairière» 161 rue du Berchon 7340 Colfontaine. Rénovation de la cour de récréation et jardin JARDINS, COURS, TERRASSES ET RAMPES D’ACCÈS",
+   "procedure": "345e921d-a90c-49e1-a9c2-7f5040f89f4c",
+   "dossier": "260706",
+   "first_seen": "2026-11-28T11:01:45Z"
+  },
   {
    "id": "bda-6ef17c33-5bff-4aa5-8f0b-389a028fe03c",
    "source_type": "BDA",
